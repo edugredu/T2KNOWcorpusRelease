@@ -1,0 +1,114 @@
+T0	AminoAcidPeptideOrProtein 772 806	nuclear factor E2-related factor 2
+T1	ResearchActivity 887 903	western blotting
+T2	DiseaseOrSyndrome 992 1013	cognitive impairments
+T3	PharmacologicSubstance 1127 1134	calcium
+T4	Chemical 1127 1134	calcium
+T5	CellComponent 1149 1164	dendritic spine
+T6	HealthCareActivity 1440 1456	nanotherapeutics
+T7	ResearchActivity 917 931	in vivo models
+T8	CellFunction 855 864	signaling
+T9	CellFunction 1178 1194	action potential
+T10	GeneOrGenome 808 812	Nrf2
+T11	GeneOrGenome 1292 1296	Nrf2
+T12	AminoAcidPeptideOrProtein 808 812	Nrf2
+T13	AminoAcidPeptideOrProtein 1292 1296	Nrf2
+T14	BiologicallyActiveSubstance 808 812	Nrf2
+T15	BiologicallyActiveSubstance 1292 1296	Nrf2
+T16	PharmacologicSubstance 75 92	therapeutic agent
+T17	Finding 979 987	improved
+T18	BodyPartOrganOrOrganComponent 1030 1041	hippocampal
+T19	BodyPartOrganOrOrganComponent 1476 1487	hippocampal
+T20	Cell 1030 1041	hippocampal
+T21	Cell 1476 1487	hippocampal
+T22	CellComponent 651 664	intracellular
+T23	NaturalPhenomenonOrProcess 396 406	stimulated
+T24	Finding 1497 1507	morphology
+T25	TemporalConcept 165 169	date
+T26	CellComponent 1213 1226	mitochondrial
+T27	CellFunction 1042 1060	A beta aggregation
+T28	Finding 354 362	deficits
+T29	Finding 619 627	deficits
+T30	CellComponent 36 58	extracellular vesicles
+T31	DiseaseOrSyndrome 239 258	Alzheimer's disease
+T32	CellComponent 64 67	EVs
+T33	CellComponent 232 235	EVs
+T34	CellComponent 334 337	EVs
+T35	CellComponent 576 579	EVs
+T36	CellComponent 967 970	EVs
+T37	CellComponent 1350 1353	EVs
+T38	CellComponent 1423 1426	EVs
+T39	CellComponent 1588 1591	EVs
+T40	DiseaseOrSyndrome 260 262	AD
+T41	DiseaseOrSyndrome 431 433	AD
+T42	DiseaseOrSyndrome 536 538	AD
+T43	DiseaseOrSyndrome 851 853	AD
+T44	DiseaseOrSyndrome 935 937	AD
+T45	DiseaseOrSyndrome 1082 1084	AD
+T46	DiseaseOrSyndrome 1257 1259	AD
+T47	DiseaseOrSyndrome 1612 1614	AD
+T48	CellComponent 1101 1103	EV
+T49	ResearchActivity 516 521	study
+T50	Eukaryote 1085 1089	mice
+T51	Cell 0 21	Mesenchymal stem-cell
+T52	Cell 434 438	cell
+T53	Cell 527 531	cell
+T54	Cell 1361 1365	cell
+T55	Cell 345 353	neuronal
+T56	Cell 832 840	neuronal
+T57	Cell 1065 1073	neuronal
+T58	Cell 1488 1496	neuronal
+T59	ResearchActivity 493 499	models
+T60	ResearchActivity 539 545	models
+T61	ResearchActivity 1260 1266	models
+T62	HealthCareActivity 126 135	treatment
+T63	HealthCareActivity 1104 1113	treatment
+T64	HealthCareActivity 1599 1608	treatment
+T65	ResearchActivity 126 135	treatment
+T66	ResearchActivity 1104 1113	treatment
+T67	ResearchActivity 1599 1608	treatment
+T68	ResearchActivity 904 912	in vitro
+T69	AminoAcidPeptideOrProtein 388 394	A beta
+T70	AminoAcidPeptideOrProtein 1042 1048	A beta
+T71	AminoAcidPeptideOrProtein 371 378	amyloid
+T72	BiologicallyActiveSubstance 371 378	amyloid
+T73	AminoAcidPeptideOrProtein 366 378	beta-amyloid
+T74	BodyPartOrganOrOrganComponent 1242 1253	hippocampus
+T75	Cell 419 426	neurons
+T76	CellFunction 1049 1060	aggregation
+T77	ResearchActivity 1049 1060	aggregation
+T78	HealthCareActivity 971 978	therapy
+T79	TemporalConcept 162 169	To date
+T80	CellFunction 865 872	pathway
+T81	Cell 60 63	MSC
+T82	Cell 228 231	MSC
+T83	Cell 330 333	MSC
+T84	Cell 572 575	MSC
+T85	Cell 963 966	MSC
+T86	Cell 1584 1587	MSC
+T87	InjuryOrPoisoning 841 847	injury
+T88	DiseaseOrSyndrome 1420 1422	MS
+T89	ResearchActivity 1370 1383	animal models
+T90	Cell 407 426	hippocampal neurons
+T91	Finding 192 199	effects
+T92	ResearchActivity 1401 1405	data
+T93	CellFunction 855 872	signaling pathway
+T94	CellFunction 1297 1314	signaling pathway
+T95	Eukaryote 463 469	animal
+T96	CellComponent 30 58	small extracellular vesicles
+T97	AminoAcidPeptideOrProtein 379 386	protein
+T98	Finding 1165 1176	alterations
+T99	DiseaseOrSyndrome 139 160	neurological diseases
+T100	AminoAcidPeptideOrProtein 366 386	beta-amyloid protein
+T101	BiologicallyActiveSubstance 366 386	beta-amyloid protein
+T102	CellOrMolecularDysfunction 1065 1078	neuronal loss
+T103	ExperimentalModelOfDisease 1524 1538	APP / PS1 mice
+T104	Cell 1346 1349	MSC
+T105	BiologicallyActiveSubstance 1127 1134	calcium
+T106	CellFunction 1127 1147	calcium oscillations
+T107	BiologicallyActiveSubstance 772 806	nuclear factor E2-related factor 2
+T108	CellFunction 665 683	calcium transients
+T109	CellOrMolecularDysfunction 721 752	electrophysiological variations
+T110	CellOrMolecularDysfunction 685 716	neuronal morphology alterations
+T111	PathologicFunction 629 649	pathological changes
+T112	ExperimentalModelOfDisease 440 457	SHSY5Y cell lines
+T113	ExperimentalModelOfDisease 471 491	APPswe / PS1dE9 mice

@@ -1,0 +1,75 @@
+T0	Cell 180 191	multipotent
+T1	ExperimentalModelOfDisease 356 384	transgenic mouse model of AD
+T2	Cell 434 450	neural stem cell
+T3	DiseaseOrSyndrome 477 491	neurocognitive
+T4	GeneOrGenome 627 629	RO
+T5	HealthCareActivity 631 641	injections
+T6	GeneOrGenome 685 687	RO
+T7	BiologicFunction 735 745	extinction
+T8	BiologicFunction 746 766	memory consolidation
+T9	AnatomicalAbnormality 882 901	amyloid-beta plaque
+T10	PopulationGroup 949 959	age groups
+T11	BiologicFunction 1014 1025	homeostatic
+T12	AminoAcidPeptideOrProtein 1036 1074	circulating pro-inflammatory cytokines
+T13	Finding 1181 1189	improved
+T14	HealthCareActivity 1393 1416	systemic administration
+T15	BiomedicalOccupationOrDiscipline 1489 1505	neuropathologies
+T16	BodyPartOrganOrOrganComponent 532 537	brain
+T17	BodyPartOrganOrOrganComponent 1159 1164	brain
+T18	HealthCareActivity 24 33	therapies
+T19	ResearchActivity 1345 1349	data
+T20	CellComponent 138 160	extracellular vesicles
+T21	DiseaseOrSyndrome 46 65	Alzheimer's disease
+T22	Eukaryote 428 433	human
+T23	Cell 919 929	microglial
+T24	AminoAcidPeptideOrProtein 882 894	amyloid-beta
+T25	HealthCareActivity 820 829	injection
+T26	CellComponent 162 165	EVs
+T27	CellComponent 466 469	EVs
+T28	CellComponent 658 661	EVs
+T29	CellComponent 717 720	EVs
+T30	CellComponent 1438 1441	EVs
+T31	CellComponent 831 833	EV
+T32	CellComponent 1104 1106	EV
+T33	CellComponent 1223 1225	EV
+T34	DiseaseOrSyndrome 67 69	AD
+T35	DiseaseOrSyndrome 382 384	AD
+T36	DiseaseOrSyndrome 529 531	AD
+T37	DiseaseOrSyndrome 1082 1084	AD
+T38	DiseaseOrSyndrome 1156 1158	AD
+T39	DiseaseOrSyndrome 1486 1488	AD
+T40	DiseaseOrSyndrome 272 280	dementia
+T41	ResearchActivity 1207 1215	analysis
+T42	HealthCareActivity 259 268	treatment
+T43	HealthCareActivity 688 697	treatment
+T44	HealthCareActivity 834 843	treatment
+T45	HealthCareActivity 1107 1116	treatment
+T46	ResearchActivity 259 268	treatment
+T47	ResearchActivity 688 697	treatment
+T48	ResearchActivity 834 843	treatment
+T49	ResearchActivity 1107 1116	treatment
+T50	CellFunction 1366 1381	neuroprotective
+T51	CellFunction 1226 1231	cargo
+T52	Eukaryote 565 569	mice
+T53	Eukaryote 1085 1089	mice
+T54	BiologicFunction 1190 1199	cognition
+T55	PathologicFunction 1272 1289	neuroinflammation
+T56	Finding 512 521	hallmarks
+T57	Finding 902 914	accumulation
+T58	DiseaseOrSyndrome 779 786	anxiety
+T59	PathologicFunction 1048 1064	pro-inflammatory
+T60	Finding 1366 1389	neuroprotective effects
+T61	ExperimentalModelOfDisease 559 569	5xFAD mice
+T62	ExperimentalModelOfDisease 338 343	5xFAD
+T63	ExperimentalModelOfDisease 559 564	5xFAD
+T64	CellFunction 919 940	microglial activation
+T65	TemporalConcept 809 814	weeks
+T66	DiseaseOrSyndrome 290 318	neurodegenerative conditions
+T67	BiomedicalOccupationOrDiscipline 71 85	neuropathology
+T68	PathologicFunction 71 85	neuropathology
+T69	CellOrMolecularDysfunction 1135 1148	synaptic loss
+T70	Cell 208 218	stem cells
+T71	ResearchActivity 208 218	stem cells
+T72	BiologicFunction 730 734	fear
+T73	TemporalConcept 126 136	recent era
+T74	BiologicallyActiveSubstance 1036 1074	circulating pro-inflammatory cytokines

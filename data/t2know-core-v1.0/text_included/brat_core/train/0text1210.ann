@@ -1,0 +1,106 @@
+T0	AminoAcidPeptideOrProtein 320 328	cytokine
+T1	BiologicallyActiveSubstance 320 328	cytokine
+T2	AminoAcidPeptideOrProtein 352 355	TNF
+T3	GeneOrGenome 352 355	TNF
+T4	BiologicallyActiveSubstance 352 355	TNF
+T5	AminoAcidPeptideOrProtein 470 473	TNF
+T6	GeneOrGenome 470 473	TNF
+T7	BiologicallyActiveSubstance 470 473	TNF
+T8	CellComponent 475 488	transmembrane
+T9	AminoAcidPeptideOrProtein 537 542	TNFR2
+T10	GeneOrGenome 537 542	TNFR2
+T11	AminoAcidPeptideOrProtein 654 659	TNFR1
+T12	GeneOrGenome 654 659	TNFR1
+T13	BiologicallyActiveSubstance 654 659	TNFR1
+T14	AminoAcidPeptideOrProtein 851 856	TNFR2
+T15	GeneOrGenome 851 856	TNFR2
+T16	AminoAcidPeptideOrProtein 955 958	TNF
+T17	BiologicallyActiveSubstance 955 958	TNF
+T18	ResearchActivity 976 990	RNA sequencing
+T19	CellFunction 1058 1067	metabolic
+T20	CellFunction 1193 1214	cell-cell interaction
+T21	AminoAcidPeptideOrProtein 1418 1423	TNFR2
+T22	GeneOrGenome 1418 1423	TNFR2
+T23	AminoAcidPeptideOrProtein 1684 1689	TNFR2
+T24	GeneOrGenome 1684 1689	TNFR2
+T25	AminoAcidPeptideOrProtein 1749 1754	TNFR2
+T26	GeneOrGenome 1749 1754	TNFR2
+T27	BiologicFunction 1016 1033	immune activation
+T28	Cell 260 264	OPCs
+T29	Cell 796 800	OPCs
+T30	Cell 920 924	OPCs
+T31	Cell 1037 1041	OPCs
+T32	Cell 1223 1227	OPCs
+T33	Cell 1280 1284	OPCs
+T34	Cell 1493 1497	OPCs
+T35	Cell 1834 1837	OPC
+T36	Cell 227 258	oligodendrocyte precursor cells
+T37	CellFunction 1597 1610	differentiate
+T38	DiseaseOrSyndrome 1861 1882	demyelinating disease
+T39	InjuryOrPoisoning 296 302	lesion
+T40	CellFunction 857 866	signaling
+T41	CellFunction 1121 1136	differentiation
+T42	CellFunction 1103 1116	proliferation
+T43	PathologicFunction 804 816	inflammatory
+T44	PathologicFunction 999 1011	inflammatory
+T45	CellComponent 501 508	soluble
+T46	PatientOrDisabledGroup 146 154	patients
+T47	BodyPartOrganOrOrganComponent 81 84	CNS
+T48	BodyPartOrganOrOrganComponent 387 390	CNS
+T49	CellFunction 525 532	signals
+T50	CellFunction 628 635	signals
+T51	CellFunction 1784 1791	signals
+T52	PathologicFunction 67 79	inflammation
+T53	HealthCareActivity 898 907	treatment
+T54	ResearchActivity 898 907	treatment
+T55	Finding 186 194	capacity
+T56	Finding 1569 1577	capacity
+T57	Finding 1849 1857	capacity
+T58	OrganismAttribute 1535 1544	phenotype
+T59	Cell 1232 1241	microglia
+T60	Cell 1342 1351	microglia
+T61	CellOrMolecularDysfunction 116 133	neurodegeneration
+T62	TemporalConcept 104 115	progressive
+T63	PathologicFunction 1245 1262	neuroinflammatory
+T64	Cell 774 782	cellular
+T65	PathologicFunction 426 441	pathophysiology
+T66	BiomedicalOccupationOrDiscipline 426 441	pathophysiology
+T67	CellFunction 172 185	remyelination
+T68	CellFunction 598 611	remyelination
+T69	DiseaseOrSyndrome 20 22	MS
+T70	DiseaseOrSyndrome 143 145	MS
+T71	DiseaseOrSyndrome 293 295	MS
+T72	DiseaseOrSyndrome 375 377	MS
+T73	DiseaseOrSyndrome 750 752	MS
+T74	PathologicFunction 85 98	demyelination
+T75	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T76	ResearchActivity 911 919	cultured
+T77	Finding 579 586	effects
+T78	ResearchActivity 1450 1454	data
+T79	PathologicFunction 1469 1486	neuroinflammation
+T80	AminoAcidPeptideOrProtein 1301 1311	chemokines
+T81	BiologicallyActiveSubstance 1301 1311	chemokines
+T82	InjuryOrPoisoning 670 683	neurotoxicity
+T83	BiologicFunction 732 738	repair
+T84	BiologicFunction 1633 1639	repair
+T85	HealthCareActivity 732 738	repair
+T86	HealthCareActivity 1633 1639	repair
+T87	PharmacologicSubstance 1518 1534	immunomodulatory
+T88	BiologicFunction 1518 1534	immunomodulatory
+T89	HealthCareActivity 1518 1534	immunomodulatory
+T90	AminoAcidPeptideOrProtein 329 350	tumor necrosis factor
+T91	BiologicallyActiveSubstance 329 350	tumor necrosis factor
+T92	DiseaseOrSyndrome 29 49	neuroimmune disorder
+T93	Finding 214 221	changes
+T94	NaturalPhenomenonOrProcess 303 314	environment
+T95	BiologicallyActiveSubstance 537 542	TNFR2
+T96	PathologicFunction 732 746	repair failure
+T97	BiologicallyActiveSubstance 851 856	TNFR2
+T98	AminoAcidPeptideOrProtein 930 939	IFN gamma
+T99	BiologicallyActiveSubstance 930 939	IFN gamma
+T100	AminoAcidPeptideOrProtein 941 949	IL1 beta
+T101	BiologicallyActiveSubstance 941 949	IL1 beta
+T102	Finding 1068 1075	changes
+T103	BiologicallyActiveSubstance 1418 1423	TNFR2
+T104	BiologicallyActiveSubstance 1684 1689	TNFR2
+T105	BiologicallyActiveSubstance 1749 1754	TNFR2

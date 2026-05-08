@@ -1,0 +1,47 @@
+T0	DiseaseOrSyndrome 23 37	mental illness
+T1	Chemical 315 324	monoamine
+T2	BodyPartOrganOrOrganComponent 337 372	hypothalamic-pituitary-adrenal axis
+T3	Cell 661 676	Oligodendrocyte
+T4	BiologicFunction 941 956	neuroplasticity
+T5	DiseaseOrSyndrome 1012 1033	psychiatric disorders
+T6	CellComponent 871 876	axons
+T7	CellComponent 889 894	axons
+T8	Cell 976 987	glial cells
+T9	BiologicFunction 562 575	understanding
+T10	Cell 746 762	oligodendrocytes
+T11	Cell 718 734	progenitor cells
+T12	BiologicFunction 443 455	neurogenesis
+T13	DiseaseOrSyndrome 579 589	depression
+T14	DiseaseOrSyndrome 1042 1052	depression
+T15	DiseaseOrSyndrome 1193 1203	depression
+T16	DiseaseOrSyndrome 1290 1300	depression
+T17	Cell 739 762	mature oligodendrocytes
+T18	CellComponent 821 835	myelin sheaths
+T19	Cell 702 734	oligodendrocyte progenitor cells
+T20	Cell 976 981	glial
+T21	TemporalConcept 739 745	mature
+T22	ResearchActivity 494 502	Research
+T23	BodyPartOrganOrOrganComponent 399 412	immune system
+T24	DiseaseOrSyndrome 0 10	Depression
+T25	TemporalConcept 89 96	Decades
+T26	ResearchActivity 1062 1068	review
+T27	HealthCareActivity 1062 1068	review
+T28	PathologicFunction 220 232	pathogenesis
+T29	PathologicFunction 647 659	pathogenesis
+T30	PathologicFunction 1177 1189	pathogenesis
+T31	Cell 661 690	Oligodendrocyte lineage cells
+T32	Cell 1122 1151	oligodendrocyte lineage cells
+T33	Cell 1255 1260	cells
+T34	HealthCareActivity 139 148	therapies
+T35	ResearchActivity 244 248	data
+T36	TemporalConcept 1083 1089	recent
+T37	ResearchActivity 100 113	investigation
+T38	PopulationGroup 71 77	people
+T39	BodyPartOrganOrOrganComponent 821 827	myelin
+T40	BodyPartOrganOrOrganComponent 848 870	central nervous system
+T41	SignOrSymptom 127 138	symptomatic
+T42	PathologicFunction 382 394	inflammation
+T43	TemporalConcept 554 561	current
+T44	DiseaseOrSyndrome 158 177	disabling condition
+T45	PathologicFunction 399 424	immune system alterations
+T46	CellOrMolecularDysfunction 426 455	abnormalities of neurogenesis

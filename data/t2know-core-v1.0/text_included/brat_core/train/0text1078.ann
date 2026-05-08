@@ -1,0 +1,164 @@
+T0	SignOrSymptom 456 472	prodromal stages
+T1	CellComponent 766 770	pEVs
+T2	CellComponent 1059 1063	pEVs
+T3	CellComponent 1222 1226	pEVs
+T4	DiseaseOrSyndrome 1264 1275	amyloidosis
+T5	GeneOrGenome 1264 1275	amyloidosis
+T6	BodyPartOrganOrOrganComponent 1315 1330	brain ventricle
+T7	HealthCareActivity 1375 1379	MMSE
+T8	Finding 1380 1386	scores
+T9	CellComponent 1609 1613	pEVs
+T10	CellComponent 1901 1905	pEVs
+T11	CellComponent 2035 2039	pEVs
+T12	CellComponent 2141 2145	pEVs
+T13	CellComponent 2312 2316	pEVs
+T14	CellComponent 2457 2461	pEVs
+T15	DiseaseOrSyndrome 268 271	MCI
+T16	DiseaseOrSyndrome 436 439	MCI
+T17	DiseaseOrSyndrome 997 1000	MCI
+T18	BiomedicalOccupationOrDiscipline 2011 2020	neurology
+T19	TemporalConcept 7 22	clinical course
+T20	SignOrSymptom 2346 2351	signs
+T21	TemporalConcept 1851 1859	earliest
+T22	HealthCareActivity 511 521	clinicians
+T23	BiologicFunction 2436 2452	cognitive status
+T24	DiseaseOrSyndrome 109 121	prodromal AD
+T25	DiseaseOrSyndrome 919 931	prodromal AD
+T26	TemporalConcept 1663 1670	initial
+T27	HealthCareActivity 2227 2230	MRI
+T28	TemporalConcept 77 82	phase
+T29	TemporalConcept 122 127	phase
+T30	HealthCareActivity 1210 1218	measured
+T31	TemporalConcept 16 22	course
+T32	HealthCareActivity 410 432	differential diagnosis
+T33	ResearchActivity 899 908	signature
+T34	ResearchActivity 1754 1763	signature
+T35	PopulationGroup 975 981	cohort
+T36	ResearchActivity 948 969	cross-sectional study
+T37	CellComponent 742 764	extracellular vesicles
+T38	DiseaseOrSyndrome 26 45	Alzheimer's disease
+T39	DiseaseOrSyndrome 47 49	AD
+T40	DiseaseOrSyndrome 119 121	AD
+T41	DiseaseOrSyndrome 312 314	AD
+T42	DiseaseOrSyndrome 849 851	AD
+T43	DiseaseOrSyndrome 929 931	AD
+T44	DiseaseOrSyndrome 1694 1696	AD
+T45	DiseaseOrSyndrome 1767 1769	AD
+T46	DiseaseOrSyndrome 1870 1872	AD
+T47	PatientOrDisabledGroup 1009 1017	patients
+T48	PatientOrDisabledGroup 1238 1246	patients
+T49	PatientOrDisabledGroup 1514 1522	patients
+T50	PatientOrDisabledGroup 2059 2067	patients
+T51	PatientOrDisabledGroup 2266 2274	patients
+T52	PatientOrDisabledGroup 2520 2528	patients
+T53	DiseaseOrSyndrome 68 76	dementia
+T54	BodyPartOrganOrOrganComponent 735 741	plasma
+T55	BodyPartOrganOrOrganComponent 1543 1549	plasma
+T56	BodyPartOrganOrOrganComponent 1781 1787	plasma
+T57	BodyPartOrganOrOrganComponent 1086 1089	CSF
+T58	BodyPartOrganOrOrganComponent 1292 1295	CSF
+T59	BodyPartOrganOrOrganComponent 1536 1539	CSF
+T60	BodyPartOrganOrOrganComponent 2113 2116	CSF
+T61	BodyPartOrganOrOrganComponent 2150 2153	CSF
+T62	BiologicFunction 51 62	development
+T63	BiologicFunction 852 863	development
+T64	BiologicFunction 1873 1884	development
+T65	CellFunction 51 62	development
+T66	CellFunction 852 863	development
+T67	CellFunction 1873 1884	development
+T68	AminoAcidPeptideOrProtein 206 209	tau
+T69	AminoAcidPeptideOrProtein 1296 1306	p-tau(181)
+T70	BodyPartOrganOrOrganComponent 1347 1352	brain
+T71	ClinicalAttribute 529 539	biomarkers
+T72	ClinicalAttribute 814 824	biomarkers
+T73	ClinicalAttribute 1031 1041	biomarkers
+T74	ClinicalAttribute 1808 1818	biomarkers
+T75	ClinicalAttribute 2317 2327	biomarkers
+T76	ClinicalAttribute 2462 2472	biomarkers
+T77	BiologicallyActiveSubstance 206 209	tau
+T78	BodyPartOrganOrOrganComponent 1096 1110	plasma samples
+T79	HealthCareActivity 423 432	diagnosis
+T80	BodyPartOrganOrOrganComponent 1065 1084	cerebrospinal fluid
+T81	Cell 219 227	neuronal
+T82	Cell 340 348	neuronal
+T83	HealthCareActivity 496 506	challenges
+T84	CellComponent 880 887	exosome
+T85	PathologicFunction 2355 2367	inflammation
+T86	TemporalConcept 991 996	onset
+T87	ResearchActivity 1405 1417	correlations
+T88	HealthCareActivity 699 716	clinical practice
+T89	ResearchActivity 640 648	analyzed
+T90	AminoAcidPeptideOrProtein 1550 1558	proteome
+T91	AminoAcidPeptideOrProtein 1906 1914	proteome
+T92	BiologicallyActiveSubstance 1550 1558	proteome
+T93	BiologicallyActiveSubstance 1906 1914	proteome
+T94	OrganismAttribute 2216 2219	age
+T95	AminoAcidPeptideOrProtein 1201 1209	proteins
+T96	AminoAcidPeptideOrProtein 1426 1434	proteins
+T97	AminoAcidPeptideOrProtein 2021 2029	proteins
+T98	AminoAcidPeptideOrProtein 2165 2173	proteins
+T99	AminoAcidPeptideOrProtein 204 209	p-tau
+T100	BiologicallyActiveSubstance 204 209	p-tau
+T101	BiologicallyActiveSubstance 1296 1306	p-tau(181)
+T102	Finding 1930 1951	molecular differences
+T103	TemporalConcept 608 615	current
+T104	AminoAcidPeptideOrProtein 193 199	A beta
+T105	AminoAcidPeptideOrProtein 1489 1495	A beta
+T106	AminoAcidPeptideOrProtein 1504 1510	A beta
+T107	AminoAcidPeptideOrProtein 1966 1972	A beta
+T108	AminoAcidPeptideOrProtein 1980 1986	A beta
+T109	AminoAcidPeptideOrProtein 2049 2055	A beta
+T110	AminoAcidPeptideOrProtein 2256 2262	A beta
+T111	AminoAcidPeptideOrProtein 2394 2400	A beta
+T112	AminoAcidPeptideOrProtein 2496 2502	A beta
+T113	AminoAcidPeptideOrProtein 2510 2516	A beta
+T114	Finding 241 245	mild
+T115	PopulationGroup 1835 1843	subjects
+T116	PopulationGroup 1990 1998	subjects
+T117	DiseaseOrSyndrome 246 266	cognitive impairment
+T118	PopulationGroup 2404 2415	individuals
+T119	BodyPartOrganOrOrganComponent 2221 2226	Brain
+T120	BodyPartOrganOrOrganComponent 523 528	Blood
+T121	Finding 2446 2452	status
+T122	DiseaseOrSyndrome 2371 2384	brain atrophy
+T123	DiseaseOrSyndrome 241 266	mild cognitive impairment
+T124	InjuryOrPoisoning 228 234	injury
+T125	TemporalConcept 466 472	stages
+T126	TemporalConcept 839 845	stages
+T127	TemporalConcept 1860 1866	stages
+T128	ClinicalAttribute 1798 1818	potential biomarkers
+T129	HealthCareActivity 325 334	diagnosed
+T130	ResearchActivity 663 667	data
+T131	CellComponent 1698 1718	Circulating exosomes
+T132	HealthCareActivity 580 589	screening
+T133	ResearchActivity 580 589	screening
+T134	AminoAcidPeptideOrProtein 2296 2303	protein
+T135	TemporalConcept 833 845	early stages
+T136	BiomedicalOccupationOrDiscipline 888 898	proteomics
+T137	BiomedicalOccupationOrDiscipline 1156 1166	proteomics
+T138	ClinicalAttribute 273 288	clinical status
+T139	InjuryOrPoisoning 349 355	damage
+T140	TemporalConcept 985 990	early
+T141	DiseaseOrSyndrome 1002 1007	EOMCI
+T142	ResearchActivity 1117 1166	multiplex PEA technology of Olink((c)) proteomics
+T143	ClinicalAttribute 1292 1313	CSF p-tau(181) levels
+T144	ClinicalAttribute 1321 1337	ventricle volume
+T145	Finding 1338 1345	changes
+T146	ClinicalAttribute 1347 1369	brain hyperintensities
+T147	CellComponent 1421 1425	pEVs
+T148	DiseaseOrSyndrome 1483 1488	EOMCI
+T149	Finding 1671 1690	amyloidotic changes
+T150	PathologicFunction 1733 1753	pathological protein
+T151	TemporalConcept 1924 1929	early
+T152	DiseaseOrSyndrome 1960 1965	EOMCI
+T153	ResearchActivity 2000 2010	Olink((c))
+T154	DiseaseOrSyndrome 2043 2048	EOMCI
+T155	Finding 2080 2107	strong negative correlation
+T156	ClinicalAttribute 2113 2125	CSF p-tau181
+T157	ResearchActivity 2154 2164	Olink((c))
+T158	ClinicalAttribute 2190 2211	CSF p-tau(181) levels
+T159	DiseaseOrSyndrome 2250 2255	EOMCI
+T160	TemporalConcept 2340 2345	early
+T161	DiseaseOrSyndrome 2388 2393	EOMCI
+T162	DiseaseOrSyndrome 2490 2495	EOMCI
+T163	DiseaseOrSyndrome 1232 1237	EOMCI

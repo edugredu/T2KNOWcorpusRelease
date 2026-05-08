@@ -1,0 +1,147 @@
+T0	GeneOrGenome 40 44	PAD2
+T1	CellFunction 59 88	post-translational conversion
+T2	AminoAcidPeptideOrProtein 92 109	arginine residues
+T3	AminoAcidPeptideOrProtein 125 136	citrullines
+T4	BiologicallyActiveSubstance 125 136	citrullines
+T5	CellFunction 211 224	PAD2 activity
+T6	DiseaseOrSyndrome 276 295	neurologic diseases
+T7	BiologicallyActiveSubstance 429 433	PAD2
+T8	GeneOrGenome 440 445	PADI2
+T9	AminoAcidPeptideOrProtein 440 445	PADI2
+T10	DiseaseOrSyndrome 578 597	neurologic diseases
+T11	DiseaseOrSyndrome 725 728	NMO
+T12	DiseaseOrSyndrome 776 780	PTLD
+T13	GeneOrGenome 819 824	PADI2
+T14	AminoAcidPeptideOrProtein 819 824	PADI2
+T15	ResearchActivity 1042 1076	Clinical and demographic variables
+T16	ResearchActivity 1123 1133	positivity
+T17	DiseaseOrSyndrome 1149 1153	PTLD
+T18	ResearchActivity 1504 1514	positivity
+T19	DiseaseOrSyndrome 1548 1552	PTLD
+T20	AminoAcidPeptideOrProtein 1630 1640	antibodies
+T21	BiologicallyActiveSubstance 1630 1640	antibodies
+T22	DiseaseOrSyndrome 1662 1665	NMO
+T23	DiseaseOrSyndrome 2018 2022	PTLD
+T24	Finding 2029 2048	difficulty focusing
+T25	DiseaseOrSyndrome 2333 2337	PTLD
+T26	GeneOrGenome 2473 2478	PADI2
+T27	AminoAcidPeptideOrProtein 2473 2478	PADI2
+T28	ResearchActivity 903 929	single cell RNA sequencing
+T29	PopulationGroup 860 871	individuals
+T30	TemporalConcept 1849 1858	relapsing
+T31	Finding 2090 2097	finding
+T32	DiseaseOrSyndrome 703 723	neuromyelitis optica
+T33	SignOrSymptom 2066 2073	fatigue
+T34	Cell 1278 1294	oligodendrocytes
+T35	Cell 1410 1441	oligodendrocyte precursor cells
+T36	DiseaseOrSyndrome 307 325	multiple sclerosis
+T37	ClinicalAttribute 1207 1223	disease severity
+T38	ClinicalAttribute 1744 1760	disease severity
+T39	Cell 1379 1390	macrophages
+T40	BiologicFunction 416 424	encoding
+T41	PopulationGroup 798 806	controls
+T42	PopulationGroup 1603 1611	controls
+T43	PopulationGroup 627 639	participants
+T44	PopulationGroup 1006 1018	participants
+T45	OrganismAttribute 790 797	healthy
+T46	OrganismAttribute 852 859	healthy
+T47	OrganismAttribute 1595 1602	healthy
+T48	PatientOrDisabledGroup 556 564	patients
+T49	PatientOrDisabledGroup 1666 1674	patients
+T50	PatientOrDisabledGroup 2312 2320	patients
+T51	BodyPartOrganOrOrganComponent 168 190	central nervous system
+T52	ResearchActivity 340 345	study
+T53	ResearchActivity 621 626	study
+T54	ResearchActivity 662 667	study
+T55	ResearchActivity 1000 1005	study
+T56	BodyPartOrganOrOrganComponent 192 195	CNS
+T57	BodyPartOrganOrOrganComponent 460 463	CNS
+T58	BodyPartOrganOrOrganComponent 843 846	CNS
+T59	BodyPartOrganOrOrganComponent 2222 2225	CNS
+T60	AminoAcidPeptideOrProtein 1780 1783	tau
+T61	AminoAcidPeptideOrProtein 1979 1982	tau
+T62	Eukaryote 454 459	human
+T63	BiologicallyActiveSubstance 1780 1783	tau
+T64	BiologicallyActiveSubstance 1979 1982	tau
+T65	Cell 2209 2214	cells
+T66	BodyPartOrganOrOrganComponent 991 996	serum
+T67	Finding 2138 2144	effect
+T68	PathologicFunction 2398 2410	inflammation
+T69	CellFunction 393 403	expression
+T70	CellFunction 825 835	expression
+T71	CellFunction 1252 1262	expression
+T72	CellFunction 2162 2172	expression
+T73	CellFunction 2479 2489	expression
+T74	ResearchActivity 1165 1177	correlations
+T75	ResearchActivity 939 947	analyzed
+T76	AminoAcidPeptideOrProtein 113 121	proteins
+T77	Cell 1369 1378	microglia
+T78	BodyPartOrganOrOrganComponent 892 898	tissue
+T79	BodyPartOrganOrOrganComponent 2504 2510	tissue
+T80	PathologicFunction 252 264	pathogenesis
+T81	SignOrSymptom 2289 2297	symptoms
+T82	PopulationGroup 672 678	people
+T83	PopulationGroup 691 697	people
+T84	PopulationGroup 735 741	people
+T85	PopulationGroup 1764 1770	people
+T86	PopulationGroup 2006 2012	people
+T87	Finding 2468 2472	high
+T88	ClinicalAttribute 1215 1223	severity
+T89	ClinicalAttribute 1752 1760	severity
+T90	Finding 1215 1223	severity
+T91	Finding 1752 1760	severity
+T92	Cell 371 379	cellular
+T93	Cell 1343 1353	astrocytes
+T94	DiseaseOrSyndrome 327 329	MS
+T95	DiseaseOrSyndrome 684 686	MS
+T96	DiseaseOrSyndrome 1142 1144	MS
+T97	DiseaseOrSyndrome 1522 1524	MS
+T98	DiseaseOrSyndrome 1776 1778	MS
+T99	DiseaseOrSyndrome 2326 2328	MS
+T100	CellFunction 151 160	expressed
+T101	Finding 2282 2288	severe
+T102	BiologicFunction 2050 2056	memory
+T103	ResearchActivity 1035 1040	ELISA
+T104	ResearchActivity 873 891;930 934	publicly available data
+T105	ResearchActivity 2345 2349	data
+T106	GeneOrGenome 411 415	gene
+T107	Finding 2050 2056	memory
+T108	PharmacologicSubstance 125 136	citrullines
+T109	AminoAcidPeptideOrProtein 10 38	Peptidylarginine deiminase 2
+T110	BiologicallyActiveSubstance 10 38	Peptidylarginine deiminase 2
+T111	BiologicallyActiveSubstance 211 215	PAD2
+T112	AminoAcidPeptideOrProtein 211 215	PAD2
+T113	AminoAcidPeptideOrProtein 429 433	PAD2
+T114	BiologicallyActiveSubstance 440 445	PADI2
+T115	ResearchActivity 470 497	publicly available datasets
+T116	AminoAcidPeptideOrProtein 519 539	anti-PAD2 antibodies
+T117	BiologicallyActiveSubstance 519 539	anti-PAD2 antibodies
+T118	DiseaseOrSyndrome 747 774	post-treatment Lyme disease
+T119	BiologicallyActiveSubstance 819 824	PADI2
+T120	AminoAcidPeptideOrProtein 949 969	Anti-PAD2 antibodies
+T121	BiologicallyActiveSubstance 949 969	Anti-PAD2 antibodies
+T122	AminoAcidPeptideOrProtein 1104 1122	anti-PAD2 antibody
+T123	BiologicallyActiveSubstance 1104 1122	anti-PAD2 antibody
+T124	AminoAcidPeptideOrProtein 1246 1251	PADI2
+T125	BiologicallyActiveSubstance 1246 1251	PADI2
+T126	GeneOrGenome 1246 1251	PADI2
+T127	AminoAcidPeptideOrProtein 1494 1503	anti-PAD2
+T128	AminoAcidPeptideOrProtein 1494 1503	anti-PAD2
+T129	ResearchActivity 1688 1714	modest inverse correlation
+T130	ResearchActivity 1957 1977	neurocognitive score
+T131	Finding 2057 2064	changes
+T132	AminoAcidPeptideOrProtein 2156 2161	PADI2
+T133	GeneOrGenome 2156 2161	PADI2
+T134	BiologicallyActiveSubstance 2156 2161	PADI2
+T135	AminoAcidPeptideOrProtein 2231 2255	anti-PAD2 autoantibodies
+T136	BiologicallyActiveSubstance 2231 2255	anti-PAD2 autoantibodies
+T137	AminoAcidPeptideOrProtein 2363 2383	anti-PAD2 antibodies
+T138	BiologicallyActiveSubstance 2363 2383	anti-PAD2 antibodies
+T139	Finding 2436 2446	etiologies
+T140	BiologicallyActiveSubstance 2473 2478	PADI2
+T141	ClinicalAttribute 1723 1739	anti-PAD2 levels
+T142	ClinicalAttribute 1936 1952	anti-PAD2 levels
+T143	DiseaseOrSyndrome 1849 1876	relapsing-remitting disease
+T144	ClinicalAttribute 1186 1202	anti-PAD2 levels
+T145	AminoAcidPeptideOrProtein 1025 1034	anti-PAD2
+T146	BiologicallyActiveSubstance 1025 1034	anti-PAD2

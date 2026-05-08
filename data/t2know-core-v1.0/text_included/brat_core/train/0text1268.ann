@@ -1,0 +1,124 @@
+T0	Cell 56 60	OPCS
+T1	Chemical 369 378	Serotonin
+T2	BiologicallyActiveSubstance 369 378	Serotonin
+T3	Chemical 380 399	5-hydroxytryptamine
+T4	BiologicallyActiveSubstance 380 399	5-hydroxytryptamine
+T5	Chemical 401 405	5-HT
+T6	Chemical 519 523	5-HT
+T7	HealthCareActivity 572 582	documented
+T8	Chemical 603 607	5-HT
+T9	Cell 691 745	immortalized human oligodendrocyte precursor cell line
+T10	BiologicFunction 755 764	Migration
+T11	Finding 755 764	Migration
+T12	Finding 765 773	blockage
+T13	Chemical 858 863	Vit C
+T14	AminoAcidPeptideOrProtein 868 894	Cu-Zn superoxide dismutase
+T15	Chemical 930 934	5-HT
+T16	CellFunction 938 952	cell migration
+T17	Chemical 954 958	5-HT
+T18	AminoAcidPeptideOrProtein 1067 1073	Olig-2
+T19	AminoAcidPeptideOrProtein 1078 1094	protein kinase C
+T20	BiologicallyActiveSubstance 1078 1094	protein kinase C
+T21	AminoAcidPeptideOrProtein 1096 1099	PKC
+T22	AminoAcidPeptideOrProtein 1135 1138	PKC
+T23	BiologicallyActiveSubstance 1135 1138	PKC
+T24	Chemical 1181 1185	5-HT
+T25	Chemical 1242 1246	5-HT
+T26	Chemical 1264 1268	5-HT
+T27	Chemical 1353 1357	5-HT
+T28	CellFunction 1394 1414	antioxidant activity
+T29	Chemical 1489 1493	5-HT
+T30	DiseaseOrSyndrome 1599 1632	autoimmune demyelinating diseases
+T31	OrganismAttribute 1017 1027	phenotypic
+T32	CellComponent 527 539	mitochondria
+T33	CellComponent 1368 1380	mitochondria
+T34	PharmacologicSubstance 836 848	antioxidants
+T35	BiologicFunction 1512 1529	energy metabolism
+T36	Finding 1716 1722	attack
+T37	CellFunction 1328 1342	ROS production
+T38	BiologicallyActiveSubstance 1122 1131	inhibitor
+T39	PharmacologicSubstance 1122 1131	inhibitor
+T40	Chemical 1122 1131	inhibitor
+T41	AminoAcidPeptideOrProtein 1058 1061	MBP
+T42	BiologicallyActiveSubstance 1058 1061	MBP
+T43	GeneOrGenome 1058 1061	MBP
+T44	OrganismAttribute 805 812	species
+T45	BiologicallyActiveSubstance 789 812	reactive oxygen species
+T46	Chemical 789 812	reactive oxygen species
+T47	BiologicallyActiveSubstance 814 817	ROS
+T48	BiologicallyActiveSubstance 1328 1331	ROS
+T49	Chemical 814 817	ROS
+T50	Chemical 1328 1331	ROS
+T51	Cell 1666 1682	oligodendrocytes
+T52	Cell 273 277	OPCs
+T53	Cell 1306 1310	OPCs
+T54	Cell 1533 1537	OPCs
+T55	Cell 968 971	OPC
+T56	DiseaseOrSyndrome 249 271	demyelinating diseases
+T57	CellFunction 443 454	myelination
+T58	BiologicFunction 1284 1294	maturation
+T59	BiologicFunction 1497 1507	maturation
+T60	CellFunction 99 112	differentiate
+T61	Cell 656 661	cells
+T62	BodyPartOrganOrOrganComponent 192 198	myelin
+T63	BiologicFunction 427 438	development
+T64	BiologicFunction 1565 1576	development
+T65	CellFunction 427 438	development
+T66	CellFunction 1565 1576	development
+T67	BodyPartOrganOrOrganComponent 17 20	CNS
+T68	InjuryOrPoisoning 299 305	lesion
+T69	Cell 118 141	mature oligodendrocytes
+T70	Cell 22 54	oligodendrocyte progenitor cells
+T71	CellFunction 331 346	differentiation
+T72	CellFunction 669 684	differentiation
+T73	BiologicallyActiveSubstance 908 918	inhibitory
+T74	Chemical 1199 1209	inhibitors
+T75	PharmacologicSubstance 1199 1209	inhibitors
+T76	BiologicallyActiveSubstance 1199 1209	inhibitors
+T77	Cell 143 146	OLs
+T78	Cell 422 425	OLs
+T79	Cell 1014 1016	OL
+T80	ResearchActivity 588 592	data
+T81	CellFunction 631 644	proliferation
+T82	CellFunction 986 999	proliferation
+T83	CellFunction 617 626	migration
+T84	CellFunction 972 981	migration
+T85	Cell 710 740	oligodendrocyte precursor cell
+T87	AminoAcidPeptideOrProtein 1036 1056	myelin basic protein
+T88	BiologicallyActiveSubstance 1036 1056	myelin basic protein
+T89	Cell 227 234	neurons
+T90	CellFunction 471 491	molecular mechanisms
+T91	CellFunction 1442 1462	molecular mechanisms
+T92	Eukaryote 704 709	human
+T93	NaturalPhenomenonOrProcess 209 215	energy
+T94	CellFunction 351 367	myelin synthesis
+T95	ClinicalAttribute 1028 1035	markers
+T96	PathologicFunction 919 929	effects of
+T97	HealthCareActivity 1584 1594	treatments
+T98	ResearchActivity 1584 1594	treatments
+T99	PopulationGroup 11 16	adult
+T100	DiseaseOrSyndrome 1641 1659	Multiple Sclerosis
+T101	TemporalConcept 819 829	generation
+T102	BiologicallyActiveSubstance 401 405	5-HT
+T103	BiologicallyActiveSubstance 519 523	5-HT
+T104	BiologicallyActiveSubstance 603 607	5-HT
+T105	BiologicallyActiveSubstance 930 934	5-HT
+T106	BiologicallyActiveSubstance 954 958	5-HT
+T107	BiologicallyActiveSubstance 1181 1185	5-HT
+T108	BiologicallyActiveSubstance 1242 1246	5-HT
+T109	BiologicallyActiveSubstance 1264 1268	5-HT
+T110	BiologicallyActiveSubstance 1353 1357	5-HT
+T111	BiologicallyActiveSubstance 1489 1493	5-HT
+T112	BiologicFunction 1709 1722	immune attack
+T113	Chemical 1140 1161	bis-indolyl-maleimide
+T114	PharmacologicSubstance 1140 1161	bis-indolyl-maleimide
+T115	PharmacologicSubstance 1163 1166	BIM
+T116	Chemical 1163 1166	BIM
+T117	BiologicallyActiveSubstance 1096 1099	PKC
+T118	BiologicallyActiveSubstance 1067 1073	Olig-2
+T119	BiologicallyActiveSubstance 858 863	Vit C
+T120	Cell 747 753	M03-13
+T121	AminoAcidPeptideOrProtein 1195 1198	NOX
+T122	BiologicallyActiveSubstance 1195 1198	NOX
+T123	AminoAcidPeptideOrProtein 1314 1317	NOX
+T124	BiologicallyActiveSubstance 1314 1317	NOX

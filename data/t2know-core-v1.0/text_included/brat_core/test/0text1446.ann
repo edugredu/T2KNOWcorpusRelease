@@ -1,0 +1,88 @@
+T0	DiseaseOrSyndrome 0 17	Vascular dementia
+T1	GeneOrGenome 244 249	Genes
+T2	CellFunction 386 421	protein-protein interaction network
+T3	GeneOrGenome 750 755	REPS1
+T4	GeneOrGenome 797 802	REPS1
+T5	CellFunction 837 856	pyruvate metabolism
+T6	CellFunction 875 896	Ras signaling pathway
+T7	CellFunction 1013 1031	regulatory network
+T8	GeneOrGenome 1033 1038	REPS1
+T9	CellFunction 1056 1060	bind
+T10	Cell 1154 1165	immune cell
+T11	Cell 1264 1276	plasmacytoid
+T12	Cell 1277 1292	dendritic cells
+T13	CellFunction 1342 1355	core pathways
+T14	GeneOrGenome 1402 1407	REPS1
+T15	ResearchActivity 213 242	potential therapeutic targets
+T16	NucleicAcidNucleosideOrNucleotide 1068 1089	microRNA hsa_miR_5701
+T17	BiologicallyActiveSubstance 1068 1089	microRNA hsa_miR_5701
+T18	Finding 606 615	shrinkage
+T19	CellFunction 861 871	inhibition
+T20	DiseaseOrSyndrome 19 21	VD
+T21	DiseaseOrSyndrome 186 188	VD
+T22	DiseaseOrSyndrome 278 280	VD
+T23	DiseaseOrSyndrome 486 488	VD
+T24	DiseaseOrSyndrome 563 565	VD
+T25	HealthCareActivity 780 782	VD
+T26	HealthCareActivity 1303 1305	VD
+T27	DiseaseOrSyndrome 1380 1382	VD
+T28	ClinicalAttribute 1506 1524	treatment response
+T29	CellFunction 1347 1355	pathways
+T30	DiseaseOrSyndrome 1560 1582	debilitating disorders
+T31	HealthCareActivity 103 112	therapies
+T32	MachineActivity 692 731	recursive feature elimination algorithm
+T33	NucleicAcidNucleosideOrNucleotide 951 960	microRNAs
+T34	BiologicallyActiveSubstance 951 960	microRNAs
+T35	ResearchActivity 1105 1133	gene set enrichment analysis
+T36	HealthCareActivity 1492 1502	monitoring
+T37	BiologicFunction 846 856	metabolism
+T38	CellFunction 846 856	metabolism
+T39	MachineActivity 669 691	support vector machine
+T40	ResearchActivity 978 986	GSE46579
+T41	DiseaseOrSyndrome 27 46	Alzheimer's disease
+T42	DiseaseOrSyndrome 48 50	AD
+T43	DiseaseOrSyndrome 179 181	AD
+T44	DiseaseOrSyndrome 285 287	AD
+T45	DiseaseOrSyndrome 479 481	AD
+T46	DiseaseOrSyndrome 557 559	AD
+T47	DiseaseOrSyndrome 773 775	AD
+T48	DiseaseOrSyndrome 1296 1298	AD
+T49	DiseaseOrSyndrome 1373 1375	AD
+T50	GeneOrGenome 153 162	hub genes
+T51	GeneOrGenome 463 475	module genes
+T52	GeneOrGenome 490 502	Module genes
+T53	GeneOrGenome 898 910	Module genes
+T54	CellFunction 265 274	expressed
+T55	HealthCareActivity 1506 1515	treatment
+T56	ResearchActivity 1506 1515	treatment
+T57	DiseaseOrSyndrome 72 80	dementia
+T58	HealthCareActivity 1481 1490	diagnosis
+T59	ResearchActivity 132 137	study
+T60	TemporalConcept 1475 1480	early
+T61	ResearchActivity 639 644	model
+T62	ResearchActivity 970 977	dataset
+T63	OrganismAttribute 1516 1524	response
+T64	ClinicalAttribute 1413 1432	potential biomarker
+T65	Substance 1098 1104	sample
+T66	BodyPartOrganOrOrganComponent 1098 1104	sample
+T67	Finding 351 361	identified
+T68	HealthCareActivity 1475 1490	early diagnosis
+T69	Finding 250 274	differentially expressed
+T70	Finding 926 950	differentially expressed
+T71	ResearchActivity 301 309	datasets
+T72	ResearchActivity 311 320	GSE122063
+T73	ResearchActivity 322 331	GSE132903
+T74	ResearchActivity 337 344	GSE5281
+T75	ResearchActivity 514 545	area under the diagnostic curve
+T76	GeneOrGenome 761 769	hub gene
+T77	AminoAcidPeptideOrProtein 750 755	REPS1
+T78	BiologicallyActiveSubstance 750 755	REPS1
+T79	AminoAcidPeptideOrProtein 797 802	REPS1
+T80	BiologicallyActiveSubstance 797 802	REPS1
+T81	AminoAcidPeptideOrProtein 1033 1038	REPS1
+T82	BiologicallyActiveSubstance 1033 1038	REPS1
+T83	CellFunction 1154 1178	immune cell infiltration
+T84	ResearchActivity 1198 1218	negative correlation
+T85	CellFunction 1227 1243	REPS1 expression
+T86	AminoAcidPeptideOrProtein 1402 1407	REPS1
+T87	BiologicallyActiveSubstance 1402 1407	REPS1

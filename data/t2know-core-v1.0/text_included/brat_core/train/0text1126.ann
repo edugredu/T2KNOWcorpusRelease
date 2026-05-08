@@ -1,0 +1,92 @@
+T0	BodyPartOrganOrOrganComponent 698 711	blood samples
+T1	ResearchActivity 806 819	meta-analysis
+T2	AminoAcidPeptideOrProtein 1301 1322	heat shock protein 70
+T3	BiologicallyActiveSubstance 1301 1322	heat shock protein 70
+T4	HealthCareActivity 1455 1465	diagnosing
+T5	ResearchActivity 1520 1533	meta-analysis
+T6	AminoAcidPeptideOrProtein 1038 1051	threonine 181
+T7	CellFunction 1096 1110	phosphorylated
+T8	HealthCareRelatedOrganization 576 582	PubMed
+T9	ResearchActivity 137 143	search
+T10	CellFunction 296 304	lineages
+T11	HealthCareRelatedOrganization 592 606	Web of Science
+T12	HealthCareRelatedOrganization 584 590	EMBASE
+T13	HealthCareActivity 394 403	prognosis
+T14	ResearchActivity 930 949	confidence interval
+T15	ResearchActivity 951 953	CI
+T16	ResearchActivity 998 1000	CI
+T17	ResearchActivity 1070 1072	CI
+T18	ResearchActivity 1143 1145	CI
+T19	GeneOrGenome 951 953	CI
+T20	GeneOrGenome 998 1000	CI
+T21	GeneOrGenome 1070 1072	CI
+T22	GeneOrGenome 1143 1145	CI
+T23	AminoAcidPeptideOrProtein 199 236	Brain-derived exosomal (BDE) proteins
+T24	AminoAcidPeptideOrProtein 484 492	proteins
+T25	AminoAcidPeptideOrProtein 831 839	proteins
+T26	AminoAcidPeptideOrProtein 1592 1600	proteins
+T27	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T28	DiseaseOrSyndrome 21 23	AD
+T29	DiseaseOrSyndrome 195 197	AD
+T30	DiseaseOrSyndrome 434 436	AD
+T31	DiseaseOrSyndrome 496 498	AD
+T32	DiseaseOrSyndrome 729 731	AD
+T33	DiseaseOrSyndrome 1206 1208	AD
+T34	DiseaseOrSyndrome 1466 1468	AD
+T35	DiseaseOrSyndrome 1643 1645	AD
+T36	BodyPartOrganOrOrganComponent 1472 1477	blood
+T37	BiologicallyActiveSubstance 865 880	amyloid-beta 42
+T38	PatientOrDisabledGroup 715 723	patients
+T39	PatientOrDisabledGroup 1192 1200	patients
+T40	Cell 291 295	cell
+T41	AminoAcidPeptideOrProtein 970 979	total-tau
+T42	AminoAcidPeptideOrProtein 1016 1019	tau
+T43	AminoAcidPeptideOrProtein 1092 1095	tau
+T44	AminoAcidPeptideOrProtein 1401 1404	tau
+T45	AminoAcidPeptideOrProtein 1413 1416	tau
+T46	AminoAcidPeptideOrProtein 1429 1432	tau
+T47	ClinicalAttribute 161 171	biomarkers
+T48	ClinicalAttribute 357 367	biomarkers
+T49	ClinicalAttribute 499 509	biomarkers
+T50	ClinicalAttribute 684 694	biomarkers
+T51	ClinicalAttribute 1478 1488	biomarkers
+T52	ClinicalAttribute 1628 1638	biomarkers
+T53	ResearchActivity 1563 1567	data
+T54	ResearchActivity 781 789	analysis
+T55	BiologicallyActiveSubstance 970 979	total-tau
+T56	BiologicallyActiveSubstance 1016 1019	tau
+T57	BiologicallyActiveSubstance 1092 1095	tau
+T58	BiologicallyActiveSubstance 1401 1404	tau
+T59	BiologicallyActiveSubstance 1413 1416	tau
+T60	BiologicallyActiveSubstance 1429 1432	tau
+T61	BodyPartOrganOrOrganComponent 312 334	central nervous system
+T62	ResearchActivity 443 449	review
+T63	ResearchActivity 1366 1372	review
+T64	HealthCareActivity 443 449	review
+T65	HealthCareActivity 1366 1372	review
+T66	PopulationGroup 100 106	people
+T67	AminoAcidPeptideOrProtein 865 880	amyloid-beta 42
+T68	CellComponent 248 274	extracellular nanovesicles
+T69	ResearchActivity 654 661	studies
+T70	ResearchActivity 755 762	studies
+T71	HealthCareActivity 182 191	diagnosis
+T72	HealthCareActivity 372 381	diagnosis
+T73	TemporalConcept 28 39	progressive
+T74	Finding 1348 1359	differences
+T75	CellComponent 676 683	exosome
+T76	HealthCareActivity 383 392	screening
+T77	ResearchActivity 383 392	screening
+T78	HealthCareActivity 176 191	early diagnosis
+T79	DiseaseOrSyndrome 40 65	neurodegenerative disease
+T80	HealthCareActivity 420 430	monitoring
+T81	AminoAcidPeptideOrProtein 1257 1296	p-tyrosine-insulin receptor substrate-1
+T82	BodyPartOrganOrOrganComponent 199 204	Brain
+T83	ResearchActivity 742 750	articles
+T84	ResearchActivity 515 523	articles
+T85	ResearchActivity 612 628	Cochrane Library
+T86	CellFunction 1020 1034	phosphorylated
+T87	AminoAcidPeptideOrProtein 1114 1124	serine 396
+T88	BiologicallyActiveSubstance 1257 1296	p-tyrosine-insulin receptor substrate-1
+T89	AminoAcidPeptideOrProtein 1388 1397	A beta 42
+T90	BiologicallyActiveSubstance 1388 1397	A beta 42
+T91	CellComponent 213 221	exosomal

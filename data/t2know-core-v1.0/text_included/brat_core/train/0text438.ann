@@ -1,0 +1,22 @@
+T0	AminoAcidPeptideOrProtein 92 101	Rhodopsin
+T1	BiologicallyActiveSubstance 92 101	Rhodopsin
+T2	AminoAcidPeptideOrProtein 107 133	G-protein coupled receptor
+T3	BiologicallyActiveSubstance 107 133	G-protein coupled receptor
+T4	Cell 147 156	rod cells
+T5	BodyPartOrganOrOrganComponent 164 170	retina
+T6	Finding 203 219	retinal thinning
+T7	HealthCareActivity 264 279	early detection
+T8	ResearchActivity 387 399	correlations
+T9	AminoAcidPeptideOrProtein 408 417	rhodopsin
+T10	BiologicallyActiveSubstance 408 417	rhodopsin
+T11	ResearchActivity 494 503	technique
+T12	AminoAcidPeptideOrProtein 536 545	rhodopsin
+T13	BiologicallyActiveSubstance 536 545	rhodopsin
+T14	ClinicalAttribute 177 186	biomarker
+T15	HealthCareActivity 284 294	monitoring
+T16	DiseaseOrSyndrome 430 457	neurodegenerative disorders
+T17	DiseaseOrSyndrome 64 90	neurodegenerative diseases
+T18	DiseaseOrSyndrome 306 332	neurodegenerative diseases
+T19	ResearchActivity 342 356	review article
+T20	CellOrMolecularDysfunction 0 19	Retinal alterations
+T21	CellOrMolecularDysfunction 203 210;224 236	retinal degeneration

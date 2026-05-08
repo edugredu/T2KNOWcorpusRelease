@@ -1,0 +1,29 @@
+T0	CellFunction 50 59	mitophagy
+T1	CellFunction 595 604	mitophagy
+T2	CellComponent 29 41	mitochondria
+T3	CellComponent 255 267	mitochondria
+T4	CellComponent 448 460	mitochondria
+T5	CellOrMolecularDysfunction 247 267	damaged mitochondria
+T6	CellFunction 97 119	mitochondrial function
+T7	CellFunction 141 150	Mitophagy
+T8	CellOrMolecularDysfunction 680 699	defective mitophagy
+T9	CellFunction 176 195	selective autophagy
+T10	Finding 422 434	accumulation
+T11	CellFunction 186 195	autophagy
+T12	NaturalPhenomenonOrProcess 14 25	degradation
+T13	NaturalPhenomenonOrProcess 310 321	degradation
+T14	Cell 365 370	cells
+T15	Cell 405 412	neurons
+T16	InjuryOrPoisoning 247 254	damaged
+T17	PathologicFunction 580 591	progression
+T18	TemporalConcept 580 591	progression
+T19	DiseaseOrSyndrome 823 852	Amyotrophic Lateral Sclerosis
+T20	DiseaseOrSyndrome 720 746	neurodegenerative diseases
+T21	DiseaseOrSyndrome 797 817	Huntington's disease
+T22	DiseaseOrSyndrome 755 774	Parkinson's disease
+T23	DiseaseOrSyndrome 776 795	Alzheimer's disease
+T24	DiseaseOrSyndrome 487 514	neurodegenerative disorders
+T25	CellFunction 124 139	cellular health
+T26	CellComponent 272 285	mitophagosome
+T27	CellComponent 291 299	lysosome
+T28	CellOrMolecularDysfunction 438 460	defective mitochondria

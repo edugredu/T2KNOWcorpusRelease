@@ -1,0 +1,75 @@
+T0	AminoAcidPeptideOrProtein 0 50	Low-density lipoprotein receptor-related protein 1
+T1	GeneOrGenome 309 313	Lrp1
+T2	GeneOrGenome 652 656	Lrp1
+T3	CellOrMolecularDysfunction 657 665	deletion
+T4	GeneOrGenome 890 894	Lrp1
+T5	ResearchActivity 780 791	experiments
+T6	BodyPartOrganOrOrganComponent 460 472	motor cortex
+T7	Cell 411 426	myelinating OLs
+T8	CellComponent 524 534	internodes
+T9	BiologicFunction 709 720	homeostatic
+T10	ResearchActivity 556 562	length
+T11	Cell 242 258	oligodendrocytes
+T12	Cell 164 168	OPCs
+T13	Cell 218 222	OPCs
+T14	Cell 331 335	OPCs
+T15	Cell 900 910	adult OPCs
+T16	Cell 1109 1113	OPCs
+T17	DiseaseOrSyndrome 1143 1165	demyelinating diseases
+T18	CellFunction 223 236	differentiate
+T19	DiseaseOrSyndrome 1174 1192	multiple sclerosis
+T20	Cell 130 162	oligodendrocyte progenitor cells
+T21	Cell 260 263	OLs
+T22	Cell 494 497	OLs
+T23	Cell 955 958	OLs
+T24	CellFunction 743 762	OPC differentiation
+T25	CellFunction 841 860	OPC differentiation
+T26	CellFunction 607 624	OPC proliferation
+T27	CellFunction 866 879	proliferation
+T28	TemporalConcept 404 410	mature
+T29	TemporalConcept 948 954	mature
+T30	PharmacologicSubstance 1074 1082	blockade
+T31	Chemical 1074 1082	blockade
+T32	BodyPartOrganOrOrganComponent 440 455	corpus callosum
+T33	BodyPartOrganOrOrganComponent 972 987	corpus callosum
+T34	Chemical 1003 1012	cuprizone
+T35	CellFunction 1126 1139	myelin repair
+T36	TemporalConcept 395 402	newborn
+T37	TemporalConcept 940 947	newborn
+T38	BiologicallyActiveSubstance 819 837	negative regulator
+T39	HealthCareActivity 269 275	report
+T40	ResearchActivity 269 275	report
+T41	CellFunction 179 189	expression
+T42	ResearchActivity 771 779	in vitro
+T43	Eukaryote 325 330	mouse
+T44	ResearchActivity 666 673	in vivo
+T45	Finding 507 513	normal
+T46	Finding 549 555	normal
+T47	GeneOrGenome 52 56	LRP1
+T48	GeneOrGenome 174 178	LRP1
+T49	GeneOrGenome 802 806	LRP1
+T50	GeneOrGenome 1086 1090	LRP1
+T51	BiologicallyActiveSubstance 52 56	LRP1
+T52	BiologicallyActiveSubstance 174 178	LRP1
+T53	BiologicallyActiveSubstance 802 806	LRP1
+T54	BiologicallyActiveSubstance 1086 1090	LRP1
+T55	AminoAcidPeptideOrProtein 52 56	LRP1
+T56	AminoAcidPeptideOrProtein 174 178	LRP1
+T57	AminoAcidPeptideOrProtein 802 806	LRP1
+T58	AminoAcidPeptideOrProtein 1086 1090	LRP1
+T59	CellComponent 80 92	cell surface
+T60	CellFunction 594 605	myelination
+T61	PathologicFunction 1021 1034	demyelination
+T62	PopulationGroup 319 324	adult
+T63	PopulationGroup 588 593	adult
+T64	PopulationGroup 1103 1108	adult
+T65	CellFunction 201 214	downregulated
+T66	CellFunction 117 126	expressed
+T67	ResearchActivity 1042 1046	data
+T68	BiologicallyActiveSubstance 0 50	Low-density lipoprotein receptor-related protein 1
+T69	BiologicallyActiveSubstance 93 101	receptor
+T70	ResearchActivity 285 305	conditional deletion
+T71	ResearchActivity 337 369	Pdgfr alpha-CreER :: Lrp1(fl/fl)
+T72	CellFunction 564 577	Lrp1-deletion
+T73	BiologicallyActiveSubstance 890 894	Lrp1
+T74	AminoAcidPeptideOrProtein 890 894	Lrp1

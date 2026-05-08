@@ -1,0 +1,89 @@
+T0	Cell 0 15	Red blood cells
+T1	Cell 17 21	RBCs
+T2	NaturalPhenomenonOrProcess 57 67	elasticity
+T3	ClinicalAttribute 57 67	elasticity
+T4	BodyPartOrganOrOrganComponent 160 171	capillaries
+T5	NaturalPhenomenonOrProcess 186 199	deformability
+T6	Cell 275 289	red blood cell
+T7	Cell 291 294	RBC
+T8	NaturalPhenomenonOrProcess 296 305	mechanics
+T9	BiomedicalOccupationOrDiscipline 296 305	mechanics
+T10	HealthCareActivity 320 332	applications
+T11	ResearchActivity 420 437	comparative study
+T12	Cell 468 472	RBCs
+T13	Cell 555 558	RBC
+T14	ResearchActivity 629 632	AFM
+T15	ManufacturedObject 629 632	AFM
+T16	ResearchActivity 735 738	AFM
+T17	ManufacturedObject 735 738	AFM
+T18	NaturalPhenomenonOrProcess 992 1001	viscosity
+T19	NaturalPhenomenonOrProcess 1006 1016	elasticity
+T20	ClinicalAttribute 1006 1016	elasticity
+T21	ResearchActivity 1091 1094	AFM
+T22	ManufacturedObject 1091 1094	AFM
+T23	Cell 1505 1508	RBC
+T24	NaturalPhenomenonOrProcess 1509 1518	mechanics
+T25	BiomedicalOccupationOrDiscipline 1509 1518	mechanics
+T26	Cell 1615 1618	RBC
+T27	NaturalPhenomenonOrProcess 1670 1680	elasticity
+T28	ClinicalAttribute 1670 1680	elasticity
+T29	NaturalPhenomenonOrProcess 1685 1694	viscosity
+T30	ResearchActivity 604 627	atomic force microscopy
+T31	ResearchActivity 340 346	search
+T32	ClinicalAttribute 351 363;389 399	non-invasive biomarkers
+T33	ClinicalAttribute 1738 1758	plasmatic biomarkers
+T34	ResearchActivity 923 956	standard linear solid (SLS) model
+T35	ResearchActivity 1189 1198	SLS model
+T36	Cell 279 289	blood cell
+T37	HealthCareActivity 1775 1788	liquid biopsy
+T38	ResearchActivity 710 731	conventional analysis
+T39	ResearchActivity 1066 1087	conventional analysis
+T40	BodyPartOrganOrOrganComponent 148 155	vessels
+T41	ClinicalAttribute 368 382;389 399	cost-effective biomarkers
+T42	Finding 559 580	viscoelastic response
+T43	ResearchActivity 641 664	force spectroscopy mode
+T44	ResearchActivity 739 765	force-distance (FD) curves
+T45	ResearchActivity 809 824	Young's modulus
+T46	ResearchActivity 881 898	relaxation curves
+T47	ResearchActivity 1095 1104	FD curves
+T48	ResearchActivity 1312 1357	eceiving operator characteristic (ROC) curves
+T49	ResearchActivity 1378 1400	areas under the curves
+T50	CellOrMolecularDysfunction 1615 1632	RBC abnormalities
+T51	Chemical 1837 1847	indicators
+T52	Cell 285 289	cell
+T53	Cell 987 991	cell
+T54	AminoAcidPeptideOrProtein 1346 1349	ROC
+T55	OrganismAttribute 1231 1238	ability
+T56	DiseaseOrSyndrome 231 241	conditions
+T57	PopulationGroup 519 535	healthy subjects
+T58	Finding 871 880	dependent
+T59	DiseaseOrSyndrome 490 509	Alzheimer's disease
+T60	DiseaseOrSyndrome 511 513	AD
+T61	DiseaseOrSyndrome 1548 1550	AD
+T62	DiseaseOrSyndrome 1636 1638	AD
+T63	PatientOrDisabledGroup 476 484	patients
+T64	OrganismAttribute 519 526	healthy
+T65	ResearchActivity 1037 1041	data
+T66	ResearchActivity 1468 1472	data
+T67	ClinicalAttribute 389 399	biomarkers
+T68	ClinicalAttribute 1420 1430	biomarkers
+T69	ClinicalAttribute 1748 1758	biomarkers
+T70	PathologicFunction 1855 1864	pathology
+T71	BiomedicalOccupationOrDiscipline 1855 1864	pathology
+T72	BodyPartOrganOrOrganComponent 4 9	blood
+T73	BodyPartOrganOrOrganComponent 383 388	blood
+T74	TemporalConcept 866 870	time
+T75	Finding 1255 1266	performance
+T76	PopulationGroup 1137 1143	groups
+T77	ResearchActivity 679 687	analyses
+T78	ResearchActivity 263 271	analysis
+T79	ResearchActivity 723 731	analysis
+T80	ResearchActivity 854 862	analysis
+T81	ResearchActivity 1079 1087	analysis
+T82	HealthCareActivity 585 597	investigated
+T83	PopulationGroup 527 535	subjects
+T84	OrganismAttribute 456 464	response
+T85	OrganismAttribute 572 580	response
+T86	HealthCareActivity 1244 1254	diagnostic
+T87	ResearchActivity 1402 1405	AUC
+T88	ResearchActivity 1432 1435	AUC

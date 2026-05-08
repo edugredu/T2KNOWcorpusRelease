@@ -1,0 +1,116 @@
+T0	AnatomicalAbnormality 34 46;56 63	beta-amyloid plaques
+T1	Cell 506 517	neural cell
+T2	DiseaseOrSyndrome 550 553	FAD
+T3	CellFunction 960 975	beta expression
+T4	HealthCareActivity 960 975	beta expression
+T5	ResearchActivity 513 525	cell culture
+T6	HealthCareActivity 674 698;705 712	novel object recognition testing
+T7	BiologicFunction 687 698	recognition
+T8	ResearchActivity 585 596	co-cultured
+T9	HealthCareActivity 1076 1097	[F-18]FDG-PET imaging
+T10	CellFunction 1167 1185	glucose metabolism
+T11	Chemical 1167 1174	glucose
+T12	PharmacologicSubstance 1167 1174	glucose
+T13	BiologicallyActiveSubstance 650 657	glucose
+T14	BiologicallyActiveSubstance 1167 1174	glucose
+T15	TemporalConcept 1236 1241	phase
+T16	HealthCareActivity 1090 1097	imaging
+T17	CellFunction 858 877	synaptic plasticity
+T18	CellFunction 1023 1042	synaptic plasticity
+T19	BiologicFunction 858 877	synaptic plasticity
+T20	BiologicFunction 1023 1042	synaptic plasticity
+T21	NaturalPhenomenonOrProcess 867 877	plasticity
+T22	NaturalPhenomenonOrProcess 1032 1042	plasticity
+T23	CellFunction 867 877	plasticity
+T24	CellFunction 1032 1042	plasticity
+T25	BiologicFunction 276 295	cognitive functions
+T26	Finding 150 158	deficits
+T27	DiseaseOrSyndrome 94 113	Alzheimer's disease
+T28	DiseaseOrSyndrome 115 117	AD
+T29	DiseaseOrSyndrome 219 221	AD
+T30	DiseaseOrSyndrome 494 496	AD
+T31	DiseaseOrSyndrome 537 548	familial AD
+T32	DiseaseOrSyndrome 799 801	AD
+T33	DiseaseOrSyndrome 1212 1214	AD
+T34	DiseaseOrSyndrome 1284 1286	AD
+T35	DiseaseOrSyndrome 1526 1528	AD
+T36	BodyPartOrganOrOrganComponent 141 149	synaptic
+T37	BodyPartOrganOrOrganComponent 858 866	synaptic
+T38	BodyPartOrganOrOrganComponent 1023 1031	synaptic
+T39	ResearchActivity 302 307	study
+T40	ResearchActivity 1363 1368	study
+T41	PathologicFunction 810 819	pathology
+T42	BiomedicalOccupationOrDiscipline 810 819	pathology
+T43	BodyPartOrganOrOrganComponent 75 80	brain
+T44	BodyPartOrganOrOrganComponent 1275 1280	brain
+T45	Eukaryote 500 505	human
+T46	Finding 4 16	accumulation
+T47	ResearchActivity 1215 1230	transgenic mice
+T48	Eukaryote 1226 1230	mice
+T49	Eukaryote 1287 1291	mice
+T50	Cell 1064 1068	cell
+T51	Cell 842 850	neuronal
+T52	Cell 1007 1015	neuronal
+T53	ResearchActivity 506 531	neural cell culture model
+T54	ResearchActivity 1069 1074	model
+T55	Finding 767 785	therapeutic effect
+T56	HealthCareActivity 741 750	treatment
+T57	HealthCareActivity 1330 1339	treatment
+T58	HealthCareActivity 1513 1522	treatment
+T59	ResearchActivity 741 750	treatment
+T60	ResearchActivity 1330 1339	treatment
+T61	ResearchActivity 1513 1522	treatment
+T62	CellFunction 828 838	expression
+T63	CellFunction 965 975	expression
+T64	CellFunction 993 1003	expression
+T65	AminoAcidPeptideOrProtein 48 54	A beta
+T66	AminoAcidPeptideOrProtein 958 964	A beta
+T67	CellComponent 20 33	extracellular
+T68	AminoAcidPeptideOrProtein 39 46	amyloid
+T69	BiologicallyActiveSubstance 39 46	amyloid
+T70	AminoAcidPeptideOrProtein 34 46	beta-amyloid
+T71	Cell 1245 1252	neurons
+T72	ResearchActivity 786 793	in vivo
+T73	HealthCareActivity 1102 1122	cognitive assessment
+T74	PathologicFunction 222 237	pathophysiology
+T75	BiomedicalOccupationOrDiscipline 222 237	pathophysiology
+T76	Cell 1257 1267	astrocytes
+T77	Cell 397 400	MSC
+T78	Cell 478 481	MSC
+T79	Cell 611 614	MSC
+T80	Cell 937 940	MSC
+T81	Cell 1345 1348	MSC
+T82	Cell 1411 1414	MSC
+T83	Cell 1492 1495	MSC
+T84	HealthCareActivity 186 195	therapies
+T85	ResearchActivity 588 596	cultured
+T86	HealthCareActivity 1086 1089	PET
+T87	Finding 254 261	decline
+T88	BiologicFunction 265 271	memory
+T89	BiologicFunction 851 857	memory
+T90	BiologicFunction 1016 1022	memory
+T91	CellFunction 555 564	mutations
+T92	CellOrMolecularDysfunction 555 564	mutations
+T93	CellComponent 387 395	exosomes
+T94	CellComponent 401 409	exosomes
+T95	CellComponent 615 623	exosomes
+T96	CellComponent 941 949	exosomes
+T97	CellComponent 1349 1357	exosomes
+T98	CellComponent 1415 1423	exosomes
+T99	CellComponent 1496 1504	exosomes
+T100	Finding 851 857	memory
+T101	Finding 1016 1022	memory
+T102	BiologicFunction 1190 1208	cognitive function
+T103	HealthCareActivity 1452 1472	therapeutic strategy
+T104	Cell 357 379	mesenchymal stem cell-
+T105	CellOrMolecularDysfunction 163 176	neuronal loss
+T106	Chemical 625 657	2-[F-18]Fluoro-2-deoxy-d-glucose
+T107	BodyPartOrganOrOrganComponent 1161 1166	brain
+T108	BiologicFunction 1167 1185	glucose metabolism
+T109	ExperimentalModelOfDisease 1212 1230	AD transgenic mice
+T110	Chemical 659 668	[F-18]FDG
+T111	ResearchActivity 674 698	novel object recognition
+T112	ExperimentalModelOfDisease 1284 1291	AD mice
+T113	ExperimentalModelOfDisease 500 548	human neural cell culture model with familial AD
+T114	Finding 1134 1157	significant improvement
+T115	CellComponent 422 450	secreted membranous elements

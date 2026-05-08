@@ -1,0 +1,26 @@
+T0	DiseaseOrSyndrome 0 27	Neurodegenerative disorders
+T1	PopulationGroup 65 72	elderly
+T2	CellFunction 101 111	hereditary
+T3	TemporalConcept 250 258	sporadic
+T4	ResearchActivity 264 270	search
+T5	DiseaseOrSyndrome 392 406	human diseases
+T6	DiseaseOrSyndrome 445 462	Parkinson disease
+T7	DiseaseOrSyndrome 464 466	PD
+T8	DiseaseOrSyndrome 494 511	Alzheimer disease
+T9	DiseaseOrSyndrome 513 515	AD
+T10	DiseaseOrSyndrome 522 551	amyotrophic lateral sclerosis
+T11	DiseaseOrSyndrome 553 556	ALS
+T12	DiseaseOrSyndrome 790 813	frontotemporal dementia
+T13	DiseaseOrSyndrome 815 818	FTD
+T14	DiseaseOrSyndrome 828 851	spinocerebellar ataxias
+T15	DiseaseOrSyndrome 853 856	SCA
+T16	ResearchActivity 332 343	CRISPR/Cas9
+T17	ResearchActivity 596 607	CRISPR/Cas9
+T18	DiseaseOrSyndrome 489 491	HD
+T19	DiseaseOrSyndrome 469 487	Huntington disease
+T20	TemporalConcept 322 330	Recently
+T21	HealthCareActivity 332 357	CRISPR/Cas9-based therapy
+T22	ResearchActivity 567 577	minireview
+T23	BiologicFunction 596 607	CRISPR/Cas9
+T24	BiologicFunction 332 343	CRISPR/Cas9
+T25	DiseaseOrSyndrome 640 665	life-threatening diseases

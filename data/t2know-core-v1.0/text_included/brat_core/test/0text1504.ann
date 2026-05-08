@@ -1,0 +1,45 @@
+T0	ResearchActivity 163 186	therapeutic development
+T1	HealthCareActivity 400 415	MR spectroscopy
+T2	HealthCareActivity 417 420	MRS
+T3	HealthCareActivity 433 465	neuropsychological test outcomes
+T4	BodyPartOrganOrOrganComponent 947 952	Brain
+T5	ResearchActivity 1253 1263	validation
+T6	DiseaseOrSyndrome 42 68	neurodegenerative disorder
+T7	BiologicFunction 207 220	understanding
+T8	ResearchActivity 647 678	statistical modeling algorithms
+T9	HealthCareActivity 1269 1279	clinicians
+T10	MachineActivity 625 641	machine learning
+T11	HealthCareActivity 936 945	diagnosis
+T12	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T13	ClinicalAttribute 484 505	diagnostic biomarkers
+T14	DiseaseOrSyndrome 21 23	AD
+T15	DiseaseOrSyndrome 292 294	AD
+T16	DiseaseOrSyndrome 509 511	AD
+T17	DiseaseOrSyndrome 541 543	AD
+T18	DiseaseOrSyndrome 933 935	AD
+T19	DiseaseOrSyndrome 1360 1362	AD
+T20	ResearchActivity 309 340	Hadoop-based big data framework
+T21	ResearchActivity 518 536	big data framework
+T22	ResearchActivity 603 623	advanced data mining
+T23	ResearchActivity 814 830	data acquisition
+T24	ResearchActivity 904 922	big data framework
+T25	PopulationGroup 91 97	people
+T26	HealthCareActivity 394 397	MRI
+T27	HealthCareActivity 1023 1026	MRI
+T28	HealthCareActivity 366 392	magnetic resonance imaging
+T29	HealthCareActivity 224 244	non-invasive imaging
+T30	HealthCareActivity 385 392	imaging
+T31	HealthCareActivity 728 748	non-invasive imaging
+T32	ManufacturedObject 366 392	magnetic resonance imaging
+T33	BiologicFunction 175 186	development
+T34	CellFunction 175 186	development
+T35	ResearchActivity 698 722	longitudinal information
+T36	BiologicFunction 633 641	learning
+T37	ResearchActivity 814 818;835 845	data processing
+T38	ResearchActivity 765 794	colligated parametric variety
+T39	HealthCareActivity 1028 1031	MRS
+T40	HealthCareActivity 1114 1143	ensemble-based classification
+T41	HealthCareActivity 1283 1322	multi-modality-based decision framework
+T42	HealthCareActivity 1324 1330	BHARAT
+T43	ResearchActivity 557 597	the three Vs (volume, variety, velocity)
+T44	HealthCareActivity 1037 1062	neuropsychological scores

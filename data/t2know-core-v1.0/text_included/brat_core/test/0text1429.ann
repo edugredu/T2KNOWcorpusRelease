@@ -1,0 +1,84 @@
+T0	DiseaseOrSyndrome 518 530	hypertension
+T1	HealthCareActivity 585 619	optical coherence tomography scans
+T2	TemporalConcept 621 637	Disease duration
+T3	PopulationGroup 713 718	Group
+T4	BodyPartOrganOrOrganComponent 1190 1209	inner nuclear layer
+T5	Finding 1360 1380	False Discovery Rate
+T6	ResearchActivity 1777 1796	prospective studies
+T7	MolecularSequence 674 685	CAG repeats
+T8	ResearchActivity 1498 1512	disease burden
+T9	Finding 1550 1573	significant association
+T10	HealthCareActivity 1177 1181	MoCA
+T11	HealthCareActivity 1477 1493	disease duration
+T12	TemporalConcept 1477 1493	disease duration
+T13	DiseaseOrSyndrome 354 374	Huntington's Disease
+T14	HealthCareActivity 1428 1469	Unified Huntington's Disease Rating Scale
+T15	ClinicalAttribute 780 797	clinical outcomes
+T16	ClinicalAttribute 1609 1626	clinical outcomes
+T17	DiseaseOrSyndrome 74 94	Huntington's disease
+T18	DiseaseOrSyndrome 407 427	Huntington's disease
+T19	DiseaseOrSyndrome 877 897	Huntington's disease
+T20	DiseaseOrSyndrome 1103 1123	Huntington's disease
+T21	ClinicalAttribute 1125 1142	macular thickness
+T22	SignOrSymptom 1125 1142	macular thickness
+T23	BodyPartOrganOrOrganComponent 1020 1068	temporal peripapillary retinal nerve fiber layer
+T24	DiseaseOrSyndrome 1125 1142	macular thickness
+T25	HealthCareActivity 285 313	optical coherence tomography
+T26	HealthCareActivity 585 613	optical coherence tomography
+T27	HealthCareActivity 1582 1585	OCT
+T28	HealthCareActivity 1705 1708	OCT
+T29	HealthCareActivity 1820 1823	OCT
+T30	HealthCareActivity 734 741	imaging
+T31	BodyPartOrganOrOrganComponent 132 151	Inner retinal layer
+T32	BodyPartOrganOrOrganComponent 925 959	retinal external limiting membrane
+T33	BodyPartOrganOrOrganComponent 1394 1401	retinal
+T34	BiologicFunction 1737 1753	cognitive status
+T35	OrganismAttribute 493 496	sex
+T36	OrganismAttribute 1313 1316	sex
+T37	DiseaseOrSyndrome 213 239	neurodegenerative diseases
+T38	DiseaseOrSyndrome 1677 1703	neurodegenerative diseases
+T39	ClinicalAttribute 1839 1855	surrogate marker
+T40	DiseaseOrSyndrome 1766 1768	HD
+T41	DiseaseOrSyndrome 1880 1882	HD
+T42	SignOrSymptom 65 73	manifest
+T43	SignOrSymptom 451 459	manifest
+T44	SignOrSymptom 1094 1102	manifest
+T45	SignOrSymptom 1757 1765	manifest
+T46	Finding 1182 1188	scores
+T47	ClinicalAttribute 181 190	biomarker
+T48	PopulationGroup 468 476	controls
+T49	PopulationGroup 1081 1089	controls
+T50	PatientOrDisabledGroup 393 401	patients
+T51	PatientOrDisabledGroup 703 711	patients
+T52	PatientOrDisabledGroup 868 876;898 906	manifest patients
+T53	PatientOrDisabledGroup 1514 1534	Premanifest patients
+T54	Finding 1470 1475	score
+T55	HealthCareActivity 614 619	scans
+T56	ClinicalAttribute 108 118	biomarkers
+T57	Finding 719 730	differences
+T58	DiseaseOrSyndrome 1859 1876	cognitive decline
+T59	OrganismAttribute 488 491	age
+T60	OrganismAttribute 1308 1311	age
+T61	BiologicFunction 194 203	cognition
+T62	BiologicFunction 341 350	cognition
+T63	BiologicFunction 660 669	cognition
+T64	Finding 264 276	relationship
+T65	Finding 1260 1272	relationship
+T66	ResearchActivity 818 844	linear mixed-effect models
+T67	ResearchActivity 1640 1646	models
+T68	BiomedicalOccupationOrDiscipline 1322 1331	education
+T69	Finding 506 512	status
+T70	Finding 531 537	status
+T71	Finding 645 651	status
+T72	HealthCareActivity 556 566	volumetric
+T73	ClinicalAttribute 1714 1733	potential biomarker
+T74	ResearchActivity 803 811	analyzed
+T75	DiseaseOrSyndrome 10 27	Cognitive decline
+T76	ClinicalAttribute 132 161	Inner retinal layer thickness
+T77	IndividualBehavior 498 505	smoking
+T78	BodyPartOrganOrOrganComponent 548 555	macular
+T79	BodyPartOrganOrOrganComponent 571 584	peripapillary
+T80	BodyPartOrganOrOrganComponent 960 984	Bruch's membrane complex
+T81	ResearchActivity 1230 1253	regression coefficients
+T82	ResearchActivity 1336 1354	p-value correction
+T83	PatientOrDisabledGroup 990 1007	manifest patients

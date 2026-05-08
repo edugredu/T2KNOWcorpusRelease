@@ -1,0 +1,69 @@
+T0	BiologicFunction 254 276	protein concentrations
+T1	DiseaseOrSyndrome 470 495	Mild Cognitive Impairment
+T2	Finding 760 762	FC
+T3	GeneOrGenome 789 795	FXIIIB
+T4	Finding 804 806	FC
+T5	GeneOrGenome 924 928	ORM2
+T6	GeneOrGenome 957 961	RBP4
+T7	AminoAcidPeptideOrProtein 957 961	RBP4
+T8	GeneOrGenome 994 999	HYDIN
+T9	TemporalConcept 1260 1268	timespan
+T10	DiseaseOrSyndrome 497 500	MCI
+T11	DiseaseOrSyndrome 1166 1169	MCI
+T12	ResearchActivity 893 896	AUC
+T13	ResearchActivity 930 933	AUC
+T14	ResearchActivity 963 966	AUC
+T15	ResearchActivity 1001 1004	AUC
+T16	TemporalConcept 1255 1259	year
+T17	PopulationGroup 526 534	controls
+T18	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T19	CellComponent 302 305	EVs
+T20	CellComponent 627 630	EVs
+T21	CellComponent 1086 1089	EVs
+T22	DiseaseOrSyndrome 21 23	AD
+T23	DiseaseOrSyndrome 370 372	AD
+T24	DiseaseOrSyndrome 432 434	AD
+T25	DiseaseOrSyndrome 454 456	AD
+T26	DiseaseOrSyndrome 701 703	AD
+T27	DiseaseOrSyndrome 889 891	AD
+T28	DiseaseOrSyndrome 1062 1064	AD
+T29	DiseaseOrSyndrome 1139 1141	AD
+T30	DiseaseOrSyndrome 1217 1219	AD
+T31	DiseaseOrSyndrome 1241 1243	AD
+T32	CellComponent 416 418	EV
+T33	OrganismAttribute 518 525	healthy
+T34	PatientOrDisabledGroup 457 465	patients
+T35	PatientOrDisabledGroup 502 510	patients
+T36	PatientOrDisabledGroup 704 712	patients
+T37	PatientOrDisabledGroup 1170 1178	patients
+T38	DiseaseOrSyndrome 52 60	dementia
+T39	BodyPartOrganOrOrganComponent 194 200	plasma
+T40	BodyPartOrganOrOrganComponent 401 407	plasma
+T41	ClinicalAttribute 91 110	clinical biomarkers
+T42	ClinicalAttribute 373 383	biomarkers
+T43	ClinicalAttribute 435 445	biomarkers
+T44	ClinicalAttribute 1142 1152	biomarkers
+T45	PopulationGroup 1220 1225	group
+T46	CellComponent 278 300	Extracellular vesicles
+T47	ResearchActivity 1201 1209	profiles
+T48	HealthCareActivity 158 169	diagnostics
+T49	ResearchActivity 201 210	profiling
+T50	AminoAcidPeptideOrProtein 126 134	proteins
+T51	AminoAcidPeptideOrProtein 419 427	proteins
+T52	AminoAcidPeptideOrProtein 841 849	proteins
+T53	BodyPartOrganOrOrganComponent 321 340	blood-brain barrier
+T54	BodyPartOrganOrOrganComponent 112 117	Blood
+T55	BiologicFunction 262 276	concentrations
+T56	ResearchActivity 941 943	CI
+T57	GeneOrGenome 941 943	CI
+T58	Substance 547 553	liquid
+T59	AminoAcidPeptideOrProtein 254 261	protein
+T60	AminoAcidPeptideOrProtein 1193 1200	protein
+T61	ResearchActivity 547 593	liquid chromatography-tandem mass spectrometry
+T62	ResearchActivity 595 603	LC-MS/MS
+T63	ResearchActivity 674 694	MISEV2018 guidelines
+T64	BiologicallyActiveSubstance 957 961	RBP4
+T65	GeneOrGenome 744 751	FXIIIA1
+T66	Chemical 1119 1125	matrix
+T67	PharmacologicSubstance 1119 1125	matrix
+T68	Finding 1101 1125	easily accessible matrix

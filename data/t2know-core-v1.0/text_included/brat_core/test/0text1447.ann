@@ -1,0 +1,229 @@
+T0	ResearchActivity 433 443	enrichment
+T1	ResearchActivity 484 509	longitudinal cohort study
+T2	BodyPartOrganOrOrganComponent 2241 2266	temporal cortical regions
+T3	Finding 3465 3472	outcome
+T4	ResearchActivity 3525 3535	enrichment
+T5	BodyPartOrganOrOrganComponent 2056 2073	entorhinal cortex
+T6	ResearchActivity 1397 1417	event-based modeling
+T7	ResearchActivity 1866 1912	clustering/event-based modeling-based approach
+T8	PopulationGroup 787 794	Swedish
+T9	AminoAcidPeptideOrProtein 1003 1022	neurofilament light
+T10	BiologicallyActiveSubstance 1003 1022	neurofilament light
+T11	CellFunction 946 960	phosphorylated
+T12	Chemical 1137 1155	[F-18]flortaucipir
+T13	Chemical 3141 3159	[F-18]flortaucipir
+T14	Finding 564 586	cognitively unimpaired
+T15	TemporalConcept 1947 1953	stages
+T16	TemporalConcept 2230 2236	stages
+T17	TemporalConcept 2609 2615	stages
+T18	OrganismAttribute 1854 1860	female
+T19	ResearchActivity 418 432	clinical trial
+T20	ResearchActivity 1746 1760	clinical trial
+T21	ResearchActivity 843 853	validation
+T22	ResearchActivity 1419 1436	Regression models
+T23	Finding 2566 2576	predictors
+T24	TemporalConcept 122 137	clinical stages
+T25	TemporalConcept 20 29	currently
+T26	NaturalPhenomenonOrProcess 3248 3258	reductions
+T27	HealthCareActivity 3248 3258	reductions
+T28	BodyPartOrganOrOrganComponent 2056 2066	entorhinal
+T29	ResearchActivity 1315 1334	regions of interest
+T30	ResearchActivity 1926 1945	regions of interest
+T31	Finding 0 10	IMPORTANCE
+T32	BiologicFunction 453 460	SETTING
+T33	DiseaseOrSyndrome 141 158	Alzheimer disease
+T34	DiseaseOrSyndrome 3555 3567	prodromal AD
+T35	DiseaseOrSyndrome 3668 3680	prodromal AD
+T36	BodyPartOrganOrOrganComponent 2092 2100	amygdala
+T37	AminoAcidPeptideOrProtein 92 95	tau
+T38	AminoAcidPeptideOrProtein 212 215	tau
+T39	AminoAcidPeptideOrProtein 391 394	tau
+T40	AminoAcidPeptideOrProtein 942 945	tau
+T41	AminoAcidPeptideOrProtein 1090 1093	tau
+T42	AminoAcidPeptideOrProtein 1219 1222	tau
+T43	AminoAcidPeptideOrProtein 1295 1298	tau
+T44	AminoAcidPeptideOrProtein 1518 1521	tau
+T45	AminoAcidPeptideOrProtein 1589 1592	tau
+T46	AminoAcidPeptideOrProtein 2022 2025	tau
+T47	AminoAcidPeptideOrProtein 2594 2597	tau
+T48	AminoAcidPeptideOrProtein 2681 2684	tau
+T49	AminoAcidPeptideOrProtein 2820 2823	tau
+T50	AminoAcidPeptideOrProtein 2958 2961	tau
+T51	AminoAcidPeptideOrProtein 3061 3064	tau
+T52	AminoAcidPeptideOrProtein 3216 3219	tau
+T53	AminoAcidPeptideOrProtein 3450 3453	tau
+T54	AminoAcidPeptideOrProtein 3495 3498	tau
+T55	AminoAcidPeptideOrProtein 3638 3641	tau
+T56	BiologicallyActiveSubstance 92 95	tau
+T57	BiologicallyActiveSubstance 212 215	tau
+T58	BiologicallyActiveSubstance 391 394	tau
+T59	BiologicallyActiveSubstance 942 945	tau
+T60	BiologicallyActiveSubstance 1090 1093	tau
+T61	BiologicallyActiveSubstance 1219 1222	tau
+T62	BiologicallyActiveSubstance 1295 1298	tau
+T63	BiologicallyActiveSubstance 1518 1521	tau
+T64	BiologicallyActiveSubstance 1589 1592	tau
+T65	BiologicallyActiveSubstance 2022 2025	tau
+T66	BiologicallyActiveSubstance 2594 2597	tau
+T67	BiologicallyActiveSubstance 2681 2684	tau
+T68	BiologicallyActiveSubstance 2820 2823	tau
+T69	BiologicallyActiveSubstance 2958 2961	tau
+T70	BiologicallyActiveSubstance 3061 3064	tau
+T71	BiologicallyActiveSubstance 3216 3219	tau
+T72	BiologicallyActiveSubstance 3450 3453	tau
+T73	BiologicallyActiveSubstance 3495 3498	tau
+T74	BiologicallyActiveSubstance 3638 3641	tau
+T75	DiseaseOrSyndrome 160 162	AD
+T76	DiseaseOrSyndrome 293 295	AD
+T77	DiseaseOrSyndrome 725 727	AD
+T78	DiseaseOrSyndrome 2181 2183	AD
+T79	DiseaseOrSyndrome 3539 3550;3565 3567	preclinical AD
+T80	DiseaseOrSyndrome 3628 3630	AD
+T81	DiseaseOrSyndrome 3678 3680	AD
+T82	ClinicalAttribute 316 325	biomarker
+T83	ResearchActivity 1351 1392	data-driven approach combining clustering
+T84	PopulationGroup 592 604	participants
+T85	PopulationGroup 1777 1789	participants
+T86	PopulationGroup 625 636	individuals
+T87	PopulationGroup 654 665	individuals
+T88	PopulationGroup 708 719	individuals
+T89	PopulationGroup 1978 1989	individuals
+T90	PopulationGroup 2151 2162	individuals
+T91	PopulationGroup 2396 2407	individuals
+T92	PopulationGroup 2861 2872	individuals
+T93	PopulationGroup 2893 2904	individuals
+T94	PopulationGroup 3316 3327	individuals
+T95	PopulationGroup 3386 3397	individuals
+T96	ResearchActivity 862 869	studies
+T97	AminoAcidPeptideOrProtein 533 540	amyloid
+T98	AminoAcidPeptideOrProtein 1052 1059	amyloid
+T99	AminoAcidPeptideOrProtein 2738 2745	amyloid
+T100	BiologicallyActiveSubstance 533 540	amyloid
+T101	BiologicallyActiveSubstance 1052 1059	amyloid
+T102	BiologicallyActiveSubstance 2738 2745	amyloid
+T103	DiseaseOrSyndrome 728 736	dementia
+T104	DiseaseOrSyndrome 2184 2192	dementia
+T105	ClinicalAttribute 55 65	biomarkers
+T106	ClinicalAttribute 1490 1500	biomarkers
+T107	ResearchActivity 1118 1135	BioFINDER-2 study
+T108	ResearchActivity 1163 1180	BioFINDER-1 study
+T109	DiseaseOrSyndrome 698 701	MCI
+T110	DiseaseOrSyndrome 2168 2171	MCI
+T111	DiseaseOrSyndrome 2423 2426	MCI
+T112	DiseaseOrSyndrome 2910 2913	MCI
+T113	DiseaseOrSyndrome 3403 3406	MCI
+T114	TemporalConcept 1270 1276	annual
+T115	TemporalConcept 2003 2009	annual
+T116	ResearchActivity 808 817	discovery
+T117	BodyPartOrganOrOrganComponent 890 896	plasma
+T118	BodyPartOrganOrOrganComponent 2641 2647	plasma
+T119	BodyPartOrganOrOrganComponent 2915 2921	plasma
+T120	BodyPartOrganOrOrganComponent 3195 3201	plasma
+T121	BodyPartOrganOrOrganComponent 3474 3480	plasma
+T122	BodyPartOrganOrOrganComponent 3578 3584	plasma
+T123	AminoAcidPeptideOrProtein 533 545	amyloid-beta
+T124	AminoAcidPeptideOrProtein 990 998	p-tau181
+T125	BiologicallyActiveSubstance 990 998	p-tau181
+T126	PopulationGroup 1479 1489	individual
+T127	PopulationGroup 2555 2565	individual
+T128	OrganismAttribute 1479 1489	individual
+T129	OrganismAttribute 2555 2565	individual
+T130	OrganismAttribute 1726 1730	size
+T131	OrganismAttribute 3243 3247	size
+T132	ResearchActivity 2113 2115	CI
+T133	ResearchActivity 2279 2281	CI
+T134	ResearchActivity 2341 2343	CI
+T135	ResearchActivity 2474 2476	CI
+T136	ResearchActivity 2506 2508	CI
+T137	ResearchActivity 3271 3273	CI
+T138	ResearchActivity 3344 3346	CI
+T139	OrganismAttribute 1805 1808	age
+T140	TemporalConcept 1826 1831	years
+T141	DiseaseOrSyndrome 3616 3630	preclinical AD
+T142	ResearchActivity 1801 1803	SD
+T143	ResearchActivity 1640 1654	power analysis
+T144	ResearchActivity 3169 3183	power analysis
+T145	BodyPartOrganOrOrganComponent 2313 2328	frontal regions
+T146	HealthCareActivity 246 249	PET
+T147	HealthCareActivity 395 398	PET
+T148	HealthCareActivity 1060 1063	PET
+T149	HealthCareActivity 1094 1097	PET
+T150	HealthCareActivity 1223 1226	PET
+T151	HealthCareActivity 1299 1302	PET
+T152	HealthCareActivity 1522 1525	PET
+T153	HealthCareActivity 1576 1596	longitudinal tau PET
+T154	HealthCareActivity 2026 2029	PET
+T155	HealthCareActivity 2598 2601	PET
+T156	HealthCareActivity 2685 2688	PET
+T157	HealthCareActivity 2746 2749	PET
+T158	HealthCareActivity 2824 2827	PET
+T159	HealthCareActivity 2962 2965	PET
+T160	HealthCareActivity 3048 3068	longitudinal tau PET
+T161	HealthCareActivity 3220 3223	PET
+T162	HealthCareActivity 3454 3457	PET
+T163	HealthCareActivity 3499 3502	PET
+T164	HealthCareActivity 3642 3645	PET
+T165	DiseaseOrSyndrome 671 696	mild cognitive impairment
+T166	AminoAcidPeptideOrProtein 547 553	A beta
+T167	AminoAcidPeptideOrProtein 606 612	A beta
+T168	AminoAcidPeptideOrProtein 638 644	A beta
+T169	AminoAcidPeptideOrProtein 1959 1965	A beta
+T170	AminoAcidPeptideOrProtein 2135 2141	A beta
+T171	AminoAcidPeptideOrProtein 2377 2383	A beta
+T172	AminoAcidPeptideOrProtein 2842 2848	A beta
+T173	AminoAcidPeptideOrProtein 2877 2883	A beta
+T174	AminoAcidPeptideOrProtein 3297 3303	A beta
+T175	AminoAcidPeptideOrProtein 3370 3376	A beta
+T176	BodyPartOrganOrOrganComponent 2075 2086	hippocampus
+T177	Finding 96 108	accumulation
+T178	Substance 1719 1725	sample
+T179	Substance 3236 3242	sample
+T180	BodyPartOrganOrOrganComponent 1719 1725	sample
+T181	BodyPartOrganOrOrganComponent 3236 3242	sample
+T182	ResearchActivity 79 91	longitudinal
+T183	ResearchActivity 2807 2819	longitudinal
+T184	HealthCareActivity 216 244	positron emission tomography
+T185	PopulationGroup 818 824	cohort
+T186	PopulationGroup 854 860	cohort
+T187	HealthCareActivity 1024 1050	magnetic resonance imaging
+T188	TemporalConcept 2047 2052	stage
+T189	TemporalConcept 2454 2459	stage
+T190	TemporalConcept 2690 2695	stage
+T191	TemporalConcept 2831 2836	stage
+T192	TemporalConcept 2967 2972	stage
+T193	TemporalConcept 3072 3077	stage
+T194	ClinicalAttribute 2047 2052	stage
+T195	ClinicalAttribute 2454 2459	stage
+T196	ClinicalAttribute 2690 2695	stage
+T197	ClinicalAttribute 2831 2836	stage
+T198	ClinicalAttribute 2967 2972	stage
+T199	ClinicalAttribute 3072 3077	stage
+T200	ClinicalAttribute 901 940	cerebrospinal fluid A beta 42/A beta 40
+T201	AminoAcidPeptideOrProtein 964 977	threonine-217
+T202	AminoAcidPeptideOrProtein 979 987	p-tau217
+T203	BiologicallyActiveSubstance 979 987	p-tau217
+T204	Chemical 1099 1110	[F-18]RO948
+T205	ResearchActivity 795 806	BioFINDER-2
+T206	ResearchActivity 830 841	BioFINDER-1
+T207	Chemical 1065 1083	[F-18]flutemetamol
+T208	Chemical 200 211	[F-18]RO948
+T209	TemporalConcept 280 289	continuum
+T210	PopulationGroup 466 478	PARTICIPANTS
+T211	ResearchActivity 445 451	DESIGN
+T212	ResearchActivity 1227 1258	standardized uptake value ratio
+T213	ResearchActivity 1260 1264	SUVR
+T214	ResearchActivity 1303 1307	SUVR
+T215	ResearchActivity 2030 2034	SUVR
+T216	Finding 2428 2441	modest change
+T217	AminoAcidPeptideOrProtein 2922 2930	p-tau217
+T218	BiologicallyActiveSubstance 2922 2930	p-tau217
+T219	ResearchActivity 3110 3121	BioFINDER-1
+T220	AminoAcidPeptideOrProtein 3202 3210	p-tau217
+T221	BiologicallyActiveSubstance 3202 3210	p-tau217
+T222	ClinicalAttribute 3474 3489	plasma p-tau217
+T223	ClinicalAttribute 3195 3210	plasma p-tau217
+T224	ClinicalAttribute 3578 3593	plasma p-tau217
+T225	ClinicalAttribute 3638 3645	tau PET
+T226	ClinicalAttribute 2641 2656	plasma p-tau217
+T227	ResearchActivity 2707 2711	SUVR
+T228	ResearchActivity 2985 2989	SUVR

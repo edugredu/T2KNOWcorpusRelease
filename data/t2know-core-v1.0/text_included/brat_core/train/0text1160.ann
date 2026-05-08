@@ -1,0 +1,39 @@
+T0	NucleicAcidNucleosideOrNucleotide 384 388	RNAs
+T1	ResearchActivity 81 97	characterization
+T2	ClinicalAttribute 119 140	peripheral biomarkers
+T3	ClinicalAttribute 501 522	peripheral biomarkers
+T4	NucleicAcidNucleosideOrNucleotide 278 298	long non-coding RNAs
+T5	BiologicallyActiveSubstance 278 298	long non-coding RNAs
+T6	NucleicAcidNucleosideOrNucleotide 283 298	non-coding RNAs
+T7	NucleicAcidNucleosideOrNucleotide 770 785	non-coding RNAs
+T8	ResearchActivity 741 749	overview
+T9	PathologicFunction 453 474	pathogenic mechanisms
+T10	NucleicAcidNucleosideOrNucleotide 300 307	lncRNAs
+T11	NucleicAcidNucleosideOrNucleotide 689 696	lncRNAs
+T12	NucleicAcidNucleosideOrNucleotide 540 546	lncRNA
+T13	BiologicallyActiveSubstance 283 298	non-coding RNAs
+T14	BiologicallyActiveSubstance 770 785	non-coding RNAs
+T15	ResearchActivity 432 446	investigations
+T16	BodyPartOrganOrOrganComponent 711 728	peripheral system
+T17	CellOrMolecularDysfunction 172 194	altered RNA processing
+T18	CellOrMolecularDysfunction 532 557	altered lncRNA signatures
+T19	ResearchActivity 615 621	review
+T20	HealthCareActivity 615 621	review
+T21	ResearchActivity 40 45	study
+T22	ResearchActivity 360 368	research
+T23	DiseaseOrSyndrome 49 68	Alzheimer's disease
+T24	ClinicalAttribute 130 140	biomarkers
+T25	ClinicalAttribute 512 522	biomarkers
+T26	ClinicalAttribute 595 605	biomarkers
+T27	DiseaseOrSyndrome 70 72	AD
+T28	DiseaseOrSyndrome 235 237	AD
+T29	DiseaseOrSyndrome 323 325	AD
+T30	DiseaseOrSyndrome 357 359	AD
+T31	DiseaseOrSyndrome 701 703	AD
+T32	DiseaseOrSyndrome 813 815	AD
+T33	NucleicAcidNucleosideOrNucleotide 180 183	RNA
+T34	ResearchActivity 678 682	data
+T35	BodyPartOrganOrOrganComponent 119 129	peripheral
+T36	BodyPartOrganOrOrganComponent 501 511	peripheral
+T37	BodyPartOrganOrOrganComponent 711 721	peripheral
+T38	DiseaseOrSyndrome 101 118	cognitive decline

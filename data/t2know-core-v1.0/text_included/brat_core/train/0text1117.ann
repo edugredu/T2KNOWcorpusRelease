@@ -1,0 +1,57 @@
+T0	BiologicFunction 0 5	Aging
+T1	BiologicFunction 33 50	physical function
+T2	CellFunction 56 75	cellular senescence
+T3	CellFunction 414 418	SASP
+T4	CellFunction 476 495	cellular senescence
+T5	BodyPartOrganOrOrganComponent 616 627	body fluids
+T6	GeneOrGenome 880 890	engineered
+T7	CellFunction 1010 1029	cellular senescence
+T8	DiseaseOrSyndrome 1169 1191	cardiovascular disease
+T9	DiseaseOrSyndrome 1193 1210	diabetes mellitus
+T10	PathologicFunction 1219 1232	complications
+T11	BodyPartOrganOrOrganComponent 1238 1242	skin
+T12	TemporalConcept 171 180	emergence
+T13	DiseaseOrSyndrome 1155 1167	osteoporosis
+T14	DiseaseOrSyndrome 1136 1153	Alzheimer disease
+T15	PathologicFunction 658 669	progression
+T16	TemporalConcept 658 669	progression
+T17	ResearchActivity 216 224	research
+T18	CellComponent 291 294	EVs
+T19	CellComponent 510 513	EVs
+T20	CellComponent 575 578	EVs
+T21	CellComponent 786 789	EVs
+T22	CellComponent 891 894	EVs
+T23	CellComponent 1002 1005	EVs
+T24	CellComponent 1087 1090	EVs
+T25	Cell 544 549	cells
+T26	Cell 740 745	cells
+T27	CellComponent 267 289	Extracellular vesicles
+T28	OrganismAttribute 732 739	healthy
+T29	ClinicalAttribute 693 713	potential biomarkers
+T30	CellFunction 310 337	intercellular communication
+T31	Finding 755 774	therapeutic effects
+T32	PharmacologicSubstance 232 247	antiaging drugs
+T33	BiologicFunction 112 117	aging
+T34	BiologicFunction 136 141	aging
+T35	BiologicFunction 192 197	aging
+T36	BiologicFunction 1102 1107	aging
+T37	BiologicFunction 1243 1248	aging
+T38	CellFunction 112 117	aging
+T39	CellFunction 136 141	aging
+T40	CellFunction 192 197	aging
+T41	CellFunction 1102 1107	aging
+T42	CellFunction 1243 1248	aging
+T43	OrganismAttribute 924 931	ability
+T44	PharmacologicSubstance 807 811	drug
+T45	PharmacologicSubstance 909 913	drug
+T46	ResearchActivity 843 850	studies
+T47	CellComponent 353 363	components
+T48	CellFunction 371 412	senescence-associated secretory phenotype
+T49	Finding 812 820	carriers
+T50	HealthCareActivity 1047 1083	diagnostic and therapeutic potential
+T51	Finding 14 21	decline
+T52	DiseaseOrSyndrome 192 214	aging-related diseases
+T53	PathologicFunction 439 457	pathological roles
+T54	PathologicFunction 592 612	pathological tissues
+T55	DiseaseOrSyndrome 1102 1124	aging-related diseases
+T56	Finding 936 958	utilization efficiency

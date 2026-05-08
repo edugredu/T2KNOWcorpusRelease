@@ -1,0 +1,29 @@
+T0	CellComponent 0 22	Extracellular vesicles
+T1	CellComponent 24 27	EVs
+T2	BodyPartOrganOrOrganComponent 89 108	extracellular space
+T3	CellComponent 123 126	EVs
+T4	CellComponent 219 222	EVs
+T5	CellFunction 323 359	cell-to-cell communication mechanism
+T6	CellComponent 369 372	EVs
+T7	CellFunction 412 417	cargo
+T8	CellComponent 486 512	small biological particles
+T9	ResearchActivity 595 606	experiments
+T10	CellComponent 616 619	EVs
+T11	CellComponent 891 893	EV
+T12	ResearchActivity 771 777	review
+T13	HealthCareActivity 771 777	review
+T14	Cell 74 79	cells
+T15	Cell 426 431	cells
+T16	TemporalConcept 748 755	current
+T17	TemporalConcept 917 924	current
+T18	TemporalConcept 169 176	decades
+T19	BiologicFunction 458 478	biological processes
+T20	HealthCareRelatedOrganization 894 903	community
+T21	HealthCareActivity 962 972	challenges
+T22	BiologicFunction 183 189	growth
+T23	BiologicFunction 868 874	growth
+T24	TemporalConcept 160 164	past
+T25	CellComponent 33 61	small cargo-bearing vesicles
+T26	CellFunction 240 261	waste disposal system
+T27	ResearchActivity 788 799	experiments
+T28	Finding 811 823	key findings

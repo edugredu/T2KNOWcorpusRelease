@@ -1,0 +1,77 @@
+T0	CellFunction 63 72	metabolic
+T1	CellFunction 434 445	myelinating
+T2	OrganismAttribute 521 531	morphology
+T3	CellComponent 757 773	plasma membranes
+T4	Finding 787 804	growing knowledge
+T5	Chemical 1195 1206	cholesterol
+T6	BiologicallyActiveSubstance 1195 1206	cholesterol
+T7	HealthCareActivity 967 976	challenge
+T8	CellComponent 47 52	axons
+T9	CellComponent 1286 1291	axons
+T10	Cell 446 462	oligodendrocytes
+T11	Cell 1028 1044	oligodendrocytes
+T12	Cell 365 369	OPCs
+T13	Cell 482 486	OPCs
+T14	Cell 866 869	OPC
+T15	BiologicFunction 418 428	maturation
+T16	Cell 332 363	oligodendrocyte precursor cells
+T17	DiseaseOrSyndrome 167 185	multiple sclerosis
+T18	BodyPartOrganOrOrganComponent 208 214	myelin
+T19	BodyPartOrganOrOrganComponent 1268 1274	myelin
+T20	InjuryOrPoisoning 378 384	lesion
+T21	BodyPartOrganOrOrganComponent 1323 1343	extracellular matrix
+T22	CellFunction 398 413	differentiation
+T23	BodyPartOrganOrOrganComponent 1345 1348	ECM
+T24	BodyPartOrganOrOrganComponent 1389 1392	ECM
+T25	BodyPartOrganOrOrganComponent 1441 1444	ECM
+T26	BiologicFunction 879 891	regeneration
+T27	Cell 434 462	myelinating oligodendrocytes
+T28	Cell 808 823	oligodendroglia
+T29	Cell 348 363	precursor cells
+T30	Cell 332 357	oligodendrocyte precursor
+T31	HealthCareActivity 879 891	regeneration
+T32	CellComponent 684 692	membrane
+T33	CellComponent 764 773	membranes
+T34	BodyPartOrganOrOrganComponent 0 6	Myelin
+T35	BodyPartOrganOrOrganComponent 277 283	Myelin
+T36	BodyPartOrganOrOrganComponent 757 763	plasma
+T37	HealthCareActivity 1409 1415	report
+T38	ResearchActivity 1409 1415	report
+T39	Cell 572 577	cells
+T40	Finding 795 804	knowledge
+T41	Finding 114 126	transmission
+T42	PathologicFunction 1060 1072	pathogenesis
+T43	CellFunction 663 673	metabolism
+T44	CellFunction 1014 1024	metabolism
+T45	BiologicFunction 663 673	metabolism
+T46	BiologicFunction 1014 1024	metabolism
+T47	CellComponent 582 595	extracellular
+T48	ResearchActivity 915 925	strategies
+T49	BiologicFunction 915 925	strategies
+T50	Cell 84 91	neurons
+T51	PharmacologicSubstance 1129 1134	drugs
+T52	BiomedicalOccupationOrDiscipline 824 831	biology
+T53	Chemical 1275 1281	lipids
+T54	CellFunction 1211 1238	lipid biosynthetic pathways
+T55	Chemical 657 662	lipid
+T56	Chemical 1008 1013	lipid
+T57	Chemical 1211 1216	lipid
+T58	Finding 1250 1259	interplay
+T59	CellFunction 937 950	remyelination
+T60	CellFunction 1161 1174	remyelination
+T61	CellFunction 1481 1494	remyelination
+T62	PathologicFunction 1076 1089	demyelination
+T63	PopulationGroup 326 331	adult
+T64	Finding 247 253	severe
+T65	Finding 548 560	interactions
+T66	BiologicFunction 824 831	biology
+T67	CellFunction 657 673	lipid metabolism
+T68	CellFunction 1008 1024	lipid metabolism
+T69	BiologicFunction 657 673	lipid metabolism
+T70	BiologicFunction 1008 1024	lipid metabolism
+T71	HealthCareRelatedOrganization 1116 1119	FDA
+T72	BiologicFunction 284 290	repair
+T73	HealthCareActivity 284 290	repair
+T74	DiseaseOrSyndrome 136 157	neurological diseases
+T75	Finding 504 511	changes
+T76	BodyPartOrganOrOrganComponent 582 607	extracellular environment

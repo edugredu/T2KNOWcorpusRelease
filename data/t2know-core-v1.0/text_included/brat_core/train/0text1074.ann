@@ -1,0 +1,102 @@
+T0	ResearchActivity 665 691	next generation sequencing
+T1	CellFunction 1056 1071	mRNA processing
+T2	NucleicAcidNucleosideOrNucleotide 1130 1143	antisense RNA
+T3	GeneOrGenome 1151 1159	MAP3K7CL
+T4	MolecularSequence 629 642	transcriptome
+T5	ResearchActivity 907 910	PCA
+T6	Finding 293 301	invasive
+T7	NucleicAcidNucleosideOrNucleotide 1448 1459	transcripts
+T8	DiseaseOrSyndrome 178 181	ALS
+T9	DiseaseOrSyndrome 803 806	ALS
+T10	DiseaseOrSyndrome 989 992	ALS
+T11	DiseaseOrSyndrome 1209 1212	ALS
+T12	CellComponent 471 475	SEVs
+T13	CellComponent 772 776	SEVs
+T14	CellComponent 967 971	SEVs
+T15	CellComponent 1341 1345	SEVs
+T16	CellComponent 1487 1491	SEVs
+T17	PopulationGroup 519 537	healthy volunteers
+T18	ResearchActivity 588 598	filtration
+T19	ResearchActivity 693 696	NGS
+T20	CellComponent 462 466	LEVs
+T21	CellComponent 781 785	LEVs
+T22	CellComponent 1098 1102	LEVs
+T23	CellComponent 1332 1336	LEVs
+T24	CellComponent 1478 1482	LEVs
+T25	ResearchActivity 556 583	differential centrifugation
+T26	PopulationGroup 548 551	CTR
+T27	PopulationGroup 843 847	CTRs
+T28	ClinicalAttribute 289 311	non-invasive biomarker
+T29	CellComponent 451 460	small EVs
+T30	CellComponent 213 234	Extracellular vesicle
+T31	NucleicAcidNucleosideOrNucleotide 738 758	long non-coding RNAs
+T32	BiologicallyActiveSubstance 738 758	long non-coding RNAs
+T33	DiseaseOrSyndrome 95 114	Alzheimer's disease
+T34	CellComponent 441 446;457 460	Large EVs
+T35	CellComponent 1262 1265	EVs
+T36	CellComponent 1402 1405	EVs
+T37	DiseaseOrSyndrome 116 118	AD
+T38	DiseaseOrSyndrome 1283 1285	AD
+T39	CellComponent 236 238	EV
+T40	CellComponent 367 369	EV
+T41	OrganismAttribute 519 526	healthy
+T42	OrganismAttribute 835 842	healthy
+T43	PatientOrDisabledGroup 506 514	patients
+T44	PatientOrDisabledGroup 789 797	patients
+T45	PatientOrDisabledGroup 975 983	patients
+T46	PatientOrDisabledGroup 1269 1277	patients
+T47	DiseaseOrSyndrome 203 211	dementia
+T48	ResearchActivity 877 905	principal component analysis
+T49	ResearchActivity 1524 1529	study
+T50	BodyPartOrganOrOrganComponent 496 502	plasma
+T51	BodyPartOrganOrOrganComponent 1387 1393	plasma
+T52	DiseaseOrSyndrome 121 140	Parkinson's disease
+T53	DiseaseOrSyndrome 142 144	PD
+T54	DiseaseOrSyndrome 1223 1225	PD
+T55	ClinicalAttribute 39 49	biomarkers
+T56	ClinicalAttribute 302 311	biomarker
+T57	Finding 289 301	non-invasive
+T58	DiseaseOrSyndrome 54 80	neurodegenerative diseases
+T59	CellFunction 244 249	cargo
+T60	NucleicAcidNucleosideOrNucleotide 743 758	non-coding RNAs
+T61	NucleicAcidNucleosideOrNucleotide 760 767	lncRNAs
+T62	NucleicAcidNucleosideOrNucleotide 1364 1371	lncRNAs
+T63	BiologicallyActiveSubstance 743 758	non-coding RNAs
+T64	BiologicallyActiveSubstance 760 767	lncRNAs
+T65	BiologicallyActiveSubstance 1364 1371	lncRNAs
+T66	Finding 334 343	knowledge
+T67	CellOrMolecularDysfunction 402 419	neurodegeneration
+T68	DiseaseOrSyndrome 147 176	amyotrophic lateral sclerosis
+T69	CellFunction 1076 1093	splicing pathways
+T70	DiseaseOrSyndrome 188 211	frontotemporal dementia
+T71	DiseaseOrSyndrome 997 1020	frontotemporal dementia
+T72	DiseaseOrSyndrome 1022 1025	FTD
+T73	DiseaseOrSyndrome 1214 1217	FTD
+T74	DiseaseOrSyndrome 82 85	NDs
+T75	DiseaseOrSyndrome 316 319	NDs
+T76	DiseaseOrSyndrome 863 866	NDs
+T77	DiseaseOrSyndrome 1349 1352	NDs
+T78	DiseaseOrSyndrome 1409 1412	NDs
+T79	DiseaseOrSyndrome 1501 1504	NDs
+T80	NucleicAcidNucleosideOrNucleotide 724 728	mRNA
+T81	NucleicAcidNucleosideOrNucleotide 1056 1060	mRNA
+T82	NucleicAcidNucleosideOrNucleotide 1117 1121	mRNA
+T83	NucleicAcidNucleosideOrNucleotide 240 243	RNA
+T84	NucleicAcidNucleosideOrNucleotide 604 607	RNA
+T85	NucleicAcidNucleosideOrNucleotide 713 716	RNA
+T86	NucleicAcidNucleosideOrNucleotide 1140 1143	RNA
+T87	NucleicAcidNucleosideOrNucleotide 1307 1310	RNA
+T88	NucleicAcidNucleosideOrNucleotide 754 758	RNAs
+T89	NucleicAcidNucleosideOrNucleotide 370 375	mRNAs
+T90	NucleicAcidNucleosideOrNucleotide 918 923	mRNAs
+T91	NucleicAcidNucleosideOrNucleotide 1242 1247	mRNAs
+T92	NucleicAcidNucleosideOrNucleotide 1354 1359	mRNAs
+T93	BiologicallyActiveSubstance 370 375	mRNAs
+T94	BiologicallyActiveSubstance 918 923	mRNAs
+T95	BiologicallyActiveSubstance 1242 1247	mRNAs
+T96	BiologicallyActiveSubstance 1354 1359	mRNAs
+T97	BiologicallyActiveSubstance 724 728	mRNA
+T98	BiologicallyActiveSubstance 1056 1060	mRNA
+T99	BiologicallyActiveSubstance 1117 1121	mRNA
+T100	GeneOrGenome 1164 1174	AP003068.3
+T101	ResearchActivity 623 642	Whole transcriptome

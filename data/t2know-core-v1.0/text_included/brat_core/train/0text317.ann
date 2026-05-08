@@ -1,0 +1,43 @@
+T0	HealthCareActivity 4 22	clinical diagnosis
+T1	Finding 139 147	invasive
+T2	HealthCareActivity 172 204	noninvasive methods of diagnosis
+T3	HealthCareActivity 270 297	cognitive assessment scores
+T4	BiologicFunction 299 319	Biological processes
+T5	PathologicFunction 331 345	neuropathology
+T6	TemporalConcept 368 373	years
+T7	BodyPartOrganOrOrganComponent 404 426	central nervous system
+T8	BodyPartOrganOrOrganComponent 431 457	vascular peripheral system
+T9	Finding 568 576	low cost
+T10	Finding 578 598	minimal invasiveness
+T11	HealthCareActivity 632 644	world clinic
+T12	NucleicAcidNucleosideOrNucleotide 705 716	transcripts
+T13	PopulationGroup 749 768	healthy individuals
+T14	DiseaseOrSyndrome 785 804	Alzheimer's disease
+T15	DiseaseOrSyndrome 806 825	Parkinson's disease
+T16	DiseaseOrSyndrome 849 878	amyotrophic lateral sclerosis
+T17	DiseaseOrSyndrome 880 899	Friedreich's ataxia
+T18	DiseaseOrSyndrome 904 927	frontotemporal dementia
+T19	NucleicAcidNucleosideOrNucleotide 1022 1033	transcripts
+T20	BodyPartOrganOrOrganComponent 1045 1050	blood
+T21	NucleicAcidNucleosideOrNucleotide 1080 1091	transcripts
+T22	Finding 1153 1185	high sensitivity and specificity
+T23	BiomedicalOccupationOrDiscipline 1228 1243	transcriptomics
+T24	TemporalConcept 83 90	current
+T25	DiseaseOrSyndrome 827 847	Huntington's disease
+T26	MachineActivity 976 1002	machine learning algorithm
+T27	DiseaseOrSyndrome 26 52	neurodegenerative diseases
+T28	DiseaseOrSyndrome 508 534	neurodegenerative diseases
+T29	DiseaseOrSyndrome 1121 1147	neurodegenerative diseases
+T30	DiseaseOrSyndrome 1270 1296	neurodegenerative diseases
+T31	TemporalConcept 346 354	progress
+T32	ResearchActivity 654 659	study
+T33	HealthCareActivity 1396 1416	treatment strategies
+T34	ResearchActivity 1396 1416	treatment strategies
+T35	HealthCareActivity 461 479	blood-based screen
+T36	BodyPartOrganOrOrganComponent 699 704	blood
+T37	ResearchActivity 935 959	existing public datasets
+T38	NucleicAcidNucleosideOrNucleotide 1224 1227	RNA
+T39	ResearchActivity 1218 1243	blood RNA transcriptomics
+T40	Finding 109 118	expensive
+T41	Finding 120 134	time-consuming
+T42	HealthCareActivity 240 250	clinicians

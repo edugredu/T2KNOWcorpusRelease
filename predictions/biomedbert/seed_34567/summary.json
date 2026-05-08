@@ -1,0 +1,14 @@
+{
+  "global_metrics": {
+    "Accuracy": 0.5296446088976853,
+    "F1": 0.6543115820059886,
+    "Precision": 0.5849833676540472,
+    "Recall": 0.7422817173178967
+  },
+  "logit_threshold": 0.5,
+  "model_dir": "model checkpoints not distributed in the public release",
+  "prediction_count": 2869,
+  "start_confidence": 0.9,
+  "test_file": "data/t2know-core-v1.0/document_disjoint_hybrid/testData.json",
+  "archived_run_name": "biomedbert_disjoint_seed34567"
+}

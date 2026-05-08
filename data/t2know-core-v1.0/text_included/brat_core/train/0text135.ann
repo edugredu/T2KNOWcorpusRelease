@@ -1,0 +1,65 @@
+T0	HealthCareActivity 0 23	Transcranial sonography
+T1	HealthCareActivity 25 28	TCS
+T2	HealthCareActivity 35 50	diagnostic tool
+T3	BiologicFunction 54 58	mood
+T4	DiseaseOrSyndrome 63 81	movement disorders
+T5	Finding 83 94	Alterations
+T6	BodyPartOrganOrOrganComponent 106 133	raphe mesencephalic nucleus
+T7	SignOrSymptom 230 249	depressive symptoms
+T8	BodyPartOrganOrOrganComponent 359 372	nucleus raphe
+T9	BodyPartOrganOrOrganComponent 383 396	basal ganglia
+T10	HealthCareActivity 441 444	TCS
+T11	BodyPartOrganOrOrganComponent 601 606	Raphe
+T12	Finding 607 623	hypoechogenicity
+T13	Finding 756 763	history
+T14	Finding 855 874	hypoechogenic raphe
+T15	HealthCareActivity 935 938	BDI
+T16	BodyPartOrganOrOrganComponent 1051 1066	third ventricle
+T17	ResearchActivity 1082 1092	correlated
+T18	HealthCareActivity 1129 1133	MMSE
+T19	ResearchActivity 1318 1328	correlated
+T20	BodyPartOrganOrOrganComponent 1407 1420	basal ganglia
+T21	PatientOrDisabledGroup 1261 1277	patients with HD
+T22	PatientOrDisabledGroup 1477 1493	patients with HD
+T23	DiseaseOrSyndrome 681 691	depression
+T24	DiseaseOrSyndrome 767 777	depression
+T25	DiseaseOrSyndrome 829 839	depression
+T26	DiseaseOrSyndrome 905 915	depression
+T27	SignOrSymptom 809 814	signs
+T28	DiseaseOrSyndrome 192 208	major depression
+T29	HealthCareActivity 1098 1127	Mini-Mental State Examination
+T30	Finding 1376 1383	Changes
+T31	SignOrSymptom 669 677	symptoms
+T32	SignOrSymptom 1441 1470	depressive and motor symptoms
+T33	Finding 818 825	history
+T34	PatientOrDisabledGroup 841 849	Patients
+T35	ResearchActivity 495 516	observational studies
+T36	HealthCareActivity 1338 1355	total motor score
+T37	HealthCareActivity 1357 1360	TMS
+T38	HealthCareActivity 1179 1182	TFC
+T39	BodyPartOrganOrOrganComponent 141 146	brain
+T40	Finding 983 989	normal
+T41	PatientOrDisabledGroup 178 186	patients
+T42	PatientOrDisabledGroup 216 224	patients
+T43	PatientOrDisabledGroup 400 408	patients
+T44	PatientOrDisabledGroup 731 739	patients
+T45	PatientOrDisabledGroup 789 797	patients
+T46	PatientOrDisabledGroup 969 977	patients
+T47	DiseaseOrSyndrome 414 434	Huntington's disease
+T48	DiseaseOrSyndrome 436 438	HD
+T49	TemporalConcept 661 668	current
+T50	ResearchActivity 315 320	study
+T51	PatientOrDisabledGroup 466 477	HD patients
+T52	PatientOrDisabledGroup 644 655	HD patients
+T53	DiseaseOrSyndrome 271 298	neurodegenerative disorders
+T54	ClinicalAttribute 1296 1313	hyperechogenicity
+T55	ClinicalAttribute 1387 1399	echogenicity
+T56	ResearchActivity 518 536	Registry/Enroll-HD
+T57	ClinicalAttribute 339 351	echogenicity
+T58	ClinicalAttribute 990 1002	echogenicity
+T59	HealthCareRelatedOrganization 545 582	Institute of Psychiatry and Neurology
+T60	HealthCareActivity 706 721	DSM-IV criteria
+T61	HealthCareActivity 1152 1177;1184 1190	total functional capacity scores
+T62	BodyPartOrganOrOrganComponent 1220 1236	substantia nigra
+T63	Finding 1205 1236	Hyperechogenic substantia nigra
+T64	ClinicalAttribute 1035 1066	diameter of the third ventricle

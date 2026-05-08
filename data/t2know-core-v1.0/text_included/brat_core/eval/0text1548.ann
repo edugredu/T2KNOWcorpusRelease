@@ -1,0 +1,68 @@
+T0	ResearchActivity 269 279	aspiration
+T1	DiseaseOrSyndrome 351 360	tauopathy
+T2	AminoAcidPeptideOrProtein 403 424	Neurogranin Trunc-p75
+T3	BiologicallyActiveSubstance 403 424	Neurogranin Trunc-p75
+T4	NaturalPhenomenonOrProcess 465 472	gravity
+T5	ResearchActivity 476 505	aspiration extraction methods
+T6	AminoAcidPeptideOrProtein 1059 1069	collection
+T7	CellComponent 1071 1078	storage
+T8	BiologicFunction 1071 1078	storage
+T9	GeneOrGenome 396 401	BACE1
+T10	AminoAcidPeptideOrProtein 396 401	BACE1
+T11	BiologicallyActiveSubstance 396 401	BACE1
+T12	TemporalConcept 51 58	routine
+T13	BodyPartOrganOrOrganComponent 377 384	synapse
+T14	PathologicFunction 304 322	beta-amyloidopathy
+T15	AminoAcidPeptideOrProtein 426 441	alpha-synuclein
+T16	BiologicallyActiveSubstance 426 441	alpha-synuclein
+T17	AminoAcidPeptideOrProtein 432 441	synuclein
+T18	BiologicallyActiveSubstance 432 441	synuclein
+T19	PopulationGroup 515 525	population
+T20	HealthCareActivity 160 175	lumbar puncture
+T21	ClinicalAttribute 289 299	Biomarkers
+T22	AminoAcidPeptideOrProtein 324 335	A beta 1-42
+T23	AminoAcidPeptideOrProtein 337 348	A beta 1-40
+T24	BiologicallyActiveSubstance 324 335	A beta 1-42
+T25	BiologicallyActiveSubstance 337 348	A beta 1-40
+T26	Finding 823 826	low
+T27	AminoAcidPeptideOrProtein 368 371	tau
+T28	DiseaseOrSyndrome 654 673	Alzheimer's disease
+T29	BodyPartOrganOrOrganComponent 11 14	CSF
+T30	BodyPartOrganOrOrganComponent 130 133	CSF
+T31	BodyPartOrganOrOrganComponent 226 229	CSF
+T32	BodyPartOrganOrOrganComponent 920 923	CSF
+T33	BodyPartOrganOrOrganComponent 1055 1058	CSF
+T34	BiologicallyActiveSubstance 368 371	tau
+T35	ClinicalAttribute 204 213	biomarker
+T36	ClinicalAttribute 696 705	biomarker
+T37	AminoAcidPeptideOrProtein 362 371	total tau
+T38	BiologicallyActiveSubstance 362 371	total tau
+T39	ResearchActivity 957 974	extraction method
+T40	ClinicalAttribute 15 25	biomarkers
+T41	ClinicalAttribute 924 934	biomarkers
+T42	ClinicalAttribute 1096 1106	biomarkers
+T43	ResearchActivity 585 590	study
+T44	ResearchActivity 992 997	study
+T45	HealthCareActivity 102 112	assessment
+T46	ResearchActivity 102 112	assessment
+T47	PathologicFunction 385 394	pathology
+T48	BiomedicalOccupationOrDiscipline 385 394	pathology
+T49	ResearchActivity 683 690	Results
+T50	ResearchActivity 976 983	Results
+T51	Finding 592 610	cognitively normal
+T52	ResearchActivity 1084 1092	analysis
+T53	DiseaseOrSyndrome 620 645	mild cognitive impairment
+T54	AminoAcidPeptideOrProtein 324 330	A beta
+T55	AminoAcidPeptideOrProtein 337 343	A beta
+T56	ResearchActivity 533 577	Australian Imaging, Biomarkers and Lifestyle
+T57	ResearchActivity 579 583	AIBL
+T58	ResearchActivity 214 222	profiles
+T59	Finding 856 860	high
+T60	Finding 59 71	clinical use
+T61	ResearchActivity 130 152	CSF extraction methods
+T62	ResearchActivity 253 265	gravity drip
+T63	ResearchActivity 726 744	extraction methods
+T64	ResearchActivity 755 778	concordance correlation
+T65	ResearchActivity 827 844	beta coefficients
+T66	ResearchActivity 788 814	Passing Bablock regression
+T67	ResearchActivity 861 872	scalability

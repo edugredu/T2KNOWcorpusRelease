@@ -1,0 +1,85 @@
+T0	ExperimentalModelOfDisease 103 144	experimental autoimmune encephalomyelitis
+T1	ExperimentalModelOfDisease 146 149	EAE
+T2	CellOrMolecularDysfunction 220 243	defect in remyelination
+T3	PathologicFunction 388 405	disease evolution
+T4	CellFunction 485 498	remyelination
+T5	TemporalConcept 631 640	relapsing
+T6	ExperimentalModelOfDisease 641 644	EAE
+T7	TemporalConcept 805 814	prolonged
+T8	Cell 909 940	oligodendrocyte precursor cells
+T9	Chemical 990 999	cuprizone
+T10	TemporalConcept 1029 1040	concomitant
+T11	CellFunction 1054 1067	remyelination
+T12	TemporalConcept 1068 1081	2 weeks after
+T13	Chemical 1082 1091	cuprizone
+T14	ResearchActivity 1082 1102	cuprizone withdrawal
+T15	BiologicFunction 1199 1207	recovery
+T16	HealthCareActivity 1199 1207	recovery
+T17	Finding 1213 1241	no impairment of motor skill
+T18	BiologicFunction 1230 1241	motor skill
+T19	BiologicFunction 1315 1323	motility
+T20	BiologicFunction 1328 1339	motor skill
+T21	DiseaseOrSyndrome 1384 1407	neurological impairment
+T22	CellFunction 1451 1459	motility
+T23	BiologicFunction 1451 1459	motility
+T24	BiologicFunction 1464 1475	motor skill
+T25	ExperimentalModelOfDisease 1526 1529	EAE
+T26	BodyPartOrganOrOrganComponent 1619 1625	myelin
+T27	CellComponent 1619 1625	myelin
+T28	Chemical 1737 1746	cuprizone
+T29	ResearchActivity 1800 1811	experiments
+T30	PathologicFunction 1530 1541	progression
+T31	TemporalConcept 1530 1541	progression
+T32	ResearchActivity 1486 1490	data
+T33	Finding 766 774	evidence
+T34	DiseaseOrSyndrome 70 84	progressive MS
+T35	DiseaseOrSyndrome 409 423	progressive MS
+T36	ExperimentalModelOfDisease 0 8	NOD mice
+T37	Eukaryote 717 729	mice strains
+T38	Eukaryote 1014 1018	mice
+T39	Eukaryote 1349 1357	SJL mice
+T40	PathologicFunction 258 277	disease progression
+T41	TemporalConcept 1793 1799	future
+T42	Finding 1278 1294	phasic reduction
+T43	Finding 1426 1435	reduction
+T44	NaturalPhenomenonOrProcess 1426 1435	reduction
+T45	CellOrMolecularDysfunction 778 797	axonal degeneration
+T46	Finding 1680 1691	differences
+T47	Finding 1377 1407	severe neurological impairment
+T48	HealthCareActivity 649 655	report
+T49	ResearchActivity 649 655	report
+T50	Cell 887 896	microglia
+T51	Cell 867 877	astrocytes
+T52	PathologicFunction 199 212	demyelination
+T53	PathologicFunction 467 480	demyelination
+T54	PathologicFunction 661 674	demyelination
+T55	PathologicFunction 815 828	demyelination
+T56	PathologicFunction 1581 1594	demyelination
+T57	TemporalConcept 1147 1155	earliest
+T58	TemporalConcept 1341 1347	Lastly
+T59	ExperimentalModelOfDisease 281 289	NOD mice
+T60	TemporalConcept 620 627	chronic
+T61	TemporalConcept 607 618	progressive
+T62	Chemical 447 456	cuprizone
+T63	Eukaryote 571 579	SJL mice
+T64	ResearchActivity 840 854	immunostaining
+T65	AminoAcidPeptideOrProtein 859 863	GFAP
+T66	GeneOrGenome 859 863	GFAP
+T67	BiologicallyActiveSubstance 859 863	GFAP
+T68	AminoAcidPeptideOrProtein 879 883	Iba1
+T69	BiologicallyActiveSubstance 879 883	Iba1
+T70	AminoAcidPeptideOrProtein 902 905	NG2
+T71	BiologicallyActiveSubstance 902 905	NG2
+T72	HealthCareActivity 1082 1102	cuprizone withdrawal
+T73	HealthCareActivity 990 1008	cuprizone exposure
+T74	ResearchActivity 990 1008	cuprizone exposure
+T75	ExperimentalModelOfDisease 1127 1135	NOD mice
+T76	Finding 1156 1189	reduction of spontaneous motility
+T77	Eukaryote 1255 1270	C57BL/6 animals
+T78	CellFunction 1315 1323	motility
+T79	TemporalConcept 1413 1425	long-lasting
+T80	ExperimentalModelOfDisease 1545 1553	NOD mice
+T81	CellOrMolecularDysfunction 1598 1635	intrinsic defects in myelin formation
+T82	Eukaryote 1721 1733	mouse stains
+T83	ExperimentalModelOfDisease 553 556;575 579	NOD mice
+T84	Eukaryote 558 565;575 579	C57BL/6 mice

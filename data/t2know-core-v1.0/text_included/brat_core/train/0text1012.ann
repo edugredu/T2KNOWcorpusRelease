@@ -1,0 +1,78 @@
+T0	CellComponent 140 144	SEVs
+T1	CellComponent 391 395	SEVs
+T2	CellComponent 541 545	SEVs
+T3	PopulationGroup 588 606	healthy volunteers
+T4	ResearchActivity 616 626	filtration
+T5	NucleicAcidNucleosideOrNucleotide 682 692	Small RNAs
+T6	ResearchActivity 723 749	Next Generation Sequencing
+T7	ResearchActivity 751 754	NGS
+T8	NucleicAcidNucleosideOrNucleotide 757 763	MiRNAs
+T9	ResearchActivity 827 836	signature
+T10	CellComponent 880 884	SEVs
+T11	AminoAcidPeptideOrProtein 908 917	ubiquitin
+T12	BiologicallyActiveSubstance 908 917	ubiquitin
+T13	CellFunction 908 938	ubiquitin mediated proteolysis
+T14	CellFunction 943 980	Toll-like receptor signaling pathways
+T15	CellFunction 1024 1062	Glycosphingolipid biosynthesis pathway
+T16	CellComponent 1073 1077	SEVs
+T17	CellComponent 1259 1263	SEVs
+T18	ResearchActivity 1303 1312	discovery
+T19	HealthCareActivity 46 55	diagnosis
+T20	DiseaseOrSyndrome 425 444	Parkinson's disease
+T21	DiseaseOrSyndrome 59 85	neurodegenerative diseases
+T22	ResearchActivity 301 306	study
+T23	ResearchActivity 1198 1203	study
+T24	CellOrMolecularDysfunction 1345 1362	neurodegeneration
+T25	ResearchActivity 1334 1341	studies
+T26	CellComponent 116 138	extracellular vesicles
+T27	CellComponent 150 172	extracellular vesicles
+T28	DiseaseOrSyndrome 399 418	Alzheimer's disease
+T29	ClinicalAttribute 12 22	biomarkers
+T30	ClinicalAttribute 266 276	biomarkers
+T31	Finding 1135 1146	specificity
+T32	CellComponent 174 177	EVs
+T33	DiseaseOrSyndrome 420 422	AD
+T34	PathologicFunction 1321 1333	pathogenesis
+T35	OrganismAttribute 588 595	healthy
+T36	NucleicAcidNucleosideOrNucleotide 1228 1234	miRNAs
+T37	BiologicallyActiveSubstance 1228 1234	miRNAs
+T38	DiseaseOrSyndrome 446 448	PD
+T39	DiseaseOrSyndrome 482 485	ALS
+T40	BodyPartOrganOrOrganComponent 238 243	blood
+T41	BodyPartOrganOrOrganComponent 367 373	plasma
+T42	BodyPartOrganOrOrganComponent 565 571	plasma
+T43	CellComponent 110 138	small extracellular vesicles
+T44	NucleicAcidNucleosideOrNucleotide 347 352	miRNA
+T45	BiologicallyActiveSubstance 347 352	miRNA
+T46	DiseaseOrSyndrome 87 90	NDs
+T47	DiseaseOrSyndrome 281 284	NDs
+T48	DiseaseOrSyndrome 781 784	NDs
+T49	DiseaseOrSyndrome 846 849	NDs
+T50	PatientOrDisabledGroup 522 530	patients
+T51	PatientOrDisabledGroup 575 583	patients
+T52	CellFunction 867 875	pathways
+T53	CellFunction 1104 1112	pathways
+T54	BiologicFunction 202 222	biological functions
+T55	CellFunction 997 1019	neurotrophin signaling
+T56	NucleicAcidNucleosideOrNucleotide 663 666	RNA
+T57	DiseaseOrSyndrome 451 480	Amyotrophic Lateral Sclerosis
+T58	DiseaseOrSyndrome 517 520	FTD
+T59	BiologicallyActiveSubstance 943 961	Toll-like receptor
+T60	ClinicalAttribute 1293 1302	biomarker
+T61	CellComponent 116 138;93 98	extracellular vesicles Large
+T62	CellComponent 100 104	LEVs
+T63	ResearchActivity 347 363	miRNA signatures
+T64	CellComponent 367 386	plasma derived LEVs
+T65	CellComponent 382 386	LEVs
+T66	DiseaseOrSyndrome 491 515	Fronto-Temporal Dementia
+T67	CellComponent 532 536	LEVs
+T68	ResearchActivity 631 658	differential centrifugation
+T69	ResearchActivity 682 702	Small RNAs libraries
+T70	PopulationGroup 608 611	CTR
+T71	PopulationGroup 799 803	CTRs
+T72	AminoAcidPeptideOrProtein 943 961	Toll-like receptor
+T73	CellComponent 989 993	LEVs
+T74	CellComponent 1064 1068	LEVs
+T75	CellComponent 1250 1254	LEVs
+T76	ResearchActivity 851 875	Common enriched pathways
+T77	Finding 1168 1192	spreading of the disease

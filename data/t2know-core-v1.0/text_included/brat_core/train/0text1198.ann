@@ -1,0 +1,149 @@
+T0	BodyPartOrganOrOrganComponent 4 18	choroid plexus
+T1	BodyPartOrganOrOrganComponent 20 23	ChP
+T2	Cell 179 215	Human-induced pluripotent stem cells
+T3	Cell 217 223	hiPSCs
+T4	BodyPartOrganOrOrganComponent 349 352	ChP
+T5	PathologicFunction 405 426	inflammatory response
+T6	BodyPartOrganOrOrganComponent 490 493	ChP
+T7	PathologicFunction 556 577	inflammatory response
+T8	BodyPartOrganOrOrganComponent 599 602	ChP
+T9	Cell 626 632	hiPSCs
+T10	AminoAcidPeptideOrProtein 670 698	bone morphogenetic protein 4
+T11	Chemical 726 735	CHIR99021
+T12	AminoAcidPeptideOrProtein 760 765	GSK-3
+T13	BiologicallyActiveSubstance 766 780	beta inhibitor
+T14	TemporalConcept 813 816	day
+T15	BodyPartOrganOrOrganComponent 825 828	ChP
+T16	ResearchActivity 885 899	flow cytometry
+T17	AminoAcidPeptideOrProtein 904 907	TTR
+T18	GeneOrGenome 904 907	TTR
+T19	GeneOrGenome 929 934	CLIC6
+T20	GeneOrGenome 1075 1080	CLIC6
+T21	GeneOrGenome 1091 1095	PLEC
+T22	GeneOrGenome 1106 1110	PLTP
+T23	GeneOrGenome 1123 1126	DCN
+T24	GeneOrGenome 1148 1152	DLK1
+T25	AminoAcidPeptideOrProtein 1169 1173	AQP1
+T26	GeneOrGenome 1169 1173	AQP1
+T27	AminoAcidPeptideOrProtein 1210 1213	TTR
+T28	GeneOrGenome 1210 1213	TTR
+T29	GeneOrGenome 1226 1232	IGFBP7
+T30	GeneOrGenome 1245 1249	MSX1
+T31	AminoAcidPeptideOrProtein 1245 1249	MSX1
+T32	GeneOrGenome 1266 1269	LUM
+T33	BiologicFunction 1508 1523	Developmentally
+T34	BodyPartOrganOrOrganComponent 1554 1557	ChP
+T35	TemporalConcept 1602 1605	day
+T36	TemporalConcept 1612 1615	day
+T37	BodyPartOrganOrOrganComponent 1699 1702	ChP
+T38	ManufacturedObject 1758 1779	drug delivery systems
+T39	ResearchActivity 861 880	immunocytochemistry
+T40	Chemical 745 759	small molecule
+T41	BiologicallyActiveSubstance 670 698	bone morphogenetic protein 4
+T42	DiseaseOrSyndrome 1844 1859	ischemic stroke
+T43	BodyPartOrganOrOrganComponent 280 289	organoids
+T44	BodyPartOrganOrOrganComponent 353 362	organoids
+T45	BodyPartOrganOrOrganComponent 494 503	organoids
+T46	BodyPartOrganOrOrganComponent 603 612	organoids
+T47	BodyPartOrganOrOrganComponent 829 838	organoids
+T48	BodyPartOrganOrOrganComponent 1558 1567	organoids
+T49	CellFunction 539 548	signaling
+T50	AminoAcidPeptideOrProtein 535 538	Wnt
+T51	AminoAcidPeptideOrProtein 796 799	Wnt
+T52	BiologicallyActiveSubstance 535 538	Wnt
+T53	BiologicallyActiveSubstance 796 799	Wnt
+T54	ResearchActivity 1729 1743	drug screening
+T55	BiologicallyActiveSubstance 800 807	agonist
+T56	AminoAcidPeptideOrProtein 760 770	GSK-3 beta
+T57	GeneOrGenome 760 770	GSK-3 beta
+T58	BiologicallyActiveSubstance 760 770	GSK-3 beta
+T59	CellComponent 435 456	extracellular vesicle
+T60	CellFunction 1192 1206	downregulation
+T61	DiseaseOrSyndrome 1853 1859	stroke
+T62	TemporalConcept 326 333	to date
+T63	BiologicallyActiveSubstance 771 780	inhibitor
+T64	PharmacologicSubstance 771 780	inhibitor
+T65	Chemical 771 780	inhibitor
+T66	TemporalConcept 329 333	date
+T67	AminoAcidPeptideOrProtein 1446 1455	TNF alpha
+T68	BiologicallyActiveSubstance 1446 1455	TNF alpha
+T69	DiseaseOrSyndrome 1820 1839	Alzheimer's disease
+T70	CellComponent 458 460	EV
+T71	CellComponent 582 584	EV
+T72	CellComponent 1529 1531	EV
+T73	ClinicalAttribute 1543 1550	markers
+T74	ResearchActivity 382 387	study
+T75	ResearchActivity 513 518	study
+T76	ResearchActivity 1625 1630	study
+T77	BodyPartOrganOrOrganComponent 129 132	CSF
+T78	BodyPartOrganOrOrganComponent 156 159	CSF
+T79	BodyPartOrganOrOrganComponent 169 176	B-CSF-B
+T80	BodyPartOrganOrOrganComponent 1687 1694	B-CSF-B
+T81	BodyPartOrganOrOrganComponent 61 66	brain
+T82	BodyPartOrganOrOrganComponent 274 279	brain
+T83	Eukaryote 55 60	human
+T84	Eukaryote 1681 1686	human
+T85	PopulationGroup 986 991	group
+T86	PopulationGroup 1003 1008	group
+T87	PopulationGroup 1339 1344	group
+T88	PopulationGroup 1501 1506	group
+T89	BodyPartOrganOrOrganComponent 150 167	blood-CSF barrier
+T90	BodyPartOrganOrOrganComponent 108 127	cerebrospinal fluid
+T91	ResearchActivity 1668 1673	model
+T92	PathologicFunction 1411 1423	inflammation
+T93	ResearchActivity 318 325	studies
+T94	CellFunction 952 962	expression
+T95	BodyPartOrganOrOrganComponent 1703 1709	tissue
+T96	ResearchActivity 290 298	in vitro
+T97	CellFunction 95 104	secretion
+T98	BiologicFunction 95 104	secretion
+T99	AminoAcidPeptideOrProtein 1302 1327	amyloid beta 42 oligomers
+T100	TemporalConcept 1592 1596	time
+T101	BiologicallyActiveSubstance 1302 1327	amyloid beta 42 oligomers
+T102	DiseaseOrSyndrome 1789 1811	neurological disorders
+T103	PathologicFunction 1356 1365	sensitive
+T104	CellFunction 462 472	biogenesis
+T105	CellFunction 585 595	biogenesis
+T106	CellFunction 1532 1542	biogenesis
+T107	Cell 185 215	induced pluripotent stem cells
+T108	Cell 205 215	stem cells
+T109	TemporalConcept 658 662	days
+T110	PharmacologicSubstance 1729 1733	drug
+T111	PharmacologicSubstance 1758 1762	drug
+T112	AminoAcidPeptideOrProtein 1457 1461	IL-6
+T113	BiologicallyActiveSubstance 1457 1461	IL-6
+T114	GeneOrGenome 1457 1461	IL-6
+T115	CellFunction 1019 1031	upregulation
+T116	CellFunction 1395 1407	upregulation
+T117	HealthCareActivity 1734 1743	screening
+T118	ResearchActivity 1734 1743	screening
+T119	CellFunction 535 548	Wnt signaling
+T120	BiologicFunction 1763 1771	delivery
+T121	HealthCareActivity 1758 1771	drug delivery
+T122	Cell 476 481	hiPSC
+T123	Chemical 737 741	CHIR
+T124	Chemical 981 985	CHIR
+T125	BodyPartOrganOrOrganComponent 1054 1057	ChP
+T126	BiologicallyActiveSubstance 904 907	TTR
+T127	AminoAcidPeptideOrProtein 1075 1080	CLIC6
+T128	BiologicallyActiveSubstance 1075 1080	CLIC6
+T129	BiologicallyActiveSubstance 1148 1152	DLK1
+T130	BiologicallyActiveSubstance 1123 1126	DCN
+T131	BiologicallyActiveSubstance 1106 1110	PLTP
+T132	BiologicallyActiveSubstance 1091 1095	PLEC
+T133	AminoAcidPeptideOrProtein 1148 1152	DLK1
+T134	AminoAcidPeptideOrProtein 1091 1095	PLEC
+T135	AminoAcidPeptideOrProtein 1106 1110	PLTP
+T136	AminoAcidPeptideOrProtein 1123 1126	DCN
+T137	BiologicallyActiveSubstance 1169 1173	AQP1
+T138	BiologicallyActiveSubstance 1210 1213	TTR
+T139	BiologicallyActiveSubstance 1226 1232	IGFBP7
+T140	AminoAcidPeptideOrProtein 1226 1232	IGFBP7
+T141	BiologicallyActiveSubstance 1245 1249	MSX1
+T142	BiologicallyActiveSubstance 1266 1269	LUM
+T143	AminoAcidPeptideOrProtein 1266 1269	LUM
+T144	Chemical 1334 1338	CHIR
+T145	AminoAcidPeptideOrProtein 1467 1473	MMP2/9
+T146	BiologicallyActiveSubstance 1467 1473	MMP2/9
+T147	Chemical 1496 1500	CHIR
+T148	Chemical 998 1002	CHIR

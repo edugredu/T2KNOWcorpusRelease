@@ -1,0 +1,47 @@
+T0	Organism 120 129	pathogens
+T1	AnatomicalAbnormality 152 159	plaques
+T2	ExperimentalModelOfDisease 584 622	experimental animal models of epilepsy
+T3	TemporalConcept 161 167	Recent
+T4	BiologicFunction 676 689	understanding
+T5	DiseaseOrSyndrome 425 433	epilepsy
+T6	PathologicFunction 425 433	epilepsy
+T7	CellFunction 56 71	neuroprotection
+T8	Cell 0 9	Microglia
+T9	HealthCareActivity 800 820	therapeutic strategy
+T10	Finding 168 180	observations
+T11	Finding 534 546	observations
+T12	BiologicFunction 40 51	maintenance
+T13	Cell 357 367	microglial
+T14	Cell 693 703	microglial
+T15	Cell 757 767	microglial
+T16	CellFunction 285 306	microglial activation
+T17	CellFunction 357 378	microglial activation
+T18	BiologicFunction 214 225	development
+T19	BiologicFunction 721 732	development
+T20	CellFunction 214 225	development
+T21	CellFunction 721 732	development
+T22	Cell 139 146	neurons
+T23	DiseaseOrSyndrome 456 458	AD
+T24	DiseaseOrSyndrome 624 626	AD
+T25	TemporalConcept 527 533	recent
+T26	BodyPartOrganOrOrganComponent 79 101	central nervous system
+T27	InjuryOrPoisoning 131 138	damaged
+T28	BodyPartOrganOrOrganComponent 103 106	CNS
+T29	TemporalConcept 565 572	briefly
+T30	DiseaseOrSyndrome 257 260	NDs
+T31	DiseaseOrSyndrome 412 415	NDs
+T32	DiseaseOrSyndrome 736 739	NDs
+T33	DiseaseOrSyndrome 229 255	neurodegenerative diseases
+T34	DiseaseOrSyndrome 491 511	Huntington's disease
+T35	DiseaseOrSyndrome 461 480	Parkinson's disease
+T36	DiseaseOrSyndrome 513 515	HD
+T37	DiseaseOrSyndrome 636 638	HD
+T38	DiseaseOrSyndrome 482 484	PD
+T39	DiseaseOrSyndrome 628 630	PD
+T40	DiseaseOrSyndrome 435 454	Alzheimer's disease
+T41	ResearchActivity 316 322	review
+T42	ResearchActivity 553 559	review
+T43	ResearchActivity 651 657	review
+T44	HealthCareActivity 316 322	review
+T45	HealthCareActivity 553 559	review
+T46	HealthCareActivity 651 657	review

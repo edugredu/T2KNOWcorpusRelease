@@ -1,0 +1,56 @@
+T0	CellFunction 323 338	oligomerization
+T1	HealthCareActivity 497 520	neuropsychological test
+T2	ResearchActivity 616 620	test
+T3	HealthCareActivity 616 620	test
+T4	DiseaseOrSyndrome 671 697	neurodegenerative diseases
+T5	AnatomicalAbnormality 967 981	amyloid plaque
+T6	HealthCareActivity 368 385	clinical practice
+T7	NaturalPhenomenonOrProcess 1096 1104	dynamics
+T8	CellOrMolecularDysfunction 752 769	neurodegeneration
+T9	DiseaseOrSyndrome 105 124	Alzheimer's disease
+T10	ClinicalAttribute 67 77	biomarkers
+T11	ClinicalAttribute 176 186	biomarkers
+T12	ClinicalAttribute 901 911	biomarkers
+T13	BodyPartOrganOrOrganComponent 296 302	plasma
+T14	BodyPartOrganOrOrganComponent 439 445	plasma
+T15	AminoAcidPeptideOrProtein 1083 1095	amyloid-beta
+T16	AminoAcidPeptideOrProtein 566 573	amyloid
+T17	AminoAcidPeptideOrProtein 946 953	amyloid
+T18	BiologicallyActiveSubstance 566 573	amyloid
+T19	BiologicallyActiveSubstance 946 953	amyloid
+T20	Finding 621 627	result
+T21	DiseaseOrSyndrome 126 128	AD
+T22	DiseaseOrSyndrome 192 194	AD
+T23	DiseaseOrSyndrome 582 584	AD
+T24	DiseaseOrSyndrome 661 663	AD
+T25	DiseaseOrSyndrome 866 868	AD
+T26	DiseaseOrSyndrome 1108 1110	AD
+T27	ClinicalAttribute 303 312	biomarker
+T28	ClinicalAttribute 446 455	biomarker
+T29	BodyPartOrganOrOrganComponent 522 527	brain
+T30	BodyPartOrganOrOrganComponent 961 966	brain
+T31	BodyPartOrganOrOrganComponent 55 60	blood
+T32	HealthCareActivity 556 559	MRI
+T33	BiologicFunction 40 51	development
+T34	CellFunction 40 51	development
+T35	TemporalConcept 651 657	stages
+T36	HealthCareActivity 574 577	PET
+T37	HealthCareActivity 954 957	PET
+T38	HealthCareActivity 195 204	diagnosis
+T39	HealthCareActivity 585 594	diagnosis
+T40	HealthCareActivity 841 850	diagnosis
+T41	TemporalConcept 855 862	staging
+T42	DiseaseOrSyndrome 702 722	cognitive impairment
+T43	HealthCareActivity 528 554	magnetic resonance imaging
+T44	HealthCareActivity 227 276	Multimer Detection System-Oligomeric Amyloid-beta
+T45	HealthCareActivity 278 289	MDS-OA beta
+T46	HealthCareActivity 480 491	MDS-OA beta
+T47	HealthCareActivity 986 997	MDS-OA beta
+T48	PathologicFunction 88 101	amyloidopathy
+T49	PathologicFunction 460 473	amyloidopathy
+T50	ClinicalAttribute 651 663	stages of AD
+T51	PathologicFunction 924 937	amyloidopathy
+T52	CellFunction 1001 1029	amyloid-beta oligomerization
+T53	Finding 1030 1038	tendency
+T54	Finding 339 347	tendency
+T55	Finding 1062 1079	advanced insights

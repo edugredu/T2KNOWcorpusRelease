@@ -1,0 +1,77 @@
+T0	BodyPartOrganOrOrganComponent 225 250	choroid plexus epithelial
+T1	TemporalConcept 477 482	young
+T2	HealthCareActivity 584 607	intracerebroventricular
+T3	Finding 744 752	presence
+T4	CellFunction 803 815	EV secretion
+T5	Finding 1073 1081	presence
+T6	AminoAcidPeptideOrProtein 1134 1155	complement protein C3
+T7	BiologicallyActiveSubstance 1134 1155	complement protein C3
+T8	Chemical 1203 1209	GW4869
+T9	ResearchActivity 832 840	in vitro
+T10	HealthCareActivity 1372 1394	therapeutic strategies
+T11	AminoAcidPeptideOrProtein 534 546	amyloid beta
+T12	AminoAcidPeptideOrProtein 494 497	APP
+T13	GeneOrGenome 494 497	APP
+T14	BiologicallyActiveSubstance 494 497	APP
+T15	AminoAcidPeptideOrProtein 498 501	PS1
+T16	ExperimentalModelOfDisease 483 506	transgenic APP/PS1 mice
+T17	TemporalConcept 1241 1246	acute
+T18	Eukaryote 658 672	wild-type mice
+T19	BodyPartOrganOrOrganComponent 1010 1018	cortical
+T20	PathologicFunction 1426 1437	progression
+T21	TemporalConcept 1426 1437	progression
+T22	OrganismAttribute 575 578	age
+T23	Finding 11 19	evidence
+T24	AminoAcidPeptideOrProtein 1110 1118	proteins
+T25	ResearchActivity 1291 1299	research
+T26	CellFunction 1169 1179	inhibition
+T27	CellComponent 35 57	extracellular vesicles
+T28	DiseaseOrSyndrome 110 129	Alzheimer's disease
+T29	CellComponent 59 62	EVs
+T30	CellComponent 296 299	EVs
+T31	CellComponent 708 711	EVs
+T32	CellComponent 915 918	EVs
+T33	CellComponent 964 967	EVs
+T34	CellComponent 1056 1059	EVs
+T35	DiseaseOrSyndrome 131 133	AD
+T36	DiseaseOrSyndrome 414 416	AD
+T37	DiseaseOrSyndrome 1441 1443	AD
+T38	PathologicFunction 94 106	pathogenesis
+T39	PathologicFunction 417 429	pathogenesis
+T40	PathologicFunction 1409 1421	pathogenesis
+T41	BodyPartOrganOrOrganComponent 168 173	blood
+T42	Cell 257 262	cells
+T43	HealthCareActivity 614 623	injection
+T44	CellComponent 400 402	EV
+T45	CellComponent 453 455	EV
+T46	CellComponent 803 805	EV
+T47	CellComponent 1183 1185	EV
+T48	CellComponent 1339 1341	EV
+T49	ResearchActivity 1029 1046	Proteome analysis
+T50	PathologicFunction 976 992	pro-inflammatory
+T51	PathologicFunction 1093 1109	pro-inflammatory
+T52	BodyPartOrganOrOrganComponent 195 198	CSF
+T53	BodyPartOrganOrOrganComponent 309 312	CSF
+T54	BodyPartOrganOrOrganComponent 470 473	CSF
+T55	BodyPartOrganOrOrganComponent 556 559	CSF
+T56	BodyPartOrganOrOrganComponent 719 722	CSF
+T57	BodyPartOrganOrOrganComponent 756 759	CSF
+T58	BodyPartOrganOrOrganComponent 911 914	CSF
+T59	Substance 188 193	fluid
+T60	BodyPartOrganOrOrganComponent 328 338	peripheral
+T61	ResearchActivity 823 830	in vivo
+T62	BodyPartOrganOrOrganComponent 174 193	cerebrospinal fluid
+T63	PathologicFunction 339 351	inflammation
+T66	AminoAcidPeptideOrProtein 548 554	A beta
+T67	AminoAcidPeptideOrProtein 627 643	A beta oligomers
+T68	AminoAcidPeptideOrProtein 645 653	A beta O
+T69	AminoAcidPeptideOrProtein 760 768	A beta O
+T70	AminoAcidPeptideOrProtein 935 943	A beta O
+T71	AminoAcidPeptideOrProtein 1247 1255	A beta O
+T72	DiseaseOrSyndrome 1264 1281	cognitive decline
+T73	CellFunction 1339 1351	EV secretion
+T74	BodyPartOrganOrOrganComponent 252 255	CPE
+T75	CellFunction 400 410	EV release
+T76	ClinicalAttribute 453 473	EV levels in the CSF
+T77	ResearchActivity 845 863	ex vivo approaches
+T78	ResearchActivity 1010 1027	cortical cultures

@@ -1,0 +1,125 @@
+T0	BodyPartOrganOrOrganComponent 12 19	Retinal
+T1	BodyPartOrganOrOrganComponent 181 188	Retinal
+T2	BodyPartOrganOrOrganComponent 311 325	visual pathway
+T3	Finding 406 414	atypical
+T4	DiseaseOrSyndrome 613 639	posterior cortical atrophy
+T5	DiseaseOrSyndrome 679 682	tAD
+T6	BodyPartOrganOrOrganComponent 694 701	Retinal
+T7	DiseaseOrSyndrome 1730 1733	tAD
+T8	DiseaseOrSyndrome 1812 1815	tAD
+T9	BodyPartOrganOrOrganComponent 1987 1994	Retinal
+T10	DiseaseOrSyndrome 2026 2029	tAD
+T11	Substance 2196 2202	sample
+T12	BodyPartOrganOrOrganComponent 2196 2202	sample
+T13	ClinicalAttribute 12 29	Retinal thickness
+T14	OrganismAttribute 418 427	phenotype
+T15	BodyPartOrganOrOrganComponent 1047 1052	pRNFL
+T16	BodyPartOrganOrOrganComponent 1421 1426	pRNFL
+T17	BodyPartOrganOrOrganComponent 1937 1942	pRNFL
+T18	ClinicalAttribute 1074 1091	macular thickness
+T19	SignOrSymptom 1074 1091	macular thickness
+T20	BodyPartOrganOrOrganComponent 1006 1045	peripapillary retinal nerve fiber layer
+T21	DiseaseOrSyndrome 1074 1091	macular thickness
+T22	DiseaseOrSyndrome 384 387	PCA
+T23	ResearchActivity 641 644	PCA
+T24	ResearchActivity 772 775	PCA
+T25	ResearchActivity 1443 1446	PCA
+T26	ResearchActivity 1575 1578	PCA
+T27	ResearchActivity 1720 1723	PCA
+T28	ResearchActivity 1802 1805	PCA
+T29	ResearchActivity 2034 2037	PCA
+T30	ResearchActivity 2225 2228	PCA
+T31	ResearchActivity 2357 2360	PCA
+T32	Finding 296 303	Changes
+T33	Finding 1400 1417	group differences
+T34	Finding 1916 1933	group differences
+T35	Finding 1406 1417	differences
+T36	Finding 1922 1933	differences
+T37	Finding 2092 2103	differences
+T38	HealthCareActivity 66 94	optical coherence tomography
+T39	HealthCareActivity 937 965	optical coherence tomography
+T40	HealthCareActivity 96 99	OCT
+T41	HealthCareActivity 967 970	OCT
+T42	HealthCareActivity 2307 2323	conventional OCT
+T43	DiseaseOrSyndrome 267 294	neurodegenerative processes
+T44	CellOrMolecularDysfunction 555 572	neurodegeneration
+T45	CellOrMolecularDysfunction 1290 1307	neurodegeneration
+T46	CellOrMolecularDysfunction 1763 1780	neurodegeneration
+T47	CellOrMolecularDysfunction 2273 2290	neurodegeneration
+T48	DiseaseOrSyndrome 155 174	Alzheimer's disease
+T49	DiseaseOrSyndrome 658 677	Alzheimer's disease
+T50	ClinicalAttribute 1708 1718	biomarkers
+T51	ClinicalAttribute 1790 1800	biomarkers
+T52	BodyPartOrganOrOrganComponent 1254 1257	CSF
+T53	BodyPartOrganOrOrganComponent 1786 1789	CSF
+T54	BodyPartOrganOrOrganComponent 2144 2147	CSF
+T55	PathologicFunction 1326 1335	pathology
+T56	PathologicFunction 1862 1871	pathology
+T57	BiomedicalOccupationOrDiscipline 1326 1335	pathology
+T58	BiomedicalOccupationOrDiscipline 1862 1871	pathology
+T59	ResearchActivity 1350 1357	Results
+T60	Finding 222 228	result
+T61	ResearchActivity 991 1002	measurement
+T62	HealthCareActivity 991 1002	measurement
+T63	OrganismAttribute 837 840	age
+T64	DiseaseOrSyndrome 176 178	AD
+T65	DiseaseOrSyndrome 415 417	AD
+T66	DiseaseOrSyndrome 1323 1325	AD
+T67	DiseaseOrSyndrome 1859 1861	AD
+T68	DiseaseOrSyndrome 2351 2353	AD
+T69	ClinicalAttribute 141 150	biomarker
+T70	ClinicalAttribute 542 551	biomarker
+T71	ClinicalAttribute 2337 2346	biomarker
+T72	PopulationGroup 595 607	participants
+T73	PopulationGroup 914 926	participants
+T74	PopulationGroup 1218 1230	participants
+T75	PopulationGroup 859 871	Participants
+T76	PopulationGroup 1099 1111	Participants
+T77	HealthCareActivity 972 979	imaging
+T78	HealthCareActivity 2126 2139;2148 2156	neuro-imaging measures
+T79	PopulationGroup 849 857	controls
+T80	PopulationGroup 1480 1488	controls
+T81	PopulationGroup 1615 1623	controls
+T82	PopulationGroup 1740 1748	controls
+T83	PopulationGroup 1822 1830	controls
+T84	PopulationGroup 2043 2051	controls
+T85	HealthCareActivity 1246 1249	MRI
+T86	HealthCareActivity 1704 1707	MRI
+T87	BodyPartOrganOrOrganComponent 508 515	retinal
+T88	BodyPartOrganOrOrganComponent 1020 1027	retinal
+T89	BodyPartOrganOrOrganComponent 2265 2272	retinal
+T90	PopulationGroup 1400 1405	group
+T91	PopulationGroup 1916 1921	group
+T92	HealthCareActivity 810 829	diagnostic criteria
+T93	ResearchActivity 1509 1537	one-way analysis of variance
+T94	ResearchActivity 1681 1698	subgroup analysis
+T95	PathologicFunction 233 250	etrograde atrophy
+T96	DiseaseOrSyndrome 356 382	posterior cortical atrophy
+T97	BodyPartOrganOrOrganComponent 356 374	posterior cortical
+T98	BodyPartOrganOrOrganComponent 613 631	posterior cortical
+T99	PatientOrDisabledGroup 743 763	patient participants
+T100	Finding 1125 1133	evidence
+T101	Finding 1278 1286	evidence
+T102	Finding 1372 1380	evidence
+T103	Finding 1888 1896	evidence
+T104	ResearchActivity 1182 1199	Subgroup analyses
+T105	ClinicalAttribute 529 551	non-invasive biomarker
+T106	Finding 181 197	Retinal thinning
+T107	BodyPartOrganOrOrganComponent 456 483	parietal-occipital cortices
+T108	DiseaseOrSyndrome 641 644	PCA
+T109	ResearchActivity 384 387	PCA
+T110	ClinicalAttribute 694 720	Retinal thickness measures
+T111	DiseaseOrSyndrome 772 775	PCA
+T112	DiseaseOrSyndrome 784 787	tAD
+T113	DiseaseOrSyndrome 1153 1180	ophthalmological conditions
+T114	ClinicalAttribute 1421 1436	pRNFL thickness
+T115	DiseaseOrSyndrome 1443 1446	PCA
+T116	DiseaseOrSyndrome 1462 1465	tAD
+T117	ResearchActivity 1539 1544	ANOVA
+T118	DiseaseOrSyndrome 1575 1578	PCA
+T119	DiseaseOrSyndrome 1595 1598	tAD
+T120	ResearchActivity 1645 1658	one-way ANOVA
+T121	ClinicalAttribute 1987 2004	Retinal thickness
+T122	DiseaseOrSyndrome 2034 2037	PCA
+T123	DiseaseOrSyndrome 2225 2228	PCA
+T124	DiseaseOrSyndrome 2357 2360	PCA

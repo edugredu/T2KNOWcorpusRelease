@@ -1,0 +1,68 @@
+T0	DiseaseOrSyndrome 137 159	demyelinated disorders
+T1	CellFunction 286 318	network of transcription factors
+T2	AminoAcidPeptideOrProtein 469 472	Id2
+T3	GeneOrGenome 469 472	Id2
+T4	GeneOrGenome 477 480	Id4
+T5	AminoAcidPeptideOrProtein 788 791	ID2
+T6	GeneOrGenome 788 791	ID2
+T7	GeneOrGenome 796 799	ID4
+T8	AminoAcidPeptideOrProtein 909 912	ID2
+T9	GeneOrGenome 909 912	ID2
+T10	GeneOrGenome 917 920	ID4
+T11	BiomedicalOccupationOrDiscipline 1064 1071	biology
+T12	PathologicFunction 978 990	dysregulated
+T13	AminoAcidPeptideOrProtein 297 318	transcription factors
+T14	BiologicallyActiveSubstance 297 318	transcription factors
+T15	ResearchActivity 586 605	CRISPR/dCas9-DNMT3a
+T16	CellFunction 193 214	Epigenetic mechanisms
+T17	CellFunction 224 239	DNA methylation
+T18	CellFunction 496 511	DNA methylation
+T19	CellFunction 870 885	DNA methylation
+T20	TemporalConcept 415 420	first
+T21	Cell 56 60	OPCs
+T22	Cell 662 665	OPC
+T23	Cell 1048 1063	oligodendrocyte
+T24	Cell 23 54	oligodendrocyte precursor cells
+T25	DiseaseOrSyndrome 168 186	multiple sclerosis
+T26	BodyPartOrganOrOrganComponent 1126 1132	myelin
+T27	BodyPartOrganOrOrganComponent 1122 1125	CNS
+T28	CellFunction 120 133	remyelination
+T29	DiseaseOrSyndrome 188 190	MS
+T30	DiseaseOrSyndrome 737 739	MS
+T31	DiseaseOrSyndrome 998 1000	MS
+T32	BodyPartOrganOrOrganComponent 838 843	brain
+T33	CellFunction 4 19	differentiation
+T34	CellFunction 331 350	OPC differentiation
+T35	CellFunction 519 538	OPC differentiation
+T36	CellFunction 666 681	differentiation
+T37	CellFunction 928 947	OPC differentiation
+T38	BiologicallyActiveSubstance 437 467	DNA-binding protein inhibitors
+T39	BiologicFunction 1105 1118	understanding
+T40	Cell 67 95	myelinating oligodendrocytes
+T41	ResearchActivity 1006 1010	data
+T42	DiseaseOrSyndrome 1126 1142	myelin disorders
+T44	Cell 39 54	precursor cells
+T45	Eukaryote 832 837	human
+T46	CellFunction 632 643	methylation
+T47	CellFunction 741 752	methylation
+T48	Substance 844 851	samples
+T49	BodyPartOrganOrOrganComponent 844 851	samples
+T50	CellFunction 757 772	gene expression
+T51	AminoAcidPeptideOrProtein 437 467	DNA-binding protein inhibitors
+T52	BiologicallyActiveSubstance 469 472	Id2
+T53	BiologicallyActiveSubstance 477 480	Id4
+T54	AminoAcidPeptideOrProtein 477 480	Id4
+T55	ResearchActivity 563 581	epigenetic editing
+T56	AminoAcidPeptideOrProtein 647 650	Id2
+T57	BiologicallyActiveSubstance 647 650	Id2
+T58	AminoAcidPeptideOrProtein 651 654	Id4
+T59	BiologicallyActiveSubstance 651 654	Id4
+T60	GeneOrGenome 647 650	Id2
+T61	GeneOrGenome 651 654	Id4
+T62	BiologicallyActiveSubstance 788 791	ID2
+T63	AminoAcidPeptideOrProtein 796 799	ID4
+T64	BiologicallyActiveSubstance 796 799	ID4
+T65	BiologicallyActiveSubstance 909 912	ID2
+T66	BiologicallyActiveSubstance 917 920	ID4
+T67	AminoAcidPeptideOrProtein 917 920	ID4
+T68	BiologicFunction 1064 1071	biology

@@ -1,0 +1,62 @@
+T0	DiseaseOrSyndrome 12 27	Type 1 diabetes
+T1	DiseaseOrSyndrome 29 32	T1D
+T2	DiseaseOrSyndrome 47 66	autoimmune disorder
+T3	BodyPartOrganOrOrganComponent 144 160	pancreatic islet
+T4	DiseaseOrSyndrome 890 893	T1D
+T5	DiseaseOrSyndrome 1052 1055	T1D
+T6	Finding 1056 1064	outcomes
+T7	DiseaseOrSyndrome 1204 1207	T1D
+T8	DiseaseOrSyndrome 1552 1555	T1D
+T9	BiomedicalOccupationOrDiscipline 1409 1416	biology
+T10	HealthCareActivity 1019 1040	therapeutic candidate
+T11	BiologicallyActiveSubstance 409 427	endocrine hormones
+T12	PathologicFunction 1188 1200	autoimmunity
+T13	HealthCareRelatedOrganization 1570 1591	University of Chicago
+T14	BodyPartOrganOrOrganComponent 198 211	immune system
+T15	AminoAcidPeptideOrProtein 289 297	proteins
+T16	AminoAcidPeptideOrProtein 393 401	proteins
+T17	CellComponent 485 507	extracellular vesicles
+T18	CellComponent 509 512	EVs
+T19	CellComponent 912 915	EVs
+T20	CellComponent 990 993	EVs
+T21	CellComponent 1260 1263	EVs
+T22	PathologicFunction 73 85	pathogenesis
+T23	PathologicFunction 894 906	pathogenesis
+T24	Cell 126 136	beta cells
+T25	Cell 168 179	islet cells
+T26	Cell 185 190	cells
+T27	Cell 526 536	beta cells
+T28	Cell 875 885	beta cells
+T29	Cell 1356 1366	beta cells
+T30	CellComponent 711 713	EV
+T31	CellComponent 1406 1408	EV
+T32	CellComponent 1474 1476	EV
+T33	CellFunction 859 869	EV release
+T34	CellFunction 616 623	signals
+T35	Chemical 767 772	lipid
+T36	Chemical 756 762	lipids
+T37	CellFunction 773 791	signaling pathways
+T38	ClinicalAttribute 954 964	biomarkers
+T39	CellFunction 220 247	intercellular communication
+T40	CellFunction 311 338	intercellular communication
+T41	ResearchActivity 654 660	review
+T42	ResearchActivity 667 673	review
+T43	ResearchActivity 832 838	review
+T44	HealthCareActivity 654 660	review
+T45	HealthCareActivity 667 673	review
+T46	HealthCareActivity 832 838	review
+T47	Finding 108 117	interplay
+T48	ResearchActivity 460 470	literature
+T49	ResearchActivity 1235 1245	literature
+T50	CellFunction 822 827	cargo
+T51	CellFunction 926 931	cargo
+T52	CellFunction 1491 1496	cargo
+T53	CellComponent 276 288	cell surface
+T54	HealthCareActivity 1292 1305	communication
+T55	CellFunction 1292 1305	communication
+T56	AminoAcidPeptideOrProtein 432 441	cytokines
+T57	TemporalConcept 453 459	recent
+T58	BiologicallyActiveSubstance 432 441	cytokines
+T59	BodyPartOrganOrOrganComponent 638 643	islet
+T60	Cell 1085 1101	Islet beta cells
+T61	HealthCareActivity 1522 1548	disease-modifying approach

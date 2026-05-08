@@ -1,0 +1,12 @@
+{
+  "model": "microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext",
+  "dataset": "t2know_disjoint",
+  "nnw_threshold": 0.7,
+  "thw_threshold": 0.7,
+  "global_metrics": {
+    "Precision": 0.5957719326044473,
+    "Recall": 0.9068781154526451,
+    "F1": 0.7191195690287208,
+    "Accuracy": 0.579191270860077
+  }
+}

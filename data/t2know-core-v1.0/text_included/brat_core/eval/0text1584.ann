@@ -1,0 +1,87 @@
+T0	BodyPartOrganOrOrganComponent 65 77	blood plasma
+T1	ResearchActivity 293 301	dilution
+T2	Chemical 293 301	dilution
+T3	BodyPartOrganOrOrganComponent 1235 1240	lower
+T4	ResearchActivity 2036 2047	observation
+T5	HealthCareActivity 2036 2047	observation
+T6	Finding 2036 2047	observation
+T7	PathologicFunction 119 145	cerebral amyloid pathology
+T8	Finding 349 356	sources
+T9	DiseaseOrSyndrome 1886 1897	amyloidosis
+T10	AminoAcidPeptideOrProtein 471 482	A beta 1-42
+T11	AminoAcidPeptideOrProtein 487 498	A beta 1-40
+T12	BiologicallyActiveSubstance 471 482	A beta 1-42
+T13	BiologicallyActiveSubstance 487 498	A beta 1-40
+T14	DiseaseOrSyndrome 158 177	Alzheimer's disease
+T15	ClinicalAttribute 102 111	biomarker
+T16	BodyPartOrganOrOrganComponent 254 273	cerebrospinal fluid
+T17	BodyPartOrganOrOrganComponent 834 853	cerebrospinal fluid
+T18	DiseaseOrSyndrome 1880 1897	brain amyloidosis
+T19	AminoAcidPeptideOrProtein 746 753	amyloid
+T20	AminoAcidPeptideOrProtein 767 774	amyloid
+T21	AminoAcidPeptideOrProtein 1117 1124	amyloid
+T22	AminoAcidPeptideOrProtein 1155 1162	amyloid
+T23	AminoAcidPeptideOrProtein 1279 1286	amyloid
+T24	AminoAcidPeptideOrProtein 1300 1307	amyloid
+T25	BiologicallyActiveSubstance 746 753	amyloid
+T26	BiologicallyActiveSubstance 767 774	amyloid
+T27	BiologicallyActiveSubstance 1117 1124	amyloid
+T28	BiologicallyActiveSubstance 1155 1162	amyloid
+T29	BiologicallyActiveSubstance 1279 1286	amyloid
+T30	BiologicallyActiveSubstance 1300 1307	amyloid
+T31	BodyPartOrganOrOrganComponent 71 77	plasma
+T32	BodyPartOrganOrOrganComponent 228 234	plasma
+T33	BodyPartOrganOrOrganComponent 404 410	plasma
+T34	BodyPartOrganOrOrganComponent 562 568	plasma
+T35	BodyPartOrganOrOrganComponent 1461 1467	plasma
+T36	BodyPartOrganOrOrganComponent 1808 1814	plasma
+T37	AminoAcidPeptideOrProtein 21 33	amyloid-beta
+T38	ResearchActivity 932 943	effect size
+T39	ResearchActivity 1055 1062	Results
+T40	PopulationGroup 784 790	groups
+T41	Finding 1868 1876	evidence
+T42	ResearchActivity 2002 2019	theoretical model
+T43	ResearchActivity 1578 1620	Receiver operating characteristic analysis
+T44	ResearchActivity 883 900	median difference
+T45	ResearchActivity 1067 1073	median
+T46	ResearchActivity 1189 1195	median
+T47	PopulationGroup 1172 1177	group
+T48	PopulationGroup 1134 1142	subjects
+T49	PopulationGroup 1317 1325	subjects
+T50	PopulationGroup 1842 1850	subjects
+T51	ClinicalAttribute 34 61	(A beta)42/40 peptide ratio
+T52	AminoAcidPeptideOrProtein 305 320	A beta peptides
+T53	AminoAcidPeptideOrProtein 510 521	A beta X-42
+T54	AminoAcidPeptideOrProtein 526 537	A beta X-40
+T55	AminoAcidPeptideOrProtein 664 670	A beta
+T56	AminoAcidPeptideOrProtein 1390 1396	A beta
+T57	AminoAcidPeptideOrProtein 1971 1977	A beta
+T58	ResearchActivity 1006 1028	statistical evaluation
+T59	Substance 639 645	sample
+T60	BodyPartOrganOrOrganComponent 639 645	sample
+T61	ResearchActivity 671 690	immunoprecipitation
+T62	BodyPartOrganOrOrganComponent 91 101	peripheral
+T63	BodyPartOrganOrOrganComponent 338 348	peripheral
+T64	BodyPartOrganOrOrganComponent 178 184	brains
+T65	ClinicalAttribute 562 585	plasma A beta X-42/X-40
+T66	ClinicalAttribute 590 613	A beta 1-42/1-40 ratios
+T67	ResearchActivity 719 740	sandwich immunoassays
+T68	ClinicalAttribute 818 853	A beta 42/40 in cerebrospinal fluid
+T69	ResearchActivity 902 917	mean difference
+T70	ResearchActivity 960 1000	receiver operating characteristic curves
+T71	ResearchActivity 1041 1054	bootstrapping
+T72	ClinicalAttribute 1074 1096	A beta 1-42/1-40 ratio
+T73	ClinicalAttribute 1196 1218	A beta X-42/X-40 ratio
+T74	ResearchActivity 1246 1270	relative mean difference
+T75	ClinicalAttribute 1342 1365	plasma A beta 1-42/1-40
+T76	ClinicalAttribute 1390 1406	A beta X-42/X-40
+T77	ResearchActivity 1408 1417	Cohen's d
+T78	ResearchActivity 945 954	Cohen's d
+T79	ClinicalAttribute 1431 1447	A beta 1-42/1-40
+T80	ClinicalAttribute 1461 1484	plasma A beta X-42/X-40
+T81	ClinicalAttribute 1671 1694	plasma A beta 1-42/1-40
+T82	ClinicalAttribute 1699 1715	A beta X-42/X-40
+T83	ClinicalAttribute 1808 1833	plasma A beta 42/40 ratio
+T84	ClinicalAttribute 1943 1959	A beta 1-42/1-40
+T85	ClinicalAttribute 1971 1987	A beta X-42/X-40
+T86	ResearchActivity 1538 1551	bootstrapping

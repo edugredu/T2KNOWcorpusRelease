@@ -1,0 +1,49 @@
+T0	BiologicFunction 76 82	effort
+T1	Finding 76 82	effort
+T2	BiologicFunction 192 202	strategies
+T3	Chemical 449 453	PLGA
+T4	ResearchActivity 497 510	encapsulation
+T5	Finding 497 510	encapsulation
+T6	ResearchActivity 586 609	biologically engineered
+T7	CellFunction 633 647	overexpressing
+T8	Chemical 815 824	polymeric
+T9	NucleicAcidNucleosideOrNucleotide 285 294	microRNAs
+T10	BiologicallyActiveSubstance 285 294	microRNAs
+T11	Chemical 435 444	liposomes
+T12	Chemical 801 810	liposomes
+T13	ManufacturedObject 815 838	polymeric nanoparticles
+T14	CellComponent 610 632	extracellular vesicles
+T15	CellComponent 676 698	extracellular vesicles
+T16	CellComponent 882 904	extracellular vesicles
+T17	CellComponent 1000 1022	extracellular vesicles
+T18	ExperimentalModelOfDisease 926 942	EAE animal model
+T19	Cell 264 280	oligodendrocytes
+T20	DiseaseOrSyndrome 33 51	multiple sclerosis
+T21	DiseaseOrSyndrome 1122 1140	multiple sclerosis
+T22	BodyPartOrganOrOrganComponent 173 179	myelin
+T23	CellFunction 407 420	remyelination
+T24	CellFunction 524 537	remyelination
+T25	CellFunction 1105 1118	remyelination
+T26	PatientOrDisabledGroup 1141 1149	patients
+T27	PathologicFunction 52 61	pathology
+T28	BiomedicalOccupationOrDiscipline 52 61	pathology
+T29	CellFunction 377 392	differentiation
+T30	CellFunction 749 764	differentiation
+T31	CellFunction 0 13	Remyelination
+T32	Cell 346 376	oligodendrocyte precursor cell
+T33	Cell 718 748	oligodendrocyte precursor cell
+T34	BodyPartOrganOrOrganComponent 852 871	blood-brain barrier
+T35	HealthCareActivity 149 158	treatment
+T36	ResearchActivity 149 158	treatment
+T37	CellFunction 226 237	Myelination
+T38	BiologicallyActiveSubstance 485 496	miR-219a-5p
+T39	NucleicAcidNucleosideOrNucleotide 485 496	miR-219a-5p
+T40	Chemical 430 434	DSPC
+T41	Finding 512 519	release
+T42	NucleicAcidNucleosideOrNucleotide 648 659	miR-219a-5p
+T43	BiologicallyActiveSubstance 648 659	miR-219a-5p
+T44	ClinicalAttribute 943 961	clinical evolution
+T45	BiologicallyActiveSubstance 1026 1037	miR-219a-5p
+T46	NucleicAcidNucleosideOrNucleotide 1026 1037	miR-219a-5p
+T47	ManufacturedObject 1038 1053	delivery system
+T48	Finding 1076 1094	promising strategy

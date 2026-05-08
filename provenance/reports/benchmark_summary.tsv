@@ -1,0 +1,10 @@
+model	model_slug	seed	split	precision	recall	F1	accuracy	records	prediction_path
+BiomedBERT	biomedbert	12345	test	0.5687384898710865	0.7448745779064159	0.6449979114452798	0.518684917702385	2869	predictions/biomedbert/seed_12345/test_predictions.jsonl
+BiomedBERT	biomedbert	23456	test	0.5729288035812841	0.7511456825856248	0.6500434858236214	0.5235500140095265	2869	predictions/biomedbert/seed_23456/test_predictions.jsonl
+BiomedBERT	biomedbert	34567	test	0.5849833676540472	0.7422817173178967	0.6543115820059886	0.5296446088976853	2869	predictions/biomedbert/seed_34567/test_predictions.jsonl
+BioBERT	biobert	12345	test	0.5180020427849968	0.7339403441067696	0.6073483916037391	0.47608803358627344	2869	predictions/biobert/seed_12345/test_predictions.jsonl
+BioBERT	biobert	23456	test	0.5263423496164715	0.7337393471619231	0.6129731000436579	0.4816471395397931	2869	predictions/biobert/seed_23456/test_predictions.jsonl
+BioBERT	biobert	34567	test	0.5272168568920106	0.7241919922817173	0.6102022152220302	0.47950492414160234	2869	predictions/biobert/seed_34567/test_predictions.jsonl
+W2NER + BiomedBERT	w2ner_biomedbert	12345	test	0.5985850181509844	0.9081041968162084	0.7215523436876149	0.5816618173391354	2869	predictions/w2ner_biomedbert/seed_12345/test_predictions.jsonl
+W2NER + BiomedBERT	w2ner_biomedbert	23456	test	0.5957719326044473	0.9068781154526451	0.7191195690287208	0.579191270860077	2869	predictions/w2ner_biomedbert/seed_23456/test_predictions.jsonl
+W2NER + BiomedBERT	w2ner_biomedbert	34567	test	0.5974971588656606	0.908807686123171	0.7209828903098241	0.5809605797399393	2869	predictions/w2ner_biomedbert/seed_34567/test_predictions.jsonl

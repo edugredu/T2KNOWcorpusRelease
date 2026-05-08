@@ -1,0 +1,98 @@
+T0	TemporalConcept 312 319	morning
+T1	ResearchActivity 102 116	investigations
+T2	Finding 927 953	no significant association
+T3	ResearchActivity 499 532	enzyme-linked immunosorbent assay
+T4	AminoAcidPeptideOrProtein 499 505	enzyme
+T5	BiologicallyActiveSubstance 499 505	enzyme
+T6	AminoAcidPeptideOrProtein 9 18	A beta 40
+T7	AminoAcidPeptideOrProtein 692 701	A beta 40
+T8	AminoAcidPeptideOrProtein 884 893	A beta 40
+T9	AminoAcidPeptideOrProtein 1215 1224	A beta 40
+T10	AminoAcidPeptideOrProtein 20 29	A beta 42
+T11	AminoAcidPeptideOrProtein 703 712	A beta 42
+T12	AminoAcidPeptideOrProtein 895 904	A beta 42
+T13	AminoAcidPeptideOrProtein 964 973	A beta 42
+T14	AminoAcidPeptideOrProtein 1233 1242	A beta 42
+T15	BiologicallyActiveSubstance 9 18	A beta 40
+T16	BiologicallyActiveSubstance 692 701	A beta 40
+T17	BiologicallyActiveSubstance 884 893	A beta 40
+T18	BiologicallyActiveSubstance 1215 1224	A beta 40
+T19	BiologicallyActiveSubstance 20 29	A beta 42
+T20	BiologicallyActiveSubstance 703 712	A beta 42
+T21	BiologicallyActiveSubstance 895 904	A beta 42
+T22	BiologicallyActiveSubstance 964 973	A beta 42
+T23	BiologicallyActiveSubstance 1233 1242	A beta 42
+T24	BodyPartOrganOrOrganComponent 449 457	salivary
+T25	BodyPartOrganOrOrganComponent 595 603	salivary
+T26	BodyPartOrganOrOrganComponent 683 691	salivary
+T27	BodyPartOrganOrOrganComponent 218 224	saliva
+T28	BodyPartOrganOrOrganComponent 329 335	saliva
+T29	BodyPartOrganOrOrganComponent 749 755	saliva
+T30	BodyPartOrganOrOrganComponent 811 817	saliva
+T31	BodyPartOrganOrOrganComponent 1176 1182	saliva
+T32	AminoAcidPeptideOrProtein 908 911	tau
+T33	DiseaseOrSyndrome 77 96	Alzheimer's disease
+T34	DiseaseOrSyndrome 98 100	AD
+T35	DiseaseOrSyndrome 399 401	AD
+T36	DiseaseOrSyndrome 422 424	AD
+T37	DiseaseOrSyndrome 618 620	AD
+T38	DiseaseOrSyndrome 988 990	AD
+T39	DiseaseOrSyndrome 1003 1005	AD
+T40	DiseaseOrSyndrome 1138 1140	AD
+T41	DiseaseOrSyndrome 1350 1352	AD
+T42	PopulationGroup 425 433	controls
+T43	PopulationGroup 1006 1014	controls
+T44	PatientOrDisabledGroup 402 410	patients
+T45	PatientOrDisabledGroup 621 629	patients
+T46	OrganismAttribute 276 283	healthy
+T47	ResearchActivity 1085 1105	area under the curve
+T48	ResearchActivity 131 148	collection method
+T49	ResearchActivity 841 858	collection method
+T50	ResearchActivity 1183 1200	collection method
+T51	HealthCareActivity 1141 1150	diagnosis
+T52	HealthCareActivity 1353 1362	diagnosis
+T53	ClinicalAttribute 158 168	biomarkers
+T54	ClinicalAttribute 247 257	biomarkers
+T55	ClinicalAttribute 458 468	biomarkers
+T56	ClinicalAttribute 604 614	biomarkers
+T57	ClinicalAttribute 818 828	biomarkers
+T58	ClinicalAttribute 1115 1125	biomarkers
+T59	ClinicalAttribute 1330 1340	biomarkers
+T60	ResearchActivity 266 271	study
+T61	ResearchActivity 1294 1299	study
+T62	BiologicallyActiveSubstance 31 36	t-tau
+T63	BiologicallyActiveSubstance 714 719	t-tau
+T64	BiologicallyActiveSubstance 906 911	t-tau
+T65	BiologicallyActiveSubstance 1244 1249	t-tau
+T66	AminoAcidPeptideOrProtein 31 36	t-tau
+T67	AminoAcidPeptideOrProtein 714 719	t-tau
+T68	AminoAcidPeptideOrProtein 906 911	t-tau
+T69	AminoAcidPeptideOrProtein 1244 1249	t-tau
+T70	AminoAcidPeptideOrProtein 42 51	p-tau 181
+T71	AminoAcidPeptideOrProtein 725 730	p-tau
+T72	AminoAcidPeptideOrProtein 917 922	p-tau
+T73	AminoAcidPeptideOrProtein 1258 1267	p-tau 181
+T74	BiologicallyActiveSubstance 42 51	p-tau 181
+T75	BiologicallyActiveSubstance 725 730	p-tau
+T76	BiologicallyActiveSubstance 917 922	p-tau
+T77	BiologicallyActiveSubstance 1258 1267	p-tau 181
+T78	AminoAcidPeptideOrProtein 692 698	A beta
+T79	PopulationGroup 284 290	people
+T80	ResearchActivity 780 792	correlations
+T81	ClinicalAttribute 0 18	Salivary A beta 40
+T82	BodyPartOrganOrOrganComponent 0 8	Salivary
+T83	ClinicalAttribute 0 8;20 29	Salivary A beta 42
+T84	ClinicalAttribute 0 8;31 36	Salivary t-tau
+T85	ClinicalAttribute 0 8;42 51	Salivary p-tau 181
+T86	ResearchActivity 225 243	collection methods
+T87	ResearchActivity 336 354	collection methods
+T88	ResearchActivity 538 571	receiver operating characteristic
+T89	ClinicalAttribute 683 701	salivary A beta 40
+T90	ResearchActivity 756 774	collection methods
+T91	ClinicalAttribute 875 893	Salivary A beta 40
+T92	ClinicalAttribute 955 973	Salivary A beta 42
+T93	ClinicalAttribute 1025 1036	p-tau/t-tau
+T94	ClinicalAttribute 1041 1060	A beta 42/A beta 40
+T95	ResearchActivity 1208 1211	USS
+T96	ResearchActivity 1226 1229	UPS
+T97	ResearchActivity 1251 1254	SSS

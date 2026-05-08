@@ -1,0 +1,36 @@
+T0	GeneOrGenome 0 32	Ras homolog gene family member A
+T1	GeneOrGenome 34 38	RhoA
+T2	AminoAcidPeptideOrProtein 34 38	RhoA
+T3	AminoAcidPeptideOrProtein 45 57	small GTPase
+T4	GeneOrGenome 65 75	Rho family
+T5	CellFunction 88 136	regulating multiple signal transduction pathways
+T6	CellFunction 171 189	cellular functions
+T7	GeneOrGenome 191 195	RhoA
+T8	AminoAcidPeptideOrProtein 191 195	RhoA
+T9	CellFunction 252 261	expressed
+T10	BodyPartOrganOrOrganComponent 269 283	nervous system
+T11	Cell 334 341	neurons
+T12	Cell 346 357	glial cells
+T13	DiseaseOrSyndrome 471 490	Parkinson's disease
+T14	DiseaseOrSyndrome 492 511	Alzheimer's disease
+T15	DiseaseOrSyndrome 539 568	amyotrophic lateral sclerosis
+T16	Finding 611 620	knowledge
+T17	CellFunction 655 673	cellular functions
+T18	GeneOrGenome 784 788	RhoA
+T19	AminoAcidPeptideOrProtein 784 788	RhoA
+T20	CellFunction 789 799	inhibition
+T21	AminoAcidPeptideOrProtein 212 240	downstream effector proteins
+T22	TemporalConcept 603 610	current
+T23	Finding 367 384	emerging evidence
+T24	DiseaseOrSyndrome 513 533	Huntington's disease
+T25	CellOrMolecularDysfunction 803 820	neurodegeneration
+T26	DiseaseOrSyndrome 436 462	neurodegenerative diseases
+T27	DiseaseOrSyndrome 724 750	neurodegenerative diseases
+T28	ResearchActivity 578 584	review
+T29	HealthCareActivity 578 584	review
+T30	AminoAcidPeptideOrProtein 0 32	Ras homolog gene family member A
+T31	BiologicallyActiveSubstance 45 57	small GTPase
+T32	AminoAcidPeptideOrProtein 65 75	Rho family
+T33	CellFunction 316 330	RhoA signaling
+T34	CellOrMolecularDysfunction 409 432	aberrant RhoA signaling
+T35	CellFunction 706 720	RhoA signaling

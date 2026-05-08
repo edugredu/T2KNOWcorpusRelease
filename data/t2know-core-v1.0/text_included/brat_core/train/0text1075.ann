@@ -1,0 +1,79 @@
+T0	BiologicFunction 183 199	immunomodulation
+T1	HealthCareActivity 183 199	immunomodulation
+T2	BiologicFunction 204 223	tissue regeneration
+T3	BiologicFunction 594 607	wound healing
+T4	Finding 594 607	wound healing
+T5	BodyPartOrganOrOrganComponent 684 706	cardiovascular systems
+T6	DiseaseOrSyndrome 735 755	vascular obstruction
+T7	PathologicFunction 776 791	adverse effects
+T8	PathologicFunction 1229 1248	retina degeneration
+T9	DiseaseOrSyndrome 1254 1262	COVID-19
+T10	BiologicFunction 1403 1416	tissue repair
+T11	BodyPartOrganOrOrganComponent 1229 1235	retina
+T12	Cell 1229 1235	retina
+T13	TemporalConcept 1458 1464	latest
+T14	BiologicFunction 1421 1433	regeneration
+T15	HealthCareActivity 204 223	tissue regeneration
+T16	HealthCareActivity 1421 1433	regeneration
+T17	Finding 744 755	obstruction
+T18	HealthCareActivity 563 581	therapeutic agents
+T19	PathologicFunction 1236 1248	degeneration
+T20	BodyPartOrganOrOrganComponent 735 743	vascular
+T21	CellFunction 1028 1045	molecular content
+T22	HealthCareActivity 1364 1388	therapeutic applications
+T23	CellFunction 507 521	immunogenicity
+T24	Cell 0 22	Mesenchymal stem cells
+T25	HealthCareActivity 393 416	therapeutic application
+T26	CellComponent 307 329	extracellular vesicles
+T27	CellComponent 1319 1341	extracellular vesicles
+T28	DiseaseOrSyndrome 1208 1227	Alzheimer's disease
+T29	CellComponent 331 334	EVs
+T30	CellComponent 476 479	EVs
+T31	CellComponent 720 723	EVs
+T32	CellComponent 963 966	EVs
+T33	CellComponent 1108 1111	EVs
+T34	PatientOrDisabledGroup 1263 1271	patients
+T35	Eukaryote 1115 1120	human
+T36	HealthCareActivity 1480 1487	reports
+T37	ResearchActivity 1480 1487	reports
+T38	BodyPartOrganOrOrganComponent 46 52	tissue
+T39	BodyPartOrganOrOrganComponent 204 210	tissue
+T40	BodyPartOrganOrOrganComponent 1403 1409	tissue
+T41	Finding 991 998	sources
+T42	CellComponent 103 116	extracellular
+T43	BodyPartOrganOrOrganComponent 843 862	blood-brain barrier
+T44	ResearchActivity 1465 1479	clinical trial
+T45	BiomedicalOccupationOrDiscipline 1019 1026	biology
+T46	BiologicFunction 53 64	homeostasis
+T47	CellComponent 87 95	vesicles
+T48	DiseaseOrSyndrome 619 625	cancer
+T49	Finding 489 492	low
+T50	OrganismAttribute 804 808	size
+T51	CellFunction 1047 1065	signaling pathways
+T52	HealthCareRelatedOrganization 424 430	clinic
+T53	TemporalConcept 1135 1143	recently
+T54	Cell 464 467	MSC
+T55	Cell 708 711	MSC
+T56	Cell 12 22	stem cells
+T57	HealthCareActivity 1121 1130	therapies
+T58	Cell 24 28	MSCs
+T59	Finding 756 763	effects
+T60	PathologicFunction 881 890;906 913	cytotoxic effects
+T61	PharmacologicSubstance 546 550	drug
+T62	CellComponent 139 147	exosomes
+T63	BiologicFunction 1019 1026	biology
+T64	ResearchActivity 923 937	in vitro tests
+T65	HealthCareActivity 356 362	safety
+T66	BiologicFunction 551 559	delivery
+T67	HealthCareActivity 546 559	drug delivery
+T68	BiologicFunction 169 181	angiogenesis
+T69	BiologicFunction 69 75	repair
+T70	BiologicFunction 1410 1416	repair
+T71	HealthCareActivity 69 75	repair
+T72	HealthCareActivity 1410 1416	repair
+T73	ResearchActivity 1167 1182	clinical trials
+T74	BodyPartOrganOrOrganComponent 103 128	extracellular environment
+T75	BodyPartOrganOrOrganComponent 667 679;699 706	neurological systems
+T76	PathologicFunction 637 659	inflammatory processes
+T77	Finding 894 913	immunogenic effects
+T78	ResearchActivity 1319 1359	extracellular vesicles isolation methods

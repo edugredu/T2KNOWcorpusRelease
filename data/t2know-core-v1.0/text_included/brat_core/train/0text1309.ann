@@ -1,0 +1,66 @@
+T0	CellFunction 1231 1241	cross-talk
+T1	CellOrMolecularDysfunction 1428 1442	damaged myelin
+T2	Cell 987 996	astroglia
+T3	TemporalConcept 593 599	update
+T4	BiologicFunction 886 894	behavior
+T5	IndividualBehavior 886 894	behavior
+T6	ResearchActivity 886 894	behavior
+T7	CellComponent 73 78	axons
+T8	CellComponent 346 351	axons
+T9	Cell 152 168	oligodendrocytes
+T10	Cell 459 475	oligodendrocytes
+T11	Cell 1110 1114	OPCs
+T12	DiseaseOrSyndrome 1462 1484	demyelinating diseases
+T13	Cell 223 254	oligodendrocyte precursor cells
+T14	BodyPartOrganOrOrganComponent 82 88	myelin
+T15	BodyPartOrganOrOrganComponent 127 133	myelin
+T16	BodyPartOrganOrOrganComponent 676 682	myelin
+T17	BodyPartOrganOrOrganComponent 1158 1164	myelin
+T18	Cell 288 311	mature oligodendrocytes
+T19	Cell 1076 1108	oligodendrocyte progenitor cells
+T20	BiologicFunction 758 771	developmental
+T21	TemporalConcept 758 771	developmental
+T22	CellFunction 204 219	differentiation
+T23	BiologicFunction 1408 1420	regeneration
+T24	CellFunction 174 187	proliferation
+T25	CellFunction 189 198	migration
+T26	TemporalConcept 1171 1176	Acute
+T27	HealthCareActivity 1171 1176	Acute
+T28	TemporalConcept 803 808	early
+T29	TemporalConcept 809 818	postnatal
+T30	HealthCareActivity 1408 1420	regeneration
+T31	CellFunction 0 11	Myelination
+T32	TemporalConcept 819 825	period
+T33	BodyPartOrganOrOrganComponent 97 119	central nervous system
+T34	BodyPartOrganOrOrganComponent 121 124	CNS
+T35	BodyPartOrganOrOrganComponent 1458 1461	CNS
+T36	HealthCareActivity 910 916	report
+T37	ResearchActivity 910 916	report
+T38	BiologicFunction 857 868	development
+T39	BiologicFunction 1350 1361	development
+T40	CellFunction 857 868	development
+T41	CellFunction 1350 1361	development
+T42	Cell 721 726	cells
+T43	Cell 487 498	glial cells
+T44	TemporalConcept 735 740	first
+T45	ResearchActivity 580 586	review
+T46	HealthCareActivity 580 586	review
+T47	Finding 1064 1072	capacity
+T48	Cell 524 533	microglia
+T49	Cell 663 672	microglia
+T50	Cell 1001 1010	microglia
+T51	Cell 1206 1215	microglia
+T52	Cell 649 658	astrocyte
+T53	Cell 1192 1201	astrocyte
+T54	BiologicFunction 872 881	cognition
+T55	Cell 509 519	astrocytes
+T56	TemporalConcept 612 618	recent
+T57	CellFunction 1138 1151	remyelination
+T58	CellFunction 420 431	myelination
+T59	CellFunction 772 783	myelination
+T60	CellFunction 1331 1342	myelination
+T61	Finding 976 983	effects
+T62	Finding 1273 1303	novel therapeutic perspectives
+T63	CellFunction 57 78	ensheathment of axons
+T64	CellComponent 381 409	multilamellar lipidic sheath
+T65	CellOrMolecularDysfunction 1158 1169	myelin loss

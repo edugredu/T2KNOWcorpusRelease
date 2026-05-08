@@ -1,0 +1,91 @@
+T0	Cell 43 59	eukaryotic cells
+T1	CellComponent 192 200	vesicles
+T2	BiologicallyActiveSubstance 330 347	neurotransmitters
+T3	AminoAcidPeptideOrProtein 330 347	neurotransmitters
+T4	AminoAcidPeptideOrProtein 351 358	insulin
+T5	BiologicallyActiveSubstance 351 358	insulin
+T6	PharmacologicSubstance 351 358	insulin
+T7	Cell 418 422	cell
+T8	CellComponent 480 489	filaments
+T9	Finding 571 583	disturbances
+T10	ResearchActivity 830 850	experimental studies
+T11	CellComponent 935 943	filament
+T12	BodyPartOrganOrOrganComponent 967 971	lung
+T13	DiseaseOrSyndrome 1015 1032	genetic disorders
+T14	CellComponent 1067 1075	filament
+T16	BodyPartOrganOrOrganComponent 1130 1149	intracellular fluid
+T18	CellComponent 1390 1398	filament
+T19	PopulationGroup 1399 1406	network
+T20	CellFunction 1399 1406	network
+T21	Cell 1426 1441	eukaryotic cell
+T22	Substance 1472 1480	material
+T23	CellComponent 1643 1651	vesicles
+T24	CellFunction 1706 1726	cytoskeletal network
+T25	CellFunction 1767 1784	vesicle transport
+T26	CellComponent 2081 2088	vesicle
+T27	CellFunction 2188 2208	cytoskeletal network
+T28	CellFunction 2275 2297	actin filament network
+T29	CellFunction 2319 2336	vesicle transport
+T30	HealthCareActivity 2353 2370	three-dimensional
+T31	CellComponent 2396 2410	actin filament
+T32	CellFunction 2411 2418	network
+T33	CellComponent 2473 2481	filament
+T34	PopulationGroup 2496 2503	network
+T35	CellFunction 2496 2503	network
+T36	DiseaseOrSyndrome 2521 2536	adenocarcinomic
+T37	CellComponent 2944 2952	vesicles
+T38	ResearchActivity 3024 3035	computation
+T39	CellComponent 3098 3110	cytoskeletal
+T40	CellFunction 3132 3149	vesicle transport
+T41	CellComponent 3290 3298	filament
+T42	CellComponent 3412 3420	filament
+T43	CellFunction 3421 3429	networks
+T44	CellFunction 3459 3476	vesicle transport
+T45	Finding 1688 1698	alteration
+T46	NaturalPhenomenonOrProcess 1633 1639	motion
+T47	DiseaseOrSyndrome 646 667	degenerative diseases
+T48	CellComponent 1531 1541	organelles
+T49	Finding 1873 1879	severe
+T50	BodyPartOrganOrOrganComponent 64 70	organs
+T51	ResearchActivity 1204 1246	computationally efficient numerical method
+T52	CellComponent 1587 1597	components
+T53	Finding 2969 2981	relationship
+T54	DiseaseOrSyndrome 1922 1933	Parkinson's
+T55	ResearchActivity 860 865	study
+T56	ResearchActivity 2222 2227	study
+T57	ResearchActivity 3055 3060	study
+T58	AminoAcidPeptideOrProtein 306 314	proteins
+T59	AminoAcidPeptideOrProtein 1036 1044	proteins
+T60	AminoAcidPeptideOrProtein 3365 3396	filament cross-linking proteins
+T61	Finding 3011 3020	reduction
+T62	NaturalPhenomenonOrProcess 3011 3020	reduction
+T63	DiseaseOrSyndrome 1938 1957	Alzheimer's disease
+T64	Eukaryote 961 966	human
+T65	Eukaryote 2537 2542	human
+T66	ResearchActivity 2058 2063	model
+T67	ResearchActivity 2340 2388	parametrized three-dimensional geometrical model
+T68	ResearchActivity 2688 2704	whole cell model
+T69	Chemical 1499 1504	water
+T70	ClinicalAttribute 2482 2491	densities
+T71	DiseaseOrSyndrome 1912 1920	diabetes
+T72	TemporalConcept 3036 3040	time
+T73	TemporalConcept 3222 3226	time
+T74	NaturalPhenomenonOrProcess 1097 1106	diffusion
+T75	NaturalPhenomenonOrProcess 1290 1299	diffusion
+T76	NaturalPhenomenonOrProcess 2620 2629	diffusion
+T77	NaturalPhenomenonOrProcess 2744 2753	diffusion
+T78	OrganismAttribute 2932 2936	size
+T79	ResearchActivity 794 814	computational models
+T80	Finding 3098 3122	cytoskeletal alterations
+T81	ResearchActivity 2732 2766	homogenized diffusion coefficients
+T82	Cell 2543 2573	alveolar basal epithelial cell
+T83	CellFunction 2071 2098	diffusive vesicle transport
+T84	Chemical 1555 1575	biomolecular solutes
+T85	CellFunction 1290 1311	diffusion of vesicles
+T86	CellFunction 1097 1118	diffusion of vesicles
+T87	CellFunction 532 546	vesicle motion
+T88	CellFunction 746 779	intracellular transport mechanism
+T89	Cell 961 976	human lung cell
+T90	CellComponent 148 185	intra- and extracellular destinations
+T91	CellFunction 320 347	export of neurotransmitters
+T92	CellFunction 591 622	vesicle-mediated cell transport

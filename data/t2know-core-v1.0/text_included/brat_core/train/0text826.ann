@@ -1,0 +1,61 @@
+T0	DiseaseOrSyndrome 31 76	progressive, fatal neurodegenerative disorder
+T1	DiseaseOrSyndrome 94 140	motor, cognitive, and psychiatric disturbances
+T2	HealthCareActivity 217 241	therapeutic intervention
+T3	ResearchActivity 266 274	research
+T4	PathologicFunction 347 385	disruption of thalamocortical circuits
+T5	SignOrSymptom 419 427	symptoms
+T6	Cell 448 474	cortical pyramidal neurons
+T7	Cell 476 480	CPNs
+T8	Cell 486 502	thalamic neurons
+T9	DiseaseOrSyndrome 530 578	cognitive, somatosensory, and attention deficits
+T10	PathologicFunction 587 606	motor abnormalities
+T11	ResearchActivity 704 733	measured single unit activity
+T12	ManufacturedObject 773 789	electrode arrays
+T13	BodyPartOrganOrOrganComponent 807 815	thalamus
+T14	BodyPartOrganOrOrganComponent 820 840	primary motor cortex
+T15	OrganismAttribute 858 862	male
+T16	OrganismAttribute 867 873	female
+T17	CellFunction 897 914	neuronal activity
+T18	BiologicFunction 975 982	rewards
+T19	ExperimentalModelOfDisease 1037 1044	HD mice
+T20	BiologicFunction 1162 1168	reward
+T21	TemporalConcept 1173 1180	delayed
+T22	Cell 1184 1200	thalamic neurons
+T23	Cell 1202 1206	CPNs
+T24	ExperimentalModelOfDisease 1256 1263	HD mice
+T25	TemporalConcept 1323 1334	frequencies
+T26	Eukaryote 1353 1366	wildtype mice
+T27	ResearchActivity 1384 1388	data
+T28	DiseaseOrSyndrome 1547 1586	motor, cognitive, and learning deficits
+T29	Finding 322 330	evidence
+T30	Finding 1397 1405	evidence
+T31	DiseaseOrSyndrome 22 24	HD
+T32	DiseaseOrSyndrome 169 171	HD
+T33	DiseaseOrSyndrome 431 433	HD
+T34	DiseaseOrSyndrome 657 659	HD
+T35	DiseaseOrSyndrome 1338 1340	HD
+T36	DiseaseOrSyndrome 0 20	Huntington's disease
+T37	PatientOrDisabledGroup 513 524	HD patients
+T38	PatientOrDisabledGroup 1590 1601	HD patients
+T39	PathologicFunction 660 671	progression
+T40	TemporalConcept 660 671	progression
+T41	BodyPartOrganOrOrganComponent 294 302	striatum
+T42	TemporalConcept 243 252	Currently
+T43	BodyPartOrganOrOrganComponent 361 385	thalamocortical circuits
+T44	BodyPartOrganOrOrganComponent 629 653	thalamocortical pathways
+T45	ExperimentalModelOfDisease 874 883	Q175 mice
+T46	ResearchActivity 959 982	presentation of rewards
+T47	ResearchActivity 997 1035	actuation of an audible solenoid valve
+T48	Finding 1054 1075	significantly delayed
+T49	ResearchActivity 1076 1115	licking response to the reward stimulus
+T50	CellFunction 1135 1154	neuronal activation
+T51	Cell 1211 1245	fast-spiking cortical interneurons
+T52	Cell 1247 1251	FSIs
+T53	ClinicalAttribute 1278 1303	thalamocortical coherence
+T54	BiologicFunction 1420 1451	cortical and thalamic responses
+T55	PathologicFunction 1411 1451	impaired cortical and thalamic responses
+T56	PathologicFunction 1475 1509	impaired thalamocortical coherence
+T57	BiologicFunction 738 760	local field potentials
+T58	BiologicFunction 762 766	LFPs
+T59	CellFunction 713 733	single unit activity
+T60	PopulationGroup 844 857	4-5 month-old

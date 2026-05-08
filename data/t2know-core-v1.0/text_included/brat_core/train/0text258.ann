@@ -1,0 +1,94 @@
+T0	HealthCareActivity 129 165	magnetic resonance imaging technique
+T1	BiologicFunction 266 283	iron distribution
+T2	BiologicFunction 349 358	synthesis
+T3	CellFunction 349 358	synthesis
+T4	TemporalConcept 349 358	synthesis
+T5	HealthCareActivity 449 456	records
+T6	DiseaseOrSyndrome 645 661	Wilson's disease
+T7	DiseaseOrSyndrome 730 743	Fabry disease
+T8	DiseaseOrSyndrome 765 813	pantothenate-kinase-associated neurodegeneration
+T9	CellComponent 819 841	mitochondrial membrane
+T10	BodyPartOrganOrOrganComponent 885 900	general pattern
+T11	OrganismAttribute 925 948	magnetic susceptibility
+T12	ClinicalAttribute 925 948	magnetic susceptibility
+T13	BodyPartOrganOrOrganComponent 1069 1077	amygdala
+T14	BodyPartOrganOrOrganComponent 1082 1097	caudate nucleus
+T15	BodyPartOrganOrOrganComponent 1126 1142	substantia nigra
+T16	BodyPartOrganOrOrganComponent 1214 1227	basal ganglia
+T17	BodyPartOrganOrOrganComponent 1257 1283	cerebellar dentate nucleus
+T18	OrganismAttribute 1335 1358	magnetic susceptibility
+T19	ClinicalAttribute 1335 1358	magnetic susceptibility
+T20	TemporalConcept 93 97	past
+T21	ResearchActivity 314 331	systematic review
+T22	SignOrSymptom 722 728	ataxia
+T23	DiseaseOrSyndrome 722 728	ataxia
+T24	DiseaseOrSyndrome 745 763	myotonic dystrophy
+T25	ClinicalAttribute 1396 1404	severity
+T26	Finding 435 445	identified
+T27	Finding 1396 1404	severity
+T28	BodyPartOrganOrOrganComponent 1167 1179	motor cortex
+T29	ClinicalAttribute 1408 1425	clinical features
+T30	BodyPartOrganOrOrganComponent 995 1008	brain regions
+T31	ResearchActivity 508 517	databases
+T32	DiseaseOrSyndrome 685 704	Friedreich's ataxia
+T33	DiseaseOrSyndrome 1287 1306	Friedreich's ataxia
+T34	HealthCareRelatedOrganization 470 477	MEDLINE
+T35	PathologicFunction 45 54	pathology
+T36	PathologicFunction 1029 1038	pathology
+T37	BiomedicalOccupationOrDiscipline 45 54	pathology
+T38	BiomedicalOccupationOrDiscipline 1029 1038	pathology
+T39	ResearchActivity 249 262	investigation
+T40	ResearchActivity 1607 1620	investigation
+T41	HealthCareActivity 129 155	magnetic resonance imaging
+T42	PharmacologicSubstance 266 270	iron
+T43	PharmacologicSubstance 974 978	iron
+T44	Chemical 266 270	iron
+T45	Chemical 974 978	iron
+T46	BiologicallyActiveSubstance 266 270	iron
+T47	BiologicallyActiveSubstance 974 978	iron
+T48	HealthCareActivity 148 155	imaging
+T49	BiologicFunction 974 986	iron content
+T50	HealthCareActivity 167 202	quantitative susceptibility mapping
+T51	ManufacturedObject 167 202	quantitative susceptibility mapping
+T52	HealthCareActivity 204 207	QSM
+T53	HealthCareActivity 389 392	QSM
+T54	HealthCareActivity 902 905	QSM
+T55	HealthCareActivity 1572 1575	QSM
+T56	ManufacturedObject 204 207	QSM
+T57	ManufacturedObject 389 392	QSM
+T58	ManufacturedObject 902 905	QSM
+T59	ManufacturedObject 1572 1575	QSM
+T60	PharmacologicSubstance 0 4	Iron
+T61	Chemical 0 4	Iron
+T62	BiologicallyActiveSubstance 0 4	Iron
+T63	ResearchActivity 156 165	technique
+T64	TemporalConcept 1375 1391	disease duration
+T65	BodyPartOrganOrOrganComponent 291 296	brain
+T66	CellOrMolecularDysfunction 861 878	neurodegeneration
+T67	CellOrMolecularDysfunction 1624 1641	neurodegeneration
+T68	BiologicFunction 106 117	development
+T69	CellFunction 106 117	development
+T70	HealthCareActivity 393 400	studies
+T71	HealthCareActivity 555 562	studies
+T72	HealthCareActivity 1468 1475	studies
+T73	Finding 1549 1557	evidence
+T74	ResearchActivity 393 400	studies
+T75	ResearchActivity 555 562	studies
+T76	ResearchActivity 1468 1475	studies
+T77	DiseaseOrSyndrome 706 728	spinocerebellar ataxia
+T78	DiseaseOrSyndrome 58 84	neurodegenerative diseases
+T79	DiseaseOrSyndrome 404 430	neurodegenerative diseases
+T80	DiseaseOrSyndrome 1508 1534	neurodegenerative diseases
+T81	DiseaseOrSyndrome 663 683	Huntington's disease
+T82	DiseaseOrSyndrome 1231 1251	Huntington's disease
+T83	DiseaseOrSyndrome 593 612	Parkinson's disease
+T84	DiseaseOrSyndrome 1146 1165	Parkinson's disease
+T85	DiseaseOrSyndrome 614 643	amyotrophic lateral sclerosis
+T86	DiseaseOrSyndrome 1183 1212	amyotrophic lateral sclerosis
+T87	DiseaseOrSyndrome 572 591	Alzheimer's disease
+T88	DiseaseOrSyndrome 1101 1120	Alzheimer's disease
+T89	HealthCareRelatedOrganization 479 485	Embase
+T90	HealthCareRelatedOrganization 487 493	Scopus
+T91	HealthCareRelatedOrganization 499 507	PsycInfo
+T92	TemporalConcept 98 104	decade
+T93	DiseaseOrSyndrome 819 878	mitochondrial membrane protein-associated neurodegeneration

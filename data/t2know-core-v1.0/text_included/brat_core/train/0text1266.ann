@@ -1,0 +1,71 @@
+T0	InjuryOrPoisoning 93 106	tissue damage
+T1	DiseaseOrSyndrome 311 322	CNS disease
+T2	Finding 494 514	neurological decline
+T3	HealthCareActivity 566 577	stimulation
+T4	NaturalPhenomenonOrProcess 566 577	stimulation
+T5	NaturalPhenomenonOrProcess 766 775	stimulate
+T6	OrganismAttribute 925 938	heterogeneity
+T7	ResearchActivity 994 1032	Gene expression profiling technologies
+T8	ResearchActivity 1064 1078	RNA sequencing
+T9	ResearchActivity 1121 1156	Single microglia proteomic profiles
+T10	BodyPartOrganOrOrganComponent 1207 1212	layer
+T11	PathologicFunction 969 992	pathological conditions
+T12	ResearchActivity 1086 1097;1109 1119	single-cell sequencing
+T13	BiologicFunction 1401 1413	developments
+T14	CellFunction 1401 1413	developments
+T15	OrganismAttribute 210 220	phenotypes
+T16	ManufacturedObject 164 168	case
+T17	TemporalConcept 73 78	first
+T18	OrganismAttribute 140 153	heterogeneous
+T19	BodyPartOrganOrOrganComponent 93 99	tissue
+T20	BodyPartOrganOrOrganComponent 1493 1499	tissue
+T21	Cell 734 738	OPCs
+T22	Cell 701 732	oligodendrocyte precursor cells
+T23	Cell 154 159	cells
+T24	Cell 861 866	cells
+T25	BodyPartOrganOrOrganComponent 655 661	myelin
+T26	BiologicFunction 795 806	development
+T27	CellFunction 795 806	development
+T28	BodyPartOrganOrOrganComponent 28 50	central nervous system
+T29	BodyPartOrganOrOrganComponent 52 55	CNS
+T30	BodyPartOrganOrOrganComponent 311 314	CNS
+T31	BodyPartOrganOrOrganComponent 412 415	CNS
+T32	CellFunction 581 594	remyelination
+T33	CellFunction 622 635	remyelination
+T34	CellFunction 776 789	remyelination
+T35	CellFunction 639 651	phagocytosis
+T36	Substance 662 668	debris
+T37	DiseaseOrSyndrome 383 404	demyelinating disease
+T38	Cell 0 9	Microglia
+T39	Cell 126 135	Microglia
+T40	ResearchActivity 1252 1258	review
+T41	HealthCareActivity 1252 1258	review
+T42	DiseaseOrSyndrome 366 368	MS
+T43	DiseaseOrSyndrome 552 554	MS
+T44	DiseaseOrSyndrome 1330 1332	MS
+T45	PathologicFunction 172 181	pathology
+T46	BiomedicalOccupationOrDiscipline 172 181	pathology
+T47	DiseaseOrSyndrome 346 364	Multiple sclerosis
+T48	Cell 183 192	microglia
+T49	Cell 274 283	microglia
+T50	Cell 524 533	microglia
+T51	Cell 683 692	microglia
+T52	Cell 915 924	microglia
+T53	PathologicFunction 743 755	demyelinated
+T54	BiologicFunction 57 68	homeostasis
+T55	TemporalConcept 375 382	chronic
+T56	BiologicFunction 898 911	understanding
+T57	Chemical 1101 1108	nucleus
+T58	CellComponent 1101 1108	nucleus
+T59	ResearchActivity 1216 1236	high-resolution data
+T60	ResearchActivity 1266 1273	studies
+T61	CellOrMolecularDysfunction 451 470	axonal degeneration
+T62	Finding 958 964	normal
+T63	TemporalConcept 1259 1265	recent
+T64	TemporalConcept 1394 1400	recent
+T65	PathologicFunction 434 446	inflammation
+T66	BiomedicalOccupationOrDiscipline 1299 1311	technologies
+T67	ResearchActivity 1429 1452	(single) cell profiling
+T68	ResearchActivity 810 838	high-resolution technologies
+T69	ResearchActivity 1051 1078	whole tissue RNA sequencing
+T70	ResearchActivity 1086 1093;1101 1119	single- nucleus sequencing

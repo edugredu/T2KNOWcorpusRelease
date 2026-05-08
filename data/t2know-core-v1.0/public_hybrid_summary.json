@@ -1,0 +1,13 @@
+{
+  "release_model": "rights-aware hybrid",
+  "documents_total": 821,
+  "documents_text_included": 432,
+  "documents_text_excluded": 389,
+  "sentences_total": 14356,
+  "sentences_text_included": 7665,
+  "sentences_text_excluded": 6691,
+  "entities_total": 125703,
+  "entities_text_included": 68881,
+  "entities_text_excluded": 56822,
+  "source_text_rule": "Source text is present only for include_text records. For exclude_text records, text and entity surface strings are redacted."
+}

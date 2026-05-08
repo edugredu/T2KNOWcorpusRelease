@@ -1,0 +1,103 @@
+T0	ResearchActivity 708 726	immunoprecipitated
+T1	AminoAcidPeptideOrProtein 762 767	L1CAM
+T2	BiologicallyActiveSubstance 762 767	L1CAM
+T3	AminoAcidPeptideOrProtein 923 936	synaptophysin
+T4	BiologicallyActiveSubstance 923 936	synaptophysin
+T5	BiologicallyActiveSubstance 938 950	synaptopodin
+T6	AminoAcidPeptideOrProtein 938 950	synaptopodin
+T7	BiologicFunction 1109 1123	working memory
+T8	BiologicFunction 1128 1146	executive function
+T9	Finding 1229 1247	better performance
+T10	BiologicFunction 1074 1090	cognitive status
+T11	PathologicFunction 530 542	degeneration
+T12	Finding 4 13	hallmarks
+T13	BiologicallyActiveSubstance 998 1001	CD9
+T14	AminoAcidPeptideOrProtein 998 1001	CD9
+T15	Finding 627 639	relationship
+T16	CellComponent 437 459	Extracellular Vesicles
+T17	DiseaseOrSyndrome 17 36	Alzheimer's disease
+T18	CellComponent 460 463	EVs
+T19	DiseaseOrSyndrome 38 40	AD
+T20	DiseaseOrSyndrome 262 264	AD
+T21	DiseaseOrSyndrome 605 607	AD
+T22	DiseaseOrSyndrome 695 697	AD
+T23	DiseaseOrSyndrome 840 842	AD
+T24	DiseaseOrSyndrome 846 848	AD
+T25	DiseaseOrSyndrome 1384 1386	AD
+T26	CellComponent 971 973	EV
+T27	ClinicalAttribute 755 761	marker
+T28	ClinicalAttribute 974 981	markers
+T29	Cell 422 428	neuron
+T30	BodyPartOrganOrOrganComponent 521 529	synaptic
+T31	BodyPartOrganOrOrganComponent 785 791	plasma
+T32	PathologicFunction 42 51	pathology
+T33	BiomedicalOccupationOrDiscipline 42 51	pathology
+T34	AminoAcidPeptideOrProtein 163 166	tau
+T35	AminoAcidPeptideOrProtein 391 394	tau
+T36	AminoAcidPeptideOrProtein 513 516	tau
+T37	ClinicalAttribute 358 368	biomarkers
+T38	ClinicalAttribute 403 413	biomarkers
+T39	ClinicalAttribute 480 490	biomarkers
+T40	ClinicalAttribute 1197 1207	biomarkers
+T41	BiologicallyActiveSubstance 163 166	tau
+T42	BiologicallyActiveSubstance 391 394	tau
+T43	BiologicallyActiveSubstance 513 516	tau
+T44	BodyPartOrganOrOrganComponent 785 799	plasma samples
+T45	Substance 792 799	samples
+T46	BodyPartOrganOrOrganComponent 792 799	samples
+T47	Cell 746 754	neuronal
+T48	PathologicFunction 224 245	pathogenic mechanisms
+T49	AminoAcidPeptideOrProtein 96 102	A beta
+T50	AminoAcidPeptideOrProtein 379 385	A beta
+T51	AminoAcidPeptideOrProtein 502 508	A beta
+T52	AminoAcidPeptideOrProtein 890 900	A beta(42)
+T53	AminoAcidPeptideOrProtein 1015 1025	A beta(42)
+T54	AminoAcidPeptideOrProtein 1329 1339	A beta(42)
+T55	AminoAcidPeptideOrProtein 82 89	amyloid
+T56	BiologicallyActiveSubstance 82 89	amyloid
+T57	BiologicallyActiveSubstance 907 910	Tau
+T58	BiologicallyActiveSubstance 918 921	Tau
+T59	BiologicallyActiveSubstance 902 910	p181-Tau
+T60	BiologicallyActiveSubstance 912 921	total Tau
+T61	AminoAcidPeptideOrProtein 907 910	Tau
+T62	AminoAcidPeptideOrProtein 918 921	Tau
+T63	AminoAcidPeptideOrProtein 902 910	p181-Tau
+T64	AminoAcidPeptideOrProtein 912 921	total Tau
+T65	HealthCareActivity 587 600	liquid biopsy
+T66	BiologicFunction 657 666	cognition
+T67	BodyPartOrganOrOrganComponent 415 421	Plasma
+T68	CellComponent 1010 1014	NDEV
+T69	CellComponent 1165 1169	NDEV
+T70	Finding 1084 1090	status
+T71	GeneOrGenome 989 993	CD81
+T72	AminoAcidPeptideOrProtein 983 987	CD63
+T73	BiologicallyActiveSubstance 983 987	CD63
+T74	AminoAcidPeptideOrProtein 989 993	CD81
+T75	BiologicallyActiveSubstance 989 993	CD81
+T76	GeneOrGenome 983 987	CD63
+T77	AminoAcidPeptideOrProtein 143 166	hyperphosphorylated tau
+T78	BiologicallyActiveSubstance 143 166	hyperphosphorylated tau
+T79	Finding 1236 1247	performance
+T80	BiologicFunction 1092 1098	memory
+T81	BiologicFunction 1117 1123	memory
+T82	DiseaseOrSyndrome 179 190	pathologies
+T83	DiseaseOrSyndrome 865 876	pathologies
+T84	Finding 1117 1123	memory
+T85	CellOrMolecularDysfunction 108 131	neurofibrillary tangles
+T86	CellComponent 108 123	neurofibrillary
+T87	AnatomicalAbnormality 56 70	senile plaques
+T88	AminoAcidPeptideOrProtein 82 94	amyloid-beta
+T89	CellComponent 465 470	NDEVs
+T90	CellComponent 727 732	NDEVs
+T91	CellComponent 1346 1351	NDEVs
+T92	BiologicFunction 1251 1275	executive function tasks
+T93	PathologicFunction 277 298	synaptic degeneration
+T94	BiologicFunction 331 349	synaptic integrity
+T95	TemporalConcept 645 656	ante-mortem
+T96	TemporalConcept 773 784	ante-mortem
+T97	HealthCareActivity 808 815	autopsy
+T98	BiologicallyActiveSubstance 890 900	A beta(42)
+T99	ClinicalAttribute 1010 1032	NDEV A beta(42) levels
+T100	BiologicallyActiveSubstance 1015 1025	A beta(42)
+T101	BiologicFunction 1170 1188	synaptic integrity
+T102	BiologicallyActiveSubstance 1329 1339	A beta(42)

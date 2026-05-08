@@ -1,0 +1,132 @@
+T0	BiologicFunction 308 311	CBF
+T1	BiologicFunction 516 519	CBF
+T2	BiologicFunction 661 664	CBF
+T3	HealthCareActivity 833 859	neuropsychological testing
+T4	PopulationGroup 976 991	intraindividual
+T5	BiologicFunction 1140 1143	CBF
+T6	BiologicFunction 1176 1179	CBF
+T7	ResearchActivity 1235 1245	positivity
+T8	BiologicFunction 1352 1355	CBF
+T9	BiologicFunction 1648 1651	CBF
+T10	NaturalPhenomenonOrProcess 1732 1742	reductions
+T11	HealthCareActivity 1732 1742	reductions
+T12	BiologicFunction 1773 1776	CBF
+T13	BiologicFunction 1911 1914	CBF
+T14	HealthCareActivity 2058 2076	neuropsychological
+T15	HealthCareActivity 2264 2282	neuropsychological
+T16	BodyPartOrganOrOrganComponent 2376 2391	cerebrovascular
+T17	AminoAcidPeptideOrProtein 405 417	amyloid beta
+T18	HealthCareActivity 85 100	testing session
+T19	Finding 2090 2097	Changes
+T20	Finding 594 606	interactions
+T21	OrganismAttribute 1503 1509	gender
+T22	Finding 1385 1396	performance
+T23	Finding 2077 2088	performance
+T24	Finding 2283 2294	performance
+T25	AminoAcidPeptideOrProtein 1285 1288	tau
+T26	AminoAcidPeptideOrProtein 1594 1597	tau
+T27	DiseaseOrSyndrome 174 193	Alzheimer's disease
+T28	BodyPartOrganOrOrganComponent 812 815	CSF
+T29	BodyPartOrganOrOrganComponent 1279 1282	CSF
+T30	AminoAcidPeptideOrProtein 405 412	amyloid
+T31	BiologicallyActiveSubstance 405 412	amyloid
+T32	BiologicallyActiveSubstance 1285 1288	tau
+T33	BiologicallyActiveSubstance 1594 1597	tau
+T34	OrganismAttribute 1495 1498	age
+T35	DiseaseOrSyndrome 195 197	AD
+T36	DiseaseOrSyndrome 618 620	AD
+T37	DiseaseOrSyndrome 1222 1224	AD
+T38	DiseaseOrSyndrome 2162 2164	AD
+T39	DiseaseOrSyndrome 2190 2192	AD
+T40	ClinicalAttribute 621 630	biomarker
+T41	ClinicalAttribute 1225 1234	biomarker
+T42	ClinicalAttribute 1570 1579	biomarker
+T43	ClinicalAttribute 1804 1813	biomarker
+T44	ClinicalAttribute 1936 1945	biomarker
+T45	ClinicalAttribute 2193 2202	biomarker
+T46	DiseaseOrSyndrome 387 395	dementia
+T47	DiseaseOrSyndrome 2433 2441	dementia
+T48	PopulationGroup 742 754	participants
+T49	PopulationGroup 372 378	adults
+T50	Finding 631 637	status
+T51	HealthCareActivity 765 780	lumbar puncture
+T52	HealthCareActivity 883 890	imaging
+T53	TemporalConcept 366 371	older
+T54	BodyPartOrganOrOrganComponent 791 810	cerebrospinal fluid
+T55	PopulationGroup 1783 1794	individuals
+T56	PopulationGroup 2212 2223	individuals
+T57	PopulationGroup 2409 2420	individuals
+T58	Finding 2392 2405	brain changes
+T59	BiologicFunction 287 306	cerebral blood flow
+T60	BodyPartOrganOrOrganComponent 296 301	blood
+T61	HealthCareActivity 892 895	MRI
+T62	HealthCareActivity 1075 1114	Pulsed arterial spin labeling (ASL) MRI
+T63	BiologicFunction 159 170	development
+T64	CellFunction 159 170	development
+T65	HealthCareActivity 928 937	follow-up
+T66	TemporalConcept 928 937	follow-up
+T67	DiseaseOrSyndrome 137 154	cognitive decline
+T68	Substance 805 810	fluid
+T69	DiseaseOrSyndrome 691 710	Alzheimer's Disease
+T70	ResearchActivity 691 734	Alzheimer's Disease Neuroimaging Initiative
+T71	HealthCareActivity 938 948	evaluation
+T72	ResearchActivity 938 948	evaluation
+T73	AminoAcidPeptideOrProtein 419 425	A beta
+T74	AminoAcidPeptideOrProtein 1289 1295	A beta
+T75	AminoAcidPeptideOrProtein 1598 1604	A beta
+T76	ResearchActivity 992 1010	standard deviation
+T77	ResearchActivity 1201 1205	ROIs
+T78	ResearchActivity 1674 1678	ROIs
+T79	PopulationGroup 366 378	older adults
+T80	ClinicalAttribute 116 122	marker
+T81	ClinicalAttribute 2366 2372	marker
+T82	TemporalConcept 525 529	time
+T83	DiseaseOrSyndrome 682 690	demented
+T84	BodyPartOrganOrOrganComponent 1636 1647	hippocampal
+T85	BodyPartOrganOrOrganComponent 1761 1772	hippocampal
+T86	Cell 1636 1647	hippocampal
+T87	Cell 1761 1772	hippocampal
+T88	AminoAcidPeptideOrProtein 1283 1288	p-tau
+T89	AminoAcidPeptideOrProtein 1592 1597	p-tau
+T90	HealthCareActivity 864 890	magnetic resonance imaging
+T91	ManufacturedObject 864 890	magnetic resonance imaging
+T92	BiologicallyActiveSubstance 1283 1288	p-tau
+T93	BiologicallyActiveSubstance 1592 1597	p-tau
+T94	BodyPartOrganOrOrganComponent 327 335	cortical
+T95	ClinicalAttribute 327 345	cortical thickness
+T96	ResearchActivity 1438 1462	linear regression models
+T97	Finding 2327 2335	evidence
+T98	TemporalConcept 1417 1423	months
+T99	ClinicalAttribute 349 361	brain volume
+T100	ResearchActivity 1996 2004	analyses
+T101	ResearchActivity 1438 1455	linear regression
+T102	ResearchActivity 563 582	longitudinal change
+T103	Finding 1313 1319	Change
+T104	PathologicFunction 2112 2121	sensitive
+T105	HealthCareRelatedOrganization 691 734	Alzheimer's Disease Neuroimaging Initiative
+T106	HealthCareActivity 41 68	neuropsychological measures
+T107	ClinicalAttribute 0 27	Intraindividual variability
+T108	ClinicalAttribute 29 32	IIV
+T109	ClinicalAttribute 508 511	IIV
+T110	ClinicalAttribute 586 589	IIV
+T111	ClinicalAttribute 610 613	IIV
+T112	HealthCareRelatedOrganization 736 740	ADNI
+T113	ResearchActivity 736 740	ADNI
+T114	ClinicalAttribute 950 953	IIV
+T115	HealthCareActivity 1046 1073	neuropsychological measures
+T116	ClinicalAttribute 1347 1350	IIV
+T117	ClinicalAttribute 1555 1558	IIV
+T118	Finding 1523 1546	significant interaction
+T119	ResearchActivity 1580 1590	positivity
+T120	BodyPartOrganOrOrganComponent 1621 1631	entorhinal
+T121	ClinicalAttribute 1707 1710	IIV
+T122	BodyPartOrganOrOrganComponent 1746 1756	entorhinal
+T123	Finding 1857 1884	no significant associations
+T124	ClinicalAttribute 1903 1906	IIV
+T125	ClinicalAttribute 2101 2104	IIV
+T126	PathologicFunction 2145 2158	hypoperfusion
+T127	ClinicalAttribute 2347 2350	IIV
+T128	ClinicalAttribute 238 241	IIV
+T129	ClinicalAttribute 1279 1301	CSF p-tau/A beta ratio
+T130	ResearchActivity 1302 1311	cut-score
+T131	ResearchActivity 1180 1199	regions of interest

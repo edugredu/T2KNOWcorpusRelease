@@ -1,0 +1,66 @@
+T0	NaturalPhenomenonOrProcess 949 965	microenvironment
+T1	BodyPartOrganOrOrganComponent 949 965	microenvironment
+T2	BiologicFunction 1318 1330	coordination
+T3	HealthCareActivity 1318 1330	coordination
+T4	PharmacologicSubstance 23 34	medications
+T5	Cell 511 539	resident innate immune cells
+T6	Eukaryote 620 626	humans
+T7	Eukaryote 631 637	rodent
+T8	DiseaseOrSyndrome 39 57	multiple sclerosis
+T9	InjuryOrPoisoning 969 975	lesion
+T10	InjuryOrPoisoning 1426 1432	lesion
+T11	Cell 205 234	oligodendrocyte lineage cells
+T12	Cell 442 471	oligodendrocyte lineage cells
+T13	CellOrMolecularDysfunction 1344 1365	remyelination failure
+T14	InjuryOrPoisoning 1298 1308	disruption
+T15	Cell 205 228	oligodendrocyte lineage
+T16	Cell 442 465	oligodendrocyte lineage
+T17	Finding 178 189	enhancement
+T18	BiologicFunction 730 740	repression
+T19	CellFunction 730 740	repression
+T20	Cell 895 910	cell population
+T21	BodyPartOrganOrOrganComponent 482 504	central nervous system
+T22	BodyPartOrganOrOrganComponent 506 509	CNS
+T23	BodyPartOrganOrOrganComponent 1114 1117	CNS
+T24	BodyPartOrganOrOrganComponent 1422 1425	CNS
+T25	ResearchActivity 653 661	research
+T26	Eukaryote 293 298	human
+T27	PathologicFunction 1194 1205	progression
+T28	TemporalConcept 1194 1205	progression
+T29	BodyPartOrganOrOrganComponent 545 555	peripheral
+T30	Cell 1404 1408	cell
+T31	ResearchActivity 1380 1388	overview
+T32	PathologicFunction 1239 1262	dysregulated mechanisms
+T33	ResearchActivity 1215 1221	review
+T34	HealthCareActivity 1215 1221	review
+T35	TemporalConcept 4 13	currently
+T36	PopulationGroup 900 910	population
+T37	TemporalConcept 1156 1160	time
+T38	Cell 473 480	neurons
+T39	PathologicFunction 1186 1205	disease progression
+T40	PopulationGroup 1123 1134	populations
+T41	BodyPartOrganOrOrganComponent 74 87	immune system
+T42	Finding 424 433	interplay
+T43	Finding 1409 1418	interplay
+T44	CellFunction 875 882	pathway
+T45	CellFunction 164 177	remyelination
+T46	CellFunction 351 364	remyelination
+T47	CellFunction 684 697	remyelination
+T48	CellFunction 986 999	remyelination
+T49	DiseaseOrSyndrome 59 61	MS
+T50	DiseaseOrSyndrome 1051 1053	MS
+T51	Finding 269 275;282 289	modest effects
+T52	Finding 1099 1106	effects
+T53	PharmacologicSubstance 241 245	drug
+T54	PharmacologicSubstance 838 842	drug
+T55	PharmacologicSubstance 1031 1035	drug
+T56	Cell 1118 1134	cell populations
+T57	Cell 749 758	cell type
+T58	Cell 1280 1289	cell type
+T59	ResearchActivity 299 314	clinical trials
+T60	ResearchActivity 638 644	models
+T61	ResearchActivity 106 125	preclinical results
+T62	Finding 139 159	disease amelioration
+T63	Finding 279 289	no effects
+T64	Cell 556 574	immune infiltrates
+T65	HealthCareActivity 1164 1178	administration

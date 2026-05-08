@@ -1,0 +1,70 @@
+T0	ClinicalAttribute 250 270	molecular biomarkers
+T1	IndividualBehavior 493 503	behaviours
+T2	PopulationGroup 655 662	drivers
+T3	AminoAcidPeptideOrProtein 1244 1258	APOE epsilon 4
+T4	Finding 1259 1265	status
+T5	AminoAcidPeptideOrProtein 1385 1399	APOE epsilon 4
+T6	Finding 1400 1406	status
+T7	SignOrSymptom 153 171	cognitive symptoms
+T8	TemporalConcept 94 100	period
+T9	Finding 642 648	normal
+T10	Finding 805 811	normal
+T11	DiseaseOrSyndrome 11 28	Alzheimer disease
+T12	MachineActivity 723 739	machine learning
+T13	ResearchActivity 550 555	study
+T14	OrganismAttribute 1270 1273	age
+T15	OrganismAttribute 1337 1340	age
+T16	OrganismAttribute 1380 1383	age
+T17	ResearchActivity 457 466	signature
+T18	ClinicalAttribute 260 270	biomarkers
+T19	ClinicalAttribute 999 1009	biomarkers
+T20	DiseaseOrSyndrome 30 32	AD
+T21	DiseaseOrSyndrome 72 86	Preclinical AD
+T22	DiseaseOrSyndrome 120 122	AD
+T23	DiseaseOrSyndrome 211 213	AD
+T24	DiseaseOrSyndrome 425 427	AD
+T25	DiseaseOrSyndrome 668 682	preclinical AD
+T26	DiseaseOrSyndrome 702 716	preclinical AD
+T27	DiseaseOrSyndrome 946 960	preclinical AD
+T28	DiseaseOrSyndrome 1065 1079	preclinical AD
+T29	DiseaseOrSyndrome 1144 1158	preclinical AD
+T30	DiseaseOrSyndrome 1214 1228	preclinical AD
+T31	DiseaseOrSyndrome 1617 1631	preclinical AD
+T32	ClinicalAttribute 1591 1600	biomarker
+T33	ManufacturedObject 587 614	in-vehicle GPS data loggers
+T34	DiseaseOrSyndrome 62 70	dementia
+T35	ResearchActivity 1479 1484	model
+T36	HealthCareActivity 296 311	lumbar puncture
+T37	HealthCareActivity 284 291	imaging
+T38	TemporalConcept 649 654	older
+T39	TemporalConcept 812 817	older
+T40	TemporalConcept 1638 1643	older
+T41	ResearchActivity 1160 1167	Results
+T42	TemporalConcept 832 836	year
+T43	PopulationGroup 887 893	cohort
+T44	PopulationGroup 1644 1650	adults
+T45	BodyPartOrganOrOrganComponent 979 998	cerebrospinal fluid
+T46	PopulationGroup 910 921	individuals
+T47	OrganismAttribute 576 583	ability
+T48	Finding 1130 1140	predictors
+T49	BiologicFunction 731 739	learning
+T50	ClinicalAttribute 1583 1600	digital biomarker
+T51	ResearchActivity 1016 1041	Random Forest (RF) models
+T52	ResearchActivity 1188 1197	RF models
+T53	Finding 123 136	brain changes
+T54	Finding 214 227	brain changes
+T55	TemporalConcept 404 421	preclinical stage
+T56	PopulationGroup 818 825	drivers
+T57	ManufacturedObject 855 881	in-vehicle GPS data logger
+T58	ResearchActivity 1081 1094	RF Gini index
+T59	ResearchActivity 1172 1180	F1 score
+T60	ResearchActivity 1425 1464	area under the receiver operating curve
+T61	ManufacturedObject 1532 1535	GPS
+T62	IndividualBehavior 1412 1419	driving
+T63	IndividualBehavior 1536 1543	driving
+T64	ResearchActivity 1291 1319	GPS-based driving indicators
+T65	ResearchActivity 1345 1363	driving indicators
+T66	IndividualBehavior 512 519	driving
+T67	IndividualBehavior 782 789	driving
+T68	IndividualBehavior 1345 1352	driving
+T69	IndividualBehavior 1301 1308	driving

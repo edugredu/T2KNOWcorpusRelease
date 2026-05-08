@@ -1,0 +1,193 @@
+T0	HealthCareActivity 205 219	ketogenic diet
+T1	HealthCareActivity 225 244	caloric restriction
+T2	Finding 225 244	caloric restriction
+T3	Chemical 259 272	ketone bodies
+T4	Chemical 285 305	beta-hydroxybutyrate
+T5	Chemical 307 310	BHB
+T6	Finding 313 322	Increased
+T7	Chemical 323 326	BHB
+T8	Finding 359 366	improve
+T9	Chemical 498 501	BHB
+T10	Chemical 618 621	BHB
+T11	CellComponent 708 721	intracellular
+T12	ResearchActivity 798 804	RT-PCR
+T13	Chemical 871 874	BHB
+T14	CellFunction 1005 1017	up-regulated
+T15	AminoAcidPeptideOrProtein 1022 1034	neurotrophin
+T16	BiologicallyActiveSubstance 1022 1034	neurotrophin
+T17	Chemical 1125 1128	BHB
+T18	GeneOrGenome 1261 1266	HDAC3
+T19	AminoAcidPeptideOrProtein 1261 1266	HDAC3
+T20	GeneOrGenome 1268 1273	PARP1
+T21	AminoAcidPeptideOrProtein 1268 1273	PARP1
+T22	GeneOrGenome 1275 1278	AIF
+T23	GeneOrGenome 1283 1288	TRPA1
+T24	AminoAcidPeptideOrProtein 1283 1288	TRPA1
+T25	BiologicallyActiveSubstance 1447 1459	doublecortin
+T26	AminoAcidPeptideOrProtein 1447 1459	doublecortin
+T27	Chemical 1561 1564	BHB
+T28	Chemical 1863 1866	BHB
+T29	Finding 1922 1931	decreases
+T30	CellFunction 1985 2000	down-regulating
+T31	GeneOrGenome 2019 2024	TRPA1
+T32	AminoAcidPeptideOrProtein 2019 2024	TRPA1
+T33	GeneOrGenome 2029 2033	PARP
+T34	AminoAcidPeptideOrProtein 2029 2033	PARP
+T35	Chemical 2173 2176	BHB
+T36	DiseaseOrSyndrome 2239 2269	chronic demyelinating diseases
+T37	GeneOrGenome 1403 1407	TrkB
+T38	AminoAcidPeptideOrProtein 1403 1407	TrkB
+T39	BiologicallyActiveSubstance 1403 1407	TrkB
+T40	AminoAcidPeptideOrProtein 2146 2150	mTOR
+T41	GeneOrGenome 2146 2150	mTOR
+T42	BiologicallyActiveSubstance 2146 2150	mTOR
+T43	Chemical 516 519	CPZ
+T44	Chemical 586 589	CPZ
+T45	Chemical 699 702	CPZ
+T46	Chemical 1953 1956	CPZ
+T47	CellFunction 1990 2015	regulating the expression
+T48	TemporalConcept 567 577	continuous
+T49	AminoAcidPeptideOrProtein 1035 1068	brain-derived neurotrophic factor
+T50	BiologicallyActiveSubstance 1035 1068	brain-derived neurotrophic factor
+T51	CellFunction 2082 2106	p38-MAPK/JNK/JUN pathway
+T52	Finding 138 149	risk factor
+T53	Finding 885 893	improved
+T54	Finding 686 695	hallmarks
+T55	BiologicFunction 654 662	behavior
+T56	IndividualBehavior 654 662	behavior
+T57	ResearchActivity 654 662	behavior
+T58	Cell 1188 1204	oligodendrocytes
+T59	Cell 1657 1661	OPCs
+T60	Cell 1898 1901	OPC
+T61	DiseaseOrSyndrome 2247 2269	demyelinating diseases
+T62	Cell 1624 1655	oligodendrocyte precursor cells
+T63	PathologicFunction 529 542	demyelinating
+T64	PathologicFunction 2247 2260	demyelinating
+T65	DiseaseOrSyndrome 2279 2297	multiple sclerosis
+T66	BodyPartOrganOrOrganComponent 928 934	myelin
+T67	CellFunction 2129 2160	ERK1/2, PI3K/AKT/mTOR signaling
+T68	CellFunction 1902 1917	differentiation
+T69	Cell 1936 1939	OLs
+T70	CellFunction 1898 1917	OPC differentiation
+T71	Cell 1326 1328	OL
+T72	TemporalConcept 1498 1504	mature
+T73	Cell 1478 1493	precursor cells
+T74	Cell 1640 1655	precursor cells
+T75	Cell 1624 1649	oligodendrocyte precursor
+T76	BodyPartOrganOrOrganComponent 1081 1096	corpus callosum
+T77	BodyPartOrganOrOrganComponent 1347 1362	corpus callosum
+T78	BodyPartOrganOrOrganComponent 1796 1811	corpus callosum
+T79	Chemical 505 514	cuprizone
+T80	Finding 1426 1443	increased density
+T81	PathologicFunction 37 49	inflammatory
+T82	HealthCareActivity 215 219	diet
+T83	ResearchActivity 833 845	western blot
+T84	AminoAcidPeptideOrProtein 2142 2145	AKT
+T85	BiologicallyActiveSubstance 2142 2145	AKT
+T86	Cell 1513 1527	neuronal cells
+T87	BodyPartOrganOrOrganComponent 78 100	central nervous system
+T88	ResearchActivity 558 563	study
+T89	BodyPartOrganOrOrganComponent 102 105	CNS
+T90	BodyPartOrganOrOrganComponent 1821 1826	brain
+T91	PathologicFunction 158 169	progression
+T92	TemporalConcept 158 169	progression
+T93	Cell 1171 1176	cells
+T94	Cell 1672 1677	cells
+T95	Cell 1753 1758	cells
+T96	Cell 1783 1788	cells
+T97	Eukaryote 741 745	mice
+T98	Eukaryote 1969 1973	mice
+T99	Cell 1469 1477	neuronal
+T100	Cell 1513 1521	neuronal
+T101	ResearchActivity 543 548	model
+T102	Finding 441 459	therapeutic effect
+T103	HealthCareActivity 875 884	treatment
+T104	HealthCareActivity 1129 1138	treatment
+T105	HealthCareActivity 1223 1232	treatment
+T106	HealthCareActivity 1565 1574	treatment
+T107	HealthCareActivity 1867 1876	treatment
+T108	HealthCareActivity 2177 2186	treatment
+T109	HealthCareActivity 2226 2235	treatment
+T110	ResearchActivity 875 884	treatment
+T111	ResearchActivity 1129 1138	treatment
+T112	ResearchActivity 1223 1232	treatment
+T113	ResearchActivity 1565 1574	treatment
+T114	ResearchActivity 1867 1876	treatment
+T115	ResearchActivity 2177 2186	treatment
+T116	ResearchActivity 2226 2235	treatment
+T117	ResearchActivity 400 407	studies
+T118	CellFunction 1247 1257	expression
+T119	CellFunction 1389 1399	expression
+T120	CellFunction 2005 2015	expression
+T121	OrganismAttribute 367 370	age
+T122	Cell 990 999	microglia
+T123	Cell 969 978	astrocyte
+T124	CellFunction 1330 1339	apoptosis
+T125	CellFunction 1940 1949	apoptosis
+T126	Eukaryote 1815 1820	mouse
+T127	CellFunction 2064 2074	inhibition
+T128	BodyPartOrganOrOrganComponent 1101 1112	hippocampus
+T129	BodyPartOrganOrOrganComponent 1535 1546	hippocampus
+T130	Finding 941 950	decreased
+T131	Finding 1233 1242	decreased
+T132	Finding 1708 1717	decreased
+T133	HealthCareActivity 2210 2217	therapy
+T134	CellFunction 722 737	signal pathways
+T135	Cell 1309 1324	oligodendrocyte
+T136	Cell 1691 1701	astrocytes
+T137	CellFunction 2099 2106	pathway
+T138	DiseaseOrSyndrome 54 74	degenerative disease
+T139	DiseaseOrSyndrome 20 22	MS
+T140	DiseaseOrSyndrome 173 175	MS
+T141	DiseaseOrSyndrome 2299 2301	MS
+T142	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T143	ResearchActivity 590 601	mouse model
+T144	TemporalConcept 581 585	days
+T145	ClinicalAttribute 894 916	behavioral performance
+T146	BiologicFunction 108 113	Aging
+T147	TemporalConcept 1600 1610	generation
+T148	AminoAcidPeptideOrProtein 1505 1509	NeuN
+T149	AminoAcidPeptideOrProtein 1682 1686	GFAP
+T150	AminoAcidPeptideOrProtein 1736 1740	GFAP
+T151	BiologicallyActiveSubstance 1682 1686	GFAP
+T152	BiologicallyActiveSubstance 1736 1740	GFAP
+T153	GeneOrGenome 1682 1686	GFAP
+T154	GeneOrGenome 1736 1740	GFAP
+T155	TemporalConcept 29 36	chronic
+T156	TemporalConcept 2239 2246	chronic
+T157	CellOrMolecularDysfunction 928 939	myelin loss
+T158	GeneOrGenome 1461 1464	DCX
+T159	BiologicallyActiveSubstance 1614 1621	PDGF-Ra
+T160	GeneOrGenome 1614 1621	PDGF-Ra
+T161	AminoAcidPeptideOrProtein 1614 1621	PDGF-Ra
+T162	AminoAcidPeptideOrProtein 1764 1770	Oligo2
+T163	BiologicallyActiveSubstance 1764 1770	Oligo2
+T164	GeneOrGenome 1764 1770	Oligo2
+T165	GeneOrGenome 1744 1749	TRAP1
+T166	BiologicallyActiveSubstance 1744 1749	TRAP1
+T167	AminoAcidPeptideOrProtein 1744 1749	TRAP1
+T168	BiologicallyActiveSubstance 1283 1288	TRPA1
+T169	AminoAcidPeptideOrProtein 1774 1779	TRAP1
+T170	GeneOrGenome 1774 1779	TRAP1
+T171	BiologicallyActiveSubstance 1774 1779	TRAP1
+T172	ExperimentalModelOfDisease 1953 1973	CPZ-intoxicated mice
+T173	AminoAcidPeptideOrProtein 1664 1668	Sox2
+T174	BiologicallyActiveSubstance 1664 1668	Sox2
+T175	GeneOrGenome 1664 1668	Sox2
+T176	BiologicallyActiveSubstance 2019 2024	TRPA1
+T177	BiologicallyActiveSubstance 2029 2033	PARP
+T178	AminoAcidPeptideOrProtein 1163 1167	MCT1
+T179	BiologicallyActiveSubstance 1163 1167	MCT1
+T180	AminoAcidPeptideOrProtein 1181 1184	APC
+T181	BiologicallyActiveSubstance 1181 1184	APC
+T182	ResearchActivity 763 777	Open feld test
+T183	ResearchActivity 779 796	Morris water maze
+T184	ResearchActivity 806 827	immuno-histochemistry
+T185	HealthCareActivity 177 195	Dietary modulation
+T186	DiseaseOrSyndrome 367 386	age-related disease
+T187	ExperimentalModelOfDisease 515 548	(CPZ)-induced demyelinating model
+T188	CellFunction 955 965	activation
+T189	BiologicallyActiveSubstance 1261 1266	HDAC3
+T190	BiologicallyActiveSubstance 1268 1273	PARP1
+T191	BiologicallyActiveSubstance 1275 1278	AIF
+T192	AminoAcidPeptideOrProtein 1275 1278	AIF

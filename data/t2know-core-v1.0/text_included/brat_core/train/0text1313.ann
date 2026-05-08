@@ -1,0 +1,67 @@
+T0	BodyPartOrganOrOrganComponent 188 193;203 209	white matter
+T1	CellFunction 236 247	myelinating
+T2	AminoAcidPeptideOrProtein 329 382	platelet-derived growth factor receptor alpha subunit
+T3	AminoAcidPeptideOrProtein 384 395	PDGFR alpha
+T4	BiologicallyActiveSubstance 384 395	PDGFR alpha
+T5	NaturalPhenomenonOrProcess 647 663	microenvironment
+T6	BiologicFunction 721 730	paracrine
+T7	AminoAcidPeptideOrProtein 773 784	PDGFR alpha
+T8	BiologicallyActiveSubstance 773 784	PDGFR alpha
+T9	AminoAcidPeptideOrProtein 856 870	AMPA receptors
+T10	Finding 1015 1025	behaviours
+T11	BiologicFunction 1030 1049	cognitive processes
+T12	BiologicFunction 1198 1207	interests
+T13	ResearchActivity 1111 1118	article
+T14	CellFunction 313 320	express
+T15	BodyPartOrganOrOrganComponent 198 209	gray matter
+T16	AminoAcidPeptideOrProtein 321 324	NG2
+T17	BiologicallyActiveSubstance 321 324	NG2
+T18	GeneOrGenome 321 324	NG2
+T19	EmbryonicStructure 84 105	embryonic neural tube
+T20	BiologicFunction 1066 1074	learning
+T21	Cell 248 264	oligodendrocytes
+T22	Cell 33 37	OPCs
+T23	Cell 308 312	OPCs
+T24	Cell 490 494	OPCs
+T25	Cell 517 521	OPCs
+T26	CellFunction 538 553	differentiation
+T27	TemporalConcept 1181 1185	past
+T28	Cell 236 264	myelinating oligodendrocytes
+T29	Cell 266 269	OLs
+T30	Cell 559 562	OLs
+T31	Cell 580 583	OLs
+T32	Cell 874 876	OL
+T33	Cell 964 966	OL
+T34	CellFunction 500 513	proliferation
+T35	Cell 16 31	precursor cells
+T36	TemporalConcept 1079 1088	long-term
+T37	CellFunction 589 605	myelin synthesis
+T38	TemporalConcept 282 291	postnatal
+T39	Cell 0 31	Oligodendrocyte precursor cells
+T40	Cell 0 15	Oligodendrocyte
+T41	CellFunction 789 806	neuronal activity
+T42	ClinicalAttribute 478 485	markers
+T43	BodyPartOrganOrOrganComponent 159 181	central nervous system
+T44	CellFunction 626 633	signals
+T45	CellFunction 817 824	signals
+T46	ResearchActivity 915 921	review
+T47	HealthCareActivity 915 921	review
+T48	ResearchActivity 929 936	studies
+T49	AminoAcidPeptideOrProtein 438 446	proteins
+T50	TemporalConcept 302 306	life
+T51	CellFunction 564 572	survival
+T52	CellFunction 877 885	survival
+T53	BiologicFunction 704 717	understanding
+T54	CellComponent 425 437	cell surface
+T55	TemporalConcept 922 928	recent
+T56	CellFunction 890 901	myelination
+T57	CellFunction 991 1002	myelination
+T58	PopulationGroup 296 301	adult
+T59	Finding 731 738	effects
+T60	Finding 676 684	advances
+T61	BiologicallyActiveSubstance 856 870	AMPA receptors
+T62	BiologicFunction 1089 1095	memory
+T63	Finding 1089 1095	memory
+T64	BiologicallyActiveSubstance 329 382	platelet-derived growth factor receptor alpha subunit
+T65	EmbryonicStructure 62 76	germinal zones
+T66	BiologicFunction 1079 1105	long-term memory formation

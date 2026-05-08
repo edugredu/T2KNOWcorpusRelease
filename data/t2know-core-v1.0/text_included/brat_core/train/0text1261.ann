@@ -1,0 +1,116 @@
+T0	ExperimentalModelOfDisease 0 41	Experimental autoimmune encephalomyelitis
+T1	Cell 191 213	neural precursor cells
+T2	PharmacologicSubstance 768 783	saline solution
+T3	BodyPartOrganOrOrganComponent 791 808	intrathecal space
+T4	BodyPartOrganOrOrganComponent 818 830	lumbar spine
+T5	BiomedicalOccupationOrDiscipline 957 971	Neuropathology
+T6	PathologicFunction 957 971	Neuropathology
+T7	TemporalConcept 1139 1152	chronic phase
+T8	Finding 1169 1174	score
+T9	Finding 1464 1480	undifferentiated
+T10	PathologicFunction 1671 1684	proliferative
+T11	Cell 1701 1710	syncytium
+T12	ResearchActivity 1716 1737	morphometric analysis
+T13	Eukaryote 656 668	C57BL/6 mice
+T14	PharmacologicSubstance 768 774	saline
+T15	HealthCareActivity 307 327	therapeutic approach
+T16	BiologicFunction 446 464	oligodendrogenesis
+T17	Cell 1270 1273	NPC
+T18	ExperimentalModelOfDisease 43 46	EAE
+T19	ExperimentalModelOfDisease 538 541	EAE
+T20	ExperimentalModelOfDisease 649 652	EAE
+T21	ExperimentalModelOfDisease 1156 1159	EAE
+T22	ExperimentalModelOfDisease 2075 2078	EAE
+T23	Eukaryote 158 165	rodents
+T24	Finding 547 565	the least invasive
+T25	Finding 118 127	hallmarks
+T26	HealthCareActivity 591 606	lumbar puncture
+T27	TemporalConcept 1147 1152	phase
+T28	TemporalConcept 932 946	post-induction
+T29	BodyPartOrganOrOrganComponent 1875 1893	lumbar intrathecal
+T30	Cell 2029 2033	OPCs
+T31	PathologicFunction 2079 2092	demyelinating
+T32	DiseaseOrSyndrome 131 149	multiple sclerosis
+T33	TemporalConcept 692 699	relapse
+T34	TemporalConcept 1208 1215	relapse
+T35	Finding 692 699	relapse
+T36	Finding 1208 1215	relapse
+T37	PathologicFunction 503 515	demyelinated
+T38	Cell 215 219	NPCs
+T39	Cell 286 290	NPCs
+T40	Cell 470 474	NPCs
+T41	Cell 1377 1381	NPCs
+T42	Cell 1912 1916	NPCs
+T43	CellOrMolecularDysfunction 2050 2071	remyelination failure
+T44	CellComponent 1233 1239	axonal
+T45	CellFunction 889 902	proliferation
+T46	Cell 1685 1700	oligodendroglia
+T47	Cell 198 213	precursor cells
+T48	IndividualBehavior 1240 1249	integrity
+T49	Cell 1503 1526	oligodendrocyte lineage
+T50	IndividualBehavior 2064 2071	failure
+T51	CellFunction 1233 1249	axonal integrity
+T52	PopulationGroup 2020 2028	resident
+T53	NucleicAcidNucleosideOrNucleotide 834 838	BrdU
+T54	NucleicAcidNucleosideOrNucleotide 1397 1401	BrdU
+T55	PharmacologicSubstance 834 838	BrdU
+T56	PharmacologicSubstance 1397 1401	BrdU
+T57	AminoAcidPeptideOrProtein 1644 1648	Cx47
+T58	BiologicallyActiveSubstance 1644 1648	Cx47
+T59	TemporalConcept 686 691	acute
+T60	TemporalConcept 1192 1197	acute
+T61	CellFunction 1217 1228	Myelination
+T62	AminoAcidPeptideOrProtein 741 744	GFP
+T63	Chemical 741 744	GFP
+T64	Chemical 1440 1443	GFP
+T65	AminoAcidPeptideOrProtein 1440 1443	GFP
+T66	ClinicalAttribute 1659 1666	markers
+T67	ResearchActivity 86 91	study
+T68	ResearchActivity 238 246	research
+T69	ResearchActivity 1552 1562	enrichment
+T70	Cell 1405 1410	cells
+T71	ResearchActivity 72 77	model
+T72	HealthCareActivity 1114 1123	treatment
+T73	ResearchActivity 1114 1123	treatment
+T74	ResearchActivity 175 182	studies
+T75	Finding 1024 1036	transmission
+T76	ResearchActivity 1037 1056	electron microscopy
+T77	DiseaseOrSyndrome 340 362	neurological disorders
+T78	HealthCareActivity 757 764	therapy
+T79	ResearchActivity 426 433	in vivo
+T80	Cell 748 756	cellular
+T81	Cell 1938 1946	cellular
+T82	Cell 1536 1551	oligodendrocyte
+T83	ResearchActivity 1024 1056	transmission electron microscopy
+T84	ResearchActivity 1058 1061	TEM
+T85	ResearchActivity 1712 1715	TEM
+T86	PopulationGroup 1319 1330	populations
+T87	OrganismAttribute 1481 1491	phenotypes
+T88	CellFunction 2050 2063	remyelination
+T89	DiseaseOrSyndrome 151 153	MS
+T90	DiseaseOrSyndrome 372 374	MS
+T91	TemporalConcept 927 931	days
+T92	Eukaryote 1282 1289	animals
+T93	Eukaryote 1820 1827	animals
+T94	ResearchActivity 1101 1113	experimental
+T95	AminoAcidPeptideOrProtein 620 638	MOG(35-55) peptide
+T96	ResearchActivity 1063 1067	data
+T97	ResearchActivity 566 581	delivery method
+T98	HealthCareActivity 566 581	delivery method
+T99	HealthCareActivity 273 285	transplanted
+T100	HealthCareActivity 839 848	injection
+T101	ResearchActivity 1336 1359	differentiation profile
+T102	TemporalConcept 495 502	chronic
+T103	TemporalConcept 1139 1146	chronic
+T104	HealthCareActivity 870 877	monitor
+T105	ManufacturedObject 870 877	monitor
+T106	BiologicallyActiveSubstance 1610 1631	gap junction channels
+T107	AminoAcidPeptideOrProtein 1610 1631	gap junction channels
+T108	BodyPartOrganOrOrganComponent 516 534	lumbosacral milieu
+T109	ResearchActivity 977 1018	high-throughput, triple immunofluorescent
+T110	AminoAcidPeptideOrProtein 1635 1639	Cx32
+T111	BiologicallyActiveSubstance 1635 1639	Cx32
+T112	BodyPartOrganOrOrganComponent 1784 1802	lumbosacral fibers
+T113	HealthCareActivity 1867 1873;1894 1908	single administration
+T114	ResearchActivity 1773 1780	g-ratio
+T115	Finding 1968 2006	clinical and pathological amelioration

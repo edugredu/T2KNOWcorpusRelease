@@ -1,0 +1,158 @@
+T0	AminoAcidPeptideOrProtein 0 5	HMGB1
+T1	GeneOrGenome 0 5	HMGB1
+T2	BiologicallyActiveSubstance 0 5	HMGB1
+T3	Cell 51 67	eukaryotic cells
+T4	AminoAcidPeptideOrProtein 69 74	HMGB1
+T5	GeneOrGenome 69 74	HMGB1
+T6	CellFunction 69 74	HMGB1
+T7	AminoAcidPeptideOrProtein 132 141	chromatin
+T8	CellComponent 132 141	chromatin
+T9	BodyPartOrganOrOrganComponent 195 208	extracellular
+T10	AminoAcidPeptideOrProtein 209 214	HMGB1
+T11	GeneOrGenome 209 214	HMGB1
+T12	BiologicallyActiveSubstance 209 214	HMGB1
+T13	AminoAcidPeptideOrProtein 221 228	alarmin
+T14	BiologicallyActiveSubstance 221 228	alarmin
+T15	AminoAcidPeptideOrProtein 305 309	DAMP
+T16	CellFunction 405 423	cellular senescent
+T17	BodyPartOrganOrOrganComponent 446 459	extracellular
+T18	AminoAcidPeptideOrProtein 460 465	HMGB1
+T19	GeneOrGenome 460 465	HMGB1
+T20	BiologicallyActiveSubstance 460 465	HMGB1
+T21	AminoAcidPeptideOrProtein 640 645	HMGB1
+T22	GeneOrGenome 640 645	HMGB1
+T23	BiologicallyActiveSubstance 640 645	HMGB1
+T24	Chemical 682 694	lysolecithin
+T25	PharmacologicSubstance 682 694	lysolecithin
+T26	TemporalConcept 722 728	arrest
+T27	PathologicFunction 776 803	impairment of remyelination
+T28	BodyPartOrganOrOrganComponent 837 850	extracellular
+T29	AminoAcidPeptideOrProtein 851 856	HMGB1
+T30	GeneOrGenome 851 856	HMGB1
+T31	BiologicallyActiveSubstance 851 856	HMGB1
+T32	BiologicallyActiveSubstance 870 880	inhibitory
+T33	Chemical 949 959	inhibitors
+T34	PharmacologicSubstance 949 959	inhibitors
+T35	BiologicallyActiveSubstance 949 959	inhibitors
+T36	AminoAcidPeptideOrProtein 949 959	inhibitors
+T37	AminoAcidPeptideOrProtein 1027 1032	HMGB1
+T38	GeneOrGenome 1027 1032	HMGB1
+T39	BiologicallyActiveSubstance 1027 1032	HMGB1
+T40	AminoAcidPeptideOrProtein 1128 1132	RAGE
+T41	BiologicallyActiveSubstance 1128 1132	RAGE
+T42	GeneOrGenome 1171 1175	TLR9
+T43	AminoAcidPeptideOrProtein 1171 1175	TLR9
+T44	AminoAcidPeptideOrProtein 1180 1184	RAGE
+T45	BiologicallyActiveSubstance 1180 1184	RAGE
+T46	Finding 1221 1229	presence
+T47	AminoAcidPeptideOrProtein 1233 1238	HMGB1
+T48	GeneOrGenome 1233 1238	HMGB1
+T49	BiologicallyActiveSubstance 1233 1238	HMGB1
+T50	AminoAcidPeptideOrProtein 1334 1338	TLR2
+T51	GeneOrGenome 1334 1338	TLR2
+T52	BiologicallyActiveSubstance 1334 1338	TLR2
+T53	Finding 1384 1392	presence
+T54	AminoAcidPeptideOrProtein 1396 1401	HMGB1
+T55	GeneOrGenome 1396 1401	HMGB1
+T56	BiologicallyActiveSubstance 1396 1401	HMGB1
+T57	ResearchActivity 1403 1411	Analysis
+T58	BiomedicalOccupationOrDiscipline 1415 1429	transcriptomic
+T59	Finding 1537 1545	presence
+T60	AminoAcidPeptideOrProtein 1549 1554	HMGB1
+T61	GeneOrGenome 1549 1554	HMGB1
+T62	BiologicallyActiveSubstance 1549 1554	HMGB1
+T63	AminoAcidPeptideOrProtein 1585 1590	HMGB1
+T64	GeneOrGenome 1585 1590	HMGB1
+T65	BiologicallyActiveSubstance 1585 1590	HMGB1
+T66	ResearchActivity 1602 1609	culture
+T67	Finding 1634 1663	concentration dependent shift
+T68	AminoAcidPeptideOrProtein 1742 1746	TLR2
+T69	GeneOrGenome 1742 1746	TLR2
+T70	BiologicallyActiveSubstance 1742 1746	TLR2
+T71	BodyPartOrganOrOrganComponent 1801 1814	extracellular
+T72	AminoAcidPeptideOrProtein 1815 1820	HMGB1
+T73	GeneOrGenome 1815 1820	HMGB1
+T74	BiologicallyActiveSubstance 1815 1820	HMGB1
+T75	AminoAcidPeptideOrProtein 1915 1920	HMGB1
+T76	GeneOrGenome 1915 1920	HMGB1
+T77	BiologicallyActiveSubstance 1915 1920	HMGB1
+T78	PathologicFunction 1969 1981	demyelinated
+T79	Substance 2056 2064	molecule
+T80	TemporalConcept 1877 1883	Recent
+T81	BiologicFunction 1323 1333	inhibiting
+T82	HealthCareActivity 598 604	report
+T83	ResearchActivity 598 604	report
+T84	TemporalConcept 1888 1892	past
+T85	BiologicFunction 2030 2043	understanding
+T86	Cell 551 579	myelinating oligodendrocytes
+T87	Cell 345 361	progenitor cells
+T88	Cell 1945 1961	progenitor cells
+T89	OrganismAttribute 424 433	phenotype
+T90	CellFunction 790 803	remyelination
+T91	CellFunction 2106 2119	remyelination
+T92	Cell 581 584	OLs
+T93	Cell 1373 1376	OLs
+T94	Cell 542 546	OPCs
+T95	Cell 894 898	OPCs
+T96	Cell 1449 1453	OPCs
+T97	Cell 1520 1524	OPCs
+T98	Cell 1594 1598	OPCs
+T99	Cell 1871 1875	OPCs
+T100	Cell 2073 2077	OPCs
+T101	CellFunction 909 927	OL differentiation
+T102	CellFunction 1195 1213	OL differentiation
+T103	CellFunction 1300 1318	OL differentiation
+T104	CellFunction 732 751	OPC differentiation
+T105	Cell 909 911	OL
+T106	Cell 1195 1197	OL
+T107	Cell 1300 1302	OL
+T108	PathologicFunction 1969 1989	demyelinated lesions
+T109	BodyPartOrganOrOrganComponent 655 666	spinal cord
+T110	BiologicFunction 494 504	maturation
+T111	Cell 508 540	oligodendrocyte progenitor cells
+T112	AminoAcidPeptideOrProtein 1260 1264	TLR4
+T113	GeneOrGenome 1260 1264	TLR4
+T114	BiologicallyActiveSubstance 1260 1264	TLR4
+T115	Chemical 104 111	nucleus
+T116	CellComponent 104 111	nucleus
+T117	BiologicallyActiveSubstance 819 827	receptor
+T118	BiologicallyActiveSubstance 1082 1126	receptor for advanced glycation end-products
+T119	TemporalConcept 1731 1741	coincident
+T120	Finding 1893 1901	evidence
+T121	CellFunction 1149 1159	inhibition
+T122	CellFunction 1246 1256	inhibition
+T123	CellFunction 1747 1757	inhibition
+T124	TemporalConcept 320 328	recently
+T125	BodyPartOrganOrOrganComponent 2000 2005	brain
+T126	PatientOrDisabledGroup 386 394	patients
+T127	Cell 250 255	cells
+T128	ResearchActivity 1415 1434	transcriptomic data
+T129	ResearchActivity 1765 1769	data
+T130	DiseaseOrSyndrome 1997 1999	MS
+T131	DiseaseOrSyndrome 2133 2135	MS
+T132	DiseaseOrSyndrome 367 385	multiple sclerosis
+T133	InjuryOrPoisoning 1982 1989	lesions
+T134	ResearchActivity 752 759	in vivo
+T135	CellFunction 912 927	differentiation
+T136	CellFunction 1198 1213	differentiation
+T137	CellFunction 1303 1318	differentiation
+T138	CellFunction 1354 1369	differentiation
+T139	CellFunction 1842 1857	differentiation
+T140	TemporalConcept 674 678	time
+T141	AminoAcidPeptideOrProtein 29 47	ubiquitous protein
+T142	AminoAcidPeptideOrProtein 132 180	chromatin associated non-histone binding protein
+T143	AminoAcidPeptideOrProtein 268 303	danger associated molecular pattern
+T144	BiologicallyActiveSubstance 268 303	danger associated molecular pattern
+T145	BiologicallyActiveSubstance 305 309	DAMP
+T146	ResearchActivity 682 709	lysolecithin administration
+T147	ResearchActivity 610 645	administration of recombinant HMGB1
+T148	BiologicallyActiveSubstance 1038 1074	toll-like receptors (TLRs)-2, -4, -9
+T149	AminoAcidPeptideOrProtein 1038 1074	toll-like receptors (TLRs)-2, -4, -9
+T150	AminoAcidPeptideOrProtein 1082 1126	receptor for advanced glycation end-products
+T151	BiologicallyActiveSubstance 1171 1175	TLR9
+T152	ResearchActivity 1436 1442	RNAseq
+T153	AminoAcidPeptideOrProtein 1490 1500	NF kappa B
+T154	BiologicallyActiveSubstance 1490 1500	NF kappa B
+T155	BiologicallyActiveSubstance 1667 1677	NF kappa B
+T156	AminoAcidPeptideOrProtein 1667 1677	NF kappa B
+T157	CellFunction 1678 1699	nuclear translocation

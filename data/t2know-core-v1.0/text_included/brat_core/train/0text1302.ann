@@ -1,0 +1,45 @@
+T0	Chemical 556 569	valproic acid
+T1	Chemical 571 574	VPA
+T2	Chemical 680 683	VPA
+T3	PharmacologicSubstance 181 186	drugs
+T4	PharmacologicSubstance 465 470	drugs
+T5	PathologicFunction 211 228	neuroinflammation
+T6	PathologicFunction 51 63	degenerative
+T7	Finding 507 525	beneficial effects
+T8	BodyPartOrganOrOrganComponent 98 120	central nervous system
+T9	CellFunction 416 429	remyelination
+T10	DiseaseOrSyndrome 69 90	demyelinating disease
+T11	CellOrMolecularDysfunction 379 396	neurodegeneration
+T12	CellOrMolecularDysfunction 853 870	neurodegeneration
+T13	DiseaseOrSyndrome 20 22	MS
+T14	DiseaseOrSyndrome 149 151	MS
+T15	DiseaseOrSyndrome 579 581	MS
+T16	PathologicFunction 402 415	demyelination
+T17	PathologicFunction 875 888	demyelination
+T18	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T19	Cell 806 815	microglia
+T20	CellFunction 931 946	differentiation
+T21	Cell 900 930	oligodendrocyte precursor cell
+T22	PathologicFunction 37 49	inflammatory
+T23	HealthCareActivity 131 141	treatments
+T24	ResearchActivity 131 141	treatments
+T25	PathologicFunction 365 377	inflammation
+T26	CellFunction 430 438	pathways
+T27	CellFunction 986 1005	epigenetic pathways
+T28	CellFunction 900 946	oligodendrocyte precursor cell differentiation
+T29	CellFunction 806 828	microglia polarization
+T30	HealthCareActivity 273 301	polypharmacological approach
+T31	Chemical 529 545	a-linolenic acid
+T32	PharmacologicSubstance 529 545	a-linolenic acid
+T33	BiologicallyActiveSubstance 529 545	a-linolenic acid
+T34	BiologicallyActiveSubstance 547 550	ALA
+T35	Chemical 547 550	ALA
+T36	PharmacologicSubstance 547 550	ALA
+T37	PharmacologicSubstance 556 569	valproic acid
+T38	PharmacologicSubstance 571 574	VPA
+T39	PharmacologicSubstance 688 691	ALA
+T40	Chemical 688 691	ALA
+T41	BiologicallyActiveSubstance 688 691	ALA
+T42	PharmacologicSubstance 648 655	codrugs
+T43	HealthCareActivity 755 779	polypharmacological tool
+T44	ResearchActivity 718 736	cellular profiling
