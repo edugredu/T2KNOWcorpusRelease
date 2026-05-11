@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 110 136	neurodegenerative diseases
+T1	EnvironmentalEffectOfHumans 0 23	Tobacco smoke pollution
+T2	Substance 0 13	Tobacco smoke
+T3	EnvironmentalEffectOfHumans 8 23	smoke pollution
+T4	Finding 81 106	individual susceptibility
+T5	GeneOrGenome 51 67	genetic variants

@@ -1,0 +1,61 @@
+T0	BiologicFunction 35 46	consumption
+T1	ResearchActivity 127 131	test
+T2	HealthCareActivity 127 131	test
+T3	DiseaseOrSyndrome 223 259	central nervous system demyelination
+T4	CellFunction 223 259	central nervous system demyelination
+T5	BiologicFunction 512 523	consumption
+T6	Substance 527 531	milk
+T7	ResearchActivity 647 651	test
+T8	HealthCareActivity 647 651	test
+T9	TemporalConcept 825 832	episode
+T10	BiologicFunction 1066 1077	consumption
+T11	BiologicFunction 1093 1104	consumption
+T12	PopulationGroup 1287 1297	Australian
+T13	ResearchActivity 1298 1316	case-control study
+T14	BiologicFunction 1325 1336	consumption
+T15	ResearchActivity 322 347	2003-2006 Ausimmune Study
+T16	PathologicFunction 771 784	demyelinating
+T17	PopulationGroup 730 742	participants
+T18	BodyPartOrganOrOrganComponent 223 245	central nervous system
+T19	ResearchActivity 393 419	matched case-control study
+T20	BodyPartOrganOrOrganComponent 859 862	CNS
+T21	HealthCareActivity 201 219	clinical diagnosis
+T22	PopulationGroup 436 444	controls
+T23	Finding 14 22	evidence
+T24	TemporalConcept 195 200	first
+T25	TemporalConcept 765 770	first
+T26	TemporalConcept 819 824	first
+T27	HealthCareActivity 571 580	treatment
+T28	ResearchActivity 571 580	treatment
+T29	Finding 69 73	risk
+T30	PopulationGroup 351 361	population
+T31	SignOrSymptom 836 844	symptoms
+T32	ResearchActivity 704 712	analyses
+T33	Finding 692 703	sensitivity
+T34	DiseaseOrSyndrome 77 79	MS
+T35	DiseaseOrSyndrome 289 291	MS
+T36	PathologicFunction 246 259	demyelination
+T37	PathologicFunction 863 876	demyelination
+T38	Finding 613 624	probability
+T39	Finding 581 588	effects
+T40	ResearchActivity 308 312	data
+T41	ResearchActivity 1023 1025	CI
+T42	ResearchActivity 1184 1186	CI
+T43	Substance 50 64	dairy products
+T44	BiologicFunction 159 170	consumption
+T45	Finding 179 189	likelihood
+T46	PopulationGroup 368 378	Australian
+T47	Substance 453 458	dairy
+T48	Substance 533 539	cheese
+T49	Substance 544 550	yogurt
+T50	BiologicFunction 459 470	consumption
+T51	Substance 153 158	dairy
+T52	DiseaseOrSyndrome 859 876	CNS demyelination
+T53	Substance 952 957	dairy
+T54	BiologicFunction 958 969	consumption
+T55	Substance 1059 1065	yogurt
+T56	Finding 1143 1153	likelihood
+T57	Substance 1233 1238	dairy
+T58	BiologicFunction 1239 1250	consumption
+T59	Substance 1318 1324	yogurt
+T60	Finding 1365 1375	likelihood

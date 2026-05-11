@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 81 100	Parkinson's disease
+T1	BodyPartOrganOrOrganComponent 136 150	gut-brain axis
+T2	CellOrMolecularDysfunction 154 171	neurodegeneration
+T3	PathologicFunction 20 29	infection
+T4	Bacterium 0 19	Helicobacter pylori
+T5	Finding 52 66	increased risk
+T6	ResearchActivity 112 126	investigations

@@ -1,0 +1,95 @@
+T0	IndividualBehavior 64 81	healthy lifestyle
+T1	DiseaseOrSyndrome 106 123	cerebral diseases
+T2	DiseaseOrSyndrome 291 307	cerebral disease
+T3	TemporalConcept 369 379	Short-term
+T4	BiologicFunction 450 467	physical activity
+T5	ResearchActivity 506 533	Immunofluorescence staining
+T6	ResearchActivity 538 559	western blot analysis
+T7	GeneOrGenome 610 616	TSG101
+T8	AminoAcidPeptideOrProtein 610 616	TSG101
+T9	GeneOrGenome 618 623	HSC70
+T10	AminoAcidPeptideOrProtein 618 623	HSC70
+T11	TemporalConcept 736 746	Short-term
+T12	BodyPartOrganOrOrganComponent 829 851	peripheral blood serum
+T13	GeneOrGenome 866 871	HSC70
+T14	AminoAcidPeptideOrProtein 866 871	HSC70
+T15	TemporalConcept 881 890	temporary
+T16	GeneOrGenome 988 994	TSG101
+T17	AminoAcidPeptideOrProtein 988 994	TSG101
+T18	GeneOrGenome 1085 1090	HSC70
+T19	AminoAcidPeptideOrProtein 1085 1090	HSC70
+T20	GeneOrGenome 1095 1101	TSG101
+T21	AminoAcidPeptideOrProtein 1095 1101	TSG101
+T22	Finding 1174 1183	unchanged
+T23	Finding 1560 1569	dependent
+T24	CellFunction 1573 1591	ceramide synthesis
+T25	Finding 1296 1317	no significant change
+T26	HealthCareActivity 22 39	physical exercise
+T27	HealthCareActivity 270 287	physical exercise
+T28	HealthCareActivity 380 413	high-intensity treadmill exercise
+T29	HealthCareActivity 747 770	high-intensity exercise
+T30	HealthCareActivity 906 914	exercise
+T31	HealthCareActivity 1035 1052	physical exercise
+T32	HealthCareActivity 1131 1139	exercise
+T33	HealthCareActivity 1244 1252	exercise
+T34	HealthCareActivity 1377 1385	exercise
+T35	HealthCareActivity 1535 1552	physical exercise
+T36	DiseaseOrSyndrome 155 172	Parkinson disease
+T37	CellComponent 321 343	extracellular vesicles
+T38	CellComponent 345 348	EVs
+T39	CellComponent 471 474	EVs
+T40	CellComponent 595 598	EVs
+T41	CellComponent 722 725	EVs
+T42	CellComponent 804 807	EVs
+T43	CellComponent 1206 1209	EVs
+T44	CellComponent 1285 1288	EVs
+T45	CellComponent 1480 1483	EVs
+T46	DiseaseOrSyndrome 202 204	AD
+T47	OrganismAttribute 64 71	healthy
+T48	ResearchActivity 635 665	Nanoparticle tracking analysis
+T49	ResearchActivity 234 239	study
+T50	ResearchActivity 727 734	Results
+T51	DiseaseOrSyndrome 174 176	PD
+T52	BodyPartOrganOrOrganComponent 815 820	brain
+T53	BodyPartOrganOrOrganComponent 1491 1496	brain
+T54	ClinicalAttribute 581 591	biomarkers
+T55	BodyPartOrganOrOrganComponent 1501 1506	blood
+T56	Cell 795 803	neuronal
+T57	BodyPartOrganOrOrganComponent 492 504	brain tissue
+T58	BodyPartOrganOrOrganComponent 1057 1069	brain tissue
+T59	BodyPartOrganOrOrganComponent 482 487	serum
+T60	Finding 260 266	effect
+T61	Finding 440 446	effect
+T62	CellFunction 1467 1476	secretion
+T63	BiologicFunction 1467 1476	secretion
+T64	DiseaseOrSyndrome 133 153	cognitive impairment
+T65	Finding 943 949	normal
+T66	Finding 1411 1417	normal
+T67	Finding 1214 1237	significantly increased
+T68	Finding 1347 1370	significantly increased
+T69	AminoAcidPeptideOrProtein 629 633	CD63
+T70	AminoAcidPeptideOrProtein 979 983	CD63
+T71	AminoAcidPeptideOrProtein 1160 1164	CD63
+T72	BiologicallyActiveSubstance 629 633	CD63
+T73	BiologicallyActiveSubstance 979 983	CD63
+T74	BiologicallyActiveSubstance 1160 1164	CD63
+T75	OrganismAttribute 696 700	size
+T76	ResearchActivity 667 670	NTA
+T77	GeneOrGenome 629 633	CD63
+T78	GeneOrGenome 979 983	CD63
+T79	GeneOrGenome 1160 1164	CD63
+T80	Chemical 1333 1341	ceramide
+T81	Chemical 1573 1581	ceramide
+T82	BiologicallyActiveSubstance 1333 1341	ceramide
+T83	BiologicallyActiveSubstance 1573 1581	ceramide
+T84	DiseaseOrSyndrome 183 200	Alzheimer disease
+T85	BiologicFunction 705 718	concentration
+T86	BiologicFunction 1189 1202	concentration
+T87	ResearchActivity 1445 1449	data
+T88	BiologicallyActiveSubstance 610 616	TSG101
+T89	BiologicallyActiveSubstance 618 623	HSC70
+T90	BiologicallyActiveSubstance 866 871	HSC70
+T91	BiologicallyActiveSubstance 988 994	TSG101
+T92	BiologicallyActiveSubstance 1095 1101	TSG101
+T93	BiologicallyActiveSubstance 1085 1090	HSC70
+T94	Finding 1002 1019	no obvious change

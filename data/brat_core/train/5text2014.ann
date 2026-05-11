@@ -1,0 +1,5 @@
+T0	HealthCareActivity 0 27	Disease-modifying therapies
+T1	DiseaseOrSyndrome 32 50	multiple sclerosis
+T2	PathologicFunction 119 145	progression of the disease
+T3	TemporalConcept 119 145	progression of the disease
+T4	Substance 77 99	injectable suspensions

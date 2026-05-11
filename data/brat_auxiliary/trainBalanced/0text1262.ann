@@ -1,0 +1,139 @@
+T0	CellFunction 177 197	actin polymerization
+T1	CellFunction 248 270	actin depolymerization
+T2	TemporalConcept 389 394	young
+T3	GeneOrGenome 718 723	ARPC3
+T4	AminoAcidPeptideOrProtein 725 751	actin polymerizing factors
+T5	CellFunction 807 829	actin depolymerization
+T6	CellFunction 847 867	actin polymerization
+T7	AminoAcidPeptideOrProtein 893 903	phalloidin
+T8	CellFunction 1110 1146	localization of myelin basic protein
+T9	CellComponent 1229 1244	myelin membrane
+T10	AminoAcidPeptideOrProtein 1364 1388	kinesin family member 1B
+T11	AminoAcidPeptideOrProtein 1393 1396	Mbp
+T12	GeneOrGenome 1393 1396	Mbp
+T13	BiologicallyActiveSubstance 1393 1396	Mbp
+T14	CellFunction 1656 1683	cytoskeletal reorganization
+T15	CellFunction 1688 1704	MBP localization
+T16	TemporalConcept 1015 1020	delay
+T17	AminoAcidPeptideOrProtein 491 495	mTOR
+T18	AminoAcidPeptideOrProtein 517 521	mTOR
+T19	AminoAcidPeptideOrProtein 677 681	mTOR
+T20	AminoAcidPeptideOrProtein 1087 1091	mTOR
+T21	AminoAcidPeptideOrProtein 1455 1459	mTOR
+T22	AminoAcidPeptideOrProtein 1471 1475	mTOR
+T23	AminoAcidPeptideOrProtein 1579 1583	mTOR
+T24	GeneOrGenome 491 495	mTOR
+T25	GeneOrGenome 517 521	mTOR
+T26	GeneOrGenome 677 681	mTOR
+T27	GeneOrGenome 1087 1091	mTOR
+T28	GeneOrGenome 1455 1459	mTOR
+T29	GeneOrGenome 1471 1475	mTOR
+T30	GeneOrGenome 1579 1583	mTOR
+T31	BiologicallyActiveSubstance 491 495	mTOR
+T32	BiologicallyActiveSubstance 517 521	mTOR
+T33	BiologicallyActiveSubstance 677 681	mTOR
+T34	BiologicallyActiveSubstance 1087 1091	mTOR
+T35	BiologicallyActiveSubstance 1455 1459	mTOR
+T36	BiologicallyActiveSubstance 1471 1475	mTOR
+T37	BiologicallyActiveSubstance 1579 1583	mTOR
+T38	CellFunction 1181 1199	cellular processes
+T39	AminoAcidPeptideOrProtein 1436 1439	CC1
+T40	BiologicallyActiveSubstance 1436 1439	CC1
+T41	AminoAcidPeptideOrProtein 1162 1165	MBP
+T42	AminoAcidPeptideOrProtein 1688 1691	MBP
+T43	BiologicallyActiveSubstance 1162 1165	MBP
+T44	BiologicallyActiveSubstance 1688 1691	MBP
+T45	GeneOrGenome 1162 1165	MBP
+T46	GeneOrGenome 1688 1691	MBP
+T47	CellComponent 116 121	axons
+T48	Cell 604 620	oligodendrocytes
+T49	Cell 1486 1502	oligodendrocytes
+T50	Cell 57 61	OPCs
+T51	Cell 311 323	primary OPCs
+T52	Cell 24 55	oligodendrocyte precursor cells
+T53	BodyPartOrganOrOrganComponent 280 286	myelin
+T54	BodyPartOrganOrOrganComponent 1229 1235	myelin
+T55	BiologicFunction 628 641	developmental
+T56	TemporalConcept 628 641	developmental
+T57	CellFunction 7 22	differentiation
+T58	CellFunction 993 1008	differentiation
+T59	CellFunction 1514 1529	differentiation
+T60	ResearchActivity 327 334	culture
+T61	AminoAcidPeptideOrProtein 1126 1146	myelin basic protein
+T62	BiologicallyActiveSubstance 1126 1146	myelin basic protein
+T63	Cell 421 437	oligodendrocyte-
+T64	Cell 40 55	precursor cells
+T65	Cell 24 49	oligodendrocyte precursor
+T66	Eukaryote 358 361	rat
+T67	CellComponent 1249 1253	axon
+T68	CellComponent 1629 1633	axon
+T69	CellComponent 555 567	cytoskeletal
+T70	CellComponent 1656 1668	cytoskeletal
+T71	CellComponent 1236 1244	membrane
+T72	PopulationGroup 349 357	neonatal
+T73	TemporalConcept 349 357	neonatal
+T74	Finding 835 843	deficits
+T75	Finding 908 916	deficits
+T76	Finding 1283 1291	deficits
+T77	Cell 1442 1447	cells
+T78	Eukaryote 411 415	mice
+T79	ResearchActivity 155 162	studies
+T80	TemporalConcept 148 154	Recent
+T81	CellFunction 532 542	expression
+T82	CellFunction 690 700	expression
+T83	CellFunction 1095 1105	expression
+T84	CellFunction 1346 1356	expression
+T85	ResearchActivity 704 713	profiling
+T86	ResearchActivity 1530 1538	in vitro
+T87	CellFunction 663 673	inhibition
+T88	Cell 1181 1189	cellular
+T89	OrganismAttribute 404 410	female
+T90	OrganismAttribute 395 399	male
+T91	Cell 920 935	oligodendrocyte
+T92	Cell 1708 1723	oligodendrocyte
+T93	CellFunction 135 146	myelination
+T94	CellFunction 228 239	myelination
+T95	CellFunction 642 653	myelination
+T96	CellFunction 1038 1049	myelination
+T97	CellFunction 1613 1624	myelination
+T98	OrganismAttribute 379 384	sexes
+T99	ResearchActivity 1546 1550	data
+T100	NucleicAcidNucleosideOrNucleotide 1153 1157	mRNA
+T101	NucleicAcidNucleosideOrNucleotide 1268 1272	mRNA
+T102	NucleicAcidNucleosideOrNucleotide 1397 1401	mRNA
+T103	AminoAcidPeptideOrProtein 177 182	actin
+T104	AminoAcidPeptideOrProtein 248 253	actin
+T105	AminoAcidPeptideOrProtein 580 585	actin
+T106	AminoAcidPeptideOrProtein 725 730	actin
+T107	AminoAcidPeptideOrProtein 807 812	actin
+T108	AminoAcidPeptideOrProtein 847 852	actin
+T109	AminoAcidPeptideOrProtein 783 790	cofilin
+T110	BiologicallyActiveSubstance 783 790	cofilin
+T111	AminoAcidPeptideOrProtein 1166 1173	protein
+T112	TemporalConcept 214 224	initiation
+T113	TemporalConcept 1024 1034	initiation
+T114	TemporalConcept 1599 1609	initiation
+T115	BiologicallyActiveSubstance 1153 1157	mRNA
+T116	BiologicallyActiveSubstance 1268 1272	mRNA
+T117	BiologicallyActiveSubstance 1397 1401	mRNA
+T118	AminoAcidPeptideOrProtein 1148 1151	Mbp
+T119	BiologicallyActiveSubstance 1148 1151	Mbp
+T120	CellFunction 1249 1262	axon wrapping
+T121	ResearchActivity 1310 1334	single molecule RNA FISH
+T122	BiologicallyActiveSubstance 1364 1388	kinesin family member 1B
+T123	AminoAcidPeptideOrProtein 1393 1419	Mbp mRNA transport protein
+T124	BiologicallyActiveSubstance 1393 1419	Mbp mRNA transport protein
+T125	CellComponent 1708 1733	oligodendrocyte processes
+T126	CellComponent 72 92	network of processes
+T127	CellFunction 280 295	myelin wrapping
+T128	BodyPartOrganOrOrganComponent 362 370	cortices
+T129	AminoAcidPeptideOrProtein 458 489	mechanistic target of rapamycin
+T130	BiologicallyActiveSubstance 458 489	mechanistic target of rapamycin
+T131	CellFunction 580 600	actin reorganization
+T132	Finding 655 659	Loss
+T133	AminoAcidPeptideOrProtein 718 723	ARPC3
+T134	BiologicallyActiveSubstance 718 723	ARPC3
+T135	Chemical 893 903	phalloidin
+T136	BiologicallyActiveSubstance 893 903	phalloidin
+T137	CellFunction 936 965	cellular branching complexity
+T138	ResearchActivity 1460 1463	cKO

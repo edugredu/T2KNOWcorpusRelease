@@ -1,0 +1,96 @@
+T0	DiseaseOrSyndrome 0 11	Tauopathies
+T1	PopulationGroup 90 109	cell subpopulations
+T2	TemporalConcept 134 141	origins
+T3	Finding 180 190	accumulate
+T4	DiseaseOrSyndrome 359 377	supranuclear palsy
+T5	DiseaseOrSyndrome 381 393	Pick disease
+T6	ResearchActivity 667 685	immunofluorescence
+T7	AminoAcidPeptideOrProtein 876 891	isoforms of tau
+T8	CellFunction 1023 1034	redox state
+T9	DiseaseOrSyndrome 1263 1274	tauopathies
+T10	PathologicFunction 1370 1383	tau pathology
+T11	Cell 1334 1345	human iPSCs
+T12	CellFunction 1284 1306	mitochondrial function
+T13	Cell 572 576	iPSC
+T14	HealthCareActivity 893 902	Treatment
+T15	ResearchActivity 893 902	Treatment
+T16	Finding 997 1007	morphology
+T17	CellComponent 614 627	mitochondrial
+T18	CellComponent 952 965	mitochondrial
+T19	CellComponent 983 996	mitochondrial
+T20	CellComponent 1284 1297	mitochondrial
+T21	CellComponent 245 248	EVs
+T22	CellComponent 526 529	EVs
+T23	CellComponent 829 832	EVs
+T24	CellComponent 923 926	EVs
+T25	CellComponent 1113 1116	EVs
+T26	CellComponent 1187 1190	EVs
+T27	CellComponent 1202 1205	EVs
+T28	CellComponent 1422 1425	EVs
+T29	PatientOrDisabledGroup 394 402	patients
+T30	PatientOrDisabledGroup 1239 1247	patients
+T31	ResearchActivity 478 486	analysis
+T32	PopulationGroup 406 414	controls
+T33	AminoAcidPeptideOrProtein 74 86	tau isoforms
+T34	AminoAcidPeptideOrProtein 159 174	isoforms of tau
+T35	AminoAcidPeptideOrProtein 308 316	1N4R tau
+T36	AminoAcidPeptideOrProtein 597 600	tau
+T37	AminoAcidPeptideOrProtein 754 760	4R tau
+T38	AminoAcidPeptideOrProtein 802 805	tau
+T39	AminoAcidPeptideOrProtein 888 891	tau
+T40	AminoAcidPeptideOrProtein 908 911	tau
+T41	AminoAcidPeptideOrProtein 1070 1076	4R tau
+T42	AminoAcidPeptideOrProtein 1095 1101	3R tau
+T43	AminoAcidPeptideOrProtein 1172 1175	tau
+T44	AminoAcidPeptideOrProtein 1370 1373	tau
+T45	BodyPartOrganOrOrganComponent 331 345	brain extracts
+T46	BodyPartOrganOrOrganComponent 1224 1229	brain
+T47	Eukaryote 325 330	human
+T48	Eukaryote 566 571	human
+T49	Eukaryote 1334 1339	human
+T50	BiologicallyActiveSubstance 74 77	tau
+T51	BiologicallyActiveSubstance 171 174	tau
+T52	BiologicallyActiveSubstance 313 316	tau
+T53	BiologicallyActiveSubstance 597 600	tau
+T54	BiologicallyActiveSubstance 757 760	tau
+T55	BiologicallyActiveSubstance 802 805	tau
+T56	BiologicallyActiveSubstance 888 891	tau
+T57	BiologicallyActiveSubstance 908 911	tau
+T58	BiologicallyActiveSubstance 1073 1076	tau
+T59	BiologicallyActiveSubstance 1098 1101	tau
+T60	BiologicallyActiveSubstance 1172 1175	tau
+T61	BiologicallyActiveSubstance 1370 1373	tau
+T62	CellComponent 221 243	Extracellular vesicles
+T63	Finding 58 70	accumulation
+T64	Finding 781 789	capacity
+T65	CellFunction 285 299	overexpressing
+T66	ResearchActivity 435 454	electron microscopy
+T67	ResearchActivity 456 486	nanoparticle tracking analysis
+T68	TemporalConcept 347 358	progressive
+T69	BodyPartOrganOrOrganComponent 941 951	astrocytic
+T70	Cell 277 284	neurons
+T71	Cell 731 738	neurons
+T72	Finding 856 867	propagation
+T73	Substance 1230 1235	fluid
+T74	Cell 118 128	astrocytes
+T75	Cell 194 204	astrocytes
+T76	Cell 544 562	primary astrocytes
+T77	Cell 585 595	astrocytes
+T78	Cell 809 819	astrocytes
+T79	Cell 1153 1163	astrocytes
+T80	Cell 1310 1320	astrocytes
+T81	Cell 1407 1417	astrocytes
+T82	ResearchActivity 488 491	NTA
+T83	Cell 1340 1345	iPSCs
+T84	ResearchActivity 660 665	ELISA
+T85	ResearchActivity 1351 1355	data
+T86	NaturalPhenomenonOrProcess 1009 1017	dynamics
+T87	DiseaseOrSyndrome 16 43	neurodegenerative disorders
+T88	BiomedicalOccupationOrDiscipline 494 504	proteomics
+T89	AminoAcidPeptideOrProtein 300 304;313 316	1N3R tau
+T90	CellFunction 614 643	mitochondrial system function
+T91	ResearchActivity 687 707	MitoTracker staining
+T92	AminoAcidPeptideOrProtein 748 750;757 760	3R tau
+T93	CellFunction 952 972	mitochondrial system
+T94	AminoAcidPeptideOrProtein 1063 1065;1073 1076	3R tau
+T95	AminoAcidPeptideOrProtein 1169 1175	4R tau

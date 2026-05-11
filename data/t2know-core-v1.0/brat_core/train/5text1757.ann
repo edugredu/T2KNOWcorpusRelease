@@ -1,0 +1,9 @@
+T0	BodyPartOrganOrOrganComponent 99 104	brain
+T1	DiseaseOrSyndrome 134 159	neurodegenerative disease
+T2	PathologicFunction 160 172	pathogenesis
+T3	BiologicFunction 120 133	understanding
+T4	Organism 70 74	host
+T5	BiologicFunction 75 91	immune responses
+T6	BiologicFunction 0 13	Understanding
+T7	Organism 28 37	microbial
+T8	PathologicFunction 38 48	infections

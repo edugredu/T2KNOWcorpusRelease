@@ -1,0 +1,79 @@
+T0	DiseaseOrSyndrome 147 160	prion disease
+T1	InjuryOrPoisoning 205 216;232 244	Exposure to heavy metals
+T2	Chemical 232 244	heavy metals
+T3	BiologicallyActiveSubstance 264 266	Mn
+T4	Chemical 264 266	Mn
+T5	BiologicallyActiveSubstance 367 369	Mn
+T6	Chemical 367 369	Mn
+T7	BiologicallyActiveSubstance 451 453	Mn
+T8	Chemical 451 453	Mn
+T9	HealthCareActivity 472 489	chelation therapy
+T10	HealthCareActivity 568 592	prospective therapeutics
+T11	BiomedicalOccupationOrDiscipline 604 628	bioinformatic approaches
+T12	Chemical 667 689	therapeutic substances
+T13	PharmacologicSubstance 667 689	therapeutic substances
+T14	BiologicallyActiveSubstance 926 928	Mn
+T15	Chemical 926 928	Mn
+T16	PharmacologicSubstance 1011 1017	agents
+T17	TemporalConcept 1062 1065	day
+T18	HealthCareActivity 1062 1065	day
+T19	PharmacologicSubstance 1066 1074	chelator
+T20	Chemical 1066 1074	chelator
+T21	ResearchActivity 1098 1113	bioavailability
+T22	Chemical 1214 1223	compounds
+T23	PharmacologicSubstance 1214 1223	compounds
+T24	ResearchActivity 1227 1233	screen
+T25	Chemical 1240 1249	compounds
+T26	PharmacologicSubstance 1240 1249	compounds
+T27	BiologicFunction 1272 1282	regulating
+T28	BiologicallyActiveSubstance 1289 1291	Mn
+T29	Chemical 1289 1291	Mn
+T30	BiomedicalOccupationOrDiscipline 1313 1327	bioinformatics
+T31	HealthCareActivity 1371 1390	clinical treatments
+T32	BiologicallyActiveSubstance 1467 1469	Mn
+T33	Chemical 1467 1469	Mn
+T34	HealthCareRelatedOrganization 1154 1174	scientific community
+T35	BiologicFunction 815 828	understanding
+T36	BiomedicalOccupationOrDiscipline 181 194	public health
+T37	HealthCareActivity 181 194	public health
+T38	CellFunction 833 853	molecular mechanisms
+T39	Chemical 253 262	manganese
+T40	BiologicallyActiveSubstance 253 262	manganese
+T41	AminoAcidPeptideOrProtein 147 152	prion
+T42	InjuryOrPoisoning 857 865	toxicity
+T43	HealthCareActivity 580 592	therapeutics
+T44	Finding 377 385	etiology
+T45	HealthCareActivity 1066 1084	chelator therapies
+T46	BodyPartOrganOrOrganComponent 1283 1288	brain
+T47	DiseaseOrSyndrome 13 39	Neurodegenerative diseases
+T48	CellOrMolecularDysfunction 1418 1435	neurodegeneration
+T49	CellFunction 1358 1366	pathways
+T50	BiologicFunction 292 303	development
+T51	BiologicFunction 553 564	development
+T52	CellFunction 292 303	development
+T53	CellFunction 553 564	development
+T54	ResearchActivity 994 1003	discovery
+T55	HealthCareActivity 437 447	treatments
+T56	HealthCareActivity 1380 1390	treatments
+T57	ResearchActivity 437 447	treatments
+T58	ResearchActivity 1380 1390	treatments
+T59	DiseaseOrSyndrome 389 415	neurodegenerative diseases
+T60	DiseaseOrSyndrome 705 731	neurodegenerative diseases
+T61	DiseaseOrSyndrome 882 908	neurodegenerative diseases
+T62	DiseaseOrSyndrome 91 111	Huntington's disease
+T63	DiseaseOrSyndrome 70 89	Parkinson's disease
+T64	DiseaseOrSyndrome 113 142	amyotrophic lateral sclerosis
+T65	DiseaseOrSyndrome 49 68	Alzheimer's disease
+T66	ResearchActivity 336 342	review
+T67	HealthCareActivity 336 342	review
+T68	ResearchActivity 1186 1194	research
+T69	ResearchActivity 1470 1492	toxicological research
+T70	Substance 527 546	synthetic compounds
+T71	Substance 515 522;537 546	natural compounds
+T72	Chemical 1027 1029	Mn
+T73	BiologicallyActiveSubstance 1027 1029	Mn
+T74	DiseaseOrSyndrome 1027 1046	Mn-induced diseases
+T75	Finding 1260 1268	efficacy
+T76	ClinicalAttribute 1283 1298	brain Mn levels
+T77	Chemical 1407 1409	Mn
+T78	BiologicallyActiveSubstance 1407 1409	Mn

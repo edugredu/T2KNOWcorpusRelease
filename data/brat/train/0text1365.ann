@@ -1,0 +1,87 @@
+T0	DiseaseOrSyndrome 0 6	Arrest
+T1	TemporalConcept 0 6	Arrest
+T2	BiologicallyActiveSubstance 190 223	Glutathione S-transferase 4 alpha
+T3	AminoAcidPeptideOrProtein 190 223	Glutathione S-transferase 4 alpha
+T4	GeneOrGenome 225 230	Gsta4
+T5	AminoAcidPeptideOrProtein 225 230	Gsta4
+T6	GeneOrGenome 293 298	Gsta4
+T7	AminoAcidPeptideOrProtein 293 298	Gsta4
+T8	GeneOrGenome 384 389	Gsta4
+T9	AminoAcidPeptideOrProtein 384 389	Gsta4
+T10	Chemical 457 476	clemastine fumarate
+T11	GeneOrGenome 535 540	Gsta4
+T12	AminoAcidPeptideOrProtein 535 540	Gsta4
+T13	AminoAcidPeptideOrProtein 563 566	Fas
+T14	DiseaseOrSyndrome 563 566	Fas
+T15	GeneOrGenome 563 566	Fas
+T16	GeneOrGenome 728 733	Gsta4
+T17	AminoAcidPeptideOrProtein 728 733	Gsta4
+T18	GeneOrGenome 991 996	Gsta4
+T19	AminoAcidPeptideOrProtein 991 996	Gsta4
+T20	PharmacologicSubstance 410 427	dimethyl fumarate
+T21	Chemical 410 427	dimethyl fumarate
+T22	ExperimentalModelOfDisease 858 906	experimental autoimmune encephalomyelitis models
+T23	Cell 333 348	myelinating OLs
+T24	Finding 157 175	clinical worsening
+T25	Cell 635 666	oligodendrocyte precursor cells
+T26	DiseaseOrSyndrome 92 110	multiple sclerosis
+T27	BodyPartOrganOrOrganComponent 75 81	myelin
+T28	CellFunction 31 46	differentiation
+T29	CellFunction 312 327	differentiation
+T30	CellFunction 707 722	differentiation
+T31	Chemical 819 831	lysolecithin
+T32	PharmacologicSubstance 819 831	lysolecithin
+T33	Cell 965 968	OLs
+T34	CellFunction 265 283	OL differentiation
+T35	CellFunction 767 785	OL differentiation
+T36	CellFunction 1026 1044	OL differentiation
+T37	Cell 27 29	OL
+T38	Cell 688 690	OL
+T39	CellFunction 490 503	remyelinating
+T40	PharmacologicSubstance 504 509	agent
+T41	Finding 734 740	effect
+T42	CellFunction 549 559	expression
+T43	CellFunction 744 753	apoptosis
+T44	ResearchActivity 349 357	in vitro
+T45	CellFunction 691 699	survival
+T46	CellFunction 1046 1054	survival
+T47	CellOrMolecularDysfunction 135 152	neurodegeneration
+T48	HealthCareActivity 444 451	therapy
+T49	ResearchActivity 803 810	in vivo
+T50	TemporalConcept 1108 1114	future
+T51	Cell 10 25	oligodendrocyte
+T52	CellFunction 517 531	Overexpression
+T53	CellFunction 51 64	remyelination
+T54	CellFunction 1059 1072	remyelination
+T55	HealthCareActivity 1115 1125;1129 1138	reparative therapies
+T56	DiseaseOrSyndrome 112 114	MS
+T57	DiseaseOrSyndrome 441 443	MS
+T58	DiseaseOrSyndrome 513 515	MS
+T59	DiseaseOrSyndrome 1126 1128	MS
+T60	PathologicFunction 840 853	demyelination
+T61	PopulationGroup 259 264	adult
+T62	PopulationGroup 629 634	adult
+T63	PopulationGroup 761 766	adult
+T64	CellFunction 242 251	expressed
+T65	CellComponent 587 599	mitochondria
+T66	GeneOrGenome 944 949	Gsta4
+T67	AminoAcidPeptideOrProtein 944 949	Gsta4
+T68	BiologicallyActiveSubstance 944 949	Gsta4
+T69	BiologicallyActiveSubstance 991 996	Gsta4
+T70	BiologicallyActiveSubstance 535 540	Gsta4
+T71	AminoAcidPeptideOrProtein 914 919	Casp8
+T72	BiologicallyActiveSubstance 914 919	Casp8
+T73	GeneOrGenome 914 919	Casp8
+T74	BiologicallyActiveSubstance 728 733	Gsta4
+T75	AminoAcidPeptideOrProtein 611 616	Casp8
+T76	GeneOrGenome 611 616	Casp8
+T77	BiologicallyActiveSubstance 384 389	Gsta4
+T78	BiologicallyActiveSubstance 225 230	Gsta4
+T79	BiologicallyActiveSubstance 293 298	Gsta4
+T80	CellOrMolecularDysfunction 293 303	Gsta4 loss
+T81	PharmacologicSubstance 457 476	clemastine fumarate
+T82	AminoAcidPeptideOrProtein 617 620	Bid
+T83	GeneOrGenome 617 620	Bid
+T84	BiologicallyActiveSubstance 617 620	Bid
+T85	CellFunction 914 928	Casp8 activity
+T86	Finding 1087 1103	potential target

@@ -1,0 +1,6 @@
+T0	CellOrMolecularDysfunction 160 177	neurodegeneration
+T1	NucleicAcidNucleosideOrNucleotide 43 52	microRNAs
+T2	BiologicallyActiveSubstance 43 52	microRNAs
+T3	CellFunction 86 101	gene expression
+T4	HealthCareActivity 138 156	precision medicine
+T5	Virus 31 34	AAV

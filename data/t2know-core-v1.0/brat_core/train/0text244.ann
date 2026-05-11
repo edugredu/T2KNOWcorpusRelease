@@ -1,0 +1,31 @@
+T0	CellFunction 141 150	Autophagy
+T1	InjuryOrPoisoning 225 233	toxicity
+T2	CellOrMolecularDysfunction 527 568	mutant huntingtin/disease-causing protein
+T3	AminoAcidPeptideOrProtein 527 568	mutant huntingtin/disease-causing protein
+T4	CellFunction 410 419	autophagy
+T5	CellFunction 424 443	selective autophagy
+T6	CellFunction 472 481	autophagy
+T7	DiseaseOrSyndrome 22 24	HD
+T8	DiseaseOrSyndrome 344 346	HD
+T9	DiseaseOrSyndrome 453 455	HD
+T10	DiseaseOrSyndrome 616 618	HD
+T11	DiseaseOrSyndrome 0 20	Huntington's disease
+T12	CellOrMolecularDysfunction 97 114	neurodegeneration
+T13	DiseaseOrSyndrome 644 671	neurodegenerative disorders
+T14	DiseaseOrSyndrome 238 264	neurodegenerative diseases
+T15	PathologicFunction 347 356	pathology
+T16	BiomedicalOccupationOrDiscipline 347 356	pathology
+T17	CellFunction 120 139	protein aggregation
+T18	CellFunction 205 224	protein aggregation
+T19	CellOrMolecularDysfunction 120 139	protein aggregation
+T20	CellOrMolecularDysfunction 205 224	protein aggregation
+T21	ResearchActivity 366 372	review
+T22	HealthCareActivity 366 372	review
+T23	ResearchActivity 274 281	studies
+T24	ResearchActivity 399 406	studies
+T25	DiseaseOrSyndrome 31 68	monogenetic neurodegenerative disease
+T26	TemporalConcept 266 273	Current
+T27	CellFunction 295 326	autophagyendolysosomal pathways
+T28	TemporalConcept 373 379	recent
+T29	HealthCareActivity 457 486	Restoration of autophagy flux
+T30	HealthCareActivity 491 568	enhancement of selective removal of mutant huntingtin/disease-causing protein

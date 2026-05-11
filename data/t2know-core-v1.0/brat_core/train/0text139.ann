@@ -1,0 +1,68 @@
+T0	SignOrSymptom 31 43	debilitating
+T1	BiologicFunction 238 248	Understand
+T2	CellFunction 456 476	post-transcriptional
+T3	BiologicFunction 527 536	processes
+T4	NaturalPhenomenonOrProcess 527 536	processes
+T5	CellFunction 561 580	signal transmission
+T6	DiseaseOrSyndrome 593 599	cancer
+T7	HealthCareActivity 339 361	therapeutic approaches
+T8	NucleicAcidNucleosideOrNucleotide 392 407	non-coding RNAs
+T9	CellFunction 582 591	apoptosis
+T10	ResearchActivity 1309 1328	therapeutic targets
+T11	NucleicAcidNucleosideOrNucleotide 363 372	MicroRNAs
+T12	BiologicallyActiveSubstance 363 372	MicroRNAs
+T13	CellOrMolecularDysfunction 772 797	Mitochondrial dysfunction
+T14	CellOrMolecularDysfunction 745 770	mitochondrial dysfunction
+T15	CellOrMolecularDysfunction 964 989	mitochondrial dysfunction
+T16	CellOrMolecularDysfunction 1177 1202	mitochondrial dysfunction
+T17	CellFunction 548 559	cell growth
+T18	CellFunction 921 930	crosstalk
+T19	BiologicallyActiveSubstance 392 407	non-coding RNAs
+T20	DiseaseOrSyndrome 108 125	motor impairments
+T21	DiseaseOrSyndrome 894 915	Huntington's diseases
+T22	BiologicFunction 604 609	aging
+T23	BiologicFunction 1206 1211	aging
+T24	CellFunction 604 609	aging
+T25	CellFunction 1206 1211	aging
+T26	NucleicAcidNucleosideOrNucleotide 374 380	miRNAs
+T27	NucleicAcidNucleosideOrNucleotide 494 500	miRNAs
+T28	NucleicAcidNucleosideOrNucleotide 654 660	miRNAs
+T29	NucleicAcidNucleosideOrNucleotide 994 1000	miRNAs
+T30	NucleicAcidNucleosideOrNucleotide 1152 1158	miRNAs
+T31	BiologicallyActiveSubstance 374 380	miRNAs
+T32	BiologicallyActiveSubstance 494 500	miRNAs
+T33	BiologicallyActiveSubstance 654 660	miRNAs
+T34	BiologicallyActiveSubstance 994 1000	miRNAs
+T35	BiologicallyActiveSubstance 1152 1158	miRNAs
+T36	TemporalConcept 1043 1048	onset
+T37	TemporalConcept 48 57	currently
+T38	BiologicallyActiveSubstance 711 734	reactive oxygen species
+T39	Chemical 711 734	reactive oxygen species
+T40	DiseaseOrSyndrome 865 876	Alzheimer's
+T41	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T42	TemporalConcept 142 153	progressive
+T43	CellOrMolecularDysfunction 946 962	oxidative stress
+T44	BiologicallyActiveSubstance 736 739	ROS
+T45	BiologicallyActiveSubstance 802 805	ROS
+T46	Chemical 736 739	ROS
+T47	Chemical 802 805	ROS
+T48	Finding 1110 1118	evidence
+T49	PathologicFunction 1053 1064	progression
+T50	TemporalConcept 1053 1064	progression
+T51	Finding 87 93	severe
+T52	DiseaseOrSyndrome 618 644	neurodegenerative diseases
+T53	DiseaseOrSyndrome 830 856	neurodegenerative diseases
+T54	DiseaseOrSyndrome 1068 1094	neurodegenerative diseases
+T55	DiseaseOrSyndrome 1220 1246	neurodegenerative diseases
+T56	CellFunction 422 448	gene expression regulation
+T57	ResearchActivity 1128 1134	review
+T58	HealthCareActivity 1128 1134	review
+T59	ClinicalAttribute 1283 1304	diagnostic biomarkers
+T60	CellOrMolecularDysfunction 223 236	neuronal loss
+T61	CellFunction 802 815	ROS formation
+T62	CellOrMolecularDysfunction 994 1014	miRNAs dysregulation
+T63	DiseaseOrSyndrome 58 78	incurable conditions
+T64	CellOrMolecularDysfunction 154 189	deterioration of neuronal structure
+T65	CellOrMolecularDysfunction 646 667	Altered miRNAs levels
+T66	DiseaseOrSyndrome 878 889	Parkinson's
+T67	Finding 921 930	crosstalk

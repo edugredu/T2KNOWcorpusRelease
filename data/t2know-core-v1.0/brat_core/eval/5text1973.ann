@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 135 161	neurodegenerative diseases
+T1	HealthCareActivity 33 36	MRI
+T2	ClinicalAttribute 106 114	severity
+T3	Finding 106 114	severity
+T4	HealthCareActivity 54 64	diagnosing
+T5	PopulationGroup 118 129	individuals
+T6	MachineActivity 0 23	Neuroimaging techniques
+T7	AnatomicalAbnormality 65 87	brain stem compression

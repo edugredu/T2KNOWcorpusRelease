@@ -1,0 +1,125 @@
+T0	AminoAcidPeptideOrProtein 60 80	neurotrophins family
+T1	BiologicallyActiveSubstance 60 80	neurotrophins family
+T2	BiologicFunction 106 124	neural development
+T3	CellFunction 305 325	Bdnf gene regulation
+T4	GeneOrGenome 454 460	Hotair
+T5	NucleicAcidNucleosideOrNucleotide 454 460	Hotair
+T6	AminoAcidPeptideOrProtein 502 506	Bdnf
+T7	GeneOrGenome 502 506	Bdnf
+T8	BiologicallyActiveSubstance 502 506	Bdnf
+T9	GeneOrGenome 688 694	Hotair
+T10	NucleicAcidNucleosideOrNucleotide 688 694	Hotair
+T11	AminoAcidPeptideOrProtein 726 730	Bdnf
+T12	GeneOrGenome 726 730	Bdnf
+T13	BiologicallyActiveSubstance 726 730	Bdnf
+T14	NucleicAcidNucleosideOrNucleotide 775 783	DNAzymes
+T15	AminoAcidPeptideOrProtein 938 942	Bdnf
+T16	GeneOrGenome 938 942	Bdnf
+T17	BiologicallyActiveSubstance 938 942	Bdnf
+T18	GeneOrGenome 975 981	Hotair
+T19	NucleicAcidNucleosideOrNucleotide 975 981	Hotair
+T20	Chemical 1119 1129	Fingolimod
+T21	AminoAcidPeptideOrProtein 1169 1173	Bdnf
+T22	BiologicallyActiveSubstance 1169 1173	Bdnf
+T23	GeneOrGenome 1169 1173	Bdnf
+T24	BiologicFunction 1573 1586	comprehension
+T25	BiologicFunction 157 176	synaptic plasticity
+T26	GeneOrGenome 412 418	Malat1
+T27	GeneOrGenome 699 705	Malat1
+T28	GeneOrGenome 986 992	Malat1
+T29	GeneOrGenome 1298 1304	Malat1
+T30	Cell 1113 1117	OPCs
+T31	Cell 620 623	OPC
+T32	CellFunction 892 906	OPC maturation
+T33	Cell 1213 1216	OPC
+T34	BiologicFunction 625 635	maturation
+T35	BiologicFunction 1449 1466	brain development
+T36	CellFunction 126 141	differentiation
+T37	ResearchActivity 651 658;665 672	primary culture
+T38	ResearchActivity 1092 1099	culture
+T39	Cell 1374 1376	OL
+T40	Cell 588 618	oligodendrocyte precursor cell
+T41	Eukaryote 647 650	rat
+T42	Cell 659 664	glial
+T43	Cell 1086 1091	glial
+T44	ResearchActivity 810 817	RT-qPCR
+T45	ResearchActivity 791 805	immunostaining
+T46	Chemical 539 549	fingolimod
+T47	Chemical 866 876	fingolimod
+T48	Chemical 1404 1414	fingolimod
+T49	PharmacologicSubstance 539 549	fingolimod
+T50	PharmacologicSubstance 866 876	fingolimod
+T51	PharmacologicSubstance 1404 1414	fingolimod
+T52	BiologicallyActiveSubstance 539 549	fingolimod
+T53	BiologicallyActiveSubstance 866 876	fingolimod
+T54	BiologicallyActiveSubstance 1404 1414	fingolimod
+T55	CellFunction 748 762	downregulation
+T56	BiologicFunction 1455 1466	development
+T57	CellFunction 1455 1466	development
+T58	ResearchActivity 818 824	assays
+T59	Cell 1004 1015	glial cells
+T60	Cell 1188 1199	glial cells
+T61	Finding 529 535	effect
+T62	Finding 678 684	effect
+T63	HealthCareActivity 550 559	treatment
+T64	HealthCareActivity 1130 1139	treatment
+T65	HealthCareActivity 1415 1424	treatment
+T66	ResearchActivity 550 559	treatment
+T67	ResearchActivity 1130 1139	treatment
+T68	ResearchActivity 1415 1424	treatment
+T69	NucleicAcidNucleosideOrNucleotide 462 469	lncRNAs
+T70	NucleicAcidNucleosideOrNucleotide 881 888	lncRNAs
+T71	NucleicAcidNucleosideOrNucleotide 993 1000	lncRNAs
+T72	NucleicAcidNucleosideOrNucleotide 1075 1082	lncRNAs
+T73	NucleicAcidNucleosideOrNucleotide 1152 1159	lncRNAs
+T74	CellFunction 232 242	expression
+T75	CellFunction 507 517	expression
+T76	CellFunction 731 741	expression
+T77	CellFunction 1174 1184	expression
+T78	CellFunction 1544 1554	expression
+T79	BiologicallyActiveSubstance 462 469	lncRNAs
+T80	BiologicallyActiveSubstance 881 888	lncRNAs
+T81	BiologicallyActiveSubstance 993 1000	lncRNAs
+T82	BiologicallyActiveSubstance 1075 1082	lncRNAs
+T83	BiologicallyActiveSubstance 1152 1159	lncRNAs
+T84	CellFunction 143 151	survival
+T85	CellFunction 1468 1476	survival
+T86	PathologicFunction 1594 1606	pathogenesis
+T87	HealthCareActivity 1670 1680	treatments
+T88	ResearchActivity 1670 1680	treatments
+T89	BiologicFunction 1493 1506	understanding
+T90	AminoAcidPeptideOrProtein 35 39	BDNF
+T91	AminoAcidPeptideOrProtein 1429 1433	BDNF
+T92	AminoAcidPeptideOrProtein 1539 1543	BDNF
+T93	BiologicallyActiveSubstance 35 39	BDNF
+T94	BiologicallyActiveSubstance 1429 1433	BDNF
+T95	BiologicallyActiveSubstance 1539 1543	BDNF
+T96	GeneOrGenome 35 39	BDNF
+T97	GeneOrGenome 1429 1433	BDNF
+T98	GeneOrGenome 1539 1543	BDNF
+T99	CellFunction 563 582	downstream pathways
+T100	Cell 1357 1372	oligodendrocyte
+T101	CellFunction 1217 1228	myelination
+T102	CellFunction 1378 1389	myelination
+T103	TemporalConcept 1333 1339	stages
+T104	AminoAcidPeptideOrProtein 0 33	Brain-derived neurotrophic factor
+T105	BiologicallyActiveSubstance 0 33	Brain-derived neurotrophic factor
+T106	DiseaseOrSyndrome 1614 1640	neurodegenerative disorder
+T107	NucleicAcidNucleosideOrNucleotide 424 452	HOX transcript antisense RNA
+T108	GeneOrGenome 260 264	gene
+T109	NucleicAcidNucleosideOrNucleotide 356 410	metastasis-associated lung adenocarcinoma transcript 1
+T110	BiologicallyActiveSubstance 356 410	metastasis-associated lung adenocarcinoma transcript 1
+T111	NucleicAcidNucleosideOrNucleotide 412 418	Malat1
+T112	BiologicallyActiveSubstance 412 418	Malat1
+T113	BiologicallyActiveSubstance 454 460	Hotair
+T114	BiologicallyActiveSubstance 424 452	HOX transcript antisense RNA
+T115	BiologicallyActiveSubstance 688 694	Hotair
+T116	BiologicallyActiveSubstance 699 705	Malat1
+T117	NucleicAcidNucleosideOrNucleotide 699 705	Malat1
+T118	BiologicallyActiveSubstance 975 981	Hotair
+T119	BiologicallyActiveSubstance 986 992	Malat1
+T120	NucleicAcidNucleosideOrNucleotide 986 992	Malat1
+T121	BiologicallyActiveSubstance 1119 1129	Fingolimod
+T122	PharmacologicSubstance 1119 1129	Fingolimod
+T123	BiologicallyActiveSubstance 1298 1304	Malat1
+T124	NucleicAcidNucleosideOrNucleotide 1298 1304	Malat1

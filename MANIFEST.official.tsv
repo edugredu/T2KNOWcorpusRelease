@@ -1,0 +1,28 @@
+path	role	official_benchmark	headline_statistics	contains_source_text	contains_synthetic	n_records	n_documents	notes
+data/t2know-core-v1.0/document_disjoint_hybrid/trainData.json	official	yes	yes	mixed	no	10052		T2KNOW-Core v1.0 public-redacted hybrid release
+data/t2know-core-v1.0/document_disjoint_hybrid/evalData.json	official	yes	yes	mixed	no	1435		T2KNOW-Core v1.0 public-redacted hybrid release
+data/t2know-core-v1.0/document_disjoint_hybrid/testData.json	official	yes	yes	mixed	no	2869		T2KNOW-Core v1.0 public-redacted hybrid release
+data/t2know-core-v1.0/document_disjoint_hybrid/t2know_document_disjoint_hybrid.jsonl	official	yes	yes	mixed	no	14356		T2KNOW-Core v1.0 public-redacted hybrid release
+data/t2know-core-v1.0/text_included/brat_core/	official	inspection	no	yes_text_included_only	no		432	T2KNOW-Core v1.0 text-included BRAT export
+data/t2know-core-v1.0/text_included/document_disjoint/	convenience	no	no	yes_text_included_only	no		432	Convenience view; same annotation layer
+data/t2know-core-v1.0/text_excluded/annotations_only/	convenience	no	no	no	no		389	Convenience view; same annotation layer
+data/t2know-core-v1.0/metadata/label_schema.tsv	metadata	no	no	no	no	41		Frozen 40-label inventory
+data/t2know-core-v1.0/metadata/source_metadata.tsv	metadata	no	no	no	no	822		Document-level source metadata
+data/t2know-core-v1.0/metadata/validation_report.json	metadata	no	no	no	no			Structural validation report
+data/t2know-core-v1.0/public_hybrid_summary.json	metadata	no	yes	no	no			Public hybrid summary statistics
+data/sentence_level_legacy/	legacy	no	no	yes	yes			Legacy sentence-level corpus; not in public package
+data/auxiliary/trainBalanced.json	auxiliary	no	no	yes	no			Auxiliary balanced variant; not in public package
+data/brat_auxiliary/	auxiliary	no	no	yes	no			Auxiliary BRAT; not in public package
+data/brat/	legacy	no	no	yes	no			Legacy mixed BRAT; not in public package
+provenance/reports/reconstruction_manifest.tsv	provenance	no	no	no	no	821		Document-level reconstruction manifest
+provenance/reports/reconstruction_sentence_manifest.tsv	provenance	no	no	no	no	14356		Sentence-level reconstruction manifest
+provenance/reports/reconstruction_sources.tsv	provenance	no	no	no	no	821		Source identifier table
+provenance/reports/corpus_stats_public_verifiable.json	provenance	no	yes	no	no			Public-verifiable corpus statistics
+provenance/reports/corpus_stats_reconstructed_full.json	provenance	no	no	no	no			Reconstructed-full corpus statistics notes
+provenance/reports/source_license_audit_v6.tsv	provenance	no	no	no	no	821		Source-license audit (redacted)
+provenance/reports/benchmark_raw_counts.tsv	provenance	no	yes	no	no			Benchmark raw entity/label counts
+provenance/reports/benchmark_summary.tsv	provenance	no	yes	no	no			Benchmark summary statistics
+OFFICIAL_BENCHMARK.md	documentation	no	no	no	no			Official benchmark specification (this archive)
+docs/reconstruction.md	documentation	no	no	no	no			Reconstruction workflow
+docs/data_format.md	documentation	no	no	no	no			Data format specification
+docs/dataset_policy.md	documentation	no	no	no	no			Release policy and licence boundary

@@ -1,0 +1,131 @@
+T0	AminoAcidPeptideOrProtein 587 612	amyloid precursor protein
+T1	AminoAcidPeptideOrProtein 623 635	presenilin-1
+T2	Cell 935 950	oligodendrocyte
+T3	GeneOrGenome 1043 1048	Psen1
+T4	GeneOrGenome 1059 1064	Itgax
+T5	AminoAcidPeptideOrProtein 1059 1064	Itgax
+T6	GeneOrGenome 1082 1087	Wdr61
+T7	GeneOrGenome 1089 1094	Pmpca
+T8	GeneOrGenome 1096 1103	Aldh1a2
+T9	AminoAcidPeptideOrProtein 1096 1103	Aldh1a2
+T10	GeneOrGenome 1105 1109	Calu
+T11	AminoAcidPeptideOrProtein 1111 1117	Anp32b
+T12	GeneOrGenome 1111 1117	Anp32b
+T13	AminoAcidPeptideOrProtein 1119 1124	Actn4
+T14	GeneOrGenome 1119 1124	Actn4
+T15	GeneOrGenome 1130 1136	Ndufv2
+T16	CellFunction 1286 1298	EV secretion
+T17	GeneOrGenome 1313 1318	Itgax
+T18	AminoAcidPeptideOrProtein 1313 1318	Itgax
+T19	AminoAcidPeptideOrProtein 1323 1327	Apoe
+T20	BiologicallyActiveSubstance 1323 1327	Apoe
+T21	GeneOrGenome 1323 1327	Apoe
+T22	GeneOrGenome 1387 1392	Itgax
+T23	AminoAcidPeptideOrProtein 1387 1392	Itgax
+T24	AminoAcidPeptideOrProtein 1397 1401	Apoe
+T25	BiologicallyActiveSubstance 1397 1401	Apoe
+T26	GeneOrGenome 1397 1401	Apoe
+T27	CellComponent 0 22	Extracellular vesicles
+T28	Cell 914 920	neuron
+T29	Substance 976 985	molecules
+T30	CellFunction 117 140	cellular communications
+T31	BiologicFunction 1633 1646	understanding
+T32	AminoAcidPeptideOrProtein 531 534	APP
+T33	AminoAcidPeptideOrProtein 614 617	APP
+T34	AminoAcidPeptideOrProtein 992 995	APP
+T35	AminoAcidPeptideOrProtein 1050 1053	APP
+T36	GeneOrGenome 531 534	APP
+T37	GeneOrGenome 614 617	APP
+T38	GeneOrGenome 992 995	APP
+T39	GeneOrGenome 1050 1053	APP
+T40	BiologicallyActiveSubstance 531 534	APP
+T41	BiologicallyActiveSubstance 614 617	APP
+T42	BiologicallyActiveSubstance 992 995	APP
+T43	BiologicallyActiveSubstance 1050 1053	APP
+T44	AminoAcidPeptideOrProtein 535 538	PS1
+T45	AminoAcidPeptideOrProtein 637 640	PS1
+T46	AminoAcidPeptideOrProtein 996 999	PS1
+T47	ExperimentalModelOfDisease 1439 1456	CAST.APP/PS1 mice
+T48	ExperimentalModelOfDisease 1597 1614	CAST.APP/PS1 mice
+T49	PopulationGroup 555 563	familial
+T50	CellFunction 574 583	mutations
+T51	CellOrMolecularDysfunction 574 583	mutations
+T52	CellFunction 547 554	express
+T53	BodyPartOrganOrOrganComponent 683 694	hippocampal
+T54	Cell 683 694	hippocampal
+T55	Cell 49 61	neural cells
+T56	TemporalConcept 464 470	origin
+T57	NaturalPhenomenonOrProcess 106 115	clearance
+T58	PathologicFunction 146 160	disease spread
+T59	Cell 923 932	astrocyte
+T60	Eukaryote 509 524	transgenic mice
+T61	ResearchActivity 509 524	transgenic mice
+T62	PathologicFunction 1514 1527	A beta plaque
+T63	NucleicAcidNucleosideOrNucleotide 1402 1406	mRNA
+T64	BodyPartOrganOrOrganComponent 1423 1435	brain tissue
+T65	CellFunction 258 277	molecular mechanism
+T66	DiseaseOrSyndrome 173 199	neurodegenerative diseases
+T67	OrganismAttribute 786 789	age
+T68	Finding 1180 1191	involvement
+T69	AminoAcidPeptideOrProtein 882 890	proteins
+T70	Finding 1069 1078	reduction
+T71	NaturalPhenomenonOrProcess 1069 1078	reduction
+T72	TemporalConcept 490 498	recently
+T73	CellOrMolecularDysfunction 695 712	neurodegeneration
+T74	CellOrMolecularDysfunction 1532 1549	neurodegeneration
+T75	DiseaseOrSyndrome 211 230	Alzheimer's disease
+T76	CellComponent 24 27	EVs
+T77	CellComponent 359 362	EVs
+T78	CellComponent 750 753	EVs
+T79	CellComponent 1008 1011	EVs
+T80	CellComponent 1160 1163	EVs
+T81	CellComponent 1350 1353	EVs
+T82	DiseaseOrSyndrome 232 234	AD
+T83	DiseaseOrSyndrome 395 397	AD
+T84	DiseaseOrSyndrome 564 566	AD
+T85	DiseaseOrSyndrome 1647 1649	AD
+T86	PathologicFunction 1650 1662	pathogenesis
+T87	CellOrMolecularDysfunction 1244 1261	neurodegenerative
+T88	Eukaryote 649 670	CAST/EiJ mouse strain
+T89	CellComponent 433 435	EV
+T90	CellComponent 1286 1288	EV
+T91	CellComponent 1581 1583	EV
+T92	ResearchActivity 714 746	Quantitative proteomics analysis
+T93	Eukaryote 806 810	mice
+T94	Finding 1361 1381	positive correlation
+T95	Cell 957 966	microglia
+T96	Cell 1195 1271	A beta-processing complex and disease-associated/neurodegenerative microglia
+T97	Cell 1558 1576	DAM/MGnD microglia
+T98	BodyPartOrganOrOrganComponent 69 91	central nervous system
+T99	BiologicallyActiveSubstance 587 612	amyloid precursor protein
+T100	AminoAcidPeptideOrProtein 1195 1201	A beta
+T101	AminoAcidPeptideOrProtein 1514 1527	A beta plaque
+T102	ResearchActivity 378 391	animal models
+T103	CellFunction 1581 1593	EV secretion
+T104	CellFunction 96 115	molecular clearance
+T105	ResearchActivity 320 355	high-resolution proteomic profiling
+T106	BiologicallyActiveSubstance 623 635	presenilin-1
+T107	BiologicallyActiveSubstance 637 640	PS1
+T108	ExperimentalModelOfDisease 769 781;806 810	CAST.APP/PS1 mice
+T109	BiologicallyActiveSubstance 535 538	PS1
+T110	Eukaryote 798 810	control mice
+T111	ResearchActivity 814 847	tandem mass tag-mass spectrometry
+T112	AminoAcidPeptideOrProtein 1043 1048	Psen1
+T113	BiologicallyActiveSubstance 1043 1048	Psen1
+T114	BiologicallyActiveSubstance 996 999	PS1
+T115	BiologicallyActiveSubstance 1082 1087	Wdr61
+T116	AminoAcidPeptideOrProtein 1082 1087	Wdr61
+T117	AminoAcidPeptideOrProtein 1089 1094	Pmpca
+T118	BiologicallyActiveSubstance 1089 1094	Pmpca
+T119	BiologicallyActiveSubstance 1096 1103	Aldh1a2
+T120	BiologicallyActiveSubstance 1105 1109	Calu
+T121	AminoAcidPeptideOrProtein 1105 1109	Calu
+T122	BiologicallyActiveSubstance 1111 1117	Anp32b
+T123	BiologicallyActiveSubstance 1119 1124	Actn4
+T124	BiologicallyActiveSubstance 1130 1136	Ndufv2
+T125	AminoAcidPeptideOrProtein 1130 1136	Ndufv2
+T126	ClinicalAttribute 1338 1345	markers
+T127	BiologicallyActiveSubstance 1387 1392	Itgax
+T128	ResearchActivity 1464 1472	datasets
+T129	Cell 1273 1281	DAM/MGnD
+T130	Cell 1329 1337	DAM/MGnD

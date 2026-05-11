@@ -1,0 +1,165 @@
+T0	TemporalConcept 86 99	chronic phase
+T1	Chemical 417 438	palmitoylethanolamide
+T2	GeneOrGenome 804 807	Axl
+T3	AminoAcidPeptideOrProtein 804 807	Axl
+T4	TemporalConcept 840 843	day
+T5	AminoAcidPeptideOrProtein 871 876	Tyro3
+T6	GeneOrGenome 871 876	Tyro3
+T7	GeneOrGenome 944 947	Axl
+T8	AminoAcidPeptideOrProtein 944 947	Axl
+T9	AminoAcidPeptideOrProtein 952 957	Mertk
+T10	GeneOrGenome 952 957	Mertk
+T11	AminoAcidPeptideOrProtein 1005 1010	Tyro3
+T12	GeneOrGenome 1005 1010	Tyro3
+T13	AminoAcidPeptideOrProtein 1145 1150	Tyro3
+T14	GeneOrGenome 1145 1150	Tyro3
+T15	GeneOrGenome 1249 1252	Axl
+T16	AminoAcidPeptideOrProtein 1249 1252	Axl
+T17	AminoAcidPeptideOrProtein 1257 1262	Mertk
+T18	GeneOrGenome 1257 1262	Mertk
+T19	Chemical 1264 1273	Rapamycin
+T20	AminoAcidPeptideOrProtein 1481 1494	TAM receptors
+T21	AminoAcidPeptideOrProtein 1524 1539	myelin proteins
+T22	AminoAcidPeptideOrProtein 1548 1554	CNPase
+T23	AminoAcidPeptideOrProtein 1679 1685	CNPase
+T24	AminoAcidPeptideOrProtein 1690 1695	Tyro3
+T25	GeneOrGenome 1690 1695	Tyro3
+T26	AminoAcidPeptideOrProtein 1713 1719	CNPase
+T27	AminoAcidPeptideOrProtein 1724 1729	Tyro3
+T28	GeneOrGenome 1724 1729	Tyro3
+T29	Finding 1438 1448	alteration
+T30	PharmacologicSubstance 194 198	Drug
+T31	Chemical 1413 1422	rapamycin
+T32	Chemical 1815 1824	rapamycin
+T33	AminoAcidPeptideOrProtein 1291 1295	mTOR
+T34	AminoAcidPeptideOrProtein 1852 1856	mTOR
+T35	GeneOrGenome 1291 1295	mTOR
+T36	GeneOrGenome 1852 1856	mTOR
+T37	BiologicallyActiveSubstance 1291 1295	mTOR
+T38	BiologicallyActiveSubstance 1852 1856	mTOR
+T39	CellOrMolecularDysfunction 136 157	neuronal degeneration
+T40	BiologicallyActiveSubstance 1278 1287	inhibitor
+T41	PharmacologicSubstance 1278 1287	inhibitor
+T42	Chemical 1278 1287	inhibitor
+T43	AminoAcidPeptideOrProtein 1067 1070	MBP
+T44	AminoAcidPeptideOrProtein 1540 1543	MBP
+T45	AminoAcidPeptideOrProtein 1671 1674	MBP
+T46	BiologicallyActiveSubstance 1067 1070	MBP
+T47	BiologicallyActiveSubstance 1540 1543	MBP
+T48	BiologicallyActiveSubstance 1671 1674	MBP
+T49	GeneOrGenome 1067 1070	MBP
+T50	GeneOrGenome 1540 1543	MBP
+T51	GeneOrGenome 1671 1674	MBP
+T52	TemporalConcept 94 99	phase
+T53	Finding 1751 1758	finding
+T54	ResearchActivity 1391 1399	cultures
+T55	Cell 270 286	oligodendrocytes
+T56	Cell 1090 1094	OPCs
+T57	Cell 1795 1799	OPCs
+T58	Cell 516 519	OPC
+T59	Cell 745 748	OPC
+T60	BiologicFunction 521 531	maturation
+T61	BiologicFunction 749 759	maturation
+T62	DiseaseOrSyndrome 31 49	multiple sclerosis
+T63	DiseaseOrSyndrome 330 348	multiple sclerosis
+T64	BodyPartOrganOrOrganComponent 1071 1077	myelin
+T65	BiologicFunction 1323 1329	growth
+T66	CellFunction 571 593	TAM receptor signaling
+T67	CellFunction 1857 1866	signaling
+T68	BiologicFunction 1027 1040	developmental
+T69	BiologicFunction 1119 1132	developmental
+T70	TemporalConcept 1027 1040	developmental
+T71	TemporalConcept 1119 1132	developmental
+T72	CellFunction 927 942	differentiation
+T73	CellFunction 1307 1345	oligodendrocyte growth differentiation
+T74	CellFunction 1627 1642	differentiation
+T75	CellFunction 0 13	Remyelination
+T76	CellComponent 125 131	axonal
+T77	CellFunction 550 563	proliferation
+T78	NucleicAcidNucleosideOrNucleotide 223 230	promote
+T79	Cell 484 514	oligodendrocyte precursor cell
+T80	Cell 500 514	precursor cell
+T81	Cell 484 509	oligodendrocyte precursor
+T82	PathologicFunction 145 157	degeneration
+T83	TemporalConcept 990 994	week
+T84	PatientOrDisabledGroup 17 25	patients
+T85	Cell 510 514	cell
+T86	Cell 136 144	neuronal
+T87	TemporalConcept 984 989	first
+T88	CellFunction 877 892	gene expression
+T89	CellFunction 1011 1026	gene expression
+T90	CellFunction 1222 1237	gene expression
+T91	CellFunction 882 892	expression
+T92	CellFunction 1016 1026	expression
+T93	CellFunction 1227 1237	expression
+T94	CellFunction 1463 1473	expression
+T95	CellFunction 1510 1520	expression
+T96	ResearchActivity 846 854	in vitro
+T97	ResearchActivity 995 1003	in vitro
+T98	CellFunction 657 665	survival
+T99	TemporalConcept 162 173	progressive
+T100	HealthCareActivity 1095 1107	treated with
+T101	TemporalConcept 50 60	frequently
+T102	Finding 893 916	significantly increased
+T103	Cell 641 656	oligodendrocyte
+T104	Cell 1307 1322	oligodendrocyte
+T105	Cell 1611 1626	oligodendrocyte
+T106	TemporalConcept 358 366	recently
+T107	CellFunction 242 255	remyelination
+T108	CellFunction 1350 1361	myelination
+T109	HealthCareActivity 205 214	therapies
+T110	Finding 1770 1777	effects
+T111	Finding 1877 1884	effects
+T112	AminoAcidPeptideOrProtein 713 726	TAM receptors
+T113	AminoAcidPeptideOrProtein 782 795	TAM receptors
+T114	BiologicallyActiveSubstance 713 726	TAM receptors
+T115	BiologicallyActiveSubstance 782 795	TAM receptors
+T116	BiologicallyActiveSubstance 1481 1494	TAM receptors
+T117	Finding 698 709	involvement
+T118	Finding 1837 1848	involvement
+T119	ResearchActivity 1568 1572	data
+T120	NucleicAcidNucleosideOrNucleotide 1151 1155	mRNA
+T121	NucleicAcidNucleosideOrNucleotide 1452 1456	mRNA
+T122	GeneOrGenome 877 881	gene
+T123	GeneOrGenome 1011 1015	gene
+T124	GeneOrGenome 1222 1226	gene
+T125	CellFunction 922 942	cell differentiation
+T126	AminoAcidPeptideOrProtein 1078 1085	protein
+T127	TemporalConcept 86 93	chronic
+T128	NucleicAcidNucleosideOrNucleotide 765 770	mRNAs
+T129	NucleicAcidNucleosideOrNucleotide 1696 1701	mRNAs
+T130	BiologicallyActiveSubstance 765 770	mRNAs
+T131	BiologicallyActiveSubstance 1696 1701	mRNAs
+T132	BiologicallyActiveSubstance 1151 1155	mRNA
+T133	BiologicallyActiveSubstance 1452 1456	mRNA
+T134	Finding 182 192	disability
+T135	BiologicallyActiveSubstance 628 637	modulator
+T136	Chemical 457 465	luteolin
+T137	PharmacologicSubstance 457 465	luteolin
+T138	Chemical 447 456	flavonoid
+T139	Chemical 467 473	PEALut
+T140	Chemical 730 736	PEALut
+T141	AminoAcidPeptideOrProtein 797 802	Tyro3
+T142	BiologicallyActiveSubstance 797 802	Tyro3
+T143	GeneOrGenome 797 802	Tyro3
+T144	BiologicallyActiveSubstance 804 807	Axl
+T145	BiologicallyActiveSubstance 813 818	Mertk
+T146	AminoAcidPeptideOrProtein 813 818	Mertk
+T147	GeneOrGenome 813 818	Mertk
+T148	BiologicallyActiveSubstance 871 876	Tyro3
+T149	BiologicallyActiveSubstance 944 947	Axl
+T150	BiologicallyActiveSubstance 952 957	Mertk
+T151	BiologicallyActiveSubstance 1005 1010	Tyro3
+T152	Chemical 1108 1114	PEALut
+T153	BiologicallyActiveSubstance 1145 1150	Tyro3
+T154	BiologicallyActiveSubstance 1249 1252	Axl
+T155	BiologicallyActiveSubstance 1257 1262	Mertk
+T156	Chemical 1363 1369	PEALut
+T157	BiologicallyActiveSubstance 1548 1554	CNPase
+T158	Chemical 1595 1601	PEALut
+T159	BiologicallyActiveSubstance 1679 1685	CNPase
+T160	BiologicallyActiveSubstance 1690 1695	Tyro3
+T161	BiologicallyActiveSubstance 1713 1719	CNPase
+T162	BiologicallyActiveSubstance 1724 1729	Tyro3
+T163	ResearchActivity 1730 1745	immunostainings
+T164	Chemical 1870 1876	PEALut

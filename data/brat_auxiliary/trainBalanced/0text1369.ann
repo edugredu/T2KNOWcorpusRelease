@@ -1,0 +1,51 @@
+T0	InjuryOrPoisoning 374 392	optic nerve injury
+T1	BodyPartOrganOrOrganComponent 526 538	optic nerves
+T2	GeneOrGenome 943 949	GPR1 7
+T3	InjuryOrPoisoning 1167 1177	CNS injury
+T4	BiologicFunction 204 221	axon regeneration
+T5	BodyPartOrganOrOrganComponent 374 385	optic nerve
+T6	CellComponent 415 420	axons
+T7	CellComponent 1008 1013	axons
+T8	Cell 671 687	oligodendrocytes
+T9	Cell 573 577	OPCs
+T10	Cell 794 797	OPC
+T11	Cell 540 571	oligodendrocyte precursor cells
+T12	CellFunction 623 636	differentiate
+T13	DiseaseOrSyndrome 742 760	multiple sclerosis
+T14	CellFunction 814 823	signaling
+T15	TemporalConcept 587 596	transient
+T16	CellFunction 890 909	OPC differentiation
+T17	CellFunction 1060 1079	OPC differentiation
+T18	CellFunction 597 610	proliferation
+T19	TemporalConcept 642 648	mature
+T20	CellComponent 354 358	axon
+T21	GeneOrGenome 808 813	GPR17
+T22	AminoAcidPeptideOrProtein 808 813	GPR17
+T23	BiologicallyActiveSubstance 808 813	GPR17
+T24	CellFunction 0 11	Myelination
+T25	BodyPartOrganOrOrganComponent 229 251	central nervous system
+T26	ResearchActivity 493 498	study
+T27	BodyPartOrganOrOrganComponent 253 256	CNS
+T28	BodyPartOrganOrOrganComponent 1167 1170	CNS
+T29	Eukaryote 724 729	human
+T30	Cell 852 861	microglia
+T31	Cell 954 963	microglia
+T32	ResearchActivity 317 327	strategies
+T33	BiologicFunction 317 327	strategies
+T34	TemporalConcept 730 741	progressive
+T35	HealthCareActivity 68 81	communication
+T36	CellFunction 68 81	communication
+T37	InjuryOrPoisoning 186 192	injury
+T38	CellFunction 168 179	myelination
+T39	CellFunction 649 660	myelination
+T40	CellFunction 981 992	myelination
+T41	CellFunction 1141 1160	de novo myelination
+T42	CellFunction 294 312	molecular pathways
+T43	TemporalConcept 880 886	stages
+T44	BodyPartOrganOrOrganComponent 112 126	nervous system
+T45	CellFunction 30 47	axonal conduction
+T46	BiologicFunction 354 367	axon regrowth
+T47	InjuryOrPoisoning 518 525	injured
+T48	CellFunction 838 848	activation
+T49	BiologicallyActiveSubstance 943 949	GPR1 7
+T50	AminoAcidPeptideOrProtein 943 949	GPR1 7

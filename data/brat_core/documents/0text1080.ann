@@ -1,0 +1,82 @@
+T0	CellOrMolecularDysfunction 324 335	cell damage
+T1	ResearchActivity 939 958	Functional analysis
+T2	CellFunction 988 1007	metal ion transport
+T3	CellFunction 1009 1026	calcium signaling
+T4	NucleicAcidNucleosideOrNucleotide 1144 1154	DEcircRNAs
+T5	CellFunction 1252 1264	gene modules
+T6	AminoAcidPeptideOrProtein 1402 1410	cytokine
+T7	BiologicallyActiveSubstance 1402 1410	cytokine
+T8	CellFunction 1441 1471	induction of calcium signaling
+T9	BodyPartOrganOrOrganComponent 550 564	frontal cortex
+T10	ResearchActivity 222 229	Studies
+T11	CellFunction 1423 1435	phagocytosis
+T12	CellFunction 1454 1471	calcium signaling
+T13	PopulationGroup 624 630	donors
+T14	NucleicAcidNucleosideOrNucleotide 795 815	long non-coding RNAs
+T15	BiologicallyActiveSubstance 795 815	long non-coding RNAs
+T16	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T17	CellComponent 96 99	EVs
+T18	CellComponent 246 249	EVs
+T19	CellComponent 523 526	EVs
+T20	CellComponent 676 679	EVs
+T21	CellComponent 913 916	EVs
+T22	CellComponent 934 937	EVs
+T23	CellComponent 1353 1356	EVs
+T24	CellComponent 1385 1388	EVs
+T25	DiseaseOrSyndrome 21 23	AD
+T26	DiseaseOrSyndrome 255 257	AD
+T27	DiseaseOrSyndrome 408 410	AD
+T28	DiseaseOrSyndrome 600 602	AD
+T29	DiseaseOrSyndrome 910 912	AD
+T30	DiseaseOrSyndrome 1317 1319	AD
+T31	DiseaseOrSyndrome 1382 1384	AD
+T32	DiseaseOrSyndrome 1624 1626	AD
+T33	CellComponent 385 387	EV
+T34	Cell 317 323	neuron
+T35	ResearchActivity 700 708	analysis
+T36	ResearchActivity 713 758	weighted gene co- expression network analysis
+T37	ResearchActivity 1490 1495	study
+T38	Eukaryote 258 263	human
+T39	PopulationGroup 584 586	NC
+T40	PopulationGroup 931 933	NC
+T41	PopulationGroup 1350 1352	NC
+T42	CellComponent 72 94	Extracellular vesicles
+T43	Cell 1040 1048	neuronal
+T44	BodyPartOrganOrOrganComponent 264 276	brain tissue
+T45	BodyPartOrganOrOrganComponent 611 623	brain tissue
+T46	BodyPartOrganOrOrganComponent 1538 1550	brain tissue
+T47	InjuryOrPoisoning 285 290	toxic
+T48	NucleicAcidNucleosideOrNucleotide 817 824	lncRNAs
+T49	CellFunction 1411 1421	expression
+T50	BiologicallyActiveSubstance 817 824	lncRNAs
+T51	ResearchActivity 650 659	profiling
+T52	AminoAcidPeptideOrProtein 141 149	proteins
+T53	AminoAcidPeptideOrProtein 291 299	proteins
+T54	Cell 1475 1484	microglia
+T55	CellOrMolecularDysfunction 190 207	neurodegenerative
+T56	PathologicFunction 208 220	pathogenesis
+T57	PathologicFunction 1608 1620	pathogenesis
+T58	Chemical 129 135	lipids
+T59	Finding 568 574	normal
+T60	NucleicAcidNucleosideOrNucleotide 114 127	nucleic acids
+T61	CellFunction 692 699	pathway
+T62	Finding 877 901	differentially expressed
+T63	CellFunction 892 901	expressed
+T64	DiseaseOrSyndrome 44 70	neurodegenerative disorder
+T65	ResearchActivity 1518 1534	characterization
+T66	GeneOrGenome 1252 1256	gene
+T67	NucleicAcidNucleosideOrNucleotide 1156 1180	competing endogenous RNA
+T68	NucleicAcidNucleosideOrNucleotide 388 397	long RNAs
+T69	NucleicAcidNucleosideOrNucleotide 1579 1583	RNAs
+T70	NucleicAcidNucleosideOrNucleotide 850 858	circRNAs
+T71	NucleicAcidNucleosideOrNucleotide 835 848	circular RNAs
+T72	NucleicAcidNucleosideOrNucleotide 784 789	mRNAs
+T73	CellFunction 1189 1197	networks
+T74	BiologicallyActiveSubstance 1182 1187	ceRNA
+T75	NucleicAcidNucleosideOrNucleotide 1182 1187	ceRNA
+T76	BiologicallyActiveSubstance 784 789	mRNAs
+T77	BiologicallyActiveSubstance 850 858	circRNAs
+T78	ResearchActivity 760 765	WGCNA
+T79	BiologicallyActiveSubstance 835 848	circular RNAs
+T80	ResearchActivity 1232 1237	WGCNA
+T81	CellFunction 102 127	carriers of nucleic acids

@@ -1,0 +1,94 @@
+T0	BiomedicalOccupationOrDiscipline 65 70	cause
+T1	Finding 193 201	reducing
+T2	Finding 202 215	exacerbations
+T3	Finding 407 417	importance
+T4	BiomedicalOccupationOrDiscipline 617 622	cause
+T5	Finding 626 642	global morbidity
+T6	DiseaseOrSyndrome 732 749	mental impairment
+T7	SignOrSymptom 1028 1051	clinical manifestations
+T8	AminoAcidPeptideOrProtein 1143 1152	receptors
+T9	BiologicallyActiveSubstance 1143 1152	receptors
+T10	AminoAcidPeptideOrProtein 1154 1160	type-1
+T11	BiologicallyActiveSubstance 1154 1160	type-1
+T12	GeneOrGenome 1162 1166	CB1R
+T13	AminoAcidPeptideOrProtein 1172 1178	type-2
+T14	BiologicallyActiveSubstance 1172 1178	type-2
+T15	AminoAcidPeptideOrProtein 1186 1207	cannabinoid-receptors
+T16	BiologicallyActiveSubstance 1271 1289	endogenous ligands
+T17	Finding 1322 1329	degrade
+T18	Chemical 1330 1346	endocannabinoids
+T19	BiologicallyActiveSubstance 1330 1346	endocannabinoids
+T20	Chemical 1348 1352	ECBs
+T21	BiologicallyActiveSubstance 1348 1352	ECBs
+T22	AminoAcidPeptideOrProtein 1523 1544	cannabinoid receptors
+T23	BiologicallyActiveSubstance 1523 1544	cannabinoid receptors
+T24	AminoAcidPeptideOrProtein 1546 1550	CBRs
+T25	BiologicallyActiveSubstance 1546 1550	CBRs
+T26	AminoAcidPeptideOrProtein 1593 1597	CBRs
+T27	BiologicallyActiveSubstance 1593 1597	CBRs
+T28	TemporalConcept 774 780	Recent
+T29	TemporalConcept 1355 1361	Recent
+T30	DiseaseOrSyndrome 918 940	neurological disorders
+T31	Finding 74 83	morbidity
+T32	Finding 633 642	morbidity
+T33	HealthCareActivity 118 137	therapeutic options
+T34	BiomedicalOccupationOrDiscipline 1013 1023	physiology
+T35	BiologicFunction 1013 1023	physiology
+T36	PharmacologicSubstance 1556 1578	pharmacological agents
+T37	Chemical 221 236	endocannabinoid
+T38	Chemical 1098 1113	endocannabinoid
+T39	CellFunction 221 243	endocannabinoid system
+T40	CellFunction 1098 1120	endocannabinoid system
+T41	BiologicallyActiveSubstance 221 236	endocannabinoid
+T42	BiologicallyActiveSubstance 1098 1113	endocannabinoid
+T43	DiseaseOrSyndrome 1632 1651	Alzheimer's Disease
+T44	DiseaseOrSyndrome 1658 1677	Parkinson's Disease
+T45	DiseaseOrSyndrome 840 861	inflammatory diseases
+T46	BiologicallyActiveSubstance 1294 1301	enzymes
+T47	PathologicFunction 1419 1439	pathological aspects
+T48	BiologicallyActiveSubstance 1220 1260	transient receptor potential vanilloid 1
+T49	SignOrSymptom 180 188	symptoms
+T50	DiseaseOrSyndrome 1734 1736	MS
+T51	DiseaseOrSyndrome 552 570	multiple sclerosis
+T52	DiseaseOrSyndrome 1714 1732	multiple sclerosis
+T53	Finding 974 985	differences
+T54	DiseaseOrSyndrome 1684 1704	Huntington's Disease
+T55	PathologicFunction 263 278	pathophysiology
+T56	BiomedicalOccupationOrDiscipline 263 278	pathophysiology
+T57	DiseaseOrSyndrome 509 520	Alzheimer's
+T58	DiseaseOrSyndrome 15 41	Neurodegenerative diseases
+T59	DiseaseOrSyndrome 572 598	Neurodegenerative diseases
+T60	DiseaseOrSyndrome 535 547	Huntington's
+T61	Cell 765 772	neurons
+T62	Finding 606 616	increasing
+T63	CellOrMolecularDysfunction 757 772	loss of neurons
+T64	DiseaseOrSyndrome 1653 1655	AD
+T65	Finding 88 97	mortality
+T66	Finding 647 656	mortality
+T67	Finding 781 789	evidence
+T68	Finding 1383 1394	involvement
+T69	ResearchActivity 1362 1369	studies
+T70	TemporalConcept 336 342	recent
+T71	BodyPartOrganOrOrganComponent 676 698	central nervous system
+T72	BodyPartOrganOrOrganComponent 700 703	CNS
+T73	BodyPartOrganOrOrganComponent 869 872	CNS
+T74	BiologicFunction 390 399	attention
+T75	DiseaseOrSyndrome 1706 1708	HD
+T76	DiseaseOrSyndrome 1679 1681	PD
+T77	CellOrMolecularDysfunction 818 835	neurodegenerative
+T78	TemporalConcept 364 371	current
+T79	ResearchActivity 1490 1496	review
+T80	HealthCareActivity 1490 1496	review
+T81	DiseaseOrSyndrome 1449 1476	neurodegenerative disorders
+T82	DiseaseOrSyndrome 522 533	Parkinson's
+T83	ResearchActivity 343 358	scientific work
+T84	BiologicallyActiveSubstance 472 487	natural ligands
+T85	BiologicallyActiveSubstance 1172 1178;1186 1207	type-2 cannabinoid-receptors
+T86	BiologicallyActiveSubstance 1154 1160;1186 1207	type-1 cannabinoid-receptors
+T87	AminoAcidPeptideOrProtein 1180 1184	CB2R
+T88	BiologicallyActiveSubstance 1180 1184	CB2R
+T89	BiologicallyActiveSubstance 1162 1166	CB1R
+T90	AminoAcidPeptideOrProtein 1162 1166	CB1R
+T91	GeneOrGenome 1180 1184	CB2R
+T92	CellFunction 1402 1405	ECS
+T93	CellFunction 1601 1604	ECS

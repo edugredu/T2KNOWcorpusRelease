@@ -1,0 +1,118 @@
+T0	SignOrSymptom 99 112	manifestation
+T1	ResearchActivity 699 704	assay
+T2	BodyPartOrganOrOrganComponent 788 795	brain A
+T3	TemporalConcept 78 85	decades
+T4	Chemical 899 905	tracer
+T5	ResearchActivity 449 462	Investigation
+T6	ResearchActivity 1615 1669	area under the receiver operating characteristic curve
+T7	HealthCareActivity 876 887	PET imaging
+T8	BiologicFunction 615 629	concentrations
+T9	ResearchActivity 402 415	investigation
+T10	SignOrSymptom 141 158	clinical symptoms
+T11	BodyPartOrganOrOrganComponent 582 588	Plasma
+T12	BodyPartOrganOrOrganComponent 1216 1222	Plasma
+T13	BodyPartOrganOrOrganComponent 1699 1705	Plasma
+T14	ClinicalAttribute 485 501	surrogate marker
+T15	Finding 992 995	low
+T16	DiseaseOrSyndrome 116 135	Alzheimer's disease
+T17	DiseaseOrSyndrome 137 139	AD
+T18	DiseaseOrSyndrome 273 275	AD
+T19	DiseaseOrSyndrome 1476 1478	AD
+T20	DiseaseOrSyndrome 1819 1821	AD
+T21	DiseaseOrSyndrome 1938 1940	AD
+T22	ClinicalAttribute 236 245	biomarker
+T23	ClinicalAttribute 1947 1956	biomarker
+T24	BodyPartOrganOrOrganComponent 61 66	brain
+T25	BodyPartOrganOrOrganComponent 173 178	brain
+T26	BodyPartOrganOrOrganComponent 351 356	brain
+T27	BodyPartOrganOrOrganComponent 506 511	brain
+T28	BodyPartOrganOrOrganComponent 1764 1769	brain
+T29	ResearchActivity 1837 1843	method
+T30	HealthCareActivity 1837 1843	method
+T31	PopulationGroup 962 974	participants
+T32	PopulationGroup 1544 1556	participants
+T33	PopulationGroup 1590 1602	participants
+T34	PopulationGroup 560 571	individuals
+T35	PopulationGroup 738 749	individuals
+T36	BiologicFunction 1883 1894	development
+T37	CellFunction 1883 1894	development
+T38	AminoAcidPeptideOrProtein 21 28	amyloid
+T39	BiologicallyActiveSubstance 21 28	amyloid
+T40	HealthCareActivity 260 269	diagnosis
+T41	ResearchActivity 1728 1733	study
+T42	Finding 1911 1919	accuracy
+T43	BodyPartOrganOrOrganComponent 466 472	plasma
+T44	BodyPartOrganOrOrganComponent 924 930	plasma
+T45	BodyPartOrganOrOrganComponent 1352 1358	plasma
+T46	BodyPartOrganOrOrganComponent 1855 1861	plasma
+T47	AminoAcidPeptideOrProtein 21 33	amyloid-beta
+T48	BodyPartOrganOrOrganComponent 323 328	blood
+T49	BodyPartOrganOrOrganComponent 1941 1946	blood
+T50	ResearchActivity 1108 1115	Results
+T51	PopulationGroup 1317 1323	groups
+T52	OrganismAttribute 1493 1496	age
+T53	DiseaseOrSyndrome 1807 1821	preclinical AD
+T54	Finding 533 551	cognitively normal
+T55	Finding 711 729	cognitively normal
+T56	TemporalConcept 254 259	early
+T57	PopulationGroup 552 559	elderly
+T58	PopulationGroup 730 737	elderly
+T59	HealthCareActivity 206 209	PET
+T60	HealthCareActivity 313 316	PET
+T61	HealthCareActivity 774 777	PET
+T62	Finding 1516 1522	status
+T63	PopulationGroup 1179 1184	group
+T64	PopulationGroup 1209 1214	group
+T65	PopulationGroup 1398 1403	group
+T66	AminoAcidPeptideOrProtein 35 41	A beta
+T67	AminoAcidPeptideOrProtein 179 185	A beta
+T68	AminoAcidPeptideOrProtein 357 363	A beta
+T69	AminoAcidPeptideOrProtein 473 479	A beta
+T70	AminoAcidPeptideOrProtein 512 518	A beta
+T71	AminoAcidPeptideOrProtein 589 599	A beta(40)
+T72	AminoAcidPeptideOrProtein 604 614	A beta(42)
+T73	AminoAcidPeptideOrProtein 794 800	A beta
+T74	AminoAcidPeptideOrProtein 931 937	A beta
+T75	AminoAcidPeptideOrProtein 1015 1021	A beta
+T76	AminoAcidPeptideOrProtein 1084 1090	A beta
+T77	AminoAcidPeptideOrProtein 1171 1177	A beta
+T78	AminoAcidPeptideOrProtein 1201 1207	A beta
+T79	AminoAcidPeptideOrProtein 1223 1233	A beta(40)
+T80	AminoAcidPeptideOrProtein 1238 1248	A beta(42)
+T81	AminoAcidPeptideOrProtein 1297 1303	A beta
+T82	AminoAcidPeptideOrProtein 1309 1315	A beta
+T83	AminoAcidPeptideOrProtein 1359 1369	A beta(40)
+T84	AminoAcidPeptideOrProtein 1390 1396	A beta
+T85	AminoAcidPeptideOrProtein 1536 1542	A beta
+T86	AminoAcidPeptideOrProtein 1582 1588	A beta
+T87	AminoAcidPeptideOrProtein 1706 1712	A beta
+T88	AminoAcidPeptideOrProtein 1862 1868	A beta
+T89	ClinicalAttribute 1740 1759	potential biomarker
+T90	Finding 1479 1491	risk factors
+T91	GeneOrGenome 1501 1515	APOE epsilon 4
+T92	HealthCareActivity 254 269	early diagnosis
+T93	ClinicalAttribute 329 336	markers
+T94	ClinicalAttribute 419 436	surrogate markers
+T95	Finding 1060 1064	high
+T96	Chemical 906 922	F-18-Florbetaben
+T97	PathologicFunction 12 33;43 53	Aberrant amyloid-beta deposition
+T98	ClinicalAttribute 173 190	brain A beta load
+T99	PathologicFunction 357 374	A beta deposition
+T100	PathologicFunction 512 529	A beta deposition
+T101	BiologicallyActiveSubstance 589 599	A beta(40)
+T102	BiologicallyActiveSubstance 604 614	A beta(42)
+T103	ResearchActivity 669 690	Single Molecule Array
+T104	ResearchActivity 692 697	Simoa
+T105	PathologicFunction 794 811	A beta deposition
+T106	ResearchActivity 826 854	standard uptake value ratios
+T107	ResearchActivity 856 860	SUVR
+T108	ClinicalAttribute 996 1013	brain A beta load
+T109	ClinicalAttribute 1065 1082	brain A beta load
+T110	PathologicFunction 1770 1787	A beta deposition
+T111	ClinicalAttribute 1419 1454	plasma A beta(42)/A beta(40) ratios
+T112	BiologicallyActiveSubstance 1359 1369	A beta(40)
+T113	BiologicallyActiveSubstance 1223 1233	A beta(40)
+T114	BiologicallyActiveSubstance 1238 1248	A beta(42)
+T115	ClinicalAttribute 1117 1152	Plasma A beta(42)/A beta(40) ratios
+T116	ResearchActivity 1024 1028	SUVR
+T117	ResearchActivity 1093 1097	SUVR

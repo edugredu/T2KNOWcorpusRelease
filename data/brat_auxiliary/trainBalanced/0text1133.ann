@@ -1,0 +1,54 @@
+T0	ResearchActivity 453 471	exosome extraction
+T1	Cell 710 714;732 737	stem cells
+T2	Cell 720 737	endothelial cells
+T3	Cell 720 731	endothelial
+T4	HealthCareActivity 1078 1100	differential diagnosis
+T5	BodyPartOrganOrOrganComponent 861 878	biological fluids
+T6	CellComponent 200 208	membrane
+T7	Cell 703 708	glial
+T8	Cell 266 282	eukaryotic cells
+T9	CellComponent 215 237	extracellular vesicles
+T10	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T11	DiseaseOrSyndrome 21 23	AD
+T12	DiseaseOrSyndrome 332 334	AD
+T13	DiseaseOrSyndrome 799 801	AD
+T14	DiseaseOrSyndrome 1104 1106	AD
+T15	Cell 695 701	neuron
+T16	ResearchActivity 598 603	study
+T17	BiologicFunction 291 302	development
+T18	BiologicFunction 438 449	development
+T19	BiologicFunction 746 757	development
+T20	CellFunction 291 302	development
+T21	CellFunction 438 449	development
+T22	CellFunction 746 757	development
+T23	ClinicalAttribute 993 1003	biomarkers
+T24	Cell 567 572	cells
+T25	Cell 680 685	cells
+T26	Cell 892 897	cells
+T27	HealthCareActivity 304 313	diagnosis
+T28	HealthCareActivity 759 768	diagnosis
+T29	BodyPartOrganOrOrganComponent 577 588	body fluids
+T30	BodyPartOrganOrOrganComponent 664 675	body fluids
+T31	CellComponent 453 460	exosome
+T32	HealthCareActivity 319 328	treatment
+T33	HealthCareActivity 786 795	treatment
+T34	ResearchActivity 319 328	treatment
+T35	ResearchActivity 786 795	treatment
+T36	ResearchActivity 511 518	studies
+T37	Finding 907 920	less invasive
+T38	BiologicFunction 55 60	death
+T39	PathologicFunction 55 60	death
+T40	CellFunction 55 60	death
+T41	HealthCareActivity 770 780	monitoring
+T42	BiologicFunction 957 971	concentrations
+T43	OrganismAttribute 1021 1025	size
+T44	CellComponent 254 262	endosome
+T45	CellComponent 190 198	exosomes
+T46	CellComponent 535 543	exosomes
+T47	CellComponent 632 640	exosomes
+T48	CellComponent 847 855	exosomes
+T49	CellComponent 1007 1015	exosomes
+T50	CellComponent 1040 1048	exosomes
+T51	HealthCareActivity 123 138	early diagnosis
+T52	ResearchActivity 453 460;473 482	exosome isolation
+T53	ResearchActivity 453 460;488 504	exosome characterization

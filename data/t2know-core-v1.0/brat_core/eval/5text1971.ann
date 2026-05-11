@@ -1,0 +1,5 @@
+T0	SignOrSymptom 126 147	neurological symptoms
+T1	DiseaseOrSyndrome 47 77	progressive supranuclear palsy
+T2	PathologicFunction 19 42	multiple system atrophy
+T3	DiseaseOrSyndrome 3 13	conditions
+T4	AnatomicalAbnormality 79 101	brain stem compression

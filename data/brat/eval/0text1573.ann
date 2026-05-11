@@ -1,0 +1,190 @@
+T0	Finding 0 10	IMPORTANCE
+T1	GeneOrGenome 160 166	allele
+T2	GeneOrGenome 342 348	allele
+T3	BiologicFunction 421 428	SETTING
+T4	DiseaseOrSyndrome 750 760	trisomy 21
+T5	CellOrMolecularDysfunction 750 760	trisomy 21
+T6	Chemical 1184 1222	fluorine 18-labeled-fluorodeoxyglucose
+T7	BiologicFunction 2603 2613	metabolism
+T8	CellFunction 2603 2613	metabolism
+T9	BodyPartOrganOrOrganComponent 2633 2661	parieto-occipital structures
+T10	GeneOrGenome 2713 2719	allele
+T11	GeneOrGenome 2790 2796	allele
+T12	BiologicFunction 58 63	death
+T13	PathologicFunction 58 63	death
+T14	CellFunction 58 63	death
+T15	OrganismAttribute 1856 1860	male
+T16	OrganismAttribute 1885 1889	male
+T17	TemporalConcept 3008 3014	future
+T18	ResearchActivity 245 252	in vivo
+T19	ResearchActivity 1756 1762	median
+T20	Finding 2184 2201	group differences
+T21	Finding 1513 1524	differences
+T22	Finding 1704 1715	differences
+T23	Finding 2190 2201	differences
+T24	Finding 2500 2511	differences
+T25	OrganismAttribute 1263 1266	Age
+T26	PopulationGroup 809 817	carriers
+T27	PopulationGroup 1327 1335	carriers
+T28	PopulationGroup 1658 1666	carriers
+T29	PopulationGroup 1861 1869	carriers
+T30	PopulationGroup 1934 1942	carriers
+T31	PopulationGroup 2287 2295	carriers
+T32	PopulationGroup 2720 2728	carriers
+T33	TemporalConcept 1803 1808	years
+T34	TemporalConcept 1829 1834	years
+T35	TemporalConcept 2040 2045	years
+T36	TemporalConcept 2060 2065	years
+T37	TemporalConcept 2373 2378	years
+T38	ClinicalAttribute 253 263	biomarkers
+T39	ClinicalAttribute 377 387	biomarkers
+T40	ClinicalAttribute 1434 1444	biomarkers
+T41	ClinicalAttribute 2530 2540	biomarkers
+T42	BodyPartOrganOrOrganComponent 1132 1138	plasma
+T43	BodyPartOrganOrOrganComponent 2417 2423	plasma
+T44	BodyPartOrganOrOrganComponent 1106 1109	CSF
+T45	BodyPartOrganOrOrganComponent 2544 2547	CSF
+T46	BiologicallyActiveSubstance 1077 1080	NfL
+T47	BiologicallyActiveSubstance 1125 1128	NfL
+T48	BiologicallyActiveSubstance 2526 2529	NfL
+T49	AminoAcidPeptideOrProtein 1077 1080	NfL
+T50	AminoAcidPeptideOrProtein 1125 1128	NfL
+T51	AminoAcidPeptideOrProtein 2526 2529	NfL
+T52	TemporalConcept 203 208	onset
+T53	AminoAcidPeptideOrProtein 1050 1075	neurofilament light chain
+T54	BiologicallyActiveSubstance 1050 1075	neurofilament light chain
+T55	PopulationGroup 464 470	cohort
+T56	TemporalConcept 1270 1283	symptom onset
+T57	AminoAcidPeptideOrProtein 1140 1147	amyloid
+T58	AminoAcidPeptideOrProtein 2401 2408	amyloid
+T59	BiologicallyActiveSubstance 1140 1147	amyloid
+T60	BiologicallyActiveSubstance 2401 2408	amyloid
+T61	SignOrSymptom 1270 1277	symptom
+T62	ResearchActivity 683 694	measurement
+T63	HealthCareActivity 683 694	measurement
+T64	OrganismAttribute 196 199	age
+T65	OrganismAttribute 1450 1453	age
+T66	OrganismAttribute 1751 1754	age
+T67	OrganismAttribute 2009 2012	age
+T68	OrganismAttribute 2024 2027	age
+T69	OrganismAttribute 2233 2236	age
+T70	OrganismAttribute 2366 2369	age
+T71	SignOrSymptom 1987 1995	symptoms
+T72	ResearchActivity 113 120	studies
+T73	DiseaseOrSyndrome 30 32	AD
+T74	DiseaseOrSyndrome 391 393	AD
+T75	DiseaseOrSyndrome 670 672	AD
+T76	DiseaseOrSyndrome 1984 1986	AD
+T77	DiseaseOrSyndrome 2859 2861	AD
+T78	DiseaseOrSyndrome 2956 2958	AD
+T79	ClinicalAttribute 673 682	biomarker
+T80	ClinicalAttribute 963 972	biomarker
+T81	ClinicalAttribute 2205 2214	biomarker
+T82	ClinicalAttribute 2838 2847	biomarker
+T83	DiseaseOrSyndrome 212 220	dementia
+T84	PopulationGroup 946 958	participants
+T85	PopulationGroup 397 403	adults
+T86	PopulationGroup 487 493	adults
+T87	PopulationGroup 1582 1588	adults
+T88	PopulationGroup 762 774	Participants
+T89	PopulationGroup 861 873	Participants
+T90	ResearchActivity 1387 1393	models
+T91	AminoAcidPeptideOrProtein 145 159	APOE epsilon 4
+T92	AminoAcidPeptideOrProtein 327 341	APOE epsilon 4
+T93	AminoAcidPeptideOrProtein 787 801	APOE epsilon 4
+T94	AminoAcidPeptideOrProtein 1305 1319	APOE epsilon 4
+T95	AminoAcidPeptideOrProtein 1636 1650	APOE epsilon 4
+T96	AminoAcidPeptideOrProtein 1912 1926	APOE epsilon 4
+T97	AminoAcidPeptideOrProtein 2698 2712	APOE epsilon 4
+T98	AminoAcidPeptideOrProtein 2775 2789	APOE epsilon 4
+T99	DiseaseOrSyndrome 11 28	Alzheimer disease
+T100	ResearchActivity 471 476	study
+T101	ResearchActivity 1613 1618	study
+T102	ResearchActivity 2764 2769	study
+T103	HealthCareActivity 1254 1261	imaging
+T104	BodyPartOrganOrOrganComponent 1085 1104	cerebrospinal fluid
+T105	PopulationGroup 67 78	individuals
+T106	PopulationGroup 599 610	individuals
+T107	PopulationGroup 698 709	individuals
+T108	ResearchActivity 237 241	data
+T109	HealthCareActivity 1178 1181	PET
+T110	HealthCareActivity 1223 1226	PET
+T111	HealthCareActivity 2409 2412	PET
+T112	AminoAcidPeptideOrProtein 1013 1035	phosphorylated tau 181
+T113	BiologicallyActiveSubstance 1013 1035	phosphorylated tau 181
+T114	DiseaseOrSyndrome 2095 2112	cognitive decline
+T115	PopulationGroup 1364 1369	group
+T116	PopulationGroup 2184 2189	group
+T117	OrganismAttribute 1848 1851	sex
+T118	AminoAcidPeptideOrProtein 145 149	APOE
+T119	AminoAcidPeptideOrProtein 327 331	APOE
+T120	AminoAcidPeptideOrProtein 634 638	APOE
+T121	AminoAcidPeptideOrProtein 1305 1309	APOE
+T122	AminoAcidPeptideOrProtein 1636 1640	APOE
+T123	AminoAcidPeptideOrProtein 1912 1916	APOE
+T124	AminoAcidPeptideOrProtein 2698 2702	APOE
+T125	AminoAcidPeptideOrProtein 2775 2779	APOE
+T126	AminoAcidPeptideOrProtein 2929 2933	APOE
+T127	AminoAcidPeptideOrProtein 2990 2994	APOE
+T128	BiologicallyActiveSubstance 145 149	APOE
+T129	BiologicallyActiveSubstance 327 331	APOE
+T130	BiologicallyActiveSubstance 634 638	APOE
+T131	BiologicallyActiveSubstance 1305 1309	APOE
+T132	BiologicallyActiveSubstance 1636 1640	APOE
+T133	BiologicallyActiveSubstance 1912 1916	APOE
+T134	BiologicallyActiveSubstance 2698 2702	APOE
+T135	BiologicallyActiveSubstance 2775 2779	APOE
+T136	BiologicallyActiveSubstance 2929 2933	APOE
+T137	BiologicallyActiveSubstance 2990 2994	APOE
+T138	OrganismAttribute 2995 3003	genotype
+T139	HealthCareActivity 903 932	neuropsychological assessment
+T140	DiseaseOrSyndrome 84 97	Down syndrome
+T141	DiseaseOrSyndrome 99 101	DS
+T142	DiseaseOrSyndrome 224 226	DS
+T143	DiseaseOrSyndrome 409 411	DS
+T144	DiseaseOrSyndrome 499 501	DS
+T145	DiseaseOrSyndrome 1594 1596	DS
+T146	DiseaseOrSyndrome 2865 2867	DS
+T147	DiseaseOrSyndrome 3034 3036	DS
+T148	ResearchActivity 3015 3030	clinical trials
+T149	PopulationGroup 1730 1736	groups
+T150	BodyPartOrganOrOrganComponent 1528 1539	gray matter
+T151	BodyPartOrganOrOrganComponent 2617 2628	subcortical
+T152	AminoAcidPeptideOrProtein 2548 2557	total tau
+T153	BiologicallyActiveSubstance 2548 2557	total tau
+T154	AminoAcidPeptideOrProtein 987 998	A beta 1-42
+T155	AminoAcidPeptideOrProtein 1000 1011	A beta 1-40
+T156	AminoAcidPeptideOrProtein 2342 2353	A beta 1-40
+T157	BiologicallyActiveSubstance 987 998	A beta 1-42
+T158	BiologicallyActiveSubstance 1000 1011	A beta 1-40
+T159	BiologicallyActiveSubstance 2342 2353	A beta 1-40
+T160	HealthCareActivity 1148 1176	positron emission tomography
+T161	HealthCareActivity 1235 1261	magnetic resonance imaging
+T162	ClinicalAttribute 2477 2495	hippocampal volume
+T163	BodyPartOrganOrOrganComponent 2453 2461	cortical
+T164	TemporalConcept 2087 2094	earlier
+T165	TemporalConcept 2380 2387	earlier
+T166	TemporalConcept 2437 2444	earlier
+T167	TemporalConcept 2817 2824	earlier
+T168	TemporalConcept 104 112	Previous
+T169	ResearchActivity 1465 1473	analyses
+T170	ResearchActivity 2571 2589	Voxelwise analyses
+T171	HealthCareActivity 973 985	measurements
+T172	BiologicallyActiveSubstance 1037 1044	pTau181
+T173	AminoAcidPeptideOrProtein 1037 1044	pTau181
+T174	BiologicallyActiveSubstance 1112 1119	pTau181
+T175	AminoAcidPeptideOrProtein 1112 1119	pTau181
+T176	PopulationGroup 821 832	noncarriers
+T177	PopulationGroup 1957 1968	noncarriers
+T178	ClinicalAttribute 2417 2431	plasma pTau181
+T179	PathologicFunction 2445 2472	loss of cortical metabolism
+T180	AminoAcidPeptideOrProtein 2562 2569	pTau181
+T181	BiologicallyActiveSubstance 2562 2569	pTau181
+T182	ClinicalAttribute 2672 2694	medial temporal volume
+T183	TemporalConcept 2001 2008	younger
+T184	PopulationGroup 1890 1901	noncarriers
+T185	GeneOrGenome 1320 1326	allele
+T186	PopulationGroup 1340 1351	noncarriers
+T187	ResearchActivity 2132 2160	scatterplot smoothing curves
+T188	ClinicalAttribute 2544 2557	CSF total tau
+T189	ClinicalAttribute 2323 2338	CSF A beta 1-42

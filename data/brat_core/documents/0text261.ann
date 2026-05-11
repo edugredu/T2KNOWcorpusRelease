@@ -1,0 +1,24 @@
+T0	DiseaseOrSyndrome 59 85	neurodegenerative disorder
+T1	GeneOrGenome 126 141	huntingtin gene
+T2	AminoAcidPeptideOrProtein 180 190	huntingtin
+T3	GeneOrGenome 180 190	huntingtin
+T4	AminoAcidPeptideOrProtein 220 233	polyglutamine
+T5	AminoAcidPeptideOrProtein 409 430	huntingtin aggregates
+T6	CellFunction 39 57	autosomal dominant
+T7	BodyPartOrganOrOrganComponent 735 740	brain
+T8	MolecularSequence 108 111	CAG
+T9	DiseaseOrSyndrome 0 20	Huntington's disease
+T10	DiseaseOrSyndrome 347 367	Huntington's disease
+T11	ResearchActivity 517 523	review
+T12	HealthCareActivity 517 523	review
+T13	CellOrMolecularDysfunction 99 118	expanded CAG repeat
+T14	CellOrMolecularDysfunction 204 241	abnormally long polyglutamine stretch
+T15	CellOrMolecularDysfunction 290 315	Aggregation of huntingtin
+T16	CellOrMolecularDysfunction 409 430	huntingtin aggregates
+T17	ResearchActivity 503 507	data
+T18	AminoAcidPeptideOrProtein 561 595	glutamine-based functional amyloid
+T19	AminoAcidPeptideOrProtein 561 570	glutamine
+T20	CellOrMolecularDysfunction 708 727	huntingtin deposits
+T21	Eukaryote 609 619	Drosophila
+T22	BodyPartOrganOrOrganComponent 619 624	brain
+T23	AminoAcidPeptideOrProtein 708 727	huntingtin deposits

@@ -1,0 +1,66 @@
+T0	InjuryOrPoisoning 145 158	tissue damage
+T1	Finding 263 267	foci
+T2	Finding 389 401	insufficient
+T3	AminoAcidPeptideOrProtein 403 410	Ephrins
+T4	AminoAcidPeptideOrProtein 606 613	ephrins
+T5	AminoAcidPeptideOrProtein 760 769	ephrin-A2
+T6	Cell 798 804	T cell
+T7	Finding 836 850	overexpression
+T8	AminoAcidPeptideOrProtein 854 861	ephrins
+T9	AminoAcidPeptideOrProtein 969 976	ephrins
+T10	Cell 1160 1167	T cells
+T11	AminoAcidPeptideOrProtein 1304 1311	ephrins
+T12	Cell 617 629	immune cells
+T13	Cell 865 877	immune cells
+T14	Cell 980 992	immune cells
+T15	CellFunction 920 945	forward signaling pathway
+T16	PopulationGroup 701 717	healthy controls
+T17	BodyPartOrganOrOrganComponent 145 151	tissue
+T18	Cell 1077 1081	OPCs
+T19	Cell 1251 1255	OPCs
+T20	Cell 339 354	oligodendrocyte
+T21	Cell 531 546	oligodendrocyte
+T22	Cell 1044 1075	oligodendrocyte precursor cells
+T23	BodyPartOrganOrOrganComponent 286 308	central nervous system
+T24	CellFunction 372 385	remyelination
+T25	PatientOrDisabledGroup 636 644	patients
+T26	PatientOrDisabledGroup 881 889	patients
+T27	PatientOrDisabledGroup 1171 1179	patients
+T28	DiseaseOrSyndrome 206 208	MS
+T29	DiseaseOrSyndrome 650 677	relapsing-remitting (RR) MS
+T30	DiseaseOrSyndrome 895 900	RR-MS
+T31	DiseaseOrSyndrome 1185 1190	RR-MS
+T32	PathologicFunction 249 262	demyelination
+T33	DiseaseOrSyndrome 186 204	Multiple sclerosis
+T34	BiologicFunction 324 330	repair
+T35	HealthCareActivity 324 330	repair
+T36	CellFunction 449 474	tyrosine kinase signaling
+T37	CellFunction 1283 1300	forward signaling
+T38	AminoAcidPeptideOrProtein 475 483	proteins
+T39	BodyPartOrganOrOrganComponent 73 78	brain
+T40	CellFunction 1025 1040	differentiation
+T41	CellFunction 1223 1238	differentiation
+T42	BiologicFunction 355 367	regeneration
+T43	BiologicFunction 547 559	regeneration
+T44	BiologicallyActiveSubstance 510 520	inhibitory
+T45	PathologicFunction 18 39	inflammatory response
+T46	ResearchActivity 569 574	study
+T47	ResearchActivity 1097 1102	study
+T48	HealthCareActivity 355 367	regeneration
+T49	HealthCareActivity 547 559	regeneration
+T50	ResearchActivity 1083 1091	in vitro
+T51	CellComponent 415 423	membrane
+T52	Finding 510 527	inhibitory effect
+T53	Finding 1000 1017	inhibitory effect
+T54	Finding 1198 1215	inhibitory effect
+T55	BiologicFunction 43 65	regenerative processes
+T56	PathologicFunction 165 184	autoimmune response
+T57	DiseaseOrSyndrome 216 239	immune-mediated disease
+T58	BiologicallyActiveSubstance 403 410	Ephrins
+T59	BiologicallyActiveSubstance 606 613	ephrins
+T60	BiologicallyActiveSubstance 760 769	ephrin-A2
+T61	BiologicallyActiveSubstance 854 861	ephrins
+T62	BiologicallyActiveSubstance 969 976	ephrins
+T63	CellFunction 1141 1156	immune activity
+T64	CellFunction 1268 1278	expression
+T65	BiologicallyActiveSubstance 1304 1311	ephrins

@@ -1,0 +1,7 @@
+T0	Cell 46 51	cells
+T1	TemporalConcept 22 31	transient
+T2	PopulationGroup 32 42	population
+T3	TemporalConcept 105 110	early
+T4	EmbryonicStructure 4 16	neural crest
+T5	EmbryonicStructure 85 97	neural plate
+T6	BiologicFunction 111 133	vertebrate development

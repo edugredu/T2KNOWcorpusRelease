@@ -1,0 +1,63 @@
+T0	DiseaseOrSyndrome 103 148	cognitive, motor, and psychiatric dysfunction
+T1	PopulationGroup 270 282	participants
+T2	HealthCareRelatedOrganization 351 361	University
+T3	PopulationGroup 380 392	Participants
+T4	HealthCareActivity 413 439	neuropsychological battery
+T5	Finding 668 692	significant correlations
+T6	BiologicFunction 765 786	cognitive functioning
+T7	ResearchActivity 792 832	self and caregiver-reported FrSBe scores
+T8	Finding 961 974	Caregiver age
+T9	BiologicFunction 976 997	cognitive functioning
+T10	Finding 1062 1072	predictors
+T11	Finding 1174 1199	significant relationships
+T12	BiologicFunction 1226 1247	cognitive functioning
+T13	BiologicFunction 1253 1281	frontally mediated behaviors
+T14	HealthCareActivity 1339 1352	interventions
+T15	BiomedicalOccupationOrDiscipline 1379 1388	education
+T16	HealthCareActivity 1474 1483	Caregiver
+T17	Finding 1554 1570	increased burden
+T18	Finding 1592 1608	symptom severity
+T19	PopulationGroup 1641 1651	population
+T20	BiologicFunction 231 247	caregiver burden
+T21	BiologicFunction 701 717	caregiver burden
+T22	BiologicFunction 936 952	caregiver burden
+T23	BiologicFunction 1076 1092	caregiver burden
+T24	BiologicFunction 1208 1224	caregiver burden
+T25	BiologicFunction 1802 1818	caregiver burden
+T26	HealthCareActivity 547 552	FrSBe
+T27	HealthCareActivity 627 646	FrSBe family-report
+T28	HealthCareActivity 592 618	Caregiving Appraisal Scale
+T29	ResearchActivity 1003 1033	caregiverreported FrSBe scores
+T30	OrganismAttribute 732 735	age
+T31	PopulationGroup 1520 1531	younger age
+T32	HealthCareActivity 722 731	caregiver
+T33	DiseaseOrSyndrome 1455 1472	cognitive decline
+T34	DiseaseOrSyndrome 1429 1450	executive dysfunction
+T35	DiseaseOrSyndrome 33 35	HD
+T36	DiseaseOrSyndrome 251 253	HD
+T37	DiseaseOrSyndrome 288 290	HD
+T38	DiseaseOrSyndrome 1660 1662	HD
+T39	DiseaseOrSyndrome 11 31	Huntington's disease
+T40	DiseaseOrSyndrome 1711 1737	neurodegenerative diseases
+T41	TemporalConcept 1694 1699	onset
+T42	ResearchActivity 880 896	regression model
+T43	OrganismAttribute 740 743	sex
+T44	ResearchActivity 170 175	study
+T45	ResearchActivity 338 343	study
+T46	HealthCareActivity 515 565	Frontal Systems Behavior Scale (FrSBe) self-report
+T47	HealthCareActivity 488 493	UHDRS
+T48	HealthCareActivity 745 750	UHDRS
+T49	DiseaseOrSyndrome 43 77	enetic neurodegenerative condition
+T50	ClinicalAttribute 197 220	disease characteristics
+T51	HealthCareActivity 307 317	caregivers
+T52	HealthCareActivity 445 505	Unified Huntington's Disease Rating Scale (UHDRS) motor exam
+T53	HealthCareActivity 567 577	Caregivers
+T54	ResearchActivity 745 763	UHDRS motor scores
+T55	ResearchActivity 1291 1303	motor scores
+T56	HealthCareActivity 1357 1367	caregivers
+T57	HealthCareActivity 1392 1402	caregivers
+T58	DiseaseOrSyndrome 1422 1428	apathy
+T59	PopulationGroup 1679 1690	younger age
+T60	HealthCareActivity 1759 1769	caregivers
+T61	Finding 1127 1148	no longer significant
+T62	ResearchActivity 936 959	caregiver burden scores

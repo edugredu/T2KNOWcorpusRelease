@@ -1,0 +1,44 @@
+T0	PopulationGroup 122 125	old
+T1	InjuryOrPoisoning 204 209	toxic
+T2	HealthCareActivity 436 452	drug repurposing
+T3	DiseaseOrSyndrome 463 468	words
+T4	Chemical 554 562	mounting
+T5	BiologicFunction 710 721	eliminating
+T6	Finding 821 828	improve
+T7	AnatomicalAbnormality 841 843	ND
+T8	BiologicFunction 725 735	inhibiting
+T9	DiseaseOrSyndrome 284 313	Amyotrophic lateral sclerosis
+T10	DiseaseOrSyndrome 318 336	Huntington disease
+T11	PharmacologicSubstance 480 485	drugs
+T12	PharmacologicSubstance 685 705	small-molecule drugs
+T13	PharmacologicSubstance 951 956	drugs
+T14	AminoAcidPeptideOrProtein 210 228	protein aggregates
+T15	CellFunction 797 817	molecular mechanisms
+T16	HealthCareActivity 404 424	therapeutic strategy
+T17	TemporalConcept 180 188	recently
+T18	HealthCareActivity 155 164	therapies
+T19	DiseaseOrSyndrome 80 88	dementia
+T20	PopulationGroup 92 98	people
+T21	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T22	HealthCareActivity 844 853	treatment
+T23	ResearchActivity 844 853	treatment
+T24	OrganismAttribute 43 46	age
+T25	BiologicFunction 563 572	attention
+T26	TemporalConcept 116 121	years
+T27	TemporalConcept 1021 1027	future
+T28	PharmacologicSubstance 436 440	drug
+T29	DiseaseOrSyndrome 28 31	NDs
+T30	DiseaseOrSyndrome 171 174	NDs
+T31	DiseaseOrSyndrome 611 614	NDs
+T32	DiseaseOrSyndrome 1010 1013	NDs
+T33	DiseaseOrSyndrome 263 282	Parkinson's disease
+T34	TemporalConcept 833 840	current
+T35	DiseaseOrSyndrome 242 261	Alzheimer's disease
+T36	ResearchActivity 630 636	review
+T37	HealthCareActivity 630 636	review
+T38	CellOrMolecularDysfunction 358 382	toxic protein aggregates
+T39	CellOrMolecularDysfunction 736 760	toxic protein aggregates
+T40	CellOrMolecularDysfunction 986 1000	toxic proteins
+T41	AminoAcidPeptideOrProtein 986 1000	toxic proteins
+T42	BiologicallyActiveSubstance 986 1000	toxic proteins
+T43	AminoAcidPeptideOrProtein 358 382	toxic protein aggregates

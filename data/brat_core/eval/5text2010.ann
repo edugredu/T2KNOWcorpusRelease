@@ -1,0 +1,9 @@
+T0	ResearchActivity 100 119	large-scale studies
+T1	HealthCareActivity 11 21	challenges
+T2	DiseaseOrSyndrome 25 27	MS
+T3	ClinicalAttribute 68 77	biomarker
+T4	ClinicalAttribute 173 180	markers
+T5	ResearchActivity 37 45	research
+T6	Substance 28 36	biofluid
+T7	ResearchActivity 131 151	statistical analyses
+T8	Finding 53 64	variability

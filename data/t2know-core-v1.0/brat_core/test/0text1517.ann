@@ -1,0 +1,319 @@
+T0	ResearchActivity 540 545	assay
+T1	BodyPartOrganOrOrganComponent 979 984	Fluid
+T2	Substance 979 984	Fluid
+T3	ResearchActivity 1222 1227	assay
+T4	HealthCareActivity 1421 1432	assessments
+T5	HealthCareActivity 2190 2198	modality
+T6	BiologicFunction 3251 3269	executive function
+T7	DiseaseOrSyndrome 3251 3269	executive function
+T8	BiologicFunction 3292 3311	cognitive abilities
+T9	PopulationGroup 3572 3579	Persons
+T10	HealthCareActivity 3714 3723	Elevation
+T11	Finding 3714 3723	Elevation
+T12	CellFunction 3714 3723	Elevation
+T13	BodyPartOrganOrOrganComponent 793 812	Cerebrospinal fluid
+T14	PopulationGroup 701 708	persons
+T15	CellFunction 1503 1517	phosphorylated
+T16	TemporalConcept 3791 3802	progression
+T17	ResearchActivity 44 87	Alzheimer's Disease Neuroimaging Initiative
+T18	ResearchActivity 400 443	Alzheimer's Disease Neuroimaging Initiative
+T19	ResearchActivity 1348 1391	Alzheimer's Disease Neuroimaging Initiative
+T20	ResearchActivity 2319 2323	ROIs
+T21	ResearchActivity 2876 2880	ROIs
+T22	ResearchActivity 2870 2880	Braak ROIs
+T23	HealthCareRelatedOrganization 44 87	Alzheimer's Disease Neuroimaging Initiative
+T24	HealthCareRelatedOrganization 400 443	Alzheimer's Disease Neuroimaging Initiative
+T25	HealthCareRelatedOrganization 1348 1391	Alzheimer's Disease Neuroimaging Initiative
+T26	Chemical 889 901	flortaucipir
+T27	Chemical 1551 1563	flortaucipir
+T28	Chemical 1763 1775	flortaucipir
+T29	Chemical 1897 1909	flortaucipir
+T30	Chemical 2267 2279	flortaucipir
+T31	Chemical 2412 2424	flortaucipir
+T32	Chemical 2836 2848	flortaucipir
+T33	Chemical 3327 3339	flortaucipir
+T34	Chemical 3415 3427	flortaucipir
+T35	Chemical 3756 3768	flortaucipir
+T36	Finding 3633 3661	reduced cognitive capacities
+T37	ClinicalAttribute 718 733	PET abnormality
+T38	ClinicalAttribute 3428 3443	PET abnormality
+T39	ClinicalAttribute 3602 3617	PET abnormality
+T40	Finding 490 498	abnormal
+T41	Finding 1999 2021	cognitively unimpaired
+T42	HealthCareActivity 989 996	imaging
+T43	TemporalConcept 1105 1111	stages
+T44	CellFunction 2284 2291	binding
+T45	CellFunction 2853 2860	binding
+T46	ResearchActivity 569 579	positivity
+T47	ResearchActivity 906 916	positivity
+T48	ResearchActivity 3773 3783	positivity
+T49	TemporalConcept 2344 2348	year
+T50	TemporalConcept 2800 2804	year
+T51	TemporalConcept 3199 3203	year
+T52	PopulationGroup 607 618	Individuals
+T53	ClinicalAttribute 499 506	CSF tau
+T54	ClinicalAttribute 675 682	CSF tau
+T55	HealthCareRelatedOrganization 89 93	ADNI
+T56	HealthCareRelatedOrganization 445 449	ADNI
+T57	HealthCareRelatedOrganization 1393 1397	ADNI
+T58	HealthCareRelatedOrganization 1731 1735	ADNI
+T59	ResearchActivity 89 93	ADNI
+T60	ResearchActivity 445 449	ADNI
+T61	ResearchActivity 1393 1397	ADNI
+T62	ResearchActivity 1731 1735	ADNI
+T63	ResearchActivity 1573 1592	regions of interest
+T64	BiologicallyActiveSubstance 2946 2949	Tau
+T65	AminoAcidPeptideOrProtein 2946 2949	Tau
+T66	DiseaseOrSyndrome 319 336	Alzheimer disease
+T67	DiseaseOrSyndrome 1011 1028	Alzheimer disease
+T68	TemporalConcept 845 852	earlier
+T69	TemporalConcept 1097 1104	earlier
+T70	Finding 652 659	history
+T71	AminoAcidPeptideOrProtein 1523 1528	P-tau
+T72	AminoAcidPeptideOrProtein 2362 2367	P-tau
+T73	AminoAcidPeptideOrProtein 2816 2821	P-tau
+T74	AminoAcidPeptideOrProtein 3219 3224	P-tau
+T75	AminoAcidPeptideOrProtein 3401 3406	P-tau
+T76	AminoAcidPeptideOrProtein 3731 3736	P-tau
+T77	BiologicallyActiveSubstance 1523 1528	P-tau
+T78	BiologicallyActiveSubstance 2362 2367	P-tau
+T79	BiologicallyActiveSubstance 2816 2821	P-tau
+T80	BiologicallyActiveSubstance 3219 3224	P-tau
+T81	BiologicallyActiveSubstance 3401 3406	P-tau
+T82	BiologicallyActiveSubstance 3731 3736	P-tau
+T83	AminoAcidPeptideOrProtein 109 112	tau
+T84	AminoAcidPeptideOrProtein 345 348	tau
+T85	AminoAcidPeptideOrProtein 503 506	tau
+T86	AminoAcidPeptideOrProtein 515 518	tau
+T87	AminoAcidPeptideOrProtein 561 564	tau
+T88	AminoAcidPeptideOrProtein 633 636	tau
+T89	AminoAcidPeptideOrProtein 679 682	tau
+T90	AminoAcidPeptideOrProtein 714 717	tau
+T91	AminoAcidPeptideOrProtein 813 816	tau
+T92	AminoAcidPeptideOrProtein 1167 1170	tau
+T93	AminoAcidPeptideOrProtein 1436 1439	tau
+T94	AminoAcidPeptideOrProtein 1518 1521	tau
+T95	AminoAcidPeptideOrProtein 1525 1528	tau
+T96	AminoAcidPeptideOrProtein 1661 1664	tau
+T97	AminoAcidPeptideOrProtein 2131 2134	tau
+T98	AminoAcidPeptideOrProtein 2147 2150	tau
+T99	AminoAcidPeptideOrProtein 2364 2367	tau
+T100	AminoAcidPeptideOrProtein 2741 2744	tau
+T101	AminoAcidPeptideOrProtein 2818 2821	tau
+T102	AminoAcidPeptideOrProtein 3221 3224	tau
+T103	AminoAcidPeptideOrProtein 3403 3406	tau
+T104	AminoAcidPeptideOrProtein 3506 3509	tau
+T105	AminoAcidPeptideOrProtein 3590 3593	tau
+T106	AminoAcidPeptideOrProtein 3733 3736	tau
+T107	BodyPartOrganOrOrganComponent 230 233	CSF
+T108	BodyPartOrganOrOrganComponent 499 502	CSF
+T109	BodyPartOrganOrOrganComponent 536 539	CSF
+T110	BodyPartOrganOrOrganComponent 625 628	CSF
+T111	BodyPartOrganOrOrganComponent 675 678	CSF
+T112	BodyPartOrganOrOrganComponent 1217 1220	CSF
+T113	BodyPartOrganOrOrganComponent 1409 1412	CSF
+T114	BodyPartOrganOrOrganComponent 1499 1502	CSF
+T115	BodyPartOrganOrOrganComponent 1675 1678	CSF
+T116	BodyPartOrganOrOrganComponent 1686 1689	CSF
+T117	BodyPartOrganOrOrganComponent 1697 1700	CSF
+T118	BodyPartOrganOrOrganComponent 1712 1715	CSF
+T119	BodyPartOrganOrOrganComponent 1756 1759	CSF
+T120	BodyPartOrganOrOrganComponent 1914 1917	CSF
+T121	BodyPartOrganOrOrganComponent 2358 2361	CSF
+T122	BodyPartOrganOrOrganComponent 2583 2586	CSF
+T123	BodyPartOrganOrOrganComponent 2608 2611	CSF
+T124	BodyPartOrganOrOrganComponent 2635 2638	CSF
+T125	BodyPartOrganOrOrganComponent 2665 2668	CSF
+T126	BodyPartOrganOrOrganComponent 2689 2692	CSF
+T127	BodyPartOrganOrOrganComponent 2730 2733	CSF
+T128	BodyPartOrganOrOrganComponent 2761 2764	CSF
+T129	BodyPartOrganOrOrganComponent 2922 2925	CSF
+T130	BodyPartOrganOrOrganComponent 3035 3038	CSF
+T131	BodyPartOrganOrOrganComponent 3135 3138	CSF
+T132	BodyPartOrganOrOrganComponent 3152 3155	CSF
+T133	BodyPartOrganOrOrganComponent 3215 3218	CSF
+T134	BodyPartOrganOrOrganComponent 3397 3400	CSF
+T135	BodyPartOrganOrOrganComponent 3594 3597	CSF
+T136	BodyPartOrganOrOrganComponent 3727 3730	CSF
+T137	BiologicallyActiveSubstance 109 112	tau
+T138	BiologicallyActiveSubstance 345 348	tau
+T139	BiologicallyActiveSubstance 503 506	tau
+T140	BiologicallyActiveSubstance 515 518	tau
+T141	BiologicallyActiveSubstance 561 564	tau
+T142	BiologicallyActiveSubstance 633 636	tau
+T143	BiologicallyActiveSubstance 679 682	tau
+T144	BiologicallyActiveSubstance 714 717	tau
+T145	BiologicallyActiveSubstance 813 816	tau
+T146	BiologicallyActiveSubstance 1167 1170	tau
+T147	BiologicallyActiveSubstance 1436 1439	tau
+T148	BiologicallyActiveSubstance 1518 1521	tau
+T149	BiologicallyActiveSubstance 1525 1528	tau
+T150	BiologicallyActiveSubstance 1661 1664	tau
+T151	BiologicallyActiveSubstance 2131 2134	tau
+T152	BiologicallyActiveSubstance 2147 2150	tau
+T153	BiologicallyActiveSubstance 2364 2367	tau
+T154	BiologicallyActiveSubstance 2741 2744	tau
+T155	BiologicallyActiveSubstance 2818 2821	tau
+T156	BiologicallyActiveSubstance 3221 3224	tau
+T157	BiologicallyActiveSubstance 3403 3406	tau
+T158	BiologicallyActiveSubstance 3506 3509	tau
+T159	BiologicallyActiveSubstance 3590 3593	tau
+T160	BiologicallyActiveSubstance 3733 3736	tau
+T161	DiseaseOrSyndrome 860 862	AD
+T162	DiseaseOrSyndrome 1030 1032	AD
+T163	DiseaseOrSyndrome 2079 2081	AD
+T164	DiseaseOrSyndrome 3098 3100	AD
+T165	DiseaseOrSyndrome 3468 3470	AD
+T166	DiseaseOrSyndrome 3806 3808	AD
+T167	BodyPartOrganOrOrganComponent 138 157	cerebrospinal fluid
+T168	BodyPartOrganOrOrganComponent 209 228	cerebrospinal fluid
+T169	BodyPartOrganOrOrganComponent 1196 1215	cerebrospinal fluid
+T170	AminoAcidPeptideOrProtein 1503 1521	phosphorylated tau
+T171	BiologicallyActiveSubstance 1503 1521	phosphorylated tau
+T172	HealthCareActivity 2299 2310	Braak stage
+T173	PathologicFunction 345 358	tau pathology
+T174	PathologicFunction 1436 1449	tau pathology
+T175	ResearchActivity 95 99	data
+T176	PopulationGroup 473 485	participants
+T177	PopulationGroup 1328 1340	participants
+T178	PopulationGroup 1647 1659	participants
+T179	PopulationGroup 1736 1748	participants
+T180	PopulationGroup 2467 2479	participants
+T181	PopulationGroup 2565 2577	participants
+T182	PopulationGroup 2699 2711	participants
+T183	PopulationGroup 2771 2783	participants
+T184	PopulationGroup 2932 2944	participants
+T185	PopulationGroup 25 36	individuals
+T186	PopulationGroup 1150 1161	individuals
+T187	PopulationGroup 2959 2970	individuals
+T188	PopulationGroup 3045 3056	individuals
+T189	PopulationGroup 3162 3173	individuals
+T190	Substance 152 157	fluid
+T191	Substance 223 228	fluid
+T192	Substance 807 812	fluid
+T193	Substance 1210 1215	fluid
+T194	HealthCareActivity 1918 1925	testing
+T195	BiologicFunction 3471 3482	development
+T196	CellFunction 3471 3482	development
+T197	AminoAcidPeptideOrProtein 2238 2245	amyloid
+T198	AminoAcidPeptideOrProtein 3006 3013	amyloid
+T199	AminoAcidPeptideOrProtein 3062 3069	amyloid
+T200	BiologicallyActiveSubstance 2238 2245	amyloid
+T201	BiologicallyActiveSubstance 3006 3013	amyloid
+T202	BiologicallyActiveSubstance 3062 3069	amyloid
+T203	DiseaseOrSyndrome 2040 2060	cognitive impairment
+T204	DiseaseOrSyndrome 44 63	Alzheimer's Disease
+T205	DiseaseOrSyndrome 400 419	Alzheimer's Disease
+T206	DiseaseOrSyndrome 1348 1367	Alzheimer's Disease
+T207	DiseaseOrSyndrome 2082 2090	dementia
+T208	DiseaseOrSyndrome 3101 3109	dementia
+T209	ClinicalAttribute 997 1007	biomarkers
+T210	ClinicalAttribute 1075 1085	biomarkers
+T211	ResearchActivity 5 10	study
+T212	ResearchActivity 384 389	study
+T213	ResearchActivity 2461 2466	study
+T214	DiseaseOrSyndrome 2062 2065	MCI
+T215	DiseaseOrSyndrome 3091 3094	MCI
+T216	HealthCareActivity 1776 1786	assessment
+T217	HealthCareActivity 3344 3354	assessment
+T218	ResearchActivity 1776 1786	assessment
+T219	ResearchActivity 3344 3354	assessment
+T220	PathologicFunction 3791 3802	progression
+T221	TemporalConcept 3791 3802	progression
+T222	TemporalConcept 3319 3323	time
+T223	BiologicFunction 1275 1282	Setting
+T224	PopulationGroup 2490 2495	women
+T225	HealthCareActivity 2097 2105	Outcomes
+T226	TemporalConcept 931 937	before
+T227	ResearchActivity 2439 2446	Results
+T228	DiseaseOrSyndrome 949 966	cognitive decline
+T229	DiseaseOrSyndrome 2385 2402	cognitive decline
+T230	DiseaseOrSyndrome 3695 3712	cognitive decline
+T231	DiseaseOrSyndrome 3834 3851	cognitive decline
+T232	PopulationGroup 2160 2166	groups
+T233	OrganismAttribute 2521 2524	age
+T234	PopulationGroup 1288 1300	Participants
+T235	TemporalConcept 2542 2547	years
+T236	TemporalConcept 2864 2869	early
+T237	TemporalConcept 3500 3505	early
+T238	BiologicFunction 774 783	cognition
+T239	TemporalConcept 1946 1952	months
+T240	ResearchActivity 2517 2519	SD
+T241	PathologicFunction 3809 3821	pathogenesis
+T242	ResearchActivity 1970 1978	analysis
+T243	ResearchActivity 451 458	dataset
+T244	HealthCareActivity 269 272	PET
+T245	HealthCareActivity 550 553	PET
+T246	HealthCareActivity 565 568	PET
+T247	HealthCareActivity 718 721	PET
+T248	HealthCareActivity 902 905	PET
+T249	HealthCareActivity 1261 1264	PET
+T250	HealthCareActivity 1417 1420	PET
+T251	HealthCareActivity 1564 1567	PET
+T252	HealthCareActivity 1680 1683	PET
+T253	HealthCareActivity 1691 1694	PET
+T254	HealthCareActivity 1702 1705	PET
+T255	HealthCareActivity 1717 1720	PET
+T256	HealthCareActivity 2251 2254	PET
+T257	HealthCareActivity 2280 2283	PET
+T258	HealthCareActivity 2425 2428	PET
+T259	HealthCareActivity 2588 2591	PET
+T260	HealthCareActivity 2613 2616	PET
+T261	HealthCareActivity 2640 2643	PET
+T262	HealthCareActivity 2670 2673	PET
+T263	HealthCareActivity 2694 2697	PET
+T264	HealthCareActivity 2737 2740	PET
+T265	HealthCareActivity 2766 2769	PET
+T266	HealthCareActivity 2849 2852	PET
+T267	HealthCareActivity 2927 2930	PET
+T268	HealthCareActivity 3019 3022	PET
+T269	HealthCareActivity 3040 3043	PET
+T270	HealthCareActivity 3140 3143	PET
+T271	HealthCareActivity 3157 3160	PET
+T272	HealthCareActivity 3340 3343	PET
+T273	HealthCareActivity 3428 3431	PET
+T274	HealthCareActivity 3602 3605	PET
+T275	HealthCareActivity 3769 3772	PET
+T276	DiseaseOrSyndrome 2035 2060	mild cognitive impairment
+T277	Finding 3541 3570	loss in cognitive performance
+T278	Finding 1484 1494	thresholds
+T279	Finding 2745 2755	thresholds
+T280	Finding 1665 1671	status
+T281	PopulationGroup 3145 3150	group
+T282	Finding 2035 2039	mild
+T283	AminoAcidPeptideOrProtein 2238 2250	amyloid beta
+T284	AminoAcidPeptideOrProtein 3006 3018	amyloid beta
+T285	ResearchActivity 1451 1455	Data
+T286	Finding 2368 2380	accumulation
+T287	HealthCareActivity 167 195	positron emission tomography
+T288	HealthCareActivity 239 267	positron emission tomography
+T289	HealthCareActivity 1231 1259	positron emission tomography
+T290	PopulationGroup 377 383	cohort
+T291	BiologicFunction 2893 2899	memory
+T292	BiologicFunction 3240 3246	memory
+T293	ResearchActivity 2255 2261	burden
+T294	ResearchActivity 3023 3029	burden
+T295	TemporalConcept 2305 2310	stage
+T296	TemporalConcept 3459 3464	stage
+T297	ClinicalAttribute 2305 2310	stage
+T298	ClinicalAttribute 3459 3464	stage
+T299	Finding 113 124	abnormality
+T300	Finding 722 733	abnormality
+T301	Finding 817 828	abnormality
+T302	Finding 1171 1182	abnormality
+T303	Finding 3432 3443	abnormality
+T304	Finding 3510 3521	abnormality
+T305	Finding 3606 3617	abnormality
+T306	TemporalConcept 601 605	rare
+T307	BiologicFunction 1609 1615	uptake
+T308	CellFunction 1609 1615	uptake
+T309	ManufacturedObject 167 195	positron emission tomography
+T310	ManufacturedObject 239 267	positron emission tomography
+T311	ManufacturedObject 1231 1259	positron emission tomography
+T312	ClinicalAttribute 3397 3406	CSF P-tau
+T313	PathologicFunction 3468 3482	AD development
+T314	ClinicalAttribute 3727 3736	CSF P-tau
+T315	ClinicalAttribute 3215 3224	CSF P-tau
+T316	ClinicalAttribute 2358 2367	CSF P-tau
+T317	Finding 3229 3236	decline
+T318	DiseaseOrSyndrome 2893 2907	memory decline

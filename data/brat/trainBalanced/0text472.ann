@@ -1,0 +1,78 @@
+T0	DiseaseOrSyndrome 62 80	hereditary disease
+T1	MolecularSequence 102 109	domains
+T2	BiologicFunction 115 135	person's functioning
+T3	HealthCareActivity 388 399	disciplines
+T4	PopulationGroup 438 444	family
+T5	HealthCareActivity 490 521	multidisciplinary collaboration
+T6	BiologicFunction 785 790	voice
+T7	ResearchActivity 804 809	calls
+T8	PopulationGroup 872 878	family
+T9	HealthCareActivity 1045 1053	services
+T10	HealthCareRelatedOrganization 1062 1080	health care system
+T11	HealthCareActivity 1195 1206	disciplines
+T12	HealthCareActivity 1271 1284	psychologists
+T13	HealthCareActivity 1290 1304	social workers
+T14	HealthCareActivity 1335 1348	psychiatrists
+T15	HealthCareActivity 1363 1386	occupational therapists
+T16	BiologicFunction 1388 1394	speech
+T17	HealthCareActivity 1399 1418	language therapists
+T18	HealthCareActivity 1560 1591	multidisciplinary collaboration
+T19	TemporalConcept 1925 1929	Time
+T20	BiologicFunction 653 663	experience
+T21	BiologicFunction 678 688	experience
+T22	HealthCareActivity 1823 1831	reviewed
+T23	ResearchActivity 1823 1831	reviewed
+T24	TemporalConcept 285 292	To date
+T25	BiologicFunction 278 283	death
+T26	PathologicFunction 278 283	death
+T27	CellFunction 278 283	death
+T28	Finding 250 265	care dependency
+T29	HealthCareActivity 250 254	care
+T30	HealthCareActivity 418 422	care
+T31	HealthCareActivity 452 473	health care providers
+T32	HealthCareActivity 988 1000	care network
+T33	HealthCareActivity 1731 1735	care
+T34	HealthCareActivity 2052 2056	care
+T35	BodyPartOrganOrOrganComponent 1890 1894	body
+T36	SignOrSymptom 86 94	symptoms
+T37	TemporalConcept 1207 1216	currently
+T38	TemporalConcept 889 898	long-term
+T39	PopulationGroup 719 724	group
+T40	HealthCareActivity 404 413	treatment
+T41	HealthCareActivity 1717 1726	treatment
+T42	ResearchActivity 404 413	treatment
+T43	ResearchActivity 1717 1726	treatment
+T44	TemporalConcept 329 340	progressive
+T45	Finding 639 648	knowledge
+T46	TemporalConcept 232 237	years
+T47	TemporalConcept 1918 1923	years
+T48	TemporalConcept 172 176	life
+T49	PathologicFunction 210 221	progression
+T50	TemporalConcept 210 221	progression
+T51	ResearchActivity 607 621	position paper
+T52	ResearchActivity 962 967	paper
+T53	ResearchActivity 1840 1845	paper
+T54	OrganismAttribute 155 162	healthy
+T55	DiseaseOrSyndrome 1670 1690	Huntington's disease
+T56	DiseaseOrSyndrome 728 730	HD
+T57	CellOrMolecularDysfunction 44 61	neurodegenerative
+T58	TemporalConcept 631 638	current
+T59	PatientOrDisabledGroup 426 433	patient
+T60	PatientOrDisabledGroup 775 782	patient
+T61	PatientOrDisabledGroup 860 867	patient
+T62	PatientOrDisabledGroup 948 955	patient
+T63	DiseaseOrSyndrome 10 30	Huntington's disease
+T64	HealthCareActivity 814 835	health care providers
+T65	BiomedicalOccupationOrDiscipline 1027 1040	professionals
+T66	HealthCareActivity 1263 1269	nurses
+T67	HealthCareActivity 1240 1261	general practitioners
+T68	HealthCareActivity 1350 1361	geneticists
+T69	HealthCareActivity 1420 1436	physiotherapists
+T70	HealthCareActivity 1438 1448	dieticians
+T71	HealthCareActivity 1454 1462	dentists
+T72	HealthCareActivity 1321 1333	neurologists
+T73	ResearchActivity 1306 1316	Guidelines
+T74	ResearchActivity 1225 1235	guidelines
+T75	ResearchActivity 1525 1535	guidelines
+T76	ResearchActivity 1809 1819	guidelines
+T77	ResearchActivity 1973 1983	guidelines

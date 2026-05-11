@@ -1,0 +1,66 @@
+T0	CellFunction 105 117	cell-to-cell
+T1	PathologicFunction 151 161	infectious
+T2	AminoAcidPeptideOrProtein 162 168	prions
+T3	ResearchActivity 538 551	human studies
+T4	BodyPartOrganOrOrganComponent 759 771	connectivity
+T5	CellComponent 773 782	endocytic
+T6	CellComponent 787 795	exocytic
+T7	InjuryOrPoisoning 945 958	neurotoxicity
+T8	AminoAcidPeptideOrProtein 651 655	mHTT
+T9	AminoAcidPeptideOrProtein 723 727	mHTT
+T10	AminoAcidPeptideOrProtein 854 858	mHTT
+T11	AminoAcidPeptideOrProtein 916 920	mHTT
+T12	CellOrMolecularDysfunction 651 655	mHTT
+T13	CellOrMolecularDysfunction 723 733	mHTT seeds
+T14	CellOrMolecularDysfunction 854 870	mHTT propagation
+T15	CellOrMolecularDysfunction 916 920	mHTT
+T16	CellOrMolecularDysfunction 639 645	mutant
+T17	CellFunction 374 392	autosomal dominant
+T18	TemporalConcept 240 244	past
+T19	PathologicFunction 20 30	pathogenic
+T20	AminoAcidPeptideOrProtein 31 49	protein aggregates
+T21	ResearchActivity 1053 1059	search
+T22	AminoAcidPeptideOrProtein 319 324	prion
+T23	AminoAcidPeptideOrProtein 612 617	prion
+T24	AminoAcidPeptideOrProtein 1024 1029	prion
+T25	NucleicAcidNucleosideOrNucleotide 464 470	exon 1
+T26	NucleicAcidNucleosideOrNucleotide 464 468	exon
+T27	MolecularSequence 444 454	CAG repeat
+T28	HealthCareActivity 1086 1095	therapies
+T29	HealthCareActivity 1068 1095	disease-modifying therapies
+T30	BodyPartOrganOrOrganComponent 125 130	brain
+T31	BodyPartOrganOrOrganComponent 878 883	brain
+T32	Cell 833 850	nonneuronal cells
+T33	Finding 282 290	evidence
+T34	Finding 686 697	involvement
+T35	ResearchActivity 568 576	in vitro
+T36	TemporalConcept 251 256	years
+T37	Eukaryote 538 543	human
+T38	ResearchActivity 556 563	in vivo
+T39	Cell 113 117	cell
+T40	GeneOrGenome 490 493	HTT
+T41	GeneOrGenome 646 649	HTT
+T42	AminoAcidPeptideOrProtein 490 493	HTT
+T43	AminoAcidPeptideOrProtein 646 649	HTT
+T44	BiologicallyActiveSubstance 490 493	HTT
+T45	BiologicallyActiveSubstance 646 649	HTT
+T46	DiseaseOrSyndrome 66 92	neurodegenerative diseases
+T47	DiseaseOrSyndrome 1119 1145	neurodegenerative diseases
+T48	DiseaseOrSyndrome 344 364	Huntington's disease
+T49	DiseaseOrSyndrome 366 368	HD
+T50	DiseaseOrSyndrome 587 589	HD
+T51	DiseaseOrSyndrome 1100 1102	HD
+T52	TemporalConcept 274 281	current
+T53	DiseaseOrSyndrome 393 418	neurodegenerative disease
+T54	ResearchActivity 267 273	review
+T55	HealthCareActivity 267 273	review
+T56	GeneOrGenome 478 488;495 499	huntingtin gene
+T57	ResearchActivity 577 583	models
+T58	ResearchActivity 224 232	research
+T59	CellComponent 735 754	synaptic structures
+T60	CellOrMolecularDysfunction 854 858	mHTT
+T61	CellOrMolecularDysfunction 723 727	mHTT
+T62	PathologicFunction 916 940	mHTT aggregate spreading
+T63	CellComponent 808 827	tunneling nanotubes
+T64	CellOrMolecularDysfunction 429 460	expansion of a CAG repeat tract
+T65	Finding 992 1010	potential benefits

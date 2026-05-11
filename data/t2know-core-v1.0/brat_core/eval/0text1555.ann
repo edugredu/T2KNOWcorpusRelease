@@ -1,0 +1,82 @@
+T0	Finding 59 78	genetic risk factor
+T1	PopulationGroup 269 281	young adults
+T2	HealthCareActivity 314 325	assessments
+T3	GeneOrGenome 696 707	mutant gene
+T4	BodyPartOrganOrOrganComponent 1148 1163	brain structure
+T5	CellOrMolecularDysfunction 696 702	mutant
+T6	TemporalConcept 1042 1049	midlife
+T7	PopulationGroup 444 452	families
+T8	Finding 982 998	growing evidence
+T9	CellFunction 582 600	glucose metabolism
+T10	DiseaseOrSyndrome 158 171	brain atrophy
+T11	ClinicalAttribute 526 544	cognitive measures
+T12	ClinicalAttribute 789 807	cognitive measures
+T13	TemporalConcept 941 952	preliminary
+T14	DiseaseOrSyndrome 458 479	autosomal dominant AD
+T15	CellOrMolecularDysfunction 741 749	mutation
+T16	HealthCareActivity 546 560	volumetric MRI
+T17	TemporalConcept 840 847	earlier
+T18	PopulationGroup 709 720	noncarriers
+T19	PopulationGroup 750 761	noncarriers
+T20	ResearchActivity 405 423	longitudinal study
+T21	DiseaseOrSyndrome 92 111	Alzheimer's disease
+T22	DiseaseOrSyndrome 113 115	AD
+T23	DiseaseOrSyndrome 210 212	AD
+T24	DiseaseOrSyndrome 639 641	AD
+T25	BodyPartOrganOrOrganComponent 609 628	cerebrospinal fluid
+T26	PopulationGroup 660 672	participants
+T27	PopulationGroup 862 874	participants
+T28	PopulationGroup 427 438	individuals
+T29	AminoAcidPeptideOrProtein 562 569	amyloid
+T30	AminoAcidPeptideOrProtein 1088 1095	amyloid
+T31	BiologicallyActiveSubstance 562 569	amyloid
+T32	BiologicallyActiveSubstance 1088 1095	amyloid
+T33	ClinicalAttribute 642 652	biomarkers
+T34	Finding 774 785	performance
+T35	TemporalConcept 178 184	before
+T36	TemporalConcept 1056 1062	before
+T37	TemporalConcept 1107 1113	before
+T38	PopulationGroup 927 933	groups
+T39	OrganismAttribute 848 851	age
+T40	TemporalConcept 172 177	years
+T41	TemporalConcept 1050 1055	years
+T42	BiologicFunction 144 153	cognition
+T43	Finding 133 140	effects
+T44	Finding 230 237	effects
+T45	Finding 1031 1038	effects
+T46	TemporalConcept 83 91	sporadic
+T47	DiseaseOrSyndrome 83 111	sporadic Alzheimer's disease
+T48	TemporalConcept 189 194	onset
+T49	Finding 1123 1144	cognitive performance
+T50	GeneOrGenome 31 37	allele
+T51	GeneOrGenome 516 522	allele
+T52	GeneOrGenome 1014 1020	allele
+T53	GeneOrGenome 4 37	apolipoprotein E epsilon 4 allele
+T54	AminoAcidPeptideOrProtein 118 123	APOE4
+T55	AminoAcidPeptideOrProtein 241 246	APOE4
+T56	AminoAcidPeptideOrProtein 510 515	APOE4
+T57	AminoAcidPeptideOrProtein 723 728	APOE4
+T58	AminoAcidPeptideOrProtein 734 739	APOE4
+T59	AminoAcidPeptideOrProtein 855 860	APOE4
+T60	AminoAcidPeptideOrProtein 1008 1013	APOE4
+T61	BiologicallyActiveSubstance 118 123	APOE4
+T62	BiologicallyActiveSubstance 241 246	APOE4
+T63	BiologicallyActiveSubstance 510 515	APOE4
+T64	BiologicallyActiveSubstance 723 728	APOE4
+T65	BiologicallyActiveSubstance 734 739	APOE4
+T66	BiologicallyActiveSubstance 855 860	APOE4
+T67	BiologicallyActiveSubstance 1008 1013	APOE4
+T68	PopulationGroup 259 265	cohort
+T69	SignOrSymptom 198 209	symptomatic
+T70	ResearchActivity 217 225	analyzed
+T71	ResearchActivity 484 492	analyzed
+T72	ClinicalAttribute 884 902	hippocampal volume
+T73	TemporalConcept 1071 1076	onset
+T74	SignOrSymptom 1063 1070	symptom
+T75	HealthCareRelatedOrganization 341 379	Dominantly Inherited Alzheimer Network
+T76	HealthCareRelatedOrganization 381 385	DIAN
+T77	AminoAcidPeptideOrProtein 39 44	APOE4
+T78	BiologicallyActiveSubstance 39 44	APOE4
+T79	PathologicFunction 809 827	Amyloid deposition
+T80	PathologicFunction 562 580	amyloid deposition
+T81	PathologicFunction 1088 1106	amyloid deposition

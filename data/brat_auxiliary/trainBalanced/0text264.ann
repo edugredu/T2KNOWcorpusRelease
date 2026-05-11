@@ -1,0 +1,86 @@
+T0	CellFunction 14 45	post-transcriptional regulators
+T1	ClinicalAttribute 196 209	vulnerability
+T2	Finding 196 209	vulnerability
+T3	CellOrMolecularDysfunction 213 228	cellular stress
+T4	HealthCareActivity 448 468	protective therapies
+T5	CellFunction 730 755	oxidative stress response
+T6	BiologicFunction 730 755	oxidative stress response
+T7	CellFunction 792 811	regulatory networks
+T8	BiologicFunction 833 842	processes
+T9	NaturalPhenomenonOrProcess 833 842	processes
+T10	PopulationGroup 1192 1202	individual
+T11	OrganismAttribute 1192 1202	individual
+T12	BiologicFunction 1192 1202	individual
+T13	Finding 1416 1424	problems
+T14	NucleicAcidNucleosideOrNucleotide 658 667	microRNAs
+T15	NucleicAcidNucleosideOrNucleotide 685 694	microRNAs
+T16	NucleicAcidNucleosideOrNucleotide 1065 1074	microRNAs
+T17	NucleicAcidNucleosideOrNucleotide 1203 1212	microRNAs
+T18	BiologicallyActiveSubstance 658 667	microRNAs
+T19	BiologicallyActiveSubstance 685 694	microRNAs
+T20	BiologicallyActiveSubstance 1065 1074	microRNAs
+T21	BiologicallyActiveSubstance 1203 1212	microRNAs
+T22	CellFunction 995 1009	neuronal death
+T23	CellFunction 49 64	gene expression
+T24	CellFunction 923 935	proteostasis
+T25	NucleicAcidNucleosideOrNucleotide 157 165	microRNA
+T26	NucleicAcidNucleosideOrNucleotide 506 514	microRNA
+T27	NucleicAcidNucleosideOrNucleotide 783 791	microRNA
+T28	NucleicAcidNucleosideOrNucleotide 1522 1530	microRNA
+T29	NucleicAcidNucleosideOrNucleotide 0 9	MicroRNAs
+T30	BiologicallyActiveSubstance 157 165	microRNA
+T31	BiologicallyActiveSubstance 506 514	microRNA
+T32	BiologicallyActiveSubstance 783 791	microRNA
+T33	BiologicallyActiveSubstance 1522 1530	microRNA
+T34	BiologicallyActiveSubstance 0 9	MicroRNAs
+T35	CellOrMolecularDysfunction 880 905	mitochondrial dysfunction
+T36	BiologicFunction 1004 1009	death
+T37	PathologicFunction 1004 1009	death
+T38	CellFunction 104 112	survival
+T39	CellFunction 78 102	neuronal differentiation
+T40	BiologicFunction 740 755	stress response
+T41	CellFunction 740 755	stress response
+T42	CellFunction 1004 1009	death
+T43	BiologicFunction 907 919	deregulation
+T44	CellOrMolecularDysfunction 907 919	deregulation
+T45	CellFunction 166 176	biogenesis
+T46	Finding 187 209	neuronal vulnerability
+T47	CellFunction 1138 1162	neuroprotective activity
+T48	PathologicFunction 951 968	neuroinflammation
+T49	CellFunction 87 102	differentiation
+T50	OrganismAttribute 128 131	Age
+T51	DiseaseOrSyndrome 574 601	neurodegenerative processes
+T52	Cell 78 86	neuronal
+T53	Cell 187 195	neuronal
+T54	DiseaseOrSyndrome 1292 1303	Alzheimer's
+T55	DiseaseOrSyndrome 1262 1290	neurodegenerative conditions
+T56	CellOrMolecularDysfunction 853 870	neurodegeneration
+T57	CellFunction 1245 1253	pathways
+T58	BiologicFunction 255 266	development
+T59	CellFunction 255 266	development
+T60	DiseaseOrSyndrome 1328 1340	Huntington's
+T61	CellOrMolecularDysfunction 603 619	Oxidative stress
+T62	CellOrMolecularDysfunction 1112 1128	oxidative damage
+T63	Cell 1572 1597	stem cell-derived neurons
+T64	CellOrMolecularDysfunction 377 393	oxidative stress
+T65	CellOrMolecularDysfunction 528 544	oxidative stress
+T66	CellOrMolecularDysfunction 730 746	oxidative stress
+T67	CellOrMolecularDysfunction 762 778	oxidative stress
+T68	CellOrMolecularDysfunction 1216 1232	oxidative stress
+T69	CellOrMolecularDysfunction 1546 1562	oxidative stress
+T70	DiseaseOrSyndrome 1305 1307	AD
+T71	Eukaryote 1566 1571	human
+T72	PathologicFunction 271 282	progression
+T73	TemporalConcept 271 282	progression
+T74	DiseaseOrSyndrome 286 312	neurodegenerative diseases
+T75	DiseaseOrSyndrome 1342 1344	HD
+T76	DiseaseOrSyndrome 1323 1325	PD
+T77	DiseaseOrSyndrome 1390 1393	ALS
+T78	DiseaseOrSyndrome 1359 1388	amyotrophic lateral sclerosis
+T79	ResearchActivity 1173 1179	review
+T80	HealthCareActivity 1173 1179	review
+T81	DiseaseOrSyndrome 324 351	neurodegenerative disorders
+T82	ResearchActivity 1467 1482	cellular models
+T83	CellFunction 118 126	activity
+T84	DiseaseOrSyndrome 1310 1321	Parkinson's
+T85	CellFunction 1522 1541	microRNA regulation

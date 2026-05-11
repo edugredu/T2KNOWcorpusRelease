@@ -1,0 +1,8 @@
+T0	CellOrMolecularDysfunction 36 53	neurodegeneration
+T1	AminoAcidPeptideOrProtein 62 70	proteins
+T2	BiologicFunction 93 109	immune responses
+T3	Virus 0 10	Adenovirus
+T4	AminoAcidPeptideOrProtein 17 25	vaccines
+T5	PharmacologicSubstance 17 25	vaccines
+T6	BiologicallyActiveSubstance 17 25	vaccines
+T7	PathologicFunction 118 142	pathological aggregation

@@ -1,0 +1,34 @@
+T0	DiseaseOrSyndrome 0 14	Prion diseases
+T1	PathologicFunction 74 86	pathogenesis
+T2	CellOrMolecularDysfunction 104 114	misfolding
+T3	CellFunction 136 155	cell-to-cell spread
+T4	AminoAcidPeptideOrProtein 163 176	prion protein
+T5	DiseaseOrSyndrome 219 238	Alzheimer's disease
+T6	DiseaseOrSyndrome 240 259	Parkinson's disease
+T7	DiseaseOrSyndrome 261 290	amyotrophic lateral sclerosis
+T8	ResearchActivity 415 426	researchers
+T9	AminoAcidPeptideOrProtein 483 488	prion
+T10	AminoAcidPeptideOrProtein 598 603	prion
+T11	BiologicFunction 698 709	perspective
+T12	Cell 780 784	glia
+T13	PathologicFunction 788 800	pathogenesis
+T14	HealthCareActivity 818 833	drug treatments
+T15	ResearchActivity 854 862	overview
+T16	ResearchActivity 907 921	culture system
+T17	ResearchActivity 934 941	in vivo
+T18	ResearchActivity 946 954	in vitro
+T19	ManufacturedObject 955 961	models
+T20	PharmacologicSubstance 818 822	drug
+T21	DiseaseOrSyndrome 295 315	Huntington's disease
+T22	DiseaseOrSyndrome 40 67	neurodegenerative disorders
+T23	DiseaseOrSyndrome 184 210	neurodegenerative diseases
+T24	DiseaseOrSyndrome 662 688	neurodegenerative diseases
+T25	CellFunction 713 732	protein aggregation
+T26	CellOrMolecularDysfunction 713 732	protein aggregation
+T27	ResearchActivity 558 564	review
+T28	HealthCareActivity 558 564	review
+T29	ResearchActivity 656 661	study
+T30	ResearchActivity 483 520	prion organotypic slice culture assay
+T31	ResearchActivity 522 527	POSCA
+T32	ResearchActivity 632 652	organotypic cultures
+T33	AminoAcidPeptideOrProtein 373 399	aggregation-prone proteins

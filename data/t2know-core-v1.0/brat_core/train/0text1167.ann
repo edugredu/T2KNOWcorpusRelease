@@ -1,0 +1,66 @@
+T0	HealthCareActivity 391 398	autopsy
+T1	InjuryOrPoisoning 475 498	vascular brain injuries
+T2	CellComponent 538 556	protein inclusions
+T3	CellOrMolecularDysfunction 769 772	NFT
+T4	NaturalPhenomenonOrProcess 1151 1169	biologic phenomena
+T5	TemporalConcept 1286 1295	incipient
+T6	BiologicallyActiveSubstance 1363 1377	immune factors
+T7	PopulationGroup 352 359	persons
+T8	PopulationGroup 849 856	persons
+T9	PopulationGroup 922 929	persons
+T10	DiseaseOrSyndrome 508 526	brain inflammation
+T11	PathologicFunction 508 526	brain inflammation
+T12	AnatomicalAbnormality 751 764	beta A plaque
+T13	InjuryOrPoisoning 581 604	neuropathologic lesions
+T14	InjuryOrPoisoning 730 737	lesions
+T15	InjuryOrPoisoning 993 1016	neuropathologic lesions
+T16	OrganismAttribute 1076 1089	heterogeneous
+T17	Finding 773 782	threshold
+T18	BodyPartOrganOrOrganComponent 457 465	vascular
+T19	BodyPartOrganOrOrganComponent 475 483	vascular
+T20	BodyPartOrganOrOrganComponent 1350 1358	vascular
+T21	AnatomicalAbnormality 629 643	beta A plaques
+T22	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T23	DiseaseOrSyndrome 21 23	AD
+T24	DiseaseOrSyndrome 208 210	AD
+T25	DiseaseOrSyndrome 365 367	AD
+T26	DiseaseOrSyndrome 608 610	AD
+T27	DiseaseOrSyndrome 869 871	AD
+T28	DiseaseOrSyndrome 954 956	AD
+T29	DiseaseOrSyndrome 981 983	AD
+T30	DiseaseOrSyndrome 1053 1055	AD
+T31	DiseaseOrSyndrome 1296 1298	AD
+T32	DiseaseOrSyndrome 1381 1383	AD
+T33	DiseaseOrSyndrome 368 376	dementia
+T34	DiseaseOrSyndrome 817 825	dementia
+T35	DiseaseOrSyndrome 957 965	dementia
+T36	Finding 399 407	evidence
+T37	PathologicFunction 872 881	pathology
+T38	BiomedicalOccupationOrDiscipline 872 881	pathology
+T39	AminoAcidPeptideOrProtein 331 334	tau
+T40	BodyPartOrganOrOrganComponent 484 489	brain
+T41	BiologicallyActiveSubstance 331 334	tau
+T42	PathologicFunction 1198 1209	progression
+T43	TemporalConcept 1198 1209	progression
+T44	Finding 289 301	accumulation
+T45	ResearchActivity 1231 1241	literature
+T46	PathologicFunction 514 526	inflammation
+T47	ResearchActivity 1220 1226	review
+T48	HealthCareActivity 1220 1226	review
+T49	PathologicFunction 192 204	pathogenesis
+T50	AminoAcidPeptideOrProtein 310 317	amyloid
+T51	BiologicallyActiveSubstance 310 317	amyloid
+T52	AminoAcidPeptideOrProtein 305 317	beta-amyloid
+T53	DiseaseOrSyndrome 59 85	neurodegenerative disorder
+T54	DiseaseOrSyndrome 417 434	brain pathologies
+T55	ResearchActivity 680 700	Epidemiological data
+T56	Finding 572 580	hallmark
+T57	Finding 99 107	etiology
+T58	AminoAcidPeptideOrProtein 538 545	protein
+T59	CellOrMolecularDysfunction 648 671	neurofibrillary tangles
+T60	CellComponent 648 663	neurofibrillary
+T61	CellOrMolecularDysfunction 673 677	NFTs
+T62	BodyPartOrganOrOrganComponent 275 288	intracerebral
+T63	CellOrMolecularDysfunction 331 345	tau aggregates
+T64	Finding 466 473	changes
+T65	Finding 1299 1306	changes

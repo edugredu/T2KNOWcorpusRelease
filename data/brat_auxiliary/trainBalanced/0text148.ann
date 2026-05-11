@@ -1,0 +1,24 @@
+T0	TemporalConcept 54 64	infrequent
+T1	Finding 65 77	presentation
+T2	DiseaseOrSyndrome 86 122	inherited neurodegenerative disorder
+T3	PopulationGroup 156 160	girl
+T4	SignOrSymptom 175 183	symptoms
+T5	NucleicAcidNucleosideOrNucleotide 290 296	exon 1
+T6	GeneOrGenome 304 319	Huntingtin gene
+T7	PopulationGroup 428 433	child
+T8	DiseaseOrSyndrome 439 451	parkinsonism
+T9	Finding 458 472	family history
+T10	DiseaseOrSyndrome 476 493	movement disorder
+T11	DiseaseOrSyndrome 497 505	dementia
+T12	DiseaseOrSyndrome 2 42	Westphal variant of Huntington's disease
+T13	MolecularSequence 248 272	Cytosine-Adenine-Guanine
+T14	OrganismAttribute 191 194	age
+T15	MolecularSequence 274 277	CAG
+T16	Finding 216 224	evidence
+T17	DiseaseOrSyndrome 44 46	HD
+T18	DiseaseOrSyndrome 420 422	HD
+T19	DiseaseOrSyndrome 22 42	Huntington's disease
+T20	ResearchActivity 332 338	review
+T21	HealthCareActivity 332 338	review
+T22	PopulationGroup 144 155	14-year-old
+T23	CellOrMolecularDysfunction 228 286	abnormally expanded Cytosine-Adenine-Guanine (CAG) repeats

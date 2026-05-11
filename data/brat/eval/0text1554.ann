@@ -1,0 +1,76 @@
+T0	AminoAcidPeptideOrProtein 123 171	peroxisome proliferator-activated receptor gamma
+T1	ResearchActivity 313 327	REFLECT trials
+T2	Chemical 450 463	rosiglitazone
+T3	Chemical 468 484	rosiglitazone XR
+T4	AminoAcidPeptideOrProtein 632 635	IL6
+T5	GeneOrGenome 632 635	IL6
+T6	AminoAcidPeptideOrProtein 643 646	CRP
+T7	GeneOrGenome 643 646	CRP
+T8	BiologicallyActiveSubstance 643 646	CRP
+T9	AminoAcidPeptideOrProtein 648 657	TNF alpha
+T10	AminoAcidPeptideOrProtein 671 674	PPY
+T11	GeneOrGenome 671 674	PPY
+T12	ResearchActivity 764 778	Phase II trial
+T13	Chemical 897 910	rosiglitazone
+T14	CellFunction 1111 1120	metabolic
+T15	BiologicallyActiveSubstance 172 179	agonist
+T16	ClinicalAttribute 250 268	treatment response
+T17	ClinicalAttribute 697 715	treatment response
+T18	ClinicalAttribute 1231 1249	treatment response
+T19	ClinicalAttribute 1407 1425	treatment response
+T20	ClinicalAttribute 206 226	predictive biomarker
+T21	ClinicalAttribute 547 567	predictive biomarker
+T22	ClinicalAttribute 610 630	predictive biomarker
+T23	ClinicalAttribute 936 956	predictive biomarker
+T24	ClinicalAttribute 981 1001	predictive biomarker
+T25	ClinicalAttribute 1076 1096	predictive biomarker
+T26	ClinicalAttribute 1332 1352	predictive biomarker
+T27	MachineActivity 486 508	Support vector machine
+T28	Finding 82 90	moderate
+T29	BiologicFunction 1211 1221	experience
+T30	BiologicallyActiveSubstance 123 171	peroxisome proliferator-activated receptor gamma
+T31	ResearchActivity 1462 1477	clinical trials
+T32	DiseaseOrSyndrome 91 110	Alzheimer's disease
+T33	PatientOrDisabledGroup 1187 1195	patients
+T34	ResearchActivity 868 872	data
+T35	HealthCareActivity 61 70	treatment
+T36	HealthCareActivity 435 444	treatment
+T37	HealthCareActivity 1040 1049	treatment
+T38	ResearchActivity 61 70	treatment
+T39	ResearchActivity 435 444	treatment
+T40	ResearchActivity 1040 1049	treatment
+T41	HealthCareActivity 1382 1391	screening
+T42	ResearchActivity 1382 1391	screening
+T43	PopulationGroup 364 376	participants
+T44	ResearchActivity 741 746	study
+T45	ResearchActivity 1282 1287	study
+T46	Finding 725 733	accuracy
+T47	ResearchActivity 577 584	Results
+T48	ResearchActivity 756 778	REFLECT Phase II trial
+T49	ResearchActivity 911 916	trial
+T50	ResearchActivity 509 517	analyses
+T51	Finding 74 78	mild
+T52	ResearchActivity 338 342	Data
+T53	AminoAcidPeptideOrProtein 637 641	IL10
+T54	BiologicallyActiveSubstance 637 641	IL10
+T55	ClinicalAttribute 1125 1145	inflammatory markers
+T56	PharmacologicSubstance 450 463	rosiglitazone
+T57	PharmacologicSubstance 468 484	rosiglitazone XR
+T58	ResearchActivity 16 30	REFLECT trials
+T59	ResearchActivity 404 418	REFLECT trials
+T60	BiologicallyActiveSubstance 632 635	IL6
+T61	GeneOrGenome 637 641	IL10
+T62	BiologicallyActiveSubstance 648 657	TNF alpha
+T63	BiologicallyActiveSubstance 659 665	FABP-3
+T64	AminoAcidPeptideOrProtein 659 665	FABP-3
+T65	GeneOrGenome 659 665	FABP-3
+T66	BiologicallyActiveSubstance 671 674	PPY
+T67	ResearchActivity 804 820	Phase III trials
+T68	ResearchActivity 822 831	AVA105640
+T69	ResearchActivity 833 841	AV102672
+T70	ResearchActivity 847 856	AVA102670
+T71	PharmacologicSubstance 897 910	rosiglitazone
+T72	PopulationGroup 1050 1060	responders
+T73	ResearchActivity 1261 1275	REFLECT trials
+T74	Finding 1451 1452	e
+T75	ResearchActivity 780 789	AVA100193

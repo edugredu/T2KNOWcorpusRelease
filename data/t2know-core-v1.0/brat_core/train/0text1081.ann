@@ -1,0 +1,49 @@
+T0	Cell 94 103	Mammalian
+T1	BiomedicalOccupationOrDiscipline 335 345	Proteomics
+T2	BiomedicalOccupationOrDiscipline 350 364	bioinformatics
+T3	BiologicallyActiveSubstance 1067 1097	NAD(P)H-quinone oxidoreductase
+T4	AminoAcidPeptideOrProtein 1067 1097	NAD(P)H-quinone oxidoreductase
+T5	Eukaryote 798 804	humans
+T6	Eukaryote 924 930	humans
+T7	NucleicAcidNucleosideOrNucleotide 695 702	NAD(P)H
+T8	NucleicAcidNucleosideOrNucleotide 1067 1074	NAD(P)H
+T9	BiologicallyActiveSubstance 695 727	NAD(P)H-quinone oxidored ucta se
+T10	BiologicallyActiveSubstance 1067 1074	NAD(P)H
+T11	Eukaryote 663 669	plants
+T12	Organism 787 793	plants
+T13	BiologicallyActiveSubstance 549 556	enzymes
+T14	BiologicallyActiveSubstance 604 611	enzymes
+T15	BiologicallyActiveSubstance 1047 1054	enzymes
+T16	DiseaseOrSyndrome 831 851	Huntington's disease
+T17	CellComponent 44 52	membrane
+T18	PathologicFunction 914 920	stress
+T19	DiseaseOrSyndrome 810 829	Alzheimer's disease
+T20	CellComponent 24 27	EVs
+T21	CellComponent 104 107	EVs
+T22	CellComponent 158 161	EVs
+T23	CellComponent 208 211	EVs
+T24	CellComponent 459 462	EVs
+T25	CellComponent 539 542	EVs
+T26	CellComponent 962 965	EVs
+T27	ResearchActivity 432 451	functional analysis
+T28	DiseaseOrSyndrome 857 876	Parkinson's disease
+T29	CellComponent 0 22	Extracellular vesicles
+T30	TemporalConcept 196 201	first
+T31	CellOrMolecularDysfunction 904 920	oxidative stress
+T32	AminoAcidPeptideOrProtein 478 486	proteins
+T33	AminoAcidPeptideOrProtein 583 591	proteins
+T34	TemporalConcept 202 206	time
+T35	BiologicFunction 639 659	biological processes
+T36	CellComponent 53 61	vesicles
+T37	ResearchActivity 276 308	transmission electron microscopy
+T38	CellFunction 750 783	oxidative phosphorylation pathway
+T39	Cell 82 92	cell types
+T40	AminoAcidPeptideOrProtein 395 402	protein
+T41	DiseaseOrSyndrome 1016 1037	neurological diseases
+T42	Organism 217 240	Drynariae Rhizoma roots
+T43	Organism 152 157	plant
+T44	ResearchActivity 315 333	flow nano analyzer
+T45	Organism 508 530	Drynariae Rhizoma root
+T46	Organism 971 994	Drynariae Rhizoma roots
+T47	AminoAcidPeptideOrProtein 695 727	NAD(P)H-quinone oxidored ucta se
+T48	BiologicallyActiveSubstance 695 702	NAD(P)H

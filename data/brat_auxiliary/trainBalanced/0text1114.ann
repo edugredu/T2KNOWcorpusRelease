@@ -1,0 +1,129 @@
+T0	PopulationGroup 50 59	surrogate
+T1	ResearchActivity 283 301	therapeutic trials
+T2	AminoAcidPeptideOrProtein 381 409	Poly (ADP-ribose) polymerase
+T3	BiologicallyActiveSubstance 381 409	Poly (ADP-ribose) polymerase
+T4	GeneOrGenome 411 417	PARP-1
+T5	AminoAcidPeptideOrProtein 411 417	PARP-1
+T6	ManufacturedObject 431 438	drivers
+T7	PopulationGroup 431 438	drivers
+T8	ResearchActivity 491 508	exploratory study
+T9	BiologicallyActiveSubstance 583 589	PARP-1
+T10	AminoAcidPeptideOrProtein 583 589	PARP-1
+T11	CellFunction 762 773	replication
+T12	ResearchActivity 1035 1059	nanoscale flow cytometry
+T13	ResearchActivity 1064 1084	blood concentrations
+T14	NucleicAcidNucleosideOrNucleotide 1088 1103	poly ADP-ribose
+T15	CellFunction 1654 1665	replication
+T16	ResearchActivity 1937 1957	longitudinal studies
+T17	DiseaseOrSyndrome 73 90	Parkinson disease
+T18	Finding 163 171	invasive
+T19	Finding 635 643	invasive
+T20	Finding 1791 1799	invasive
+T21	Finding 1893 1901	invasive
+T22	AminoAcidPeptideOrProtein 327 342	alpha synuclein
+T23	AminoAcidPeptideOrProtein 964 973	synuclein
+T24	AminoAcidPeptideOrProtein 1168 1177	synuclein
+T25	AminoAcidPeptideOrProtein 1351 1360	synuclein
+T26	AminoAcidPeptideOrProtein 1613 1622	synuclein
+T27	AminoAcidPeptideOrProtein 1823 1832	synuclein
+T28	AminoAcidPeptideOrProtein 1999 2008	synuclein
+T29	BiologicallyActiveSubstance 327 342	alpha synuclein
+T30	BiologicallyActiveSubstance 964 973	synuclein
+T31	BiologicallyActiveSubstance 1168 1177	synuclein
+T32	BiologicallyActiveSubstance 1351 1360	synuclein
+T33	BiologicallyActiveSubstance 1613 1622	synuclein
+T34	BiologicallyActiveSubstance 1823 1832	synuclein
+T35	BiologicallyActiveSubstance 1999 2008	synuclein
+T36	AminoAcidPeptideOrProtein 531 546	alpha-synuclein
+T37	AminoAcidPeptideOrProtein 958 973	alpha-synuclein
+T38	AminoAcidPeptideOrProtein 1162 1177	alpha-synuclein
+T39	AminoAcidPeptideOrProtein 1345 1360	alpha-synuclein
+T40	AminoAcidPeptideOrProtein 1607 1622	alpha-synuclein
+T41	AminoAcidPeptideOrProtein 1817 1832	alpha-synuclein
+T42	AminoAcidPeptideOrProtein 1993 2008	alpha-synuclein
+T43	BiologicallyActiveSubstance 531 546	alpha-synuclein
+T44	BiologicallyActiveSubstance 958 973	alpha-synuclein
+T45	BiologicallyActiveSubstance 1162 1177	alpha-synuclein
+T46	BiologicallyActiveSubstance 1345 1360	alpha-synuclein
+T47	BiologicallyActiveSubstance 1607 1622	alpha-synuclein
+T48	BiologicallyActiveSubstance 1817 1832	alpha-synuclein
+T49	BiologicallyActiveSubstance 1993 2008	alpha-synuclein
+T50	ClinicalAttribute 1915 1931	disease severity
+T51	Finding 222 229	history
+T52	Finding 1915 1931	disease severity
+T53	ClinicalAttribute 159 181	non-invasive biomarker
+T54	Cell 1011 1019	platelet
+T55	Finding 1747 1759	relationship
+T56	PopulationGroup 751 757	cohort
+T57	PopulationGroup 774 780	cohort
+T58	PopulationGroup 1316 1322	cohort
+T59	PopulationGroup 1666 1672	cohort
+T60	CellComponent 354 376	extracellular vesicles
+T61	CellComponent 556 578	extracellular vesicles
+T62	CellComponent 983 1005	extracellular vesicles
+T63	CellComponent 1178 1200	extracellular vesicles
+T64	CellComponent 1361 1383	extracellular vesicles
+T65	CellComponent 1623 1645	extracellular vesicles
+T66	CellComponent 1842 1864	extracellular vesicles
+T67	CellComponent 2018 2040	extracellular vesicles
+T68	DiseaseOrSyndrome 874 893	Alzheimer's disease
+T69	PatientOrDisabledGroup 619 627	patients
+T70	PatientOrDisabledGroup 731 739	patients
+T71	PatientOrDisabledGroup 1232 1240	patients
+T72	PatientOrDisabledGroup 1324 1332	patients
+T73	PatientOrDisabledGroup 1500 1508	patients
+T74	PatientOrDisabledGroup 1559 1567	patients
+T75	DiseaseOrSyndrome 919 927	dementia
+T76	ClinicalAttribute 1902 1908	marker
+T77	ClinicalAttribute 2046 2052	marker
+T78	ClinicalAttribute 644 651	markers
+T79	BodyPartOrganOrOrganComponent 606 612	plasma
+T80	BodyPartOrganOrOrganComponent 715 721	plasma
+T81	BodyPartOrganOrOrganComponent 1025 1031	plasma
+T82	ResearchActivity 741 750	discovery
+T83	ResearchActivity 1306 1315	discovery
+T84	DiseaseOrSyndrome 92 94	PD
+T85	DiseaseOrSyndrome 260 262	PD
+T86	DiseaseOrSyndrome 442 444	PD
+T87	DiseaseOrSyndrome 471 473	PD
+T88	DiseaseOrSyndrome 616 618	PD
+T89	DiseaseOrSyndrome 728 730	PD
+T90	DiseaseOrSyndrome 1229 1231	PD
+T91	DiseaseOrSyndrome 1912 1914	PD
+T92	ClinicalAttribute 474 484	biomarkers
+T93	ClinicalAttribute 60 69	biomarker
+T94	ClinicalAttribute 172 181	biomarker
+T95	PathologicFunction 245 256	progression
+T96	PathologicFunction 682 693	progression
+T97	PathologicFunction 2064 2075	progression
+T98	TemporalConcept 245 256	progression
+T99	TemporalConcept 682 693	progression
+T100	TemporalConcept 2064 2075	progression
+T101	Finding 159 171	non-invasive
+T102	Finding 631 643	non-invasive
+T103	Finding 1889 1901	non-invasive
+T104	TemporalConcept 303 309	Recent
+T105	ResearchActivity 949 957	analyzed
+T106	PathologicFunction 445 457	pathogenesis
+T107	BiologicFunction 196 209	understanding
+T108	ClinicalAttribute 231 239	severity
+T109	ClinicalAttribute 669 677	severity
+T110	ClinicalAttribute 1923 1931	severity
+T111	Finding 231 239	severity
+T112	Finding 669 677	severity
+T113	Finding 1923 1931	severity
+T114	PopulationGroup 820 831	individuals
+T115	PopulationGroup 836 847	individuals
+T116	PopulationGroup 902 913	individuals
+T117	PathologicFunction 2056 2075	disease progression
+T118	TemporalConcept 276 282	future
+T119	BiologicFunction 1070 1084	concentrations
+T120	HealthCareActivity 864 873	diagnosed
+T121	CellComponent 933 944	Lewy bodies
+T122	ResearchActivity 1110 1129	sandwich ELISA kits
+T123	BiologicFunction 1145 1158	concentration
+T124	DiseaseOrSyndrome 919 944	dementia with Lewy bodies
+T125	BiologicallyActiveSubstance 411 417	PARP-1
+T126	HealthCareActivity 1397 1435	Unified Parkinson Disease Rating Scale
+T127	HealthCareActivity 1443 1448	UPDRS
+T128	HealthCareActivity 1765 1770	UPDRS

@@ -1,0 +1,9 @@
+T0	EmbryonicStructure 102 113	neural tube
+T1	HealthCareActivity 156 166	management
+T2	Finding 89 98	incidence
+T3	HealthCareActivity 136 151	early detection
+T4	HealthCareActivity 23 49	folic acid supplementation
+T5	BiologicallyActiveSubstance 23 33	folic acid
+T6	PharmacologicSubstance 23 33	folic acid
+T7	HealthCareActivity 0 18	In utero screening
+T8	AnatomicalAbnormality 102 121	neural tube defects

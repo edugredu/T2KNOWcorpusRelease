@@ -1,0 +1,91 @@
+T0	Finding 56 62	reduce
+T1	PopulationGroup 176 184	partners
+T2	PopulationGroup 246 254	Canadian
+T3	Chemical 246 254	Canadian
+T4	PopulationGroup 340 348	partners
+T5	ResearchActivity 507 518	demographic
+T6	ClinicalAttribute 523 547	clinical characteristics
+T7	PopulationGroup 705 712	partner
+T8	PopulationGroup 991 999	partners
+T9	ResearchActivity 1012 1032	eligibility criteria
+T10	PopulationGroup 1147 1158	respondents
+T11	HealthCareActivity 1273 1287	Physical scale
+T12	ManufacturedObject 1273 1287	Physical scale
+T13	HealthCareActivity 1327 1335	services
+T14	PopulationGroup 1376 1387	respondents
+T15	PopulationGroup 1443 1451	partners
+T16	BiologicFunction 1557 1565	feelings
+T17	PopulationGroup 1681 1689	partners
+T18	HealthCareRelatedOrganization 1787 1806	healthcare services
+T19	HealthCareActivity 1787 1806	healthcare services
+T20	HealthCareActivity 876 882	report
+T21	ResearchActivity 876 882	report
+T22	PatientOrDisabledGroup 311 330	individuals with HD
+T23	PatientOrDisabledGroup 352 371	individuals with HD
+T24	HealthCareActivity 740 749	Caregiver
+T25	HealthCareActivity 120 124	care
+T26	HealthCareActivity 171 175	care
+T27	HealthCareActivity 335 339	care
+T28	HealthCareActivity 700 704	care
+T29	HealthCareActivity 986 990	care
+T30	HealthCareActivity 1134 1138	care
+T31	HealthCareActivity 1438 1442	care
+T32	HealthCareActivity 1676 1680	care
+T33	TemporalConcept 1414 1419	onset
+T34	ResearchActivity 911 918	Results
+T35	HealthCareActivity 721 729	measured
+T36	DiseaseOrSyndrome 773 793	Huntington's Disease
+T37	Finding 63 93	health-related quality of life
+T38	HealthCareActivity 63 69	health
+T39	HealthCareActivity 113 119	health
+T40	PopulationGroup 311 322	individuals
+T41	PopulationGroup 352 363	individuals
+T42	PopulationGroup 940 951	individuals
+T43	PopulationGroup 1110 1121	individuals
+T44	PopulationGroup 1178 1189	individuals
+T45	PopulationGroup 1652 1663	individuals
+T46	OrganismAttribute 1064 1067	age
+T47	Finding 1723 1732	knowledge
+T48	PopulationGroup 934 939	adult
+T49	TemporalConcept 1100 1105	years
+T50	ResearchActivity 295 301	burden
+T51	ResearchActivity 713 719	burden
+T52	ResearchActivity 1218 1224	burden
+T53	ResearchActivity 1547 1553	burden
+T54	ResearchActivity 1642 1648	burden
+T55	TemporalConcept 89 93	life
+T56	TemporalConcept 1572 1576	life
+T57	ResearchActivity 499 503	data
+T58	ResearchActivity 883 887	data
+T59	PatientOrDisabledGroup 158 166	patients
+T60	DiseaseOrSyndrome 12 32	Huntington's disease
+T61	DiseaseOrSyndrome 34 36	HD
+T62	DiseaseOrSyndrome 305 307	HD
+T63	DiseaseOrSyndrome 328 330	HD
+T64	DiseaseOrSyndrome 369 371	HD
+T65	DiseaseOrSyndrome 957 959	HD
+T66	DiseaseOrSyndrome 1127 1129	HD
+T67	DiseaseOrSyndrome 1195 1197	HD
+T68	DiseaseOrSyndrome 1669 1671	HD
+T69	ResearchActivity 1609 1614	study
+T70	PatientOrDisabledGroup 466 473	patient
+T71	HealthCareActivity 587 619	36-Item Short-Form Health Survey
+T72	HealthCareActivity 621 628	SF-36v1
+T73	HealthCareActivity 655 687	Client Service Receipt Inventory
+T74	HealthCareActivity 689 693	CSRI
+T75	HealthCareActivity 740 762	Caregiver Strain Index
+T76	HealthCareActivity 773 828	Huntington's Disease Quality of Life Battery for Carers
+T77	HealthCareActivity 830 837	HDQoL-C
+T78	HealthCareActivity 1513 1520	HDQoL-C
+T79	Finding 1541 1546	HRQoL
+T80	Finding 95 100	HRQoL
+T81	HealthCareActivity 395 408	online survey
+T82	HealthCareRelatedOrganization 466 487	patient organizations
+T83	Finding 561 566	HRQoL
+T84	HealthCareActivity 764 767	CSI
+T85	ResearchActivity 840 862	Descriptive statistics
+T86	PopulationGroup 1139 1146	partner
+T87	Finding 1212 1217	HRQoL
+T88	HealthCareActivity 1258 1265	SF-36v1
+T89	HealthCareActivity 1343 1363	general practitioner
+T90	HealthCareActivity 1504 1507	CSI

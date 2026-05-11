@@ -1,0 +1,116 @@
+T0	Finding 270 280	controlled
+T1	HealthCareActivity 270 280	controlled
+T2	AminoAcidPeptideOrProtein 408 418	Smoothened
+T3	AminoAcidPeptideOrProtein 420 423	Smo
+T4	GeneOrGenome 544 548	Gli1
+T5	AminoAcidPeptideOrProtein 544 548	Gli1
+T6	GeneOrGenome 587 591	Gli1
+T7	AminoAcidPeptideOrProtein 587 591	Gli1
+T8	AminoAcidPeptideOrProtein 739 742	Smo
+T9	GeneOrGenome 769 772	Shh
+T10	AminoAcidPeptideOrProtein 769 772	Shh
+T11	BiologicallyActiveSubstance 769 772	Shh
+T12	GeneOrGenome 840 844	Gli1
+T13	AminoAcidPeptideOrProtein 840 844	Gli1
+T14	AminoAcidPeptideOrProtein 999 1002	Smo
+T15	CellFunction 1025 1038	downregulates
+T16	GeneOrGenome 1039 1043	Gli1
+T17	AminoAcidPeptideOrProtein 1039 1043	Gli1
+T18	AminoAcidPeptideOrProtein 1104 1108	Gli2
+T19	GeneOrGenome 1104 1108	Gli2
+T20	GeneOrGenome 1542 1546	Gli1
+T21	AminoAcidPeptideOrProtein 1542 1546	Gli1
+T22	CellFunction 1248 1262	axonal contact
+T23	AminoAcidPeptideOrProtein 523 543	transcription factor
+T24	BiologicallyActiveSubstance 523 543	transcription factor
+T25	BiologicallyActiveSubstance 1003 1010	agonist
+T26	BiologicallyActiveSubstance 1191 1195	AMPK
+T27	BiologicallyActiveSubstance 1522 1526	AMPK
+T28	AminoAcidPeptideOrProtein 1191 1195	AMPK
+T29	AminoAcidPeptideOrProtein 1522 1526	AMPK
+T30	AminoAcidPeptideOrProtein 1123 1126	MBP
+T31	BiologicallyActiveSubstance 1123 1126	MBP
+T32	GeneOrGenome 1123 1126	MBP
+T33	Cell 715 731	oligodendrocytes
+T34	DiseaseOrSyndrome 202 224	demyelinating diseases
+T35	BiologicFunction 943 953	maturation
+T36	BiologicFunction 1587 1597	maturation
+T37	Cell 463 494	oligodendrocyte precursor cells
+T38	PathologicFunction 82 95	demyelinating
+T39	DiseaseOrSyndrome 233 251	multiple sclerosis
+T40	BodyPartOrganOrOrganComponent 20 26	myelin
+T41	PathologicFunction 1411 1423	demyelinated
+T42	CellFunction 876 903	non-canonical Smo signaling
+T43	CellFunction 1157 1189;1197 1206	Smo/AMP-activated Protein Kinase signaling
+T44	CellFunction 1498 1507	signaling
+T45	CellFunction 694 709	differentiation
+T46	CellFunction 1354 1369	differentiation
+T47	CellFunction 103 116	Remyelination
+T48	CellFunction 253 266	Remyelination
+T49	BiologicFunction 4 16	regeneration
+T50	CellComponent 47 53	axonal
+T51	CellFunction 446 459	proliferation
+T52	BiologicFunction 54 73	conduction velocity
+T53	NaturalPhenomenonOrProcess 54 64	conduction
+T54	Cell 1571 1586	oligodendroglia
+T55	CellFunction 1705 1718	remyelinating
+T56	PharmacologicSubstance 828 836	blockade
+T57	Chemical 828 836	blockade
+T58	CellComponent 1604 1608	axon
+T59	IndividualBehavior 117 124	failure
+T60	BodyPartOrganOrOrganComponent 1424 1439	corpus callosum
+T61	HealthCareActivity 4 16	regeneration
+T62	BiologicFunction 54 64	conduction
+T63	Cell 655 672	neural stem cells
+T64	Cell 1373 1389	oligodendroglial
+T65	Cell 921 942	oligodendroglial cell
+T66	Cell 1285 1306	oligodendroglial cell
+T67	CellFunction 1547 1561	downregulation
+T68	BodyPartOrganOrOrganComponent 132 154	central nervous system
+T69	PharmacologicSubstance 1719 1724	agent
+T70	PathologicFunction 187 198	progression
+T71	TemporalConcept 187 198	progression
+T72	Cell 969 974	cells
+T73	CellFunction 773 780	signals
+T74	Cell 1064 1068	cell
+T75	CellFunction 1142 1152	expression
+T76	CellFunction 573 583	inhibition
+T77	ClinicalAttribute 174 182	severity
+T78	Finding 174 182	severity
+T79	ResearchActivity 1440 1447	in vivo
+T80	CellFunction 793 815	non-canonical pathways
+T81	CellFunction 289 307	signaling pathways
+T82	CellFunction 321 349	Sonic hedgehog (Shh) pathway
+T83	PopulationGroup 649 654	adult
+T84	ResearchActivity 1465 1469	data
+T85	CellFunction 1657 1674	signaling pathway
+T86	CellFunction 503 515	upregulation
+T87	CellFunction 1109 1121	upregulation
+T88	Finding 1609 1619	engagement
+T89	BiologicallyActiveSubstance 587 591	Gli1
+T90	BiologicallyActiveSubstance 544 548	Gli1
+T91	BiologicallyActiveSubstance 1542 1546	Gli1
+T92	BiologicallyActiveSubstance 420 423	Smo
+T93	BiologicallyActiveSubstance 408 418	Smoothened
+T94	BiologicallyActiveSubstance 739 742	Smo
+T95	AminoAcidPeptideOrProtein 337 340	Shh
+T96	BiologicallyActiveSubstance 337 340	Shh
+T97	GeneOrGenome 337 340	Shh
+T98	BiologicallyActiveSubstance 840 844	Gli1
+T99	PharmacologicSubstance 1011 1017	GSA-10
+T100	PharmacologicSubstance 1088 1094	GSA-10
+T101	BiologicallyActiveSubstance 1104 1108	Gli2
+T102	CellFunction 1263 1275	ensheathment
+T103	PharmacologicSubstance 1318 1324	GSA-10
+T104	PharmacologicSubstance 1627 1633	GSA-10
+T105	Chemical 1318 1324	GSA-10
+T106	Chemical 1627 1633	GSA-10
+T107	Chemical 1088 1094	GSA-10
+T108	Chemical 1011 1017	GSA-10
+T109	BiologicallyActiveSubstance 999 1002	Smo
+T110	AminoAcidPeptideOrProtein 1135 1141	OPALIN
+T111	BiologicallyActiveSubstance 1135 1141	OPALIN
+T112	GeneOrGenome 1135 1141	OPALIN
+T113	AminoAcidPeptideOrProtein 1131 1134	MAL
+T114	BiologicallyActiveSubstance 1131 1134	MAL
+T115	GeneOrGenome 1131 1134	MAL

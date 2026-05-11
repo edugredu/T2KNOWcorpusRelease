@@ -1,0 +1,119 @@
+T0	ResearchActivity 23 34	feasibility
+T1	DiseaseOrSyndrome 410 427	metabolic disease
+T2	AminoAcidPeptideOrProtein 598 608	TGF-beta 1
+T3	GeneOrGenome 598 608	TGF-beta 1
+T4	BiologicallyActiveSubstance 598 608	TGF-beta 1
+T5	AminoAcidPeptideOrProtein 646 673	tumor necrosis factor-alpha
+T6	BiologicallyActiveSubstance 646 673	tumor necrosis factor-alpha
+T7	GeneOrGenome 646 673	tumor necrosis factor-alpha
+T8	AminoAcidPeptideOrProtein 687 705	interleukin-1 beta
+T9	AminoAcidPeptideOrProtein 719 732	interleukin-6
+T10	BiologicallyActiveSubstance 719 732	interleukin-6
+T11	AminoAcidPeptideOrProtein 734 738	IL-6
+T12	GeneOrGenome 734 738	IL-6
+T13	BiologicallyActiveSubstance 734 738	IL-6
+T14	AminoAcidPeptideOrProtein 741 754	interleukin-8
+T15	BiologicallyActiveSubstance 741 754	interleukin-8
+T16	AminoAcidPeptideOrProtein 756 760	IL-8
+T17	BiologicallyActiveSubstance 756 760	IL-8
+T18	GeneOrGenome 756 760	IL-8
+T19	AminoAcidPeptideOrProtein 763 778	interleukin-17A
+T20	BiologicallyActiveSubstance 763 778	interleukin-17A
+T21	AminoAcidPeptideOrProtein 780 786	IL-17A
+T22	BiologicallyActiveSubstance 780 786	IL-17A
+T23	AminoAcidPeptideOrProtein 789 819	monocyte chemotactic protein-1
+T24	BiologicallyActiveSubstance 789 819	monocyte chemotactic protein-1
+T25	AminoAcidPeptideOrProtein 821 826	MCP-1
+T26	BiologicallyActiveSubstance 821 826	MCP-1
+T27	GeneOrGenome 821 826	MCP-1
+T28	CellComponent 833 840	soluble
+T29	AminoAcidPeptideOrProtein 841 879	intercellular cell-adhesion molecule 1
+T30	BiologicallyActiveSubstance 841 879	intercellular cell-adhesion molecule 1
+T31	ResearchActivity 912 945	enzyme-linked immunosorbent assay
+T32	AminoAcidPeptideOrProtein 1003 1013	TGF-beta 1
+T33	GeneOrGenome 1003 1013	TGF-beta 1
+T34	BiologicallyActiveSubstance 1003 1013	TGF-beta 1
+T35	AminoAcidPeptideOrProtein 1015 1019	IL-6
+T36	BiologicallyActiveSubstance 1015 1019	IL-6
+T37	Substance 1068 1074	sample
+T38	BodyPartOrganOrOrganComponent 1068 1074	sample
+T39	CellComponent 1533 1539	axonal
+T40	Finding 1562 1588	neurological deterioration
+T41	ResearchActivity 1648 1666	confirmatory trial
+T42	BiologicFunction 536 553	anti-inflammatory
+T43	PharmacologicSubstance 536 553	anti-inflammatory
+T44	AminoAcidPeptideOrProtein 707 716	IL-1 beta
+T45	BiologicallyActiveSubstance 675 684	TNF-alpha
+T46	AminoAcidPeptideOrProtein 675 684	TNF-alpha
+T47	BiologicallyActiveSubstance 707 716	IL-1 beta
+T48	PharmacologicSubstance 707 716	IL-1 beta
+T49	ResearchActivity 62 69	project
+T50	TemporalConcept 1106 1112	recent
+T51	PathologicFunction 619 635	pro-inflammatory
+T52	ResearchActivity 947 952	ELISA
+T53	TemporalConcept 1521 1532	progressive
+T54	DiseaseOrSyndrome 194 232	relapsing-remitting multiple sclerosis
+T55	DiseaseOrSyndrome 234 238	RRMS
+T56	DiseaseOrSyndrome 283 287	RRMS
+T57	DiseaseOrSyndrome 1119 1123	RRMS
+T58	DiseaseOrSyndrome 1505 1509	RRMS
+T59	BodyPartOrganOrOrganComponent 510 515	Serum
+T60	ClinicalAttribute 1468 1487	potential biomarker
+T61	TemporalConcept 288 297	evolution
+T62	BiologicFunction 288 297	evolution
+T63	AminoAcidPeptideOrProtein 159 168	cytokines
+T64	AminoAcidPeptideOrProtein 636 645	cytokines
+T65	AminoAcidPeptideOrProtein 1376 1385	cytokines
+T66	BiologicallyActiveSubstance 159 168	cytokines
+T67	BiologicallyActiveSubstance 1376 1385	cytokines
+T68	HealthCareActivity 1505 1509	RRMS
+T69	HealthCareActivity 476 508	Expanded Disability Status Scale
+T70	AminoAcidPeptideOrProtein 108 138	phosphorylated neurofilament H
+T71	PatientOrDisabledGroup 262 270	patients
+T72	PatientOrDisabledGroup 968 976	patients
+T73	PatientOrDisabledGroup 1124 1132	patients
+T74	TemporalConcept 1113 1118	onset
+T75	ResearchActivity 955 962	Results
+T76	ClinicalAttribute 1478 1487	biomarker
+T77	PopulationGroup 365 377	participants
+T78	ResearchActivity 346 351	study
+T79	TemporalConcept 278 282	year
+T80	PopulationGroup 1090 1098	controls
+T81	PathologicFunction 440 451	progression
+T82	PathologicFunction 1258 1269	progression
+T83	TemporalConcept 440 451	progression
+T84	TemporalConcept 1258 1269	progression
+T85	PopulationGroup 317 333	control subjects
+T86	PopulationGroup 1181 1186	group
+T87	BodyPartOrganOrOrganComponent 988 993	serum
+T88	BodyPartOrganOrOrganComponent 1405 1410	serum
+T89	Finding 172 182	disability
+T90	Finding 1491 1501	disability
+T91	HealthCareActivity 1427 1431	EDSS
+T92	HealthCareActivity 1427 1437	EDSS score
+T93	CellOrMolecularDysfunction 1533 1546	axonal damage
+T94	PathologicFunction 1258 1284	progression of the disease
+T95	TemporalConcept 1258 1284	progression of the disease
+T96	OrganismAttribute 309 316	healthy
+T97	ClinicalAttribute 510 530	Serum level of pNF-H
+T98	BiologicallyActiveSubstance 108 138	phosphorylated neurofilament H
+T99	ClinicalAttribute 183 190	markers
+T100	DiseaseOrSyndrome 385 406;420 427	inflammatory systemic disease
+T101	Finding 429 439	Disability
+T102	AminoAcidPeptideOrProtein 554 596	cytokine transforming growth factor-beta 1
+T103	BiologicallyActiveSubstance 554 596	cytokine transforming growth factor-beta 1
+T104	PharmacologicSubstance 554 596	cytokine transforming growth factor-beta 1
+T105	BiologicallyActiveSubstance 687 705	interleukin-1 beta
+T106	GeneOrGenome 780 786	IL-17A
+T107	ClinicalAttribute 881 888	sICAM-1
+T108	ClinicalAttribute 833 879	soluble intercellular cell-adhesion molecule 1
+T109	ClinicalAttribute 1021 1028	sICAM-1
+T110	AminoAcidPeptideOrProtein 1034 1039	pNF-H
+T111	BiologicallyActiveSubstance 1034 1039	pNF-H
+T112	AminoAcidPeptideOrProtein 1201 1206	pNF-H
+T113	BiologicallyActiveSubstance 1201 1206	pNF-H
+T114	ClinicalAttribute 1309 1323	level of pNF-H
+T115	ResearchActivity 1325 1337	Spearman rho
+T116	ClinicalAttribute 1405 1425	serum level of pNF-H
+T117	AminoAcidPeptideOrProtein 140 145	pNF-H
+T118	BiologicallyActiveSubstance 140 145	pNF-H

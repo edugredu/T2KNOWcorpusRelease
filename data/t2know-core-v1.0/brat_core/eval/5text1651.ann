@@ -1,0 +1,20 @@
+T0	DiseaseOrSyndrome 183 209	neurodegenerative diseases
+T1	Finding 149 153	risk
+T2	Finding 69 73	high
+T3	Finding 242 248	severe
+T4	PathologicFunction 258 271	complications
+T5	AminoAcidPeptideOrProtein 74 81	protein
+T6	PatientOrDisabledGroup 0 8	Patients
+T7	HealthCareActivity 93 97	diet
+T8	EmbryonicStructure 211 222	neural tube
+T9	DiseaseOrSyndrome 158 181	cardiovascular diseases
+T10	AminoAcidPeptideOrProtein 40 52	homocysteine
+T11	BiologicallyActiveSubstance 40 52	homocysteine
+T12	BiologicallyActiveSubstance 104 106	B6
+T13	BiologicallyActiveSubstance 111 121	folic acid
+T14	Chemical 111 121	folic acid
+T15	PharmacologicSubstance 111 133	folic acid supplements
+T16	PharmacologicSubstance 104 106;122 133	B6 supplements
+T17	AnatomicalAbnormality 211 230	neural tube defects
+T18	PharmacologicSubstance 104 106	B6
+T19	PharmacologicSubstance 111 121	folic acid

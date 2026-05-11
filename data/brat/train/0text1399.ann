@@ -1,0 +1,72 @@
+T0	AminoAcidPeptideOrProtein 4 22	Na+/Ca2+ exchanger
+T1	GeneOrGenome 23 27	NCX3
+T2	CellFunction 44 87	regulator of sodium and calcium homeostasis
+T3	Cell 91 114	oligodendrocyte lineage
+T4	TemporalConcept 183 192	prolonged
+T5	Cell 250 265	oligodendroglia
+T6	ResearchActivity 302 352	biochemical, morphological and functional analyses
+T7	Cell 622 645	MO3.13 oligodendrocytes
+T8	Eukaryote 650 653	rat
+T9	Cell 654 693	primary oligodendrocyte precursor cells
+T10	Cell 695 699	OPCs
+T11	Cell 749 753	OPCs
+T12	TemporalConcept 810 814	days
+T13	TemporalConcept 838 842	days
+T14	CellFunction 927 939	NCX activity
+T15	CellFunction 1023 1054	upregulation of NCX3 expression
+T16	Cell 1058 1073	oligodendrocyte
+T17	BodyPartOrganOrOrganComponent 1114 1120	myelin
+T19	Eukaryote 1132 1135	rat
+T20	Cell 1136 1160	primary oligodendrocytes
+T21	BiomedicalOccupationOrDiscipline 1203 1218	pharmacological
+T22	CellFunction 1363 1385	myelin sheet formation
+T23	Cell 1389 1405	oligodendrocytes
+T24	Chemical 1491 1505	NCX inhibitors
+T25	GeneOrGenome 1650 1654	NCX3
+T26	CellFunction 1655 1664	exchanger
+T27	CellFunction 1711 1724	remyelination
+T28	DiseaseOrSyndrome 1728 1750	demyelinating diseases
+T29	ResearchActivity 1561 1568	studies
+T30	HealthCareActivity 571 580	treatment
+T31	HealthCareActivity 846 855	treatment
+T32	ResearchActivity 571 580	treatment
+T33	ResearchActivity 846 855	treatment
+T34	BiologicFunction 1452 1461	attention
+T35	Eukaryote 616 621	human
+T36	TemporalConcept 116 123	To date
+T37	PharmacologicSubstance 234 238	drug
+T38	PharmacologicSubstance 595 599	drug
+T39	CellFunction 1219 1229	inhibition
+T40	Finding 772 793	[Na+](i) accumulation
+T41	CellFunction 478 493	NCXs expression
+T42	CellFunction 1309 1324	NCX3 expression
+T43	PathologicFunction 1693 1706	demyelination
+T44	BiologicallyActiveSubstance 389 403	NCX3 inhibitor
+T45	Chemical 389 403	NCX3 inhibitor
+T46	BiologicallyActiveSubstance 4 22	Na+/Ca2+ exchanger
+T47	BiologicallyActiveSubstance 23 27	NCX3
+T48	AminoAcidPeptideOrProtein 23 27	NCX3
+T49	ResearchActivity 234 246	drug washout
+T50	Finding 358 381	pharmacological effects
+T51	Chemical 409 467	5-amino-N-butyl-2(4-ethoxyphenoxy)-benzamide hydrochloride
+T52	Chemical 469 472	BED
+T53	ResearchActivity 595 607	drug washout
+T54	ResearchActivity 702 714	BED exposure
+T55	CellFunction 727 739	NCX activity
+T56	CellFunction 749 767	OPCs proliferation
+T57	ResearchActivity 519 562	intracellular [Na+](i) and [Ca2+](i) levels
+T58	Chemical 969 975	[Ca2+]
+T59	AminoAcidPeptideOrProtein 903 916	NCX3 proteins
+T60	BiologicallyActiveSubstance 205 218	NCX3 blockers
+T61	Chemical 205 218	NCX3 blockers
+T62	ResearchActivity 818 829	BED washout
+T64	HealthCareActivity 818 829	BED washout
+T65	BiologicallyActiveSubstance 903 916	NCX3 proteins
+T66	AminoAcidPeptideOrProtein 1237 1251	NCX3 exchanger
+T67	BiologicallyActiveSubstance 1237 1251	NCX3 exchanger
+T68	Chemical 1257 1268	BED blocker
+T69	BiologicallyActiveSubstance 1491 1505	NCX inhibitors
+T63	Chemical 985 988	BED
+T70	Finding 994 1000	effect
+T18	ClinicalAttribute 1121 1128	markers
+T71	HealthCareActivity 702 714	BED exposure

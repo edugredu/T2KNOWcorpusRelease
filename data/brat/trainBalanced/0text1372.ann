@@ -1,0 +1,71 @@
+T0	InjuryOrPoisoning 0 15	Carbon monoxide
+T1	Chemical 0 15	Carbon monoxide
+T2	InjuryOrPoisoning 17 19	CO
+T3	Chemical 17 19	CO
+T4	InjuryOrPoisoning 0 30	Carbon monoxide (CO) poisoning
+T5	Finding 46 59	brain lesions
+T6	PathologicFunction 139 152	Demyelination
+T7	BodyPartOrganOrOrganComponent 170 172	WM
+T8	Cell 280 296	Oligodendrocytes
+T9	Cell 298 301	OLs
+T10	BiologicFunction 444 459	nerve integrity
+T11	Cell 497 500	OLs
+T12	CellComponent 564 569	axons
+T13	Cell 648 651	OLs
+T14	Cell 683 698	precursor cells
+T15	Cell 700 704	OPCs
+T16	PopulationGroup 720 726	adults
+T17	Cell 771 774	OPC
+T18	CellFunction 857 870	remyelination
+T19	InjuryOrPoisoning 1032 1034	CO
+T20	ResearchActivity 1032 1034	CO
+T21	InjuryOrPoisoning 1032 1044	CO poisoning
+T22	Cell 1108 1112	OPCs
+T23	Cell 1134 1137	OLs
+T24	HealthCareActivity 1252 1273	combination therapies
+T25	Cell 1306 1309	OPC
+T26	CellFunction 1330 1343	remyelination
+T27	InjuryOrPoisoning 1407 1409	CO
+T28	ResearchActivity 1407 1409	CO
+T29	InjuryOrPoisoning 1407 1419	CO poisoning
+T30	CellFunction 817 831	axonal contact
+T31	PopulationGroup 577 582	adult
+T32	Cell 307 323	myelinated cells
+T33	BodyPartOrganOrOrganComponent 946 951	brain
+T34	BodyPartOrganOrOrganComponent 491 494	CNS
+T35	BodyPartOrganOrOrganComponent 593 596	CNS
+T36	BodyPartOrganOrOrganComponent 713 716	CNS
+T37	HealthCareActivity 1384 1393	treatment
+T38	ResearchActivity 1384 1393	treatment
+T39	PathologicFunction 964 993	pathophysiological mechanisms
+T40	TemporalConcept 1244 1250	future
+T41	BodyPartOrganOrOrganComponent 467 489	central nervous system
+T42	CellFunction 797 815	OL differentiation
+T43	CellFunction 1306 1325	OPC differentiation
+T44	PatientOrDisabledGroup 226 234	patients
+T45	HealthCareActivity 1369 1379	prevention
+T46	CellFunction 360 381	neuronal axon signals
+T47	CellOrMolecularDysfunction 884 898	OL dysfunction
+T48	BodyPartOrganOrOrganComponent 156 168	white matter
+T49	Eukaryote 583 592	mammalian
+T50	InjuryOrPoisoning 1046 1065	CO-induced toxicity
+T51	PathologicFunction 607 620	demyelination
+T52	PathologicFunction 102 131	delayed neurological sequelae
+T53	InjuryOrPoisoning 737 743	injury
+T54	DiseaseOrSyndrome 64 86	delayed encephalopathy
+T55	PathologicFunction 133 136	DNS
+T56	PathologicFunction 240 243	DNS
+T57	CellOrMolecularDysfunction 532 556	damaged myelin membranes
+T58	CellFunction 771 784	OPC expansion
+T59	Cell 797 799	OL
+T60	CellFunction 836 855	myelin regeneration
+T61	CellFunction 737 759	injury-related signals
+T62	PathologicFunction 903 923	regeneration failure
+T63	BodyPartOrganOrOrganComponent 931 938	deep WM
+T64	PathologicFunction 1005 1025	delayed brain injury
+T65	Cell 1085 1087	OL
+T66	PathologicFunction 1182 1214	progressive demyelinating damage
+T67	PathologicFunction 1232 1235	DNS
+T68	CellOrMolecularDysfunction 1284 1293	OL damage
+T69	PathologicFunction 1397 1400	DNS
+T70	Finding 340 381	rapid conduction of neuronal axon signals

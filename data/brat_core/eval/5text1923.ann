@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 112 139	neurodegenerative disorders
+T1	BiologicFunction 84 97	understanding
+T2	Substance 45 52	samples
+T3	HealthCareActivity 156 169	communication
+T4	CellFunction 156 169	communication
+T5	ResearchActivity 56 72	research studies
+T6	MachineActivity 0 3	ASR
+T7	BiologicFunction 38 44	speech

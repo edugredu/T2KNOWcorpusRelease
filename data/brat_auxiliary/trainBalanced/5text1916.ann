@@ -1,0 +1,13 @@
+T0	DiseaseOrSyndrome 204 224	Huntington's disease
+T1	ResearchActivity 55 61	review
+T2	HealthCareActivity 55 61	review
+T3	ResearchActivity 115 130	clinical trials
+T4	ResearchActivity 93 110	research articles
+T5	ResearchActivity 225 233	research
+T6	ResearchActivity 141 152	researchers
+T7	TemporalConcept 167 171	date
+T8	TemporalConcept 181 187	latest
+T9	MachineActivity 0 27	Natural language processing
+T10	MachineActivity 0 38	Natural language processing algorithms
+T11	MachineActivity 66 75	summarize
+T12	Finding 188 200	advancements

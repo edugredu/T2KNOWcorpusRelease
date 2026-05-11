@@ -1,0 +1,26 @@
+T0	AminoAcidPeptideOrProtein 0 8	Proteins
+T1	DiseaseOrSyndrome 62 73	Alzheimer's
+T2	DiseaseOrSyndrome 78 89	Parkinson's
+T3	PharmacologicSubstance 95 104	medicines
+T4	DiseaseOrSyndrome 155 164	illnesses
+T5	SignOrSymptom 173 181	symptoms
+T6	CellOrMolecularDysfunction 201 210	misfolded
+T7	BiologicFunction 230 241	maintenance
+T8	BiologicFunction 269 286	biological system
+T9	DiseaseOrSyndrome 312 327	human illnesses
+T10	DiseaseOrSyndrome 339 350	Alzheimer's
+T11	DiseaseOrSyndrome 352 364	Huntington's
+T12	DiseaseOrSyndrome 366 377	Parkinson's
+T13	HealthCareActivity 431 440	therapies
+T14	PharmacologicSubstance 445 456	medications
+T15	ResearchActivity 458 469	researchers
+T16	CellOrMolecularDysfunction 494 512	protein misfolding
+T17	CellFunction 517 538	aggregation formation
+T18	CellOrMolecularDysfunction 554 572	protein misfolding
+T19	Eukaryote 312 317	human
+T20	CellOrMolecularDysfunction 596 613	neurodegeneration
+T21	DiseaseOrSyndrome 389 415	neurodegenerative diseases
+T22	CellFunction 649 668	protein aggregation
+T23	CellOrMolecularDysfunction 649 668	protein aggregation
+T24	AminoAcidPeptideOrProtein 243 257	rogue proteins
+T25	CellOrMolecularDysfunction 243 257	rogue proteins

@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 70 72	MS
+T1	BodyPartOrganOrOrganComponent 0 19	Cerebrospinal fluid
+T2	BodyPartOrganOrOrganComponent 21 24	CSF
+T3	Substance 42 50	biofluid
+T4	Finding 95 103	presence
+T5	BiologicallyActiveSubstance 116 126	antibodies
+T6	HealthCareActivity 59 69	diagnosing
+T7	Substance 137 149	biomolecules

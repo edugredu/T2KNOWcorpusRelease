@@ -1,0 +1,9 @@
+T0	DiseaseOrSyndrome 162 182	Huntington's disease
+T1	ResearchActivity 46 55	text data
+T2	PatientOrDisabledGroup 28 35	patient
+T3	HealthCareActivity 108 118	challenges
+T4	ResearchActivity 67 78	researchers
+T5	PopulationGroup 138 149	individuals
+T6	TemporalConcept 102 107	daily
+T7	MachineActivity 57 60	NLP
+T8	BiologicFunction 123 134	experiences

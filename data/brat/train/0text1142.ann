@@ -1,0 +1,101 @@
+T0	DiseaseOrSyndrome 0 22	Pulmonary hypertension
+T1	DiseaseOrSyndrome 24 26	PH
+T2	DiseaseOrSyndrome 40 63	cardiopulmonary disease
+T3	BodyPartOrganOrOrganComponent 122 134	perivascular
+T4	DiseaseOrSyndrome 220 222	PH
+T5	Cell 314 325	fibroblasts
+T6	DiseaseOrSyndrome 489 491	PH
+T7	Cell 672 698	marrow-derived macrophages
+T8	Cell 700 705	BMDMs
+T9	Cell 910 915	BMDMs
+T10	Cell 1043 1048	BMDMs
+T11	AminoAcidPeptideOrProtein 1114 1124	complement
+T12	BiologicallyActiveSubstance 1114 1124	complement
+T13	AminoAcidPeptideOrProtein 1204 1227	complement component C3
+T14	BiologicallyActiveSubstance 1204 1227	complement component C3
+T15	Cell 1314 1319	BMDMs
+T16	Cell 1471 1476	BMDMs
+T17	DiseaseOrSyndrome 1779 1781	PH
+T18	PharmacologicSubstance 917 941	Pharmacological blockade
+T19	HealthCareActivity 917 941	Pharmacological blockade
+T20	BodyPartOrganOrOrganComponent 667 678	bone marrow
+T21	Cell 182 193	macrophages
+T22	Cell 404 415	macrophages
+T23	Cell 687 698	macrophages
+T24	Cell 1564 1575	macrophages
+T25	HealthCareActivity 1349 1358	Treatment
+T26	ResearchActivity 1349 1358	Treatment
+T27	CellComponent 246 268	extracellular vesicles
+T28	PopulationGroup 518 526	controls
+T29	ResearchActivity 1100 1110	enrichment
+T30	Finding 135 147	accumulation
+T31	CellComponent 945 952	exosome
+T32	PathologicFunction 1763 1775	inflammation
+T33	ResearchActivity 1628 1647	metabolomic studies
+T34	CellFunction 836 846	expression
+T35	CellFunction 1186 1196	expression
+T36	Finding 1413 1421	capacity
+T37	Finding 340 349	mediators
+T38	Finding 1699 1708	mediators
+T39	OrganismAttribute 1601 1610	phenotype
+T40	OrganismAttribute 506 509	age
+T41	BiologicFunction 1129 1140	coagulation
+T42	Eukaryote 650 655	mouse
+T43	CellFunction 566 575	secretion
+T44	BiologicFunction 566 575	secretion
+T45	ResearchActivity 1050 1078	Bottom-up proteomic analyses
+T46	AminoAcidPeptideOrProtein 866 875	cytokines
+T47	BiologicallyActiveSubstance 866 875	cytokines
+T48	Finding 33 39	severe
+T49	Finding 482 488	severe
+T50	PathologicFunction 152 167	proinflammatory
+T51	PathologicFunction 374 389	proinflammatory
+T52	PathologicFunction 850 865	proinflammatory
+T53	PathologicFunction 1013 1028	proinflammatory
+T54	PathologicFunction 1284 1299	proinflammatory
+T55	PathologicFunction 1441 1456	proinflammatory
+T56	PathologicFunction 1585 1600	proinflammatory
+T57	AminoAcidPeptideOrProtein 876 886	chemokines
+T58	BiologicallyActiveSubstance 876 886	chemokines
+T59	HealthCareActivity 953 960	release
+T60	ResearchActivity 953 960	release
+T61	CellFunction 945 960	exosome release
+T62	CellComponent 240 268	small extracellular vesicles
+T63	CellComponent 270 274	sEVs
+T64	CellComponent 579 583	sEVs
+T65	CellComponent 751 755	sEVs
+T66	CellComponent 778 782	sEVs
+T67	CellComponent 1160 1164	sEVs
+T68	CellComponent 1432 1436	sEVs
+T69	CellComponent 1485 1489	sEVs
+T70	CellComponent 1675 1679	sEVs
+T71	CellComponent 612 615	sEV
+T72	CellComponent 1270 1273	sEV
+T73	CellFunction 566 583	secretion of sEVs
+T74	NucleicAcidNucleosideOrNucleotide 1375 1383	siC3-RNA
+T75	Finding 1513 1524	alterations
+T76	AminoAcidPeptideOrProtein 850 875	proinflammatory cytokines
+T77	BiologicallyActiveSubstance 850 875	proinflammatory cytokines
+T78	BodyPartOrganOrOrganComponent 667 671	bone
+T79	Cell 103 113	fibroblast
+T80	AminoAcidPeptideOrProtein 353 363	complement
+T81	BiologicallyActiveSubstance 353 363	complement
+T82	CellFunction 390 400	activation
+T83	CellFunction 168 178	activation
+T84	Cell 417 450	Pulmonary adventitial fibroblasts
+T85	Eukaryote 660 666	bovine
+T86	GeneOrGenome 891 906	metabolic genes
+T87	CellFunction 1029 1039	activation
+T88	CellFunction 1300 1310	activation
+T89	AminoAcidPeptideOrProtein 1324 1337	complement C3
+T90	BiologicallyActiveSubstance 1324 1337	complement C3
+T91	BiologicallyActiveSubstance 1375 1383	siC3-RNA
+T92	CellFunction 1457 1467	activation
+T93	AminoAcidPeptideOrProtein 1529 1539	complement
+T94	BiologicallyActiveSubstance 1529 1539	complement
+T95	CellFunction 1550 1560	activation
+T96	Cell 1655 1665	fibroblast
+T97	AminoAcidPeptideOrProtein 1712 1722	complement
+T98	BiologicallyActiveSubstance 1712 1722	complement
+T99	BodyPartOrganOrOrganComponent 1731 1743	perivascular
+T100	BodyPartOrganOrOrganComponent 1744 1762	microenvironmental

@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 159 186	neurodegenerative disorders
+T1	PathologicFunction 136 155	disease progression
+T2	PathologicFunction 106 123	neuroinflammation
+T3	PathologicFunction 54 63	infection
+T4	Bacterium 33 53	Chlamydia pneumoniae
+T5	HealthCareActivity 0 22	Therapeutic approaches

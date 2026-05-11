@@ -1,0 +1,44 @@
+T0	CellOrMolecularDysfunction 77 102	mitochondrial dysfunction
+T1	BiologicallyActiveSubstance 115 138	reactive oxygen species
+T2	BiologicFunction 115 149	reactive oxygen species generation
+T3	Chemical 115 138	reactive oxygen species
+T4	BodyPartOrganOrOrganComponent 155 168	neural tissue
+T5	TemporalConcept 248 255	chronic
+T6	TemporalConcept 260 265	acute
+T7	BiologicFunction 359 376	redox equilibrium
+T8	PathologicFunction 428 445	brain pathologies
+T9	Chemical 470 479	carotenes
+T10	BiologicallyActiveSubstance 484 492	vitamins
+T11	PharmacologicSubstance 520 548	exogenous antioxidant agents
+T12	HealthCareActivity 595 615	adjunctive therapies
+T13	BiologicallyActiveSubstance 665 673	hormones
+T14	PharmacologicSubstance 730 752	neuroprotective agents
+T15	DiseaseOrSyndrome 785 811	neurodegenerative contexts
+T16	CellComponent 854 867	mitochondrial
+T17	DiseaseOrSyndrome 938 957	Alzheimer's disease
+T18	DiseaseOrSyndrome 959 978	Parkinson's disease
+T19	DiseaseOrSyndrome 1038 1067	amyotrophic lateral sclerosis
+T20	InjuryOrPoisoning 1080 1102	traumatic brain injury
+T21	ResearchActivity 1133 1169	randomized placebo-controlled trials
+T22	BiologicallyActiveSubstance 470 479	carotenes
+T23	Finding 854 887	mitochondrial antioxidant targets
+T24	TemporalConcept 1126 1132	latest
+T25	PharmacologicSubstance 641 653	antioxidants
+T26	DiseaseOrSyndrome 984 1004	Huntington's disease
+T27	BiologicallyActiveSubstance 699 708	melatonin
+T28	PharmacologicSubstance 699 708	melatonin
+T29	CellOrMolecularDysfunction 266 283	neurodegeneration
+T30	CellOrMolecularDysfunction 574 591	neurodegeneration
+T31	DiseaseOrSyndrome 900 927	neurodegenerative disorders
+T32	DiseaseOrSyndrome 42 68	neurodegenerative diseases
+T33	CellOrMolecularDysfunction 192 208	oxidative stress
+T34	PathologicFunction 19 38	pathogenic features
+T35	PharmacologicSubstance 457 468	polyphenols
+T36	Chemical 457 468	polyphenols
+T37	ResearchActivity 818 824	review
+T38	HealthCareActivity 818 824	review
+T39	HealthCareActivity 407 416	treatment
+T40	ResearchActivity 407 416	treatment
+T41	Chemical 699 708	melatonin
+T42	HealthCareActivity 300 322	therapeutic strategies
+T43	PharmacologicSubstance 329 350	antioxidant molecules

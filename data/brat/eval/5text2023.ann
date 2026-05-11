@@ -1,0 +1,9 @@
+T0	PatientOrDisabledGroup 129 137	patients
+T1	HealthCareActivity 99 105	safety
+T2	Finding 86 94	efficacy
+T3	DiseaseOrSyndrome 110 128	multiple sclerosis
+T4	PharmacologicSubstance 31 41	medication
+T5	HealthCareActivity 31 41	medication
+T6	Substance 42 53	suspensions
+T7	HealthCareActivity 149 158	treatment
+T8	ResearchActivity 149 158	treatment

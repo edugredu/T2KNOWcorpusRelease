@@ -1,0 +1,29 @@
+T0	CellFunction 0 9	Autophagy
+T1	CellFunction 16 47	evolutionally conserved process
+T2	CellComponent 57 77	cytoplasmic contents
+T3	AminoAcidPeptideOrProtein 88 106	protein aggregates
+T4	CellOrMolecularDysfunction 111 129	damaged organelles
+T5	CellComponent 155 164	lysosomes
+T6	CellComponent 212 226	autophagosomes
+T7	CellComponent 249 258	lysosomes
+T8	NaturalPhenomenonOrProcess 263 274	degradation
+T9	DiseaseOrSyndrome 389 408	Alzheimer's disease
+T10	DiseaseOrSyndrome 410 429	Parkinson's disease
+T11	CellOrMolecularDysfunction 495 528	accumulation of misfolded protein
+T12	CellOrMolecularDysfunction 533 551	damaged organelles
+T13	Cell 555 562	neurons
+T14	Finding 614 626	accumulation
+T15	BodyPartOrganOrOrganComponent 630 644	nervous system
+T16	CellFunction 344 353	autophagy
+T17	CellOrMolecularDysfunction 456 479	Impairment of autophagy
+T18	CellFunction 732 741	autophagy
+T19	CellFunction 798 807	autophagy
+T20	DiseaseOrSyndrome 434 454	Huntington's disease
+T21	CellComponent 138 150	mitochondria
+T22	DiseaseOrSyndrome 357 383	neurodegenerative diseases
+T23	DiseaseOrSyndrome 753 779	neurodegenerative diseases
+T24	PathologicFunction 665 674	pathology
+T25	TemporalConcept 694 709	recent progress
+T26	CellComponent 185 210	double-membrane structure
+T27	CellFunction 581 600	autophagic activity
+T28	HealthCareActivity 798 828	autophagy-associated therapies

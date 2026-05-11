@@ -1,0 +1,22 @@
+T0	DiseaseOrSyndrome 43 69	neurodegenerative disorder
+T1	ResearchActivity 164 181	clinical research
+T2	ResearchActivity 238 254	drug development
+T3	HealthCareActivity 255 265	challenges
+T4	ResearchActivity 285 292	meeting
+T5	HealthCareRelatedOrganization 387 410	pharmaceutical industry
+T6	HealthCareRelatedOrganization 520 530	consortium
+T7	HealthCareActivity 768 780	therapeutics
+T8	PharmacologicSubstance 238 242	drug
+T9	DiseaseOrSyndrome 22 24	HD
+T10	DiseaseOrSyndrome 544 546	HD
+T11	HealthCareRelatedOrganization 637 643	HD-RSC
+T12	DiseaseOrSyndrome 765 767	HD
+T13	DiseaseOrSyndrome 0 20	Huntington's disease
+T14	DiseaseOrSyndrome 585 605	Huntington's Disease
+T15	TemporalConcept 215 223	progress
+T16	HealthCareRelatedOrganization 314 329	CHDI Foundation
+T17	HealthCareRelatedOrganization 338 361	Critical Path Institute
+T18	HealthCareRelatedOrganization 412 420	academia
+T19	HealthCareRelatedOrganization 422 441	regulatory agencies
+T20	HealthCareRelatedOrganization 447 470	patient advocacy groups
+T21	HealthCareRelatedOrganization 585 635	Huntington's Disease Regulatory Science Consortium

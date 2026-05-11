@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 100 126	neurodegenerative diseases
+T1	Finding 92 96	risk
+T2	Finding 162 169	sources
+T3	Chemical 23 28	water
+T4	Chemical 156 161	water
+T5	EnvironmentalEffectOfHumans 143 169	contaminated water sources
+T6	EnvironmentalEffectOfHumans 143 161	contaminated water

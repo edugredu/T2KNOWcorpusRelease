@@ -1,0 +1,11 @@
+T0	Chemical 148 153	water
+T1	EnvironmentalEffectOfHumans 0 15	Water pollution
+T2	EnvironmentalEffectOfHumans 6 15	pollution
+T3	HealthCareActivity 56 70	waste disposal
+T4	Chemical 98 110	heavy metals
+T5	Chemical 122 129	mercury
+T6	EnvironmentalEffectOfHumans 122 129;143 161	mercury into water sources
+T7	Chemical 135 142	arsenic
+T8	EnvironmentalEffectOfHumans 135 161	arsenic into water sources
+T9	Chemical 116 120	lead
+T10	InjuryOrPoisoning 116 120	lead

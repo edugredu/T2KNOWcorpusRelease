@@ -1,0 +1,53 @@
+T0	AminoAcidPeptideOrProtein 34 39	CXCL1
+T1	GeneOrGenome 34 39	CXCL1
+T2	BiologicallyActiveSubstance 34 39	CXCL1
+T3	AminoAcidPeptideOrProtein 43 52	chemokine
+T4	BiologicallyActiveSubstance 43 52	chemokine
+T5	PathologicFunction 64 76	inflammation
+T6	BiologicallyActiveSubstance 82 97	chemoattractant
+T7	AminoAcidPeptideOrProtein 82 97	chemoattractant
+T8	Cell 102 113	neutrophils
+T9	BiomedicalOccupationOrDiscipline 118 128	physiology
+T10	BiologicFunction 118 128	physiology
+T11	AminoAcidPeptideOrProtein 242 247	CXCL1
+T12	GeneOrGenome 242 247	CXCL1
+T13	BiologicallyActiveSubstance 242 247	CXCL1
+T14	BiomedicalOccupationOrDiscipline 261 271	physiology
+T15	BiologicFunction 261 271	physiology
+T16	BodyPartOrganOrOrganComponent 275 280	bones
+T17	BodyPartOrganOrOrganComponent 282 293	bone marrow
+T18	BodyPartOrganOrOrganComponent 295 301	muscle
+T19	Cell 370 394	hematopoietic stem cells
+T20	Cell 396 405	myoblasts
+T21	Cell 407 434	oligodendrocyte progenitors
+T22	AminoAcidPeptideOrProtein 497 502	CXCL1
+T23	GeneOrGenome 497 502	CXCL1
+T24	BiologicallyActiveSubstance 497 502	CXCL1
+T25	BodyPartOrganOrOrganComponent 527 534	tissues
+T26	BodyPartOrganOrOrganComponent 539 545	organs
+T27	Virus 587 614	herpes simplex virus type 1
+T28	Virus 616 621	HSV-1
+T29	DiseaseOrSyndrome 623 635	encephalitis
+T30	DiseaseOrSyndrome 637 652	ischemic stroke
+T31	DiseaseOrSyndrome 692 712	neuromyelitis optica
+T32	SignOrSymptom 714 730	neuropathic pain
+T33	DiseaseOrSyndrome 732 744	osteoporosis
+T34	DiseaseOrSyndrome 762 782	rheumatoid arthritis
+T35	DiseaseOrSyndrome 784 807	tick-borne encephalitis
+T36	DiseaseOrSyndrome 809 812	TBE
+T37	DiseaseOrSyndrome 848 863	West Nile fever
+T38	ResearchActivity 5 11	review
+T39	HealthCareActivity 5 11	review
+T40	DiseaseOrSyndrome 556 575	Alzheimer's disease
+T41	BodyPartOrganOrOrganComponent 310 324	nervous system
+T42	DiseaseOrSyndrome 672 690	multiple sclerosis
+T43	DiseaseOrSyndrome 577 585	epilepsy
+T44	PathologicFunction 577 585	epilepsy
+T45	DiseaseOrSyndrome 746 760	prion diseases
+T46	DiseaseOrSyndrome 654 670	major depression
+T47	DiseaseOrSyndrome 646 652	stroke
+T48	Finding 482 493	involvement
+T49	InjuryOrPoisoning 815 843	traumatic spinal cord injury
+T50	DiseaseOrSyndrome 151 170	non-cancer diseases
+T51	Cell 439 460	osteoclast precursors
+T52	AminoAcidPeptideOrProtein 746 751	prion

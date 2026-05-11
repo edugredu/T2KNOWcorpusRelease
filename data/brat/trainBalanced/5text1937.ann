@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 106 133	neurodegenerative disorders
+T1	PathologicFunction 90 102	pathogenesis
+T2	Organism 56 60	host
+T3	ResearchActivity 9 17	research
+T4	Bacterium 61 69	bacteria
+T5	Finding 70 82	interactions
+T6	NaturalPhenomenonOrProcess 56 82	host-bacteria interactions

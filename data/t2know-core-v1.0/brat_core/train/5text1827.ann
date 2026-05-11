@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 125 151	neurodegenerative diseases
+T1	BiologicFunction 25 33	delivery
+T2	CellFunction 68 95	intercellular communication
+T3	HealthCareActivity 100 112	therapeutics
+T4	CellComponent 17 24	exosome
+T5	Virus 0 10	Adenovirus
+T6	ResearchActivity 17 41	exosome delivery systems

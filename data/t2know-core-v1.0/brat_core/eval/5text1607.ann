@@ -1,0 +1,8 @@
+T0	ClinicalAttribute 45 54	biomarker
+T1	BodyPartOrganOrOrganComponent 0 5	Serum
+T2	AminoAcidPeptideOrProtein 16 41	neurofilament light chain
+T3	BiologicallyActiveSubstance 16 41	neurofilament light chain
+T4	Virus 105 108	EBV
+T5	CellOrMolecularDysfunction 58 82	neuroaxonal degeneration
+T6	ClinicalAttribute 0 41	Serum levels of neurofilament light chain
+T7	Finding 109 123	seroconversion

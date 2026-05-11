@@ -1,0 +1,39 @@
+T0	Finding 280 300	abnormal alterations
+T1	Cell 280 288	abnormal
+T2	AminoAcidPeptideOrProtein 304 313	connexins
+T3	BiologicallyActiveSubstance 304 313	connexins
+T4	Finding 416 444	abnormal increases in levels
+T5	Chemical 448 452	ions
+T6	PharmacologicSubstance 478 490	calcium ions
+T7	Chemical 478 490	calcium ions
+T8	AminoAcidPeptideOrProtein 492 501	glutamate
+T9	NucleicAcidNucleosideOrNucleotide 506 509	ATP
+T10	PharmacologicSubstance 506 509	ATP
+T11	BiologicallyActiveSubstance 506 509	ATP
+T12	AminoAcidPeptideOrProtein 629 637	connexin
+T13	BiologicallyActiveSubstance 629 637	connexin
+T14	CellFunction 563 577	neuronal death
+T15	DiseaseOrSyndrome 31 53	neurological disorders
+T16	Cell 317 321	glia
+T17	Cell 347 351	glia
+T18	CellOrMolecularDysfunction 71 104	progressive neuronal degeneration
+T19	BiologicallyActiveSubstance 457 468	metabolites
+T20	OrganismAttribute 366 373	ability
+T21	Cell 83 91	neuronal
+T22	Cell 216 224	neuronal
+T23	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T24	TemporalConcept 71 82	progressive
+T25	Cell 397 404	neurons
+T26	Cell 518 525	neurons
+T27	CellOrMolecularDysfunction 83 104	neuronal degeneration
+T28	PathologicFunction 92 104	degeneration
+T29	DiseaseOrSyndrome 662 688	neurodegenerative diseases
+T30	DiseaseOrSyndrome 190 210	Huntington's disease
+T31	DiseaseOrSyndrome 114 133	Parkinson's disease
+T32	DiseaseOrSyndrome 156 185	amyotrophic lateral sclerosis
+T33	DiseaseOrSyndrome 135 154	Alzheimer's disease
+T34	ResearchActivity 594 600	review
+T35	HealthCareActivity 594 600	review
+T36	BiologicallyActiveSubstance 492 501	glutamate
+T37	CellOrMolecularDysfunction 606 625	abnormal expression
+T38	InjuryOrPoisoning 225 231	damage

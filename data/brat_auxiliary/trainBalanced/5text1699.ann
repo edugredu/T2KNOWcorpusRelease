@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 142 167	neurodegenerative disease
+T1	Finding 168 180	exacerbation
+T2	TemporalConcept 47 54	latency
+T3	NucleicAcidNucleosideOrNucleotide 66 77	transcripts
+T4	Virus 26 46	Herpes Simplex Virus
+T5	Virus 26 32	Herpes
+T6	BiologicFunction 119 137	viral reactivation

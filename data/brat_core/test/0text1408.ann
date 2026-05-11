@@ -1,0 +1,171 @@
+T0	BodyPartOrganOrOrganComponent 228 240	central vein
+T1	BodyPartOrganOrOrganComponent 475 487	central vein
+T2	HealthCareActivity 536 570	clinical 3 tesla (T) MRI protocols
+T3	ResearchActivity 1045 1063	Patient enrollment
+T4	ResearchActivity 1072 1087	data collection
+T5	PopulationGroup 1254 1265	participant
+T6	TemporalConcept 1334 1344	Occurrence
+T7	HealthCareActivity 1334 1344	Occurrence
+T8	BodyPartOrganOrOrganComponent 1348 1360	central vein
+T9	HealthCareActivity 1382 1432	3T T2*-weighted or susceptibility-weighted imaging
+T10	Finding 1434 1445	Sensitivity
+T11	ResearchActivity 1682 1689	Results
+T12	PopulationGroup 1826 1831	women
+T13	DiseaseOrSyndrome 1847 1875	clinically isolated syndrome
+T14	PopulationGroup 1923 1928	women
+T15	PopulationGroup 2153 2158	women
+T16	DiseaseOrSyndrome 2319 2347	clinically isolated syndrome
+T17	DiseaseOrSyndrome 2428 2466	neuromyelitis optica spectrum disorder
+T18	DiseaseOrSyndrome 2503 2531	systemic lupus erythematosus
+T19	DiseaseOrSyndrome 2569 2577	migraine
+T20	DiseaseOrSyndrome 2581 2597	cluster headache
+T21	Finding 2849 2858	threshold
+T22	Finding 2953 2964	Sensitivity
+T23	BodyPartOrganOrOrganComponent 3078 3090	central vein
+T24	Finding 3139 3147	moderate
+T25	ResearchActivity 3210 3229	multicenter studies
+T26	BodyPartOrganOrOrganComponent 3344 3356	central vein
+T27	Finding 3594 3603	threshold
+T28	BodyPartOrganOrOrganComponent 3755 3767	central vein
+T29	Finding 4020 4027	confirm
+T30	Finding 4054 4061	finding
+T31	HealthCareActivity 1266 1275	diagnosis
+T32	HealthCareActivity 3431 3440	diagnosis
+T33	HealthCareActivity 4077 4086	diagnosis
+T34	BodyPartOrganOrOrganComponent 752 757	brain
+T35	ResearchActivity 5 35	cross-sectional European study
+T36	ResearchActivity 1739 1744	study
+T37	ResearchActivity 3060 3065	study
+T38	ResearchActivity 1072 1076	data
+T39	OrganismAttribute 1962 1965	age
+T40	OrganismAttribute 2192 2195	age
+T41	ResearchActivity 438 445	studies
+T42	ResearchActivity 3995 4002	studies
+T43	TemporalConcept 1984 1989	years
+T44	TemporalConcept 2037 2042	years
+T45	TemporalConcept 2210 2215	years
+T46	Finding 624 635	sensitivity
+T47	Finding 2726 2737	sensitivity
+T48	Finding 2906 2917	sensitivity
+T49	Finding 3148 3159	sensitivity
+T50	Finding 3614 3625	sensitivity
+T51	Finding 3787 3798	sensitivity
+T52	Finding 640 651	specificity
+T53	Finding 1450 1461	specificity
+T54	Finding 2752 2763	specificity
+T55	Finding 2931 2942	specificity
+T56	Finding 3121 3132	specificity
+T57	Finding 3641 3652	specificity
+T58	Finding 3814 3825	specificity
+T59	Finding 3898 3909	specificity
+T60	ResearchActivity 1156 1164	analysis
+T61	DiseaseOrSyndrome 160 162	MS
+T62	DiseaseOrSyndrome 196 198	MS
+T63	DiseaseOrSyndrome 343 345	MS
+T64	DiseaseOrSyndrome 355 357	MS
+T65	DiseaseOrSyndrome 717 719	MS
+T66	DiseaseOrSyndrome 729 731	MS
+T67	DiseaseOrSyndrome 1880 1902	relapsing-remitting MS
+T68	DiseaseOrSyndrome 2137 2139	MS
+T69	DiseaseOrSyndrome 2793 2795	MS
+T70	DiseaseOrSyndrome 2805 2807	MS
+T71	DiseaseOrSyndrome 3179 3181	MS
+T72	DiseaseOrSyndrome 3191 3193	MS
+T73	DiseaseOrSyndrome 3324 3326	MS
+T74	HealthCareActivity 75 101	magnetic resonance imaging
+T75	HealthCareActivity 389 431	ultrahigh-field magnetic resonance imaging
+T76	HealthCareActivity 3365 3403	clinical 3T magnetic resonance imaging
+T77	ManufacturedObject 75 101	magnetic resonance imaging
+T78	ManufacturedObject 389 431	ultrahigh-field magnetic resonance imaging
+T79	ManufacturedObject 3365 3403	clinical 3T magnetic resonance imaging
+T80	HealthCareActivity 433 436	MRI
+T81	HealthCareActivity 557 560	MRI
+T82	HealthCareActivity 758 761	MRI
+T83	HealthCareActivity 1068 1071	MRI
+T84	HealthCareActivity 1486 1489	MRI
+T85	HealthCareActivity 3099 3105	3T MRI
+T86	ManufacturedObject 3099 3105	3T MRI
+T87	PopulationGroup 895 907	participants
+T88	PopulationGroup 1705 1717	participants
+T89	PopulationGroup 1767 1779	participants
+T90	PopulationGroup 1795 1807	participants
+T91	PopulationGroup 2301 2313	participants
+T92	PopulationGroup 2369 2381	participants
+T93	PopulationGroup 2410 2422	participants
+T94	PopulationGroup 2485 2497	participants
+T95	PopulationGroup 2551 2563	participants
+T96	PopulationGroup 2617 2629	participants
+T97	PopulationGroup 2667 2679	participants
+T98	PopulationGroup 3538 3550	participants
+T99	TemporalConcept 3988 3994	future
+T100	CellFunction 3917 3932	differentiation
+T101	TemporalConcept 2008 2024	disease duration
+T102	PatientOrDisabledGroup 955 963	patients
+T103	PatientOrDisabledGroup 2273 2281	patients
+T104	DiseaseOrSyndrome 323 341	multiple sclerosis
+T105	DiseaseOrSyndrome 3444 3462	multiple sclerosis
+T106	DiseaseOrSyndrome 3681 3699	multiple sclerosis
+T107	DiseaseOrSyndrome 3709 3727	multiple sclerosis
+T108	DiseaseOrSyndrome 3941 3959	multiple sclerosis
+T109	DiseaseOrSyndrome 3968 3986	multiple sclerosis
+T110	DiseaseOrSyndrome 4090 4108	multiple sclerosis
+T111	HealthCareActivity 4112 4129	clinical practice
+T112	ResearchActivity 1151 1155	Data
+T113	PatientOrDisabledGroup 1833 1841	Patients
+T114	PatientOrDisabledGroup 2120 2128	Patients
+T115	ResearchActivity 929 950	observational studies
+T116	PopulationGroup 205 211	adults
+T117	InjuryOrPoisoning 1593 1600	lesions
+T118	InjuryOrPoisoning 1650 1657	lesions
+T119	InjuryOrPoisoning 2233 2240	lesions
+T120	InjuryOrPoisoning 2287 2294	lesions
+T121	InjuryOrPoisoning 2354 2361	lesions
+T122	InjuryOrPoisoning 2396 2403	lesions
+T123	InjuryOrPoisoning 2471 2478	lesions
+T124	InjuryOrPoisoning 2537 2544	lesions
+T125	InjuryOrPoisoning 2603 2610	lesions
+T126	InjuryOrPoisoning 2653 2660	lesions
+T127	InjuryOrPoisoning 3523 3530	lesions
+T128	DiseaseOrSyndrome 2428 2448	neuromyelitis optica
+T129	InjuryOrPoisoning 2884 2890	lesion
+T130	DiseaseOrSyndrome 2635 2643	diabetes
+T131	HealthCareActivity 75 126	magnetic resonance imaging protocols at 3 Tesla (T)
+T132	HealthCareActivity 278 285	imaging
+T133	HealthCareActivity 424 431	imaging
+T134	HealthCareActivity 1425 1432	imaging
+T135	HealthCareActivity 3396 3403	imaging
+T136	ResearchActivity 864 885	cross-sectional study
+T137	ResearchActivity 3493 3514	cross-sectional study
+T138	PopulationGroup 827 839	Participants
+T139	ResearchActivity 976 1007	neuroimaging research databases
+T140	ClinicalAttribute 286 295	biomarker
+T141	ClinicalAttribute 3413 3422	biomarker
+T142	ResearchActivity 2246 2254	analyzed
+T143	ClinicalAttribute 228 245	central vein sign
+T144	ClinicalAttribute 475 492	central vein sign
+T145	ClinicalAttribute 663 687	central vein sign lesion
+T146	ResearchActivity 789 804	pulse sequences
+T147	HealthCareRelatedOrganization 1013 1033	neuroimaging centers
+T148	TemporalConcept 1111 1126	January 1, 2010
+T149	TemporalConcept 1132 1149	November 30, 2016
+T150	TemporalConcept 1187 1202	January 1, 2016
+T151	TemporalConcept 1208 1222	April 30, 2018
+T152	HealthCareActivity 1312 1320	Outcomes
+T153	ClinicalAttribute 1348 1365	central vein sign
+T154	ClinicalAttribute 1518 1542	central vein sign lesion
+T155	ClinicalAttribute 1606 1623	central vein sign
+T156	ClinicalAttribute 1663 1680	central vein sign
+T157	DiseaseOrSyndrome 1904 1908	RRMS
+T158	HealthCareActivity 2065 2103	Expanded Disability Status Scale score
+T159	DiseaseOrSyndrome 2387 2391	RRMS
+T160	DiseaseOrSyndrome 2700 2720	small-vessel disease
+T161	ClinicalAttribute 2820 2837	central vein sign
+T162	ClinicalAttribute 2866 2883	central vein sign
+T163	ClinicalAttribute 3078 3095	central vein sign
+T164	HealthCareActivity 3269 3301	central vein sign-based criteria
+T165	ClinicalAttribute 3269 3286	central vein sign
+T166	ClinicalAttribute 3344 3361	central vein sign
+T167	ClinicalAttribute 3565 3582	central vein sign
+T168	ClinicalAttribute 3755 3780	central vein sign lesions
+T169	ClinicalAttribute 3851 3868	central vein sign
+T170	HealthCareActivity 3848 3883	3T central vein sign-based criteria

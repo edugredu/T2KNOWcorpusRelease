@@ -1,0 +1,45 @@
+T1	PopulationGroup 180 186	groups
+T2	ClinicalAttribute 813 828	conversion risk
+T3	DiseaseOrSyndrome 765 768	MCI
+T4	Finding 695 697	CN
+T5	TemporalConcept 524 544	clinical progression
+T6	ResearchActivity 351 365	AT(N) profiles
+T7	Finding 687 693	normal
+T8	HealthCareActivity 161 179	clinical diagnosis
+T9	TemporalConcept 711 726	prodromal stage
+T10	AminoAcidPeptideOrProtein 64 76	beta-amyloid
+T11	PathologicFunction 533 544	progression
+T12	PathologicFunction 958 969	progression
+T13	TemporalConcept 533 544	progression
+T14	TemporalConcept 958 969	progression
+T16	HealthCareRelatedOrganization 1077 1100	Alzheimer's Association
+T17	ResearchActivity 881 889	research
+T18	HealthCareActivity 170 179	diagnosis
+T19	CellOrMolecularDysfunction 117 134	neurodegeneration
+T20	DiseaseOrSyndrome 730 749	Alzheimer's disease
+T21	DiseaseOrSyndrome 751 753	AD
+T22	DiseaseOrSyndrome 772 774	AD
+T23	DiseaseOrSyndrome 1039 1041	AD
+T24	DiseaseOrSyndrome 775 783	dementia
+T25	ResearchActivity 1047 1062	clinical trials
+T26	ClinicalAttribute 230 247	clinical outcomes
+T27	ClinicalAttribute 310 327	clinical outcomes
+T28	ResearchActivity 476 483	Results
+T29	PopulationGroup 606 618	participants
+T30	PopulationGroup 1021 1033	participants
+T31	PopulationGroup 485 497	Participants
+T32	PopulationGroup 251 262	individuals
+T33	PopulationGroup 271 276	group
+T34	ResearchActivity 207 226	longitudinal change
+T35	TemporalConcept 39 48	frequency
+T36	AminoAcidPeptideOrProtein 69 76	amyloid
+T37	BiologicallyActiveSubstance 69 76	amyloid
+T39	ResearchActivity 385 412	linear mixed-effects models
+T40	ResearchActivity 417 460	multivariate Cox proportional-hazard models
+T41	CellOrMolecularDysfunction 93 107	pathologic tau
+T42	ResearchActivity 287 306	Longitudinal change
+T43	ResearchActivity 140 147;57 62	profile AT(N)
+T44	ClinicalAttribute 651 669	risk of conversion
+T45	ClinicalAttribute 332 347	conversion risk
+T46	ClinicalAttribute 938 953	clinical change
+T47	PathologicFunction 64 87	beta-amyloid deposition

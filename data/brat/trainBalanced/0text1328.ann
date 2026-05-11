@@ -1,0 +1,84 @@
+T0	AminoAcidPeptideOrProtein 298 309	fractalkine
+T1	BiologicallyActiveSubstance 298 309	fractalkine
+T2	AminoAcidPeptideOrProtein 395 415	fractalkine receptor
+T3	BiologicallyActiveSubstance 395 415	fractalkine receptor
+T4	AminoAcidPeptideOrProtein 417 423	CX3CR1
+T5	GeneOrGenome 417 423	CX3CR1
+T6	AminoAcidPeptideOrProtein 434 445	fractalkine
+T7	BiologicallyActiveSubstance 434 445	fractalkine
+T8	AminoAcidPeptideOrProtein 457 468	fractalkine
+T9	BiologicallyActiveSubstance 457 468	fractalkine
+T10	HealthCareActivity 543 551	Infusion
+T11	TemporalConcept 543 551	Infusion
+T12	AminoAcidPeptideOrProtein 555 566	fractalkine
+T13	BiologicallyActiveSubstance 555 566	fractalkine
+T14	BodyPartOrganOrOrganComponent 576 593	lateral ventricle
+T15	AminoAcidPeptideOrProtein 729 740	fractalkine
+T16	BiologicallyActiveSubstance 729 740	fractalkine
+T17	AminoAcidPeptideOrProtein 863 874	fractalkine
+T18	BiologicallyActiveSubstance 863 874	fractalkine
+T19	AminoAcidPeptideOrProtein 988 999	fractalkine
+T20	BiologicallyActiveSubstance 988 999	fractalkine
+T21	CellFunction 721 728	secrete
+T22	CellFunction 383 390	express
+T23	BiologicFunction 119 137	oligodendrogenesis
+T24	BiologicFunction 895 913	oligodendrogenesis
+T25	Cell 603 606	NPC
+T26	AminoAcidPeptideOrProtein 219 228	chemokine
+T27	BiologicallyActiveSubstance 219 228	chemokine
+T28	BodyPartOrganOrOrganComponent 87 90	SVZ
+T29	BodyPartOrganOrOrganComponent 313 316	SVZ
+T30	BodyPartOrganOrOrganComponent 365 368	SVZ
+T31	BodyPartOrganOrOrganComponent 524 527	SVZ
+T32	Cell 53 57	OPCs
+T33	Cell 378 382	OPCs
+T34	Cell 716 720	OPCs
+T35	Cell 487 490	OPC
+T36	Cell 655 658	OPC
+T37	Cell 11 42	oligodendrocyte precursor cells
+T38	Cell 44 48	NPCs
+T39	Cell 369 373	NPCs
+T40	Cell 528 532	NPCs
+T41	CellFunction 787 796	signaling
+T42	CellFunction 875 884	signaling
+T43	CellFunction 1000 1009	signaling
+T44	BodyPartOrganOrOrganComponent 917 927	cerebellar
+T45	Cell 0 6;27 42	Neural precursor cells
+T46	Cell 317 332	precursor cells
+T47	Cell 1067 1082	precursor cells
+T48	Cell 11 36	oligodendrocyte precursor
+T49	TemporalConcept 1053 1062	postnatal
+T50	BodyPartOrganOrOrganComponent 66 85	subventricular zone
+T51	TemporalConcept 647 654	newborn
+T52	BodyPartOrganOrOrganComponent 1063 1066	CNS
+T53	BodyPartOrganOrOrganComponent 99 104	brain
+T54	Eukaryote 623 627	mice
+T55	Finding 288 294	effect
+T56	Cell 264 273	microglia
+T57	ResearchActivity 533 541	in vitro
+T58	ResearchActivity 831 839	in vitro
+T59	TemporalConcept 149 153	life
+T60	Eukaryote 358 364	murine
+T61	CellFunction 750 760	inhibition
+T62	ResearchActivity 689 696	in vivo
+T63	Cell 495 510	oligodendrocyte
+T64	Cell 663 678	oligodendrocyte
+T65	Cell 805 820	oligodendrocyte
+T66	Cell 1024 1039	oligodendrocyte
+T67	PopulationGroup 597 602	adult
+T68	CellFunction 429 433	bind
+T69	AminoAcidPeptideOrProtein 191 201	chemokines
+T70	BiologicallyActiveSubstance 191 201	chemokines
+T71	BiologicallyActiveSubstance 407 415	receptor
+T72	AminoAcidPeptideOrProtein 229 240	fractalkine
+T73	BiologicallyActiveSubstance 229 240	fractalkine
+T74	BiologicallyActiveSubstance 417 423	CX3CR1
+T75	BiologicFunction 495 518	oligodendrocyte genesis
+T76	ResearchActivity 597 627	adult NPC lineage-tracing mice
+T77	BiologicFunction 663 688	oligodendrocyte formation
+T78	BiologicFunction 805 830	oligodendrocyte formation
+T79	BodyPartOrganOrOrganComponent 928 934	slices
+T80	ResearchActivity 935 942	ex vivo
+T81	BiologicFunction 1024 1047	oligodendrocyte genesis
+T82	AminoAcidPeptideOrProtein 775 786	fractalkine
+T83	BiologicallyActiveSubstance 775 786	fractalkine

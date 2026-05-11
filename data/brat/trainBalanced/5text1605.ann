@@ -1,0 +1,11 @@
+T0	Cell 150 159	microglia
+T1	PathologicFunction 169 185	pro-inflammatory
+T2	AminoAcidPeptideOrProtein 28 43	amyloid fibrils
+T3	BiologicallyActiveSubstance 28 43	amyloid fibrils
+T4	ManufacturedObject 61 65	case
+T5	OrganismAttribute 186 195	phenotype
+T6	TemporalConcept 0 6	Lastly
+T7	Virus 93 103	SARS-CoV-2
+T8	Virus 77 84	viruses
+T9	CellFunction 134 159	polarization of microglia
+T10	CellComponent 93 113	SARS-CoV-2 particles

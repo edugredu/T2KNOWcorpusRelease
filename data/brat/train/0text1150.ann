@@ -1,0 +1,65 @@
+T0	BodyPartOrganOrOrganComponent 247 255	synapses
+T1	BiologicFunction 469 475	effort
+T2	Finding 469 475	effort
+T3	BiologicFunction 767 779	angiogenesis
+T4	Cell 1087 1109	mesenchymal stem cell-
+T5	ResearchActivity 919 929	discussion
+T6	DiseaseOrSyndrome 54 80	neurodegenerative disorder
+T7	BiologicFunction 750 762	neurogenesis
+T8	CellOrMolecularDysfunction 227 242	loss of neurons
+T9	BodyPartOrganOrOrganComponent 382 385	BBB
+T10	BodyPartOrganOrOrganComponent 803 806	BBB
+T11	DiseaseOrSyndrome 42 80	progressive neurodegenerative disorder
+T12	BodyPartOrganOrOrganComponent 268 281	brain regions
+T13	PharmacologicSubstance 676 687	antioxidant
+T14	CellFunction 676 687	antioxidant
+T15	TemporalConcept 1180 1187	briefly
+T16	TemporalConcept 157 162	older
+T17	BiologicFunction 788 794	repair
+T18	HealthCareActivity 788 794	repair
+T19	OrganismAttribute 146 149	age
+T20	DiseaseOrSyndrome 82 101	Alzheimer's disease
+T21	DiseaseOrSyndrome 103 105	AD
+T22	DiseaseOrSyndrome 604 606	AD
+T23	DiseaseOrSyndrome 899 901	AD
+T24	DiseaseOrSyndrome 1159 1161	AD
+T25	DiseaseOrSyndrome 1283 1285	AD
+T26	CellOrMolecularDysfunction 317 340	neurofibrillary tangles
+T27	CellComponent 317 332	neurofibrillary
+T28	CellComponent 536 544	exosomes
+T29	CellComponent 728 736	exosomes
+T30	CellComponent 964 972	exosomes
+T31	CellComponent 1138 1146	exosomes
+T32	CellComponent 1270 1278	exosomes
+T33	DiseaseOrSyndrome 27 35	dementia
+T34	Cell 518 527	Stem cell
+T35	Finding 492 499	no cure
+T36	ResearchActivity 1061 1065	data
+T37	HealthCareActivity 1200 1210	challenges
+T38	PopulationGroup 130 140	population
+T39	ResearchActivity 816 822	review
+T40	HealthCareActivity 816 822	review
+T41	HealthCareActivity 1286 1293	therapy
+T42	TemporalConcept 832 837	first
+T43	CellOrMolecularDysfunction 429 445	oxidative stress
+T44	PathologicFunction 342 359	neuroinflammation
+T45	Cell 933 943	stem cells
+T46	Cell 710 719	stem cell
+T47	Cell 945 954	stem cell
+T48	Cell 1252 1261	stem cell
+T49	TemporalConcept 42 53	progressive
+T50	TemporalConcept 215 226	progressive
+T51	Cell 1113 1129	neural stem cell
+T52	CellComponent 988 995	exosome
+T53	BodyPartOrganOrOrganComponent 361 380	blood-brain barrier
+T54	PopulationGroup 124 129	world
+T55	PathologicFunction 283 312	deposition of amyloid plaques
+T56	CellOrMolecularDysfunction 398 423	mitochondrial dysfunction
+T57	ResearchActivity 1230 1245	clinical trials
+T58	TemporalConcept 1054 1060	recent
+T59	BiologicFunction 653 670	anti-inflammatory
+T60	PharmacologicSubstance 653 670	anti-inflammatory
+T61	PathologicFunction 361 380;387 396	blood-brain barrier breakdown
+T62	CellFunction 637 651	anti-apoptotic
+T63	PathologicFunction 795 806	damaged BBB
+T64	ResearchActivity 988 1013	exosome isolation methods

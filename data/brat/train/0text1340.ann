@@ -1,0 +1,67 @@
+T0	CellFunction 136 153	glial development
+T1	TemporalConcept 503 509	timing
+T2	Cell 605 615	astrocytic
+T3	BiologicFunction 630 640	repression
+T4	CellFunction 630 640	repression
+T5	CellFunction 717 743	astrocytic differentiation
+T6	BiologicallyActiveSubstance 794 799	Notch
+T7	AminoAcidPeptideOrProtein 794 799	Notch
+T8	TemporalConcept 953 959	timing
+T9	BiologicFunction 102 122	biological processes
+T10	Cell 230 232	OL
+T11	Cell 279 291	OL precursor
+T12	Cell 318 320	OL
+T13	Cell 354 367	OL precursors
+T14	Cell 513 526	OL precursors
+T15	Cell 538 540	OL
+T16	Cell 766 776	OL lineage
+T17	Cell 963 973	OL lineage
+T18	CellFunction 254 265	myelination
+T19	CellFunction 420 431	myelination
+T20	CellFunction 675 694	myelination program
+T21	CellFunction 990 1001	myelination
+T22	Cell 213 228	oligodendrocyte
+T23	Cell 136 141	glial
+T24	Cell 927 932	glial
+T25	CellFunction 335 348	differentiate
+T26	PathologicFunction 974 985	progression
+T27	TemporalConcept 974 985	progression
+T28	CellFunction 573 586	Notch pathway
+T29	CellFunction 648 661	Notch pathway
+T30	CellFunction 1022 1035	Notch pathway
+T31	ResearchActivity 843 850	studies
+T32	Cell 329 334	cells
+T33	Cell 538 554	OL lineage cells
+T34	CellFunction 234 249	differentiation
+T35	CellFunction 487 502	differentiation
+T36	CellFunction 728 743	differentiation
+T37	BiologicFunction 142 153	development
+T38	CellFunction 142 153	development
+T39	AminoAcidPeptideOrProtein 74 78	PRC2
+T40	BiologicallyActiveSubstance 74 78	PRC2
+T41	CellFunction 32 63	histone H3 Lys27 trimethylation
+T42	AminoAcidPeptideOrProtein 32 48	histone H3 Lys27
+T43	AminoAcidPeptideOrProtein 0 4	PRC2
+T44	BiologicallyActiveSubstance 0 4	PRC2
+T45	AminoAcidPeptideOrProtein 192 196	PRC2
+T46	BiologicallyActiveSubstance 192 196	PRC2
+T47	CellFunction 398 415	molecular program
+T48	BiologicallyActiveSubstance 303 307	PRC2
+T49	AminoAcidPeptideOrProtein 303 307	PRC2
+T50	AminoAcidPeptideOrProtein 451 455	PRC2
+T51	BiologicallyActiveSubstance 451 455	PRC2
+T52	AminoAcidPeptideOrProtein 528 532	PRC2
+T53	BiologicallyActiveSubstance 528 532	PRC2
+T54	CellOrMolecularDysfunction 303 317	PRC2-deficient
+T55	CellOrMolecularDysfunction 528 537	PRC2 null
+T56	GeneOrGenome 573 592	Notch pathway genes
+T57	CellOrMolecularDysfunction 708 743	abnormal astrocytic differentiation
+T58	AminoAcidPeptideOrProtein 751 755	PRC2
+T59	BiologicallyActiveSubstance 751 755	PRC2
+T60	CellOrMolecularDysfunction 751 765	PRC2-deficient
+T61	AminoAcidPeptideOrProtein 821 825	PRC2
+T62	BiologicallyActiveSubstance 821 825	PRC2
+T63	BodyPartOrganOrOrganComponent 794 799	Notch
+T64	AminoAcidPeptideOrProtein 880 884	PRC2
+T65	BiologicallyActiveSubstance 880 884	PRC2
+T66	CellFunction 927 944	glial fate choice

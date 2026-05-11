@@ -1,0 +1,97 @@
+T0	CellComponent 857 864	soluble
+T1	AminoAcidPeptideOrProtein 874 884	secretases
+T2	CellFunction 1312 1323	trafficking
+T3	Finding 1079 1089	decreasing
+T4	Chemical 505 516	cholesterol
+T5	Chemical 598 609	cholesterol
+T6	Chemical 669 680	cholesterol
+T7	Chemical 1247 1258	cholesterol
+T8	BiologicallyActiveSubstance 505 516	cholesterol
+T9	BiologicallyActiveSubstance 598 609	cholesterol
+T10	BiologicallyActiveSubstance 669 680	cholesterol
+T11	BiologicallyActiveSubstance 1247 1258	cholesterol
+T12	DiseaseOrSyndrome 125 144	Alzheimer's disease
+T13	DiseaseOrSyndrome 146 148	AD
+T14	DiseaseOrSyndrome 329 331	AD
+T15	DiseaseOrSyndrome 562 564	AD
+T16	DiseaseOrSyndrome 1410 1412	AD
+T17	ResearchActivity 427 432	study
+T18	PathologicFunction 150 159	pathology
+T19	PathologicFunction 565 574	pathology
+T20	BiomedicalOccupationOrDiscipline 150 159	pathology
+T21	BiomedicalOccupationOrDiscipline 565 574	pathology
+T22	BiologicFunction 110 121	development
+T23	BiologicFunction 547 558	development
+T24	CellFunction 110 121	development
+T25	CellFunction 547 558	development
+T26	BodyPartOrganOrOrganComponent 1413 1418	brain
+T27	AminoAcidPeptideOrProtein 1324 1343	APP/A beta peptides
+T28	AminoAcidPeptideOrProtein 77 80	APP
+T29	AminoAcidPeptideOrProtein 826 829	APP
+T30	AminoAcidPeptideOrProtein 831 834	APP
+T31	AminoAcidPeptideOrProtein 865 868	APP
+T32	AminoAcidPeptideOrProtein 870 873	APP
+T33	GeneOrGenome 77 80	APP
+T34	GeneOrGenome 826 829	APP
+T35	GeneOrGenome 831 834	APP
+T36	GeneOrGenome 865 868	APP
+T37	GeneOrGenome 870 873	APP
+T38	BiologicallyActiveSubstance 77 80	APP
+T39	BiologicallyActiveSubstance 826 829	APP
+T40	BiologicallyActiveSubstance 831 834	APP
+T41	BiologicallyActiveSubstance 865 868	APP
+T42	BiologicallyActiveSubstance 870 873	APP
+T43	Finding 610 622	accumulation
+T44	Cell 179 187	neuronal
+T45	Cell 1360 1368	neuronal
+T46	CellComponent 633 640	exosome
+T47	CellComponent 691 698	exosome
+T48	CellFunction 641 650	secretion
+T49	CellFunction 699 708	secretion
+T50	BiologicFunction 641 650	secretion
+T51	BiologicFunction 699 708	secretion
+T52	AminoAcidPeptideOrProtein 14 20	A beta
+T53	AminoAcidPeptideOrProtein 161 167	A beta
+T54	AminoAcidPeptideOrProtein 889 901	A beta(1-40)
+T55	AminoAcidPeptideOrProtein 1136 1142	A beta
+T56	CellOrMolecularDysfunction 1037 1054	neurodegeneration
+T57	Cell 318 325	neurons
+T58	Cell 340 347	neurons
+T59	Cell 391 401	astrocytes
+T60	Cell 529 539	astrocytes
+T61	Cell 724 734	astrocytes
+T62	Cell 790 800	astrocytes
+T63	Cell 938 948	astrocytes
+T64	Cell 1014 1024	astrocytes
+T65	Cell 1271 1281	astrocytes
+T66	CellFunction 230 257	intercellular communication
+T67	HealthCareActivity 244 257	communication
+T68	CellFunction 244 257	communication
+T69	ResearchActivity 715 723	cultured
+T70	AminoAcidPeptideOrProtein 50 75	amyloid precursor protein
+T71	BiologicallyActiveSubstance 50 75	amyloid precursor protein
+T72	CellFunction 1090 1107	A beta production
+T73	AminoAcidPeptideOrProtein 1143 1150	peptide
+T74	CellComponent 188 196	exosomes
+T75	CellComponent 369 377	exosomes
+T76	CellComponent 467 475	exosomes
+T77	CellComponent 751 759	exosomes
+T78	CellComponent 907 915	exosomes
+T79	CellComponent 976 984	exosomes
+T80	CellComponent 1225 1233	exosomes
+T81	CellComponent 1127 1135	exosomal
+T82	CellFunction 633 650	exosome secretion
+T83	CellFunction 691 708	exosome secretion
+T84	CellFunction 1369 1378	viability
+T85	AminoAcidPeptideOrProtein 22 30	peptides
+T86	AminoAcidPeptideOrProtein 835 855	C-terminal fragments
+T87	AminoAcidPeptideOrProtein 0 12	Amyloid beta
+T88	Chemical 489 496	U18666A
+T89	PharmacologicSubstance 489 496	U18666A
+T90	Chemical 774 781	U18666A
+T91	PharmacologicSubstance 774 781	U18666A
+T92	BiologicallyActiveSubstance 889 901	A beta(1-40)
+T93	Chemical 998 1005	U18666A
+T94	PharmacologicSubstance 998 1005	U18666A
+T95	BiologicallyActiveSubstance 1159 1179	anti-A beta antibody
+T96	AminoAcidPeptideOrProtein 1159 1179	anti-A beta antibody

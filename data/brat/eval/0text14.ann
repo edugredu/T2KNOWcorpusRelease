@@ -1,0 +1,65 @@
+T0	HealthCareActivity 11 36	Palliative care practices
+T1	HealthCareActivity 48 61	communication
+T2	CellFunction 48 61	communication
+T3	HealthCareActivity 126 129	ACP
+T4	HealthCareActivity 245 249	goal
+T5	HealthCareActivity 320 345	palliative care practices
+T6	PopulationGroup 409 421	team members
+T7	HealthCareActivity 436 449	goals of care
+T8	HealthCareActivity 454 457	ACP
+T9	Substance 507 516	materials
+T10	HealthCareActivity 521 534	care planning
+T11	HealthCareRelatedOrganization 637 643	clinic
+T12	HealthCareActivity 682 685	ACP
+T13	HealthCareActivity 686 697	discussions
+T14	HealthCareActivity 745 758	care planning
+T15	HealthCareActivity 766 786	end-of-life concerns
+T16	PopulationGroup 813 819	family
+T17	HealthCareActivity 984 987	ACP
+T18	HealthCareActivity 1005 1017	EMR template
+T19	HealthCareActivity 1022 1035	documentation
+T20	Finding 1022 1035	documentation
+T21	BiomedicalOccupationOrDiscipline 1051 1073	communication training
+T22	PopulationGroup 1080 1092	team members
+T23	HealthCareActivity 1220 1233	clinic visits
+T24	HealthCareActivity 1344 1353	Provision
+T25	CellFunction 1432 1443	Integration
+T26	MachineActivity 1432 1443	Integration
+T27	BiologicFunction 1432 1443	Integration
+T28	HealthCareActivity 1447 1472	palliative care practices
+T29	BiomedicalOccupationOrDiscipline 1481 1495	specialty care
+T30	NaturalPhenomenonOrProcess 1516 1524	training
+T31	HealthCareActivity 1545 1562	clinic operations
+T32	TemporalConcept 479 485	stages
+T33	HealthCareActivity 103 124	advance care planning
+T34	HealthCareActivity 829 850	advance care planning
+T35	HealthCareActivity 1244 1265	advance care planning
+T36	HealthCareActivity 68 98	patient-centered goals of care
+T37	HealthCareActivity 162 166	care
+T38	HealthCareActivity 369 373	care
+T39	HealthCareActivity 552 582	patient-centered goals of care
+T40	HealthCareActivity 664 677	goals of care
+T41	HealthCareActivity 1357 1380	primary palliative care
+T42	HealthCareActivity 1491 1495	care
+T43	ResearchActivity 257 264	project
+T44	TemporalConcept 1325 1330	phase
+T45	ResearchActivity 1037 1044	Results
+T46	TemporalConcept 182 188	course
+T47	Finding 602 617	quality of life
+T48	HealthCareActivity 587 593	health
+T49	TemporalConcept 613 617	life
+T50	DiseaseOrSyndrome 192 212	Huntington's disease
+T51	DiseaseOrSyndrome 214 216	HD
+T52	DiseaseOrSyndrome 378 380	HD
+T53	DiseaseOrSyndrome 406 408	HD
+T54	DiseaseOrSyndrome 489 491	HD
+T55	DiseaseOrSyndrome 538 540	HD
+T56	DiseaseOrSyndrome 854 856	HD
+T57	DiseaseOrSyndrome 914 916	HD
+T58	DiseaseOrSyndrome 1385 1387	HD
+T59	DiseaseOrSyndrome 1478 1480	HD
+T60	PatientOrDisabledGroup 801 808	patient
+T61	BiomedicalOccupationOrDiscipline 939 972	interdisciplinary clinic workflow
+T62	HealthCareActivity 871 904	VitalTalk communications training
+T63	HealthCareActivity 637 652	clinic workflow
+T64	HealthCareRelatedOrganization 1394 1418	interdisciplinary clinic

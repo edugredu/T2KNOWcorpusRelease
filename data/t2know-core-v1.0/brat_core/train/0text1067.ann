@@ -1,0 +1,46 @@
+T0	CellComponent 0 22	Extracellular Vesicles
+T1	BiologicFunction 57 85	pathophysiological processes
+T2	PopulationGroup 102 107	state
+T3	Cell 117 121	cell
+T4	Cell 194 206	target cells
+T5	BiologicFunction 222 229	content
+T6	HealthCareActivity 833 845	live imaging
+T7	EmbryonicStructure 874 880	embryo
+T8	ResearchActivity 917 933	characterization
+T9	TemporalConcept 531 537	Recent
+T10	ManufacturedObject 331 349	drug nano-vehicles
+T11	Finding 538 546	advances
+T12	Finding 483 500	lack of knowledge
+T13	Organism 655 664	organisms
+T14	Eukaryote 864 873	zebrafish
+T15	TemporalConcept 125 131	origin
+T16	BiologicFunction 951 966	biodistribution
+T17	TemporalConcept 729 738	half-life
+T18	ResearchActivity 754 760	review
+T19	HealthCareActivity 754 760	review
+T20	ClinicalAttribute 319 329	biomarkers
+T21	CellComponent 24 27	EVs
+T22	CellComponent 511 514	EVs
+T23	CellComponent 571 574	EVs
+T24	CellComponent 813 816	EVs
+T25	CellComponent 937 940	EVs
+T26	CellComponent 635 637	EV
+T27	ResearchActivity 649 654	model
+T28	HealthCareActivity 563 570	imaging
+T29	HealthCareActivity 780 787	imaging
+T30	ResearchActivity 522 529	in vivo
+T31	ResearchActivity 575 582	in vivo
+T32	ResearchActivity 817 824	in vivo
+T33	BiologicFunction 409 420	development
+T34	BiologicFunction 1001 1012	development
+T35	CellFunction 409 420	development
+T36	CellFunction 1001 1012	development
+T37	NaturalPhenomenonOrProcess 941 949	dynamics
+T38	TemporalConcept 772 779	current
+T39	PharmacologicSubstance 331 335	drug
+T40	PathologicFunction 57 75	pathophysiological
+T41	BodyPartOrganOrOrganComponent 175 192	biological fluids
+T42	HealthCareActivity 354 386	therapeutic intrinsic modulators
+T43	ResearchActivity 668 698	high spatiotemporal resolution
+T44	ResearchActivity 780 793	imaging tools
+T45	HealthCareActivity 1017 1041	therapeutic applications

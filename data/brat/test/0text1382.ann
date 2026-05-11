@@ -1,0 +1,119 @@
+T0	Cell 76 89	motor neurons
+T1	BodyPartOrganOrOrganComponent 115 126	spinal cord
+T2	PathologicFunction 165 179	muscle atrophy
+T3	DiseaseOrSyndrome 181 190	paralysis
+T4	BodyPartOrganOrOrganComponent 440 449	brainstem
+T5	BodyPartOrganOrOrganComponent 644 653	brainstem
+T6	TemporalConcept 716 733	postnatal day 100
+T7	Cell 808 820	interneurons
+T8	Cell 825 838	motor neurons
+T9	BodyPartOrganOrOrganComponent 844 865	trigeminal ganglion (
+T10	BodyPartOrganOrOrganComponent 865 867	TG
+T11	Cell 936 956	interneuron subtypes
+T12	GeneOrGenome 1085 1089	DEGs
+T13	Cell 1094 1121	individual cell populations
+T14	PathologicFunction 1232 1244	inflammation
+T15	BiologicFunction 1261 1276	stress response
+T16	CellFunction 1261 1276	stress response
+T17	BodyPartOrganOrOrganComponent 1278 1287	ependymal
+T18	Cell 1355 1371	oligodendrocytes
+T19	CellFunction 1383 1420	synapse organization and transmission
+T20	Cell 1433 1464	oligodendrocyte precursor cells
+T21	BodyPartOrganOrOrganComponent 1611 1620	brainstem
+T22	Cell 1640 1653	motor neurons
+T23	BiologicFunction 1655 1672	axon regeneration
+T24	AminoAcidPeptideOrProtein 1674 1717	voltage-gated sodium and potassium channels
+T25	SignOrSymptom 1729 1741	excitability
+T26	CellFunction 1743 1766	potassium ion transport
+T27	OrganismAttribute 1810 1821	temperature
+T28	NaturalPhenomenonOrProcess 1810 1821	temperature
+T29	BiologicFunction 1843 1861	sensory perception
+T30	InjuryOrPoisoning 1889 1905	toxic substances
+T31	GeneOrGenome 1942 1946	DEGs
+T32	GeneOrGenome 1993 1999	Malat1
+T33	GeneOrGenome 2068 2072	DEGs
+T34	HealthCareActivity 2097 2107	overlapped
+T35	Finding 2162 2166	hits
+T36	ResearchActivity 2194 2223	genome-wide association study
+T37	ResearchActivity 2225 2229	GWAS
+T38	CellFunction 2286 2300	genes function
+T39	BodyPartOrganOrOrganComponent 2465 2474	brainstem
+T40	CellOrMolecularDysfunction 670 681	mutant SOD1
+T41	CellOrMolecularDysfunction 1599 1610	SOD1 mutant
+T42	Cell 629 634	cells
+T43	BodyPartOrganOrOrganComponent 105 110	brain
+T44	Cell 760 770	cell types
+T45	Cell 992 1002	cell types
+T46	Cell 1975 1985	cell types
+T47	Cell 2086 2096	cell types
+T48	Cell 2258 2268	cell types
+T49	Cell 2419 2429	cell types
+T50	TemporalConcept 202 208	Recent
+T51	ResearchActivity 209 216	studies
+T52	DiseaseOrSyndrome 0 29	Amyotrophic lateral sclerosis
+T53	DiseaseOrSyndrome 31 34	ALS
+T54	DiseaseOrSyndrome 240 243	ALS
+T55	DiseaseOrSyndrome 310 313	ALS
+T56	DiseaseOrSyndrome 429 432	ALS
+T57	DiseaseOrSyndrome 1043 1046	ALS
+T58	DiseaseOrSyndrome 1211 1214	ALS
+T59	DiseaseOrSyndrome 2119 2122	ALS
+T60	DiseaseOrSyndrome 2190 2193	ALS
+T61	DiseaseOrSyndrome 2282 2285	ALS
+T62	DiseaseOrSyndrome 2306 2309	ALS
+T63	Eukaryote 694 698	mice
+T64	ExperimentalModelOfDisease 2492 2507	ALS mouse model
+T65	DiseaseOrSyndrome 41 66	neurodegenerative disease
+T66	Eukaryote 2184 2189	human
+T67	ResearchActivity 2338 2351	investigation
+T68	BiologicFunction 1329 1341	neurogenesis
+T69	Cell 844 895	trigeminal ganglion (TG) peripheral sensory neurons
+T70	Cell 1373 1380	neurons
+T71	Cell 1769 1795	trigeminal sensory neurons
+T72	PathologicFunction 314 326	pathogenesis
+T73	PathologicFunction 2310 2322	pathogenesis
+T74	ManufacturedObject 223 236	animal models
+T75	CellFunction 1174 1182	pathways
+T76	CellFunction 1215 1223	pathways
+T77	CellFunction 2441 2449	pathways
+T78	ResearchActivity 551 559	analysis
+T79	BiologicFunction 195 200	death
+T80	PathologicFunction 195 200	death
+T81	Cell 775 798	neuronal subpopulations
+T82	CellFunction 1494 1516	mitochondrial function
+T83	CellFunction 1868 1885	cellular response
+T84	Cell 1311 1326	cell population
+T85	Cell 296 305	microglia
+T86	Cell 1249 1258	microglia
+T87	Cell 1422 1431	microglia
+T88	Cell 281 291	astrocytes
+T89	Cell 1343 1353	astrocytes
+T90	ResearchActivity 2138 2148	literature
+T91	CellFunction 195 200	death
+T92	Cell 1470 1487	neuronal subtypes
+T93	AminoAcidPeptideOrProtein 677 681	SOD1
+T94	ExperimentalModelOfDisease 223 243	animal models of ALS
+T95	Cell 263 273	cell-types
+T96	BodyPartOrganOrOrganComponent 334 354	spinal motor systems
+T97	ResearchActivity 512 538	single cell RNA sequencing
+T98	ResearchActivity 540 549	scRNA-seq
+T99	ResearchActivity 570 601	high-throughput Drop-seq method
+T100	ExperimentalModelOfDisease 670 698	mutant SOD1 symptomatic mice
+T101	GeneOrGenome 677 681	SOD1
+T102	BiologicallyActiveSubstance 677 681	SOD1
+T103	ExperimentalModelOfDisease 1043 1051	ALS mice
+T104	CellOrMolecularDysfunction 1013 1039	transcriptomic alterations
+T105	GeneOrGenome 1053 1083	Differentially expressed genes
+T106	ResearchActivity 1053 1083	Differentially expressed genes
+T107	ResearchActivity 1085 1089	DEGs
+T108	Cell 1131 1140	cell-type
+T109	Cell 1559 1568	cell-type
+T110	Cell 1923 1939	cell populations
+T111	ResearchActivity 1942 1946	DEGs
+T112	ResearchActivity 2032 2036	DEGs
+T113	GeneOrGenome 2032 2036	DEGs
+T114	Cell 2013 2022	cell-type
+T115	ResearchActivity 2068 2072	DEGs
+T116	ResearchActivity 2355 2377	single cell resolution
+T117	Finding 2387 2409	comprehensive insights
+T118	Cell 1278 1287;1311 1326	ependymal cell population

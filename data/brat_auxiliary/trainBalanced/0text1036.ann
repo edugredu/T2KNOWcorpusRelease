@@ -1,0 +1,72 @@
+T0	Organism 4 18	gut microbiota
+T1	Organism 66 80	microorganisms
+T2	Organism 169 183	gut microbiota
+T3	Chemical 478 495	virulence factors
+T4	Bacterium 548 556	bacteria
+T5	Bacterium 558 577	Helicobacter pylori
+T6	Bacterium 579 588	H. pylori
+T7	DiseaseOrSyndrome 623 642	H. pylori infection
+T8	Bacterium 771 780	H. pylori
+T9	Bacterium 884 893	H. pylori
+T10	BiologicFunction 1271 1281	signalling
+T11	CellFunction 1223 1281	complement component 3 (C3)-C3a receptor (C3aR) signalling
+T12	Finding 1362 1370	presence
+T13	BodyPartOrganOrOrganComponent 1374 1377	gut
+T14	Bacterium 1378 1387	H. pylori
+T15	Bacterium 1433 1442	H. pylori
+T16	CellFunction 1535 1553	C3-C3aR signalling
+T17	Cell 1345 1352	neurons
+T18	CellOrMolecularDysfunction 1066 1086	neuronal dysfunction
+T19	Cell 1050 1061	glial cells
+T20	HealthCareActivity 104 110	health
+T21	Organism 118 122	host
+T22	Cell 1011 1021	astrocytes
+T23	Cell 1319 1329	astrocytes
+T24	CellComponent 420 443	outer membrane vesicles
+T25	PopulationGroup 52 62	population
+T26	CellFunction 1036 1061	activation of glial cells
+T27	PathologicFunction 633 642	infection
+T28	BiologicallyActiveSubstance 1223 1233;1251 1263	complement C3a receptor
+T29	DiseaseOrSyndrome 223 249	neurodegenerative diseases
+T30	ResearchActivity 1414 1419	study
+T31	Finding 135 143	evidence
+T32	BodyPartOrganOrOrganComponent 788 793	brain
+T33	BodyPartOrganOrOrganComponent 958 963	brain
+T34	BodyPartOrganOrOrganComponent 977 982	brain
+T35	BodyPartOrganOrOrganComponent 1471 1476	brain
+T36	DiseaseOrSyndrome 261 280	Alzheimer's disease
+T37	DiseaseOrSyndrome 282 284	AD
+T38	DiseaseOrSyndrome 364 366	AD
+T39	DiseaseOrSyndrome 697 699	AD
+T40	DiseaseOrSyndrome 856 858	AD
+T41	DiseaseOrSyndrome 1507 1509	AD
+T42	PathologicFunction 207 219	pathogenesis
+T43	PathologicFunction 528 540	pathogenesis
+T44	OrganismAttribute 797 804	healthy
+T45	AminoAcidPeptideOrProtein 1122 1134	amyloid-beta
+T46	PathologicFunction 1135 1144	pathology
+T47	BiomedicalOccupationOrDiscipline 1135 1144	pathology
+T48	PathologicFunction 823 840	disease pathology
+T49	ManufacturedObject 848 852	case
+T50	TemporalConcept 718 723	first
+T51	Cell 1331 1340	microglia
+T52	BiologicFunction 1510 1521	development
+T53	CellFunction 1510 1521	development
+T54	Finding 328 337	interplay
+T55	AminoAcidPeptideOrProtein 1122 1129	amyloid
+T56	BiologicallyActiveSubstance 1122 1129	amyloid
+T57	DiseaseOrSyndrome 1149 1166	cognitive decline
+T58	Bacterium 403 411	bacteria
+T59	CellComponent 445 449	OMVs
+T60	Organism 346 359	gut pathogens
+T61	BiologicallyActiveSubstance 478 495	virulence factors
+T62	InjuryOrPoisoning 478 495	virulence factors
+T63	BodyPartOrganOrOrganComponent 602 609	gastric
+T64	Organism 610 618	pathogen
+T65	Finding 671 685	increased risk
+T66	CellComponent 753 757	OMVs
+T67	CellComponent 894 898	OMVs
+T68	CellComponent 990 994	OMVs
+T69	AminoAcidPeptideOrProtein 1223 1233;1251 1263	complement C3a receptor
+T70	CellComponent 1388 1392	OMVs
+T71	CellComponent 1526 1530	OMVs

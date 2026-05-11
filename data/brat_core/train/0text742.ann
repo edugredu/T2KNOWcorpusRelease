@@ -1,0 +1,88 @@
+T0	Finding 111 121	impairment
+T1	BiologicFunction 249 268	cerebral blood flow
+T2	BiologicFunction 270 273	CBF
+T3	BiologicFunction 384 387	CBF
+T4	HealthCareActivity 534 553	clinical evaluation
+T5	ResearchActivity 534 553	clinical evaluation
+T6	BiologicFunction 670 673	CBF
+T7	BiologicFunction 736 739	CBF
+T8	BiologicFunction 860 863	CBF
+T9	BiologicFunction 929 932	CBF
+T10	BodyPartOrganOrOrganComponent 958 965	putamen
+T11	BiologicFunction 1024 1027	CBF
+T12	Finding 1152 1176	statistical significance
+T13	BiologicFunction 1184 1187	CBF
+T14	BodyPartOrganOrOrganComponent 1203 1210	putamen
+T15	OrganismAttribute 1253 1266	functionality
+T16	BiologicFunction 1295 1298	CBF
+T17	ClinicalAttribute 1324 1331	markers
+T18	BiologicFunction 1361 1364	CBF
+T19	BodyPartOrganOrOrganComponent 1380 1387	putamen
+T20	BiologicFunction 1511 1514	CBF
+T21	BodyPartOrganOrOrganComponent 1538 1552	putamen nuclei
+T22	ClinicalAttribute 1574 1581	markers
+T23	BiologicFunction 1641 1644	CBF
+T24	ClinicalAttribute 1649 1662	oxygen supply
+T25	CellFunction 36 50	neuronal death
+T26	ClinicalAttribute 1272 1293	cognitive performance
+T27	BiologicFunction 45 50	death
+T28	PathologicFunction 45 50	death
+T29	PatientOrDisabledGroup 399 415	HD gene carriers
+T30	PatientOrDisabledGroup 439 455	HD gene carriers
+T31	CellFunction 45 50	death
+T32	Finding 839 851	relationship
+T33	BodyPartOrganOrOrganComponent 946 953	caudate
+T34	BodyPartOrganOrOrganComponent 1191 1198	caudate
+T35	BodyPartOrganOrOrganComponent 1368 1375	caudate
+T36	BodyPartOrganOrOrganComponent 1526 1533	caudate
+T37	BodyPartOrganOrOrganComponent 936 953	bilateral caudate
+T38	SignOrSymptom 1237 1251	motor symptoms
+T39	BodyPartOrganOrOrganComponent 258 263	blood
+T40	ClinicalAttribute 1612 1629	clinical outcomes
+T41	HealthCareActivity 566 592	magnetic resonance imaging
+T42	ResearchActivity 897 904	Results
+T43	PopulationGroup 427 432	group
+T44	Finding 1127 1138	differences
+T45	Finding 917 925	decrease
+T46	PatientOrDisabledGroup 773 781	manifest
+T47	Cell 36 44	neuronal
+T48	BodyPartOrganOrOrganComponent 560 565	brain
+T49	CellOrMolecularDysfunction 198 215	neurodegeneration
+T50	CellOrMolecularDysfunction 1335 1352	neurodegeneration
+T51	CellOrMolecularDysfunction 1585 1602	neurodegeneration
+T52	PathologicFunction 1717 1729	degeneration
+T53	PathologicFunction 220 231	progression
+T54	TemporalConcept 220 231	progression
+T55	ResearchActivity 892 896	data
+T56	PatientOrDisabledGroup 969 977	patients
+T57	DiseaseOrSyndrome 54 74	Huntington's disease
+T58	DiseaseOrSyndrome 76 78	HD
+T59	DiseaseOrSyndrome 235 237	HD
+T60	DiseaseOrSyndrome 354 356	HD
+T61	DiseaseOrSyndrome 767 769	HD
+T62	DiseaseOrSyndrome 782 784	HD
+T63	DiseaseOrSyndrome 992 994	HD
+T64	DiseaseOrSyndrome 1108 1110	HD
+T65	DiseaseOrSyndrome 1733 1735	HD
+T66	ClinicalAttribute 881 891	biomarkers
+T67	AminoAcidPeptideOrProtein 1470 1495	neurofilament light chain
+T68	ResearchActivity 998 1008	comparison
+T69	BiologicallyActiveSubstance 1470 1495	neurofilament light chain
+T70	PopulationGroup 499 507	controls
+T71	PopulationGroup 743 751	controls
+T72	PopulationGroup 1014 1022	controls
+T73	PopulationGroup 1091 1099	controls
+T74	DiseaseOrSyndrome 303 330	neurodegenerative disorders
+T75	PatientOrDisabledGroup 1031 1054	premanifest HD carriers
+T76	CellOrMolecularDysfunction 142 159	abnormal proteins
+T77	Finding 388 395	changes
+T78	ResearchActivity 593 601	protocol
+T79	HealthCareActivity 616 657	pseudo -continuous arterial spin labeling
+T80	ResearchActivity 675 709	Regions of interest (ROI) analyses
+T81	PatientOrDisabledGroup 460 471;488 490	premanifest HD
+T82	PatientOrDisabledGroup 755 766	premanifest
+T83	ResearchActivity 786 806	Correlation analyses
+T84	ResearchActivity 1067 1071	ROIs
+T85	ResearchActivity 1443 1446	ROI
+T86	Finding 1515 1522	changes
+T87	PatientOrDisabledGroup 479 490	manifest HD

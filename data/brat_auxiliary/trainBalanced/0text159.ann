@@ -1,0 +1,44 @@
+T0	OrganismAttribute 112 121	abilities
+T1	Finding 112 121	abilities
+T2	BiologicFunction 139 156	immune-privileged
+T3	AminoAcidPeptideOrProtein 192 233	class-II major histocompatibility complex
+T4	BiologicallyActiveSubstance 192 233	class-II major histocompatibility complex
+T5	CellComponent 235 241	MHC-II
+T6	AminoAcidPeptideOrProtein 235 241	MHC-II
+T7	SignOrSymptom 369 380	intractable
+T8	BiologicFunction 412 421	affecting
+T9	BodyPartOrganOrOrganComponent 438 461	adaptive immune systems
+T10	HealthCareActivity 471 484	manipulations
+T11	ResearchActivity 471 484	manipulations
+T12	PharmacologicSubstance 536 542	agents
+T13	HealthCareActivity 597 609	manipulating
+T14	HealthCareActivity 863 876	manipulations
+T15	ResearchActivity 863 876	manipulations
+T16	HealthCareActivity 925 946	therapeutic functions
+T17	Cell 24 28	MSCs
+T18	Cell 330 334	MSCs
+T19	Cell 502 506	MSCs
+T20	Cell 577 581	MSCs
+T21	Cell 681 685	MSCs
+T22	Cell 717 721	MSCs
+T23	Cell 786 790	MSCs
+T24	Cell 903 907	MSCs
+T25	Cell 0 22	Mesenchymal stem cells
+T26	CellFunction 165 172	express
+T27	CellFunction 99 111	self-renewal
+T28	CellFunction 686 694	survival
+T29	Cell 34 56	multipotent stem cells
+T30	CellFunction 285 300	neuroprotective
+T31	Cell 12 22	stem cells
+T32	CellFunction 67 94	multilinear differentiation
+T33	Substance 267 276	molecules
+T34	Substance 554 563	molecules
+T35	Cell 129 134	cells
+T36	DiseaseOrSyndrome 1002 1028	neurodegenerative diseases
+T37	DiseaseOrSyndrome 1085 1105	Huntington's disease
+T38	DiseaseOrSyndrome 1060 1079	Parkinson's disease
+T39	DiseaseOrSyndrome 1039 1058	Alzheimer's disease
+T40	ResearchActivity 816 822	review
+T41	HealthCareActivity 816 822	review
+T42	DiseaseOrSyndrome 381 408	neurodegenerative disorders
+T43	Finding 305 328	regenerative properties

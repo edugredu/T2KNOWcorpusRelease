@@ -1,0 +1,107 @@
+T0	HealthCareActivity 32 35	EEG
+T1	HealthCareActivity 200 203	EEG
+T2	HealthCareActivity 391 394	EEG
+T3	TemporalConcept 459 470	early stage
+T4	DiseaseOrSyndrome 696 725	vascular cognitive impairment
+T5	HealthCareActivity 818 821	EEG
+T6	HealthCareActivity 898 901	EEG
+T7	ResearchActivity 975 999	Random forest regression
+T8	HealthCareActivity 1064 1067	EEG
+T9	BiologicFunction 1212 1230	cognitive function
+T10	HealthCareActivity 1253 1256	EEG
+T11	PathologicFunction 1390 1397	effects
+T12	HealthCareActivity 1432 1435	EEG
+T13	Chemical 1436 1443	metrics
+T14	HealthCareActivity 1546 1549	EEG
+T15	HealthCareActivity 1688 1691	EEG
+T16	HealthCareActivity 1810 1813	EEG
+T17	TemporalConcept 1628 1640	age of onset
+T18	OrganismAttribute 1147 1156	phenotype
+T19	TemporalConcept 1645 1659	disease course
+T20	DiseaseOrSyndrome 640 663	frontotemporal dementia
+T21	BiologicFunction 1012 1017	train
+T22	CellComponent 679 690	Lewy bodies
+T23	PopulationGroup 736 752	healthy controls
+T24	Finding 962 973	performance
+T25	Finding 1732 1743	performance
+T26	CellOrMolecularDysfunction 1411 1428	neurodegeneration
+T27	DiseaseOrSyndrome 144 163	Alzheimer's disease
+T28	ClinicalAttribute 395 405	biomarkers
+T29	ClinicalAttribute 902 912	biomarkers
+T30	ClinicalAttribute 1068 1078	biomarkers
+T31	ClinicalAttribute 1126 1136	biomarkers
+T32	ClinicalAttribute 1257 1267	biomarkers
+T33	ClinicalAttribute 1599 1609	biomarkers
+T34	PatientOrDisabledGroup 443 451	patients
+T35	PatientOrDisabledGroup 564 572	patients
+T36	PatientOrDisabledGroup 587 595	patients
+T37	PatientOrDisabledGroup 609 617	patients
+T38	BodyPartOrganOrOrganComponent 1122 1125	CSF
+T39	BodyPartOrganOrOrganComponent 1588 1591	CSF
+T40	BodyPartOrganOrOrganComponent 1694 1697	CSF
+T41	OrganismAttribute 1116 1119	age
+T42	DiseaseOrSyndrome 165 167	AD
+T43	DiseaseOrSyndrome 247 249	AD
+T44	DiseaseOrSyndrome 474 476	AD
+T45	DiseaseOrSyndrome 511 513	AD
+T46	DiseaseOrSyndrome 601 603	AD
+T47	DiseaseOrSyndrome 882 884	AD
+T48	DiseaseOrSyndrome 1345 1347	AD
+T49	DiseaseOrSyndrome 1401 1403	AD
+T50	DiseaseOrSyndrome 1917 1919	AD
+T51	DiseaseOrSyndrome 665 673	dementia
+T52	PopulationGroup 536 548	participants
+T53	PopulationGroup 1050 1062	participants
+T54	ResearchActivity 1030 1036	models
+T55	ResearchActivity 359 364	study
+T56	ResearchActivity 1789 1794	study
+T57	TemporalConcept 258 275	preclinical stage
+T58	BodyPartOrganOrOrganComponent 696 704	vascular
+T59	TemporalConcept 270 275	stage
+T60	TemporalConcept 465 470	stage
+T61	ClinicalAttribute 270 275	stage
+T62	ClinicalAttribute 465 470	stage
+T63	TemporalConcept 134 140	stages
+T64	PathologicFunction 496 507	progression
+T65	PathologicFunction 1183 1194	progression
+T66	PathologicFunction 1883 1894	progression
+T67	TemporalConcept 496 507	progression
+T68	TemporalConcept 1183 1194	progression
+T69	TemporalConcept 1883 1894	progression
+T70	HealthCareActivity 219 228	diagnosis
+T71	HealthCareActivity 1861 1870	diagnosis
+T72	OrganismAttribute 1111 1114	sex
+T73	Finding 1286 1294	accuracy
+T74	DiseaseOrSyndrome 313 316	MCI
+T75	DiseaseOrSyndrome 578 581	MCI
+T76	DiseaseOrSyndrome 873 876	MCI
+T77	DiseaseOrSyndrome 1336 1339	MCI
+T78	DiseaseOrSyndrome 1909 1912	MCI
+T79	DiseaseOrSyndrome 705 725	cognitive impairment
+T80	AminoAcidPeptideOrProtein 1142 1146	APOE
+T81	AminoAcidPeptideOrProtein 1594 1598	APOE
+T82	AminoAcidPeptideOrProtein 1700 1704	APOE
+T83	BiologicallyActiveSubstance 1142 1146	APOE
+T84	BiologicallyActiveSubstance 1594 1598	APOE
+T85	BiologicallyActiveSubstance 1700 1704	APOE
+T86	TemporalConcept 1653 1659	course
+T87	PopulationGroup 1363 1369	groups
+T88	ClinicalAttribute 773 783	Biomarkers
+T89	HealthCareActivity 1895 1905	evaluation
+T90	ResearchActivity 1895 1905	evaluation
+T91	HealthCareActivity 481 491	monitoring
+T92	DiseaseOrSyndrome 629 638	dementias
+T93	PathologicFunction 1175 1194	disease progression
+T94	PathologicFunction 1875 1894	disease progression
+T95	Finding 183 196	effectiveness
+T96	DiseaseOrSyndrome 277 311	amnestic mild cognitive impairment
+T97	HealthCareActivity 233 243	assessment
+T98	ResearchActivity 233 243	assessment
+T99	ResearchActivity 1496 1532	cross-validation predictive analyses
+T100	OrganismAttribute 736 743	healthy
+T101	HealthCareActivity 10 30	Electroencephalogram
+T102	CellOrMolecularDysfunction 86 112	aberrant neuronal activity
+T103	ResearchActivity 804 832	resting-state EEG recordings
+T104	HealthCareActivity 839 865	three-level classification
+T105	HealthCareActivity 1302 1328	three-level classification
+T106	Finding 1763 1773	prediction

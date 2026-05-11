@@ -1,0 +1,1 @@
+NLP algorithms are being used to automatically analyze and categorize clinical notes and reports, enabling researchers to identify specific symptoms and disease progression patterns in patients with Huntington's disease.

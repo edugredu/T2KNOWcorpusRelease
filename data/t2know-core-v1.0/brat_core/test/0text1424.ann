@@ -1,0 +1,83 @@
+T0	GeneOrGenome 292 296	Alix
+T1	BodyPartOrganOrOrganComponent 328 341	brain tissues
+T2	GeneOrGenome 437 441	Alix
+T3	GeneOrGenome 560 564	Alix
+T4	GeneOrGenome 719 723	Alix
+T5	BodyPartOrganOrOrganComponent 873 878	serum
+T6	GeneOrGenome 879 883	Alix
+T7	GeneOrGenome 1023 1027	Alix
+T8	DiseaseOrSyndrome 1105 1108	VaD
+T9	DiseaseOrSyndrome 1139 1142	VaD
+T10	BodyPartOrganOrOrganComponent 1215 1220	serum
+T11	GeneOrGenome 1221 1225	Alix
+T12	GeneOrGenome 1338 1342	Alix
+T13	Chemical 1381 1390	Memantine
+T14	BodyPartOrganOrOrganComponent 1477 1482	serum
+T15	GeneOrGenome 1483 1487	Alix
+T16	HealthCareActivity 161 170	diagnosis
+T17	HealthCareActivity 1261 1270	diagnosis
+T18	ResearchActivity 218 223	study
+T19	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T20	TemporalConcept 1547 1551	time
+T21	ClinicalAttribute 127 137	biomarkers
+T22	ClinicalAttribute 241 251	biomarkers
+T23	Finding 816 827	sensitivity
+T24	Finding 902 913	sensitivity
+T25	Finding 832 843	specificity
+T26	Finding 922 933	specificity
+T27	AminoAcidPeptideOrProtein 569 575	A beta
+T28	DiseaseOrSyndrome 21 23	AD
+T29	DiseaseOrSyndrome 124 126	AD
+T30	DiseaseOrSyndrome 365 367	AD
+T31	DiseaseOrSyndrome 974 976	AD
+T32	DiseaseOrSyndrome 1071 1073	AD
+T33	DiseaseOrSyndrome 1132 1134	AD
+T34	DiseaseOrSyndrome 1279 1281	AD
+T35	DiseaseOrSyndrome 1404 1406	AD
+T36	DiseaseOrSyndrome 1530 1532	AD
+T37	DiseaseOrSyndrome 1095 1103	dementia
+T38	ResearchActivity 623 662;669 677	receiver operating characteristic curve analysis
+T39	ResearchActivity 1111 1123	ROC analysis
+T40	HealthCareActivity 1368 1377	treatment
+T41	ResearchActivity 1368 1377	treatment
+T42	DiseaseOrSyndrome 50 75	neurodegenerative disease
+T43	TemporalConcept 153 160	earlier
+T44	TemporalConcept 180 187	earlier
+T45	ResearchActivity 689 709	area under the curve
+T46	ResearchActivity 711 714	AUC
+T47	ResearchActivity 1159 1162	AUC
+T48	BodyPartOrganOrOrganComponent 1086 1094	vascular
+T49	PopulationGroup 393 401	controls
+T50	PopulationGroup 982 990	controls
+T51	PatientOrDisabledGroup 368 376	patients
+T52	DiseaseOrSyndrome 1086 1103	vascular dementia
+T53	DiseaseOrSyndrome 453 470	cognitive decline
+T54	TemporalConcept 1541 1546	first
+T55	ResearchActivity 1407 1420	animal models
+T56	PopulationGroup 83 90	elderly
+T57	HealthCareActivity 1248 1270	differential diagnosis
+T58	ClinicalAttribute 1231 1240	biomarker
+T59	ClinicalAttribute 1503 1525	non-invasive biomarker
+T60	BodyPartOrganOrOrganComponent 346 351	serum
+T61	BodyPartOrganOrOrganComponent 583 588	serum
+T62	AminoAcidPeptideOrProtein 437 441	Alix
+T63	BiologicallyActiveSubstance 437 441	Alix
+T64	AminoAcidPeptideOrProtein 292 296	Alix
+T65	BiologicallyActiveSubstance 292 296	Alix
+T66	BiologicallyActiveSubstance 560 564	Alix
+T67	AminoAcidPeptideOrProtein 560 564	Alix
+T68	BiologicallyActiveSubstance 719 723	Alix
+T69	AminoAcidPeptideOrProtein 719 723	Alix
+T70	AminoAcidPeptideOrProtein 879 883	Alix
+T71	BiologicallyActiveSubstance 879 883	Alix
+T72	AminoAcidPeptideOrProtein 1023 1027	Alix
+T73	BiologicallyActiveSubstance 1023 1027	Alix
+T74	AminoAcidPeptideOrProtein 1221 1225	Alix
+T75	BiologicallyActiveSubstance 1221 1225	Alix
+T76	DiseaseOrSyndrome 1286 1289	VaD
+T77	AminoAcidPeptideOrProtein 1338 1342	Alix
+T78	BiologicallyActiveSubstance 1338 1342	Alix
+T79	PharmacologicSubstance 1381 1390	Memantine
+T80	AminoAcidPeptideOrProtein 1483 1487	Alix
+T81	BiologicallyActiveSubstance 1483 1487	Alix
+T82	ClinicalAttribute 1493 1498;1516 1525	novel biomarker

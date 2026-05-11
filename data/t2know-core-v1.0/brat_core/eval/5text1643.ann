@@ -1,0 +1,8 @@
+T0	ResearchActivity 5 12	studies
+T1	DiseaseOrSyndrome 122 141	Alzheimer's disease
+T2	PopulationGroup 105 116	individuals
+T3	BiologicFunction 95 101	memory
+T4	BiologicFunction 72 90	cognitive function
+T5	Substance 47 54	extract
+T6	Organism 33 46	Ginkgo biloba
+T7	HealthCareActivity 5 12	studies

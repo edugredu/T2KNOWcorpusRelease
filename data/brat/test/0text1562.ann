@@ -1,0 +1,110 @@
+T0	ResearchActivity 301 316;334 338	Cross-sectional data
+T1	GeneOrGenome 1251 1267;1275 1281	apolipoprotein E gene 4
+T2	DiseaseOrSyndrome 1311 1324	Brain atrophy
+T3	PathologicFunction 529 546	amyloid pathology
+T4	HealthCareActivity 728 746	structural imaging
+T5	Finding 1484 1493	worsening
+T6	AminoAcidPeptideOrProtein 580 599	neurofilament light
+T7	BiologicallyActiveSubstance 580 599	neurofilament light
+T8	DiseaseOrSyndrome 1505 1518	brain atrophy
+T9	TemporalConcept 237 257	clinical progression
+T10	TemporalConcept 1595 1615	clinical progression
+T11	TemporalConcept 1690 1710	clinical progression
+T12	ResearchActivity 947 974	linear mixed-effects models
+T13	ResearchActivity 392 435	Alzheimer's Disease Neuroimaging Initiative
+T14	HealthCareRelatedOrganization 392 435	Alzheimer's Disease Neuroimaging Initiative
+T15	Finding 1072 1074	CN
+T16	Finding 1355 1357	CN
+T17	BodyPartOrganOrOrganComponent 14 20	Plasma
+T18	BodyPartOrganOrOrganComponent 444 450	Plasma
+T19	BodyPartOrganOrOrganComponent 1629 1635	Plasma
+T20	ResearchActivity 321 338	longitudinal data
+T21	PopulationGroup 772 784	Older adults
+T22	ResearchActivity 1765 1780	clinical trials
+T23	PopulationGroup 261 273	older adults
+T24	HealthCareRelatedOrganization 437 441	ADNI
+T25	ResearchActivity 437 441	ADNI
+T26	AminoAcidPeptideOrProtein 92 95	tau
+T27	AminoAcidPeptideOrProtein 867 870	tau
+T28	DiseaseOrSyndrome 198 217	Alzheimer's disease
+T29	BiologicallyActiveSubstance 92 95	tau
+T30	BiologicallyActiveSubstance 867 870	tau
+T31	DiseaseOrSyndrome 219 221	AD
+T32	DiseaseOrSyndrome 1673 1675	AD
+T33	DiseaseOrSyndrome 1836 1838	AD
+T34	ClinicalAttribute 165 174	biomarker
+T35	ClinicalAttribute 1629 1651	Plasma A/T/N biomarker
+T36	PatientOrDisabledGroup 1092 1100	patients
+T37	PatientOrDisabledGroup 1442 1450	patients
+T38	PathologicFunction 92 105	tau pathology
+T39	PathologicFunction 561 574	tau pathology
+T40	BodyPartOrganOrOrganComponent 70 75	brain
+T41	ResearchActivity 334 338	data
+T42	PopulationGroup 342 354	participants
+T43	PopulationGroup 1035 1047	participants
+T44	PopulationGroup 1559 1571	participants
+T45	ResearchActivity 1787 1795	research
+T46	AminoAcidPeptideOrProtein 76 83	amyloid
+T47	AminoAcidPeptideOrProtein 451 458	amyloid
+T48	AminoAcidPeptideOrProtein 859 866	amyloid
+T49	BiologicallyActiveSubstance 76 83	amyloid
+T50	BiologicallyActiveSubstance 451 458	amyloid
+T51	BiologicallyActiveSubstance 859 866	amyloid
+T52	DiseaseOrSyndrome 392 411	Alzheimer's Disease
+T53	DiseaseOrSyndrome 282 290	dementia
+T54	DiseaseOrSyndrome 793 801	dementia
+T55	ClinicalAttribute 747 757	biomarkers
+T56	ClinicalAttribute 1751 1761	biomarkers
+T57	ResearchActivity 372 377	study
+T58	DiseaseOrSyndrome 1133 1136	MCI
+T59	DiseaseOrSyndrome 1438 1441	MCI
+T60	ClinicalAttribute 518 524	marker
+T61	BodyPartOrganOrOrganComponent 158 164	plasma
+T62	BodyPartOrganOrOrganComponent 642 648	plasma
+T63	BodyPartOrganOrOrganComponent 852 858	plasma
+T64	BodyPartOrganOrOrganComponent 1744 1750	plasma
+T65	BodyPartOrganOrOrganComponent 1829 1835	plasma
+T66	PathologicFunction 223 232	pathology
+T67	PathologicFunction 1676 1685	pathology
+T68	BiomedicalOccupationOrDiscipline 223 232	pathology
+T69	BiomedicalOccupationOrDiscipline 1676 1685	pathology
+T70	PathologicFunction 246 257	progression
+T71	TemporalConcept 246 257	progression
+T72	TemporalConcept 907 927	Clinical progression
+T73	AminoAcidPeptideOrProtein 548 556	p-tau181
+T74	BiologicallyActiveSubstance 548 556	p-tau181
+T75	ResearchActivity 1011 1018	Results
+T76	PopulationGroup 830 836	groups
+T77	PopulationGroup 1345 1351	groups
+T78	OrganismAttribute 1144 1147	age
+T79	PopulationGroup 1190 1202	Participants
+T80	TemporalConcept 1153 1158	years
+T81	Finding 1052 1070	cognitively normal
+T82	BiologicFunction 1367 1376	cognition
+T83	BiologicFunction 1474 1483	cognition
+T84	ResearchActivity 979 1009	Cox proportional hazard models
+T85	DiseaseOrSyndrome 1106 1131	mild cognitive impairment
+T86	AminoAcidPeptideOrProtein 1269 1273	APOE
+T87	BiologicallyActiveSubstance 1269 1273	APOE
+T88	PopulationGroup 1411 1416	group
+T89	PopulationGroup 1076 1084	subjects
+T90	PopulationGroup 1282 1290	carriers
+T91	AminoAcidPeptideOrProtein 465 471	A beta
+T92	AminoAcidPeptideOrProtein 479 485	A beta
+T93	CellOrMolecularDysfunction 110 127	neurodegeneration
+T94	CellOrMolecularDysfunction 604 621	neurodegeneration
+T95	CellOrMolecularDysfunction 871 888	neurodegeneration
+T96	AminoAcidPeptideOrProtein 451 463	amyloid beta
+T97	HealthCareActivity 695 723	positron emission tomography
+T98	PopulationGroup 1533 1539	cohort
+T99	PopulationGroup 1170 1173	men
+T100	ResearchActivity 175 183	profiles
+T101	ResearchActivity 1652 1660	profiles
+T102	ResearchActivity 84 90	burden
+T103	ClinicalAttribute 21 28	markers
+T104	ClinicalAttribute 649 656	markers
+T105	ClinicalAttribute 444 450;464 497	Plasma (A beta)(1-42)/A beta(1-40) ratio
+T106	ResearchActivity 623 631	Cut-offs
+T107	ResearchActivity 897 905	cut-offs
+T108	Finding 1377 1384	decline
+T109	Finding 1587 1591	risk

@@ -1,0 +1,57 @@
+T0	DiseaseOrSyndrome 34 46	osteoporosis
+T1	DiseaseOrSyndrome 48 50	OP
+T2	DiseaseOrSyndrome 78 99	degenerative diseases
+T3	BodyPartOrganOrOrganComponent 238 242	bone
+T4	BiologicFunction 258 271	understanding
+T5	Cell 296 311	young osteocyte
+T6	BodyPartOrganOrOrganComponent 340 344	bone
+T7	Chemical 617 623	tracer
+T8	HealthCareActivity 879 903	intramedullary injection
+T9	BodyPartOrganOrOrganComponent 968 972	bone
+T10	Cell 331 336	cells
+T11	BodyPartOrganOrOrganComponent 228 233	brain
+T12	BodyPartOrganOrOrganComponent 744 749	brain
+T13	BodyPartOrganOrOrganComponent 1200 1205	brain
+T14	ResearchActivity 1148 1153	study
+T15	ResearchActivity 609 647	OCY-EVs tracer transgenic mouse models
+T16	OrganismAttribute 63 66	age
+T17	DiseaseOrSyndrome 26 28	AD
+T18	DiseaseOrSyndrome 452 454	AD
+T19	DiseaseOrSyndrome 1132 1134	AD
+T20	DiseaseOrSyndrome 5 24	Alzheimer's disease
+T21	TemporalConcept 250 257	current
+T22	ResearchActivity 475 486	model cells
+T23	PathologicFunction 436 448	pathogenesis
+T24	ResearchActivity 1010 1041	Proteomic quantitative analysis
+T25	DiseaseOrSyndrome 407 427	cognitive impairment
+T26	DiseaseOrSyndrome 988 1008	cognitive impairment
+T27	BiomedicalOccupationOrDiscipline 133 154	clinical epidemiology
+T28	HealthCareActivity 1206 1212	health
+T29	Finding 190 215	pathological relationship
+T30	CellFunction 1135 1142	pathway
+T33	AminoAcidPeptideOrProtein 836 842	A beta
+T35	CellComponent 355 377	extracellular vesicles
+T36	CellComponent 388 391	EVs
+T38	ExperimentalModelOfDisease 458 470	APP/PS1 mice
+T39	Cell 379 387	OCYYoung
+T40	Cell 506 514	OCYYoung
+T41	Cell 565 572	OCYAged
+T42	CellComponent 573 576	EVs
+T43	CellComponent 515 518	EVs
+T44	Cell 537 551	aged osteocyte
+T45	CellComponent 560 563	EVs
+T46	ResearchActivity 656 690	in vivo fluorescent imaging system
+T47	Cell 692 695	OCY
+T48	CellComponent 696 699	EVs
+T49	ExperimentalModelOfDisease 846 873	induced young AD model mice
+T50	ResearchActivity 806 832	hippocampal administration
+T51	Virus 907 930	Rab27a-shRNA adenovirus
+T52	Cell 1055 1063	OCYYoung
+T53	CellComponent 1064 1067	EVs
+T54	Cell 1081 1088	OCYAged
+T55	CellComponent 1089 1092	EVs
+T56	Cell 1175 1178	OCY
+T57	CellComponent 1179 1181	EV
+T58	BiologicFunction 1246 1270	bone-brain communication
+T59	Cell 940 948	OCYYoung
+T60	CellComponent 949 952	EVs

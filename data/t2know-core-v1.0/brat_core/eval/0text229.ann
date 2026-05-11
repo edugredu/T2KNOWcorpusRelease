@@ -1,0 +1,27 @@
+T0	OrganismAttribute 258 274	walking dynamics
+T1	OrganismAttribute 386 401	walking ability
+T2	DiseaseOrSyndrome 79 99	Huntington's disease
+T3	DiseaseOrSyndrome 110 129	Parkinson's disease
+T4	BodyPartOrganOrOrganComponent 195 200	brain
+T5	DiseaseOrSyndrome 101 103	HD
+T6	DiseaseOrSyndrome 460 462	HD
+T7	DiseaseOrSyndrome 131 133	PD
+T8	DiseaseOrSyndrome 468 470	PD
+T9	DiseaseOrSyndrome 73 76	ALS
+T10	DiseaseOrSyndrome 455 458	ALS
+T11	DiseaseOrSyndrome 42 71	amyotrophic lateral sclerosis
+T12	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T13	PathologicFunction 175 187	degeneration
+T14	ClinicalAttribute 351 374	severity of the disease
+T15	ClinicalAttribute 676 692	disease severity
+T16	DiseaseOrSyndrome 28 32	NDDs
+T17	DiseaseOrSyndrome 442 446	NDDs
+T18	MachineActivity 547 594;603 618	threedimensional convolutional learning network -based approach
+T19	DiseaseOrSyndrome 632 660	neurodegenerative conditions
+T20	SignOrSymptom 212 226	motor symptoms
+T21	SignOrSymptom 232 246	motor symptoms
+T22	OrganismAttribute 338 342	gait
+T23	OrganismAttribute 474 478	gait
+T24	MachineActivity 495 531	convolutional long short-term memory
+T25	MachineActivity 533 541	ConvLSTM
+T26	MachineActivity 596 602	3D CNN

@@ -1,0 +1,34 @@
+T0	TemporalConcept 284 304	developmental stages
+T1	Finding 557 567	historical
+T2	PopulationGroup 772 786	subpopulations
+T3	Finding 922 936	normal density
+T4	OrganismAttribute 334 344	phenotypic
+T5	ResearchActivity 645 655	minireview
+T6	BiologicFunction 597 605	behavior
+T7	BiologicFunction 677 685	behavior
+T8	IndividualBehavior 597 605	behavior
+T9	IndividualBehavior 677 685	behavior
+T10	ResearchActivity 597 605	behavior
+T11	ResearchActivity 677 685	behavior
+T12	Cell 33 37	OPCs
+T13	Cell 382 386	OPCs
+T14	Cell 790 794	OPCs
+T15	Cell 837 841	OPCs
+T16	BodyPartOrganOrOrganComponent 974 980	myelin
+T17	BodyPartOrganOrOrganComponent 168 190	central nervous system
+T18	Cell 609 638	oligodendrocyte lineage cells
+T19	Cell 689 718	oligodendrocyte lineage cells
+T20	Cell 940 969	oligodendrocyte lineage cells
+T21	BiologicFunction 740 753	developmental
+T22	TemporalConcept 740 753	developmental
+T23	Finding 345 356	differences
+T24	Cell 78 106	myelinating oligodendrocytes
+T25	TemporalConcept 161 167	mature
+T26	TemporalConcept 572 579	current
+T27	TemporalConcept 810 817	current
+T28	TemporalConcept 884 890	states
+T29	Cell 0 31	Oligodendrocyte precursor cells
+T30	PopulationGroup 316 321	adult
+T31	EmbryonicStructure 246 270	embryonic germinal zones
+T32	EmbryonicStructure 458 472	germinal zones
+T33	BodyPartOrganOrOrganComponent 400 418	anatomical regions

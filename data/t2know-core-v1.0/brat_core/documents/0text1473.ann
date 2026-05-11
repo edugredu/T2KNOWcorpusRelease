@@ -1,0 +1,113 @@
+T0	Finding 542 546	mild
+T1	HealthCareActivity 623 643	cognitive assessment
+T2	HealthCareActivity 645 654	brain MRI
+T3	ResearchActivity 692 711	volumetric analysis
+T4	HealthCareActivity 723 747	virtual navigation tasks
+T5	BodyPartOrganOrOrganComponent 1693 1696	MTL
+T6	BodyPartOrganOrOrganComponent 1984 1997	posterior MTL
+T7	AnatomicalAbnormality 2002 2018	parietal atrophy
+T8	BiologicFunction 845 863	perspective taking
+T9	BiologicFunction 1388 1406	perspective taking
+T10	BiologicFunction 1724 1742	perspective taking
+T11	HealthCareActivity 1522 1550	conventional cognitive tests
+T12	ResearchActivity 1522 1550	conventional cognitive tests
+T13	PopulationGroup 221 233	older adults
+T14	PopulationGroup 595 607	older adults
+T15	PopulationGroup 1881 1893	older adults
+T16	ClinicalAttribute 1587 1605	parietal thickness
+T17	Finding 609 611	CN
+T18	ClinicalAttribute 165 195	spatial navigation performance
+T19	ClinicalAttribute 365 387	navigation performance
+T20	ResearchActivity 1918 1926	profiles
+T21	Finding 588 594	normal
+T22	HealthCareActivity 1031 1034	PET
+T23	HealthCareActivity 1031 1042	PET imaging
+T24	BodyPartOrganOrOrganComponent 1798 1811	brain regions
+T25	BodyPartOrganOrOrganComponent 775 779	body
+T26	DiseaseOrSyndrome 405 418	brain atrophy
+T27	ResearchActivity 1545 1550	tests
+T28	HealthCareActivity 1545 1550	tests
+T29	AminoAcidPeptideOrProtein 966 975	total tau
+T30	AminoAcidPeptideOrProtein 981 1004	phosphorylated tau(181)
+T31	AminoAcidPeptideOrProtein 1006 1016	p-tau(181)
+T32	AminoAcidPeptideOrProtein 1709 1719	p-tau(181)
+T33	DiseaseOrSyndrome 75 94	Alzheimer's disease
+T34	ClinicalAttribute 450 460	biomarkers
+T35	ClinicalAttribute 1824 1834	biomarkers
+T36	DiseaseOrSyndrome 96 98	AD
+T37	DiseaseOrSyndrome 199 201	AD
+T38	DiseaseOrSyndrome 275 282	AD aMCI
+T39	DiseaseOrSyndrome 294 296	AD
+T40	DiseaseOrSyndrome 321 328	AD aMCI
+T41	DiseaseOrSyndrome 502 509	AD aMCI
+T42	DiseaseOrSyndrome 524 531	AD aMCI
+T43	DiseaseOrSyndrome 547 549	AD
+T44	DiseaseOrSyndrome 1140 1147	AD aMCI
+T45	DiseaseOrSyndrome 1173 1180	AD aMCI
+T46	DiseaseOrSyndrome 1304 1311	AD aMCI
+T47	DiseaseOrSyndrome 1337 1344	AD aMCI
+T48	DiseaseOrSyndrome 1480 1487	AD aMCI
+T49	DiseaseOrSyndrome 1496 1503	AD aMCI
+T50	DiseaseOrSyndrome 2033 2035	AD
+T51	ClinicalAttribute 202 211	biomarker
+T52	ClinicalAttribute 297 306	biomarker
+T53	ClinicalAttribute 924 933	biomarker
+T54	ClinicalAttribute 1849 1858	biomarker
+T55	AminoAcidPeptideOrProtein 946 964	amyloid-beta(1-42)
+T56	AminoAcidPeptideOrProtein 1610 1628	amyloid-beta(1-42)
+T57	DiseaseOrSyndrome 550 558	dementia
+T58	ResearchActivity 668 711	high-quality images for volumetric analysis
+T59	BodyPartOrganOrOrganComponent 445 448	CSF
+T60	BodyPartOrganOrOrganComponent 920 923	CSF
+T61	BodyPartOrganOrOrganComponent 1820 1823	CSF
+T62	PathologicFunction 132 141	pathology
+T63	PathologicFunction 2036 2045	pathology
+T64	BiomedicalOccupationOrDiscipline 132 141	pathology
+T65	BiomedicalOccupationOrDiscipline 2036 2045	pathology
+T66	ClinicalAttribute 65 71	marker
+T67	Substance 438 443	fluid
+T68	HealthCareActivity 389 392	MRI
+T69	HealthCareActivity 651 654	MRI
+T70	HealthCareActivity 1774 1777	MRI
+T71	HealthCareActivity 1035 1042	imaging
+T72	TemporalConcept 221 226	older
+T73	TemporalConcept 595 600	older
+T74	TemporalConcept 1881 1886	older
+T75	PopulationGroup 484 496	participants
+T76	PopulationGroup 897 909	participants
+T77	PopulationGroup 1245 1257	participants
+T78	PopulationGroup 1424 1436	participants
+T79	PopulationGroup 227 233	adults
+T80	PopulationGroup 601 607	adults
+T81	PopulationGroup 1887 1893	adults
+T82	BodyPartOrganOrOrganComponent 424 443	cerebrospinal fluid
+T83	DiseaseOrSyndrome 239 273	amnestic mild cognitive impairment
+T84	AminoAcidPeptideOrProtein 1023 1030	amyloid
+T85	BiologicallyActiveSubstance 946 964	amyloid-beta(1-42)
+T86	BiologicallyActiveSubstance 1023 1030	amyloid
+T87	BiologicallyActiveSubstance 1610 1628	amyloid-beta(1-42)
+T88	BiologicallyActiveSubstance 966 975	total tau
+T89	BiologicallyActiveSubstance 981 1004	phosphorylated tau(181)
+T90	BiologicallyActiveSubstance 1006 1016	p-tau(181)
+T91	BiologicallyActiveSubstance 1709 1719	p-tau(181)
+T92	BiologicFunction 759 773	route learning
+T93	BiologicFunction 1124 1138	route learning
+T94	BiologicFunction 1552 1566	Route learning
+T95	SignOrSymptom 10 39	Spatial navigation impairment
+T96	BiologicFunction 10 28	Spatial navigation
+T97	BiologicFunction 165 183	spatial navigation
+T98	BiologicFunction 775 799	body-centered navigation
+T99	BiologicFunction 802 812	wayfinding
+T100	BiologicFunction 814 839	world-centered navigation
+T101	BiologicFunction 864 874	wayfinding
+T102	BiologicFunction 1228 1238	wayfinding
+T103	DiseaseOrSyndrome 1240 1244	aMCI
+T104	BiologicFunction 1407 1417	wayfinding
+T105	DiseaseOrSyndrome 1419 1423	aMCI
+T106	BiologicFunction 1630 1640	wayfinding
+T107	BodyPartOrganOrOrganComponent 1661 1691	posterior medial temporal lobe
+T108	BiologicFunction 1743 1753	wayfinding
+T109	DiseaseOrSyndrome 1899 1903	aMCI
+T110	BiologicFunction 1930 1948	spatial navigation
+T111	SignOrSymptom 1930 1957	spatial navigation deficits
+T112	ClinicalAttribute 1661 1691;1698 1704	posterior medial temporal lobe volume

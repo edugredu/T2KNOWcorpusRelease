@@ -1,0 +1,114 @@
+T0	Cell 0 5	Glial
+T1	AminoAcidPeptideOrProtein 36 45	connexins
+T2	AminoAcidPeptideOrProtein 47 50	Cxs
+T3	BodyPartOrganOrOrganComponent 58 71	gap junctions
+T4	AminoAcidPeptideOrProtein 380 383	Cxs
+T5	ResearchActivity 514 527	human studies
+T6	BodyPartOrganOrOrganComponent 556 566	astrocytic
+T7	Cell 804 820	oligodendrocytic
+T8	BodyPartOrganOrOrganComponent 833 839	cortex
+T9	PathologicFunction 945 952	gliosis
+T10	Finding 954 967	neuronal loss
+T11	SignOrSymptom 973 990	memory impairment
+T12	AnatomicalAbnormality 1173 1180	plaques
+T13	Finding 1460 1465	shift
+T14	Cell 1492 1511	astrocyte-astrocyte
+T15	BodyPartOrganOrOrganComponent 1512 1525	gap junctions
+T16	AminoAcidPeptideOrProtein 1746 1749	Cxs
+T17	AminoAcidPeptideOrProtein 1837 1840	Cxs
+T18	BodyPartOrganOrOrganComponent 103 106	CNS
+T19	Substance 157 166	molecules
+T20	BiologicFunction 1196 1210	colocalization
+T21	ExperimentalModelOfDisease 1077 1087	5XFAD mice
+T22	BodyPartOrganOrOrganComponent 844 852	thalamus
+T23	Cell 1263 1267	OPCs
+T24	Cell 1230 1261	Oligodendrocyte precursor cells
+T25	DiseaseOrSyndrome 416 439	demyelinating disorders
+T26	CellFunction 1697 1705	survival
+T27	Cell 660 669	astrocyte
+T28	Cell 1393 1402	astrocyte
+T29	Cell 1492 1501	astrocyte
+T30	Cell 1502 1511	astrocyte
+T31	CellFunction 351 362	myelination
+T32	CellFunction 1597 1608	myelination
+T33	Cell 670 685	oligodendrocyte
+T34	Cell 1273 1307	mature oligodendrocyte populations
+T35	Cell 1403 1418	oligodendrocyte
+T36	Cell 1565 1580	oligodendrocyte
+T37	Cell 1681 1696	oligodendrocyte
+T38	Cell 1821 1836	oligodendrocyte
+T39	ResearchActivity 248 274	experimental animal models
+T40	Eukaryote 1004 1018	wild-type mice
+T41	BodyPartOrganOrOrganComponent 344 347	GJs
+T42	BodyPartOrganOrOrganComponent 686 689	GJs
+T43	Cell 338 343	glial
+T44	CellFunction 1051 1067	immunoreactivity
+T45	CellFunction 1125 1141	immunoreactivity
+T46	AminoAcidPeptideOrProtein 567 571	Cx43
+T47	AminoAcidPeptideOrProtein 648 652	Cx43
+T48	AminoAcidPeptideOrProtein 775 779	Cx43
+T49	AminoAcidPeptideOrProtein 1020 1024	Cx43
+T50	AminoAcidPeptideOrProtein 1216 1220	Cx43
+T51	AminoAcidPeptideOrProtein 1469 1473	Cx43
+T52	PathologicFunction 1100 1112	astrogliosis
+T53	AminoAcidPeptideOrProtein 1533 1545	hemichannels
+T54	BiologicallyActiveSubstance 1533 1545	hemichannels
+T55	AminoAcidPeptideOrProtein 784 788	Cx30
+T56	AminoAcidPeptideOrProtein 1029 1033	Cx30
+T57	BiologicallyActiveSubstance 784 788	Cx30
+T58	BiologicallyActiveSubstance 1029 1033	Cx30
+T59	BiologicallyActiveSubstance 567 571	Cx43
+T60	BiologicallyActiveSubstance 648 652	Cx43
+T61	BiologicallyActiveSubstance 775 779	Cx43
+T62	BiologicallyActiveSubstance 1020 1024	Cx43
+T63	BiologicallyActiveSubstance 1216 1220	Cx43
+T64	BiologicallyActiveSubstance 1469 1473	Cx43
+T65	AminoAcidPeptideOrProtein 613 617	Cx47
+T66	AminoAcidPeptideOrProtein 821 825	Cx47
+T67	AminoAcidPeptideOrProtein 1120 1124	Cx47
+T68	AminoAcidPeptideOrProtein 1165 1169	Cx47
+T69	BiologicallyActiveSubstance 613 617	Cx47
+T70	BiologicallyActiveSubstance 821 825	Cx47
+T71	BiologicallyActiveSubstance 1120 1124	Cx47
+T72	BiologicallyActiveSubstance 1165 1169	Cx47
+T73	CellOrMolecularDysfunction 1332 1347	myelin deficits
+T74	BodyPartOrganOrOrganComponent 1170 1172	GJ
+T75	InjuryOrPoisoning 1649 1657	toxicity
+T76	ResearchActivity 724 729	study
+T77	ResearchActivity 1717 1722	study
+T78	PathologicFunction 579 590	progression
+T79	PathologicFunction 1781 1792	progression
+T80	TemporalConcept 579 590	progression
+T81	TemporalConcept 1781 1792	progression
+T82	Finding 1732 1740	evidence
+T83	Finding 197 208	involvement
+T84	AminoAcidPeptideOrProtein 19 27	proteins
+T85	BiologicFunction 367 378	homeostasis
+T86	BiologicFunction 1581 1592	homeostasis
+T87	DiseaseOrSyndrome 477 496	Alzheimer's disease
+T88	DiseaseOrSyndrome 498 500	AD
+T89	DiseaseOrSyndrome 594 596	AD
+T90	DiseaseOrSyndrome 1709 1711	AD
+T91	DiseaseOrSyndrome 1796 1798	AD
+T92	DiseaseOrSyndrome 1844 1846	AD
+T93	Cell 184 189	cells
+T94	ResearchActivity 889 894	model
+T95	DiseaseOrSyndrome 449 467	Multiple Sclerosis
+T96	DiseaseOrSyndrome 469 471	MS
+T97	ResearchActivity 1864 1877	investigation
+T98	TemporalConcept 1071 1076	older
+T99	BodyPartOrganOrOrganComponent 79 101	central nervous system
+T100	AminoAcidPeptideOrProtein 926 932	A beta
+T101	AminoAcidPeptideOrProtein 1642 1648	A beta
+T102	AnatomicalAbnormality 1221 1228	plaques
+T103	BodyPartOrganOrOrganComponent 6 18	gap junction
+T104	CellFunction 121 153	bidirectional cytosolic exchange
+T105	Cell 753 763	astrocytic
+T106	AminoAcidPeptideOrProtein 764 773	connexins
+T107	BiologicallyActiveSubstance 764 773	connexins
+T108	ExperimentalModelOfDisease 860 883	5XFAD mouse model of AD
+T109	PathologicFunction 926 943	A beta deposition
+T110	BodyPartOrganOrOrganComponent 1419 1431	gap junction
+T111	BiologicFunction 1432 1444	connectivity
+T112	BiologicallyActiveSubstance 1746 1749	Cxs
+T113	BiologicallyActiveSubstance 1837 1840	Cxs

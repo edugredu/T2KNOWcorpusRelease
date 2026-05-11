@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 148 175	neurodegenerative disorders
+T1	CellFunction 118 133	neuroprotective
+T2	ResearchActivity 134 144	strategies
+T3	BiologicFunction 134 144	strategies
+T4	HealthCareActivity 53 75	rebiotic interventions
+T5	Organism 10 19	microbial
+T6	PathologicFunction 20 29	dysbiosis
+T7	Bacterium 38 47	probiotic

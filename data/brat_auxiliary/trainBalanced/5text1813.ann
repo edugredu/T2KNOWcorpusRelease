@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 120 147	neurodegenerative disorders
+T1	NucleicAcidNucleosideOrNucleotide 34 41	vectors
+T2	ResearchActivity 4 18	immunogenicity
+T3	ResearchActivity 19 26	profile
+T4	HealthCareActivity 101 115	gene therapies
+T5	Virus 30 33	AAV

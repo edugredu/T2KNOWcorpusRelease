@@ -1,0 +1,90 @@
+T0	PopulationGroup 105 117	young adults
+T1	HealthCareActivity 151 166	immunotherapies
+T2	CellFunction 393 404	myelinating
+T3	CellComponent 1094 1106	supernatants
+T4	CellOrMolecularDysfunction 1396 1417	oligodendroglial loss
+T5	ResearchActivity 1003 1014	experiments
+T6	BiomedicalOccupationOrDiscipline 497 512	pharmacological
+T7	TemporalConcept 36 44	frequent
+T8	Finding 1564 1586	pathological hallmarks
+T9	Cell 1052 1056	iPSC
+T10	PopulationGroup 111 117	adults
+T11	Cell 405 421	oligodendrocytes
+T12	Cell 1066 1082	oligodendrocytes
+T13	Cell 1338 1354	oligodendrocytes
+T14	PathologicFunction 45 58	demyelinating
+T15	PathologicFunction 298 311	demyelinating
+T16	BodyPartOrganOrOrganComponent 275 281	myelin
+T17	BodyPartOrganOrOrganComponent 1283 1289	myelin
+T18	DiseaseOrSyndrome 45 66	demyelinating disease
+T19	InjuryOrPoisoning 334 341	lesions
+T20	InjuryOrPoisoning 1377 1384	lesions
+T21	InjuryOrPoisoning 1476 1483	lesions
+T22	InjuryOrPoisoning 960 966	lesion
+T23	InjuryOrPoisoning 1247 1253	lesion
+T24	InjuryOrPoisoning 1607 1613	lesion
+T25	Cell 1331 1354	mature oligodendrocytes
+T26	CellOrMolecularDysfunction 440 461	remyelination failure
+T27	CellOrMolecularDysfunction 765 786	remyelination failure
+T28	CellOrMolecularDysfunction 1196 1217	remyelination failure
+T29	CellFunction 352 367	differentiation
+T30	CellFunction 555 570	differentiation
+T31	CellFunction 231 244	Remyelination
+T32	CellComponent 275 289	myelin sheaths
+T33	BodyPartOrganOrOrganComponent 976 988	white matter
+T34	Cell 393 421	myelinating oligodendrocytes
+T35	Cell 371 387	progenitor cells
+T36	TemporalConcept 1331 1337	mature
+T37	IndividualBehavior 454 461	failure
+T38	IndividualBehavior 779 786	failure
+T39	IndividualBehavior 1210 1217	failure
+T40	PathologicFunction 919 931	inflammatory
+T41	Cell 538 554	oligodendroglial
+T42	Cell 847 863	oligodendroglial
+T43	Cell 1396 1412	oligodendroglial
+T44	Cell 847 868	oligodendroglial cell
+T45	BiologicFunction 482 493	development
+T46	BiologicFunction 1652 1663	development
+T47	CellFunction 482 493	development
+T48	CellFunction 1652 1663	development
+T49	Eukaryote 1122 1127	human
+T50	PathologicFunction 192 203	progression
+T51	TemporalConcept 192 203	progression
+T52	Cell 864 868	cell
+T53	Cell 1046 1050	cell
+T54	ResearchActivity 1541 1547	models
+T55	HealthCareActivity 625 634	treatment
+T56	ResearchActivity 625 634	treatment
+T57	TemporalConcept 177 182	years
+T58	Cell 1112 1121;1128 1137	polarized microglia
+T59	BodyPartOrganOrOrganComponent 1432 1438	tissue
+T60	ResearchActivity 994 1002	in vitro
+T61	ResearchActivity 1532 1540	in vitro
+T62	HealthCareActivity 497 523	pharmacological approaches
+T63	TemporalConcept 170 182	recent years
+T64	PharmacologicSubstance 1691 1696	drugs
+T65	ResearchActivity 1520 1527	in vivo
+T66	PathologicFunction 184 203	disease progression
+T67	ResearchActivity 815 836	histological analyses
+T68	TemporalConcept 706 714	recently
+T69	CellFunction 440 453	remyelination
+T70	CellFunction 583 596	remyelination
+T71	CellFunction 765 778	remyelination
+T72	CellFunction 890 903	remyelination
+T73	CellFunction 1196 1209	remyelination
+T74	CellFunction 1667 1680	remyelination
+T75	CellComponent 1283 1296	myelin sheath
+T76	DiseaseOrSyndrome 20 22	MS
+T77	DiseaseOrSyndrome 331 333	MS
+T78	DiseaseOrSyndrome 790 792	MS
+T79	DiseaseOrSyndrome 957 959	MS
+T80	DiseaseOrSyndrome 1221 1223	MS
+T81	DiseaseOrSyndrome 1604 1606	MS
+T82	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T83	Finding 878 886	presence
+T84	Finding 1319 1327	presence
+T85	Finding 139 147	advances
+T86	Finding 91 101	disability
+T87	Cell 1021 1050	induced-pluripotent stem cell
+T88	TemporalConcept 1254 1259	stage
+T89	CellOrMolecularDysfunction 1275 1306	lack of myelin sheath formation

@@ -1,0 +1,8 @@
+T0	CellFunction 39 53	phosphorylated
+T1	DiseaseOrSyndrome 128 147	Alzheimer's disease
+T2	Substance 12 21	molecules
+T3	CellOrMolecularDysfunction 60 83	neurofibrillary tangles
+T4	BiologicallyActiveSubstance 0 3	Tau
+T5	AminoAcidPeptideOrProtein 0 3	Tau
+T6	AminoAcidPeptideOrProtein 4 11	protein
+T7	CellComponent 60 83	neurofibrillary tangles

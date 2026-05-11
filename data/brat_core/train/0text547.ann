@@ -1,0 +1,41 @@
+T0	Finding 46 55	incidence
+T1	DiseaseOrSyndrome 95 114	Alzheimer's disease
+T2	DiseaseOrSyndrome 116 135	Parkinson's disease
+T3	DiseaseOrSyndrome 159 172	Prion disease
+T4	DiseaseOrSyndrome 178 207	amyotrophic lateral sclerosis
+T5	ManufacturedObject 346 370	Engineered nanoparticles
+T6	OrganismAttribute 378 382	size
+T7	BiologicFunction 673 685	developments
+T8	CellFunction 673 685	developments
+T9	ManufacturedObject 697 710	nanomaterials
+T10	Chemical 721 730	liposomes
+T11	Chemical 757 762	metal
+T12	BiomedicalOccupationOrDiscipline 827 839	theranostics
+T13	CellFunction 1029 1044	neuroprotection
+T14	BiologicFunction 1049 1077	neuronal tissue regeneration
+T15	HealthCareActivity 1122 1128	safety
+T16	InjuryOrPoisoning 1130 1138	toxicity
+T17	HealthCareActivity 1140 1150	challenges
+T18	BiologicFunction 1163 1170	outlook
+T19	BodyPartOrganOrOrganComponent 325 344	blood-brain barrier
+T20	BodyPartOrganOrOrganComponent 573 592	blood-brain barrier
+T21	BodyPartOrganOrOrganComponent 331 336	brain
+T22	BodyPartOrganOrOrganComponent 579 584	brain
+T23	TemporalConcept 1079 1086	current
+T24	DiseaseOrSyndrome 137 157	Huntington's disease
+T25	DiseaseOrSyndrome 59 86	neurodegenerative disorders
+T26	DiseaseOrSyndrome 865 892	neurodegenerative disorders
+T27	DiseaseOrSyndrome 958 985	neurodegenerative disorders
+T28	ResearchActivity 638 653	review articles
+T29	HealthCareActivity 213 222	treatment
+T30	ResearchActivity 213 222	treatment
+T31	HealthCareActivity 293 313	therapeutic moieties
+T32	Finding 549 568	capability to cross
+T33	ManufacturedObject 782 799	bio-nanoparticles
+T34	ManufacturedObject 732 755	polymeric nanoparticles
+T35	ManufacturedObject 757 776	metal nanoparticles
+T36	HealthCareActivity 827 852	theranostics applications
+T37	HealthCareActivity 920 944	nanomedicinal approaches
+T38	TemporalConcept 1156 1162	future
+T39	HealthCareActivity 811 822;840 852	therapeutic applications
+T40	ClinicalAttribute 1087 1102	clinical status

@@ -1,0 +1,76 @@
+T0	DiseaseOrSyndrome 308 329	cognitive impairments
+T1	BiomedicalOccupationOrDiscipline 432 444	Pathological
+T2	CellComponent 480 492	microtubules
+T3	ClinicalAttribute 640 648	mobility
+T4	Finding 640 648	mobility
+T5	AminoAcidPeptideOrProtein 697 720	glutamatergic receptors
+T6	CellComponent 750 766	dendritic spines
+T7	CellComponent 473 479	axonal
+T8	CellOrMolecularDysfunction 205 225	Synaptic dysfunction
+T9	CellComponent 524 536	postsynaptic
+T10	CellComponent 770 792	postsynaptic terminals
+T11	CellFunction 873 885	phagocytosis
+T12	Finding 686 696	decreasing
+T13	Finding 331 352	Accumulating evidence
+T14	CellComponent 805 818	mitochondrial
+T15	CellOrMolecularDysfunction 367 387	synaptic dysfunction
+T16	CellOrMolecularDysfunction 583 603	synaptic dysfunction
+T17	CellOrMolecularDysfunction 987 1007	synaptic dysfunction
+T18	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T19	DiseaseOrSyndrome 21 23	AD
+T20	DiseaseOrSyndrome 265 267	AD
+T21	DiseaseOrSyndrome 428 430	AD
+T22	DiseaseOrSyndrome 1048 1050	AD
+T23	DiseaseOrSyndrome 1206 1208	AD
+T24	BodyPartOrganOrOrganComponent 367 375	synaptic
+T25	BodyPartOrganOrOrganComponent 583 591	synaptic
+T26	BodyPartOrganOrOrganComponent 987 995	synaptic
+T27	BodyPartOrganOrOrganComponent 1128 1136	synaptic
+T28	CellFunction 1128 1145	synaptic function
+T29	Finding 344 352	evidence
+T30	AminoAcidPeptideOrProtein 174 177	tau
+T31	AminoAcidPeptideOrProtein 445 448	tau
+T32	AminoAcidPeptideOrProtein 974 977	tau
+T33	AminoAcidPeptideOrProtein 1116 1119	tau
+T34	BodyPartOrganOrOrganComponent 198 203	brain
+T35	BiologicallyActiveSubstance 174 177	tau
+T36	BiologicallyActiveSubstance 445 448	tau
+T37	BiologicallyActiveSubstance 974 977	tau
+T38	BiologicallyActiveSubstance 1116 1119	tau
+T39	Finding 178 190	accumulation
+T40	CellFunction 805 828	mitochondrial transport
+T41	Cell 537 545	neuronal
+T42	ResearchActivity 921 927	review
+T43	HealthCareActivity 921 927	review
+T44	Cell 901 910	microglia
+T45	TemporalConcept 932 939	current
+T46	AminoAcidPeptideOrProtein 133 139	A beta
+T47	ResearchActivity 1191 1201	strategies
+T48	BiologicFunction 1191 1201	strategies
+T49	TemporalConcept 73 84	progressive
+T50	AminoAcidPeptideOrProtein 119 126	amyloid
+T51	BiologicallyActiveSubstance 119 126	amyloid
+T52	BiologicFunction 940 953	understanding
+T53	DiseaseOrSyndrome 30 55	neurodegenerative disease
+T54	DiseaseOrSyndrome 85 102	cognitive decline
+T55	DiseaseOrSyndrome 1027 1044	cognitive decline
+T56	AminoAcidPeptideOrProtein 154 177	hyperphosphorylated tau
+T57	BiologicallyActiveSubstance 154 177	hyperphosphorylated tau
+T58	CellComponent 664 675	presynaptic
+T59	CellComponent 664 684	presynaptic vesicles
+T60	Finding 95 102	decline
+T61	BiologicallyActiveSubstance 697 720	glutamatergic receptors
+T62	CellComponent 546 558	compartments
+T63	PathologicFunction 214 225	dysfunction
+T64	PathologicFunction 376 387	dysfunction
+T65	PathologicFunction 592 603	dysfunction
+T66	PathologicFunction 996 1007	dysfunction
+T67	Finding 253 261	hallmark
+T68	Finding 631 639	reducing
+T69	BodyPartOrganOrOrganComponent 845 853	synapses
+T70	BodyPartOrganOrOrganComponent 889 897	synapses
+T71	AminoAcidPeptideOrProtein 119 131	amyloid-beta
+T72	HealthCareActivity 1179 1201	therapeutic strategies
+T73	PathologicFunction 961 977	pathological tau
+T74	CellFunction 736 766	maturation of dendritic spines
+T75	CellFunction 653 684	release of presynaptic vesicles

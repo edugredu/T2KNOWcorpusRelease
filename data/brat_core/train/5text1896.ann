@@ -1,0 +1,9 @@
+T0	OrganismAttribute 73 76	age
+T1	BodyPartOrganOrOrganComponent 46 50	skin
+T2	BodyPartOrganOrOrganComponent 96 100	skin
+T3	NaturalPhenomenonOrProcess 0 12	UV radiation
+T4	DiseaseOrSyndrome 88 111	loss of skin elasticity
+T5	CellFunction 33 38	aging
+T6	BiologicFunction 33 38	aging
+T7	SignOrSymptom 77 82	spots
+T8	SignOrSymptom 63 71	wrinkles

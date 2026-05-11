@@ -1,0 +1,96 @@
+T0	SignOrSymptom 12 19	Fatigue
+T1	SignOrSymptom 60 67	Fatigue
+T2	Finding 218 229	comorbidity
+T3	CellFunction 486 495	viability
+T4	BiologicFunction 590 598	function
+T5	CellFunction 590 598	function
+T6	DiseaseOrSyndrome 114 134	neurological disease
+T7	HealthCareActivity 293 331	subjective standardized questionnaires
+T8	HealthCareActivity 745 768	Insomnia Severity Index
+T9	HealthCareActivity 770 773	ISI
+T10	HealthCareActivity 1439 1442	ISI
+T11	SignOrSymptom 383 390	fatigue
+T12	SignOrSymptom 447 454	fatigue
+T13	SignOrSymptom 525 540	primary fatigue
+T14	SignOrSymptom 1580 1587	fatigue
+T15	SignOrSymptom 1689 1696	fatigue
+T16	BodyPartOrganOrOrganComponent 191 194	CNS
+T17	BodyPartOrganOrOrganComponent 636 639	CNS
+T18	AminoAcidPeptideOrProtein 1164 1172	peptides
+T19	DiseaseOrSyndrome 56 58	MS
+T20	DiseaseOrSyndrome 364 374	primary MS
+T21	DiseaseOrSyndrome 458 460	MS
+T22	DiseaseOrSyndrome 544 546	MS
+T23	DiseaseOrSyndrome 666 668	MS
+T24	DiseaseOrSyndrome 1000 1002	MS
+T25	DiseaseOrSyndrome 1020 1022	MS
+T26	DiseaseOrSyndrome 1032 1034	MS
+T27	DiseaseOrSyndrome 1052 1054	MS
+T28	DiseaseOrSyndrome 1066 1068	MS
+T29	DiseaseOrSyndrome 1093 1095	MS
+T30	DiseaseOrSyndrome 1178 1180	MS
+T31	DiseaseOrSyndrome 1273 1275	MS
+T32	DiseaseOrSyndrome 1367 1369	MS
+T33	DiseaseOrSyndrome 1411 1413	MS
+T34	DiseaseOrSyndrome 1549 1551	MS
+T35	DiseaseOrSyndrome 1654 1656	MS
+T36	DiseaseOrSyndrome 1711 1713	MS
+T37	AminoAcidPeptideOrProtein 1132 1157	amyloid precursor protein
+T38	ResearchActivity 249 260	measurement
+T39	HealthCareActivity 249 260	measurement
+T40	AminoAcidPeptideOrProtein 1159 1162	APP
+T41	AminoAcidPeptideOrProtein 1266 1269	APP
+T42	AminoAcidPeptideOrProtein 1314 1317	APP
+T43	AminoAcidPeptideOrProtein 1531 1534	APP
+T44	AminoAcidPeptideOrProtein 1589 1592	APP
+T45	GeneOrGenome 1159 1162	APP
+T46	GeneOrGenome 1266 1269	APP
+T47	GeneOrGenome 1314 1317	APP
+T48	GeneOrGenome 1531 1534	APP
+T49	GeneOrGenome 1589 1592	APP
+T50	BiologicallyActiveSubstance 1159 1162	APP
+T51	BiologicallyActiveSubstance 1266 1269	APP
+T52	BiologicallyActiveSubstance 1314 1317	APP
+T53	BiologicallyActiveSubstance 1531 1534	APP
+T54	BiologicallyActiveSubstance 1589 1592	APP
+T55	TemporalConcept 261 270	currently
+T56	Finding 42 52	disability
+T57	BiologicFunction 1535 1545	metabolism
+T58	CellFunction 1535 1545	metabolism
+T59	Finding 992 998	scores
+T60	BodyPartOrganOrOrganComponent 822 825	CSF
+T61	ClinicalAttribute 559 568	biomarker
+T62	ClinicalAttribute 1218 1227	biomarker
+T63	ClinicalAttribute 1618 1627	biomarker
+T64	PatientOrDisabledGroup 669 677	patients
+T65	PatientOrDisabledGroup 1714 1722	patients
+T66	OrganismAttribute 685 692	healthy
+T67	PopulationGroup 693 701	controls
+T68	BodyPartOrganOrOrganComponent 972 977	brain
+T69	PopulationGroup 835 847	participants
+T70	BiologicFunction 1674 1685	development
+T71	CellFunction 1674 1685	development
+T72	AminoAcidPeptideOrProtein 1132 1139	amyloid
+T73	BiologicallyActiveSubstance 1132 1139	amyloid
+T74	HealthCareActivity 1460 1469	diagnosis
+T75	ClinicalAttribute 433 443	biomarkers
+T76	ClinicalAttribute 511 521	biomarkers
+T77	ClinicalAttribute 862 872	biomarkers
+T78	ResearchActivity 467 472	study
+T79	PathologicFunction 1657 1666	pathology
+T80	BiomedicalOccupationOrDiscipline 1657 1666	pathology
+T81	PopulationGroup 1700 1710	individual
+T82	ResearchActivity 1084 1091	Results
+T83	TemporalConcept 1447 1453	months
+T84	PopulationGroup 1256 1261	group
+T85	HealthCareActivity 603 609	health
+T86	ClinicalAttribute 1399 1406	markers
+T87	ResearchActivity 559 574	biomarker panel
+T88	HealthCareActivity 712 734	Fatigue Severity Scale
+T89	HealthCareActivity 736 739	FSS
+T90	ClinicalAttribute 788 807	clinical parameters
+T91	HealthCareActivity 988 991	FSS
+T92	HealthCareActivity 1038 1041	FSS
+T93	HealthCareActivity 1245 1248	FSS
+T94	ClinicalAttribute 1345 1363	clinical parameter
+T95	HealthCareActivity 1415 1418	FSS

@@ -1,0 +1,103 @@
+T0	BodyPartOrganOrOrganComponent 0 13	Gap junctions
+T1	BodyPartOrganOrOrganComponent 15 18	GJs
+T2	AminoAcidPeptideOrProtein 96 118	connexin (Cx) proteins
+T3	Cell 135 145	neuroglial
+T4	CellFunction 135 155	neuroglial crosstalk
+T5	Cell 240 245	glial
+T6	BodyPartOrganOrOrganComponent 246 249	GJs
+T7	Cell 408 417	astrocyte
+T8	Cell 430 445	oligodendrocyte
+T9	BodyPartOrganOrOrganComponent 446 449	GJs
+T10	BodyPartOrganOrOrganComponent 492 503	spinal cord
+T11	CellFunction 799 815	immunoreactivity
+T12	Cell 819 829	astroglial
+T13	AminoAcidPeptideOrProtein 830 834	Cx43
+T14	TemporalConcept 1013 1019	mature
+T15	Cell 1037 1063	precursor oligodendrocytes
+T16	CellFunction 1083 1099	immunoreactivity
+T17	BodyPartOrganOrOrganComponent 1117 1120	GJs
+T18	BodyPartOrganOrOrganComponent 1382 1394	spinal cords
+T19	ResearchActivity 1425 1432	qRT-PCR
+T20	BodyPartOrganOrOrganComponent 1508 1514	myelin
+T21	CellComponent 1508 1514	myelin
+T22	CellComponent 1592 1597	axons
+T23	Cell 1687 1692	glial
+T24	BodyPartOrganOrOrganComponent 1714 1725	spinal cord
+T25	PathologicFunction 1778 1790	GJ pathology
+T26	Cell 1135 1140	cells
+T27	DiseaseOrSyndrome 253 280	neurodegenerative disorders
+T28	ResearchActivity 368 373	study
+T29	BodyPartOrganOrOrganComponent 187 190	CNS
+T30	ResearchActivity 1642 1646	data
+T31	Finding 1886 1907	extensive alterations
+T32	OrganismAttribute 745 748	age
+T33	CellOrMolecularDysfunction 1794 1811	neurodegeneration
+T34	ResearchActivity 202 209	studies
+T35	DiseaseOrSyndrome 347 349	AD
+T36	DiseaseOrSyndrome 532 534	AD
+T37	DiseaseOrSyndrome 1748 1750	AD
+T38	DiseaseOrSyndrome 326 345	Alzheimer's disease
+T39	BodyPartOrganOrOrganComponent 163 185	central nervous system
+T40	ResearchActivity 1821 1834	investigation
+T41	TemporalConcept 193 201	Previous
+T42	PopulationGroup 1409 1417	controls
+T43	DiseaseOrSyndrome 286 294	dementia
+T44	ResearchActivity 540 548	analysis
+T45	ResearchActivity 1433 1441	analysis
+T46	DiseaseOrSyndrome 298 315	motor dysfunction
+T47	ClinicalAttribute 696 713	motor performance
+T48	Cell 603 612	microglia
+T49	PathologicFunction 618 630	astrogliosis
+T50	CellFunction 1693 1706	GJ expression
+T51	AminoAcidPeptideOrProtein 470 484	A beta plaques
+T52	AminoAcidPeptideOrProtein 856 870	A beta plaques
+T53	AminoAcidPeptideOrProtein 1568 1582	A beta plaques
+T54	PathologicFunction 470 484	A beta plaques
+T55	PathologicFunction 856 870	A beta plaques
+T56	PathologicFunction 1568 1582	A beta plaques
+T57	TemporalConcept 730 736	months
+T58	AminoAcidPeptideOrProtein 567 580	A beta plaque
+T59	AminoAcidPeptideOrProtein 36 58	transmembrane channels
+T60	AminoAcidPeptideOrProtein 76 88	hemichannels
+T61	BiologicallyActiveSubstance 36 58	transmembrane channels
+T62	BiologicallyActiveSubstance 76 88	hemichannels
+T63	ExperimentalModelOfDisease 511 534	5xFAD mouse model of AD
+T64	PathologicFunction 567 580	A beta plaque
+T65	PopulationGroup 634 646	12-month-old
+T66	ExperimentalModelOfDisease 653 663	5xFAD mice
+T67	Finding 670 692	significant impairment
+T68	ExperimentalModelOfDisease 768 778	5xFAD mice
+T69	AminoAcidPeptideOrProtein 839 843	Cx30
+T70	BodyPartOrganOrOrganComponent 944 959	GJ connectivity
+T71	BiologicallyActiveSubstance 839 843	Cx30
+T72	BiologicallyActiveSubstance 830 834	Cx43
+T73	Cell 1065 1069	OPCs
+T74	AminoAcidPeptideOrProtein 1103 1107	Cx47
+T75	BiologicallyActiveSubstance 1103 1107	Cx47
+T76	AminoAcidPeptideOrProtein 1020 1023	CC1
+T77	BiologicallyActiveSubstance 1020 1023	CC1
+T78	AminoAcidPeptideOrProtein 1158 1170	Cx47 protein
+T79	BiologicallyActiveSubstance 1158 1170	Cx47 protein
+T80	ExperimentalModelOfDisease 1213 1218	5xFAD
+T81	Cell 1241 1256	oligodendrocyte
+T82	Cell 1259 1274	oligodendrocyte
+T83	CellFunction 1285 1300	GJ connectivity
+T84	Finding 1329 1345	marked reduction
+T85	AminoAcidPeptideOrProtein 1349 1361	Cx32 protein
+T86	BiologicallyActiveSubstance 1349 1361	Cx32 protein
+T87	NucleicAcidNucleosideOrNucleotide 1481 1490	Cx32 mRNA
+T88	BiologicallyActiveSubstance 1481 1490	Cx32 mRNA
+T89	CellOrMolecularDysfunction 1508 1523	myelin deficits
+T90	BodyPartOrganOrOrganComponent 1693 1695	GJ
+T91	ExperimentalModelOfDisease 1733 1750	5xFAD model of AD
+T92	BodyPartOrganOrOrganComponent 1943 1958	GJ connectivity
+T93	ExperimentalModelOfDisease 1376 1381	5xFAD
+T94	AminoAcidPeptideOrProtein 1275 1279	Cx47
+T95	BiologicallyActiveSubstance 1275 1279	Cx47
+T96	AminoAcidPeptideOrProtein 1280 1284	Cx47
+T97	BiologicallyActiveSubstance 1280 1284	Cx47
+T98	Cell 1911 1926	oligodendrocyte
+T99	Cell 1927 1936	astrocyte
+T100	Finding 1453 1477	significant upregulation
+T101	Cell 921 930	astrocyte
+T102	Cell 934 943	astrocyte

@@ -1,0 +1,9 @@
+T0	OrganismAttribute 162 165	age
+T1	TemporalConcept 153 158	years
+T2	AminoAcidPeptideOrProtein 63 73	antibodies
+T3	BiologicallyActiveSubstance 63 73	antibodies
+T4	Bacterium 26 39;54 62	Gram-negative pathogen
+T5	CellComponent 40 53	intracellular
+T6	PopulationGroup 124 135	individuals
+T7	ClinicalAttribute 92 102	detectable
+T8	Bacterium 0 20	Chlamydia pneumoniae

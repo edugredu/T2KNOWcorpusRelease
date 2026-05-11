@@ -1,0 +1,80 @@
+T0	DiseaseOrSyndrome 113 124	tauopathies
+T1	PopulationGroup 319 328	recipient
+T2	ResearchActivity 364 371	seeding
+T3	ResearchActivity 512 519	seeding
+T4	GeneOrGenome 535 541	ANKLE2
+T5	GeneOrGenome 543 548	BANF1
+T6	GeneOrGenome 550 556	NUSAP1
+T7	GeneOrGenome 558 564	EIF1AD
+T8	GeneOrGenome 570 575	VPS18
+T9	ResearchActivity 886 904	validation studies
+T10	PathologicFunction 302 315	tau pathology
+T11	PathologicFunction 1138 1151	tau pathology
+T12	TemporalConcept 878 884	Lastly
+T13	CellComponent 224 246	extracellular vesicles
+T14	DiseaseOrSyndrome 83 102	Alzheimer's disease
+T15	PatientOrDisabledGroup 1035 1043	patients
+T16	PathologicFunction 126 139	Tau pathology
+T17	BiomedicalOccupationOrDiscipline 130 139	pathology
+T18	AminoAcidPeptideOrProtein 54 57	tau
+T19	AminoAcidPeptideOrProtein 173 176	tau
+T20	AminoAcidPeptideOrProtein 192 195	tau
+T21	AminoAcidPeptideOrProtein 302 305	tau
+T22	AminoAcidPeptideOrProtein 424 427	tau
+T23	AminoAcidPeptideOrProtein 508 511	tau
+T24	AminoAcidPeptideOrProtein 622 625	tau
+T25	AminoAcidPeptideOrProtein 683 686	tau
+T26	AminoAcidPeptideOrProtein 759 762	tau
+T27	AminoAcidPeptideOrProtein 1138 1141	tau
+T28	BodyPartOrganOrOrganComponent 1165 1170	brain
+T29	Eukaryote 910 915	human
+T30	Eukaryote 1159 1164	human
+T31	BiologicallyActiveSubstance 54 57	tau
+T32	BiologicallyActiveSubstance 173 176	tau
+T33	BiologicallyActiveSubstance 192 195	tau
+T34	BiologicallyActiveSubstance 424 427	tau
+T35	BiologicallyActiveSubstance 508 511	tau
+T36	BiologicallyActiveSubstance 622 625	tau
+T37	BiologicallyActiveSubstance 683 686	tau
+T38	BiologicallyActiveSubstance 759 762	tau
+T39	BiologicallyActiveSubstance 1138 1141	tau
+T40	PathologicFunction 1123 1134	progression
+T41	TemporalConcept 1123 1134	progression
+T42	Cell 438 443	cells
+T43	Cell 820 824	cell
+T44	BodyPartOrganOrOrganComponent 916 928	brain tissue
+T45	CellComponent 211 218	exosome
+T46	DiseaseOrSyndrome 1023 1034	Alzheimer's
+T47	BiologicallyActiveSubstance 126 129	Tau
+T48	AminoAcidPeptideOrProtein 126 129	Tau
+T49	Cell 329 336	neurons
+T50	CellFunction 4 15	aggregation
+T51	ResearchActivity 4 15	aggregation
+T52	CellComponent 670 677	vesicle
+T53	Cell 459 467	cellular
+T54	TemporalConcept 1110 1119	emergence
+T55	BodyPartOrganOrOrganComponent 1013 1019	brains
+T56	CellComponent 657 665	exosomal
+T57	AminoAcidPeptideOrProtein 974 981	protein
+T58	BiologicFunction 734 740	uptake
+T59	BiologicFunction 870 876	uptake
+T60	CellFunction 734 740	uptake
+T61	CellFunction 870 876	uptake
+T62	AminoAcidPeptideOrProtein 23 53	microtubule-associated protein
+T63	CellFunction 991 1005	down-regulated
+T64	CellOrMolecularDysfunction 759 768	tau seeds
+T65	ResearchActivity 394 420	genome-wide CRISPRi screen
+T66	ManufacturedObject 428 437	biosensor
+T67	CellOrMolecularDysfunction 508 519	tau seeding
+T68	AminoAcidPeptideOrProtein 535 541	ANKLE2
+T69	AminoAcidPeptideOrProtein 543 548	BANF1
+T70	AminoAcidPeptideOrProtein 550 556	NUSAP1
+T71	AminoAcidPeptideOrProtein 558 564	EIF1AD
+T72	AminoAcidPeptideOrProtein 570 575	VPS18
+T73	BiologicallyActiveSubstance 535 541	ANKLE2
+T74	BiologicallyActiveSubstance 543 548	BANF1
+T75	BiologicallyActiveSubstance 550 556	NUSAP1
+T76	BiologicallyActiveSubstance 558 564	EIF1AD
+T77	BiologicallyActiveSubstance 570 575	VPS18
+T78	CellOrMolecularDysfunction 683 692	tau seeds
+T79	CellFunction 820 846	cell -autonomous mechanism

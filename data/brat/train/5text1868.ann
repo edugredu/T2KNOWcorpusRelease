@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 120 139	Alzheimer's disease
+T1	PathologicFunction 140 152	pathogenesis
+T2	Finding 68 80	accumulation
+T3	AminoAcidPeptideOrProtein 45 52	amyloid
+T4	BiologicallyActiveSubstance 45 52	amyloid
+T5	Bacterium 12 32	Chlamydia pneumoniae

@@ -1,0 +1,7 @@
+T0	BodyPartOrganOrOrganComponent 133 138	brain
+T1	Cell 24 28	glia
+T2	Finding 0 13	Abnormalities
+T3	DiseaseOrSyndrome 62 90	neurodevelopmental disorders
+T4	Finding 110 122	significance
+T5	EmbryonicStructure 17 28	radial glia
+T6	BiologicFunction 133 161	brain formation and function

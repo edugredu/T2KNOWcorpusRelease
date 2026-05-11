@@ -1,0 +1,111 @@
+T0	ManufacturedObject 614 621	battery
+T1	BiologicallyActiveSubstance 792 825	neurofilament protein light chain
+T2	AminoAcidPeptideOrProtein 792 825	neurofilament protein light chain
+T3	ResearchActivity 910 931;940 948	single-molecule array platform
+T4	BiologicFunction 1502 1510	language
+T5	ResearchActivity 204 212	spectrum
+T6	HealthCareActivity 83 93	management
+T7	Finding 1074 1087	discrepancies
+T8	CellFunction 837 851	phosphorylated
+T9	TemporalConcept 226 232	stages
+T10	BodyPartOrganOrOrganComponent 11 17	Plasma
+T11	BodyPartOrganOrOrganComponent 711 717	Plasma
+T12	BodyPartOrganOrOrganComponent 1667 1673	Plasma
+T13	HealthCareRelatedOrganization 390 399	community
+T14	Finding 589 605	normal cognition
+T15	BiologicFunction 1414 1423	attention
+T16	HealthCareActivity 625 649	neuropsychological tests
+T17	Finding 1607 1612	worse
+T18	BiologicallyActiveSubstance 827 830	NfL
+T19	BiologicallyActiveSubstance 1044 1047	NfL
+T20	AminoAcidPeptideOrProtein 827 830	NfL
+T21	AminoAcidPeptideOrProtein 1044 1047	NfL
+T22	Finding 497 503	scores
+T23	Finding 1186 1192	scores
+T24	TemporalConcept 1147 1157	continuous
+T25	DiseaseOrSyndrome 578 582	aMCI
+T26	DiseaseOrSyndrome 1098 1102	aMCI
+T27	HealthCareActivity 61 78	disease diagnosis
+T28	AminoAcidPeptideOrProtein 779 782	tau
+T29	AminoAcidPeptideOrProtein 786 789	tau
+T30	AminoAcidPeptideOrProtein 852 855	tau
+T31	AminoAcidPeptideOrProtein 1039 1042	tau
+T32	DiseaseOrSyndrome 97 116	Alzheimer's disease
+T33	BiologicallyActiveSubstance 779 782	tau
+T34	BiologicallyActiveSubstance 786 789	tau
+T35	BiologicallyActiveSubstance 852 855	tau
+T36	BiologicallyActiveSubstance 1039 1042	tau
+T37	DiseaseOrSyndrome 118 120	AD
+T38	DiseaseOrSyndrome 538 540	AD
+T39	DiseaseOrSyndrome 1108 1110	AD
+T40	DiseaseOrSyndrome 1234 1236	AD
+T41	ClinicalAttribute 1802 1811	biomarker
+T42	AminoAcidPeptideOrProtein 773 782	total tau
+T43	BiologicallyActiveSubstance 773 782	total tau
+T44	AminoAcidPeptideOrProtein 837 855	phosphorylated tau
+T45	BiologicallyActiveSubstance 837 855	phosphorylated tau
+T46	PopulationGroup 350 362	participants
+T47	PopulationGroup 1543 1555	participants
+T48	PopulationGroup 285 296	individuals
+T49	DiseaseOrSyndrome 302 322	cognitive impairment
+T50	ClinicalAttribute 18 28	biomarkers
+T51	ClinicalAttribute 148 158	biomarkers
+T52	ClinicalAttribute 1259 1269	biomarkers
+T53	BodyPartOrganOrOrganComponent 966 972	plasma
+T54	AminoAcidPeptideOrProtein 874 882	p-tau181
+T55	AminoAcidPeptideOrProtein 1049 1057	p-tau181
+T56	AminoAcidPeptideOrProtein 1123 1131	p-tau181
+T57	AminoAcidPeptideOrProtein 1271 1279	p-tau181
+T58	AminoAcidPeptideOrProtein 1578 1586	p-tau181
+T59	AminoAcidPeptideOrProtein 1674 1682	p-tau181
+T60	BiologicallyActiveSubstance 874 882	p-tau181
+T61	BiologicallyActiveSubstance 1049 1057	p-tau181
+T62	BiologicallyActiveSubstance 1123 1131	p-tau181
+T63	BiologicallyActiveSubstance 1271 1279	p-tau181
+T64	BiologicallyActiveSubstance 1578 1586	p-tau181
+T65	BiologicallyActiveSubstance 1674 1682	p-tau181
+T66	BodyPartOrganOrOrganComponent 1790 1795	blood
+T67	BiologicallyActiveSubstance 784 789	t-tau
+T68	BiologicallyActiveSubstance 1037 1042	t-tau
+T69	AminoAcidPeptideOrProtein 784 789	t-tau
+T70	AminoAcidPeptideOrProtein 1037 1042	t-tau
+T71	ResearchActivity 950 957	Results
+T72	PopulationGroup 444 450	groups
+T73	PopulationGroup 1111 1117	groups
+T74	PopulationGroup 408 420	Participants
+T75	Finding 331 349	cognitively normal
+T76	BiologicFunction 185 194	cognition
+T77	BiologicFunction 700 709	cognition
+T78	BiologicFunction 1345 1354	cognition
+T79	BiologicFunction 1620 1629	cognition
+T80	HealthCareActivity 466 490	Clinical Dementia Rating
+T81	DiseaseOrSyndrome 542 576	amnestic mild cognitive impairment
+T82	PopulationGroup 1214 1219	group
+T83	HealthCareActivity 492 495	CDR
+T84	HealthCareActivity 1182 1185	CDR
+T85	HealthCareActivity 1561 1564	CDR
+T86	AminoAcidPeptideOrProtein 718 724	A beta
+T87	AminoAcidPeptideOrProtein 982 994	A beta(1-40)
+T88	Finding 1227 1233	severe
+T89	PopulationGroup 400 406	cohort
+T90	BiologicFunction 370 376	memory
+T91	BiologicFunction 1381 1387	memory
+T92	ResearchActivity 132 140	profiles
+T93	ResearchActivity 1284 1296	correlations
+T94	HealthCareActivity 508 526	clinical diagnosis
+T95	PopulationGroup 1094 1096	NC
+T96	PopulationGroup 1211 1213	NC
+T97	ClinicalAttribute 973 980	markers
+T98	ClinicalAttribute 711 730	Plasma A beta(1-40)
+T99	ClinicalAttribute 711 717;732 744	Plasma A beta(1-42)
+T100	ClinicalAttribute 711 717;746 771	Plasma A beta(1-42)/A beta(1-40)
+T101	AminoAcidPeptideOrProtein 859 872	threonine 181
+T102	ResearchActivity 933 939	Simoa)
+T103	BiologicFunction 1450 1471	visuospatial function
+T104	ClinicalAttribute 1667 1682	Plasma p-tau181
+T105	Finding 1310 1327	cognitive domains
+T106	Finding 1713 1730	cognitive domains
+T107	BiologicallyActiveSubstance 982 994	A beta(1-40)
+T108	BiologicallyActiveSubstance 996 1008	A beta(1-42)
+T109	ClinicalAttribute 1010 1035	A beta(1-42)/A beta(1-40)
+T110	AminoAcidPeptideOrProtein 996 1008	A beta(1-42)

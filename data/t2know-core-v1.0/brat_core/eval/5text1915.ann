@@ -1,0 +1,10 @@
+T0	DiseaseOrSyndrome 164 184	Huntington's disease
+T1	BodyPartOrganOrOrganComponent 93 98	brain
+T2	ResearchActivity 34 38	data
+T3	PathologicFunction 198 217	disease progression
+T4	ResearchActivity 45 56	researchers
+T5	BodyPartOrganOrOrganComponent 138 151	brain regions
+T6	Substance 57 64	extract
+T7	HealthCareActivity 21 33	neuroimaging
+T8	HealthCareActivity 99 104	scans
+T9	MachineActivity 12 15	NLP

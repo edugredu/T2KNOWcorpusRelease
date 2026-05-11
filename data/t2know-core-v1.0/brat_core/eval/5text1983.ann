@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 180 207	neurodegenerative disorders
+T1	BodyPartOrganOrOrganComponent 154 159	brain
+T2	HealthCareActivity 38 66	positron emission tomography
+T3	Substance 114 123	molecules
+T4	ResearchActivity 80 91	researchers
+T5	PopulationGroup 163 174	individuals
+T6	HealthCareActivity 68 71	PET
+T7	HealthCareActivity 0 28	Molecular imaging techniques

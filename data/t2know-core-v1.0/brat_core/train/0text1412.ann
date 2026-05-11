@@ -1,0 +1,69 @@
+T0	BiologicFunction 28 39	development
+T1	CellFunction 28 39	development
+T2	Finding 171 181	disability
+T3	BodyPartOrganOrOrganComponent 247 258	optic nerve
+T4	HealthCareActivity 286 301	ultrasonography
+T5	DiseaseOrSyndrome 354 392	relapsing-remitting multiple sclerosis
+T6	DiseaseOrSyndrome 394 398	RRMS
+T7	DiseaseOrSyndrome 421 425	RRMS
+T8	Finding 446 453	history
+T9	DiseaseOrSyndrome 457 471	optic neuritis
+T10	Finding 497 504	history
+T11	DiseaseOrSyndrome 508 522	optic neuritis
+T12	HealthCareActivity 667 675	measured
+T13	HealthCareActivity 800 808	measured
+T14	HealthCareActivity 812 840	optical coherence tomography
+T15	HealthCareActivity 842 845	OCT
+T16	HealthCareActivity 1443 1458	ultrasonography
+T17	HealthCareActivity 1509 1518	detection
+T18	DiseaseOrSyndrome 1542 1546	RRMS
+T19	ResearchActivity 199 204	study
+T20	ResearchActivity 608 613	study
+T21	PathologicFunction 155 166	progression
+T22	TemporalConcept 155 166	progression
+T23	OrganismAttribute 541 544	age
+T24	PatientOrDisabledGroup 975 982	patient
+T25	ClinicalAttribute 47 57	biomarkers
+T26	PathologicFunction 147 166	disease progression
+T27	OrganismAttribute 562 569	healthy
+T28	DiseaseOrSyndrome 82 84	MS
+T29	DiseaseOrSyndrome 473 475	MS
+T30	DiseaseOrSyndrome 524 526	MS
+T31	PopulationGroup 570 586	control subjects
+T32	Finding 937 962	no significant difference
+T33	PatientOrDisabledGroup 340 348	patients
+T34	PatientOrDisabledGroup 426 434	patients
+T35	PatientOrDisabledGroup 1088 1096	patients
+T36	PatientOrDisabledGroup 1242 1250	patients
+T37	PatientOrDisabledGroup 1547 1555	patients
+T38	DiseaseOrSyndrome 62 80	multiple sclerosis
+T39	DiseaseOrSyndrome 374 392	multiple sclerosis
+T40	OrganismAttribute 550 553	sex
+T41	TemporalConcept 354 363	relapsing
+T42	ClinicalAttribute 307 316	biomarker
+T43	ClinicalAttribute 1491 1500	biomarker
+T44	CellComponent 872 874	TM
+T45	ClinicalAttribute 247 267	optic nerve diameter
+T46	ClinicalAttribute 269 272	OND
+T47	Finding 326 336	disability
+T48	OrganismAttribute 128 135	ability
+T49	ClinicalAttribute 627 654	optic nerve sheath diameter
+T50	ClinicalAttribute 656 660	ONSD
+T51	ClinicalAttribute 619 622	OND
+T52	HealthCareActivity 679 702	transorbital sonography
+T53	BodyPartOrganOrOrganComponent 718 743	retinal nerve fibre layer
+T54	BodyPartOrganOrOrganComponent 745 749	RNFL
+T55	Cell 755 768	ganglion cell
+T56	ManufacturedObject 857 870;876 882	Optovue RTVue system
+T57	PopulationGroup 1013 1027	control groups
+T58	HealthCareActivity 1105 1137	expanded disability status scale
+T59	HealthCareActivity 1139 1143	EDSS
+T60	ClinicalAttribute 1188 1202	RNFL thickness
+T61	ClinicalAttribute 1180 1183;1193 1202	OND thickness
+T62	ResearchActivity 1276 1307	Statistical logistic regression
+T63	Finding 1528 1538	disability
+T64	ClinicalAttribute 1423 1426	OND
+T65	HealthCareActivity 704 707	TOS
+T66	ClinicalAttribute 1042 1045	OND
+T67	ClinicalAttribute 1063 1067	ONSD
+T68	HealthCareActivity 1259 1269	EDSS score

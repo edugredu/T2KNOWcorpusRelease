@@ -1,0 +1,100 @@
+T0	TemporalConcept 236 244	temporal
+T1	TemporalConcept 319 327	temporal
+T2	Finding 635 643	abnormal
+T3	Substance 926 932	sample
+T4	BodyPartOrganOrOrganComponent 926 932	sample
+T5	AminoAcidPeptideOrProtein 1868 1878	aggregates
+T6	OrganismAttribute 558 564	female
+T7	PathologicFunction 85 97	pathogenesis
+T8	PathologicFunction 1785 1797	pathogenesis
+T9	NaturalPhenomenonOrProcess 245 253	dynamics
+T10	ResearchActivity 103 115	longitudinal
+T11	ResearchActivity 381 393	longitudinal
+T12	ResearchActivity 1062 1074	longitudinal
+T13	HealthCareActivity 816 825	Follow-up
+T14	TemporalConcept 816 825	Follow-up
+T15	Finding 1531 1544	aHCV decrease
+T16	AminoAcidPeptideOrProtein 124 127	tau
+T17	AminoAcidPeptideOrProtein 348 351	tau
+T18	AminoAcidPeptideOrProtein 838 841	tau
+T19	AminoAcidPeptideOrProtein 951 954	tau
+T20	AminoAcidPeptideOrProtein 1083 1086	tau
+T21	AminoAcidPeptideOrProtein 1184 1187	tau
+T22	AminoAcidPeptideOrProtein 1454 1457	tau
+T23	AminoAcidPeptideOrProtein 1485 1488	tau
+T24	AminoAcidPeptideOrProtein 1559 1562	tau
+T25	AminoAcidPeptideOrProtein 1864 1867	tau
+T26	TemporalConcept 883 888	years
+T27	CellOrMolecularDysfunction 133 150	neurodegeneration
+T28	CellOrMolecularDysfunction 357 374	neurodegeneration
+T29	CellOrMolecularDysfunction 1092 1109	neurodegeneration
+T30	CellOrMolecularDysfunction 1291 1308	neurodegeneration
+T31	CellOrMolecularDysfunction 1894 1911	neurodegeneration
+T32	DiseaseOrSyndrome 65 84	Alzheimer's disease
+T33	DiseaseOrSyndrome 1713 1732	Alzheimer's disease
+T34	DiseaseOrSyndrome 1765 1784	Alzheimer's disease
+T35	ClinicalAttribute 263 273	biomarkers
+T36	ClinicalAttribute 394 404	biomarkers
+T37	BiologicallyActiveSubstance 124 127	tau
+T38	BiologicallyActiveSubstance 348 351	tau
+T39	BiologicallyActiveSubstance 838 841	tau
+T40	BiologicallyActiveSubstance 951 954	tau
+T41	BiologicallyActiveSubstance 1083 1086	tau
+T42	BiologicallyActiveSubstance 1184 1187	tau
+T43	BiologicallyActiveSubstance 1454 1457	tau
+T44	BiologicallyActiveSubstance 1485 1488	tau
+T45	BiologicallyActiveSubstance 1559 1562	tau
+T46	BiologicallyActiveSubstance 1864 1867	tau
+T47	PopulationGroup 1170 1182	participants
+T48	PopulationGroup 1277 1289	participants
+T49	Finding 659 665	status
+T50	Finding 648 654	normal
+T51	ResearchActivity 292 297	study
+T52	ResearchActivity 1756 1761	model
+T53	PopulationGroup 184 195	individuals
+T54	PopulationGroup 408 419;428 439	nondemented individuals
+T55	PopulationGroup 456 490	cognitively unimpaired individuals
+T56	PopulationGroup 499 510	individuals
+T57	PopulationGroup 1212 1223	individuals
+T58	PopulationGroup 1334 1345	individuals
+T59	HealthCareActivity 747 750	PET
+T60	HealthCareActivity 771 774	PET
+T61	HealthCareActivity 833 836	PET
+T62	HealthCareActivity 842 845	PET
+T63	PopulationGroup 1251 1256	group
+T64	PopulationGroup 1373 1378	group
+T65	Finding 1567 1575	low aHCV
+T66	DiseaseOrSyndrome 521 541	cognitive impairment
+T67	PopulationGroup 420 427	elderly
+T68	DiseaseOrSyndrome 516 541	mild cognitive impairment
+T69	TemporalConcept 1748 1755	current
+T70	AminoAcidPeptideOrProtein 26 32	A beta
+T71	AminoAcidPeptideOrProtein 116 122	A beta
+T72	AminoAcidPeptideOrProtein 340 346	A beta
+T73	AminoAcidPeptideOrProtein 669 675	A beta
+T74	AminoAcidPeptideOrProtein 826 832	A beta
+T75	AminoAcidPeptideOrProtein 943 949	A beta
+T76	AminoAcidPeptideOrProtein 1075 1081	A beta
+T77	AminoAcidPeptideOrProtein 1405 1411	A beta
+T78	AminoAcidPeptideOrProtein 1624 1630	A beta
+T79	AminoAcidPeptideOrProtein 1807 1813	A beta
+T80	ResearchActivity 1003 1011	profiles
+T81	AminoAcidPeptideOrProtein 12 24	Amyloid-beta
+T82	HealthCareActivity 717 745	positron emission tomography
+T83	BodyPartOrganOrOrganComponent 789 800	hippocampal
+T84	Cell 789 800	hippocampal
+T85	ManufacturedObject 717 745	positron emission tomography
+T86	ClinicalAttribute 780 807	adjusted hippocampal volume
+T87	HealthCareActivity 159 171	measurements
+T88	HealthCareActivity 856 868	measurements
+T89	Chemical 677 694	F-18-flor betapir
+T90	Chemical 698 715	F-18-florbeta ben
+T91	Chemical 753 770	F-18-flortaucipir
+T92	ClinicalAttribute 851 855	aHCV
+T93	ClinicalAttribute 809 813	aHCV
+T94	ClinicalAttribute 960 964	aHCV
+T95	ClinicalAttribute 1531 1535	aHCV
+T96	Finding 1454 1466	tau increase
+T97	PathologicFunction 1690 1709	pathological events
+T98	TemporalConcept 1822 1827	early
+T99	CellOrMolecularDysfunction 1841 1878	deposition of abnormal tau aggregates

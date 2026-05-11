@@ -1,0 +1,49 @@
+T0	Eukaryote 137 143	murine
+T1	Chemical 238 248	sobetirome
+T2	Chemical 250 253	Sob
+T3	AminoAcidPeptideOrProtein 433 449	triiodothyronine
+T4	BiologicallyActiveSubstance 433 449	triiodothyronine
+T5	AminoAcidPeptideOrProtein 451 453	T3
+T6	BodyPartOrganOrOrganComponent 451 453	T3
+T7	Chemical 467 470	Sob
+T8	PathologicFunction 618 630	degenerating
+T9	AminoAcidPeptideOrProtein 664 666	T3
+T10	BodyPartOrganOrOrganComponent 664 666	T3
+T11	Chemical 671 674	Sob
+T12	ResearchActivity 690 698	cultured
+T13	CellFunction 724 734	cell death
+T14	CellFunction 793 798	death
+T15	ExperimentalModelOfDisease 343 384	experimental autoimmune encephalomyelitis
+T16	ExperimentalModelOfDisease 386 389	EAE
+T17	ExperimentalModelOfDisease 414 422	EAE mice
+T18	Chemical 277 284	prodrug
+T19	PopulationGroup 404 412	controls
+T20	BodyPartOrganOrOrganComponent 565 571	tissue
+T21	CellComponent 631 636	axons
+T22	Cell 646 662	oligodendrocytes
+T23	Cell 699 715	oligodendrocytes
+T24	Cell 777 792	oligodendrocyte
+T25	DiseaseOrSyndrome 876 894	multiple sclerosis
+T26	BodyPartOrganOrOrganComponent 309 315	myelin
+T27	BodyPartOrganOrOrganComponent 264 267	CNS
+T28	CellFunction 120 133	remyelination
+T29	CellFunction 859 872	remyelination
+T30	PathologicFunction 144 157	demyelination
+T31	PathologicFunction 800 813	demyelination
+T32	BodyPartOrganOrOrganComponent 547 558	spinal cord
+T33	CellFunction 92 107	differentiation
+T34	ResearchActivity 158 164	models
+T35	BiologicallyActiveSubstance 192 236	thyroid receptor-beta selective thyromimetic
+T36	CellComponent 818 824	axonal
+T37	CellComponent 594 610	myelinated axons
+T38	CellOrMolecularDysfunction 320 339	axonal degeneration
+T39	CellOrMolecularDysfunction 818 837	axonal degeneration
+T40	CellFunction 61 107	oligodendrocyte precursor cell differentiation
+T41	BiologicallyActiveSubstance 37 50	thyromimetics
+T42	Chemical 286 293	Sob-AM2
+T43	Chemical 484 491	Sob-AM2
+T44	InjuryOrPoisoning 572 578	damage
+T45	BiologicallyActiveSubstance 736 749	Thyromimetics
+T46	PathologicFunction 793 798	death
+T47	BiologicFunction 793 798	death
+T48	ExperimentalModelOfDisease 137 164	murine demyelination models

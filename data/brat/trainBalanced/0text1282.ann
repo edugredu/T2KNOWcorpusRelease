@@ -1,0 +1,76 @@
+T0	CellFunction 158 180	immune cell regulation
+T1	Chemical 318 328	nimodipine
+T2	Chemical 447 457	Nimodipine
+T3	Chemical 569 579	nimodipine
+T4	ResearchActivity 640 658	expression profile
+T5	Chemical 789 799	nimodipine
+T6	Chemical 885 895	nimodipine
+T7	ResearchActivity 975 989	RNA sequencing
+T8	Chemical 1089 1099	nimodipine
+T9	Chemical 1124 1142	dimethyl sulfoxide
+T10	Chemical 1144 1148	DMSO
+T11	Chemical 1199 1209	nimodipine
+T12	Chemical 1318 1328	nimodipine
+T13	HealthCareActivity 128 148	treatment strategies
+T14	TemporalConcept 308 316	Recently
+T15	Eukaryote 1184 1193	zebrafish
+T16	CellFunction 273 288	neuroprotection
+T17	ExperimentalModelOfDisease 377 418	experimental autoimmune encephalomyelitis
+T18	ExperimentalModelOfDisease 420 423	EAE
+T19	ResearchActivity 128 148	treatment strategies
+T20	HealthCareActivity 225 249	therapeutic intervention
+T21	PharmacologicSubstance 197 201	drug
+T22	Cell 752 764	primary OPCs
+T23	Cell 1373 1377	OPCs
+T24	Cell 727 730	OPC
+T25	CellFunction 1071 1082	myelination
+T26	Cell 959 964	cells
+T27	BodyPartOrganOrOrganComponent 662 668	myelin
+T28	BodyPartOrganOrOrganComponent 828 834	myelin
+T29	BodyPartOrganOrOrganComponent 72 94	central nervous system
+T30	BodyPartOrganOrOrganComponent 96 99	CNS
+T31	CellFunction 293 306	remyelination
+T32	DiseaseOrSyndrome 43 64	demyelinating disease
+T33	DiseaseOrSyndrome 20 22	MS
+T34	DiseaseOrSyndrome 443 445	MS
+T35	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T36	Cell 508 531	mature oligodendrocytes
+T37	Cell 1263 1286	mature oligodendrocytes
+T38	Cell 1382 1405	mature oligodendrocytes
+T39	AminoAcidPeptideOrProtein 679 687	proteins
+T40	ResearchActivity 770 774	data
+T42	CellFunction 353 366	remyelinating
+T43	Cell 695 725	oligodendrocyte precursor cell
+T45	Cell 495 502	neurons
+T46	CellFunction 852 870	protein expression
+T47	Cell 483 493	astrocytes
+T48	TemporalConcept 120 127	current
+T49	NucleicAcidNucleosideOrNucleotide 1048 1051	RNA
+T50	HealthCareActivity 896 905	treatment
+T51	HealthCareActivity 1100 1109	treatment
+T52	ResearchActivity 896 905	treatment
+T53	ResearchActivity 1100 1109	treatment
+T54	PathologicFunction 30 42	inflammatory
+T55	Chemical 605 612	calcium
+T56	PharmacologicSubstance 605 612	calcium
+T57	BiologicallyActiveSubstance 605 612	calcium
+T58	Chemical 202 211	siponimod
+T59	PharmacologicSubstance 447 457	Nimodipine
+T60	PharmacologicSubstance 318 328	nimodipine
+T61	PharmacologicSubstance 569 579	nimodipine
+T62	PharmacologicSubstance 789 799	nimodipine
+T63	PharmacologicSubstance 885 895	nimodipine
+T64	PharmacologicSubstance 1089 1099	nimodipine
+T65	PharmacologicSubstance 1318 1328	nimodipine
+T66	PharmacologicSubstance 1199 1209	nimodipine
+T67	ResearchActivity 434 439	model
+T68	PharmacologicSubstance 202 211	siponimod
+T69	BiologicallyActiveSubstance 202 211	siponimod
+T70	ExperimentalModelOfDisease 428 445	mouse model of MS
+T71	PharmacologicSubstance 621 631	antagonist
+T72	AminoAcidPeptideOrProtein 584 620	L-type voltage-gated calcium channel
+T73	BiologicallyActiveSubstance 584 620	L-type voltage-gated calcium channel
+T74	GeneOrGenome 669 674	genes
+T75	Cell 737 744	Oli-Neu
+T76	ResearchActivity 994 1016	bioinformatic analyses
+T77	Finding 1353 1369	positive effects

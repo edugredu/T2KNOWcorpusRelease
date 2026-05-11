@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 99 127	neurodegenerative conditions
+T1	TemporalConcept 54 61	chronic
+T2	ResearchActivity 25 35	strategies
+T3	BiologicFunction 25 35	strategies
+T4	Finding 62 86	inflammatory environment
+T5	PathologicFunction 62 74	inflammatory
+T6	Organism 0 9	Microbial
+T7	BiologicFunction 10 24	immune evasion

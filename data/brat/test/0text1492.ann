@@ -1,0 +1,59 @@
+T0	DiseaseOrSyndrome 12 31	Alzheimer's disease
+T1	PopulationGroup 193 198;209 221	Black participants
+T2	PopulationGroup 316 328	focus groups
+T3	SignOrSymptom 559 568	hesitancy
+T4	ManufacturedObject 694 701	Drivers
+T5	PopulationGroup 694 701	Drivers
+T6	Finding 706 716	engagement
+T7	Finding 885 892	sources
+T8	BiologicFunction 977 983	desire
+T9	PopulationGroup 1039 1044	Black
+T10	PopulationGroup 1068 1083	Black Americans
+T11	BiologicFunction 1084 1094	experience
+T12	HealthCareActivity 49 55	health
+T13	Finding 620 646	lack of relevant knowledge
+T14	Finding 759 768	knowledge
+T15	PopulationGroup 98 102	race
+T16	HealthCareActivity 42 55	public health
+T17	ResearchActivity 607 618	researchers
+T18	BiologicFunction 1245 1254	decisions
+T19	ResearchActivity 1255 1279	Research test disclosure
+T20	ResearchActivity 245 262	research advocacy
+T21	ResearchActivity 387 409	research participation
+T22	ResearchActivity 527 549	research participation
+T23	ResearchActivity 594 602	research
+T24	ResearchActivity 660 681	research test results
+T25	ResearchActivity 730 738	research
+T26	ResearchActivity 775 783	research
+T27	ResearchActivity 964 972	research
+T28	ResearchActivity 1155 1177	research participation
+T29	ResearchActivity 1193 1201	research
+T30	ResearchActivity 1222 1244	research participation
+T31	ResearchActivity 1291 1313	research participation
+T32	DiseaseOrSyndrome 1120 1139	Alzheimer's disease
+T33	ClinicalAttribute 69 79	biomarkers
+T34	DiseaseOrSyndrome 33 35	AD
+T35	DiseaseOrSyndrome 66 68	AD
+T36	DiseaseOrSyndrome 374 376	AD
+T37	DiseaseOrSyndrome 514 516	AD
+T38	DiseaseOrSyndrome 785 787	AD
+T39	DiseaseOrSyndrome 1141 1143	AD
+T40	ClinicalAttribute 377 386	biomarker
+T41	ClinicalAttribute 517 526	biomarker
+T42	ClinicalAttribute 720 729	biomarker
+T43	ClinicalAttribute 1145 1154	biomarker
+T44	ResearchActivity 419 453	qualitative data analytic approach
+T45	ResearchActivity 478 482	data
+T46	BiologicFunction 576 580	fear
+T47	ResearchActivity 988 1006	results disclosure
+T48	PopulationGroup 135 147	participants
+T49	PopulationGroup 209 221	participants
+T50	PopulationGroup 1045 1056	individuals
+T51	PopulationGroup 203 221	White participants
+T52	ResearchActivity 245 253;266 279	research participation
+T53	Finding 582 602	distrust of research
+T54	Finding 652 692	lack of research test results disclosure
+T55	HealthCareActivity 801 820	clinical procedures
+T56	ResearchActivity 863 871	outreach
+T57	Finding 832 857	benefits of participation
+T58	ResearchActivity 1291 1299;1318 1327	research retention

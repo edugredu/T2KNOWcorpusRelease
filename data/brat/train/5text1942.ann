@@ -1,0 +1,14 @@
+T0	AminoAcidPeptideOrProtein 89 101	amyloid-beta
+T1	ResearchActivity 144 157	investigation
+T2	DiseaseOrSyndrome 161 186	neurodegenerative disease
+T3	Organism 12 16	host
+T4	ResearchActivity 187 195	research
+T5	AminoAcidPeptideOrProtein 89 96	amyloid
+T6	BiologicallyActiveSubstance 89 96	amyloid
+T7	Bacterium 17 25	bacteria
+T8	Finding 26 38	interactions
+T9	CellOrMolecularDysfunction 61 79	misfolded proteins
+T10	AminoAcidPeptideOrProtein 106 121	alpha-synuclein
+T11	BiologicallyActiveSubstance 106 121	alpha-synuclein
+T12	BiologicallyActiveSubstance 89 101	amyloid-beta
+T13	NaturalPhenomenonOrProcess 12 38	host-bacteria interactions

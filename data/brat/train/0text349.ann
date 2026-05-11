@@ -1,0 +1,45 @@
+T0	Cell 0 9	Microglia
+T1	Cell 34 46	immune cells
+T2	BodyPartOrganOrOrganComponent 54 76	central nervous system
+T3	BodyPartOrganOrOrganComponent 78 81	CNS
+T4	BiologicFunction 112 129	brain homeostasis
+T5	TemporalConcept 145 151	states
+T6	TemporalConcept 153 163	Persistent
+T7	DiseaseOrSyndrome 253 272	Alzheimer's disease
+T8	DiseaseOrSyndrome 274 276	AD
+T9	DiseaseOrSyndrome 279 298	Parkinson's disease
+T10	DiseaseOrSyndrome 300 302	PD
+T11	DiseaseOrSyndrome 332 361	amyotrophic lateral sclerosis
+T12	DiseaseOrSyndrome 363 366	ALS
+T13	DiseaseOrSyndrome 412 414	MS
+T14	AminoAcidPeptideOrProtein 417 453	Colony stimulating factor 1-receptor
+T15	BiologicallyActiveSubstance 417 453	Colony stimulating factor 1-receptor
+T16	AminoAcidPeptideOrProtein 455 461	CSF-1R
+T17	BiologicallyActiveSubstance 455 461	CSF-1R
+T18	Cell 493 502	microglia
+T19	Finding 525 548	significantly increased
+T20	PharmacologicSubstance 620 637	CSF-1R inhibitors
+T21	ExperimentalModelOfDisease 669 713	preclinical neurodegenerative disease models
+T22	ResearchActivity 715 723	Research
+T23	PharmacologicSubstance 730 747	CSF-1R inhibitors
+T24	PharmacologicSubstance 868 885	CSF-1R inhibitors
+T25	DiseaseOrSyndrome 899 927	neurodegenerative conditions
+T26	DiseaseOrSyndrome 938 940	AD
+T27	DiseaseOrSyndrome 942 944	PD
+T28	DiseaseOrSyndrome 950 953	ALS
+T29	DiseaseOrSyndrome 958 960	MS
+T30	Eukaryote 775 793	non-human primates
+T31	Finding 647 665	beneficial effects
+T32	Finding 580 599	Cumulative findings
+T33	DiseaseOrSyndrome 327 329	HD
+T34	DiseaseOrSyndrome 946 948	HD
+T35	Eukaryote 798 804	humans
+T36	DiseaseOrSyndrome 305 325	Huntington's disease
+T37	DiseaseOrSyndrome 215 241	neurodegenerative diseases
+T38	DiseaseOrSyndrome 552 578	neurodegenerative diseases
+T39	PathologicFunction 164 181	neuroinflammation
+T40	ResearchActivity 811 825	review article
+T41	Finding 198 206	hallmark
+T42	TemporalConcept 846 852	recent
+T43	HealthCareActivity 1019 1036	clinical practice
+T44	DiseaseOrSyndrome 372 410	primary progressive multiple sclerosis

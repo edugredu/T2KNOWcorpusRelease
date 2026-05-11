@@ -1,0 +1,78 @@
+T0	BodyPartOrganOrOrganComponent 4 28	Renin-Angiotensin System
+T1	BodyPartOrganOrOrganComponent 30 33	RAS
+T2	BiologicFunction 121 146	blood pressure regulation
+T3	ResearchActivity 161 181	experimental studies
+T4	BodyPartOrganOrOrganComponent 221 230	brain RAS
+T5	BodyPartOrganOrOrganComponent 375 378	RAS
+T6	DiseaseOrSyndrome 543 552	classical
+T7	BodyPartOrganOrOrganComponent 577 580	RAS
+T8	BodyPartOrganOrOrganComponent 752 755	RAS
+T9	AminoAcidPeptideOrProtein 794 807	Mas receptors
+T10	BodyPartOrganOrOrganComponent 825 842	prefrontal cortex
+T11	BiologicallyActiveSubstance 936 948	AT1 receptor
+T12	BodyPartOrganOrOrganComponent 969 972	RAS
+T13	GeneOrGenome 1148 1151	ACE
+T14	AminoAcidPeptideOrProtein 1148 1151	ACE
+T15	GeneOrGenome 1153 1157	ACE2
+T16	BodyPartOrganOrOrganComponent 1237 1240	RAS
+T17	BodyPartOrganOrOrganComponent 815 823	striatum
+T18	BodyPartOrganOrOrganComponent 848 859	hippocampus
+T19	ClinicalAttribute 637 648	performance
+T20	ClinicalAttribute 631 648	motor performance
+T21	NucleicAcidNucleosideOrNucleotide 913 917	mRNA
+T22	Finding 637 648	performance
+T23	BodyPartOrganOrOrganComponent 1001 1014	brain regions
+T24	ResearchActivity 662 678	behavioral tests
+T25	HealthCareActivity 662 678	behavioral tests
+T26	BodyPartOrganOrOrganComponent 1069 1075	plasma
+T27	Eukaryote 610 614	mice
+T28	Eukaryote 867 871	mice
+T29	ResearchActivity 450 455	model
+T30	Finding 691 699	decrease
+T31	PathologicFunction 587 602	pathophysiology
+T32	PathologicFunction 1301 1316	pathophysiology
+T33	BiomedicalOccupationOrDiscipline 587 602	pathophysiology
+T34	BiomedicalOccupationOrDiscipline 1301 1316	pathophysiology
+T35	BiologicFunction 249 260	development
+T36	CellFunction 249 260	development
+T37	Finding 1203 1211	evidence
+T38	Finding 360 371	involvement
+T39	BodyPartOrganOrOrganComponent 55 77	central nervous system
+T40	PathologicFunction 265 276	progression
+T41	TemporalConcept 265 276	progression
+T42	CellFunction 38 47	expressed
+T43	TemporalConcept 1197 1202	first
+T44	DiseaseOrSyndrome 280 306	neurodegenerative diseases
+T45	PatientOrDisabledGroup 490 498	patients
+T46	PatientOrDisabledGroup 1026 1034	patients
+T47	DiseaseOrSyndrome 393 413	Huntington's disease
+T48	DiseaseOrSyndrome 415 417	HD
+T49	DiseaseOrSyndrome 440 442	HD
+T50	DiseaseOrSyndrome 504 506	HD
+T51	DiseaseOrSyndrome 584 586	HD
+T52	DiseaseOrSyndrome 1049 1051	HD
+T53	DiseaseOrSyndrome 1298 1300	HD
+T54	Substance 477 484	samples
+T55	BodyPartOrganOrOrganComponent 477 484	samples
+T56	ExperimentalModelOfDisease 440 455	HD murine model
+T57	Eukaryote 443 449	murine
+T58	ExperimentalModelOfDisease 604 614	BACHD mice
+T59	ExperimentalModelOfDisease 458 463	BACHD
+T60	ResearchActivity 148 156;174 181	Clinical studies
+T61	AminoAcidPeptideOrProtein 773 777	ACE2
+T62	BiologicallyActiveSubstance 773 777	ACE2
+T63	GeneOrGenome 773 777	ACE2
+T64	BiologicallyActiveSubstance 794 807	Mas receptors
+T65	CellFunction 918 928	expression
+T66	AminoAcidPeptideOrProtein 936 948	AT1 receptor
+T67	ClinicalAttribute 1069 1095	plasma levels of Ang-(1-7)
+T68	AminoAcidPeptideOrProtein 779 788	Ang-(1-7)
+T69	PharmacologicSubstance 779 788	Ang-(1-7)
+T70	ExperimentalModelOfDisease 861 871	BACHD mice
+T71	Finding 889 909	significant increase
+T72	AminoAcidPeptideOrProtein 1163 1169	Ang II
+T73	BiologicallyActiveSubstance 1163 1169	Ang II
+T74	Finding 1097 1119	No significant changes
+T75	AminoAcidPeptideOrProtein 1153 1157	ACE2
+T76	BiologicallyActiveSubstance 1153 1157	ACE2
+T77	BiologicallyActiveSubstance 1148 1151	ACE

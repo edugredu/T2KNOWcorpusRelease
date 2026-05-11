@@ -1,0 +1,61 @@
+T0	BiomedicalOccupationOrDiscipline 140 154	pathologically
+T1	BodyPartOrganOrOrganComponent 208 214	cortex
+T2	ResearchActivity 532 552	pre-clinical studies
+T3	ResearchActivity 640 659	preclinical studies
+T4	Cell 957 975	transplanted cells
+T5	ResearchActivity 1061 1081	comparative analysis
+T6	CellOrMolecularDysfunction 89 95	mutant
+T7	CellComponent 32 41	autosomal
+T8	BodyPartOrganOrOrganComponent 195 203	striatum
+T9	SignOrSymptom 284 303	behavioral symptoms
+T10	PathologicFunction 479 508	pathophysiological mechanisms
+T11	BiologicFunction 78 86	encoding
+T12	AminoAcidPeptideOrProtein 108 126	huntingtin protein
+T13	BiologicallyActiveSubstance 108 126	huntingtin protein
+T14	CellFunction 42 50	dominant
+T15	HealthCareActivity 355 375	therapeutic approach
+T16	ResearchActivity 619 636	systematic review
+T17	ResearchActivity 746 763	systematic review
+T18	DiseaseOrSyndrome 243 260	motor dysfunction
+T19	HealthCareActivity 619 636	systematic review
+T20	HealthCareActivity 746 763	systematic review
+T21	Cell 563 573	stem cells
+T22	Cell 698 708	stem cells
+T23	Cell 780 790	stem cells
+T24	DiseaseOrSyndrome 262 279	cognitive decline
+T25	Eukaryote 928 934	animal
+T26	ResearchActivity 918 924	design
+T27	HealthCareActivity 918 924	design
+T28	PathologicFunction 249 260	dysfunction
+T29	HealthCareActivity 384 393	treatment
+T30	HealthCareActivity 676 685	treatment
+T31	HealthCareActivity 765 774	treatment
+T32	ResearchActivity 384 393	treatment
+T33	ResearchActivity 676 685	treatment
+T34	ResearchActivity 765 774	treatment
+T35	TemporalConcept 231 242	progressive
+T36	Cell 180 187	neurons
+T37	CellOrMolecularDysfunction 172 187	loss of neurons
+T38	ResearchActivity 935 942	studies
+T39	ResearchActivity 577 590	animal models
+T40	ResearchActivity 712 725	animal models
+T41	ResearchActivity 854 867	animal models
+T42	Cell 305 314	Stem cell
+T43	GeneOrGenome 128 131	HTT
+T44	AminoAcidPeptideOrProtein 128 131	HTT
+T45	BiologicallyActiveSubstance 128 131	HTT
+T46	DiseaseOrSyndrome 397 423	neurodegenerative diseases
+T47	DiseaseOrSyndrome 0 20	Huntington's disease
+T48	DiseaseOrSyndrome 22 24	HD
+T49	DiseaseOrSyndrome 134 136	HD
+T50	DiseaseOrSyndrome 520 522	HD
+T51	DiseaseOrSyndrome 594 596	HD
+T52	DiseaseOrSyndrome 729 731	HD
+T53	DiseaseOrSyndrome 871 873	HD
+T54	HealthCareActivity 305 328	Stem cell-based therapy
+T55	AminoAcidPeptideOrProtein 108 118	huntingtin
+T56	GeneOrGenome 108 118	huntingtin
+T57	DiseaseOrSyndrome 51 77	neurodegenerative disorder
+T58	Finding 814 850	neurological and behavioral outcomes
+T59	ExperimentalModelOfDisease 854 873	animal models of HD
+T60	ExperimentalModelOfDisease 577 596	animal models of HD

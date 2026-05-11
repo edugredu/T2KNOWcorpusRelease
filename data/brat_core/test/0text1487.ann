@@ -1,0 +1,101 @@
+T0	ResearchActivity 168 182	Phase 3 trials
+T1	TemporalConcept 168 175	Phase 3
+T2	AminoAcidPeptideOrProtein 186 194	ozanimod
+T3	DiseaseOrSyndrome 228 231	RMS
+T4	AminoAcidPeptideOrProtein 277 285	ozanimod
+T5	AminoAcidPeptideOrProtein 314 332	interferon beta-1a
+T6	TemporalConcept 341 347	weekly
+T7	ResearchActivity 355 365	randomized
+T8	Finding 355 365	randomized
+T9	ResearchActivity 367 379;401 407	double-blind trials
+T10	TemporalConcept 539 544	Month
+T11	Finding 830 850;864 870	gadolinium-enhancing lesion
+T12	Finding 852 855	GdE
+T13	AminoAcidPeptideOrProtein 1146 1154	ozanimod
+T14	AminoAcidPeptideOrProtein 1170 1188	interferon beta-1a
+T15	Finding 1259 1270	GdE lesions
+T16	HealthCareActivity 1307 1311	scan
+T17	Finding 1307 1311	scan
+T18	ClinicalAttribute 1608 1627	radiologic measures
+T19	Finding 1643 1660	treatment effects
+T20	DiseaseOrSyndrome 1664 1667	RMS
+T21	TemporalConcept 305 310	daily
+T22	TemporalConcept 1061 1070	12 months
+T23	TemporalConcept 1481 1490	12 months
+T24	Finding 453 466	relationships
+T25	Finding 1384 1392	evidence
+T26	Finding 1040 1049	reduction
+T27	Finding 1223 1232	reduction
+T28	NaturalPhenomenonOrProcess 1040 1049	reduction
+T29	NaturalPhenomenonOrProcess 1223 1232	reduction
+T30	BodyPartOrganOrOrganComponent 39 45	plasma
+T31	ClinicalAttribute 98 107	biomarker
+T32	ClinicalAttribute 1693 1702	biomarker
+T33	ResearchActivity 158 162	data
+T34	HealthCareActivity 1003 1012	treatment
+T35	HealthCareActivity 1643 1652	treatment
+T36	ResearchActivity 1003 1012	treatment
+T37	ResearchActivity 1643 1652	treatment
+T38	AminoAcidPeptideOrProtein 46 65	neurofilament light
+T39	BiologicallyActiveSubstance 1474 1477	NfL
+T40	BiologicallyActiveSubstance 1529 1532	NfL
+T41	BiologicallyActiveSubstance 46 65	neurofilament light
+T42	AminoAcidPeptideOrProtein 1474 1477	NfL
+T43	AminoAcidPeptideOrProtein 1529 1532	NfL
+T44	HealthCareActivity 135 151	disease activity
+T45	HealthCareActivity 1396 1412	disease activity
+T46	DiseaseOrSyndrome 198 226	relapsing multiple sclerosis
+T47	InjuryOrPoisoning 112 130	neuroaxonal damage
+T48	AminoAcidPeptideOrProtein 46 71	neurofilament light chain
+T49	BiologicallyActiveSubstance 46 71	neurofilament light chain
+T50	HealthCareActivity 593 619	magnetic resonance imaging
+T51	InjuryOrPoisoning 1263 1270	lesions
+T52	InjuryOrPoisoning 1292 1302	T2 lesions
+T53	HealthCareActivity 612 619	imaging
+T54	ManufacturedObject 593 619	magnetic resonance imaging
+T55	ResearchActivity 630 637	Results
+T56	HealthCareActivity 251 259	measured
+T57	TemporalConcept 1013 1020	relapse
+T58	TemporalConcept 1064 1070	months
+T59	TemporalConcept 1100 1106	months
+T60	TemporalConcept 1484 1490	months
+T61	TemporalConcept 1539 1545	months
+T62	ResearchActivity 497 535	median percentage change from baseline
+T63	PopulationGroup 703 715	participants
+T64	PopulationGroup 777 789	participants
+T65	Finding 1013 1020	relapse
+T66	TemporalConcept 418 422	post
+T67	ResearchActivity 1428 1434	models
+T68	PharmacologicSubstance 186 194	ozanimod
+T69	ClinicalAttribute 242 246	pNfL
+T70	ClinicalAttribute 39 85	plasma neurofilament light chain concentration
+T71	ClinicalAttribute 87 91	pNfL
+T72	ClinicalAttribute 475 479	pNfL
+T73	ClinicalAttribute 663 667	pNfL
+T74	ClinicalAttribute 940 944	pNfL
+T75	ClinicalAttribute 955 959	pNfL
+T76	ClinicalAttribute 1053 1057	pNfL
+T77	ClinicalAttribute 1218 1222	pNfL
+T78	ClinicalAttribute 1570 1574	pNfL
+T79	PharmacologicSubstance 277 285	ozanimod
+T80	ResearchActivity 380 387;401 406	SUNBEAM trial
+T81	ResearchActivity 392 406	RADIANCE trial
+T82	BiologicallyActiveSubstance 314 332	interferon beta-1a
+T83	PharmacologicSubstance 314 332	interferon beta-1a
+T84	ResearchActivity 418 435	post hoc analyses
+T85	ResearchActivity 549 556	SUNBEAM
+T86	ResearchActivity 565 573	RADIANCE
+T87	ResearchActivity 695 702	SUNBEAM
+T88	ResearchActivity 768 776	RADIANCE
+T89	ClinicalAttribute 892 904	brain volume
+T90	ResearchActivity 1074 1081	SUNBEAM
+T91	ResearchActivity 1110 1118	RADIANCE
+T92	PharmacologicSubstance 1146 1154	ozanimod
+T93	BiologicallyActiveSubstance 1170 1188	interferon beta-1a
+T94	PharmacologicSubstance 1170 1188	interferon beta-1a
+T95	ClinicalAttribute 1326 1338	brain volume
+T96	HealthCareActivity 1346 1369	annualized relapse rate
+T97	HealthCareActivity 1371 1374	ARR
+T98	HealthCareActivity 1445 1448	ARR
+T99	ResearchActivity 1492 1499	SUNBEAM
+T100	ResearchActivity 1547 1555	RADIANCE

@@ -1,0 +1,108 @@
+T0	PathologicFunction 72 83	Dysfunction
+T1	AminoAcidPeptideOrProtein 160 168	Sirtuins
+T2	BiologicallyActiveSubstance 160 168	Sirtuins
+T3	ResearchActivity 284 296	serum levels
+T4	BiologicallyActiveSubstance 310 317	sirtuin
+T5	AminoAcidPeptideOrProtein 310 317	sirtuin
+T6	ResearchActivity 430 455	surface plasmon resonance
+T7	AminoAcidPeptideOrProtein 655 663	sirtuins
+T8	BiologicallyActiveSubstance 655 663	sirtuins
+T9	GeneOrGenome 671 676	SIRT1
+T10	AminoAcidPeptideOrProtein 671 676	SIRT1
+T11	GeneOrGenome 678 683	SIRT3
+T12	AminoAcidPeptideOrProtein 678 683	SIRT3
+T13	GeneOrGenome 688 693	SIRT6
+T14	ResearchActivity 711 713	SD
+T15	AminoAcidPeptideOrProtein 1180 1185	SIRTs
+T16	GeneOrGenome 1260 1265	SIRT1
+T17	AminoAcidPeptideOrProtein 1260 1265	SIRT1
+T18	GeneOrGenome 1267 1272	SIRT3
+T19	AminoAcidPeptideOrProtein 1267 1272	SIRT3
+T20	GeneOrGenome 1277 1282	SIRT6
+T21	HealthCareActivity 1377 1387	diagnosing
+T22	GeneOrGenome 1492 1497	SIRT3
+T23	AminoAcidPeptideOrProtein 1492 1497	SIRT3
+T24	GeneOrGenome 1502 1507	SIRT6
+T25	HealthCareActivity 1413 1419	report
+T26	ResearchActivity 1413 1419	report
+T27	CellOrMolecularDysfunction 104 120	oxidative stress
+T28	CellComponent 87 99	mitochondria
+T29	ResearchActivity 506 529	Western blot experiment
+T30	Finding 980 1012	high sensitivity and specificity
+T31	CellFunction 189 196	pathway
+T32	PathologicFunction 140 152	pathogenesis
+T33	PathologicFunction 236 261	neurodegenerative changes
+T34	ManufacturedObject 1166 1170	case
+T35	ResearchActivity 462 471	technique
+T36	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T37	DiseaseOrSyndrome 21 23	AD
+T38	DiseaseOrSyndrome 156 158	AD
+T39	DiseaseOrSyndrome 364 366	AD
+T40	DiseaseOrSyndrome 747 749	AD
+T41	DiseaseOrSyndrome 1039 1041	AD
+T42	DiseaseOrSyndrome 1302 1304	AD
+T43	DiseaseOrSyndrome 1391 1393	AD
+T44	DiseaseOrSyndrome 1537 1539	AD
+T45	ResearchActivity 230 235	study
+T46	ResearchActivity 268 273	study
+T47	ResearchActivity 350 355	study
+T48	ResearchActivity 579 584	study
+T49	ResearchActivity 1198 1203	study
+T50	ResearchActivity 1217 1222	study
+T51	PathologicFunction 1110 1121	progression
+T52	TemporalConcept 1110 1121	progression
+T53	AminoAcidPeptideOrProtein 332 340	proteins
+T54	AminoAcidPeptideOrProtein 1343 1351	proteins
+T55	PopulationGroup 585 590	group
+T56	Finding 1365 1373	accuracy
+T57	DiseaseOrSyndrome 395 398	MCI
+T58	DiseaseOrSyndrome 817 820	MCI
+T59	DiseaseOrSyndrome 1046 1049	MCI
+T60	TemporalConcept 1407 1412	first
+T61	DiseaseOrSyndrome 1017 1037	cognitive impairment
+T62	DiseaseOrSyndrome 368 393	mild cognitive impairment
+T63	PopulationGroup 356 362	groups
+T64	PopulationGroup 1204 1210	groups
+T65	BodyPartOrganOrOrganComponent 284 289	serum
+T66	BodyPartOrganOrOrganComponent 621 626	serum
+T67	BodyPartOrganOrOrganComponent 665 670	serum
+T68	BodyPartOrganOrOrganComponent 1254 1259	serum
+T69	BodyPartOrganOrOrganComponent 1337 1342	serum
+T70	BodyPartOrganOrOrganComponent 1447 1452	serum
+T71	PathologicFunction 1102 1121	disease progression
+T72	ClinicalAttribute 220 226	marker
+T73	ResearchActivity 531 543	ROC analysis
+T74	ResearchActivity 937 949	ROC analysis
+T75	ResearchActivity 1306 1318	ROC analysis
+T76	DiseaseOrSyndrome 44 70	neurodegenerative disorder
+T77	AminoAcidPeptideOrProtein 319 324	SIRT1
+T78	BiologicallyActiveSubstance 319 324	SIRT1
+T79	GeneOrGenome 319 324	SIRT1
+T80	GeneOrGenome 325 330	SIRT7
+T81	BiologicallyActiveSubstance 325 330	SIRT7
+T82	AminoAcidPeptideOrProtein 325 330	SIRT7
+T83	PopulationGroup 404 421	geriatric control
+T84	ClinicalAttribute 604 640	concentration of serum SIRT proteins
+T85	AminoAcidPeptideOrProtein 627 640	SIRT proteins
+T86	BiologicallyActiveSubstance 627 640	SIRT proteins
+T87	BiologicallyActiveSubstance 671 676	SIRT1
+T88	BiologicallyActiveSubstance 678 683	SIRT3
+T89	BiologicallyActiveSubstance 688 693	SIRT6
+T90	AminoAcidPeptideOrProtein 688 693	SIRT6
+T91	ResearchActivity 457 460	SPR
+T92	PopulationGroup 879 881	GC
+T93	ResearchActivity 961 968	cut-off
+T94	Finding 1123 1145	No specific difference
+T95	BiologicallyActiveSubstance 1180 1185	SIRTs
+T96	ResearchActivity 1234 1250	inverse relation
+T97	BiologicallyActiveSubstance 1260 1265	SIRT1
+T98	BiologicallyActiveSubstance 1267 1272	SIRT3
+T99	BiologicallyActiveSubstance 1277 1282	SIRT6
+T100	AminoAcidPeptideOrProtein 1277 1282	SIRT6
+T101	AminoAcidPeptideOrProtein 1453 1461	sirtuins
+T102	BiologicallyActiveSubstance 1453 1461	sirtuins
+T103	Finding 1470 1488	clinical relevance
+T104	BiologicallyActiveSubstance 1492 1497	SIRT3
+T105	AminoAcidPeptideOrProtein 1502 1507	SIRT6
+T106	BiologicallyActiveSubstance 1502 1507	SIRT6
+T107	ClinicalAttribute 1511 1532	serum protein markers

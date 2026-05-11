@@ -1,0 +1,126 @@
+T0	Chemical 11 24	Ketone bodies
+T1	DiseaseOrSyndrome 213 220	ketosis
+T2	BiologicFunction 542 558	brain metabolism
+T3	DiseaseOrSyndrome 649 667	metabolic syndrome
+T4	HealthCareRelatedOrganization 803 830	National Institute on Aging
+T5	PopulationGroup 898 907	years old
+T6	DiseaseOrSyndrome 914 932	metabolic syndrome
+T7	HealthCareActivity 934 946	Intervention
+T8	ResearchActivity 934 946	Intervention
+T9	Chemical 1074 1094	beta-hydroxybutyrate
+T10	Chemical 1096 1099	BHB
+T11	BiologicallyActiveSubstance 1096 1099	BHB
+T12	BodyPartOrganOrOrganComponent 1104 1113	precuneus
+T13	HealthCareActivity 1128 1159	Magnetic Resonance Spectroscopy
+T14	HealthCareActivity 1161 1164	MRS
+T15	Chemical 1197 1200	BHB
+T16	BiologicallyActiveSubstance 1197 1200	BHB
+T17	HealthCareActivity 1254 1257	MRS
+T18	HealthCareRelatedOrganization 1296 1299	NIH
+T19	DiseaseOrSyndrome 1565 1572	ketosis
+T20	ResearchActivity 1739 1751	pre-clinical
+T21	PopulationGroup 631 643	older adults
+T22	BiologicFunction 1699 1703	hope
+T23	Eukaryote 224 230	humans
+T24	Eukaryote 1505 1511	humans
+T25	Eukaryote 1847 1853	humans
+T26	HealthCareActivity 991 998	placebo
+T27	Chemical 124 131	glucose
+T28	PharmacologicSubstance 124 131	glucose
+T29	BiologicallyActiveSubstance 124 131	glucose
+T30	BiologicallyActiveSubstance 1228 1239	metabolites
+T31	PopulationGroup 637 643	adults
+T32	PopulationGroup 885 891	adults
+T33	PopulationGroup 847 859	Participants
+T34	Finding 1039 1047	Outcomes
+T35	BodyPartOrganOrOrganComponent 163 167	oral
+T36	CellComponent 1360 1382	extracellular vesicles
+T37	DiseaseOrSyndrome 72 91	Alzheimer's disease
+T38	DiseaseOrSyndrome 93 95	AD
+T39	DiseaseOrSyndrome 326 328	AD
+T40	DiseaseOrSyndrome 441 443	AD
+T41	DiseaseOrSyndrome 586 588	AD
+T42	DiseaseOrSyndrome 701 703	AD
+T43	DiseaseOrSyndrome 1323 1325	AD
+T44	DiseaseOrSyndrome 1460 1462	AD
+T45	DiseaseOrSyndrome 1621 1623	AD
+T46	DiseaseOrSyndrome 1692 1694	AD
+T47	ResearchActivity 1435 1440	study
+T48	ResearchActivity 1651 1656	study
+T49	BodyPartOrganOrOrganComponent 1180 1186	plasma
+T50	BodyPartOrganOrOrganComponent 1353 1359	plasma
+T51	Finding 345 353	evidence
+T52	Finding 1752 1760	evidence
+T53	ResearchActivity 139 147	research
+T54	PathologicFunction 276 285	pathology
+T55	PathologicFunction 1624 1633	pathology
+T56	BiomedicalOccupationOrDiscipline 276 285	pathology
+T57	BiomedicalOccupationOrDiscipline 1624 1633	pathology
+T58	BodyPartOrganOrOrganComponent 97 102	brain
+T59	BodyPartOrganOrOrganComponent 375 380	brain
+T60	BodyPartOrganOrOrganComponent 1211 1216	brain
+T61	BodyPartOrganOrOrganComponent 1783 1788	brain
+T62	ClinicalAttribute 1309 1319	biomarkers
+T63	Eukaryote 339 344	human
+T64	ClinicalAttribute 1463 1472	biomarker
+T65	Finding 878 884	intact
+T66	BodyPartOrganOrOrganComponent 1191 1196	urine
+T67	TemporalConcept 1429 1434	first
+T68	DiseaseOrSyndrome 1824 1835	Alzheimer's
+T69	ResearchActivity 1585 1592	studies
+T70	Finding 692 696	risk
+T71	Finding 1683 1687	risk
+T72	ClinicalAttribute 408 429	cognitive performance
+T73	ClinicalAttribute 560 581	cognitive performance
+T74	TemporalConcept 898 903	years
+T75	Finding 1340 1349	mediators
+T76	PopulationGroup 1669 1679	population
+T77	CellFunction 548 558	metabolism
+T78	BiologicFunction 381 398	ketone metabolism
+T79	BiologicFunction 548 558	metabolism
+T80	BodyPartOrganOrOrganComponent 1221 1227	muscle
+T81	PathologicFunction 444 463	pathogenic cascades
+T82	PathologicFunction 589 608	pathogenic cascades
+T83	ResearchActivity 713 772	Double-blinded randomized placebo-controlled clinical trial
+T84	BiologicFunction 1259 1268	cognition
+T85	Finding 624 630	normal
+T86	ResearchActivity 309 322	animal models
+T87	TemporalConcept 1033 1037	days
+T88	Finding 612 630	cognitively normal
+T89	Finding 505 512	effects
+T90	Finding 1487 1494	effects
+T91	Finding 1836 1843	effects
+T92	BiologicFunction 825 830	Aging
+T93	BiologicFunction 1057 1070	concentration
+T94	Eukaryote 1578 1584	animal
+T95	Finding 286 294	reducing
+T96	TemporalConcept 631 636	older
+T97	TemporalConcept 1020 1025	daily
+T98	Chemical 516 532	ketone monoester
+T99	TemporalConcept 133 138	Prior
+T100	BiologicallyActiveSubstance 11 24	Ketone bodies
+T101	ExperimentalModelOfDisease 309 328	animal models of AD
+T102	Chemical 168 184	ketone monoester
+T103	PharmacologicSubstance 168 184	ketone monoester
+T104	PharmacologicSubstance 186 189	KME
+T105	Chemical 186 189	KME
+T106	Chemical 359 362	KME
+T107	PharmacologicSubstance 359 362	KME
+T108	PharmacologicSubstance 516 532	ketone monoester
+T109	PharmacologicSubstance 534 537	KME
+T110	Chemical 534 537	KME
+T111	HealthCareRelatedOrganization 774 795	Setting Clinical Unit
+T112	PharmacologicSubstance 973 976	KME
+T113	Chemical 973 976	KME
+T114	BiologicallyActiveSubstance 1074 1094	beta-hydroxybutyrate
+T115	ClinicalAttribute 1191 1200	urine BHB
+T116	BodyPartOrganOrOrganComponent 1388 1393	stool
+T117	Organism 1394 1404	microbiome
+T118	Chemical 1498 1501	KME
+T119	PharmacologicSubstance 1498 1501	KME
+T120	Chemical 1513 1529	Ketone monoester
+T121	PharmacologicSubstance 1513 1529	Ketone monoester
+T122	PharmacologicSubstance 1660 1663	KME
+T123	Chemical 1660 1663	KME
+T124	ClinicalAttribute 1180 1186;1197 1200	plasma BHB
+T125	Substance 947 953	Drinks

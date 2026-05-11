@@ -1,0 +1,50 @@
+T0	ManufacturedObject 121 132	transmitter
+T1	Finding 121 132	transmitter
+T2	DiseaseOrSyndrome 244 246	ND
+T3	BodyPartOrganOrOrganComponent 444 459	nervous systems
+T4	DiseaseOrSyndrome 639 641	ND
+T5	DiseaseOrSyndrome 822 824	ND
+T6	DiseaseOrSyndrome 965 967	ND
+T7	DiseaseOrSyndrome 1060 1062	ND
+T8	BiologicFunction 194 214	biological processes
+T9	Cell 504 508	glia
+T10	Cell 611 615	glia
+T11	Cell 660 664	glia
+T12	Cell 754 758	glia
+T13	Cell 879 883	glia
+T14	Cell 1020 1024	glia
+T15	CellFunction 581 590	crosstalk
+T16	ResearchActivity 985 999	review article
+T17	DiseaseOrSyndrome 303 332	amyotrophic lateral sclerosis
+T18	DiseaseOrSyndrome 216 242	Neurodegenerative diseases
+T19	DiseaseOrSyndrome 257 276	Alzheimer's disease
+T20	CellComponent 24 27	EVs
+T21	CellComponent 673 676	EVs
+T22	CellComponent 892 895	EVs
+T23	CellComponent 1033 1036	EVs
+T24	PathologicFunction 623 635	pathogenesis
+T25	PathologicFunction 1044 1056	pathogenesis
+T26	Cell 76 81	cells
+T27	Cell 431 436	cells
+T28	CellFunction 726 733	signals
+T29	CellComponent 0 22	Extracellular vesicles
+T30	BiologicFunction 808 821	understanding
+T31	HealthCareActivity 1146 1155	treatment
+T32	ResearchActivity 1146 1155	treatment
+T33	TemporalConcept 1074 1081	current
+T34	Cell 599 606	neurons
+T35	Cell 742 749	neurons
+T36	Finding 381 392	propagation
+T37	Finding 713 722	mediators
+T38	HealthCareActivity 1132 1141	diagnosis
+T39	CellComponent 33 52	nano-sized vesicles
+T40	PathologicFunction 520 530	pathogenic
+T41	DiseaseOrSyndrome 278 297	Parkinson's disease
+T42	CellFunction 137 163	cell-to-cell communication
+T43	PathologicFunction 464 481	neuroinflammatory
+T44	TemporalConcept 646 658	recent years
+T45	CellFunction 365 376	aggregation
+T46	ResearchActivity 365 376	aggregation
+T47	PathologicFunction 405 424	pathologic proteins
+T48	ResearchActivity 831 852	comprehensive summary
+T49	DiseaseOrSyndrome 1159 1161	ND

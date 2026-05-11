@@ -1,0 +1,7 @@
+T0	Cell 174 185	brain cells
+T1	PathologicFunction 87 104	neuroinflammation
+T2	CellOrMolecularDysfunction 110 146	formation of neurofibrillary tangles
+T3	AnatomicalAbnormality 16 31	amyloid plaques
+T4	PathologicFunction 16 31	amyloid plaques
+T5	CellComponent 123 146	neurofibrillary tangles
+T6	CellOrMolecularDysfunction 165 185	death of brain cells

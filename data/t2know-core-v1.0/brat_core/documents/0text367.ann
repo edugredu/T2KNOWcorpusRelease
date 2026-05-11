@@ -1,0 +1,56 @@
+T0	AminoAcidPeptideOrProtein 0 31	Huntingtin-associated protein 1
+T1	GeneOrGenome 33 37	HAP1
+T2	GeneOrGenome 226 230	HAP1
+T3	CellFunction 284 288	bind
+T4	CellFunction 326 351	intracellular trafficking
+T5	Finding 374 381	failure
+T6	CellFunction 385 408	intracellular transport
+T7	DiseaseOrSyndrome 612 646	spinal and bulbar muscular atrophy
+T8	DiseaseOrSyndrome 648 652	SBMA
+T9	DiseaseOrSyndrome 658 680	spinocerebellar ataxia
+T10	GeneOrGenome 705 709	HAP1
+T11	GeneOrGenome 858 862	HAP1
+T12	DiseaseOrSyndrome 452 479	neurodegenerative disorders
+T13	Substance 271 280	molecules
+T14	ResearchActivity 804 812	overview
+T15	GeneOrGenome 61 64	HTT
+T16	AminoAcidPeptideOrProtein 61 64	HTT
+T17	Finding 742 758	growing evidence
+T18	DiseaseOrSyndrome 171 192	neurological diseases
+T19	CellFunction 61 72	HTT-binding
+T20	DiseaseOrSyndrome 682 685	SCA
+T21	ResearchActivity 765 771	review
+T22	HealthCareActivity 765 771	review
+T23	PathologicFunction 437 448	progression
+T24	TemporalConcept 437 448	progression
+T25	Finding 203 211	evidence
+T26	Finding 871 882	involvement
+T27	AminoAcidPeptideOrProtein 297 305	proteins
+T28	DiseaseOrSyndrome 522 542	Huntington's disease
+T29	DiseaseOrSyndrome 549 568	Parkinson's disease
+T30	DiseaseOrSyndrome 544 546	HD
+T31	DiseaseOrSyndrome 570 572	PD
+T32	DiseaseOrSyndrome 606 609	ALS
+T33	DiseaseOrSyndrome 575 604	amyotrophic lateral sclerosis
+T34	DiseaseOrSyndrome 496 515	Alzheimer's disease
+T35	DiseaseOrSyndrome 517 519	AD
+T36	DiseaseOrSyndrome 481 484	NDs
+T37	DiseaseOrSyndrome 722 725	NDs
+T38	DiseaseOrSyndrome 886 889	NDs
+T39	CellFunction 259 264	cargo
+T40	CellFunction 92 101	expressed
+T41	TemporalConcept 44 49	first
+T42	BodyPartOrganOrOrganComponent 109 131	central nervous system
+T43	BiologicallyActiveSubstance 0 31	Huntingtin-associated protein 1
+T44	AminoAcidPeptideOrProtein 33 37	HAP1
+T45	BiologicallyActiveSubstance 33 37	HAP1
+T46	AminoAcidPeptideOrProtein 226 230	HAP1
+T47	BiologicallyActiveSubstance 226 230	HAP1
+T48	BiologicallyActiveSubstance 705 709	HAP1
+T49	AminoAcidPeptideOrProtein 705 709	HAP1
+T50	BiologicallyActiveSubstance 858 862	HAP1
+T51	AminoAcidPeptideOrProtein 858 862	HAP1
+T52	BiologicallyActiveSubstance 61 64	HTT
+T53	CellFunction 820 845	intracellular trafficking
+T54	CellOrMolecularDysfunction 374 408	failure of intracellular transport
+T55	Finding 414 429	key contributor

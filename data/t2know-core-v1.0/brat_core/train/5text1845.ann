@@ -1,0 +1,8 @@
+T0	CellFunction 56 74	lysosomal function
+T1	DiseaseOrSyndrome 124 151	neurodegenerative processes
+T2	CellFunction 42 51	autophagy
+T3	BiologicFunction 94 105	homeostasis
+T4	Finding 27 38	alterations
+T5	CellComponent 56 65	lysosomal
+T6	CellFunction 86 105	protein homeostasis
+T7	Virus 0 18	Epstein-Barr Virus

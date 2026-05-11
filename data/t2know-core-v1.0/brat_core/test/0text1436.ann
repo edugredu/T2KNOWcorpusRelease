@@ -1,0 +1,96 @@
+T0	TemporalConcept 32 37	stage
+T1	ClinicalAttribute 32 37	stage
+T2	TemporalConcept 127 132	stage
+T3	ClinicalAttribute 127 132	stage
+T4	DiseaseOrSyndrome 167 184	cognitive changes
+T5	TemporalConcept 216 221	stage
+T6	ClinicalAttribute 216 221	stage
+T7	HealthCareActivity 411 443	tau positron-emission tomography
+T8	AminoAcidPeptideOrProtein 611 615	pTau
+T9	HealthCareActivity 1369 1376	monitor
+T10	ManufacturedObject 1369 1376	monitor
+T11	TemporalConcept 962 968	stages
+T12	TemporalConcept 1011 1017	stages
+T13	TemporalConcept 1081 1087	stages
+T14	SignOrSymptom 748 766	cognitive symptoms
+T15	Finding 1116 1132	normal cognition
+T16	ClinicalAttribute 1380 1388	severity
+T17	Finding 1380 1388	severity
+T18	Finding 1116 1122	normal
+T19	Eukaryote 1399 1405	humans
+T20	HealthCareActivity 17 20	PET
+T21	HealthCareActivity 123 126	PET
+T22	HealthCareActivity 445 448	PET
+T23	HealthCareActivity 526 529	PET
+T24	HealthCareActivity 861 864	PET
+T25	HealthCareActivity 1172 1175	PET
+T26	HealthCareActivity 1291 1294	PET
+T27	HealthCareActivity 17 28	PET imaging
+T28	PathologicFunction 1177 1188	progression
+T29	TemporalConcept 1177 1188	progression
+T30	AminoAcidPeptideOrProtein 411 414	tau
+T31	AminoAcidPeptideOrProtein 472 475	tau
+T32	AminoAcidPeptideOrProtein 591 609	phosphorylated tau
+T33	AminoAcidPeptideOrProtein 857 860	tau
+T34	AminoAcidPeptideOrProtein 1168 1171	tau
+T35	HealthCareActivity 274 283	diagnosis
+T36	CellOrMolecularDysfunction 726 743	neurodegeneration
+T37	DiseaseOrSyndrome 102 121	Alzheimer's disease
+T38	DiseaseOrSyndrome 222 241	Alzheimer's disease
+T39	DiseaseOrSyndrome 287 306	Alzheimer's disease
+T40	DiseaseOrSyndrome 308 310	AD
+T41	DiseaseOrSyndrome 792 794	AD
+T42	DiseaseOrSyndrome 1362 1364	AD
+T43	DiseaseOrSyndrome 1377 1379	AD
+T44	BodyPartOrganOrOrganComponent 692 698	plasma
+T45	ClinicalAttribute 153 162	biomarker
+T46	ClinicalAttribute 795 804	biomarker
+T47	ClinicalAttribute 878 887	biomarker
+T48	AminoAcidPeptideOrProtein 577 589	amyloid-beta
+T49	AminoAcidPeptideOrProtein 1245 1257	amyloid-beta
+T50	BiologicFunction 1123 1132	cognition
+T51	ResearchActivity 551 556	model
+T52	ResearchActivity 1333 1338	model
+T53	Finding 1351 1358	history
+T54	PopulationGroup 245 258	living people
+T55	HealthCareActivity 21 28	imaging
+T56	HealthCareActivity 1158 1167	follow-up
+T57	TemporalConcept 1158 1167	follow-up
+T58	BodyPartOrganOrOrganComponent 620 639	cerebrospinal fluid
+T59	PopulationGroup 38 49	individuals
+T60	PopulationGroup 498 516	living individuals
+T61	PopulationGroup 1141 1152	individuals
+T62	AminoAcidPeptideOrProtein 577 584	amyloid
+T63	AminoAcidPeptideOrProtein 1245 1252	amyloid
+T64	BiologicallyActiveSubstance 577 584	amyloid
+T65	BiologicallyActiveSubstance 1245 1252	amyloid
+T66	TemporalConcept 476 483	staging
+T67	TemporalConcept 1307 1314	staging
+T68	BiologicallyActiveSubstance 411 414	tau
+T69	BiologicallyActiveSubstance 472 475	tau
+T70	BiologicallyActiveSubstance 591 609	phosphorylated tau
+T71	BiologicallyActiveSubstance 857 860	tau
+T72	BiologicallyActiveSubstance 1168 1171	tau
+T73	HealthCareActivity 67 97	Braak neuropathological system
+T74	HealthCareActivity 322 355	histopathological staging systems
+T75	HealthCareActivity 466 490	Braak tau staging system
+T76	HealthCareActivity 526 547	PET-based Braak stage
+T77	BiologicallyActiveSubstance 611 615	pTau
+T78	AminoAcidPeptideOrProtein 641 650	pTau(181)
+T79	BiologicallyActiveSubstance 641 650	pTau(181)
+T80	AminoAcidPeptideOrProtein 652 661	pTau(217)
+T81	BiologicallyActiveSubstance 652 661	pTau(217)
+T82	AminoAcidPeptideOrProtein 663 672	pTau(231)
+T83	BiologicallyActiveSubstance 663 672	pTau(231)
+T84	AminoAcidPeptideOrProtein 677 686	pTau(235)
+T85	BiologicallyActiveSubstance 677 686	pTau(235)
+T86	AminoAcidPeptideOrProtein 700 709	pTau(181)
+T87	BiologicallyActiveSubstance 700 709	pTau(181)
+T88	AminoAcidPeptideOrProtein 714 723	pTau(231)
+T89	BiologicallyActiveSubstance 714 723	pTau(231)
+T90	HealthCareActivity 910 924	Braak stage II
+T91	TemporalConcept 999 1004	Early
+T92	DiseaseOrSyndrome 1048 1065	memory impairment
+T93	HealthCareActivity 1005 1017	Braak stages
+T94	HealthCareActivity 1075 1092	Braak stages V-VI
+T95	HealthCareActivity 1291 1314	PET-based Braak staging

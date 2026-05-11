@@ -1,0 +1,107 @@
+T0	Finding 143 157	susceptibility
+T1	HealthCareActivity 177 184	genetic
+T2	Finding 415 422	outcome
+T3	Finding 588 595	outcome
+T4	ResearchActivity 616 624	paradigm
+T5	OrganismAttribute 992 998	traits
+T6	OrganismAttribute 1031 1037	traits
+T7	TemporalConcept 1091 1101	timepoints
+T8	GeneOrGenome 1401 1406	EHBP1
+T9	BiologicallyActiveSubstance 1408 1435	EH domain binding protein 1
+T10	AminoAcidPeptideOrProtein 1408 1435	EH domain binding protein 1
+T11	AminoAcidPeptideOrProtein 1469 1492	centrosomal protein 112
+T12	AminoAcidPeptideOrProtein 1541 1580	SPARC related modular calcium binding 2
+T13	CellComponent 1647 1659	X chromosome
+T14	GeneOrGenome 1647 1659	X chromosome
+T15	PathologicFunction 2151 2158	outcome
+T16	OrganismAttribute 2159 2165	traits
+T17	TemporalConcept 295 306	last decade
+T18	BiologicFunction 1516 1522	recall
+T19	BiologicFunction 1603 1609	recall
+T20	TemporalConcept 1593 1602	immediate
+T21	CellFunction 177 190	genetic basis
+T22	Finding 80 101	increasing prevalence
+T23	TemporalConcept 1508 1515	delayed
+T24	MolecularSequence 1902 1906	SNPs
+T25	ResearchActivity 237 268	genome-wide association studies
+T26	ResearchActivity 270 274	GWAS
+T27	ResearchActivity 322 326	GWAS
+T28	ResearchActivity 583 587	GWAS
+T29	ResearchActivity 919 923	GWAS
+T30	ResearchActivity 1177 1181	GWAS
+T31	ResearchActivity 1694 1698	GWAS
+T32	ResearchActivity 1940 1944	GWAS
+T33	ResearchActivity 2053 2057	GWAS
+T34	ResearchActivity 2180 2184	GWAS
+T35	GeneOrGenome 1716 1722	genome
+T36	OrganismAttribute 695 704	phenotype
+T37	PopulationGroup 105 119;132 133	industrialized a
+T38	ResearchActivity 1055 1072	longitudinal data
+T39	BiologicFunction 121 126	aging
+T40	CellFunction 121 126	aging
+T41	DiseaseOrSyndrome 46 71	neurodegenerative disease
+T42	TemporalConcept 2038 2044	recent
+T43	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T44	DiseaseOrSyndrome 21 23	AD
+T45	DiseaseOrSyndrome 140 142	AD
+T46	DiseaseOrSyndrome 558 560	AD
+T47	DiseaseOrSyndrome 871 873	AD
+T48	DiseaseOrSyndrome 2045 2047	AD
+T49	DiseaseOrSyndrome 2169 2171	AD
+T50	ResearchActivity 705 709	data
+T51	PopulationGroup 723 734	individuals
+T52	OrganismAttribute 423 433	phenotypes
+T53	OrganismAttribute 569 579	phenotypes
+T54	DiseaseOrSyndrome 814 833	Alzheimer's Disease
+T55	ClinicalAttribute 454 464	biomarkers
+T56	ResearchActivity 511 516	study
+T57	ResearchActivity 771 864;879 884	European Medical Information Framework for Alzheimer's Disease Multimodal Biomarker Discovery study
+T58	ResearchActivity 2084 2089	study
+T59	Finding 1272 1283	performance
+T60	Finding 1622 1633	performance
+T61	DiseaseOrSyndrome 2254 2271	cognitive decline
+T62	Finding 937 945	outcomes
+T63	ResearchActivity 924 932	analyses
+T64	ResearchActivity 1182 1190	analyses
+T65	ResearchActivity 1826 1856	polygenic score (PGS) analyses
+T66	ResearchActivity 2185 2193	analyses
+T67	HealthCareActivity 987 990	MRI
+T68	ResearchActivity 607 615	analysis
+T69	TemporalConcept 37 45	frequent
+T70	Finding 1009 1030	cognitive performance
+T71	ResearchActivity 517 523	design
+T72	HealthCareActivity 517 523	design
+T73	ResearchActivity 332 371	dichotomized clinical diagnostic status
+T74	OrganismAttribute 682 690	genotype
+T75	HealthCareActivity 1253 1271	neuropsychological
+T76	BiologicFunction 1971 1989	cognitive function
+T77	BiologicFunction 1615 1621	memory
+T78	ClinicalAttribute 845 854	Biomarker
+T79	ResearchActivity 1634 1638	test
+T80	HealthCareActivity 1634 1638	test
+T81	HealthCareActivity 959 985	magnetic resonance imaging
+T82	ClinicalAttribute 1948 1966	hippocampal volume
+T83	PopulationGroup 771 779	European
+T84	HealthCareRelatedOrganization 771 809	European Medical Information Framework
+T85	CellFunction 1364 1371	signals
+T86	PopulationGroup 121 138	aging populations
+T87	ResearchActivity 379 410	case vs. control classification
+T88	ResearchActivity 866 877	EMIF-AD MBD
+T89	ResearchActivity 1132 1159	cross-sectional assessments
+T90	Finding 1208 1244	genome-wide significant associations
+T91	AminoAcidPeptideOrProtein 1401 1406	EHBP1
+T92	BiologicallyActiveSubstance 1401 1406	EHBP1
+T93	CellComponent 1440 1455	chromosome 2p15
+T94	AminoAcidPeptideOrProtein 1461 1467	CEP112
+T95	BiologicallyActiveSubstance 1461 1467	CEP112
+T96	BiologicallyActiveSubstance 1469 1492	centrosomal protein 112
+T97	BiologicallyActiveSubstance 1541 1580	SPARC related modular calcium binding 2
+T98	AminoAcidPeptideOrProtein 1534 1539	SMOC2
+T99	GeneOrGenome 1534 1539	SMOC2
+T100	AminoAcidPeptideOrProtein 1752 1760	IL1RAPL1
+T101	AminoAcidPeptideOrProtein 1762 1809	interleukin 1 receptor accessory protein like 1
+T102	BiologicallyActiveSubstance 1752 1760	IL1RAPL1
+T103	GeneOrGenome 1752 1760	IL1RAPL1
+T104	Finding 2048 2052	risk
+T105	ClinicalAttribute 2120 2147	quantitative endophenotypes
+T106	GeneOrGenome 2220 2224	loci

@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 101 128	neurodegenerative disorders
+T1	HealthCareActivity 50 59	therapies
+T2	NucleicAcidNucleosideOrNucleotide 21 28	vectors
+T3	Cell 34 43	stem cell
+T4	Virus 10 20	Adenovirus
+T5	Finding 75 97	regenerative potential

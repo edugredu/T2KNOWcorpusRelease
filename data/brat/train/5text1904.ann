@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 165 184	Alzheimer's disease
+T1	Finding 99 105	memory
+T2	MachineActivity 30 46	machine learning
+T3	MachineActivity 0 15	Virtual reality
+T4	MachineActivity 30 57	machine learning algorithms
+T5	BiologicFunction 110 138	spatial navigation abilities
+T6	PopulationGroup 142 153	individuals
+T7	Finding 157 161	risk

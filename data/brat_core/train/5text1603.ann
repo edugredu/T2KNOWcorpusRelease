@@ -1,0 +1,9 @@
+T0	Cell 126 131	cells
+T1	Organism 121 125	host
+T2	Virus 0 10	SARS-CoV-2
+T3	AminoAcidPeptideOrProtein 63 94	angiotensin-converting enzyme 2
+T4	BiologicallyActiveSubstance 63 94	angiotensin-converting enzyme 2
+T5	BiologicallyActiveSubstance 96 100	ACE2
+T6	AminoAcidPeptideOrProtein 96 100	ACE2
+T7	Finding 11 22	infectivity
+T8	Virus 46 51	virus

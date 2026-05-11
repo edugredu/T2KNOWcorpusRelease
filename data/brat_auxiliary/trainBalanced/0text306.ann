@@ -1,0 +1,78 @@
+T0	CellComponent 44 71	membrane-enclosed particles
+T1	CellFunction 150 179	transfer of biologic material
+T2	BiologicallyActiveSubstance 162 179	biologic material
+T3	CellComponent 211 225	small vesicles
+T4	CellFunction 348 364;383 402	natural carriers of genetic material
+T5	GeneOrGenome 386 402	genetic material
+T6	CellFunction 924 968	carriers of important messengers and signals
+T7	AminoAcidPeptideOrProtein 1204 1222	Protein aggregates
+T8	CellComponent 1323 1344	multivesicular bodies
+T9	CellComponent 1346 1350	MVBs
+T10	CellComponent 1426 1433	exosome
+T11	CellFunction 1426 1443	exosome transport
+T12	Cell 1452 1469	cellular material
+T13	CellComponent 1777 1784	exosome
+T14	CellComponent 0 22	Extracellular vesicles
+T15	CellFunction 110 137	intercellular communication
+T16	CellFunction 459 486	intercellular communication
+T17	BodyPartOrganOrOrganComponent 1385 1404	extracellular space
+T18	AminoAcidPeptideOrProtein 990 1008	protein aggregates
+T19	DiseaseOrSyndrome 1188 1202	prion diseases
+T20	CellComponent 44 52	membrane
+T21	CellComponent 193 201	exosomes
+T22	CellComponent 425 433	exosomes
+T23	CellComponent 540 548	exosomes
+T24	CellComponent 648 656	exosomes
+T25	CellComponent 771 779	exosomes
+T26	CellComponent 1408 1416	exosomes
+T27	CellComponent 1652 1660	exosomes
+T28	CellComponent 1878 1886	exosomes
+T29	Finding 1034 1042	hallmark
+T30	Cell 723 728	Cells
+T31	CellFunction 506 526	cellular homeostasis
+T32	CellOrMolecularDysfunction 1516 1547	pathological misfolded proteins
+T33	CellFunction 1274 1296	endo-lysosomal pathway
+T34	BiologicFunction 491 502	maintenance
+T35	Finding 974 986	accumulation
+T36	CellComponent 24 27	EVs
+T37	CellComponent 181 184	EVs
+T38	BodyPartOrganOrOrganComponent 1847 1853	plasma
+T39	NucleicAcidNucleosideOrNucleotide 847 858	RNA species
+T40	HealthCareActivity 552 558	health
+T41	NaturalPhenomenonOrProcess 1255 1266	degradation
+T42	AminoAcidPeptideOrProtein 407 415	proteins
+T43	AminoAcidPeptideOrProtein 833 841	proteins
+T44	BiologicFunction 1668 1679	homeostasis
+T45	BodyPartOrganOrOrganComponent 1559 1564	brain
+T46	CellOrMolecularDysfunction 1585 1602	neurodegeneration
+T47	Cell 84 89	cells
+T48	BiologicFunction 1716 1727	development
+T49	CellFunction 1716 1727	development
+T50	CellComponent 816 825	membranes
+T51	OrganismAttribute 563 566	age
+T52	Finding 628 636	evidence
+T53	TemporalConcept 305 311	recent
+T54	TemporalConcept 621 627	recent
+T55	BodyPartOrganOrOrganComponent 738 760	central nervous system
+T56	BodyPartOrganOrOrganComponent 762 765	CNS
+T57	BodyPartOrganOrOrganComponent 1664 1667	CNS
+T58	BodyPartOrganOrOrganComponent 1866 1869	CNS
+T59	CellFunction 1785 1790	cargo
+T60	DiseaseOrSyndrome 695 721	neurodegenerative diseases
+T61	DiseaseOrSyndrome 1051 1077	neurodegenerative diseases
+T62	DiseaseOrSyndrome 1731 1757	neurodegenerative diseases
+T63	DiseaseOrSyndrome 1131 1151	Huntington's disease
+T64	DiseaseOrSyndrome 1110 1129	Parkinson's disease
+T65	DiseaseOrSyndrome 1153 1182	amyotrophic lateral sclerosis
+T66	DiseaseOrSyndrome 1089 1108	Alzheimer's disease
+T67	ResearchActivity 1620 1626	review
+T68	HealthCareActivity 1620 1626	review
+T69	ClinicalAttribute 1794 1804	biomarkers
+T70	CellFunction 266 294	disposal of cellular garbage
+T71	CellFunction 348 364;383 385;407 415	natural carriers of proteins
+T72	CellComponent 438 445	vesicle
+T73	DiseaseOrSyndrome 563 586	age-associated diseases
+T74	InjuryOrPoisoning 827 832	toxic
+T75	CellFunction 889 920	long cell-to-cell communication
+T76	CellFunction 879 884;894 920	short cell-to-cell communication
+T77	Finding 1825 1843	potential benefits

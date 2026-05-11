@@ -1,0 +1,59 @@
+T0	DiseaseOrSyndrome 0 22	Neurological disorders
+T1	TemporalConcept 792 799	origins
+T2	BodyPartOrganOrOrganComponent 915 929	adipose tissue
+T3	Chemical 1392 1410	conditioned medium
+T4	CellFunction 255 262	secrete
+T5	CellFunction 1092 1104	downregulate
+T6	DiseaseOrSyndrome 1287 1302	ischemic stroke
+T7	SignOrSymptom 1155 1172	clinical symptoms
+T8	CellFunction 632 646	downregulation
+T9	InjuryOrPoisoning 1260 1282	traumatic brain injury
+T10	BiologicFunction 959 968	attention
+T11	Cell 150 171	resident immune cells
+T12	Cell 750 772	Mesenchymal stem cells
+T13	CellComponent 1422 1444	extracellular vesicles
+T14	DiseaseOrSyndrome 1239 1258	Alzheimer's disease
+T15	OrganismAttribute 343 350	healthy
+T16	BodyPartOrganOrOrganComponent 179 201	central nervous system
+T17	BodyPartOrganOrOrganComponent 203 206	CNS
+T18	BodyPartOrganOrOrganComponent 367 370	CNS
+T19	BodyPartOrganOrOrganComponent 351 356	brain
+T20	Cell 1034 1039	cells
+T21	DiseaseOrSyndrome 34 60	neurodegenerative diseases
+T22	Finding 1479 1496	beneficial effect
+T23	PathologicFunction 538 554	pro-inflammatory
+T24	ResearchActivity 1312 1318	review
+T25	HealthCareActivity 1312 1318	review
+T26	TemporalConcept 891 896	years
+T27	OrganismAttribute 1065 1074	phenotype
+T28	Cell 135 144	microglia
+T29	Cell 233 242	microglia
+T30	Cell 326 335	microglia
+T31	Cell 423 432	microglia
+T32	Cell 739 748	microglia
+T33	Cell 1078 1087	microglia
+T34	Cell 1500 1509	microglia
+T35	BodyPartOrganOrOrganComponent 1355 1369	adipose tissue
+T36	DiseaseOrSyndrome 1449 1471	neurological disorders
+T37	PathologicFunction 656 673	neuroinflammatory
+T38	TemporalConcept 884 896	recent years
+T39	CellFunction 1518 1536	signaling pathways
+T40	OrganismAttribute 454 464	phenotypes
+T41	Cell 774 777	MSC
+T42	Cell 898 901	MSC
+T43	Cell 1378 1381	MSC
+T44	Cell 762 772	stem cells
+T45	ResearchActivity 1189 1202	animal models
+T46	Finding 830 837	effects
+T47	OrganismAttribute 412 419	ability
+T48	Finding 481 501	neuroprotective role
+T49	DiseaseOrSyndrome 1207 1231	neurological pathologies
+T50	Finding 852 879	immunomodulatory properties
+T51	PathologicFunction 89 106	neuroinflammation
+T52	PathologicFunction 1105 1122	neuroinflammation
+T53	CellFunction 296 315	neuronal cell death
+T54	CellFunction 711 726	neuroprotective
+T55	CellFunction 1049 1064	neuroprotective
+T56	HealthCareActivity 596 618	therapeutic strategies
+T57	InjuryOrPoisoning 263 284	neurotoxic substances
+T58	ResearchActivity 1008 1026	extraction methods

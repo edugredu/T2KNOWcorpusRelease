@@ -1,0 +1,69 @@
+T0	HealthCareActivity 62 71	detection
+T1	ClinicalAttribute 502 513	sNfL levels
+T2	BiologicallyActiveSubstance 596 600	sNfL
+T3	BiologicallyActiveSubstance 809 813	sNfL
+T4	ClinicalAttribute 819 825	marker
+T5	TemporalConcept 965 972	routine
+T6	BiologicallyActiveSubstance 980 984	sNfL
+T7	HealthCareActivity 994 1033	individualized clinical decision-making
+T8	Substance 1094 1099	fluid
+T9	ClinicalAttribute 1115 1123;1132 1140	clinical measures
+T10	BiologicallyActiveSubstance 1206 1210	sNfL
+T11	TemporalConcept 1264 1271	initial
+T12	HealthCareActivity 1307 1319	surveillance
+T13	CellFunction 1307 1319	surveillance
+T14	HealthCareActivity 1272 1281	diagnosis
+T15	ResearchActivity 787 802	clinical trials
+T16	PopulationGroup 775 782	cohorts
+T17	ClinicalAttribute 1356 1364	guidance
+T18	Finding 372 380	evidence
+T19	ClinicalAttribute 1100 1110	biomarkers
+T20	TemporalConcept 557 562	years
+T21	HealthCareActivity 1368 1385	therapy selection
+T22	TemporalConcept 211 220	currently
+T23	ResearchActivity 233 246	investigation
+T24	ClinicalAttribute 298 316	treatment response
+T25	ClinicalAttribute 829 847	treatment response
+T26	HealthCareActivity 1289 1298	treatment
+T27	ResearchActivity 1289 1298	treatment
+T28	PopulationGroup 1037 1043	people
+T29	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T30	HealthCareActivity 471 474	MRI
+T31	HealthCareActivity 1128 1131	MRI
+T32	PatientOrDisabledGroup 147 155	patients
+T33	PatientOrDisabledGroup 320 328	patients
+T34	DiseaseOrSyndrome 334 352	multiple sclerosis
+T35	DiseaseOrSyndrome 702 720	multiple sclerosis
+T36	DiseaseOrSyndrome 851 869	multiple sclerosis
+T37	DiseaseOrSyndrome 1049 1067	multiple sclerosis
+T38	HealthCareActivity 284 293	prognosis
+T39	ClinicalAttribute 616 633	clinical outcomes
+T40	TemporalConcept 1283 1288	first
+T41	TemporalConcept 606 615	long-term
+T42	BiologicFunction 1018 1033	decision-making
+T43	ClinicalAttribute 271 280	biomarker
+T44	InjuryOrPoisoning 75 93	neuroaxonal damage
+T45	BodyPartOrganOrOrganComponent 157 162	Blood
+T46	AminoAcidPeptideOrProtein 175 200	neurofilament light chain
+T47	BiologicallyActiveSubstance 175 200	neurofilament light chain
+T48	ClinicalAttribute 386 397	sNfL levels
+T49	BiologicallyActiveSubstance 202 206	sNfL
+T50	HealthCareActivity 475 491	disease activity
+T51	HealthCareActivity 522 538	disease activity
+T52	AminoAcidPeptideOrProtein 202 206	sNfL
+T53	TemporalConcept 406 413	ongoing
+T54	InjuryOrPoisoning 434 452	neuroaxonal damage
+T55	AminoAcidPeptideOrProtein 596 600	sNfL
+T56	PathologicFunction 674 698	neurodegenerative damage
+T57	AminoAcidPeptideOrProtein 809 813	sNfL
+T58	ResearchActivity 900 919	clinical algorithms
+T59	AminoAcidPeptideOrProtein 980 984	sNfL
+T60	AminoAcidPeptideOrProtein 1206 1210	sNfL
+T61	ClinicalAttribute 1206 1219	sNfL measures
+T62	HealthCareActivity 1323 1351	subclinical disease activity
+T63	ClinicalAttribute 169 200	serum neurofilament light chain
+T64	ClinicalAttribute 202 206	sNfL
+T65	PathologicFunction 414 426	inflammatory
+T66	ClinicalAttribute 596 600	sNfL
+T67	ClinicalAttribute 809 813	sNfL
+T68	ClinicalAttribute 980 984	sNfL

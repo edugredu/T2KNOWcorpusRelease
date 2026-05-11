@@ -1,0 +1,125 @@
+T0	NucleicAcidNucleosideOrNucleotide 64 74	micro-RNAs
+T1	PopulationGroup 353 359	Korean
+T2	HealthCareActivity 388 408	clinical performance
+T3	CellOrMolecularDysfunction 440 455	amyloidogenesis
+T4	HealthCareActivity 637 657	clinical performance
+T5	CellOrMolecularDysfunction 790 805	amyloidogenesis
+T6	GeneOrGenome 1581 1593	target genes
+T7	BiologicallyActiveSubstance 1595 1626	ADAM metallopeptidase domain 10
+T8	AminoAcidPeptideOrProtein 1628 1661	Brain-derived neurotrophic factor
+T9	BiologicallyActiveSubstance 1628 1661	Brain-derived neurotrophic factor
+T10	AminoAcidPeptideOrProtein 1667 1698	Jagged canonical notch ligand 1
+T11	CellOrMolecularDysfunction 1963 1978	amyloidogenesis
+T12	HealthCareActivity 1274 1302	positron emission tomography
+T13	Finding 325 349	differentially expressed
+T14	Finding 486 510	differentially expressed
+T15	Finding 998 1022	differentially expressed
+T16	Finding 563 565	CN
+T17	Finding 1037 1039	CN
+T18	AminoAcidPeptideOrProtein 1595 1626	ADAM metallopeptidase domain 10
+T19	ClinicalAttribute 1071 1082	performance
+T20	HealthCareActivity 1311 1314	PET
+T21	HealthCareActivity 1378 1381	PET
+T22	Finding 1071 1082	performance
+T23	PopulationGroup 747 753	cohort
+T24	PopulationGroup 549 561	participants
+T25	PopulationGroup 1128 1140	participants
+T26	PopulationGroup 1244 1256	participants
+T27	PopulationGroup 1391 1403	participants
+T28	ResearchActivity 868 876	in vitro
+T29	PathologicFunction 1999 2010	progression
+T30	TemporalConcept 1999 2010	progression
+T31	CellComponent 21 43	extracellular vesicles
+T32	DiseaseOrSyndrome 106 125	Alzheimer's disease
+T33	CellComponent 45 48	EVs
+T34	CellComponent 719 722	EVs
+T35	CellComponent 1237 1240	EVs
+T36	DiseaseOrSyndrome 127 129	AD
+T37	DiseaseOrSyndrome 189 191	AD
+T38	DiseaseOrSyndrome 360 362	AD
+T39	DiseaseOrSyndrome 514 516	AD
+T40	DiseaseOrSyndrome 939 941	AD
+T41	DiseaseOrSyndrome 1986 1988	AD
+T42	PathologicFunction 131 143	pathogenesis
+T43	BodyPartOrganOrOrganComponent 173 178	blood
+T44	BodyPartOrganOrOrganComponent 303 308	blood
+T45	CellComponent 1109 1111	EV
+T46	CellComponent 1907 1909	EV
+T47	AminoAcidPeptideOrProtein 1266 1273	amyloid
+T48	BiologicallyActiveSubstance 1266 1273	amyloid
+T49	AminoAcidPeptideOrProtein 1304 1310	A beta
+T50	AminoAcidPeptideOrProtein 1371 1377	A beta
+T51	AminoAcidPeptideOrProtein 1443 1449	A beta
+T52	PatientOrDisabledGroup 363 371	patients
+T53	PatientOrDisabledGroup 602 610	patients
+T54	ResearchActivity 1155 1175	area under the curve
+T55	Finding 530 548	cognitively normal
+T56	ClinicalAttribute 192 202	biomarkers
+T57	ClinicalAttribute 1910 1920	biomarkers
+T58	NucleicAcidNucleosideOrNucleotide 76 82	miRNAs
+T59	NucleicAcidNucleosideOrNucleotide 179 185	miRNAs
+T60	NucleicAcidNucleosideOrNucleotide 248 254	miRNAs
+T61	NucleicAcidNucleosideOrNucleotide 309 315	miRNAs
+T62	NucleicAcidNucleosideOrNucleotide 479 485	miRNAs
+T63	NucleicAcidNucleosideOrNucleotide 667 673	miRNAs
+T64	NucleicAcidNucleosideOrNucleotide 780 786	miRNAs
+T65	NucleicAcidNucleosideOrNucleotide 929 935	miRNAs
+T66	NucleicAcidNucleosideOrNucleotide 1112 1118	miRNAs
+T67	NucleicAcidNucleosideOrNucleotide 1210 1216	miRNAs
+T68	NucleicAcidNucleosideOrNucleotide 1428 1434	miRNAs
+T69	NucleicAcidNucleosideOrNucleotide 1792 1798	miRNAs
+T70	NucleicAcidNucleosideOrNucleotide 1880 1886	miRNAs
+T71	NucleicAcidNucleosideOrNucleotide 1937 1943	miRNAs
+T72	BiologicallyActiveSubstance 76 82	miRNAs
+T73	BiologicallyActiveSubstance 179 185	miRNAs
+T74	BiologicallyActiveSubstance 248 254	miRNAs
+T75	BiologicallyActiveSubstance 309 315	miRNAs
+T76	BiologicallyActiveSubstance 479 485	miRNAs
+T77	BiologicallyActiveSubstance 667 673	miRNAs
+T78	BiologicallyActiveSubstance 780 786	miRNAs
+T79	BiologicallyActiveSubstance 929 935	miRNAs
+T80	BiologicallyActiveSubstance 1112 1118	miRNAs
+T81	BiologicallyActiveSubstance 1210 1216	miRNAs
+T82	BiologicallyActiveSubstance 1428 1434	miRNAs
+T83	BiologicallyActiveSubstance 1792 1798	miRNAs
+T84	BiologicallyActiveSubstance 1880 1886	miRNAs
+T85	BiologicallyActiveSubstance 1937 1943	miRNAs
+T86	ResearchActivity 1741 1768	pathway enrichment analysis
+T87	TemporalConcept 1989 1994	onset
+T88	AminoAcidPeptideOrProtein 1510 1535	amyloid precursor protein
+T89	BiologicallyActiveSubstance 1510 1535	amyloid precursor protein
+T90	ResearchActivity 279 284	study
+T91	BodyPartOrganOrOrganComponent 677 683	plasma
+T92	BodyPartOrganOrOrganComponent 712 718	plasma
+T93	BodyPartOrganOrOrganComponent 1099 1105	plasma
+T94	BodyPartOrganOrOrganComponent 1220 1226	plasma
+T95	BodyPartOrganOrOrganComponent 1230 1236	plasma
+T96	BodyPartOrganOrOrganComponent 1890 1896	plasma
+T97	BodyPartOrganOrOrganComponent 1900 1906	plasma
+T98	ResearchActivity 160 169	discovery
+T99	ResearchActivity 878 885	Results
+T100	CellFunction 915 928	downregulated
+T101	CellFunction 1561 1574	downregulated
+T102	DiseaseOrSyndrome 577 596	Parkinson's disease
+T103	DiseaseOrSyndrome 598 600	PD
+T104	DiseaseOrSyndrome 1043 1045	PD
+T105	CellFunction 340 349	expressed
+T106	CellFunction 501 510	expressed
+T107	CellFunction 1013 1022	expressed
+T108	CellFunction 1443 1460	A beta production
+T109	BiologicallyActiveSubstance 64 74	micro-RNAs
+T110	Finding 217 235	diagnostic utility
+T111	Finding 769 776	effects
+T112	GeneOrGenome 837 849	target genes
+T113	NucleicAcidNucleosideOrNucleotide 954 964	miR-122-5p
+T114	BiologicallyActiveSubstance 954 964	miR-122-5p
+T115	BiologicallyActiveSubstance 966 976	miR-210-3p
+T116	NucleicAcidNucleosideOrNucleotide 966 976	miR-210-3p
+T117	NucleicAcidNucleosideOrNucleotide 982 992	miR-590-5p
+T118	BiologicallyActiveSubstance 982 992	miR-590-5p
+T119	HealthCareActivity 1060 1082	diagnostic performance
+T120	BiologicallyActiveSubstance 1667 1698	Jagged canonical notch ligand 1
+T121	GeneOrGenome 1772 1784	target genes
+T122	Finding 1849 1867	diagnostic utility
+T123	CellFunction 1479 1506	activation of beta-cleavage
+T124	CellFunction 1493 1506	beta-cleavage

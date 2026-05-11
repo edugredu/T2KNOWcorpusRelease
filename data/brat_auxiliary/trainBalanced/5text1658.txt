@@ -1,0 +1,1 @@
+By using single-cell transcriptomics to generate a gene expression atlas of the entire neural crest lineage, we show that early SCPs and late migratory crest cells have similar transcriptional profiles

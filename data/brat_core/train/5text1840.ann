@@ -1,0 +1,7 @@
+T0	CellOrMolecularDysfunction 95 112	neurodegeneration
+T1	CellFunction 65 82	cellular pathways
+T2	PathologicFunction 123 132	infection
+T3	PathologicFunction 116 132	latent infection
+T4	TemporalConcept 19 26	latency
+T5	GeneOrGenome 38 42	gene
+T6	Virus 0 18	Epstein-Barr Virus

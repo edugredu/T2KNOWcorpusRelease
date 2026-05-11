@@ -1,0 +1,84 @@
+T0	Finding 102 114	Accumulation
+T1	AminoAcidPeptideOrProtein 167 178	tau protein
+T2	PathologicFunction 458 478	pathological process
+T3	AminoAcidPeptideOrProtein 512 523	tau protein
+T4	AminoAcidPeptideOrProtein 593 610	complement system
+T5	AminoAcidPeptideOrProtein 626 636	chemokines
+T6	BiologicallyActiveSubstance 793 812	signaling molecules
+T7	CellFunction 793 812	signaling molecules
+T8	BiologicFunction 890 905	immune response
+T9	Cell 933 945	target cells
+T10	ResearchActivity 933 945	target cells
+T11	BiologicFunction 977 1005	pathophysiological processes
+T12	PathologicFunction 356 373	Neuroinflammation
+T13	Chemical 765 771	lipids
+T14	Substance 803 812	molecules
+T15	Finding 1252 1272	deeper understanding
+T16	NucleicAcidNucleosideOrNucleotide 773 782	microRNAs
+T17	BiologicallyActiveSubstance 773 782	microRNAs
+T18	CellFunction 1053 1080	intercellular communication
+T19	Cell 580 591	glial cells
+T20	BiologicFunction 1259 1272	understanding
+T21	CellFunction 393 407	neuronal death
+T22	TemporalConcept 641 653	recent years
+T23	ResearchActivity 1429 1448	therapeutic targets
+T24	AminoAcidPeptideOrProtein 482 507	beta-amyloid peptide 1-42
+T25	CellFunction 421 440	protein aggregation
+T26	CellOrMolecularDysfunction 412 440	abnormal protein aggregation
+T27	HealthCareActivity 1160 1167	reviews
+T28	ResearchActivity 1160 1167	reviews
+T29	CellFunction 844 862	signaling pathways
+T30	ResearchActivity 1154 1159	paper
+T31	ResearchActivity 660 671	researchers
+T32	CellComponent 708 716	membrane
+T33	CellFunction 148 163	phosphorylation
+T34	CellComponent 542 552	components
+T35	CellComponent 732 740	Exosomes
+T36	CellComponent 688 696	exosomes
+T37	CellComponent 1018 1026	exosomes
+T38	CellComponent 1224 1232	exosomes
+T39	CellComponent 1325 1333	exosomes
+T40	TemporalConcept 1172 1182	occurrence
+T41	AminoAcidPeptideOrProtein 118 143	beta-amyloid peptide 1-42
+T42	AminoAcidPeptideOrProtein 167 170	tau
+T43	AminoAcidPeptideOrProtein 512 515	tau
+T44	DiseaseOrSyndrome 37 62	neurodegenerative disease
+T45	AminoAcidPeptideOrProtein 755 763	proteins
+T46	BodyPartOrganOrOrganComponent 186 191	brain
+T47	ResearchActivity 261 268	studies
+T48	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T49	DiseaseOrSyndrome 21 23	AD
+T50	DiseaseOrSyndrome 234 236	AD
+T51	DiseaseOrSyndrome 352 354	AD
+T52	DiseaseOrSyndrome 569 571	AD
+T53	DiseaseOrSyndrome 1145 1147	AD
+T54	DiseaseOrSyndrome 1236 1238	AD
+T55	DiseaseOrSyndrome 1296 1298	AD
+T56	DiseaseOrSyndrome 1371 1373	AD
+T57	DiseaseOrSyndrome 1475 1477	AD
+T58	PathologicFunction 336 348	pathogenesis
+T59	PathologicFunction 1280 1292	pathogenesis
+T60	PathologicFunction 1341 1353	pathogenesis
+T61	DiseaseOrSyndrome 92 100	dementia
+T62	HealthCareActivity 1358 1367	treatment
+T63	ResearchActivity 1358 1367	treatment
+T64	PathologicFunction 285 302	neuroinflammation
+T65	PathologicFunction 1097 1114	neuroinflammation
+T66	PathologicFunction 1202 1219	neuroinflammation
+T67	PathologicFunction 1453 1470	neuroinflammation
+T68	TemporalConcept 1485 1491	future
+T69	TemporalConcept 80 91	progressive
+T70	AminoAcidPeptideOrProtein 612 621	cytokines
+T71	BiologicFunction 1130 1141	development
+T72	BiologicFunction 1187 1198	development
+T73	CellFunction 1130 1141	development
+T74	CellFunction 1187 1198	development
+T75	BiologicallyActiveSubstance 167 170	tau
+T76	BiologicallyActiveSubstance 512 515	tau
+T77	PathologicFunction 977 995	pathophysiological
+T78	CellFunction 867 886	signal transmission
+T79	CellComponent 717 730	nano vesicles
+T80	BiologicallyActiveSubstance 512 523	tau protein
+T81	BiologicallyActiveSubstance 167 178	tau protein
+T82	BiologicallyActiveSubstance 118 143	beta-amyloid peptide 1-42
+T83	BiologicallyActiveSubstance 482 507	beta-amyloid peptide 1-42

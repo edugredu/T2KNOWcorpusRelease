@@ -1,0 +1,84 @@
+T0	CellFunction 460 467	folding
+T1	CellComponent 471 478	soluble
+T2	Chemical 681 688	flavors
+T3	BiologicFunction 1090 1105	internalization
+T4	Finding 1296 1307	convergence
+T5	BiologicFunction 1296 1307	convergence
+T6	TemporalConcept 1543 1550	overlap
+T7	ResearchActivity 1714 1722	spectrum
+T8	PathologicFunction 636 649	tau pathology
+T9	CellComponent 767 776	membranes
+T10	CellFunction 1434 1451	cellular response
+T11	Finding 526 547	accumulating evidence
+T12	CellOrMolecularDysfunction 389 408	misfolded tau seeds
+T13	TemporalConcept 182 190	duration
+T14	BiologicFunction 568 591	functional connectivity
+T15	AnatomicalAbnormality 69 84	amyloid plaques
+T16	CellComponent 1245 1258	endolysosomal
+T17	CellComponent 1311 1324	endolysosomal
+T18	CellComponent 1455 1468	endolysosomal
+T19	CellComponent 1649 1662	endolysosomal
+T20	CellComponent 739 746	fibrils
+T21	DiseaseOrSyndrome 3 22	Alzheimer's disease
+T22	DiseaseOrSyndrome 24 26	AD
+T23	DiseaseOrSyndrome 194 196	AD
+T24	DiseaseOrSyndrome 564 566	AD
+T25	Cell 1059 1065	neuron
+T26	Cell 1069 1075	neuron
+T27	AminoAcidPeptideOrProtein 125 128	tau
+T28	AminoAcidPeptideOrProtein 243 246	tau
+T29	AminoAcidPeptideOrProtein 344 347	tau
+T30	AminoAcidPeptideOrProtein 399 402	tau
+T31	AminoAcidPeptideOrProtein 479 482	tau
+T32	AminoAcidPeptideOrProtein 1180 1183	tau
+T33	AminoAcidPeptideOrProtein 1406 1409	tau
+T34	AminoAcidPeptideOrProtein 1610 1613	tau
+T35	BodyPartOrganOrOrganComponent 270 275	brain
+T36	BiologicallyActiveSubstance 125 128	tau
+T37	BiologicallyActiveSubstance 243 246	tau
+T38	BiologicallyActiveSubstance 344 347	tau
+T39	BiologicallyActiveSubstance 399 402	tau
+T40	BiologicallyActiveSubstance 479 482	tau
+T41	BiologicallyActiveSubstance 1180 1183	tau
+T42	BiologicallyActiveSubstance 1406 1409	tau
+T43	BiologicallyActiveSubstance 1610 1613	tau
+T44	DiseaseOrSyndrome 1738 1764	neurodegenerative diseases
+T45	TemporalConcept 353 360	current
+T46	Finding 1076 1088	transmission
+T47	HealthCareActivity 1723 1733	treatments
+T48	ResearchActivity 1723 1733	treatments
+T49	AminoAcidPeptideOrProtein 29 41	beta-amyloid
+T50	BiologicallyActiveSubstance 651 654	Tau
+T51	AminoAcidPeptideOrProtein 651 654	Tau
+T52	Cell 486 503	recipient neurons
+T53	Cell 889 896	neurons
+T54	Finding 944 955	propagation
+T55	ClinicalAttribute 169 177	severity
+T56	Finding 169 177	severity
+T57	CellComponent 789 797	vesicles
+T58	CellComponent 690 697	vesicle
+T59	CellComponent 1167 1174	vesicle
+T60	CellFunction 1129 1138	autophagy
+T61	CellFunction 1649 1670	endolysosomal pathway
+T62	TemporalConcept 230 239	emergence
+T63	OrganismAttribute 1226 1233	ability
+T64	CellComponent 985 1009	subcellular compartments
+T65	CellComponent 807 815	exosomes
+T66	CellComponent 1194 1202	exosomes
+T67	CellOrMolecularDysfunction 135 158	neurofibrillary tangles
+T68	AminoAcidPeptideOrProtein 94 124	microtubule-associated protein
+T69	AminoAcidPeptideOrProtein 42 50	peptides
+T70	CellOrMolecularDysfunction 243 254	tau tangles
+T71	PathologicFunction 318 347	spreading of pathological tau
+T72	BodyPartOrganOrOrganComponent 419 436	transsynaptically
+T73	CellFunction 1107 1123	endosomal escape
+T74	CellFunction 1311 1341	endolysosomal permeabilization
+T75	CellFunction 1245 1275	endolysosomal permeabilization
+T76	InjuryOrPoisoning 1469 1475	damage
+T77	PathologicFunction 1579 1598	proteopathic agents
+T78	CellOrMolecularDysfunction 651 660	Tau seeds
+T79	CellOrMolecularDysfunction 1180 1189	tau seeds
+T80	CellFunction 1406 1417	tau seeding
+T81	CellFunction 1558 1575	seeding mechanism
+T82	PathologicFunction 623 649	spreading of tau pathology
+T83	AminoAcidPeptideOrProtein 725 734	oligomers

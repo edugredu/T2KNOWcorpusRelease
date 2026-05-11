@@ -1,0 +1,5 @@
+T0	DiseaseOrSyndrome 175 201	neurodegenerative diseases
+T1	PathologicFunction 87 104	neuroinflammation
+T2	Bacterium 0 11	Spirochetes
+T3	Bacterium 21 41	Borrelia burgdorferi
+T4	DiseaseOrSyndrome 108 129	Lyme neuroborreliosis

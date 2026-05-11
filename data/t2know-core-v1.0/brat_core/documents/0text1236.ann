@@ -1,0 +1,54 @@
+T0	DiseaseOrSyndrome 543 559	axonal dystrophy
+T1	Finding 594 618	neurological impairments
+T2	CellOrMolecularDysfunction 561 581	neuronal dysfunction
+T3	CellFunction 211 226	Differentiation
+T4	DiseaseOrSyndrome 505 511	stroke
+T5	PathologicFunction 753 776	pathological conditions
+T6	PathologicFunction 981 1004	pathological conditions
+T7	PathologicFunction 487 494	hypoxia
+T8	BiologicallyActiveSubstance 157 168	metabolites
+T9	CellComponent 103 108	axons
+T10	Cell 0 16	Oligodendrocytes
+T11	Cell 273 277	OPCs
+T12	BiologicFunction 875 885	maturation
+T13	Cell 239 271	oligodendrocyte progenitor cells
+T14	BiologicFunction 1071 1083	regeneration
+T15	Cell 18 21	OLs
+T16	Cell 230 233	OLs
+T17	Cell 388 390	OL
+T18	Cell 860 862	OL
+T19	Cell 926 928	OL
+T20	Cell 1052 1054	OL
+T21	CellFunction 180 196	axonal integrity
+T22	HealthCareActivity 1071 1083	regeneration
+T23	Cell 696 711	OL lineage cell
+T24	CellComponent 32 48	myelin membranes
+T25	BodyPartOrganOrOrganComponent 116 138	central nervous system
+T26	BodyPartOrganOrOrganComponent 140 143	CNS
+T27	BodyPartOrganOrOrganComponent 352 355	CNS
+T28	BodyPartOrganOrOrganComponent 809 812	CNS
+T29	BodyPartOrganOrOrganComponent 959 962	CNS
+T30	BiologicFunction 727 738	development
+T31	BiologicFunction 1055 1066	development
+T32	CellFunction 727 738	development
+T33	CellFunction 1055 1066	development
+T34	BodyPartOrganOrOrganComponent 403 413;423 428	developing brain
+T35	PathologicFunction 712 723	progression
+T36	TemporalConcept 712 723	progression
+T37	CellFunction 78 96	electrical signals
+T38	CellFunction 654 682	intrinsic regulatory signals
+T39	CellFunction 829 845	external signals
+T40	ResearchActivity 896 902	review
+T41	HealthCareActivity 896 902	review
+T42	ResearchActivity 740 747	studies
+T43	Finding 63 74	propagation
+T44	BiomedicalOccupationOrDiscipline 929 936	biology
+T45	TemporalConcept 907 913	recent
+T46	DiseaseOrSyndrome 453 476	neurological conditions
+T47	PathologicFunction 517 530	demyelination
+T48	Finding 587 593	severe
+T49	BiologicFunction 929 936	biology
+T50	PathologicFunction 495 503	ischemia
+T51	BiologicFunction 860 870	OL genesis
+T52	Finding 391 395	loss
+T53	BodyPartOrganOrOrganComponent 417 428	adult brain

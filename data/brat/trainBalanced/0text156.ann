@@ -1,0 +1,56 @@
+T0	Chemical 0 16	Deutetrabenazine
+T1	Chemical 18 22	DTBZ
+T2	Chemical 111 120	deuterium
+T3	Chemical 125 133	hydrogen
+T4	TemporalConcept 173 182	half-life
+T5	Chemical 186 190	DTBZ
+T6	Chemical 299 303	DTBZ
+T7	Chemical 313 323	monoamines
+T8	CellComponent 327 354	presynaptic nerve terminals
+T9	Chemical 356 360	DTBZ
+T10	PopulationGroup 517 523	cohort
+T11	Chemical 559 563	DTBZ
+T12	ResearchActivity 639 654	safety profiles
+T13	Chemical 681 685	DTBZ
+T14	ResearchActivity 735 755	tolerability profile
+T15	Chemical 759 763	DTBZ
+T16	PharmacologicSubstance 847 896	vesicular monoamine transporter Type 2 inhibitors
+T17	Chemical 933 937	DTBZ
+T18	DiseaseOrSyndrome 59 65	chorea
+T19	DiseaseOrSyndrome 384 390	chorea
+T20	SignOrSymptom 59 65	chorea
+T21	SignOrSymptom 384 390	chorea
+T22	PharmacologicSubstance 968 972	drug
+T23	Eukaryote 900 906	humans
+T24	DiseaseOrSyndrome 69 89	Huntington's disease
+T25	DiseaseOrSyndrome 394 414	Huntington's disease
+T26	PharmacologicSubstance 249 297	vesicular monoamine transporter Type 2 inhibitor
+T27	PatientOrDisabledGroup 415 423	patients
+T28	ResearchActivity 913 919	review
+T29	HealthCareActivity 913 919	review
+T30	ResearchActivity 483 509	open-label extension study
+T31	ResearchActivity 690 715	indirect comparison study
+T32	ResearchActivity 596 616	head-to-head studies
+T33	PharmacologicSubstance 542 555	tetrabenazine
+T34	PharmacologicSubstance 663 676	tetrabenazine
+T35	Chemical 542 555	tetrabenazine
+T36	Chemical 663 676	tetrabenazine
+T37	HealthCareActivity 45 54	treatment
+T38	ResearchActivity 45 54	treatment
+T39	PharmacologicSubstance 0 16	Deutetrabenazine
+T40	PharmacologicSubstance 18 22	DTBZ
+T41	HealthCareRelatedOrganization 29 35	US FDA
+T42	PharmacologicSubstance 186 190	DTBZ
+T43	Finding 205 231	less-frequent daily dosing
+T44	BiologicallyActiveSubstance 249 287	vesicular monoamine transporter Type 2
+T45	AminoAcidPeptideOrProtein 249 287	vesicular monoamine transporter Type 2
+T46	PharmacologicSubstance 299 303	DTBZ
+T47	PharmacologicSubstance 356 360	DTBZ
+T48	PharmacologicSubstance 559 563	DTBZ
+T49	PharmacologicSubstance 681 685	DTBZ
+T50	PharmacologicSubstance 759 763	DTBZ
+T51	HealthCareActivity 438 445	placebo
+T52	HealthCareActivity 779 786	placebo
+T53	AminoAcidPeptideOrProtein 847 885	vesicular monoamine transporter Type 2
+T54	BiologicallyActiveSubstance 847 885	vesicular monoamine transporter Type 2
+T55	PharmacologicSubstance 933 937	DTBZ

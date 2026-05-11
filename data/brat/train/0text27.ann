@@ -1,0 +1,64 @@
+T0	AminoAcidPeptideOrProtein 493 507	prion proteins
+T1	PathologicFunction 567 587	vascular dysfunction
+T2	DiseaseOrSyndrome 694 697	VAD
+T3	BiologicFunction 770 782	angiogenesis
+T4	NucleicAcidNucleosideOrNucleotide 948 956	Aptamers
+T5	NucleicAcidNucleosideOrNucleotide 1023 1030	Aptamer
+T6	NucleicAcidNucleosideOrNucleotide 1040 1055	oligonucleotide
+T7	MolecularSequence 1040 1064	oligonucleotide sequence
+T8	ClinicalAttribute 1120 1135	protein markers
+T9	NaturalPhenomenonOrProcess 1146 1154	affinity
+T10	NucleicAcidNucleosideOrNucleotide 1290 1298	aptamers
+T11	Finding 601 613	risk factors
+T12	CellComponent 89 103	myelin sheaths
+T13	PopulationGroup 134 144	population
+T14	CellOrMolecularDysfunction 61 84	degeneration of neurons
+T15	CellOrMolecularDysfunction 382 400	misfolded proteins
+T16	HealthCareActivity 1069 1077	screened
+T17	ResearchActivity 1069 1077	screened
+T18	AminoAcidPeptideOrProtein 455 458	tau
+T19	BiologicFunction 114 119	aging
+T20	CellFunction 114 119	aging
+T21	AminoAcidPeptideOrProtein 460 475	alpha-synuclein
+T22	BiologicallyActiveSubstance 460 475	alpha-synuclein
+T23	PathologicFunction 623 635	pathogenesis
+T24	AminoAcidPeptideOrProtein 441 453	amyloid-beta
+T25	DiseaseOrSyndrome 684 692	dementia
+T26	TemporalConcept 923 928	onset
+T27	HealthCareActivity 1237 1246	detection
+T28	HealthCareActivity 1328 1337	detection
+T29	BiologicallyActiveSubstance 455 458	tau
+T30	BodyPartOrganOrOrganComponent 567 575	vascular
+T31	BodyPartOrganOrOrganComponent 592 600	vascular
+T32	BodyPartOrganOrOrganComponent 675 683	vascular
+T33	DiseaseOrSyndrome 675 692	vascular dementia
+T34	PathologicFunction 576 587	dysfunction
+T35	AminoAcidPeptideOrProtein 856 864	proteins
+T36	HealthCareActivity 317 326	challenge
+T37	DiseaseOrSyndrome 236 238	AD
+T38	Finding 1278 1286	advances
+T39	Finding 550 558	evidence
+T40	TemporalConcept 1271 1277	recent
+T41	BodyPartOrganOrOrganComponent 408 430	central nervous system
+T42	ResearchActivity 1078 1086	in vitro
+T43	Finding 166 175	incidence
+T44	Finding 1159 1170	specificity
+T45	PopulationGroup 331 338	society
+T46	DiseaseOrSyndrome 0 25	Neurodegenerative disease
+T47	DiseaseOrSyndrome 179 205	neurodegenerative diseases
+T48	DiseaseOrSyndrome 639 665	neurodegenerative diseases
+T49	DiseaseOrSyndrome 730 756	neurodegenerative diseases
+T50	DiseaseOrSyndrome 812 838	neurodegenerative diseases
+T51	DiseaseOrSyndrome 1341 1367	neurodegenerative diseases
+T52	DiseaseOrSyndrome 271 291	Huntington's disease
+T53	DiseaseOrSyndrome 241 260	Parkinson's disease
+T54	DiseaseOrSyndrome 293 295	HD
+T55	DiseaseOrSyndrome 262 264	PD
+T56	DiseaseOrSyndrome 985 1010	neurodegenerative disease
+T57	DiseaseOrSyndrome 1211 1236	neurodegenerative disease
+T58	DiseaseOrSyndrome 215 234	Alzheimer's disease
+T59	AminoAcidPeptideOrProtein 477 487	huntingtin
+T60	BiologicallyActiveSubstance 477 487	huntingtin
+T61	ClinicalAttribute 783 793	biomarkers
+T62	ClinicalAttribute 798 808	biomarkers
+T63	ClinicalAttribute 1011 1021	biomarkers

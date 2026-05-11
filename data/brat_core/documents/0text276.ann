@@ -1,0 +1,58 @@
+T0	BodyPartOrganOrOrganComponent 160 186	peripheral nervous systems
+T1	CellFunction 319 330	aggregation
+T2	ResearchActivity 319 330	aggregation
+T3	AminoAcidPeptideOrProtein 527 547	TRIM family proteins
+T4	CellFunction 574 582	turnover
+T5	DiseaseOrSyndrome 910 933	physiological disorders
+T6	AminoAcidPeptideOrProtein 982 995	TRIM proteins
+T7	BodyPartOrganOrOrganComponent 1004 1011	players
+T8	AminoAcidPeptideOrProtein 1162 1175	TRIM proteins
+T9	TemporalConcept 1190 1198	episodes
+T10	PopulationGroup 1365 1372	members
+T11	BiologicFunction 1365 1372	members
+T12	AminoAcidPeptideOrProtein 1380 1400	TRIM family proteins
+T13	ResearchActivity 657 672	quality control
+T14	CellFunction 399 413	neuronal death
+T15	CellFunction 709 721	proteostasis
+T16	NaturalPhenomenonOrProcess 1032 1041	clearance
+T17	CellOrMolecularDysfunction 1045 1073	misfolded protein aggregates
+T18	InjuryOrPoisoning 459 471	brain damage
+T19	Finding 1242 1270	promising therapeutic target
+T20	AminoAcidPeptideOrProtein 733 743	chaperones
+T21	BiologicallyActiveSubstance 733 743	chaperones
+T22	CellOrMolecularDysfunction 377 397	cellular dysfunction
+T23	AminoAcidPeptideOrProtein 723 743	molecular chaperones
+T24	CellOrMolecularDysfunction 343 361	misfolded proteins
+T25	CellOrMolecularDysfunction 608 626	misfolded proteins
+T26	CellFunction 826 829	UPS
+T27	CellFunction 797 824	ubiquitin-proteasome system
+T28	PopulationGroup 47 52	group
+T29	CellFunction 835 844	autophagy
+T30	PathologicFunction 856 867	dysfunction
+T31	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T32	CellFunction 1147 1155	pathways
+T33	Cell 674 679	cells
+T34	TemporalConcept 87 98	progressive
+T35	DiseaseOrSyndrome 251 253	AD
+T36	Finding 499 507	evidence
+T37	Finding 949 966	Emerging evidence
+T38	PathologicFunction 99 111	degeneration
+T39	DiseaseOrSyndrome 28 31	NDs
+T40	DiseaseOrSyndrome 217 220	NDs
+T41	DiseaseOrSyndrome 944 947	NDs
+T42	DiseaseOrSyndrome 1404 1407	NDs
+T43	DiseaseOrSyndrome 285 305	Huntington's disease
+T44	DiseaseOrSyndrome 256 275	Parkinson's disease
+T45	DiseaseOrSyndrome 307 309	HD
+T46	DiseaseOrSyndrome 277 279	PD
+T47	DiseaseOrSyndrome 230 249	Alzheimer's disease
+T48	ResearchActivity 1280 1286	review
+T49	HealthCareActivity 1280 1286	review
+T50	DiseaseOrSyndrome 1090 1117	neurodegenerative disorders
+T51	DiseaseOrSyndrome 1202 1228	neurodegenerative disorder
+T52	CellFunction 649 672	protein quality control
+T53	BiologicallyActiveSubstance 982 995	TRIM proteins
+T54	BiologicallyActiveSubstance 527 547	TRIM family proteins
+T55	BiologicallyActiveSubstance 1162 1175	TRIM proteins
+T56	PathologicFunction 415 443	loss of synaptic connections
+T57	BodyPartOrganOrOrganComponent 423 443	synaptic connections

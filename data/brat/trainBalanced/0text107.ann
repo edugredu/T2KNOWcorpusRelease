@@ -1,0 +1,54 @@
+T0	ExperimentalModelOfDisease 0 48	Animal models of human neurodegenerative disease
+T1	DiseaseOrSyndrome 23 48	neurodegenerative disease
+T2	TemporalConcept 96 108	recent years
+T3	PathologicFunction 186 196	pathogenic
+T4	ResearchActivity 201 220	therapeutic studies
+T5	OrganismAttribute 273 283	small size
+T6	EmbryonicStructure 308 315	embryos
+T7	OrganismAttribute 323 339	fast development
+T8	Finding 415 444	emergence of a new generation
+T9	ResearchActivity 448 481	molecular biological technologies
+T10	NucleicAcidNucleosideOrNucleotide 520 530	morpholino
+T11	ResearchActivity 532 544	transgenesis
+T12	ResearchActivity 550 563	gene knockout
+T13	DiseaseOrSyndrome 576 601	neurodegenerative disease
+T14	ManufacturedObject 602 608	models
+T15	DiseaseOrSyndrome 618 629	Parkinson's
+T16	DiseaseOrSyndrome 631 643	Huntington's
+T17	DiseaseOrSyndrome 649 660	Alzheimer's
+T18	GeneOrGenome 811 821	homologues
+T19	Eukaryote 879 891	human beings
+T20	ResearchActivity 938 951	investigation
+T21	PathologicFunction 955 976	pathologic mechanisms
+T22	HealthCareActivity 1054 1071	potential therapy
+T23	TemporalConcept 1187 1199	recent years
+T24	ResearchActivity 1019 1049	large-scale screening of drugs
+T25	Eukaryote 121 132	Danio rerio
+T26	Eukaryote 146 161	Oryzias latipes
+T27	TemporalConcept 84 91	decades
+T28	OrganismAttribute 289 304	optical clarity
+T29	ResearchActivity 366 399	large-scale therapeutic screening
+T30	PathologicFunction 847 875	neurodegenerative phenotypes
+T31	PharmacologicSubstance 1044 1049	drugs
+T32	Eukaryote 904 908	fish
+T33	Eukaryote 17 22	human
+T34	Eukaryote 227 232	human
+T35	Eukaryote 570 575	human
+T36	Eukaryote 805 810	human
+T37	Eukaryote 1127 1132	human
+T38	Eukaryote 138 144	medaka
+T39	Eukaryote 696 702	medaka
+T40	Eukaryote 744 750	medaka
+T41	Eukaryote 1177 1183	medaka
+T42	DiseaseOrSyndrome 233 259	neurodegenerative diseases
+T43	DiseaseOrSyndrome 980 1006	neurodegenerative diseases
+T44	DiseaseOrSyndrome 1133 1159	neurodegenerative diseases
+T45	ResearchActivity 502 518	forward genetics
+T46	ResearchActivity 1081 1087	review
+T47	HealthCareActivity 1081 1087	review
+T48	ResearchActivity 710 717	studies
+T49	ResearchActivity 1106 1113	studies
+T50	Eukaryote 110 119	zebrafish
+T51	Eukaryote 682 691	zebrafish
+T52	Eukaryote 730 739	zebrafish
+T53	Eukaryote 1163 1172	zebrafish

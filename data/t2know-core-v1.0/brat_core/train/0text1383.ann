@@ -1,0 +1,82 @@
+T0	CellOrMolecularDysfunction 0 42	Dysfunctions in the endocannabinoid system
+T1	PharmacologicSubstance 290 309	cannabinoid agonist
+T2	Chemical 326 335	cuprizone
+T3	Eukaryote 375 382	Animals
+T4	Chemical 394 403	cuprizone
+T5	ResearchActivity 530 546	Western blotting
+T6	ResearchActivity 548 555	qRT-PCR
+T7	Chemical 758 767	cuprizone
+T8	TemporalConcept 772 783	three weeks
+T9	CellComponent 969 985	myelinated axons
+T10	CellFunction 997 1010	remyelination
+T11	TemporalConcept 1011 1016	phase
+T12	Eukaryote 1024 1031	animals
+T13	ResearchActivity 1279 1298	drug administration
+T14	HealthCareActivity 1279 1298	drug administration
+T15	GeneOrGenome 1352 1356	Aif1
+T16	AminoAcidPeptideOrProtein 1373 1377	Gfap
+T17	GeneOrGenome 1373 1377	Gfap
+T18	CellFunction 1496 1509	remyelination
+T19	HealthCareActivity 1511 1520	Treatment
+T20	ResearchActivity 1511 1520	Treatment
+T21	GeneOrGenome 1608 1614	Pdgfra
+T22	AminoAcidPeptideOrProtein 1608 1614	Pdgfra
+T23	Cell 1616 1647	oligodendrocyte precursor cells
+T24	BodyPartOrganOrOrganComponent 1754 1760	myelin
+T25	CellComponent 1754 1760	myelin
+T26	BodyPartOrganOrOrganComponent 486 501	corpus callosum
+T27	ResearchActivity 250 255	study
+T28	Eukaryote 1305 1309	mice
+T29	ResearchActivity 1821 1826	model
+T30	PopulationGroup 894 902	controls
+T31	PatientOrDisabledGroup 119 127	patients
+T32	ResearchActivity 69 95	experimental animal models
+T33	DiseaseOrSyndrome 100 118	multiple sclerosis
+T34	ResearchActivity 691 712	Histological analysis
+T35	PharmacologicSubstance 1554 1558	drug
+T36	PharmacologicSubstance 1722 1726	drug
+T37	Finding 862 876	no differences
+T38	HealthCareActivity 592 598	report
+T39	ResearchActivity 592 598	report
+T40	Finding 1042 1060	better performance
+T41	TemporalConcept 608 617	long-term
+T42	Chemical 20 35	endocannabinoid
+T43	Chemical 148 163	endocannabinoid
+T44	CellFunction 20 42	endocannabinoid system
+T45	CellFunction 148 170	endocannabinoid system
+T46	BiologicallyActiveSubstance 20 35	endocannabinoid
+T47	BiologicallyActiveSubstance 148 163	endocannabinoid
+T48	Cell 1358 1367	microglia
+T49	Cell 1379 1389	astrocytes
+T50	CellFunction 1338 1356	expression of Aif1
+T51	PathologicFunction 223 236	demyelination
+T52	PathologicFunction 728 741	demyelination
+T53	PathologicFunction 910 923	demyelination
+T54	PathologicFunction 1208 1221	demyelination
+T55	PathologicFunction 1566 1579	demyelination
+T56	CellFunction 199 214	neuroprotection
+T57	ResearchActivity 1064 1092	contextual fear conditioning
+T58	Chemical 310 322	WIN-55,212-2
+T59	PharmacologicSubstance 310 322	WIN-55,212-2
+T60	CellFunction 351 373	myelin repair capacity
+T61	Chemical 436 448	WIN-55,212-2
+T62	PharmacologicSubstance 436 448	WIN-55,212-2
+T63	ResearchActivity 562 587	myelin staining procedure
+T64	PharmacologicSubstance 636 648	WIN-55,212-2
+T65	Chemical 636 648	WIN-55,212-2
+T66	AminoAcidPeptideOrProtein 678 689	CB1 protein
+T67	BiologicallyActiveSubstance 678 689	CB1 protein
+T68	ExperimentalModelOfDisease 794 812	cuprizone-fed mice
+T69	ExperimentalModelOfDisease 326 347	cuprizone fed animals
+T70	ResearchActivity 450 469	behaviorally tested
+T71	Chemical 839 851	WIN-55,212-2
+T72	PharmacologicSubstance 839 851	WIN-55,212-2
+T73	PathologicFunction 1318 1332	demyeliniation
+T74	AminoAcidPeptideOrProtein 1352 1356	Aif1
+T75	BiologicallyActiveSubstance 1352 1356	Aif1
+T76	BiologicallyActiveSubstance 1373 1377	Gfap
+T77	Finding 1794 1812	deleterious effect
+T78	Finding 1134 1156	antinociceptive effect
+T79	Finding 946 961	robust increase
+T80	CellFunction 1259 1272	myelin repair
+T81	CellFunction 1754 1773	myelin architecture

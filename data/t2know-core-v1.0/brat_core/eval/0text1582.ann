@@ -1,0 +1,96 @@
+T0	ResearchActivity 429 443	blood analysis
+T1	BiologicFunction 499 517	cognitive function
+T2	HealthCareActivity 672 698	Magnetic resonance imaging
+T3	HealthCareActivity 772 801	Mini Mental State Examination
+T4	Finding 1346 1366	Decreased serum BDNF
+T5	ResearchActivity 1473 1483	blood test
+T6	AminoAcidPeptideOrProtein 121 154	brain-derived neurotrophic factor
+T7	BiologicallyActiveSubstance 121 154	brain-derived neurotrophic factor
+T8	AminoAcidPeptideOrProtein 156 160	BDNF
+T9	AminoAcidPeptideOrProtein 383 387	BDNF
+T10	AminoAcidPeptideOrProtein 834 838	BDNF
+T11	AminoAcidPeptideOrProtein 942 946	BDNF
+T12	AminoAcidPeptideOrProtein 1161 1165	BDNF
+T13	AminoAcidPeptideOrProtein 1300 1304	BDNF
+T14	AminoAcidPeptideOrProtein 1362 1366	BDNF
+T15	BiologicallyActiveSubstance 156 160	BDNF
+T16	BiologicallyActiveSubstance 383 387	BDNF
+T17	BiologicallyActiveSubstance 834 838	BDNF
+T18	BiologicallyActiveSubstance 942 946	BDNF
+T19	BiologicallyActiveSubstance 1161 1165	BDNF
+T20	BiologicallyActiveSubstance 1300 1304	BDNF
+T21	BiologicallyActiveSubstance 1362 1366	BDNF
+T22	ResearchActivity 929 934	ELISA
+T23	BodyPartOrganOrOrganComponent 818 823	Serum
+T24	BodyPartOrganOrOrganComponent 936 941	Serum
+T25	BodyPartOrganOrOrganComponent 1155 1160	Serum
+T26	Finding 1059 1084	no significant difference
+T27	TemporalConcept 1534 1540	before
+T28	DiseaseOrSyndrome 58 77	Alzheimer's disease
+T29	ClinicalAttribute 43 53	biomarkers
+T30	PatientOrDisabledGroup 335 343	patients
+T31	PatientOrDisabledGroup 522 530	patients
+T32	PatientOrDisabledGroup 586 594	patients
+T33	AminoAcidPeptideOrProtein 857 873	amyloid-beta(42)
+T34	BodyPartOrganOrOrganComponent 291 294	CSF
+T35	BodyPartOrganOrOrganComponent 627 630	CSF
+T36	BodyPartOrganOrOrganComponent 843 846	CSF
+T37	BodyPartOrganOrOrganComponent 1205 1208	CSF
+T38	DiseaseOrSyndrome 79 81	AD
+T39	DiseaseOrSyndrome 181 183	AD
+T40	DiseaseOrSyndrome 349 351	AD
+T41	DiseaseOrSyndrome 393 395	AD
+T42	DiseaseOrSyndrome 575 577	AD
+T43	DiseaseOrSyndrome 600 602	AD
+T44	DiseaseOrSyndrome 762 764	AD
+T45	DiseaseOrSyndrome 997 999	AD
+T46	DiseaseOrSyndrome 1092 1094	AD
+T47	DiseaseOrSyndrome 1416 1418	AD
+T48	ClinicalAttribute 219 228	biomarker
+T49	ClinicalAttribute 1396 1405	biomarker
+T50	DiseaseOrSyndrome 1541 1549	dementia
+T51	PopulationGroup 448 460	participants
+T52	PopulationGroup 644 656	participants
+T53	Finding 492 498	normal
+T54	BodyPartOrganOrOrganComponent 270 289	cerebrospinal fluid
+T55	BodyPartOrganOrOrganComponent 37 42	blood
+T56	BodyPartOrganOrOrganComponent 213 218	blood
+T57	PopulationGroup 465 480	normal controls
+T58	ClinicalAttribute 411 419	severity
+T59	Finding 411 419	severity
+T60	AminoAcidPeptideOrProtein 890 908	phosphorylated tau
+T61	BiologicallyActiveSubstance 890 908	phosphorylated tau
+T62	PopulationGroup 1000 1005	group
+T63	PopulationGroup 1021 1026	group
+T64	PopulationGroup 1095 1100	group
+T65	PopulationGroup 1148 1153	group
+T66	DiseaseOrSyndrome 563 566	MCI
+T67	DiseaseOrSyndrome 986 989	MCI
+T68	DiseaseOrSyndrome 541 561	cognitive impairment
+T69	DiseaseOrSyndrome 536 561	mild cognitive impairment
+T70	BiologicallyActiveSubstance 857 873	amyloid-beta(42)
+T71	ResearchActivity 631 639	analysis
+T72	ResearchActivity 712 757	voxel-based specific regional analysis system
+T73	BodyPartOrganOrOrganComponent 263 268	serum
+T74	BodyPartOrganOrOrganComponent 1294 1299	serum
+T75	BodyPartOrganOrOrganComponent 1356 1361	serum
+T76	AminoAcidPeptideOrProtein 1209 1219	A beta(42)
+T77	PopulationGroup 1018 1020	NC
+T78	PopulationGroup 1145 1147	NC
+T79	Finding 536 540	mild
+T80	AminoAcidPeptideOrProtein 875 884	total tau
+T81	PathologicFunction 322 329	atrophy
+T82	PathologicFunction 1337 1344	atrophy
+T83	BodyPartOrganOrOrganComponent 301 321	medial temporal lobe
+T84	DiseaseOrSyndrome 1337 1344	atrophy
+T85	BiologicallyActiveSubstance 875 884	total tau
+T86	HealthCareActivity 1410 1428	early AD detection
+T87	HealthCareActivity 1430 1451	Early detection of AD
+T88	ClinicalAttribute 818 838	Serum levels of BDNF
+T89	ClinicalAttribute 843 873	CSF levels of amyloid-beta(42)
+T90	ClinicalAttribute 936 953	Serum BDNF levels
+T91	ClinicalAttribute 1155 1172	Serum BDNF levels
+T92	BiologicallyActiveSubstance 1209 1219	A beta(42)
+T93	ClinicalAttribute 1205 1226	CSF A beta(42) levels
+T94	ClinicalAttribute 1294 1311	serum BDNF levels
+T95	BodyPartOrganOrOrganComponent 1316 1336	medial temporal lobe

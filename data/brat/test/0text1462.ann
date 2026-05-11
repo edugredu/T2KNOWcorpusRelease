@@ -1,0 +1,49 @@
+T0	Finding 40 52	asymptomatic
+T1	Finding 81 89	abnormal
+T2	BiologicFunction 235 241	moving
+T3	HealthCareActivity 531 541	counseling
+T4	HealthCareActivity 633 648	risk management
+T5	IndividualBehavior 889 899	disclosure
+T6	Finding 1018 1028	transition
+T7	ResearchActivity 834 841	article
+T8	HealthCareActivity 303 323	non-invasive testing
+T9	HealthCareActivity 569 576	testing
+T10	HealthCareActivity 655 662	testing
+T11	HealthCareActivity 945 952	testing
+T12	HealthCareActivity 1042 1049	testing
+T13	HealthCareActivity 361 367	safety
+T14	ResearchActivity 249 266	clinical settings
+T15	DiseaseOrSyndrome 687 707	Huntington's disease
+T16	CellOrMolecularDysfunction 800 817	neurodegenerative
+T17	DiseaseOrSyndrome 800 817	neurodegenerative
+T18	TemporalConcept 788 799	progressive
+T19	TemporalConcept 609 618	long-term
+T20	BiologicFunction 546 561	decision-making
+T21	HealthCareActivity 1055 1072	clinical practice
+T22	TemporalConcept 562 568	before
+T23	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T24	ClinicalAttribute 90 100	biomarkers
+T25	TemporalConcept 53 70	preclinical phase
+T26	TemporalConcept 992 997	phase
+T27	ClinicalAttribute 152 161	Biomarker
+T28	ResearchActivity 209 217	research
+T29	ResearchActivity 333 341	research
+T30	ResearchActivity 965 973	research
+T31	DiseaseOrSyndrome 21 23	AD
+T32	DiseaseOrSyndrome 932 934	AD
+T33	ClinicalAttribute 408 417	biomarker
+T34	ClinicalAttribute 935 944	biomarker
+T35	ClinicalAttribute 1032 1041	biomarker
+T36	PopulationGroup 452 458	adults
+T37	ResearchActivity 864 869	model
+T38	BiologicFunction 276 287	development
+T39	CellFunction 276 287	development
+T40	HealthCareActivity 619 628	follow-up
+T41	TemporalConcept 619 628	follow-up
+T42	DiseaseOrSyndrome 130 150	cognitive impairment
+T43	BiologicFunction 737 747	experience
+T44	TemporalConcept 905 909	post
+T45	Finding 110 129	risk for developing
+T46	Finding 372 393	psychological effects
+T47	Finding 429 451	cognitively unimpaired
+T48	HealthCareActivity 768 781	managing risk

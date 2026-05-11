@@ -1,0 +1,43 @@
+T0	DiseaseOrSyndrome 43 75	demyelinating autoimmune disease
+T1	CellFunction 419 430	myelination
+T2	CellComponent 613 627	myelin sheaths
+T3	Finding 642 658	high sensitivity
+T4	ResearchActivity 832 843	co-cultures
+T5	CellComponent 939 944	axons
+T6	Cell 949 965	oligodendrocytes
+T7	Cell 967 970	OLs
+T8	ResearchActivity 1024 1035	co-cultures
+T9	CellFunction 1105 1116	myelination
+T10	Chemical 1209 1215	XAV939
+T11	CellFunction 1281 1292	myelination
+T12	ResearchActivity 1379 1385	method
+T13	BodyPartOrganOrOrganComponent 107 110	CNS
+T14	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T15	DiseaseOrSyndrome 20 22	MS
+T16	DiseaseOrSyndrome 256 258	MS
+T17	DiseaseOrSyndrome 412 414	MS
+T18	TemporalConcept 177 184	chronic
+T19	BodyPartOrganOrOrganComponent 83 105	central nervous system
+T20	TemporalConcept 360 369	currently
+T21	ResearchActivity 697 729	testing small compound libraries
+T22	Finding 243 252	hallmarks
+T23	ResearchActivity 628 636	in vitro
+T24	ResearchActivity 760 768	in vitro
+T25	Finding 1322 1357	experimental and technical advances
+T26	HealthCareActivity 373 394	remyelination therapy
+T27	CellOrMolecularDysfunction 113 153	Immune-mediated myelin and axonal damage
+T28	PathologicFunction 185 196	axonal loss
+T29	PathologicFunction 205 238	destruction of the myelin sheaths
+T30	CellFunction 343 358	re-/myelination
+T31	ResearchActivity 527 588	automated and quantitative higher throughput screening method
+T32	Cell 769 790	retinal ganglion cell
+T33	Cell 791 821	oligodendrocyte precursor cell
+T34	Cell 823 826	RGC
+T35	Cell 827 830	OPC
+T36	ManufacturedObject 851 867	multi-well plate
+T37	CellFunction 990 1006	myelin formation
+T38	ResearchActivity 1058 1083	computer vision algorithm
+T39	PharmacologicSubstance 1198 1204	BQ3020
+T40	PharmacologicSubstance 1209 1215	XAV939
+T41	PharmacologicSubstance 1430 1452	remyelinating compound
+T42	ResearchActivity 1395 1426	systematic and reliable testing

@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 111 136	neurodegenerative disease
+T1	Finding 46 55	mediators
+T2	PathologicFunction 33 45	inflammatory
+T3	Bacterium 0 10	Spirochete
+T4	InjuryOrPoisoning 22 28	toxins
+T5	PathologicFunction 137 146	pathology

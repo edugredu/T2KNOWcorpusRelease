@@ -1,0 +1,128 @@
+T0	Finding 53 66	discrepancies
+T1	Chemical 196 202	AV1451
+T2	CellFunction 560 570	conversion
+T3	BiologicFunction 1306 1315	retention
+T4	ClinicalAttribute 1306 1315	retention
+T5	CellFunction 1306 1315	retention
+T6	DiseaseOrSyndrome 1347 1370	cognitive deterioration
+T7	BiologicFunction 1488 1494	uptake
+T8	CellFunction 1488 1494	uptake
+T9	BiologicFunction 1692 1710	cognitive function
+T10	DiseaseOrSyndrome 1918 1929	amyloidosis
+T11	PopulationGroup 1396 1403	persons
+T12	ResearchActivity 443 449	burden
+T13	ResearchActivity 1276 1282	burden
+T14	PathologicFunction 1976 1988	pathogenesis
+T15	ResearchActivity 513 533	longitudinal changes
+T16	TemporalConcept 2020 2026	before
+T17	CellFunction 112 126	phosphorylated
+T18	AminoAcidPeptideOrProtein 39 42	tau
+T19	AminoAcidPeptideOrProtein 108 111	tau
+T20	AminoAcidPeptideOrProtein 616 619	tau
+T21	AminoAcidPeptideOrProtein 1656 1659	tau
+T22	AminoAcidPeptideOrProtein 2027 2030	tau
+T23	DiseaseOrSyndrome 70 89	Alzheimer's disease
+T24	BodyPartOrganOrOrganComponent 101 107	plasma
+T25	BodyPartOrganOrOrganComponent 351 357	plasma
+T26	BodyPartOrganOrOrganComponent 366 372	plasma
+T27	BodyPartOrganOrOrganComponent 703 709	plasma
+T28	BodyPartOrganOrOrganComponent 723 729	plasma
+T29	BodyPartOrganOrOrganComponent 743 749	plasma
+T30	BodyPartOrganOrOrganComponent 767 773	plasma
+T31	BodyPartOrganOrOrganComponent 798 804	plasma
+T32	BodyPartOrganOrOrganComponent 1068 1074	plasma
+T33	BodyPartOrganOrOrganComponent 1085 1091	plasma
+T34	BodyPartOrganOrOrganComponent 1194 1200	plasma
+T35	BodyPartOrganOrOrganComponent 1730 1736	plasma
+T36	BodyPartOrganOrOrganComponent 1864 1870	plasma
+T37	AminoAcidPeptideOrProtein 421 433	amyloid-beta
+T38	BodyPartOrganOrOrganComponent 177 180	CSF
+T39	BodyPartOrganOrOrganComponent 358 361	CSF
+T40	BodyPartOrganOrOrganComponent 711 714	CSF
+T41	BodyPartOrganOrOrganComponent 731 734	CSF
+T42	BodyPartOrganOrOrganComponent 805 808	CSF
+T43	BodyPartOrganOrOrganComponent 1076 1079	CSF
+T44	BodyPartOrganOrOrganComponent 1093 1096	CSF
+T45	BodyPartOrganOrOrganComponent 1875 1878	CSF
+T46	PathologicFunction 931 940	pathology
+T47	PathologicFunction 1815 1824	pathology
+T48	BiomedicalOccupationOrDiscipline 931 940	pathology
+T49	BiomedicalOccupationOrDiscipline 1815 1824	pathology
+T50	ResearchActivity 591 598	Results
+T51	AminoAcidPeptideOrProtein 421 428	amyloid
+T52	BiologicallyActiveSubstance 421 428	amyloid
+T53	BiologicallyActiveSubstance 39 42	tau
+T54	BiologicallyActiveSubstance 108 111	tau
+T55	BiologicallyActiveSubstance 616 619	tau
+T56	BiologicallyActiveSubstance 1656 1659	tau
+T57	BiologicallyActiveSubstance 2027 2030	tau
+T58	DiseaseOrSyndrome 91 93	AD
+T59	DiseaseOrSyndrome 1973 1975	AD
+T60	ClinicalAttribute 43 52	biomarker
+T61	ClinicalAttribute 620 629	biomarker
+T62	PopulationGroup 316 328	participants
+T63	PopulationGroup 656 668	participants
+T64	PopulationGroup 1428 1440	participants
+T65	Finding 1737 1743	status
+T66	Finding 1446 1452	normal
+T67	BodyPartOrganOrOrganComponent 156 175	cerebrospinal fluid
+T68	PopulationGroup 1243 1254	individuals
+T69	PopulationGroup 1597 1608	individuals
+T70	PopulationGroup 1791 1802	individuals
+T71	HealthCareActivity 233 236	PET
+T72	HealthCareActivity 373 376	PET
+T73	HealthCareActivity 464 467	PET
+T74	HealthCareActivity 751 754	PET
+T75	HealthCareActivity 775 778	PET
+T76	HealthCareActivity 1201 1204	PET
+T77	HealthCareActivity 1230 1233	PET
+T78	HealthCareActivity 1453 1456	PET
+T79	HealthCareActivity 1572 1575	PET
+T80	HealthCareActivity 1614 1617	PET
+T81	HealthCareActivity 2031 2034	PET
+T82	PathologicFunction 1958 1969	progression
+T83	TemporalConcept 1958 1969	progression
+T84	DiseaseOrSyndrome 975 992	cognitive decline
+T85	DiseaseOrSyndrome 1535 1552	cognitive decline
+T86	DiseaseOrSyndrome 2001 2018	cognitive decline
+T87	DiseaseOrSyndrome 944 964	cognitive impairment
+T88	Substance 170 175	fluid
+T89	Finding 546 554	outcomes
+T90	DiseaseOrSyndrome 254 273	Alzheimer's Disease
+T91	PopulationGroup 377 383	groups
+T92	PopulationGroup 630 636	groups
+T93	ResearchActivity 254 297	Alzheimer's Disease Neuroimaging Initiative
+T94	AminoAcidPeptideOrProtein 435 441	A beta
+T95	AminoAcidPeptideOrProtein 924 930	A beta
+T96	AminoAcidPeptideOrProtein 1269 1275	A beta
+T97	AminoAcidPeptideOrProtein 1808 1814	A beta
+T98	IndividualBehavior 1117 1129	performances
+T99	ResearchActivity 506 510	ROIs
+T100	ResearchActivity 1319 1329	Braak ROIs
+T101	ResearchActivity 1498 1514	Braak stage ROIs
+T102	DiseaseOrSyndrome 307 315	demented
+T103	HealthCareActivity 203 231	positron emission tomography
+T104	ManufacturedObject 203 231	positron emission tomography
+T105	AminoAcidPeptideOrProtein 108 143	tau phosphorylated at threonine 181
+T106	BiologicallyActiveSubstance 108 143	tau phosphorylated at threonine 181
+T107	ClinicalAttribute 560 575	conversion risk
+T108	ClinicalAttribute 537 554	clinical outcomes
+T109	TemporalConcept 911 920	frequency
+T110	TemporalConcept 1936 1950	simultaneously
+T111	HealthCareRelatedOrganization 254 297	Alzheimer's Disease Neuroimaging Initiative
+T112	AminoAcidPeptideOrProtein 145 153	p-tau181
+T113	BiologicallyActiveSubstance 145 153	p-tau181
+T114	BiologicallyActiveSubstance 182 190	p-tau181
+T115	AminoAcidPeptideOrProtein 182 190	p-tau181
+T116	PharmacologicSubstance 196 202	AV1451
+T117	Chemical 451 463	flortaucipir
+T118	ResearchActivity 479 504	Braak regions of interest
+T119	Finding 998 1026	risk of cognitive conversion
+T120	Finding 1154 1182	reduced cognitive capacities
+T121	Chemical 1293 1305	flortaucipir
+T122	Chemical 1475 1487	flortaucipir
+T123	ClinicalAttribute 1614 1629	PET abnormality
+T124	Finding 1647 1680	advanced tau pathological changes
+T125	BiologicallyActiveSubstance 1879 1887	p-tau181
+T126	AminoAcidPeptideOrProtein 1879 1887	p-tau181
+T127	CellOrMolecularDysfunction 1879 1901	p-tau181 abnormalities

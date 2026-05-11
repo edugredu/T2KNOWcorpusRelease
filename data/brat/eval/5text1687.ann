@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 115 142	neurodegenerative disorders
+T1	HealthCareActivity 0 23	Public health campaigns
+T2	ResearchActivity 105 111	burden
+T3	PopulationGroup 150 160	population
+T4	EnvironmentalEffectOfHumans 35 57	obacco smoke pollution
+T5	Substance 34 47	tobacco smoke
+T6	EnvironmentalEffectOfHumans 42 57	smoke pollution

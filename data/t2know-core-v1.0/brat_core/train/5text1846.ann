@@ -1,0 +1,6 @@
+T0	CellOrMolecularDysfunction 69 86	neurodegeneration
+T1	PathologicFunction 52 64	inflammation
+T2	TemporalConcept 44 51	chronic
+T3	PathologicFunction 44 64	chronic inflammation
+T4	ResearchActivity 112 126	investigations
+T5	Virus 12 30	Epstein-Barr Virus

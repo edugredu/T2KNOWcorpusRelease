@@ -1,0 +1,9 @@
+T0	DiseaseOrSyndrome 129 154	neurodegenerative disease
+T1	HealthCareActivity 90 96	safety
+T2	NucleicAcidNucleosideOrNucleotide 117 124	vectors
+T3	ResearchActivity 74 85	feasibility
+T4	Virus 16 26	lentivirus
+T5	ResearchActivity 27 61	manufacturing and delivery systems
+T6	Virus 106 116	lentiviral
+T7	HealthCareActivity 155 164	treatment
+T8	ResearchActivity 155 164	treatment

@@ -1,0 +1,104 @@
+T0	BiologicFunction 340 349	affecting
+T1	PathologicFunction 525 537	inflammatory
+T2	AminoAcidPeptideOrProtein 542 562	regulatory cytokines
+T3	BodyPartOrganOrOrganComponent 590 596	kidney
+T4	BodyPartOrganOrOrganComponent 605 610	liver
+T5	BodyPartOrganOrOrganComponent 615 621	spleen
+T6	DiseaseOrSyndrome 709 722	human disease
+T7	AminoAcidPeptideOrProtein 756 764	cytokine
+T8	BiologicallyActiveSubstance 756 764	cytokine
+T9	AminoAcidPeptideOrProtein 816 820	IL-6
+T10	GeneOrGenome 816 820	IL-6
+T11	BiologicallyActiveSubstance 816 820	IL-6
+T12	BodyPartOrganOrOrganComponent 839 845	kidney
+T13	AminoAcidPeptideOrProtein 863 867	IL-6
+T14	GeneOrGenome 863 867	IL-6
+T15	BiologicallyActiveSubstance 863 867	IL-6
+T16	ResearchActivity 942 951	wild-type
+T17	BodyPartOrganOrOrganComponent 973 978	liver
+T18	BodyPartOrganOrOrganComponent 1039 1045	spleen
+T19	AminoAcidPeptideOrProtein 1086 1090	IL-4
+T20	BiologicallyActiveSubstance 1086 1090	IL-4
+T21	GeneOrGenome 1086 1090	IL-4
+T22	AminoAcidPeptideOrProtein 1123 1127	IL-5
+T23	GeneOrGenome 1123 1127	IL-5
+T24	BiologicallyActiveSubstance 1123 1127	IL-5
+T25	AminoAcidPeptideOrProtein 1132 1136	IL-6
+T26	GeneOrGenome 1132 1136	IL-6
+T27	BiologicallyActiveSubstance 1132 1136	IL-6
+T28	ResearchActivity 1158 1160	WT
+T29	PathologicFunction 1346 1378	peripheral inflammatory response
+T30	AminoAcidPeptideOrProtein 209 213	mHTT
+T31	AminoAcidPeptideOrProtein 264 268	mHTT
+T32	CellOrMolecularDysfunction 209 213	mHTT
+T33	CellOrMolecularDysfunction 264 268	mHTT
+T34	Cell 328 338	cell types
+T35	CellOrMolecularDysfunction 69 89	CAG repeat expansion
+T36	BiologicFunction 422 435	understanding
+T37	BiologicFunction 102 110	encoding
+T38	AminoAcidPeptideOrProtein 115 133	huntingtin protein
+T39	BiologicallyActiveSubstance 115 133	huntingtin protein
+T40	CellOrMolecularDysfunction 182 207	mutant huntingtin protein
+T41	BodyPartOrganOrOrganComponent 577 583	organs
+T42	BodyPartOrganOrOrganComponent 779 785	organs
+T43	BodyPartOrganOrOrganComponent 1509 1515	organs
+T44	Eukaryote 957 964	animals
+T45	BiologicallyActiveSubstance 1014 1023	TNF-alpha
+T46	AminoAcidPeptideOrProtein 1014 1023	TNF-alpha
+T47	PopulationGroup 630 642	12-month-old
+T48	CellFunction 292 310	molecular pathways
+T49	BodyPartOrganOrOrganComponent 372 385	immune system
+T50	BodyPartOrganOrOrganComponent 241 245	body
+T51	MolecularSequence 69 79	CAG repeat
+T52	Eukaryote 918 922	mice
+T53	ResearchActivity 649 654	model
+T54	ResearchActivity 681 686	model
+T55	ResearchActivity 1300 1313	investigation
+T56	AminoAcidPeptideOrProtein 553 562	cytokines
+T57	BiologicallyActiveSubstance 553 562	cytokines
+T58	ResearchActivity 786 794	analyzed
+T59	BodyPartOrganOrOrganComponent 246 252	tissue
+T60	Finding 1097 1105	decrease
+T61	BodyPartOrganOrOrganComponent 472 479	tissues
+T62	CellFunction 302 310	pathways
+T63	CellFunction 1458 1466	pathways
+T64	BodyPartOrganOrOrganComponent 598 603	heart
+T65	BodyPartOrganOrOrganComponent 903 908	heart
+T66	HealthCareActivity 1394 1401	studies
+T67	Finding 1193 1201	evidence
+T68	ResearchActivity 1394 1401	studies
+T69	BodyPartOrganOrOrganComponent 461 471	peripheral
+T70	BodyPartOrganOrOrganComponent 566 576	peripheral
+T71	BodyPartOrganOrOrganComponent 1255 1272	peripheral organs
+T72	BodyPartOrganOrOrganComponent 1346 1356	peripheral
+T73	BodyPartOrganOrOrganComponent 1498 1508	peripheral
+T74	Eukaryote 709 714	human
+T75	GeneOrGenome 135 138	HTT
+T76	AminoAcidPeptideOrProtein 135 138	HTT
+T77	CellFunction 223 232	expressed
+T78	TemporalConcept 1187 1192	first
+T79	BiologicallyActiveSubstance 135 138	HTT
+T80	DiseaseOrSyndrome 0 20	Huntington's disease
+T81	DiseaseOrSyndrome 22 24	HD
+T82	DiseaseOrSyndrome 483 485	HD
+T83	DiseaseOrSyndrome 658 660	HD
+T84	DiseaseOrSyndrome 1382 1384	HD
+T85	DiseaseOrSyndrome 1519 1521	HD
+T86	DiseaseOrSyndrome 31 56	neurodegenerative disease
+T87	AminoAcidPeptideOrProtein 182 207	mutant huntingtin protein
+T88	ResearchActivity 926 936	comparison
+T89	Cell 253 258	cells
+T90	Cell 386 391	cells
+T91	Finding 443 457	immune changes
+T92	BiologicallyActiveSubstance 542 562	regulatory cytokines
+T93	ExperimentalModelOfDisease 643 660	BACHD model of HD
+T94	Eukaryote 674 680	murine
+T95	AminoAcidPeptideOrProtein 872 880	IL-12p70
+T96	BiologicallyActiveSubstance 872 880	IL-12p70
+T97	ExperimentalModelOfDisease 912 922	BACHD mice
+T98	AminoAcidPeptideOrProtein 1001 1009	IL-12p70
+T99	BiologicallyActiveSubstance 1001 1009	IL-12p70
+T100	ExperimentalModelOfDisease 1140 1145	BACHD
+T101	ExperimentalModelOfDisease 1211 1222	BACHD model
+T102	Finding 1237 1251	immune changes
+T103	BiologicFunction 1478 1494	immune signaling

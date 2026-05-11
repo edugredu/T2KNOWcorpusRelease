@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 145 171	neurodegenerative diseases
+T1	Substance 75 84	molecules
+T2	PathologicFunction 121 133	pathogenesis
+T3	AminoAcidPeptideOrProtein 90 99	glutamate
+T4	BiologicallyActiveSubstance 90 99	glutamate
+T5	BiologicallyActiveSubstance 58 74	neurotransmitter
+T6	PathologicFunction 0 14	Excitotoxicity

@@ -1,0 +1,61 @@
+T0	Cell 0 32	Oligodendrocyte progenitor cells
+T1	PathologicFunction 84 97	proliferative
+T2	Cell 191 202	progenitors
+T3	CellFunction 411 420	metabolic
+T4	BodyPartOrganOrOrganComponent 502 521	blood brain barrier
+T5	HealthCareActivity 799 817	functional imaging
+T6	GeneOrGenome 910 917	spatial
+T7	PopulationGroup 1060 1071	neighboring
+T8	DiseaseOrSyndrome 1391 1398	gliomas
+T9	Cell 207 223	oligodendrocytes
+T10	Cell 34 38	OPCs
+T11	Cell 171 175	OPCs
+T12	Cell 280 284	OPCs
+T13	Cell 389 393	OPCs
+T14	Cell 701 705	OPCs
+T15	Cell 980 984	OPCs
+T16	Cell 1017 1021	OPCs
+T17	Cell 918 921	OPC
+T18	Cell 943 946	OPC
+T19	Cell 1134 1137	OPC
+T20	DiseaseOrSyndrome 1363 1381	multiple sclerosis
+T21	Cell 16 32	progenitor cells
+T22	HealthCareActivity 810 817	imaging
+T23	Cell 0 15	Oligodendrocyte
+T24	ResearchActivity 713 744	unctional genetic investigation
+T25	NaturalPhenomenonOrProcess 1268 1273	light
+T26	CellFunction 470 487	neuronal function
+T27	Cell 61 69	NG2-glia
+T28	ResearchActivity 1118 1123	assay
+T29	ClinicalAttribute 947 953	marker
+T30	BodyPartOrganOrOrganComponent 121 143	central nervous system
+T31	Cell 996 1001	cells
+T32	Cell 1072 1077	cells
+T33	CellFunction 1047 1054	signals
+T34	OrganismAttribute 922 935	heterogeneity
+T35	ResearchActivity 844 855	discoveries
+T36	PathologicFunction 541 553	inflammation
+T37	ResearchActivity 1091 1097	review
+T38	HealthCareActivity 1091 1097	review
+T39	TemporalConcept 235 240	years
+T40	ResearchActivity 1109 1117	in vitro
+T41	PathologicFunction 1281 1293	pathogenesis
+T42	Cell 65 69	glia
+T43	ResearchActivity 563 577	review article
+T44	BiologicFunction 1201 1214	understanding
+T45	TemporalConcept 228 234	recent
+T46	BiomedicalOccupationOrDiscipline 677 684	biology
+T47	Cell 358 368	stem cells
+T48	DiseaseOrSyndrome 1383 1385	MS
+T49	PopulationGroup 115 120	adult
+T50	BiologicFunction 677 684	biology
+T51	Cell 98 107	cell type
+T52	Cell 1233 1242	cell type
+T53	HealthCareActivity 1308 1328	treatment strategies
+T54	ResearchActivity 1308 1328	treatment strategies
+T55	BodyPartOrganOrOrganComponent 523 526	BBB
+T56	HealthCareActivity 875 885	techniques
+T57	ResearchActivity 875 885	techniques
+T58	ResearchActivity 594 616	state-of-the-art tools
+T59	ResearchActivity 748 770	single cell sequencing
+T60	ResearchActivity 780 795	lineage tracing

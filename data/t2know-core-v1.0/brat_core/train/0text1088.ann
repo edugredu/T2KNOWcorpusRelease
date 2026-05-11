@@ -1,0 +1,218 @@
+T0	PathologicFunction 113 140	Amyloid plaque accumulation
+T1	AnatomicalAbnormality 289 296	plaques
+T2	Finding 298 315	apoptotic neurons
+T3	CellComponent 331 339	neurites
+T4	CellFunction 470 483	phagocytosing
+T5	Virus 549 571	Adeno-associated virus
+T6	BodyPartOrganOrOrganComponent 654 678	medial entorhinal cortex
+T7	BodyPartOrganOrOrganComponent 680 683	MEC
+T8	Eukaryote 785 789	Mice
+T9	Chemical 872 879	PLX5622
+T10	ResearchActivity 1009 1027	immunofluorescence
+T11	BiomedicalOccupationOrDiscipline 1029 1041	biochemistry
+T12	ResearchActivity 1047 1051	FACS
+T13	BodyPartOrganOrOrganComponent 1294 1297	MEC
+T14	BodyPartOrganOrOrganComponent 1342 1345	MEC
+T15	CellComponent 1762 1770	neurites
+T16	GeneOrGenome 1838 1867	tumor susceptibility gene 101
+T17	BiologicFunction 1894 1903	synthesis
+T18	ResearchActivity 2253 2266	encapsulation
+T19	Finding 2253 2266	encapsulation
+T20	HealthCareActivity 2361 2387	immuno-electron microscopy
+T21	AnatomicalAbnormality 2485 2499	A beta plaques
+T22	CellFunction 2447 2454	secrete
+T23	PathologicFunction 63 76	tau pathology
+T24	BodyPartOrganOrOrganComponent 661 678	entorhinal cortex
+T25	BodyPartOrganOrOrganComponent 1415 1428	dentate gyrus
+T26	ResearchActivity 726 734	knock-in
+T27	CellFunction 572 582	expressing
+T28	PathologicFunction 484 505	pathological proteins
+T29	AminoAcidPeptideOrProtein 484 505	pathological proteins
+T30	HealthCareActivity 1515 1529	Administration
+T31	CellFunction 273 285	phagocytosis
+T32	Eukaryote 966 973	Animals
+T33	AnatomicalAbnormality 113 127	Amyloid plaque
+T34	AnatomicalAbnormality 1706 1712	plaque
+T35	AnatomicalAbnormality 1724 1730	plaque
+T36	AnatomicalAbnormality 2574 2588	amyloid plaque
+T37	BiologicallyActiveSubstance 1211 1214	CD9
+T38	BiologicallyActiveSubstance 1219 1222	CD9
+T39	BiologicallyActiveSubstance 1942 1945	CD9
+T40	BiologicallyActiveSubstance 2014 2017	CD9
+T41	BiologicallyActiveSubstance 2189 2192	CD9
+T42	BiologicallyActiveSubstance 2301 2304	CD9
+T43	AminoAcidPeptideOrProtein 1211 1214	CD9
+T44	AminoAcidPeptideOrProtein 1219 1222	CD9
+T45	AminoAcidPeptideOrProtein 1942 1945	CD9
+T46	AminoAcidPeptideOrProtein 2014 2017	CD9
+T47	AminoAcidPeptideOrProtein 2189 2192	CD9
+T48	AminoAcidPeptideOrProtein 2301 2304	CD9
+T49	BiologicFunction 2115 2126	homeostatic
+T50	CellFunction 1194 1201	express
+T51	BodyPartOrganOrOrganComponent 1403 1414	hippocampal
+T52	Cell 1403 1414	hippocampal
+T53	Eukaryote 1501 1513	control mice
+T54	CellFunction 1097 1128	extracellular vesicle secretion
+T55	CellComponent 1097 1118	extracellular vesicle
+T56	Finding 2604 2616	exacerbation
+T57	Cell 182 194	immune cells
+T58	BiologicallyActiveSubstance 861 870	inhibitor
+T59	PharmacologicSubstance 861 870	inhibitor
+T60	Chemical 861 870	inhibitor
+T61	Cell 175 194	innate immune cells
+T62	TemporalConcept 770 776	months
+T63	TemporalConcept 909 915	months
+T64	TemporalConcept 991 997	months
+T65	DiseaseOrSyndrome 92 111	Alzheimer's disease
+T66	CellComponent 1907 1910	EVs
+T67	CellComponent 2308 2311	EVs
+T68	CellComponent 2464 2467	EVs
+T69	CellComponent 1157 1159	EV
+T70	CellComponent 1827 1829	EV
+T71	CellComponent 2021 2023	EV
+T72	ClinicalAttribute 1830 1836	marker
+T73	ResearchActivity 1299 1306	Results
+T74	PathologicFunction 530 539	pathology
+T75	BiomedicalOccupationOrDiscipline 530 539	pathology
+T76	AminoAcidPeptideOrProtein 63 66	tau
+T77	AminoAcidPeptideOrProtein 388 391	tau
+T78	AminoAcidPeptideOrProtein 589 592	tau
+T79	AminoAcidPeptideOrProtein 611 614	tau
+T80	AminoAcidPeptideOrProtein 1324 1327	tau
+T81	AminoAcidPeptideOrProtein 1354 1357	tau
+T82	AminoAcidPeptideOrProtein 1629 1632	tau
+T83	AminoAcidPeptideOrProtein 1744 1747	tau
+T84	AminoAcidPeptideOrProtein 2218 2221	tau
+T85	AminoAcidPeptideOrProtein 2272 2275	tau
+T86	AminoAcidPeptideOrProtein 2457 2460	tau
+T87	AminoAcidPeptideOrProtein 2516 2519	tau
+T88	AminoAcidPeptideOrProtein 2620 2623	tau
+T89	BodyPartOrganOrOrganComponent 202 207	brain
+T90	BiologicallyActiveSubstance 63 66	tau
+T91	BiologicallyActiveSubstance 388 391	tau
+T92	BiologicallyActiveSubstance 589 592	tau
+T93	BiologicallyActiveSubstance 611 614	tau
+T94	BiologicallyActiveSubstance 1324 1327	tau
+T95	BiologicallyActiveSubstance 1354 1357	tau
+T96	BiologicallyActiveSubstance 1629 1632	tau
+T97	BiologicallyActiveSubstance 1744 1747	tau
+T98	BiologicallyActiveSubstance 2218 2221	tau
+T99	BiologicallyActiveSubstance 2272 2275	tau
+T100	BiologicallyActiveSubstance 2457 2460	tau
+T101	BiologicallyActiveSubstance 2516 2519	tau
+T102	BiologicallyActiveSubstance 2620 2623	tau
+T103	AminoAcidPeptideOrProtein 715 718	APP
+T104	GeneOrGenome 715 718	APP
+T105	BiologicallyActiveSubstance 715 718	APP
+T106	PathologicFunction 77 88	progression
+T107	PathologicFunction 443 454	progression
+T108	TemporalConcept 77 88	progression
+T109	TemporalConcept 443 454	progression
+T110	ExperimentalModelOfDisease 705 745;760 764	humanized APP mutant knock-in homozygote mice
+T111	Eukaryote 1481 1485	mice
+T112	Eukaryote 1678 1682	mice
+T113	ResearchActivity 1713 1719	burden
+T114	Finding 935 941	effect
+T115	ResearchActivity 18 25	studies
+T116	TemporalConcept 11 17	Recent
+T117	CellFunction 1997 2007	expression
+T118	OrganismAttribute 780 783	age
+T119	OrganismAttribute 919 922	age
+T120	OrganismAttribute 1001 1004	age
+T121	AminoAcidPeptideOrProtein 366 384	phosphorylated tau
+T122	AminoAcidPeptideOrProtein 386 391	p-tau
+T123	AminoAcidPeptideOrProtein 1627 1632	p-tau
+T124	AminoAcidPeptideOrProtein 1742 1747	p-tau
+T125	AminoAcidPeptideOrProtein 2270 2275	p-tau
+T126	AminoAcidPeptideOrProtein 2455 2460	p-tau
+T127	Cell 39 48	microglia
+T128	Cell 152 161	microglia
+T129	Cell 232 241	microglia
+T130	Cell 417 426	microglia
+T131	Cell 945 954	microglia
+T132	Cell 1055 1064	microglia
+T133	Cell 1240 1249	microglia
+T134	Cell 1561 1570	microglia
+T135	Cell 1790 1804	MGnD microglia
+T136	Cell 1978 1987	microglia
+T137	Cell 2080 2094	MGnD microglia
+T138	Cell 2127 2136	microglia
+T139	Cell 2279 2288	microglia
+T140	Cell 2426 2440	MGnD microglia
+T141	BiologicallyActiveSubstance 366 384	phosphorylated tau
+T142	BiologicallyActiveSubstance 386 391	p-tau
+T143	BiologicallyActiveSubstance 1627 1632	p-tau
+T144	BiologicallyActiveSubstance 1742 1747	p-tau
+T145	BiologicallyActiveSubstance 2270 2275	p-tau
+T146	BiologicallyActiveSubstance 2455 2460	p-tau
+T147	CellOrMolecularDysfunction 214 231	neurodegenerative
+T148	Eukaryote 1574 1579	mouse
+T149	ResearchActivity 2368 2387	electron microscopy
+T150	ResearchActivity 697 699	WT
+T151	ResearchActivity 1498 1500	WT
+T152	ResearchActivity 1636 1638	WT
+T153	BodyPartOrganOrOrganComponent 672 678	cortex
+T154	Cell 308 315	neurons
+T155	Finding 1358 1369	propagation
+T156	Finding 1612 1623	propagation
+T157	Finding 2624 2635	propagation
+T158	ResearchActivity 1129 1136	in vivo
+T159	PathologicFunction 435 454	disease progression
+T160	Chemical 2024 2033	particles
+T161	CellFunction 1814 1823	expressed
+T162	BodyPartOrganOrOrganComponent 1580 1586	brains
+T163	Cell 1086 1096	microglial
+T164	HealthCareActivity 1926 1935	injection
+T165	HealthCareActivity 2173 2182	injection
+T166	CellOrMolecularDysfunction 593 599	mutant
+T167	CellOrMolecularDysfunction 1328 1334	mutant
+T168	Finding 1454 1465	exacerbated
+T169	HealthCareActivity 1078 1085	monitor
+T170	ManufacturedObject 1078 1085	monitor
+T171	PathologicFunction 2574 2599	amyloid plaque deposition
+T172	CellOrMolecularDysfunction 320 339	dystrophic neurites
+T173	AminoAcidPeptideOrProtein 583 588	P301L
+T174	Virus 601 604	AAV
+T175	AminoAcidPeptideOrProtein 605 610	P301L
+T176	ResearchActivity 620 644	stereotaxically injected
+T177	Eukaryote 688 695	C57BL/6
+T178	Substance 806 810	chow
+T179	AminoAcidPeptideOrProtein 824 860	colony stimulating factor-1 receptor
+T180	BiologicallyActiveSubstance 824 860	colony stimulating factor-1 receptor
+T181	PharmacologicSubstance 872 879	PLX5622
+T182	Substance 892 896	chow
+T183	ResearchActivity 1029 1041	biochemistry
+T184	Virus 1146 1156	lentiviral
+T185	ResearchActivity 1146 1175	lentiviral EV reporter system
+T186	AminoAcidPeptideOrProtein 1202 1210	mEmerald
+T187	Chemical 1202 1210	mEmerald
+T188	AminoAcidPeptideOrProtein 1318 1323	P301L
+T189	BodyPartOrganOrOrganComponent 1377 1395	granule cell layer
+T190	Chemical 1533 1540	PLX5622
+T191	PharmacologicSubstance 1533 1540	PLX5622
+T192	ExperimentalModelOfDisease 1666 1682	App(NL-G-F) mice
+T193	CellOrMolecularDysfunction 1751 1770	dystrophic neurites
+T194	AnatomicalAbnormality 1772 1778	Plaque
+T195	BodyPartOrganOrOrganComponent 1912 1925	Intracortical
+T196	Virus 1946 1956	lentivirus
+T197	AminoAcidPeptideOrProtein 2072 2076	Mac2
+T198	BiologicallyActiveSubstance 2072 2076	Mac2
+T199	GeneOrGenome 2072 2076	Mac2
+T200	GeneOrGenome 2107 2111	Mac2
+T201	BiologicallyActiveSubstance 2107 2111	Mac2
+T202	AminoAcidPeptideOrProtein 2107 2111	Mac2
+T203	BodyPartOrganOrOrganComponent 2159 2172	intracortical
+T204	Virus 2193 2203	lentivirus
+T205	Virus 2208 2211	AAV
+T206	AminoAcidPeptideOrProtein 2212 2217	P301L
+T207	ExperimentalModelOfDisease 2227 2243	App(NL-G-F) mice
+T208	ResearchActivity 2329 2356	super-resolution microscopy
+T209	ExperimentalModelOfDisease 2639 2655	App(NL-G-F) mice
+T210	Chemical 2298 2300	mE
+T211	AminoAcidPeptideOrProtein 2298 2300	mE
+T212	AminoAcidPeptideOrProtein 1216 1218	mE
+T213	Chemical 1216 1218	mE
+T214	Cell 243 247	MGnD
+T215	Chemical 2186 2188	mE
+T216	AminoAcidPeptideOrProtein 2186 2188	mE
+T217	ExperimentalModelOfDisease 1469 1485	App(NL-G-F) mice

@@ -1,0 +1,9 @@
+T0	DiseaseOrSyndrome 64 91	neurodegenerative disorders
+T1	PathologicFunction 148 167	disease progression
+T2	PopulationGroup 47 58	individuals
+T3	MachineActivity 0 3	ASR
+T4	MachineActivity 0 14	ASR algorithms
+T5	BiologicFunction 27 33	speech
+T6	SignOrSymptom 109 129	speech abnormalities
+T7	BodyPartOrganOrOrganComponent 34 41	samples
+T8	Substance 34 41	samples

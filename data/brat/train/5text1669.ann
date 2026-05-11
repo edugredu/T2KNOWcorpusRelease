@@ -1,0 +1,9 @@
+T0	BodyPartOrganOrOrganComponent 90 95	brain
+T1	DiseaseOrSyndrome 122 147	neurodegenerative disease
+T2	Finding 50 62	accumulation
+T3	InjuryOrPoisoning 66 71	toxic
+T4	EnvironmentalEffectOfHumans 20 33	air pollution
+T5	InjuryOrPoisoning 8 16	exposure
+T6	InjuryOrPoisoning 66 82	toxic substances
+T7	TemporalConcept 0 7	Chronic
+T8	PathologicFunction 140 159	disease progression

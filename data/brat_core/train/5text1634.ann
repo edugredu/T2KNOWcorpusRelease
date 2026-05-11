@@ -1,0 +1,12 @@
+T0	BodyPartOrganOrOrganComponent 201 206	brain
+T1	BiologicFunction 167 180	understanding
+T2	ResearchActivity 96 104	research
+T3	Virus 15 22	viruses
+T4	Virus 51 58	viruses
+T5	BodyPartOrganOrOrganComponent 147 162	neural circuits
+T6	BiologicFunction 181 193	connectivity
+T7	Virus 0 22	Herpes simplex viruses
+T8	Virus 0 6	Herpes
+T9	Virus 24 27	HSV
+T10	Virus 30 34	HSVs
+T11	Virus 39 58	neurotropic viruses

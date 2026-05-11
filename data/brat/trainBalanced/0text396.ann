@@ -1,0 +1,58 @@
+T0	BiologicFunction 228 247	cognitive abilities
+T1	BiomedicalOccupationOrDiscipline 393 404	pathologies
+T2	PathologicFunction 676 689	dysfunctional
+T3	HealthCareActivity 741 753	preservation
+T4	CellFunction 858 887	mitochondrial quality control
+T5	ResearchActivity 595 610	quality control
+T6	ResearchActivity 872 887	quality control
+T7	ResearchActivity 1148 1163	quality control
+T8	BiologicFunction 1337 1350	understanding
+T9	CellFunction 549 558	mitophagy
+T10	CellFunction 787 796	mitophagy
+T11	CellFunction 1087 1096	mitophagy
+T12	CellFunction 1270 1279	mitophagy
+T13	CellFunction 1358 1367	mitophagy
+T14	CellComponent 702 714	mitochondria
+T15	CellOrMolecularDysfunction 313 338	Mitochondrial dysfunction
+T16	CellComponent 581 594	mitochondrial
+T17	CellComponent 858 871	mitochondrial
+T18	CellComponent 895 908	mitochondrial
+T19	CellComponent 924 937	mitochondrial
+T20	CellComponent 984 997	mitochondrial
+T21	CellComponent 1134 1147	mitochondrial
+T22	CellFunction 895 919	mitochondrial biogenesis
+T23	HealthCareActivity 1232 1257	therapeutic interventions
+T24	Eukaryote 260 266	humans
+T25	CellFunction 909 919	biogenesis
+T26	CellFunction 659 666	pathway
+T27	TemporalConcept 615 624	currently
+T28	NaturalPhenomenonOrProcess 938 946	dynamics
+T29	Finding 306 311	lives
+T30	Cell 757 765	neuronal
+T31	HealthCareActivity 766 772	health
+T32	HealthCareActivity 998 1004	health
+T33	PathologicFunction 327 338	dysfunction
+T34	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T35	CellFunction 846 854	pathways
+T36	CellFunction 1097 1105	pathways
+T37	CellFunction 1280 1288	pathways
+T38	CellFunction 1368 1376	pathways
+T39	HealthCareActivity 1415 1424	treatment
+T40	ResearchActivity 1415 1424	treatment
+T41	Cell 179 186	neurons
+T42	Cell 444 451	neurons
+T43	CellOrMolecularDysfunction 171 186	loss of neurons
+T44	TemporalConcept 1051 1057	recent
+T45	DiseaseOrSyndrome 408 434	neurodegenerative diseases
+T46	DiseaseOrSyndrome 1191 1217	neurodegenerative diseases
+T47	DiseaseOrSyndrome 1428 1454	neurodegenerative diseases
+T48	DiseaseOrSyndrome 76 96	Huntington's disease
+T49	DiseaseOrSyndrome 55 74	Parkinson's disease
+T50	DiseaseOrSyndrome 102 131	amyotrophic lateral sclerosis
+T51	DiseaseOrSyndrome 34 53	Alzheimer's disease
+T52	ResearchActivity 1025 1031	review
+T53	HealthCareActivity 1025 1031	review
+T54	CellFunction 1134 1163	mitochondrial quality control
+T55	CellFunction 924 946	mitochondrial dynamics
+T56	Eukaryote 1109 1116	mammals
+T57	CellFunction 581 610	mitochondrial quality control

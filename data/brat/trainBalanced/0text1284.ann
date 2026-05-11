@@ -1,0 +1,76 @@
+T0	Cell 82 85	OLG
+T1	ManufacturedObject 148 155	drivers
+T2	PopulationGroup 148 155	drivers
+T3	ClinicalAttribute 159 176	MS susceptibility
+T4	Cell 264 267	OLG
+T5	Finding 310 321	transitions
+T6	GeneOrGenome 370 375	BACH1
+T7	GeneOrGenome 380 385	STAT1
+T8	AminoAcidPeptideOrProtein 380 385	STAT1
+T9	AminoAcidPeptideOrProtein 567 575	Polycomb
+T10	AminoAcidPeptideOrProtein 648 653	IFN-g
+T11	GeneOrGenome 648 653	IFN-g
+T12	BiologicallyActiveSubstance 648 653	IFN-g
+T13	HealthCareActivity 728 735	overlap
+T14	TemporalConcept 728 735	overlap
+T15	NucleicAcidNucleosideOrNucleotide 747 765	regulatory regions
+T16	Cell 785 788	OLG
+T17	AminoAcidPeptideOrProtein 819 824	IFN-g
+T18	GeneOrGenome 819 824	IFN-g
+T19	BiologicallyActiveSubstance 819 824	IFN-g
+T20	ClinicalAttribute 937 958	susceptibility for MS
+T21	Cell 971 974	OLG
+T22	Finding 55 61	attack
+T23	Cell 101 113	immune cells
+T24	AminoAcidPeptideOrProtein 389 410	transcription factors
+T25	BiologicallyActiveSubstance 389 410	transcription factors
+T26	MolecularSequence 722 726	SNPs
+T27	Cell 482 486	OPCs
+T28	Cell 556 560	OPCs
+T29	Cell 809 813	OPCs
+T30	Cell 449 480	oligodendrocyte precursor cells
+T31	BodyPartOrganOrOrganComponent 91 97	myelin
+T32	HealthCareActivity 1022 1051	immunological based therapies
+T33	DiseaseOrSyndrome 20 22	MS
+T34	DiseaseOrSyndrome 159 161	MS
+T35	DiseaseOrSyndrome 352 354	MS
+T36	DiseaseOrSyndrome 671 673	MS
+T37	DiseaseOrSyndrome 956 958	MS
+T38	DiseaseOrSyndrome 1056 1058	MS
+T39	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T40	CellComponent 222 231	chromatin
+T41	CellComponent 834 843	chromatin
+T42	CellFunction 576 586	inhibition
+T43	Cell 65 80	oligodendroglia
+T44	Eukaryote 248 253	mouse
+T45	Eukaryote 769 774	mouse
+T46	Eukaryote 803 808	mouse
+T47	Eukaryote 258 263	human
+T48	Eukaryote 779 784	human
+T49	HealthCareActivity 655 664	treatment
+T50	ResearchActivity 655 664	treatment
+T51	HealthCareActivity 790 799	Treatment
+T52	ResearchActivity 790 799	Treatment
+T53	TemporalConcept 342 348	states
+T54	GeneOrGenome 192 204	immune genes
+T55	AminoAcidPeptideOrProtein 370 375	BACH1
+T56	BiologicallyActiveSubstance 370 375	BACH1
+T57	BiologicallyActiveSubstance 380 385	STAT1
+T58	CellFunction 423 445	immune gene regulation
+T59	GeneOrGenome 501 513	immune genes
+T60	Finding 523 532	bivalency
+T61	AminoAcidPeptideOrProtein 536 543	H3K4me3
+T62	BiologicallyActiveSubstance 536 543	H3K4me3
+T63	AminoAcidPeptideOrProtein 544 552	H3K27me3
+T64	BiologicallyActiveSubstance 544 552	H3K27me3
+T65	AminoAcidPeptideOrProtein 630 646	interferon gamma
+T66	BiologicallyActiveSubstance 567 575	Polycomb
+T67	Finding 604 624	increased activation
+T68	BiologicallyActiveSubstance 630 646	interferon gamma
+T69	PharmacologicSubstance 630 646	interferon gamma
+T70	MolecularSequence 689 720	single-nucleotide polymorphisms
+T71	CellFunction 834 867	chromatin architecture remodeling
+T72	Finding 877 881	loci
+T73	Finding 886 904	altered expression
+T74	GeneOrGenome 908 925	interacting genes
+T75	ClinicalAttribute 671 688	MS susceptibility

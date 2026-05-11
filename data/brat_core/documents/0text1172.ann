@@ -1,0 +1,55 @@
+T0	NaturalPhenomenonOrProcess 48 56	momentum
+T1	DiseaseOrSyndrome 156 162	cancer
+T2	BiologicallyActiveSubstance 190 193	PSA
+T3	AminoAcidPeptideOrProtein 195 220	prostate-specific antigen
+T4	BiologicallyActiveSubstance 195 220	prostate-specific antigen
+T5	DiseaseOrSyndrome 241 256	prostate cancer
+T6	PathologicFunction 349 359	recurrence
+T7	Finding 349 359	recurrence
+T8	DiseaseOrSyndrome 476 482	cancer
+T9	TemporalConcept 627 633	window
+T10	HealthCareActivity 669 682	liquid biopsy
+T11	NucleicAcidNucleosideOrNucleotide 808 821	nucleic acids
+T12	Finding 965 983	minimally invasive
+T13	DiseaseOrSyndrome 1073 1088	prostate cancer
+T14	DiseaseOrSyndrome 327 344	tumor progression
+T15	ResearchActivity 120 136	characterization
+T16	CellComponent 0 22	Extracellular vesicles
+T17	CellFunction 505 532	intercellular communication
+T18	Finding 270 280	unmet need
+T19	BiologicFunction 1024 1037	understanding
+T20	PharmacologicSubstance 799 804	drugs
+T21	BiologicFunction 534 549	immune function
+T22	BiomedicalOccupationOrDiscipline 440 450	physiology
+T23	BiologicFunction 440 450	physiology
+T24	CellComponent 361 369	Exosomes
+T25	CellComponent 1061 1069	exosomes
+T26	ResearchActivity 993 999	review
+T27	HealthCareActivity 993 999	review
+T28	PathologicFunction 333 344	progression
+T29	PathologicFunction 1148 1159	progression
+T30	TemporalConcept 333 344	progression
+T31	TemporalConcept 1148 1159	progression
+T32	CellComponent 24 27	EVs
+T33	CellComponent 381 384	EVs
+T34	CellComponent 684 687	EVs
+T35	CellComponent 1133 1136	EVs
+T36	ClinicalAttribute 227 236	biomarker
+T37	Cell 412 417	cells
+T38	Cell 643 648	cells
+T39	Finding 926 937	sensitivity
+T40	PathologicFunction 455 464	pathology
+T41	BiomedicalOccupationOrDiscipline 455 464	pathology
+T42	HealthCareActivity 109 118	detection
+T43	HealthCareActivity 938 955	detection methods
+T44	Substance 588 593	fluid
+T45	HealthCareActivity 142 152	monitoring
+T46	PathologicFunction 1140 1159	disease progression
+T47	TemporalConcept 861 868	current
+T48	TemporalConcept 1016 1023	current
+T49	HealthCareActivity 64 100	non-invasive liquid biopsy procedure
+T50	AminoAcidPeptideOrProtein 190 193	PSA
+T51	HealthCareActivity 301 316	diagnostic tool
+T52	BodyPartOrganOrOrganComponent 581 593	bodily fluid
+T53	Finding 832 855	anti-neoplastic effects
+T54	ResearchActivity 938 955	detection methods

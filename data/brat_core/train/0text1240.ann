@@ -1,0 +1,73 @@
+T0	Finding 609 613	lost
+T1	Finding 934 943	examining
+T2	CellFunction 978 987	metabolic
+T3	BiologicFunction 262 280	Oligodendrogenesis
+T4	TemporalConcept 675 683	progress
+T5	BiologicFunction 242 260	oligodendrogenesis
+T6	CellFunction 109 124	trophic support
+T7	CellComponent 92 97	axons
+T8	Cell 31 47	oligodendrocytes
+T9	Cell 163 179	oligodendrocytes
+T10	Cell 467 483	oligodendrocytes
+T11	Cell 573 604	premyelinating oligodendrocytes
+T12	Cell 643 674	premyelinating oligodendrocytes
+T13	Cell 1062 1093	premyelinating oligodendrocytes
+T14	Cell 1192 1223	premyelinating oligodendrocytes
+T15	Cell 1550 1566	oligodendrocytes
+T16	Cell 353 356	OPC
+T17	BiologicFunction 1150 1160	maturation
+T18	DiseaseOrSyndrome 1348 1366	multiple sclerosis
+T19	BodyPartOrganOrOrganComponent 56 62	myelin
+T20	DiseaseOrSyndrome 1479 1500	demyelinating disease
+T21	BiologicFunction 1610 1624	brain function
+T22	CellFunction 542 557	differentiation
+T23	CellComponent 56 70	myelin sheaths
+T24	Cell 736 764	myelinating oligodendrocytes
+T25	Cell 435 437	OL
+T26	TemporalConcept 411 417	mature
+T27	BiologicFunction 138 157	conduction velocity
+T28	NaturalPhenomenonOrProcess 138 148	conduction
+T29	Cell 321 351	oligodendrocyte precursor cell
+T30	Cell 337 351	precursor cell
+T31	Cell 321 346	oligodendrocyte precursor
+T32	BiologicFunction 138 148	conduction
+T33	CellFunction 793 804	integration
+T34	CellFunction 919 930	integration
+T35	CellFunction 1279 1290	integration
+T36	MachineActivity 793 804	integration
+T37	MachineActivity 919 930	integration
+T38	MachineActivity 1279 1290	integration
+T39	BodyPartOrganOrOrganComponent 7 29	central nervous system
+T40	Cell 347 351	cell
+T41	Cell 83 91	neuronal
+T42	ResearchActivity 814 820	review
+T43	HealthCareActivity 814 820	review
+T44	Cell 1047 1056	microglia
+T45	CellFunction 629 638	apoptosis
+T46	TemporalConcept 204 208	life
+T47	TemporalConcept 1591 1595	life
+T48	CellFunction 697 716	survival checkpoint
+T49	CellFunction 906 914	survival
+T50	CellFunction 1266 1274	survival
+T51	HealthCareActivity 1464 1474	treatments
+T52	ResearchActivity 1464 1474	treatments
+T53	BiologicFunction 1382 1395	understanding
+T54	Cell 1026 1033	neurons
+T55	Cell 1180 1187	neurons
+T56	BiomedicalOccupationOrDiscipline 1430 1437	biology
+T57	CellFunction 856 884	extrinsic signaling pathways
+T58	CellFunction 948 976	intrinsic apoptotic pathways
+T59	Cell 363 393	premyelinating oligodendrocyte
+T60	Cell 411 433	mature oligodendrocyte
+T61	Cell 1399 1429	premyelinating oligodendrocyte
+T62	Cell 1035 1045	astrocytes
+T63	CellFunction 842 851;866 884	intrinsic signaling pathways
+T64	CellFunction 1331 1344	remyelination
+T65	TemporalConcept 309 315	stages
+T66	Finding 1005 1017	interactions
+T67	TemporalConcept 453 463	generation
+T68	BiologicFunction 1430 1437	biology
+T69	Finding 1255 1265	increasing
+T70	Cell 395 400	preOL
+T71	Cell 1294 1300	preOLs
+T72	Cell 900 905	preOL

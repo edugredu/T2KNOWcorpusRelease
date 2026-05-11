@@ -1,0 +1,153 @@
+T0	AminoAcidPeptideOrProtein 14 27	Semaphorin 3A
+T1	GeneOrGenome 14 27	Semaphorin 3A
+T2	AminoAcidPeptideOrProtein 29 36	Sema 3A
+T3	GeneOrGenome 29 36	Sema 3A
+T4	CellComponent 156 167	growth cone
+T5	BodyPartOrganOrOrganComponent 171 190	dorsal root ganglia
+T6	AminoAcidPeptideOrProtein 237 244	Sema 3A
+T7	GeneOrGenome 237 244	Sema 3A
+T8	AminoAcidPeptideOrProtein 267 279	Neuropilin 1
+T9	GeneOrGenome 267 279	Neuropilin 1
+T10	BiologicallyActiveSubstance 285 302	membrane receptor
+T11	AminoAcidPeptideOrProtein 306 313	Sema 3A
+T12	GeneOrGenome 306 313	Sema 3A
+T13	AminoAcidPeptideOrProtein 320 330	semaphorin
+T14	GeneOrGenome 320 330	semaphorin
+T15	AminoAcidPeptideOrProtein 340 352	neuropilin 1
+T16	GeneOrGenome 340 352	neuropilin 1
+T17	PathologicFunction 412 424	demyelinated
+T18	AminoAcidPeptideOrProtein 469 476	Sema 3A
+T19	GeneOrGenome 469 476	Sema 3A
+T20	AminoAcidPeptideOrProtein 649 656	Sema 3A
+T21	GeneOrGenome 649 656	Sema 3A
+T22	GeneOrGenome 716 720	NRP1
+T23	AminoAcidPeptideOrProtein 716 720	NRP1
+T24	ResearchActivity 734 740	cloned
+T25	CellComponent 743 750	soluble
+T26	AminoAcidPeptideOrProtein 828 847	recombinant protein
+T27	Chemical 876 894	conditioned medium
+T28	GeneOrGenome 987 994	Sema 3A
+T29	AminoAcidPeptideOrProtein 987 994	Sema 3A
+T30	BodyPartOrganOrOrganComponent 1034 1054	Dorsal root ganglion
+T31	CellFunction 1118 1147	growth cone collapse activity
+T32	AminoAcidPeptideOrProtein 1151 1158	Sema 3A
+T33	GeneOrGenome 1151 1158	Sema 3A
+T34	Finding 1179 1187	presence
+T35	Chemical 1221 1238	conditioned media
+T36	ResearchActivity 1402 1408	cloned
+T37	ResearchActivity 1413 1423	transduced
+T38	AminoAcidPeptideOrProtein 1640 1647	Sema 3A
+T39	GeneOrGenome 1640 1647	Sema 3A
+T40	Finding 1690 1698	presence
+T41	Chemical 1706 1724	conditioned medium
+T42	Chemical 1775 1793	conditioned medium
+T43	AminoAcidPeptideOrProtein 1856 1863	Sema 3A
+T44	GeneOrGenome 1856 1863	Sema 3A
+T45	CellFunction 1864 1893	growth cone collapse activity
+T46	AminoAcidPeptideOrProtein 2027 2034	Sema 3A
+T47	GeneOrGenome 2027 2034	Sema 3A
+T48	CellComponent 591 596	axons
+T49	BiologicFunction 156 162	growth
+T50	BiologicFunction 1003 1009	growth
+T51	BiologicFunction 1118 1124	growth
+T52	CellFunction 574 587	remyelination
+T53	CellFunction 2085 2098	remyelination
+T54	Cell 511 541	oligodendrocyte precursor cell
+T55	Cell 389 404	precursor cells
+T56	Cell 373 398	oligodendrocyte precursor
+T57	Cell 511 536	oligodendrocyte precursor
+T58	CellFunction 511 557	oligodendrocyte precursor cell differentiation
+T59	Cell 373 404	oligodendrocyte precursor cells
+T60	CellComponent 285 293	membrane
+T61	CellComponent 707 715	membrane
+T62	CellFunction 696 703	binding
+T63	BiologicallyActiveSubstance 294 302	receptor
+T64	CellFunction 973 983	inhibition
+T65	ResearchActivity 2128 2135	studies
+T66	Cell 851 864	HEK293T cells
+T67	Cell 902 918	transduced cells
+T68	Cell 1272 1285	HEK293T cells
+T69	Cell 1427 1440	HEK293T cells
+T70	Cell 1460 1476	transduced cells
+T71	Cell 1567 1583	transduced cells
+T72	Cell 1735 1759	transduced HEK293T cells
+T73	Cell 1797 1825	non-transduced HEK293T cells
+T74	Cell 1970 1983	HEK293T cells
+T75	Eukaryote 759 764	mouse
+T76	DiseaseOrSyndrome 444 462	Multiple Sclerosis
+T77	ResearchActivity 1538 1543	ELISA
+T78	DiseaseOrSyndrome 464 466	MS
+T79	DiseaseOrSyndrome 2102 2104	MS
+T80	CellFunction 814 823	expressed
+T81	InjuryOrPoisoning 2105 2112	lesions
+T82	ResearchActivity 1369 1376	Results
+T83	CellFunction 542 557	differentiation
+T84	BiologicFunction 201 212	development
+T85	CellFunction 201 212	development
+T86	ResearchActivity 1348 1362	post hoc Tukey
+T87	ResearchActivity 2142 2155	animal models
+T88	BiologicallyActiveSubstance 14 27	Semaphorin 3A
+T89	BiologicallyActiveSubstance 29 36	Sema 3A
+T90	CellFunction 131 148	collapse activity
+T91	BiologicallyActiveSubstance 237 244	Sema 3A
+T92	BiologicallyActiveSubstance 267 279	Neuropilin 1
+T93	BiologicallyActiveSubstance 306 313	Sema 3A
+T94	BiologicallyActiveSubstance 320 330	semaphorin
+T95	BiologicallyActiveSubstance 340 352	neuropilin 1
+T96	BiologicallyActiveSubstance 469 476	Sema 3A
+T97	BiologicallyActiveSubstance 649 656	Sema 3A
+T98	BiologicallyActiveSubstance 716 720	NRP1
+T99	AminoAcidPeptideOrProtein 765 777	Neuropilin 1
+T100	BiologicallyActiveSubstance 765 777	Neuropilin 1
+T101	BiologicallyActiveSubstance 779 785	msNRP1
+T102	AminoAcidPeptideOrProtein 779 785	msNRP1
+T103	GeneOrGenome 779 785	msNRP1
+T104	Virus 792 809	lentiviral vector
+T105	ResearchActivity 792 809	lentiviral vector
+T106	ResearchActivity 902 918	transduced cells
+T107	AminoAcidPeptideOrProtein 959 965	msNRP1
+T108	BiologicallyActiveSubstance 959 965	msNRP1
+T109	GeneOrGenome 959 965	msNRP1
+T110	BiologicallyActiveSubstance 987 994	Sema 3A
+T111	CellFunction 1003 1032	growth cone collapse activity
+T112	CellComponent 1003 1014	growth cone
+T113	ResearchActivity 1055 1063	explants
+T114	TemporalConcept 1083 1086	E13
+T115	Eukaryote 1067 1081;1088 1092	timed pregnant mice
+T116	CellComponent 1118 1129	growth cone
+T117	BiologicallyActiveSubstance 1151 1158	Sema 3A
+T118	AminoAcidPeptideOrProtein 1203 1209	msNRP1
+T119	BiologicallyActiveSubstance 1203 1209	msNRP1
+T120	GeneOrGenome 1203 1209	msNRP1
+T121	ResearchActivity 1242 1252;1280 1285	transduced cells
+T122	ResearchActivity 1257 1271;1280 1285	non-transduced cells
+T123	ResearchActivity 1332 1343	1-way ANOVA
+T124	AminoAcidPeptideOrProtein 1378 1384	msNRP1
+T125	BiologicallyActiveSubstance 1378 1384	msNRP1
+T126	GeneOrGenome 1378 1384	msNRP1
+T127	Chemical 1446 1456	supematant
+T128	AminoAcidPeptideOrProtein 1530 1536	msNRP1
+T129	BiologicallyActiveSubstance 1530 1536	msNRP1
+T130	GeneOrGenome 1530 1536	msNRP1
+T131	AminoAcidPeptideOrProtein 1593 1599	msNRP1
+T132	BiologicallyActiveSubstance 1593 1599	msNRP1
+T133	GeneOrGenome 1593 1599	msNRP1
+T134	CellComponent 1601 1612	Growth cone
+T135	ResearchActivity 1601 1627	Growth cone collapse assay
+T136	CellFunction 1640 1656	Sema 3A activity
+T137	AminoAcidPeptideOrProtein 1728 1734	msNRP1
+T138	BiologicallyActiveSubstance 1728 1734	msNRP1
+T139	GeneOrGenome 1728 1734	msNRP1
+T140	BiologicallyActiveSubstance 1856 1863	Sema 3A
+T141	BiologicallyActiveSubstance 1934 1940	msNRP1
+T142	AminoAcidPeptideOrProtein 1934 1940	msNRP1
+T143	GeneOrGenome 1934 1940	msNRP1
+T144	AminoAcidPeptideOrProtein 1998 2004	msNRP1
+T145	BiologicallyActiveSubstance 1998 2004	msNRP1
+T146	GeneOrGenome 1998 2004	msNRP1
+T147	CellFunction 2035 2052	collapse activity
+T148	CellFunction 1601 1621	Growth cone collapse
+T149	BiologicallyActiveSubstance 2027 2034	Sema 3A
+T150	AminoAcidPeptideOrProtein 2065 2071	msNRP1
+T151	BiologicallyActiveSubstance 2065 2071	msNRP1
+T152	GeneOrGenome 2065 2071	msNRP1

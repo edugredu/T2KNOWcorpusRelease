@@ -1,0 +1,61 @@
+T0	Cell 141 151	Microglial
+T1	CellFunction 166 176	activation
+T2	ClinicalAttribute 406 413	markers
+T3	CellFunction 544 554	activation
+T4	CellComponent 581 596	soluble factors
+T5	HealthCareActivity 722 729	monitor
+T6	ManufacturedObject 722 729	monitor
+T7	Finding 779 793	Identification
+T8	ClinicalAttribute 815 822	markers
+T9	ResearchActivity 1028 1039	measurement
+T10	HealthCareActivity 1028 1039	measurement
+T11	PathologicFunction 1139 1156	Neuroinflammatory
+T12	PopulationGroup 1241 1250	surrogate
+T13	PharmacologicSubstance 1241 1250	surrogate
+T14	DiseaseOrSyndrome 44 80	inherited neurodegenerative disorder
+T15	HealthCareActivity 889 917	disease-modifying treatments
+T16	ClinicalAttribute 1057 1065	severity
+T17	Finding 567 577	identified
+T18	Finding 1057 1065	severity
+T19	Cell 1362 1374	immune cells
+T20	Cell 156 165	astrocyte
+T21	Cell 534 543	astrocyte
+T22	HealthCareActivity 654 665	PET imaging
+T23	SignOrSymptom 832 849	clinical symptoms
+T24	Finding 98 139	motor, cognitive and psychiatric deficits
+T25	ResearchActivity 1194 1208	clinical trial
+T26	HealthCareActivity 1100 1113	clinical care
+T27	Finding 367 379	relationship
+T28	Finding 231 239	hallmark
+T29	HealthCareActivity 328 352	therapeutic intervention
+T30	PathologicFunction 951 968	neuroinflammatory
+T31	BodyPartOrganOrOrganComponent 627 632	blood
+T32	Cell 519 529	microglial
+T33	PathologicFunction 205 222	neuroinflammation
+T34	PathologicFunction 265 282	neuroinflammation
+T35	PathologicFunction 388 405	neuroinflammation
+T36	PathologicFunction 797 814	neuroinflammation
+T37	PathologicFunction 1417 1434	neuroinflammation
+T38	PathologicFunction 422 439	disease pathology
+T39	TemporalConcept 925 942	premanifest phase
+T40	Cell 1314 1333	activated microglia
+T41	PathologicFunction 743 762	disease progression
+T42	Finding 494 502	evidence
+T43	Finding 1292 1300	evidence
+T44	BodyPartOrganOrOrganComponent 1351 1361	peripheral
+T45	Cell 1335 1345	astrocytes
+T46	DiseaseOrSyndrome 0 20	Huntington's disease
+T47	DiseaseOrSyndrome 22 24	HD
+T48	DiseaseOrSyndrome 243 245	HD
+T49	DiseaseOrSyndrome 1054 1056	HD
+T50	DiseaseOrSyndrome 1378 1380	HD
+T51	ClinicalAttribute 708 718	biomarkers
+T52	ClinicalAttribute 982 1000	imaging biomarkers
+T53	ClinicalAttribute 1157 1167	biomarkers
+T54	ClinicalAttribute 1403 1413	biomarkers
+T55	BodyPartOrganOrOrganComponent 604 623	cerebrospinal fluid
+T56	PatientOrDisabledGroup 766 777	HD patients
+T57	PatientOrDisabledGroup 1126 1137	HD patients
+T58	Substance 969 977	biofluid
+T59	ResearchActivity 555 565	signatures
+T60	Finding 307 323	potential target

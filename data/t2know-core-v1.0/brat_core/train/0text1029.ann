@@ -1,0 +1,75 @@
+T0	SignOrSymptom 400 415	muscle rigidity
+T1	SignOrSymptom 417 424	tremors
+T2	SignOrSymptom 429 441	bradykinesia
+T3	DiseaseOrSyndrome 474 483	confusion
+T4	Finding 474 483	confusion
+T5	AminoAcidPeptideOrProtein 579 587	levodopa
+T6	HealthCareActivity 624 646	deep brain stimulation
+T7	HealthCareActivity 684 700	physical therapy
+T8	AminoAcidPeptideOrProtein 1163 1188	cell-penetrating peptides
+T9	AminoAcidPeptideOrProtein 1190 1194	CPPs
+T10	BiologicallyActiveSubstance 599 607	dopamine
+T11	Chemical 599 607	dopamine
+T12	PharmacologicSubstance 599 607	dopamine
+T13	DiseaseOrSyndrome 250 259	suffering
+T14	BodyPartOrganOrOrganComponent 659 679	regions of the brain
+T15	AminoAcidPeptideOrProtein 113 131	protein aggregates
+T16	PharmacologicSubstance 1210 1232	neuroprotective agents
+T17	BiologicFunction 196 201	death
+T18	PathologicFunction 196 201	death
+T19	BodyPartOrganOrOrganComponent 400 406	muscle
+T20	CellFunction 196 201	death
+T21	HealthCareActivity 813 831	symptom management
+T22	CellOrMolecularDysfunction 0 17	Neurodegeneration
+T23	SignOrSymptom 462 470	symptoms
+T24	DiseaseOrSyndrome 146 172	Neurodegenerative diseases
+T25	SignOrSymptom 360 365;380 388	motor symptoms
+T26	CellComponent 1133 1155	extracellular vesicles
+T27	DiseaseOrSyndrome 300 319	Alzheimer's disease
+T28	CellComponent 1157 1160	EVs
+T29	DiseaseOrSyndrome 321 323	AD
+T30	DiseaseOrSyndrome 448 450	AD
+T31	DiseaseOrSyndrome 1059 1061	AD
+T32	PatientOrDisabledGroup 614 622	patients
+T33	DiseaseOrSyndrome 488 496	dementia
+T34	BodyPartOrganOrOrganComponent 139 144	brain
+T35	BodyPartOrganOrOrganComponent 629 634	brain
+T36	NucleicAcidNucleosideOrNucleotide 1200 1206	miRNAs
+T37	BiologicallyActiveSubstance 1200 1206	miRNAs
+T38	CellOrMolecularDysfunction 975 992	neurodegeneration
+T39	PopulationGroup 1011 1021	population
+T40	HealthCareActivity 522 534	therapeutics
+T41	ResearchActivity 1033 1039	review
+T42	ResearchActivity 1107 1113	review
+T43	HealthCareActivity 1033 1039	review
+T44	HealthCareActivity 1107 1113	review
+T45	PopulationGroup 233 239	people
+T46	TemporalConcept 502 509	current
+T47	TemporalConcept 1044 1051	current
+T48	TemporalConcept 1118 1125	current
+T49	Cell 59 79	dopaminergic neurons
+T50	ResearchActivity 954 964	strategies
+T51	BiologicFunction 954 964	strategies
+T52	HealthCareActivity 635 646	stimulation
+T53	NaturalPhenomenonOrProcess 635 646	stimulation
+T54	HealthCareActivity 717 727	treatments
+T55	HealthCareActivity 839 849	treatments
+T56	HealthCareActivity 1062 1072	treatments
+T57	ResearchActivity 717 727	treatments
+T58	ResearchActivity 839 849	treatments
+T59	ResearchActivity 1062 1072	treatments
+T60	TemporalConcept 39 50	progressive
+T61	DiseaseOrSyndrome 272 291	Parkinson's disease
+T62	DiseaseOrSyndrome 293 295	PD
+T63	DiseaseOrSyndrome 326 328	PD
+T64	DiseaseOrSyndrome 611 613	PD
+T65	DiseaseOrSyndrome 1052 1054	PD
+T66	BodyPartOrganOrOrganComponent 902 921	blood-brain barrier
+T67	TemporalConcept 240 249	currently
+T68	TemporalConcept 803 807	time
+T69	CellOrMolecularDysfunction 51 79	loss of dopaminergic neurons
+T70	SignOrSymptom 370 388	non-motor symptoms
+T71	HealthCareActivity 544 570	pharmacological approaches
+T72	PharmacologicSubstance 579 587	levodopa
+T73	BiologicallyActiveSubstance 579 587	levodopa
+T74	Finding 879 888	inability

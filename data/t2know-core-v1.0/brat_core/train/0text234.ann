@@ -1,0 +1,53 @@
+T0	DiseaseOrSyndrome 45 73	neurodegenerative conditions
+T1	PopulationGroup 124 136	older people
+T2	Chemical 188 202	essential oils
+T3	Chemical 204 207	EOs
+T4	Finding 295 308	effectiveness
+T5	Chemical 312 315	EOs
+T6	OrganismAttribute 366 369	age
+T7	TemporalConcept 512 517	years
+T8	HealthCareRelatedOrganization 544 567	medical subject heading
+T9	Chemical 581 594	essential oil
+T10	DiseaseOrSyndrome 609 628	Alzheimer's disease
+T11	DiseaseOrSyndrome 630 632	AD
+T12	DiseaseOrSyndrome 662 681	Parkinson's disease
+T13	DiseaseOrSyndrome 683 685	PD
+T14	DiseaseOrSyndrome 690 719	amyotrophic lateral sclerosis
+T15	DiseaseOrSyndrome 721 724	ALS
+T16	DiseaseOrSyndrome 785 787	AD
+T17	DiseaseOrSyndrome 818 820	PD
+T18	DiseaseOrSyndrome 866 869	ALS
+T19	Eukaryote 879 897	Salvia officinalis
+T20	AminoAcidPeptideOrProtein 945 965	acetylcholinesterase
+T21	BiologicallyActiveSubstance 945 965	acetylcholinesterase
+T22	AminoAcidPeptideOrProtein 970 991	butyrylcholinesterase
+T23	BiologicallyActiveSubstance 970 991	butyrylcholinesterase
+T24	PharmacologicSubstance 970 1002	butyrylcholinesterase inhibitors
+T25	Finding 1059 1072	effectiveness
+T26	DiseaseOrSyndrome 1081 1083	AD
+T27	DiseaseOrSyndrome 1088 1090	PD
+T28	Chemical 1131 1134	EOs
+T29	OrganismAttribute 1177 1180	age
+T30	Finding 1119 1127	evidence
+T31	DiseaseOrSyndrome 657 659	HD
+T32	DiseaseOrSyndrome 860 862	HD
+T33	DiseaseOrSyndrome 635 655	Huntington's disease
+T34	TemporalConcept 28 43	life expectancy
+T35	DiseaseOrSyndrome 378 404	neurodegenerative diseases
+T36	DiseaseOrSyndrome 1189 1215	neurodegenerative diseases
+T37	ResearchActivity 270 276	review
+T38	ResearchActivity 1096 1102	review
+T39	HealthCareActivity 270 276	review
+T40	HealthCareActivity 1096 1102	review
+T41	ResearchActivity 838 843	study
+T42	ResearchActivity 761 768	studies
+T43	ResearchActivity 410 420	literature
+T44	ResearchActivity 446 455	databases
+T45	HealthCareRelatedOrganization 457 463	PubMed
+T46	HealthCareRelatedOrganization 465 479	Web of Science
+T47	HealthCareRelatedOrganization 484 498	Google Scholar
+T48	HealthCareRelatedOrganization 569 573	MeSH
+T49	Chemical 871 873	EO
+T50	Chemical 1018 1032	Cinnamomum sp.
+T51	PharmacologicSubstance 1148 1172	neuroprotective remedies
+T52	PharmacologicSubstance 319 343	neuroprotective remedies

@@ -1,0 +1,9 @@
+T0	DiseaseOrSyndrome 138 163	neurodegenerative disease
+T1	HealthCareActivity 26 36	monitoring
+T2	Chemical 12 17	water
+T3	Chemical 119 124	water
+T4	HealthCareActivity 42 67	public health initiatives
+T5	EnvironmentalEffectOfHumans 119 134	water pollution
+T6	Finding 12 25	water quality
+T7	PharmacologicSubstance 12 17	water
+T8	PharmacologicSubstance 119 124	water

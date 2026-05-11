@@ -1,0 +1,99 @@
+T0	HealthCareActivity 0 20	Brain administration
+T1	HealthCareActivity 77 87	biotherapy
+T2	ResearchActivity 355 391	virus removal nanofiltration process
+T3	Chemical 398 431	hydrophilic regenerated cellulose
+T4	HealthCareActivity 785 792	removal
+T5	AminoAcidPeptideOrProtein 997 1010	neurotrophins
+T6	BiologicallyActiveSubstance 997 1010	neurotrophins
+T7	PathologicFunction 1106 1116	infections
+T8	DiseaseOrSyndrome 1106 1116	infections
+T9	BiologicFunction 1149 1164	pro-coagulation
+T10	InjuryOrPoisoning 1500 1503	TBI
+T11	AminoAcidPeptideOrProtein 1588 1600	procoagulant
+T12	BiologicallyActiveSubstance 1588 1600	procoagulant
+T13	InjuryOrPoisoning 1717 1720	TBI
+T14	PharmacologicSubstance 1027 1039	antioxidants
+T15	CellFunction 1335 1350	differentiation
+T16	Chemical 866 900	pro-thrombogenic phosphatidylserin
+T17	Cell 30 38	platelet
+T18	Cell 195 203	platelet
+T19	InjuryOrPoisoning 1476 1498	traumatic brain injury
+T20	NaturalPhenomenonOrProcess 1320 1330	stimulated
+T21	HealthCareActivity 1430 1455	intranasal administration
+T22	Cell 1362 1376	neuronal cells
+T23	ResearchActivity 518 529	experiments
+T24	ResearchActivity 632 683	immuno-quantitative polymerase chain reaction assay
+T25	CellComponent 796 818	extracellular vesicles
+T26	CellComponent 820 823	EVs
+T27	CellComponent 1169 1172	EVs
+T28	BodyPartOrganOrOrganComponent 139 161	central nervous system
+T29	DiseaseOrSyndrome 1294 1313	Parkinson's disease
+T30	DiseaseOrSyndrome 1315 1317	PD
+T31	DiseaseOrSyndrome 1710 1712	PD
+T32	BodyPartOrganOrOrganComponent 1486 1491	brain
+T33	Eukaryote 24 29	human
+T34	Eukaryote 1245 1250	human
+T35	Finding 1205 1211	intact
+T36	Eukaryote 603 607	mice
+T37	Cell 1362 1370	neuronal
+T38	ResearchActivity 1700 1706	models
+T39	CellFunction 852 862	expression
+T40	AminoAcidPeptideOrProtein 972 985	HPPL proteins
+T41	AminoAcidPeptideOrProtein 1076 1084	proteins
+T42	CellOrMolecularDysfunction 91 108	neurodegenerative
+T43	BiologicFunction 1153 1164	coagulation
+T44	HealthCareActivity 316 326	treatments
+T45	ResearchActivity 316 326	treatments
+T46	Finding 842 851	decreased
+T47	DiseaseOrSyndrome 1121 1127	cancer
+T48	BodyPartOrganOrOrganComponent 0 5	Brain
+T49	CellFunction 1139 1147	pathways
+T50	Chemical 613 622	particles
+T51	AminoAcidPeptideOrProtein 1012 1021	cytokines
+T52	BiologicallyActiveSubstance 1012 1021	cytokines
+T53	Finding 306 315	reduction
+T54	NaturalPhenomenonOrProcess 306 315	reduction
+T55	ResearchActivity 1461 1472	mouse model
+T56	AminoAcidPeptideOrProtein 736 756	neurotrophic factors
+T57	BiologicallyActiveSubstance 736 756	neurotrophic factors
+T58	Finding 226 236	increasing
+T59	ResearchActivity 250 263	manufacturing
+T60	BiologicFunction 1398 1415	anti-inflammatory
+T61	BiologicFunction 1646 1663	anti-inflammatory
+T62	PharmacologicSubstance 1398 1415	anti-inflammatory
+T63	PharmacologicSubstance 1646 1663	anti-inflammatory
+T64	CellFunction 469 484	neuroprotective
+T65	CellFunction 1212 1227	neuroprotective
+T66	CellFunction 1626 1641	neuroprotective
+T67	BiomedicalOccupationOrDiscipline 938 948	proteomics
+T68	DiseaseOrSyndrome 113 131	traumatic diseases
+T69	AminoAcidPeptideOrProtein 30 46	platelet lysates
+T70	PharmacologicSubstance 24 46	human platelet lysates
+T71	PharmacologicSubstance 48 51	HPL
+T72	PharmacologicSubstance 163 167	HPLs
+T73	Virus 237 242	viral
+T74	Finding 243 248	risks
+T75	Virus 300 305	virus
+T76	Substance 204 216	concentrates
+T77	Virus 355 360	virus
+T78	ManufacturedObject 432 445	hollow fibers
+T79	AminoAcidPeptideOrProtein 498 501	HPL
+T80	ExperimentalModelOfDisease 1240 1313	Lund human mesencephalic dopaminergic neuron model of Parkinson's disease
+T81	Cell 1354 1376	SH-SY5Y neuronal cells
+T82	ExperimentalModelOfDisease 1461 1498	mouse model of traumatic brain injury
+T83	ResearchActivity 1517 1531	nanofiltration
+T84	PharmacologicSubstance 1535 1538	HPL
+T85	AminoAcidPeptideOrProtein 1535 1538	HPL
+T86	Virus 1563 1568	viral
+T87	Finding 1601 1606	risks
+T88	ExperimentalModelOfDisease 1678 1712	neuronal pre-clinical models of PD
+T89	Virus 594 599	virus
+T90	ResearchActivity 689 701	nanofiltered
+T91	ResearchActivity 929 948	LC-MS/MS proteomics
+T92	AminoAcidPeptideOrProtein 1061 1066	NHPPL
+T93	AminoAcidPeptideOrProtein 1188 1193	NHPPL
+T94	AminoAcidPeptideOrProtein 708 713	NHPPL
+T95	AminoAcidPeptideOrProtein 702 706	HPPL
+T96	AminoAcidPeptideOrProtein 762 766	HPPL
+T97	AminoAcidPeptideOrProtein 503 507	HPPL
+T98	NaturalPhenomenonOrProcess 485 489	heat

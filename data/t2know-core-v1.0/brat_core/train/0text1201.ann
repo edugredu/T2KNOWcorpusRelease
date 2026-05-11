@@ -1,0 +1,77 @@
+T0	CellFunction 441 448	network
+T1	TemporalConcept 487 497	chronicity
+T2	Cell 571 581	precursors
+T3	TemporalConcept 1623 1639	onset of disease
+T4	Finding 747 764	emerging evidence
+T5	TemporalConcept 1657 1665	lifespan
+T6	HealthCareActivity 1933 1957	therapeutic intervention
+T7	PathologicFunction 182 199	neuroinflammation
+T8	PathologicFunction 1110 1127	neuroinflammation
+T9	AminoAcidPeptideOrProtein 1326 1348	inflammatory cytokines
+T10	Finding 344 353	interplay
+T11	Cell 510 526	Oligodendrocytes
+T12	Cell 616 620	OPCs
+T13	Cell 770 774	OPCs
+T14	Cell 1057 1061	OPCs
+T15	Cell 1758 1762	OPCs
+T16	Cell 583 614	oligodendrocyte precursor cells
+T17	Cell 109 114	cells
+T18	Cell 375 380	cells
+T19	Cell 1165 1183	resident CNS cells
+T20	BodyPartOrganOrOrganComponent 392 398	myelin
+T21	BodyPartOrganOrOrganComponent 126 148	central nervous system
+T22	BodyPartOrganOrOrganComponent 150 153	CNS
+T23	BodyPartOrganOrOrganComponent 371 374	CNS
+T24	BodyPartOrganOrOrganComponent 556 559	CNS
+T25	ResearchActivity 1046 1052	review
+T26	HealthCareActivity 1046 1052	review
+T27	PathologicFunction 1800 1811	progression
+T28	TemporalConcept 1800 1811	progression
+T29	CellOrMolecularDysfunction 219 236	neurodegeneration
+T30	CellOrMolecularDysfunction 855 872	neurodegeneration
+T31	CellOrMolecularDysfunction 1132 1149	neurodegeneration
+T32	PatientOrDisabledGroup 1605 1613	patients
+T33	CellFunction 1476 1491	neuroprotective
+T34	DiseaseOrSyndrome 258 260	MS
+T35	DiseaseOrSyndrome 690 692	MS
+T36	DiseaseOrSyndrome 914 916	MS
+T37	DiseaseOrSyndrome 1427 1429	MS
+T38	DiseaseOrSyndrome 1594 1596	MS
+T39	DiseaseOrSyndrome 1797 1799	MS
+T40	PathologicFunction 4 13	pathology
+T41	PathologicFunction 662 682	autoimmune pathology
+T42	PathologicFunction 958 967	pathology
+T43	BiomedicalOccupationOrDiscipline 4 13	pathology
+T44	BiomedicalOccupationOrDiscipline 958 967	pathology
+T45	DiseaseOrSyndrome 238 256	Multiple sclerosis
+T46	BiologicFunction 1718 1730	CNS recovery
+T47	InjuryOrPoisoning 951 957	lesion
+T48	Cell 1194 1203	microglia
+T49	PathologicFunction 917 936	disease progression
+T50	BiologicFunction 1526 1537	homeostasis
+T51	ResearchActivity 972 985	murine models
+T52	NucleicAcidNucleosideOrNucleotide 211 218	promote
+T53	Cell 1221 1228	neurons
+T54	Cell 1205 1215	astrocytes
+T55	BiologicFunction 1692 1697	aging
+T56	CellFunction 1692 1697	aging
+T57	DiseaseOrSyndrome 290 315	neurodegenerative disease
+T58	PathologicFunction 273 285	inflammatory
+T59	TemporalConcept 1871 1877	stages
+T60	PathologicFunction 68 80	inflammation
+T61	PathologicFunction 798 810	inflammation
+T62	HealthCareActivity 427 440	communication
+T63	CellFunction 427 440	communication
+T64	PopulationGroup 362 370	resident
+T65	ResearchActivity 1438 1451	animal models
+T66	DiseaseOrSyndrome 17 43	neurodegenerative diseases
+T67	TemporalConcept 174 181	ongoing
+T68	Cell 532 548	myelinating cell
+T69	CellOrMolecularDysfunction 403 416	axonal damage
+T70	ExperimentalModelOfDisease 708 727	animal models of MS
+T71	Finding 1295 1311	pleiotropic role
+T72	BiologicallyActiveSubstance 1326 1348	inflammatory cytokines
+T73	CellFunction 1565 1577	OPC function
+T74	CellFunction 1701 1713	OPC function
+T75	CellFunction 1240 1252	OPC function
+T76	Eukaryote 972 978	murine

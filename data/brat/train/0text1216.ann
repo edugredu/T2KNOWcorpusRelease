@@ -1,0 +1,82 @@
+T0	BiologicFunction 70 85	motor behaviors
+T1	BiologicFunction 91 110	sensory integration
+T2	HealthCareActivity 91 110	sensory integration
+T3	BodyPartOrganOrOrganComponent 378 385	synapse
+T4	HealthCareActivity 933 952	nutritional support
+T5	BiologicallyActiveSubstance 1181 1206	voltage gated ion channel
+T6	AminoAcidPeptideOrProtein 1181 1206	voltage gated ion channel
+T7	HealthCareActivity 250 257	reviews
+T8	ResearchActivity 250 257	reviews
+T9	BiologicFunction 1302 1312;1328 1345	excitatory neurotransmission
+T10	BiologicFunction 637 657	saltatory conduction
+T11	CellComponent 548 553	axons
+T12	CellComponent 913 918	axons
+T13	Cell 349 365	oligodendrocytes
+T14	Cell 500 516	Oligodendrocytes
+T15	Cell 659 675	Oligodendrocytes
+T16	Cell 1513 1517	OPCs
+T17	CellFunction 1000 1027	oligodendrocyte development
+T18	CellFunction 1234 1261	oligodendrocyte development
+T19	BiologicFunction 744 754	maturation
+T20	BodyPartOrganOrOrganComponent 559 565	myelin
+T21	DiseaseOrSyndrome 477 498	demyelinating disease
+T22	DiseaseOrSyndrome 1552 1573	demyelinating disease
+T23	CellFunction 1391 1406	differentiation
+T24	Finding 775 783	abnormal
+T25	CellFunction 1365 1378	proliferation
+T26	CellFunction 1380 1389	migration
+T27	TemporalConcept 700 709	postnatal
+T28	Finding 451 469	normal development
+T29	BiologicFunction 593 632	conduction of electrical nerve impulses
+T30	BodyPartOrganOrOrganComponent 850 865	neural circuits
+T31	TemporalConcept 828 834	timing
+T32	CellFunction 797 808	Myelination
+T33	BodyPartOrganOrOrganComponent 1471 1492	synaptic connectivity
+T34	BiologicFunction 4 15	development
+T35	BiologicFunction 397 425	neuronal circuit development
+T36	BiologicFunction 458 469	development
+T37	BiologicFunction 710 721	development
+T38	BiologicFunction 1016 1027	development
+T39	BiologicFunction 1107 1126	circuit development
+T40	CellFunction 4 15	development
+T41	CellFunction 458 469	development
+T42	CellFunction 710 721	development
+T43	CellFunction 1016 1027	development
+T44	Cell 145 156	glial cells
+T45	Cell 539 547	neuronal
+T46	Cell 1076 1084	neuronal
+T47	HealthCareActivity 1536 1548	therapeutics
+T48	ResearchActivity 1599 1609	literature
+T49	ResearchActivity 294 300	review
+T50	HealthCareActivity 294 300	review
+T51	ResearchActivity 961 968	studies
+T52	TemporalConcept 954 960	Recent
+T53	CellFunction 1207 1217	expression
+T54	Cell 180 189	microglia
+T55	BiologicFunction 1450 1463	understanding
+T56	Cell 1501 1508	neurons
+T57	BiologicFunction 51 60	cognition
+T58	Finding 451 457	normal
+T59	HealthCareActivity 903 909	health
+T60	TemporalConcept 1529 1535	future
+T61	Cell 1349 1364	oligodendrocyte
+T62	Cell 165 175	astrocytes
+T63	CellFunction 1646 1659	remyelination
+T64	CellFunction 120 131	myelination
+T65	CellFunction 431 442	myelination
+T66	CellFunction 784 795	myelination
+T67	CellFunction 1035 1046	myelination
+T68	CellFunction 1266 1277	myelination
+T69	CellFunction 1412 1423	myelination
+T70	HealthCareActivity 1632 1641	therapies
+T71	AminoAcidPeptideOrProtein 1157 1176	GABAergic receptors
+T72	BiologicallyActiveSubstance 1157 1176	GABAergic receptors
+T73	PathologicFunction 985 996	dysfunction
+T74	BodyPartOrganOrOrganComponent 201 209	synapses
+T75	Cell 332 347	glial cell type
+T76	BodyPartOrganOrOrganComponent 19 37	neuronal circuitry
+T77	CellFunction 1085 1102	synapse formation
+T78	CellFunction 378 395	synapse formation
+T79	AminoAcidPeptideOrProtein 1139 1152;1167 1176	glutamatergic receptors
+T80	BiologicallyActiveSubstance 1139 1152;1167 1176	glutamatergic receptors
+T81	BiologicFunction 1317 1345	inhibitory neurotransmission

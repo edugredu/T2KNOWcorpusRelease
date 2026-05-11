@@ -1,0 +1,32 @@
+T0	Finding 19 26	problem
+T1	DiseaseOrSyndrome 30 55	neurodegenerative disease
+T2	Cell 89 96	neurons
+T3	CellFunction 135 149	neuronal death
+T4	DiseaseOrSyndrome 221 238	Alzheimer disease
+T5	DiseaseOrSyndrome 240 242	AD
+T6	DiseaseOrSyndrome 252 269	Parkinson disease
+T7	DiseaseOrSyndrome 271 273	PD
+T8	DiseaseOrSyndrome 276 305	amyotrophic lateral sclerosis
+T9	DiseaseOrSyndrome 307 310	ALS
+T10	Finding 369 391	neuronal vulnerability
+T11	DiseaseOrSyndrome 463 465	AD
+T12	DiseaseOrSyndrome 467 469	PD
+T13	DiseaseOrSyndrome 471 474	ALS
+T14	CellFunction 560 583	intercellular transport
+T15	AminoAcidPeptideOrProtein 591 601	HD protein
+T16	CellFunction 618 627	mitophagy
+T17	Finding 669 681	observations
+T18	Finding 704 726	striatal vulnerability
+T19	BodyPartOrganOrOrganComponent 104 109	brain
+T20	DiseaseOrSyndrome 337 339	HD
+T21	DiseaseOrSyndrome 480 482	HD
+T22	DiseaseOrSyndrome 730 732	HD
+T23	DiseaseOrSyndrome 317 335	Huntington disease
+T24	ResearchActivity 424 430	review
+T25	ResearchActivity 799 805	review
+T26	HealthCareActivity 424 430	review
+T27	HealthCareActivity 799 805	review
+T28	ResearchActivity 783 790	studies
+T29	CellFunction 160 168	pathways
+T30	CellOrMolecularDysfunction 591 601	HD protein
+T31	AminoAcidPeptideOrProtein 546 550	Rhes

@@ -1,0 +1,72 @@
+T0	HealthCareActivity 341 349	infusion
+T1	TemporalConcept 341 349	infusion
+T2	AminoAcidPeptideOrProtein 353 364	fractalkine
+T3	BiologicallyActiveSubstance 353 364	fractalkine
+T4	GeneOrGenome 366 372	CX3CL1
+T5	AminoAcidPeptideOrProtein 366 372	CX3CL1
+T6	BiologicallyActiveSubstance 366 372	CX3CL1
+T7	AminoAcidPeptideOrProtein 810 830	fractalkine receptor
+T8	AminoAcidPeptideOrProtein 831 837	CX3CR1
+T9	BiologicallyActiveSubstance 831 837	CX3CR1
+T10	AminoAcidPeptideOrProtein 885 896	fractalkine
+T11	BiologicallyActiveSubstance 885 896	fractalkine
+T12	CellFunction 802 809	express
+T13	BodyPartOrganOrOrganComponent 517 528	gray matter
+T14	BodyPartOrganOrOrganComponent 594 605	gray matter
+T15	BodyPartOrganOrOrganComponent 725 736	gray matter
+T16	ResearchActivity 873 884	co-cultures
+T17	ResearchActivity 876 884	cultures
+T18	Cell 82 98	oligodendrocytes
+T19	Cell 155 171	oligodendrocytes
+T20	Cell 237 241	OPCs
+T21	Cell 760 774	activated OPCs
+T22	Cell 560 563	OPC
+T23	Cell 617 620	OPC
+T24	Cell 859 862	OPC
+T25	Cell 968 971	OPC
+T26	Cell 204 235	oligodendrocyte precursor cells
+T27	PathologicFunction 1070 1083	demyelinating
+T28	BodyPartOrganOrOrganComponent 71 77	myelin
+T29	CellFunction 621 636	differentiation
+T30	CellFunction 916 948	oligo-dendrocyte differentiation
+T31	BiologicFunction 139 151	regeneration
+T32	CellFunction 617 636	OPC differentiation
+T33	CellFunction 564 577	proliferation
+T34	Cell 220 235	precursor cells
+T35	Cell 204 229	oligodendrocyte precursor
+T36	DiseaseOrSyndrome 0 23	Demyelinating disorders
+T37	BodyPartOrganOrOrganComponent 488 503	corpus callosum
+T38	BodyPartOrganOrOrganComponent 696 711	corpus callosum
+T39	Chemical 288 297	cuprizone
+T40	Cell 790 801	macrophages
+T41	HealthCareActivity 139 151	regeneration
+T42	BodyPartOrganOrOrganComponent 31 53	central nervous system
+T43	BodyPartOrganOrOrganComponent 55 58	CNS
+T44	BodyPartOrganOrOrganComponent 268 271	CNS
+T45	BodyPartOrganOrOrganComponent 404 409	brain
+T46	Cell 656 665	microglia
+T47	Cell 863 872	microglia
+T48	Cell 976 985	microglia
+T49	BodyPartOrganOrOrganComponent 272 278	tissue
+T50	ResearchActivity 907 915	in vitro
+T51	Eukaryote 397 403	murine
+T52	Cell 779 789	micro-glia
+T53	BiomedicalOccupationOrDiscipline 986 993	biology
+T54	ResearchActivity 838 845	in vivo
+T55	BodyPartOrganOrOrganComponent 508 516	cortical
+T56	BodyPartOrganOrOrganComponent 585 593	cortical
+T57	BodyPartOrganOrOrganComponent 716 724	cortical
+T58	Cell 428 443	oligodendrocyte
+T59	CellFunction 467 480	remyelination
+T60	PathologicFunction 313 326	demyelination
+T61	PopulationGroup 262 267	adult
+T62	ResearchActivity 298 309	mouse model
+T63	ResearchActivity 1084 1095	mouse model
+T64	BiologicFunction 986 993	biology
+T65	BiologicallyActiveSubstance 810 830	fractalkine receptor
+T66	CellFunction 420 453	de novo oligodendrocyte formation
+T67	CellFunction 666 687	macrophage activation
+T68	AminoAcidPeptideOrProtein 1052 1064	frac-talkine
+T69	BiologicallyActiveSubstance 1052 1064	frac-talkine
+T70	ExperimentalModelOfDisease 1070 1095	demyelinating mouse model
+T71	Eukaryote 397 403	murine

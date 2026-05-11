@@ -1,0 +1,132 @@
+T0	CellFunction 0 9	Mutations
+T1	AminoAcidPeptideOrProtein 13 31	glucocerebrosidase
+T2	BiologicallyActiveSubstance 13 31	glucocerebrosidase
+T3	AminoAcidPeptideOrProtein 33 36	GBA
+T4	GeneOrGenome 33 36	GBA
+T5	BiologicallyActiveSubstance 33 36	GBA
+T6	AminoAcidPeptideOrProtein 262 265	GBA
+T7	GeneOrGenome 262 265	GBA
+T8	BiologicallyActiveSubstance 262 265	GBA
+T9	DiseaseOrSyndrome 311 314	LBD
+T10	DiseaseOrSyndrome 466 469	LBD
+T11	AminoAcidPeptideOrProtein 501 504	GBA
+T12	GeneOrGenome 501 504	GBA
+T13	BiologicallyActiveSubstance 501 504	GBA
+T14	DiseaseOrSyndrome 529 532	LBD
+T15	CellFunction 561 584	sphingolipid metabolism
+T16	Finding 600 609	elevation
+T17	AminoAcidPeptideOrProtein 645 648	GBA
+T18	GeneOrGenome 645 648	GBA
+T19	BiologicallyActiveSubstance 645 648	GBA
+T20	DiseaseOrSyndrome 715 718	LBD
+T21	TemporalConcept 813 824	post-mortem
+T22	AminoAcidPeptideOrProtein 873 876	GBA
+T23	GeneOrGenome 873 876	GBA
+T24	BiologicallyActiveSubstance 873 876	GBA
+T25	DiseaseOrSyndrome 930 933	LBD
+T26	DiseaseOrSyndrome 1103 1106	LBD
+T27	ResearchActivity 1179 1188	wild-type
+T28	CellFunction 1390 1409	ceramide metabolism
+T29	DiseaseOrSyndrome 1427 1430	LBD
+T30	AminoAcidPeptideOrProtein 1488 1491	GBA
+T31	GeneOrGenome 1488 1491	GBA
+T32	BiologicallyActiveSubstance 1488 1491	GBA
+T33	DiseaseOrSyndrome 1567 1570	LBD
+T34	BodyPartOrganOrOrganComponent 942 956	frontal cortex
+T35	Finding 1593 1603	deficiency
+T36	AminoAcidPeptideOrProtein 428 437	synuclein
+T37	AminoAcidPeptideOrProtein 1046 1055	synuclein
+T38	AminoAcidPeptideOrProtein 1195 1204	synuclein
+T39	AminoAcidPeptideOrProtein 1246 1255	synuclein
+T40	AminoAcidPeptideOrProtein 1325 1334	synuclein
+T41	BiologicallyActiveSubstance 428 437	synuclein
+T42	BiologicallyActiveSubstance 1046 1055	synuclein
+T43	BiologicallyActiveSubstance 1195 1204	synuclein
+T44	BiologicallyActiveSubstance 1246 1255	synuclein
+T45	BiologicallyActiveSubstance 1325 1334	synuclein
+T46	AminoAcidPeptideOrProtein 422 437	alpha-synuclein
+T47	AminoAcidPeptideOrProtein 1040 1055	alpha-synuclein
+T48	AminoAcidPeptideOrProtein 1189 1204	alpha-synuclein
+T49	AminoAcidPeptideOrProtein 1240 1255	alpha-synuclein
+T50	AminoAcidPeptideOrProtein 1319 1334	alpha-synuclein
+T51	BiologicallyActiveSubstance 422 437	alpha-synuclein
+T52	BiologicallyActiveSubstance 1040 1055	alpha-synuclein
+T53	BiologicallyActiveSubstance 1189 1204	alpha-synuclein
+T54	BiologicallyActiveSubstance 1240 1255	alpha-synuclein
+T55	BiologicallyActiveSubstance 1319 1334	alpha-synuclein
+T56	CellOrMolecularDysfunction 877 885	mutation
+T57	DiseaseOrSyndrome 145 173	Parkinson's disease dementia
+T58	CellComponent 1579 1592	endolysosomal
+T59	PathologicFunction 1524 1544	pathological process
+T60	Finding 386 394	deficits
+T61	CellComponent 666 688	extracellular vesicles
+T62	CellComponent 690 692	EV
+T63	CellComponent 797 799	EV
+T64	CellComponent 913 915	EV
+T65	CellComponent 1107 1109	EV
+T66	DiseaseOrSyndrome 165 173	dementia
+T67	DiseaseOrSyndrome 178 186	dementia
+T68	DiseaseOrSyndrome 124 143	Parkinson's disease
+T69	DiseaseOrSyndrome 145 164	Parkinson's disease
+T70	PopulationGroup 474 482	controls
+T71	BodyPartOrganOrOrganComponent 846 849	CSF
+T72	BodyPartOrganOrOrganComponent 934 937	CSF
+T73	AminoAcidPeptideOrProtein 1060 1063	tau
+T74	ClinicalAttribute 1467 1477	biomarkers
+T75	BiologicallyActiveSubstance 1060 1063	tau
+T76	BodyPartOrganOrOrganComponent 825 844	cerebrospinal fluid
+T77	BodyPartOrganOrOrganComponent 448 460	brain tissue
+T78	BodyPartOrganOrOrganComponent 855 867	brain tissue
+T79	ResearchActivity 1078 1085	studies
+T80	PopulationGroup 886 894	carriers
+T81	AminoAcidPeptideOrProtein 771 779	proteins
+T82	AminoAcidPeptideOrProtein 1021 1029	proteins
+T83	ResearchActivity 1069 1077	in vitro
+T84	PathologicFunction 719 731	pathogenesis
+T85	CellFunction 574 584	metabolism
+T86	CellFunction 1399 1409	metabolism
+T87	BiologicFunction 574 584	metabolism
+T88	BiologicFunction 1399 1409	metabolism
+T89	CellOrMolecularDysfunction 996 1013	neurodegeneration
+T90	Finding 332 345	relationships
+T91	CellFunction 1164 1175	aggregation
+T92	ResearchActivity 1164 1175	aggregation
+T93	Chemical 760 766	lipids
+T94	Finding 61 80	genetic risk factor
+T95	TemporalConcept 1558 1566	sporadic
+T96	CellFunction 408 416	pathways
+T97	Chemical 561 573	sphingolipid
+T98	Chemical 982 991	ceramides
+T99	Chemical 613 621	ceramide
+T100	Chemical 1256 1264	ceramide
+T101	Chemical 1390 1398	ceramide
+T102	BiologicallyActiveSubstance 613 621	ceramide
+T103	BiologicallyActiveSubstance 1256 1264	ceramide
+T104	BiologicallyActiveSubstance 1390 1398	ceramide
+T105	BiologicallyActiveSubstance 982 991	ceramides
+T106	Finding 1285 1293	presence
+T107	CellComponent 192 203	Lewy bodies
+T108	DiseaseOrSyndrome 178 203	dementia with Lewy bodies
+T109	CellFunction 266 275	mutations
+T110	CellFunction 505 514	mutations
+T111	CellFunction 649 658	mutations
+T112	CellFunction 1492 1501	mutations
+T113	CellOrMolecularDysfunction 266 275	mutations
+T114	CellOrMolecularDysfunction 505 514	mutations
+T115	CellOrMolecularDysfunction 649 658	mutations
+T116	CellOrMolecularDysfunction 1492 1501	mutations
+T117	OrganismAttribute 622 629	species
+T118	PopulationGroup 899 911	non-carriers
+T119	DiseaseOrSyndrome 85 104	Lewy body disorders
+T120	DiseaseOrSyndrome 106 109	LBD
+T121	Finding 218 237	genetic association
+T122	CellOrMolecularDysfunction 0 9	Mutations
+T123	ClinicalAttribute 285 299	susceptibility
+T124	DiseaseOrSyndrome 354 357	LBD
+T125	AminoAcidPeptideOrProtein 367 385	glucocerebrosidase
+T126	BiologicallyActiveSubstance 367 385	glucocerebrosidase
+T127	BiologicallyActiveSubstance 396 399	GBA
+T128	AminoAcidPeptideOrProtein 396 399	GBA
+T129	GeneOrGenome 396 399	GBA
+T130	CellFunction 877 885	mutation
+T131	PathologicFunction 1123 1143	pathological package

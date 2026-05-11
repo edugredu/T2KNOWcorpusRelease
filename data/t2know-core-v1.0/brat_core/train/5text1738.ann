@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 128 155	neurodegenerative disorders
+T1	ResearchActivity 63 69	design
+T2	HealthCareActivity 63 69	design
+T3	HealthCareActivity 101 123	therapeutic approaches
+T4	Organism 11 16	yeast
+T5	ResearchActivity 23 50	synthetic biology platforms

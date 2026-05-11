@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 74 101	neurodegenerative disorders
+T1	Cell 146 153	neurons
+T2	HealthCareActivity 17 29	gene therapy
+T3	GeneOrGenome 17 21	gene
+T4	GeneOrGenome 116 133	therapeutic genes
+T5	Virus 0 10	Lentivirus
+T6	TemporalConcept 59 70	progression
+T7	PathologicFunction 59 70	progression

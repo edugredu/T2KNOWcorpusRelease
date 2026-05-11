@@ -1,0 +1,10 @@
+T0	DiseaseOrSyndrome 146 173	neurodegenerative disorders
+T1	ClinicalAttribute 99 109	biomarkers
+T2	ResearchActivity 73 82	discovery
+T3	ResearchActivity 19 27	datasets
+T4	Finding 122 141	diagnostic accuracy
+T5	MachineActivity 47 50	ASR
+T6	BiologicFunction 31 37	speech
+T7	Substance 38 45	samples
+T8	BodyPartOrganOrOrganComponent 38 45	samples
+T9	BiologicFunction 92 98	speech

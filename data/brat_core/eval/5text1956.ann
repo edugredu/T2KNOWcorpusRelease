@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 180 207	neurodegenerative processes
+T1	HealthCareActivity 28 46	imaging techniques
+T2	HealthCareActivity 56 84	optical coherence tomography
+T3	HealthCareActivity 86 89	OCT
+T4	BodyPartOrganOrOrganComponent 20 27	retinal
+T5	BodyPartOrganOrOrganComponent 127 134	retinal
+T6	Finding 135 142	changes

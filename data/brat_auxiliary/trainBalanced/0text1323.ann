@@ -1,0 +1,71 @@
+T0	SignOrSymptom 211 230	functional recovery
+T1	Chemical 232 261	Delta(9)-Tetrahydrocannabinol
+T2	Chemical 263 266	THC
+T3	Chemical 314 318	hemp
+T4	Organism 325 340	Cannabis sativa
+T5	Chemical 433 436	THC
+T6	Chemical 644 647	THC
+T7	Chemical 752 755	THC
+T8	Chemical 866 869	THC
+T9	Chemical 941 944	THC
+T10	HealthCareActivity 980 989	induction
+T11	AminoAcidPeptideOrProtein 1064 1088	CB1 cannabinoid receptor
+T12	Chemical 1160 1163	THC
+T13	CellFunction 350 365	neuroprotection
+T14	ResearchActivity 908 919;931 939	organotypic cultures
+T15	BodyPartOrganOrOrganComponent 440 446	myelin
+T16	CellFunction 1019 1034	differentiation
+T17	BiologicFunction 684 696	regeneration
+T18	BiologicFunction 796 808	regeneration
+T19	BodyPartOrganOrOrganComponent 810 822	white matter
+T20	BodyPartOrganOrOrganComponent 920 930	cerebellar
+T21	CellComponent 884 890	axonal
+T22	Cell 509 524	oligodendroglia
+T23	CellFunction 945 958	remyelinating
+T24	Cell 112 142	oligodendrocyte precursor cell
+T25	Cell 993 1018	oligodendrocyte precursor
+T26	BiologicFunction 841 855	motor function
+T27	HealthCareActivity 684 696	regeneration
+T28	HealthCareActivity 796 808	regeneration
+T29	ResearchActivity 23 31	Research
+T30	CellFunction 440 453	myelin repair
+T31	DiseaseOrSyndrome 35 58	demyelinating disorders
+T32	DiseaseOrSyndrome 1268 1291	demyelinating disorders
+T33	BodyPartOrganOrOrganComponent 170 192	central nervous system
+T34	ResearchActivity 1143 1148	study
+T35	BodyPartOrganOrOrganComponent 1247 1250	CNS
+T36	ResearchActivity 579 585	models
+T37	Finding 423 429	effect
+T38	Finding 634 640	effect
+T39	Eukaryote 543 548	mouse
+T40	Cell 668 683	oligodendrocyte
+T41	Cell 780 795	oligodendrocyte
+T42	Substance 78 87	molecules
+T43	BiologicFunction 222 230	recovery
+T44	BiologicFunction 856 864	recovery
+T45	HealthCareActivity 222 230	recovery
+T46	HealthCareActivity 856 864	recovery
+T47	TemporalConcept 222 230	recovery
+T48	TemporalConcept 856 864	recovery
+T49	CellFunction 193 206	remyelination
+T50	CellFunction 712 725	remyelination
+T51	CellFunction 823 836	remyelination
+T52	CellFunction 891 904	remyelination
+T53	CellFunction 1251 1264	remyelination
+T54	PathologicFunction 386 399	demyelination
+T55	PathologicFunction 603 616	demyelination
+T56	ResearchActivity 369 382	animal models
+T57	BiologicallyActiveSubstance 1064 1088	CB1 cannabinoid receptor
+T58	CellFunction 138 158	cell differentiation
+T59	BiologicFunction 447 453	repair
+T60	HealthCareActivity 447 453	repair
+T61	CellFunction 980 989	induction
+T62	ResearchActivity 509 554	oligodendroglia-specific reporter mouse lines
+T63	CellFunction 1040 1055	cell cycle exit
+T64	Organism 319 324	plant
+T65	ResearchActivity 478 499	Experimental approach
+T66	ExperimentalModelOfDisease 579 616	models of toxin-induced demyelination
+T67	InjuryOrPoisoning 589 594	toxin
+T68	BiologicallyActiveSubstance 589 594	toxin
+T69	HealthCareActivity 1194 1218	pharmacological strategy
+T70	CellFunction 1089 1099	activation

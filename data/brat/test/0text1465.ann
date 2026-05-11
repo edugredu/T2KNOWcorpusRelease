@@ -1,0 +1,95 @@
+T0	BodyPartOrganOrOrganComponent 460 463	BA6
+T1	BodyPartOrganOrOrganComponent 466 470	BA22
+T2	DiseaseOrSyndrome 781 806	Creutzfeldt-Jakob disease
+T3	DiseaseOrSyndrome 808 811	CJD
+T4	DiseaseOrSyndrome 1035 1038	CJD
+T5	CellOrMolecularDysfunction 1188 1209	synaptic degeneration
+T6	AminoAcidPeptideOrProtein 53 55	Ng
+T7	AminoAcidPeptideOrProtein 134 136	Ng
+T8	AminoAcidPeptideOrProtein 433 435	Ng
+T9	AminoAcidPeptideOrProtein 473 475	Ng
+T10	AminoAcidPeptideOrProtein 593 595	Ng
+T11	AminoAcidPeptideOrProtein 958 960	Ng
+T12	AminoAcidPeptideOrProtein 1044 1046	Ng
+T13	AminoAcidPeptideOrProtein 1135 1137	Ng
+T14	AminoAcidPeptideOrProtein 1158 1160	Ng
+T15	BiologicallyActiveSubstance 53 55	Ng
+T16	BiologicallyActiveSubstance 134 136	Ng
+T17	BiologicallyActiveSubstance 433 435	Ng
+T18	BiologicallyActiveSubstance 473 475	Ng
+T19	BiologicallyActiveSubstance 593 595	Ng
+T20	BiologicallyActiveSubstance 958 960	Ng
+T21	BiologicallyActiveSubstance 1044 1046	Ng
+T22	BiologicallyActiveSubstance 1135 1137	Ng
+T23	BiologicallyActiveSubstance 1158 1160	Ng
+T24	AminoAcidPeptideOrProtein 250 255	T-tau
+T25	AminoAcidPeptideOrProtein 748 753	T-tau
+T26	BiologicallyActiveSubstance 250 255	T-tau
+T27	BiologicallyActiveSubstance 748 753	T-tau
+T28	HealthCareActivity 1278 1300	differential diagnosis
+T29	BodyPartOrganOrOrganComponent 108 127	Cerebrospinal fluid
+T30	ResearchActivity 151 156	ELISA
+T31	AminoAcidPeptideOrProtein 40 51	neurogranin
+T32	BiologicallyActiveSubstance 40 51	neurogranin
+T33	TemporalConcept 536 543	staging
+T34	Finding 1087 1104;1108 1117	neuropathological hallmarks
+T35	PopulationGroup 415 431	control subjects
+T36	ResearchActivity 550 579	multilinear regression models
+T37	ClinicalAttribute 1237 1244	CSF tau
+T38	AminoAcidPeptideOrProtein 252 255	tau
+T39	AminoAcidPeptideOrProtein 750 753	tau
+T40	AminoAcidPeptideOrProtein 965 968	tau
+T41	AminoAcidPeptideOrProtein 1241 1244	tau
+T42	DiseaseOrSyndrome 61 80	Alzheimer's disease
+T43	BodyPartOrganOrOrganComponent 129 132	CSF
+T44	BodyPartOrganOrOrganComponent 1040 1043	CSF
+T45	BodyPartOrganOrOrganComponent 1154 1157	CSF
+T46	BodyPartOrganOrOrganComponent 1237 1240	CSF
+T47	BiologicallyActiveSubstance 252 255	tau
+T48	BiologicallyActiveSubstance 750 753	tau
+T49	BiologicallyActiveSubstance 965 968	tau
+T50	BiologicallyActiveSubstance 1241 1244	tau
+T51	DiseaseOrSyndrome 82 84	AD
+T52	DiseaseOrSyndrome 231 233	AD
+T53	DiseaseOrSyndrome 239 241	AD
+T54	DiseaseOrSyndrome 329 331	AD
+T55	DiseaseOrSyndrome 340 342	AD
+T56	DiseaseOrSyndrome 406 408	AD
+T57	DiseaseOrSyndrome 628 630	AD
+T58	DiseaseOrSyndrome 659 661	AD
+T59	DiseaseOrSyndrome 740 742	AD
+T60	DiseaseOrSyndrome 880 882	AD
+T61	DiseaseOrSyndrome 907 909	AD
+T62	DiseaseOrSyndrome 1105 1107	AD
+T63	DiseaseOrSyndrome 1275 1277	AD
+T64	ClinicalAttribute 1174 1183	biomarker
+T65	PopulationGroup 262 270	controls
+T66	PopulationGroup 351 359	controls
+T67	PopulationGroup 695 703	controls
+T68	PopulationGroup 929 937	controls
+T69	PopulationGroup 177 184	cohorts
+T70	DiseaseOrSyndrome 91 99	dementia
+T71	HealthCareActivity 1291 1300	diagnosis
+T72	ClinicalAttribute 969 979	biomarkers
+T73	Finding 25 36	specificity
+T74	PopulationGroup 507 513	groups
+T75	OrganismAttribute 209 212	age
+T76	OrganismAttribute 307 310	age
+T77	OrganismAttribute 361 364	age
+T78	TemporalConcept 223 228	years
+T79	TemporalConcept 321 326	years
+T80	TemporalConcept 374 379	years
+T81	BodyPartOrganOrOrganComponent 452 458	tissue
+T82	BodyPartOrganOrOrganComponent 1128 1134	tissue
+T83	PopulationGroup 100 106	cohort
+T84	PopulationGroup 836 842	cohort
+T85	HealthCareActivity 496 506	diagnostic
+T86	Finding 245 249	high
+T87	Finding 743 747	high
+T88	ClinicalAttribute 108 127;134 136	Cerebrospinal fluid Ng
+T89	HealthCareActivity 280 287	autopsy
+T90	HealthCareActivity 388 395	autopsy
+T91	ClinicalAttribute 593 610	Ng concentrations
+T92	ClinicalAttribute 1040 1061	CSF Ng concentrations
+T93	ClinicalAttribute 1128 1152	tissue Ng concentrations
+T94	ClinicalAttribute 1154 1160	CSF Ng

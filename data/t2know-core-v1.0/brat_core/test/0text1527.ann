@@ -1,0 +1,154 @@
+T0	BodyPartOrganOrOrganComponent 12 31	Cerebrospinal Fluid
+T1	CellFunction 335 349	Phosphorylated
+T2	PatientOrDisabledGroup 523 534	outpatients
+T3	TemporalConcept 669 674	Dates
+T4	BiologicFunction 786 794	deceased
+T5	BodyPartOrganOrOrganComponent 1000 1005	lower
+T6	ClinicalAttribute 1676 1689	survival time
+T7	TemporalConcept 1676 1689	survival time
+T8	HealthCareActivity 422 425	NHP
+T9	Eukaryote 1037 1040	NHP
+T10	HealthCareActivity 1668 1671	NHP
+T11	TemporalConcept 1304 1312	lifespan
+T12	Finding 150 166	predictive value
+T13	BiologicFunction 478 489	prospective
+T14	ResearchActivity 490 509	observational study
+T15	TemporalConcept 431 435	life
+T16	Finding 569 577	moderate
+T17	BiomedicalOccupationOrDiscipline 1775 1785	pathologic
+T18	CellOrMolecularDysfunction 1775 1789	pathologic tau
+T19	AminoAcidPeptideOrProtein 378 383	T-tau
+T20	AminoAcidPeptideOrProtein 837 842	T-tau
+T21	AminoAcidPeptideOrProtein 907 912	T-tau
+T22	AminoAcidPeptideOrProtein 1259 1264	T-tau
+T23	BiologicallyActiveSubstance 378 383	T-tau
+T24	BiologicallyActiveSubstance 837 842	T-tau
+T25	BiologicallyActiveSubstance 907 912	T-tau
+T26	BiologicallyActiveSubstance 1259 1264	T-tau
+T27	Finding 885 891	normal
+T28	Finding 818 826	abnormal
+T29	Finding 898 906	abnormal
+T30	BiologicFunction 1387 1403	cognitive status
+T31	OrganismAttribute 1198 1201	sex
+T32	HealthCareActivity 597 612	lumbar puncture
+T33	ResearchActivity 1219 1240	Cox regression models
+T34	TemporalConcept 1358 1363	older
+T35	Finding 1282 1292	predictors
+T36	TemporalConcept 431 446	life expectancy
+T37	ResearchActivity 1223 1240	regression models
+T38	ClinicalAttribute 298 320	CSF amyloid-beta(1-42)
+T39	TemporalConcept 171 176	later
+T40	BiologicFunction 703 708	death
+T41	BiologicFunction 1090 1095	death
+T42	BiologicFunction 1484 1489	death
+T43	BiologicFunction 1866 1871	death
+T44	PathologicFunction 703 708	death
+T45	PathologicFunction 1090 1095	death
+T46	PathologicFunction 1484 1489	death
+T47	PathologicFunction 1866 1871	death
+T48	CellFunction 703 708	death
+T49	CellFunction 1090 1095	death
+T50	CellFunction 1484 1489	death
+T51	CellFunction 1866 1871	death
+T52	TemporalConcept 861 868	earlier
+T53	TemporalConcept 1858 1865	earlier
+T54	AminoAcidPeptideOrProtein 355 360	P-tau
+T55	AminoAcidPeptideOrProtein 827 832	P-tau
+T56	AminoAcidPeptideOrProtein 892 897	P-tau
+T57	AminoAcidPeptideOrProtein 1065 1070	P-tau
+T58	AminoAcidPeptideOrProtein 1249 1254	P-tau
+T59	BiologicallyActiveSubstance 355 360	P-tau
+T60	BiologicallyActiveSubstance 827 832	P-tau
+T61	BiologicallyActiveSubstance 892 897	P-tau
+T62	BiologicallyActiveSubstance 1065 1070	P-tau
+T63	BiologicallyActiveSubstance 1249 1254	P-tau
+T64	AminoAcidPeptideOrProtein 350 353	tau
+T65	AminoAcidPeptideOrProtein 357 360	tau
+T66	AminoAcidPeptideOrProtein 367 376	Total tau
+T67	AminoAcidPeptideOrProtein 380 383	tau
+T68	AminoAcidPeptideOrProtein 829 832	tau
+T69	AminoAcidPeptideOrProtein 839 842	tau
+T70	AminoAcidPeptideOrProtein 894 897	tau
+T71	AminoAcidPeptideOrProtein 909 912	tau
+T72	AminoAcidPeptideOrProtein 1067 1070	tau
+T73	AminoAcidPeptideOrProtein 1251 1254	tau
+T74	AminoAcidPeptideOrProtein 1261 1264	tau
+T75	AminoAcidPeptideOrProtein 1422 1425	tau
+T76	AminoAcidPeptideOrProtein 1786 1789	tau
+T77	BodyPartOrganOrOrganComponent 33 36	CSF
+T78	BodyPartOrganOrOrganComponent 298 301	CSF
+T79	BodyPartOrganOrOrganComponent 618 621	CSF
+T80	BodyPartOrganOrOrganComponent 1179 1182	CSF
+T81	BodyPartOrganOrOrganComponent 1531 1534	CSF
+T82	BiologicallyActiveSubstance 350 353	tau
+T83	BiologicallyActiveSubstance 357 360	tau
+T84	BiologicallyActiveSubstance 367 376	Total tau
+T85	BiologicallyActiveSubstance 380 383	tau
+T86	BiologicallyActiveSubstance 829 832	tau
+T87	BiologicallyActiveSubstance 839 842	tau
+T88	BiologicallyActiveSubstance 894 897	tau
+T89	BiologicallyActiveSubstance 909 912	tau
+T90	BiologicallyActiveSubstance 1067 1070	tau
+T91	BiologicallyActiveSubstance 1251 1254	tau
+T92	BiologicallyActiveSubstance 1261 1264	tau
+T93	BiologicallyActiveSubstance 1422 1425	tau
+T94	BiologicallyActiveSubstance 1786 1789	tau
+T95	DiseaseOrSyndrome 135 137	AD
+T96	DiseaseOrSyndrome 578 580	AD
+T97	DiseaseOrSyndrome 1162 1164	AD
+T98	DiseaseOrSyndrome 1585 1587	AD
+T99	DiseaseOrSyndrome 1756 1758	AD
+T100	ClinicalAttribute 1535 1544	biomarker
+T101	PatientOrDisabledGroup 766 774	patients
+T102	HealthCareActivity 546 555	diagnosed
+T103	Finding 276 289	relationships
+T104	Finding 1620 1633	relationships
+T105	PopulationGroup 800 812	participants
+T106	AminoAcidPeptideOrProtein 302 309	amyloid
+T107	BiologicallyActiveSubstance 302 309	amyloid
+T108	DiseaseOrSyndrome 90 110	cognitive impairment
+T109	DiseaseOrSyndrome 114 133	Alzheimer's Disease
+T110	DiseaseOrSyndrome 1567 1575	dementia
+T111	HealthCareActivity 453 462	diagnosis
+T112	HealthCareActivity 1165 1174	diagnosis
+T113	HealthCareActivity 1319 1328	diagnosis
+T114	ClinicalAttribute 38 48	biomarkers
+T115	ClinicalAttribute 622 632	biomarkers
+T116	ClinicalAttribute 1183 1193	biomarkers
+T117	ClinicalAttribute 1704 1714	biomarkers
+T118	AminoAcidPeptideOrProtein 302 314	amyloid-beta
+T119	TemporalConcept 390 394	time
+T120	TemporalConcept 1029 1033	time
+T121	ResearchActivity 724 731	Results
+T122	Finding 1378 1403	baseline cognitive status
+T123	OrganismAttribute 1083 1086	age
+T124	OrganismAttribute 1206 1209	age
+T125	OrganismAttribute 1364 1367	age
+T126	OrganismAttribute 1840 1843	age
+T127	TemporalConcept 1576 1581	phase
+T128	HealthCareActivity 751 760	follow-up
+T129	TemporalConcept 751 760	follow-up
+T130	TemporalConcept 742 747	years
+T131	TemporalConcept 946 951	years
+T132	ResearchActivity 1333 1355	multivariate Cox model
+T133	HealthCareActivity 253 265	investigated
+T134	DiseaseOrSyndrome 85 110	mild cognitive impairment
+T135	TemporalConcept 1847 1852	onset
+T136	Finding 1397 1403	status
+T137	AminoAcidPeptideOrProtein 322 332	A beta(42)
+T138	AminoAcidPeptideOrProtein 1006 1016	A beta(42)
+T139	Finding 85 89	mild
+T140	Finding 561 565	mild
+T141	Finding 69 79	conversion
+T142	TemporalConcept 1075 1082	younger
+T143	TemporalConcept 1832 1839	younger
+T144	CellFunction 1147 1155	survival
+T145	ResearchActivity 1112 1124	correlations
+T146	PathologicFunction 1735 1752	pathophysiologies
+T147	HealthCareActivity 1459 1479	institutionalisation
+T148	HealthCareActivity 398 420	Nursing Home Placement
+T149	ResearchActivity 652 667	xMAP technology
+T150	HealthCareActivity 678 698	institutionalisation
+T151	ClinicalAttribute 1639 1658	clinical end-points
+T152	BiologicallyActiveSubstance 322 332	A beta(42)
+T153	BiologicallyActiveSubstance 1006 1016	A beta(42)

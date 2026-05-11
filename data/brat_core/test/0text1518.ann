@@ -1,0 +1,51 @@
+T0	HealthCareActivity 224 268	spectral domain optical coherence tomography
+T1	BodyPartOrganOrOrganComponent 434 473	peripapillary retinal nerve fiber layer
+T2	HealthCareActivity 240 268	optical coherence tomography
+T3	Cell 408 421	ganglion cell
+T4	CellOrMolecularDysfunction 1060 1077	neurodegeneration
+T5	DiseaseOrSyndrome 153 172	Alzheimer's disease
+T6	PatientOrDisabledGroup 103 111	patients
+T7	PatientOrDisabledGroup 292 300	patients
+T8	PatientOrDisabledGroup 313 321	patients
+T9	PatientOrDisabledGroup 503 511	patients
+T10	ResearchActivity 375 382	Results
+T11	DiseaseOrSyndrome 174 176	AD
+T12	DiseaseOrSyndrome 306 308	AD
+T13	DiseaseOrSyndrome 492 494	AD
+T14	DiseaseOrSyndrome 545 547	AD
+T15	DiseaseOrSyndrome 1039 1041	AD
+T16	ClinicalAttribute 77 86	biomarker
+T17	Finding 345 351	normal
+T18	ResearchActivity 29 34	study
+T19	BodyPartOrganOrOrganComponent 591 611	inner retinal layers
+T20	BodyPartOrganOrOrganComponent 985 1004	inner retinal layer
+T21	PopulationGroup 365 373	subjects
+T22	PopulationGroup 535 543	subjects
+T23	DiseaseOrSyndrome 144 147	MCI
+T24	DiseaseOrSyndrome 327 330	MCI
+T25	DiseaseOrSyndrome 499 502	MCI
+T26	DiseaseOrSyndrome 565 568	MCI
+T27	DiseaseOrSyndrome 631 634	MCI
+T28	DiseaseOrSyndrome 117 142	mild cognitive impairment
+T29	ResearchActivity 516 526	comparison
+T30	Cell 417 421	cell
+T31	PopulationGroup 361 363	NC
+T32	PopulationGroup 532 534	NC
+T33	PopulationGroup 552 554	NC
+T34	PopulationGroup 573 575	NC
+T35	PopulationGroup 680 682	NC
+T36	ClinicalAttribute 1042 1048	marker
+T37	ClinicalAttribute 762 774	brain volume
+T38	ClinicalAttribute 54 71	retinal thickness
+T39	ClinicalAttribute 191 208	retinal thickness
+T40	ClinicalAttribute 387 404	retinal thickness
+T41	ClinicalAttribute 740 757	retinal thickness
+T42	ClinicalAttribute 826 859	inner perifovea retinal thickness
+T43	ClinicalAttribute 951 968	retinal thickness
+T44	ClinicalAttribute 884 908	entorhinal cortex volume
+T45	ClinicalAttribute 868 879;902 908	hippocampal volume
+T46	ClinicalAttribute 985 1014	inner retinal layer thickness
+T47	BodyPartOrganOrOrganComponent 615 627	macular area
+T48	Finding 645 665	significant thinning
+T49	Finding 695 717	Remarkable association
+T50	Finding 786 804	Better correlation

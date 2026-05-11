@@ -1,0 +1,96 @@
+T0	DiseaseOrSyndrome 67 76	tauopathy
+T1	DiseaseOrSyndrome 447 456	tauopathy
+T2	AminoAcidPeptideOrProtein 610 619	glutamate
+T3	BiologicallyActiveSubstance 610 619	glutamate
+T4	AminoAcidPeptideOrProtein 871 880	glutamate
+T5	BiologicallyActiveSubstance 871 880	glutamate
+T6	ResearchActivity 901 909	cultured
+T7	AminoAcidPeptideOrProtein 1137 1143	VGlut1
+T8	BiologicallyActiveSubstance 1137 1143	VGlut1
+T9	AminoAcidPeptideOrProtein 1322 1328	VGlut1
+T10	GeneOrGenome 1322 1328	VGlut1
+T11	AminoAcidPeptideOrProtein 1471 1477	VGlut1
+T12	GeneOrGenome 1471 1477	VGlut1
+T13	AminoAcidPeptideOrProtein 1547 1556	glutamate
+T14	BiologicallyActiveSubstance 1547 1556	glutamate
+T15	AminoAcidPeptideOrProtein 1616 1625	glutamate
+T16	BiologicallyActiveSubstance 1616 1625	glutamate
+T17	CellFunction 1689 1707	vesicle exocytosis
+T18	PopulationGroup 527 532	adult
+T19	CellOrMolecularDysfunction 265 285	synaptic alterations
+T20	ResearchActivity 1151 1171	immunohistochemistry
+T21	TemporalConcept 186 200	simultaneously
+T22	CellComponent 562 573	presynaptic
+T23	CellComponent 703 714	presynaptic
+T24	CellComponent 736 747	presynaptic
+T25	CellComponent 846 857	presynaptic
+T26	CellComponent 997 1008	presynaptic
+T27	CellComponent 1063 1083	presynaptic vesicles
+T28	BiologicFunction 483 500	hyperexcitability
+T29	CellFunction 4 22	molecular pathways
+T30	CellFunction 307 325	molecular pathways
+T31	SignOrSymptom 55 63	symptoms
+T32	ResearchActivity 457 468	mouse model
+T33	TemporalConcept 939 943	days
+T34	ResearchActivity 944 952	in vitro
+T35	PathologicFunction 232 243	progression
+T36	TemporalConcept 232 243	progression
+T37	DiseaseOrSyndrome 95 114	Alzheimer's disease
+T38	DiseaseOrSyndrome 116 118	AD
+T39	DiseaseOrSyndrome 390 392	AD
+T40	Cell 1181 1186	cells
+T41	BiologicallyActiveSubstance 431 434	Tau
+T42	AminoAcidPeptideOrProtein 431 434	Tau
+T43	TemporalConcept 214 220	stages
+T44	AminoAcidPeptideOrProtein 835 838	tau
+T45	AminoAcidPeptideOrProtein 1020 1030	tau(P301L)
+T46	AminoAcidPeptideOrProtein 1268 1278	tau(P301L)
+T47	AminoAcidPeptideOrProtein 1353 1363	tau(P301L)
+T48	AminoAcidPeptideOrProtein 1645 1655	tau(P301L)
+T49	TemporalConcept 46 51	onset
+T50	TemporalConcept 421 426	onset
+T51	BiologicallyActiveSubstance 835 838	tau
+T52	BiologicallyActiveSubstance 1020 1030	tau(P301L)
+T53	BiologicallyActiveSubstance 1268 1278	tau(P301L)
+T54	BiologicallyActiveSubstance 1353 1363	tau(P301L)
+T55	BiologicallyActiveSubstance 1645 1655	tau(P301L)
+T56	BodyPartOrganOrOrganComponent 265 273	synaptic
+T57	Eukaryote 533 537	mice
+T58	Eukaryote 1656 1660	mice
+T59	Cell 504 523	hippocampal neurons
+T60	Cell 910 929	hippocampal neurons
+T61	Cell 1288 1295	neurons
+T62	CellComponent 596 609	extracellular
+T63	CellComponent 666 679	extracellular
+T64	CellComponent 1533 1546	extracellular
+T65	CellComponent 1602 1615	extracellular
+T66	ResearchActivity 77 83	models
+T67	Eukaryote 964 971	animals
+T68	CellComponent 1333 1340	vesicle
+T69	CellComponent 1482 1489	vesicle
+T70	CellComponent 1789 1805	synaptic vesicle
+T71	PathologicFunction 824 834	pathogenic
+T72	PathologicFunction 224 243	disease progression
+T73	ExperimentalModelOfDisease 447 468	tauopathy mouse model
+T74	Finding 357 380	pharmacological targets
+T75	ExperimentalModelOfDisease 427 446	rTg(Tau(P301L))4510
+T76	PathologicFunction 483 500	hyperexcitability
+T77	AminoAcidPeptideOrProtein 680 689	glutamate
+T78	BiologicallyActiveSubstance 680 689	glutamate
+T79	Finding 736 755	presynaptic changes
+T80	Finding 562 581	presynaptic changes
+T81	Finding 703 722	presynaptic changes
+T82	CellFunction 846 866	presynaptic function
+T83	CellFunction 871 888	glutamate release
+T84	TemporalConcept 954 957	DIV
+T85	Finding 997 1016	presynaptic changes
+T86	OrganismAttribute 980 985	sexes
+T87	ExperimentalModelOfDisease 1020 1044	tau(P301L) positive mice
+T88	ResearchActivity 1206 1253	pH-sensitive green fluorescent protein approach
+T89	AminoAcidPeptideOrProtein 1406 1438	extracellular glutamate reporter
+T90	BiologicallyActiveSubstance 1406 1438	extracellular glutamate reporter
+T91	AminoAcidPeptideOrProtein 1439 1447	iGluSnFR
+T92	BiologicallyActiveSubstance 1439 1447	iGluSnFR
+T93	Finding 1708 1719	probability
+T94	AminoAcidPeptideOrProtein 1765 1784	VGlut1 transporters
+T95	BiologicallyActiveSubstance 1765 1784	VGlut1 transporters

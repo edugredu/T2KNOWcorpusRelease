@@ -1,0 +1,7 @@
+T0	BiologicFunction 33 43	experience
+T1	PatientOrDisabledGroup 24 32	patients
+T2	DiseaseOrSyndrome 5 23	multiple sclerosis
+T3	PharmacologicSubstance 84 95	medications
+T4	Substance 73 83	suspension
+T5	HealthCareActivity 129 143	treatment plan
+T6	PathologicFunction 44 61	adverse reactions

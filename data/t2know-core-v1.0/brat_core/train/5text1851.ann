@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 150 176	neurodegenerative diseases
+T1	TemporalConcept 62 69	chronic
+T2	Organism 29 37	pathogen
+T3	Finding 121 135	increased risk
+T4	Bacterium 0 13	P. gingivalis
+T5	DiseaseOrSyndrome 70 83	periodontitis
+T6	BodyPartOrganOrOrganComponent 17 28	periodontal

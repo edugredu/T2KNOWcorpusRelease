@@ -1,0 +1,76 @@
+T0	NucleicAcidNucleosideOrNucleotide 89 113	CAG trinucleotide repeat
+T1	DiseaseOrSyndrome 455 479	psychiatric dysfunctions
+T2	PathologicFunction 937 965	neuropathological mechanisms
+T3	GeneOrGenome 266 270	mHTT
+T4	AminoAcidPeptideOrProtein 266 270	mHTT
+T5	AminoAcidPeptideOrProtein 563 567	mHTT
+T6	AminoAcidPeptideOrProtein 650 654	mHTT
+T7	CellOrMolecularDysfunction 266 270	mHTT
+T8	CellOrMolecularDysfunction 563 567	mHTT
+T9	CellOrMolecularDysfunction 650 654	mHTT
+T10	CellOrMolecularDysfunction 254 260	mutant
+T11	BodyPartOrganOrOrganComponent 338 346	striatum
+T12	HealthCareActivity 871 893	therapeutic approaches
+T13	HealthCareActivity 984 1006	therapeutic approaches
+T14	BiologicFunction 912 925	understanding
+T15	BodyPartOrganOrOrganComponent 358 378	regions of the brain
+T16	BiologicFunction 803 808	death
+T17	PathologicFunction 803 808	death
+T18	PathologicFunction 467 479	dysfunctions
+T19	CellFunction 694 709	transcriptional
+T20	PathologicFunction 826 849	pathological conditions
+T21	CellFunction 803 808	death
+T22	TemporalConcept 851 857	Lastly
+T23	CellFunction 203 225	ubiquitously expressed
+T24	NucleicAcidNucleosideOrNucleotide 129 135	exon 1
+T25	InjuryOrPoisoning 289 297	toxicity
+T26	CellComponent 170 182	chromosome 4
+T27	GeneOrGenome 139 160	Huntingtin (HTT) gene
+T28	CellFunction 665 689	epigenetic modifications
+T29	NucleicAcidNucleosideOrNucleotide 129 133	exon
+T30	SignOrSymptom 383 391	symptoms
+T31	TemporalConcept 1020 1025	onset
+T32	BodyPartOrganOrOrganComponent 233 238	brain
+T33	BodyPartOrganOrOrganComponent 373 378	brain
+T34	CellFunction 710 718	pathways
+T35	CellFunction 775 783	pathways
+T36	Cell 601 621	medium spiny neurons
+T37	PathologicFunction 318 330	degeneration
+T38	Eukaryote 164 169	human
+T39	Cell 759 763	cell
+T40	ResearchActivity 862 870	overview
+T41	GeneOrGenome 151 154	HTT
+T42	GeneOrGenome 188 191	HTT
+T43	GeneOrGenome 261 264	HTT
+T44	GeneOrGenome 533 546	wild type HTT
+T45	AminoAcidPeptideOrProtein 151 154	HTT
+T46	AminoAcidPeptideOrProtein 188 191	HTT
+T47	AminoAcidPeptideOrProtein 261 264	HTT
+T48	AminoAcidPeptideOrProtein 533 546	wild type HTT
+T49	PathologicFunction 1030 1041	progression
+T50	TemporalConcept 1030 1041	progression
+T51	CellFunction 216 225	expressed
+T52	BiologicallyActiveSubstance 151 154	HTT
+T53	BiologicallyActiveSubstance 188 191	HTT
+T54	BiologicallyActiveSubstance 261 264	HTT
+T55	BiologicallyActiveSubstance 533 546	wild type HTT
+T56	DiseaseOrSyndrome 0 20	Huntington's disease
+T57	DiseaseOrSyndrome 22 24	HD
+T58	DiseaseOrSyndrome 380 382	HD
+T59	DiseaseOrSyndrome 823 825	HD
+T60	DiseaseOrSyndrome 898 900	HD
+T61	DiseaseOrSyndrome 969 971	HD
+T62	DiseaseOrSyndrome 1045 1047	HD
+T63	ResearchActivity 489 495	review
+T64	HealthCareActivity 489 495	review
+T65	DiseaseOrSyndrome 36 62	neurodegenerative disorder
+T66	Cell 623 627	MSNs
+T67	Cell 722 726	MSNs
+T68	Cell 812 816	MSNs
+T69	TemporalConcept 31 35	rare
+T70	GeneOrGenome 548 553	wtHTT
+T71	CellOrMolecularDysfunction 76 113	expansion of CAG trinucleotide repeat
+T72	SignOrSymptom 402 428	major involuntary movement
+T73	BiologicallyActiveSubstance 548 553	wtHTT
+T74	AminoAcidPeptideOrProtein 548 553	wtHTT
+T75	InjuryOrPoisoning 792 798	damage

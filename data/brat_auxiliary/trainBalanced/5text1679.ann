@@ -1,0 +1,9 @@
+T0	DiseaseOrSyndrome 106 132	neurodegenerative diseases
+T1	ResearchActivity 154 162	research
+T2	CellFunction 59 80	epigenetic regulation
+T3	GeneOrGenome 84 89	genes
+T4	BiologicFunction 0 13	Understanding
+T5	Substance 28 41	tobacco smoke
+T6	EnvironmentalEffectOfHumans 28 51	tobacco smoke pollution
+T7	EnvironmentalEffectOfHumans 42 51	pollution
+T8	EnvironmentalEffectOfHumans 36 51	smoke pollution

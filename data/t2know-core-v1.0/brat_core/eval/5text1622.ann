@@ -1,0 +1,9 @@
+T0	Bacterium 39 47	bacteria
+T1	Bacterium 0 11;39 47	Spirochetes bacteria
+T2	Bacterium 0 11	Spirochetes
+T3	Bacterium 16 29;39 47	gram-negative bacteria
+T4	Bacterium 16 29	gram-negative
+T5	Bacterium 31 47	helical bacteria
+T6	PathologicFunction 54 66	neurotropism
+T7	BodyPartOrganOrOrganComponent 75 85;99 104	trigeminal nerve
+T8	BodyPartOrganOrOrganComponent 75 94	trigeminal ganglion

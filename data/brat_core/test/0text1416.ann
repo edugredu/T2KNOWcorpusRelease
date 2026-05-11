@@ -1,0 +1,110 @@
+T0	DiseaseOrSyndrome 43 83	secondary progressive multiple sclerosis
+T1	HealthCareActivity 280 308	Optical coherence tomography
+T2	Finding 1339 1349	converters
+T3	BodyPartOrganOrOrganComponent 1614 1620	layers
+T4	Finding 1665 1675	converters
+T5	TemporalConcept 853 871	observation period
+T6	Finding 1476 1490	no differences
+T7	Finding 663 679	retinal thinning
+T8	Finding 2179 2195	retinal thinning
+T9	Finding 2244 2260	retinal thinning
+T10	TemporalConcept 100 107	delayed
+T11	DiseaseOrSyndrome 488 510	relapsing-remitting MS
+T12	HealthCareActivity 912 928	disease duration
+T13	TemporalConcept 920 928	duration
+T14	BiologicFunction 698 709	prospective
+T15	TemporalConcept 912 928	disease duration
+T16	DiseaseOrSyndrome 85 89	SPMS
+T17	DiseaseOrSyndrome 535 539	SPMS
+T18	DiseaseOrSyndrome 593 597	SPMS
+T19	DiseaseOrSyndrome 837 841	SPMS
+T20	DiseaseOrSyndrome 1353 1357	SPMS
+T21	DiseaseOrSyndrome 1446 1450	SPMS
+T22	DiseaseOrSyndrome 1950 1954	SPMS
+T23	DiseaseOrSyndrome 2157 2161	SPMS
+T24	DiseaseOrSyndrome 2293 2297	SPMS
+T25	DiseaseOrSyndrome 275 277	MS
+T26	DiseaseOrSyndrome 748 750	MS
+T27	DiseaseOrSyndrome 2362 2364	MS
+T28	DiseaseOrSyndrome 243 273	progressive multiple sclerosis
+T29	ResearchActivity 216 239	therapeutic development
+T30	Finding 403 423	longitudinal changes
+T31	Finding 2279 2289	transition
+T32	BodyPartOrganOrOrganComponent 1734 1773	peripapillary retinal nerve fiber layer
+T33	HealthCareActivity 310 313	OCT
+T34	HealthCareActivity 464 467	OCT
+T35	HealthCareActivity 1044 1063	spectral domain OCT
+T36	HealthCareActivity 1105 1108	OCT
+T37	HealthCareActivity 2212 2215	OCT
+T38	BodyPartOrganOrOrganComponent 446 460	retinal layers
+T39	BodyPartOrganOrOrganComponent 1003 1010	retinal
+T40	BodyPartOrganOrOrganComponent 1270 1277	retinal
+T41	BodyPartOrganOrOrganComponent 1523 1530	retinal
+T42	BodyPartOrganOrOrganComponent 1606 1613	retinal
+T43	TemporalConcept 1906 1910	rate
+T44	TemporalConcept 981 986	first
+T45	DiseaseOrSyndrome 512 516	RRMS
+T46	DiseaseOrSyndrome 565 569	RRMS
+T47	DiseaseOrSyndrome 815 819	RRMS
+T48	DiseaseOrSyndrome 890 894	RRMS
+T49	DiseaseOrSyndrome 1458 1462	RRMS
+T50	HealthCareActivity 934 966	Expanded Disability Status Scale
+T51	HealthCareActivity 968 972	EDSS
+T52	OrganismAttribute 1503 1518	characteristics
+T53	ResearchActivity 1208 1225	regression models
+T54	ClinicalAttribute 338 357	promising biomarker
+T55	TemporalConcept 361 372	progressive
+T56	PatientOrDisabledGroup 551 559	patients
+T57	PatientOrDisabledGroup 734 742	patients
+T58	PatientOrDisabledGroup 801 809	patients
+T59	PatientOrDisabledGroup 876 884	patients
+T60	PatientOrDisabledGroup 1073 1081	patients
+T61	PatientOrDisabledGroup 1936 1944	patients
+T62	PatientOrDisabledGroup 2348 2356	patients
+T63	PopulationGroup 628 635	cohorts
+T64	HealthCareActivity 987 992	visit
+T65	PopulationGroup 1415 1427	participants
+T66	PopulationGroup 471 482	individuals
+T67	TemporalConcept 1170 1176	period
+T68	HealthCareActivity 30 39	diagnosis
+T69	ResearchActivity 1164 1169	study
+T70	HealthCareActivity 2217 2240	Longitudinal assessment
+T71	Finding 1294 1305	differences
+T72	Finding 1999 2010	differences
+T73	PathologicFunction 2392 2411	disease progression
+T74	TemporalConcept 1358 1364	before
+T75	TemporalConcept 1676 1682	before
+T76	TemporalConcept 1955 1961	before
+T77	ResearchActivity 1393 1400	Results
+T78	PopulationGroup 1320 1326	groups
+T79	PopulationGroup 1558 1564	groups
+T80	OrganismAttribute 907 910	age
+T81	TemporalConcept 1187 1192	years
+T82	TemporalConcept 1131 1137	months
+T83	HealthCareActivity 1011 1023	measurements
+T84	HealthCareActivity 1531 1543	measurements
+T85	HealthCareRelatedOrganization 758 787	American University of Beirut
+T86	PatientOrDisabledGroup 2131 2139	Patients
+T87	CellOrMolecularDysfunction 373 390	neurodegeneration
+T88	HealthCareActivity 1109 1119	evaluation
+T89	ResearchActivity 1109 1119	evaluation
+T90	Finding 1381 1391	conversion
+T91	Finding 1683 1693	conversion
+T92	Finding 1972 1982	conversion
+T93	PopulationGroup 724 730	cohort
+T94	Finding 177 199	diagnostic uncertainty
+T95	ClinicalAttribute 431 460	thicknesses of retinal layers
+T96	BiologicFunction 2328 2343	decision making
+T97	Finding 2370 2388	clinical suspicion
+T98	BodyPartOrganOrOrganComponent 2033 2038	tRNFL
+T99	BodyPartOrganOrOrganComponent 2043 2048	GCIPL
+T100	TemporalConcept 2076 2090	postconversion
+T101	TemporalConcept 1581 1586	rates
+T102	Finding 1590 1598	thinning
+T103	ClinicalAttribute 1633 1647	macular volume
+T104	BodyPartOrganOrOrganComponent 1796 1801	tRNFL
+T105	BodyPartOrganOrOrganComponent 1828 1854	cell-inner plexiform layer
+T106	BodyPartOrganOrOrganComponent 1856 1861	GCIPL
+T107	Finding 1914 1922	thinning
+T108	TemporalConcept 2070 2075	rates
+T109	Finding 2061 2069	thinning

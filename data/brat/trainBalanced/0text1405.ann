@@ -1,0 +1,103 @@
+T0	OrganismAttribute 89 102	heterogeneous
+T1	BiologicFunction 156 168	iron content
+T2	CellFunction 256 268	remyelinated
+T3	ResearchActivity 809 827	longitudinal study
+T4	TemporalConcept 864 873	evolution
+T5	TemporalConcept 905 915	postmortem
+T6	ResearchActivity 916 951	histopathology-QSM validation study
+T7	ResearchActivity 1090 1097	Results
+T8	HealthCareActivity 1246 1255	follow-up
+T9	TemporalConcept 1246 1255	follow-up
+T10	HealthCareActivity 1310 1329	Postmortem analyses
+T11	TemporalConcept 1310 1320	Postmortem
+T12	ResearchActivity 854 859	study
+T13	Finding 1714 1722	evidence
+T14	ResearchActivity 29 36	studies
+T15	ResearchActivity 330 337	studies
+T16	ClinicalAttribute 1827 1837	biomarkers
+T17	TemporalConcept 892 897	years
+T18	Finding 1428 1439	sensitivity
+T19	Finding 1520 1531	sensitivity
+T20	Finding 1619 1630	sensitivity
+T21	Finding 1453 1464	specificity
+T22	Finding 1545 1556	specificity
+T23	Finding 1644 1655	specificity
+T24	ResearchActivity 278 285	in vivo
+T25	HealthCareActivity 1860 1884	remyelinating treatments
+T26	ResearchActivity 1860 1884	remyelinating treatments
+T27	OrganismAttribute 422 429	healthy
+T28	DiseaseOrSyndrome 73 75	MS
+T29	DiseaseOrSyndrome 303 305	MS
+T30	DiseaseOrSyndrome 412 414	MS
+T31	DiseaseOrSyndrome 848 850	MS
+T32	DiseaseOrSyndrome 981 983	MS
+T33	DiseaseOrSyndrome 1766 1768	MS
+T34	TemporalConcept 1241 1245	year
+T35	HealthCareActivity 454 484	3 T magnetic resonance imaging
+T36	ManufacturedObject 454 484	3 T magnetic resonance imaging
+T37	HealthCareActivity 486 489	MRI
+T38	TemporalConcept 223 230	chronic
+T39	TemporalConcept 1478 1485	chronic
+T40	TemporalConcept 1576 1583	chronic
+T41	TemporalConcept 1758 1765	chronic
+T42	PatientOrDisabledGroup 289 297	patients
+T43	PatientOrDisabledGroup 398 406	patients
+T44	PatientOrDisabledGroup 834 842	patients
+T45	PatientOrDisabledGroup 967 975	patients
+T46	DiseaseOrSyndrome 53 71	multiple sclerosis
+T47	PopulationGroup 384 390	cohort
+T48	BiologicFunction 372 383	prospective
+T49	PharmacologicSubstance 156 160	iron
+T50	Chemical 156 160	iron
+T51	BiologicallyActiveSubstance 156 160	iron
+T52	BiologicFunction 138 144	repair
+T53	HealthCareActivity 138 144	repair
+T54	BodyPartOrganOrOrganComponent 619 621	WM
+T55	BodyPartOrganOrOrganComponent 1078 1080	WM
+T56	InjuryOrPoisoning 77 84	lesions
+T57	InjuryOrPoisoning 269 276	lesions
+T58	InjuryOrPoisoning 623 630	lesions
+T59	InjuryOrPoisoning 720 727	lesions
+T60	InjuryOrPoisoning 756 763	lesions
+T61	InjuryOrPoisoning 877 884	lesions
+T62	InjuryOrPoisoning 1081 1088	lesions
+T63	InjuryOrPoisoning 1132 1139	lesions
+T64	InjuryOrPoisoning 1275 1282	lesions
+T65	InjuryOrPoisoning 1495 1502	lesions
+T66	InjuryOrPoisoning 1602 1609	lesions
+T67	InjuryOrPoisoning 1769 1776	lesions
+T68	TemporalConcept 1708 1713	first
+T69	BodyPartOrganOrOrganComponent 115 121	myelin
+T70	BodyPartOrganOrOrganComponent 538 544	myelin
+T71	CellComponent 115 121	myelin
+T72	CellComponent 538 544	myelin
+T73	InjuryOrPoisoning 231 237	lesion
+T74	InjuryOrPoisoning 665 671	lesion
+T75	InjuryOrPoisoning 1059 1065	lesion
+T76	InjuryOrPoisoning 1200 1206	lesion
+T77	BodyPartOrganOrOrganComponent 605 617	White matter
+T78	HealthCareActivity 477 484	imaging
+T79	ResearchActivity 345 366	cross-sectional study
+T80	PopulationGroup 422 438	healthy controls
+T81	HealthCareActivity 192 201	challenge
+T82	BodyPartOrganOrOrganComponent 957 963	brains
+T83	CellComponent 122 126	axon
+T84	CellOrMolecularDysfunction 115 133	myelin/axon damage
+T85	HealthCareActivity 495 530	quantitative susceptibility mapping
+T86	ManufacturedObject 495 530	quantitative susceptibility mapping
+T87	HealthCareActivity 532 535	QSM
+T88	ManufacturedObject 532 535	QSM
+T89	ResearchActivity 538 559	myelin water fraction
+T90	ResearchActivity 571 592;599 603	neurite density index maps
+T91	Chemical 545 550	water
+T92	HealthCareActivity 634 637	QSM
+T93	BiologicFunction 864 873	evolution
+T94	ResearchActivity 1167 1170	NDI
+T95	ResearchActivity 1159 1162	MWF
+T96	HealthCareActivity 1196 1199	QSM
+T97	ResearchActivity 1305 1308	MWF
+T98	HealthCareActivity 1344 1347	QSM
+T99	ResearchActivity 594 597	NDI
+T100	HealthCareActivity 661 664	QSM
+T101	ResearchActivity 561 564	MWF
+T102	HealthCareActivity 1782 1798	clinical setting

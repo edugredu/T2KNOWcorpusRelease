@@ -1,0 +1,50 @@
+T0	DiseaseOrSyndrome 32 67	autosomal neurodegenerative disease
+T1	SignOrSymptom 107 127	psychiatric symptoms
+T2	DiseaseOrSyndrome 129 149	Cognitive impairment
+T3	PatientOrDisabledGroup 172 183	HD patients
+T4	DiseaseOrSyndrome 210 238	severe cognitive dysfunction
+T5	HealthCareActivity 244 273	Montreal Cognitive Assessment
+T6	HealthCareActivity 275 279	MoCA
+T7	DiseaseOrSyndrome 335 360	mild cognitive impairment
+T8	PatientOrDisabledGroup 420 431	HD patients
+T9	HealthCareActivity 467 471	MoCA
+T10	PatientOrDisabledGroup 518 529	HD patients
+T11	ResearchActivity 590 598	analyzed
+T12	Finding 602 619	cortical thinning
+T13	BodyPartOrganOrOrganComponent 624 642	subcortical nuclei
+T14	PatientOrDisabledGroup 678 689	HD patients
+T15	HealthCareActivity 691 695	MoCA
+T16	PatientOrDisabledGroup 720 731	HD patients
+T17	PopulationGroup 747 763	healthy subjects
+T18	ClinicalAttribute 859 885	subcortical nuclei volumes
+T19	HealthCareActivity 955 959	MoCA
+T20	PatientOrDisabledGroup 982 993	HD patients
+T21	HealthCareActivity 1005 1009	MoCA
+T22	Finding 1038 1055	cortical thinning
+T23	ClinicalAttribute 1123 1147	bilateral caudate volume
+T24	PatientOrDisabledGroup 1163 1174	HD patients
+T25	DiseaseOrSyndrome 1267 1287	cognitive impairment
+T26	PatientOrDisabledGroup 1374 1385	HD patients
+T27	Finding 467 483	MoCA performance
+T28	Finding 488 514	brain structural integrity
+T29	Finding 691 707	MoCA performance
+T30	Finding 624 661	subcortical nuclei volume differences
+T31	ClinicalAttribute 836 854	cortical thickness
+T32	BodyPartOrganOrOrganComponent 859 877	subcortical nuclei
+T33	ResearchActivity 887 912	Group comparison analysis
+T34	Finding 936 978	lower score in the MoCA global performance
+T35	BodyPartOrganOrOrganComponent 1079 1105	temporo-occipital cortices
+T36	BodyPartOrganOrOrganComponent 1123 1140	bilateral caudate
+T37	Finding 1123 1159	bilateral caudate volume differences
+T38	HealthCareActivity 1247 1256	MoCA test
+T39	ResearchActivity 292 306	screening test
+T40	ResearchActivity 1005 1021	MoCA total score
+T41	BiologicFunction 1338 1354	cognitive status
+T42	TemporalConcept 1358 1373	prodromal/early
+T43	DiseaseOrSyndrome 1296 1309	brain atrophy
+T44	DiseaseOrSyndrome 399 416	cognitive decline
+T45	DiseaseOrSyndrome 22 24	HD
+T46	DiseaseOrSyndrome 0 20	Huntington's Disease
+T47	ResearchActivity 785 790	study
+T48	ClinicalAttribute 624 649	subcortical nuclei volume
+T49	ResearchActivity 792 810	T1-weighted images

@@ -1,0 +1,35 @@
+T0	AminoAcidPeptideOrProtein 112 126	Peroxiredoxins
+T1	GeneOrGenome 112 126	Peroxiredoxins
+T2	AminoAcidPeptideOrProtein 128 133	PRDXs
+T3	GeneOrGenome 128 133	PRDXs
+T4	PharmacologicSubstance 160 171	antioxidant
+T5	Eukaryote 236 245	mammalian
+T6	AminoAcidPeptideOrProtein 246 251	PRDXs
+T7	GeneOrGenome 246 251	PRDXs
+T8	TemporalConcept 271 276	years
+T9	BiologicallyActiveSubstance 426 433	enzymes
+T10	CellOrMolecularDysfunction 457 482	neurodegenerative process
+T11	HealthCareActivity 497 504	reviews
+T12	Finding 517 526	knowledge
+T13	AminoAcidPeptideOrProtein 567 572	PRDXs
+T14	GeneOrGenome 567 572	PRDXs
+T15	DiseaseOrSyndrome 612 631	Alzheimer's disease
+T16	DiseaseOrSyndrome 633 652	Parkinson's disease
+T17	DiseaseOrSyndrome 657 665	dementia
+T18	CellComponent 671 682	Lewy bodies
+T19	DiseaseOrSyndrome 684 702	multiple sclerosis
+T20	DiseaseOrSyndrome 704 733	amyotrophic lateral sclerosis
+T21	NaturalPhenomenonOrProcess 36 64	oxidative/nitrosative stress
+T22	CellFunction 349 372	ROS/RNS defense systems
+T23	ResearchActivity 489 496	article
+T24	TemporalConcept 509 516	current
+T25	Finding 12 20	evidence
+T26	DiseaseOrSyndrome 738 758	Huntington's disease
+T27	DiseaseOrSyndrome 576 603	neurodegenerative disorders
+T28	DiseaseOrSyndrome 84 110	neurodegenerative diseases
+T29	ResearchActivity 398 405	studies
+T30	CellFunction 150 182	enzymatic antioxidant mechanisms
+T31	BiologicallyActiveSubstance 112 126	Peroxiredoxins
+T32	BiologicallyActiveSubstance 128 133	PRDXs
+T33	BiologicallyActiveSubstance 246 251	PRDXs
+T34	BiologicallyActiveSubstance 567 572	PRDXs

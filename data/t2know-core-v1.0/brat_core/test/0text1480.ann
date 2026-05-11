@@ -1,0 +1,57 @@
+T0	HealthCareActivity 137 149	patient care
+T1	HealthCareActivity 233 243	assessment
+T2	ResearchActivity 233 243	assessment
+T3	OrganismAttribute 379 391	surface area
+T4	BodyPartOrganOrOrganComponent 685 691	sulcus
+T5	OrganismAttribute 716 729	surface areas
+T6	MachineActivity 1041 1060	random forest model
+T7	TemporalConcept 1410 1415	stage
+T8	ClinicalAttribute 1410 1415	stage
+T9	DiseaseOrSyndrome 67 70	MCI
+T10	DiseaseOrSyndrome 1189 1192	MCI
+T11	DiseaseOrSyndrome 1384 1387	MCI
+T12	BodyPartOrganOrOrganComponent 426 447	hippocampal subfields
+T13	BodyPartOrganOrOrganComponent 780 801	hippocampal subfields
+T14	TemporalConcept 151 159	Previous
+T15	ResearchActivity 13 19	method
+T16	ResearchActivity 1352 1358	method
+T17	ResearchActivity 1497 1529	logical feature selection method
+T18	HealthCareActivity 13 19	method
+T19	HealthCareActivity 1352 1358	method
+T20	BodyPartOrganOrOrganComponent 518 526	cortical
+T21	BodyPartOrganOrOrganComponent 666 680	cortical gyrus
+T22	HealthCareActivity 145 149	care
+T23	ResearchActivity 544 549	study
+T24	PathologicFunction 250 261	progression
+T25	PathologicFunction 1172 1183	progression
+T26	TemporalConcept 250 261	progression
+T27	TemporalConcept 1172 1183	progression
+T28	HealthCareActivity 1284 1293	diagnosis
+T29	ResearchActivity 160 167	studies
+T30	DiseaseOrSyndrome 90 109	Alzheimer's disease
+T31	DiseaseOrSyndrome 111 113	AD
+T32	DiseaseOrSyndrome 247 249	AD
+T33	DiseaseOrSyndrome 1196 1198	AD
+T34	DiseaseOrSyndrome 1407 1409	AD
+T35	ClinicalAttribute 557 566	biomarker
+T36	ResearchActivity 452 457	model
+T37	Finding 834 845	sensitivity
+T38	HealthCareActivity 212 215	MRI
+T39	HealthCareActivity 184 210	magnetic resonance imaging
+T40	HealthCareActivity 203 210	imaging
+T41	HealthCareActivity 271 278	imaging
+T42	ManufacturedObject 184 210	magnetic resonance imaging
+T43	DiseaseOrSyndrome 45 65	cognitive impairment
+T44	PatientOrDisabledGroup 137 144	patient
+T45	PatientOrDisabledGroup 1388 1395	patient
+T46	PathologicFunction 480 487	atrophy
+T47	DiseaseOrSyndrome 480 487	atrophy
+T48	DiseaseOrSyndrome 40 65	mild cognitive impairment
+T49	MachineActivity 328 337	algorithm
+T50	ClinicalAttribute 397 447	surface curvature within the hippocampal subfields
+T51	ClinicalAttribute 572 601	ratio of principal curvatures
+T52	ClinicalAttribute 603 606	RPC
+T53	BiologicFunction 642 680	folding patterns of the cortical gyrus
+T54	MachineActivity 1228 1260	multilayer perceptron classifier
+T55	Finding 1299 1307	accuracy
+T56	ResearchActivity 900 925	feature selection methods

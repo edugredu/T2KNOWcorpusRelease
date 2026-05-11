@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 109 128	Alzheimer's disease
+T1	HealthCareActivity 138 157	healthcare planning
+T2	BiologicFunction 8 16	learning
+T3	HealthCareActivity 193 205	patient care
+T4	MachineActivity 0 16	Machine learning
+T5	MachineActivity 23 40	predictive models
+T6	HealthCareActivity 162 181	resource allocation

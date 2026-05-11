@@ -1,0 +1,50 @@
+T0	Eukaryote 5 27	Caenorhabditis elegans
+T1	ResearchActivity 95 106	researchers
+T2	ResearchActivity 184 198	investigations
+T3	BiomedicalOccupationOrDiscipline 206 221	pathophysiology
+T4	PathologicFunction 206 221	pathophysiology
+T5	BiomedicalOccupationOrDiscipline 264 271	anatomy
+T6	BodyPartOrganOrOrganComponent 264 271	anatomy
+T7	Eukaryote 329 337	nematode
+T8	GeneOrGenome 435 441	genome
+T9	Eukaryote 482 488	animal
+T10	ResearchActivity 496 507	researchers
+T11	ResearchActivity 537 545	research
+T12	HealthCareRelatedOrganization 592 601	community
+T13	ResearchActivity 632 643	researchers
+T14	CellFunction 673 691	cellular processes
+T15	DiseaseOrSyndrome 710 724	human diseases
+T16	CellFunction 816 825	mutations
+T17	CellOrMolecularDysfunction 816 825	mutations
+T18	Cell 884 903	neuronal cell-types
+T19	ManufacturedObject 993 1007	genetic models
+T20	DiseaseOrSyndrome 1054 1057	ALS
+T21	DiseaseOrSyndrome 1059 1078	Alzheimer's Disease
+T22	DiseaseOrSyndrome 1080 1099	Parkinson's Disease
+T23	TemporalConcept 1245 1255	continuous
+T24	Finding 1256 1264	advances
+T25	ResearchActivity 1268 1286	genome engineering
+T26	ResearchActivity 1288 1296	research
+T27	Organism 1324 1332	organism
+T28	DiseaseOrSyndrome 1454 1470	nervous diseases
+T29	Eukaryote 1125 1135	C. elegans
+T30	Eukaryote 513 523	C. elegans
+T31	Eukaryote 710 715	human
+T32	Eukaryote 1020 1025	human
+T33	Eukaryote 1448 1453	human
+T34	DiseaseOrSyndrome 1101 1121	Huntington's Disease
+T35	ManufacturedObject 61 75	model organism
+T36	DiseaseOrSyndrome 225 251	neurodegenerative diseases
+T37	DiseaseOrSyndrome 1026 1052	neurodegenerative diseases
+T38	ResearchActivity 945 951	review
+T39	HealthCareActivity 945 951	review
+T40	ResearchActivity 663 668	study
+T41	ResearchActivity 952 959	studies
+T42	OrganismAttribute 273 293	optical transparency
+T43	TemporalConcept 305 314	life-span
+T44	ResearchActivity 443 455	cell lineage
+T45	ResearchActivity 464 474	neural map
+T46	Eukaryote 650 660	C. elegans
+T47	GeneOrGenome 739 763	disease-associated genes
+T48	Eukaryote 781 791	C. elegans
+T49	ResearchActivity 907 929	single-cell resolution

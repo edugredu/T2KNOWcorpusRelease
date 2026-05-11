@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 87 113	neurodegenerative diseases
+T1	PopulationGroup 128 139	populations
+T2	EnvironmentalEffectOfHumans 0 13	Air pollution
+T3	EnvironmentalEffectOfHumans 4 13	pollution
+T4	Finding 41 56	genetic factors
+T5	Finding 69 83	susceptibility
+T6	InjuryOrPoisoning 0 22	Air pollution exposure

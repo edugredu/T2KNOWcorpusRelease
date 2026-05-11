@@ -1,0 +1,10 @@
+T0	BodyPartOrganOrOrganComponent 89 94	brain
+T1	HealthCareActivity 95 101	health
+T2	DiseaseOrSyndrome 138 166	neurodegenerative conditions
+T3	BiologicFunction 123 134	development
+T4	CellFunction 123 134	development
+T5	Finding 22 32	impairment
+T6	BodyPartOrganOrOrganComponent 52 74	cardiovascular systems
+T7	BodyPartOrganOrOrganComponent 36 47;67 74	respiratory systems
+T8	EnvironmentalEffectOfHumans 0 13	Air pollution
+T9	EnvironmentalEffectOfHumans 4 13	pollution

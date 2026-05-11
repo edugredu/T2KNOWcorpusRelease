@@ -1,0 +1,112 @@
+T0	ResearchActivity 672 685	meta-analyses
+T1	HealthCareActivity 1481 1489	sampling
+T2	ClinicalAttribute 620 629	Biomarker
+T3	HealthCareActivity 1641 1648	testing
+T4	TemporalConcept 1450 1459	Currently
+T5	CellFunction 1522 1535	differentiate
+T6	ResearchActivity 510 530	Electronic databases
+T7	Finding 215 223	invasive
+T8	HealthCareActivity 536 544	screened
+T9	ResearchActivity 536 544	screened
+T10	BiologicallyActiveSubstance 483 486	NfL
+T11	BiologicallyActiveSubstance 1278 1281	NfL
+T12	AminoAcidPeptideOrProtein 483 486	NfL
+T13	AminoAcidPeptideOrProtein 1278 1281	NfL
+T14	ResearchActivity 1576 1581	assay
+T15	ResearchActivity 1795 1805	validation
+T16	PopulationGroup 611 618	cohorts
+T17	CellComponent 1737 1759	extracellular vesicles
+T18	DiseaseOrSyndrome 119 138	Alzheimer's disease
+T19	DiseaseOrSyndrome 140 142	AD
+T20	DiseaseOrSyndrome 596 598	AD
+T21	DiseaseOrSyndrome 903 905	AD
+T22	DiseaseOrSyndrome 1192 1194	AD
+T23	DiseaseOrSyndrome 1544 1546	AD
+T24	PatientOrDisabledGroup 741 749	patients
+T25	PatientOrDisabledGroup 906 914	patients
+T26	PatientOrDisabledGroup 1195 1203	patients
+T27	PatientOrDisabledGroup 1379 1387	patients
+T28	PatientOrDisabledGroup 1547 1555	patients
+T29	ResearchActivity 280 288	analysis
+T30	BodyPartOrganOrOrganComponent 339 345	plasma
+T31	BodyPartOrganOrOrganComponent 1490 1496	plasma
+T32	ResearchActivity 764 771	Results
+T33	PopulationGroup 754 762	controls
+T34	PopulationGroup 920 928	controls
+T35	PopulationGroup 1392 1400	controls
+T36	PopulationGroup 1560 1568	controls
+T37	AminoAcidPeptideOrProtein 443 452	total tau
+T38	AminoAcidPeptideOrProtein 456 459	tau
+T39	AminoAcidPeptideOrProtein 1150 1155	T-tau
+T40	ClinicalAttribute 157 167	biomarkers
+T41	ClinicalAttribute 244 254	biomarkers
+T42	ClinicalAttribute 489 499	biomarkers
+T43	ClinicalAttribute 1497 1511	ATN biomarkers
+T44	ClinicalAttribute 1655 1665	biomarkers
+T45	BiologicallyActiveSubstance 443 452	total tau
+T46	BiologicallyActiveSubstance 456 459	tau
+T47	BiologicallyActiveSubstance 1150 1155	T-tau
+T48	ClinicalAttribute 567 576	biomarker
+T49	ClinicalAttribute 713 722	biomarker
+T50	ResearchActivity 1470 1476	assays
+T51	Substance 1721 1728	samples
+T52	BodyPartOrganOrOrganComponent 1721 1728	samples
+T53	Finding 665 671	effect
+T54	ResearchActivity 549 556	studies
+T55	ResearchActivity 776 783	studies
+T56	ResearchActivity 1076 1097	single molecule array
+T57	ResearchActivity 1119 1126	studies
+T58	ResearchActivity 1256 1263	studies
+T59	ResearchActivity 1338 1345	studies
+T60	TemporalConcept 224 233	currently
+T61	Finding 1360 1370	separation
+T62	AminoAcidPeptideOrProtein 454 459	t-tau
+T63	AminoAcidPeptideOrProtein 1417 1422	t-tau
+T64	BiologicallyActiveSubstance 454 459	t-tau
+T65	BiologicallyActiveSubstance 1417 1422	t-tau
+T66	PopulationGroup 100 105	state
+T67	Finding 1017 1028	differences
+T68	ResearchActivity 1099 1104	Simoa
+T69	ResearchActivity 1227 1232	Simoa
+T70	ResearchActivity 1691 1696	Simoa
+T71	AminoAcidPeptideOrProtein 355 365	A beta(40)
+T72	AminoAcidPeptideOrProtein 367 377	A beta(42)
+T73	AminoAcidPeptideOrProtein 878 888	A beta(42)
+T74	AminoAcidPeptideOrProtein 1405 1415	A beta(42)
+T75	AminoAcidPeptideOrProtein 1683 1689	A beta
+T76	CellOrMolecularDysfunction 424 441	neurodegeneration
+T77	AminoAcidPeptideOrProtein 346 353	amyloid
+T78	BiologicallyActiveSubstance 346 353	amyloid
+T79	AminoAcidPeptideOrProtein 462 481	neurofilament light
+T80	BiologicallyActiveSubstance 462 481	neurofilament light
+T81	BodyPartOrganOrOrganComponent 145 150	Blood
+T82	ResearchActivity 837 845	analyses
+T83	BiologicFunction 723 737	concentrations
+T84	ClinicalAttribute 324 335	performance
+T85	Finding 324 335	performance
+T86	Finding 630 641	performance
+T87	HealthCareActivity 313 335	diagnostic performance
+T88	ResearchActivity 1143 1148	ELISA
+T89	ResearchActivity 1244 1249	ELISA
+T90	ResearchActivity 275 288	meta-analysis
+T91	HealthCareActivity 16 61	Amyloid Tau Neurodegeneration (ATN) framework
+T92	ResearchActivity 1059 1066	studies
+T93	ClinicalAttribute 379 398	A beta(42/40) ratio
+T94	AminoAcidPeptideOrProtein 401 418	tangle (p-tau181)
+T95	BiologicallyActiveSubstance 401 418	tangle (p-tau181)
+T96	BiologicallyActiveSubstance 355 365	A beta(40)
+T97	BiologicallyActiveSubstance 367 377	A beta(42)
+T98	BiologicallyActiveSubstance 878 888	A beta(42)
+T99	ClinicalAttribute 847 866	A beta(42/40) ratio
+T100	ResearchActivity 964 988	immunomagnetic reduction
+T101	ResearchActivity 990 993	IMR
+T102	ClinicalAttribute 1032 1054	ptau-181 concentration
+T103	ResearchActivity 1136 1139	IMR
+T104	ResearchActivity 1219 1222	IMR
+T105	CellComponent 1330 1337	Exosome
+T106	BiologicallyActiveSubstance 1405 1415	A beta(42)
+T107	AminoAcidPeptideOrProtein 1428 1436	p-tau181
+T108	BiologicallyActiveSubstance 1428 1436	p-tau181
+T109	ResearchActivity 1675 1678	IMR
+T110	AminoAcidPeptideOrProtein 1701 1709	p-tau181
+T111	BiologicallyActiveSubstance 1701 1709	p-tau181

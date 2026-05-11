@@ -1,0 +1,36 @@
+T0	AminoAcidPeptideOrProtein 0 25	Small heat shock proteins
+T1	CellFunction 30 52	ubiquitously expressed
+T2	AminoAcidPeptideOrProtein 53 63	chaperones
+T3	BiologicallyActiveSubstance 53 63	chaperones
+T4	CellFunction 69 78	mutations
+T5	CellOrMolecularDysfunction 69 78	mutations
+T6	CellFunction 425 434	mutations
+T7	CellOrMolecularDysfunction 425 434	mutations
+T8	GeneOrGenome 438 443	HSPB1
+T9	AminoAcidPeptideOrProtein 438 443	HSPB1
+T10	GeneOrGenome 445 450	HSPB3
+T11	GeneOrGenome 456 461	HSPB8
+T12	AminoAcidPeptideOrProtein 456 461	HSPB8
+T13	DiseaseOrSyndrome 476 509	inherited peripheral neuropathies
+T14	DiseaseOrSyndrome 515 548	Charcot-Marie-Tooth (CMT) disease
+T15	DiseaseOrSyndrome 553 587	distal hereditary motor neuropathy
+T16	DiseaseOrSyndrome 589 593	dHMN
+T17	DiseaseOrSyndrome 715 726	Alzheimer's
+T18	DiseaseOrSyndrome 728 739	Parkinson's
+T19	BodyPartOrganOrOrganComponent 101 116	tissue-specific
+T20	AminoAcidPeptideOrProtein 153 178	small heat shock proteins
+T21	AminoAcidPeptideOrProtein 642 667	small heat shock proteins
+T22	AminoAcidPeptideOrProtein 445 450	HSPB3
+T23	BiologicFunction 290 310	protective functions
+T24	DiseaseOrSyndrome 745 765	Huntington's disease
+T25	DiseaseOrSyndrome 192 219	neurodegenerative disorders
+T26	DiseaseOrSyndrome 314 341	neurodegenerative disorders
+T27	DiseaseOrSyndrome 682 709	neurodegenerative disorders
+T28	CellFunction 352 371	protein aggregation
+T29	CellOrMolecularDysfunction 352 371	protein aggregation
+T30	BiologicallyActiveSubstance 0 25	Small heat shock proteins
+T31	DiseaseOrSyndrome 101 125	tissue-specific diseases
+T32	BiologicallyActiveSubstance 153 178	small heat shock proteins
+T33	ResearchActivity 396 401	paper
+T34	ResearchActivity 619 624	paper
+T35	BiologicallyActiveSubstance 642 667	small heat shock proteins

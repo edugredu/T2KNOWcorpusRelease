@@ -1,0 +1,87 @@
+T0	BiologicFunction 4 10	repair
+T1	HealthCareActivity 4 10	repair
+T2	PathologicFunction 14 44	inflamed, demyelinated lesions
+T3	BodyPartOrganOrOrganComponent 122 128	myelin
+T4	CellComponent 122 128	myelin
+T5	Substance 129 135	debris
+T6	Cell 258 274	oligodendrocytes
+T7	Cell 463 479	oligodendroglial
+T8	DiseaseOrSyndrome 463 479	oligodendroglial
+T9	CellFunction 480 496	sterol synthesis
+T10	ResearchActivity 513 538	gene expression profiling
+T11	CellFunction 610 626	sterol synthesis
+T12	BiologicFunction 688 694	repair
+T13	HealthCareActivity 688 694	repair
+T14	PathologicFunction 706 726	demyelinated lesions
+T15	Chemical 797 808	desmosterol
+T16	TemporalConcept 814 823	immediate
+T17	Chemical 847 858	Desmosterol
+T18	AminoAcidPeptideOrProtein 887 890	LXR
+T19	CellFunction 892 901	signaling
+T20	PathologicFunction 913 925	inflammation
+T21	Cell 965 980	oligodendrocyte
+T22	AminoAcidPeptideOrProtein 1008 1011	LXR
+T23	CellFunction 1049 1055	efflux
+T24	Chemical 1059 1064	lipid
+T25	CellFunction 1131 1144	remyelination
+T26	Cell 1148 1164	oligodendrocytes
+T27	HealthCareActivity 1180 1207	pharmacological stimulation
+T28	CellFunction 1211 1227	sterol synthesis
+T29	BiologicFunction 1240 1246	repair
+T30	HealthCareActivity 1240 1246	repair
+T31	PathologicFunction 1250 1270	demyelinated lesions
+T32	BiologicFunction 1347 1353	repair
+T33	HealthCareActivity 1347 1353	repair
+T34	PathologicFunction 1357 1381	demyelinated CNS lesions
+T35	PathologicFunction 1409 1421	inflammation
+T36	CellFunction 1439 1452	remyelination
+T37	CellFunction 1480 1496	sterol synthesis
+T38	Chemical 105 116	cholesterol
+T39	Chemical 284 295	cholesterol
+T40	Chemical 427 438	cholesterol
+T41	Chemical 750 761	cholesterol
+T42	Chemical 824 835	cholesterol
+T43	Chemical 1069 1080	cholesterol
+T44	BiologicallyActiveSubstance 105 116	cholesterol
+T45	BiologicallyActiveSubstance 284 295	cholesterol
+T46	BiologicallyActiveSubstance 427 438	cholesterol
+T47	BiologicallyActiveSubstance 750 761	cholesterol
+T48	BiologicallyActiveSubstance 824 835	cholesterol
+T49	BiologicallyActiveSubstance 1069 1080	cholesterol
+T50	BiomedicalOccupationOrDiscipline 540 548	genetics
+T51	CellFunction 540 548	genetics
+T52	BodyPartOrganOrOrganComponent 1370 1373	CNS
+T53	DiseaseOrSyndrome 71 73	MS
+T54	DiseaseOrSyndrome 1333 1335	MS
+T55	CellFunction 981 996	differentiation
+T56	NaturalPhenomenonOrProcess 92 101	clearance
+T57	DiseaseOrSyndrome 51 69	multiple sclerosis
+T58	HealthCareActivity 1289 1311	therapeutic strategies
+T59	BiologicFunction 206 223	anti-inflammatory
+T60	PharmacologicSubstance 206 223	anti-inflammatory
+T61	Cell 139 148	microglia
+T62	Cell 651 660	microglia
+T63	Cell 763 772	microglia
+T64	Cell 1086 1119	lipid-laden microglia/macrophages
+T65	Cell 1500 1509	microglia
+T66	BiologicallyActiveSubstance 869 885	liver X receptor
+T67	HealthCareActivity 1571 1578	therapy
+T68	Cell 149 160	macrophages
+T69	PathologicFunction 183 199	pro-inflammatory
+T70	CellComponent 342 358	myelin membranes
+T71	InjuryOrPoisoning 224 230	lesion
+T72	InjuryOrPoisoning 381 387	lesion
+T73	CellOrMolecularDysfunction 444 458	damaged myelin
+T74	ResearchActivity 553 578	comprehensive phenotyping
+T75	Cell 661 672	macrophages
+T76	BodyPartOrganOrOrganComponent 630 636	myelin
+T77	CellComponent 630 636	myelin
+T78	Cell 773 784	macrophages
+T79	BiologicallyActiveSubstance 797 808	desmosterol
+T80	BiologicallyActiveSubstance 847 858	Desmosterol
+T81	AminoAcidPeptideOrProtein 869 885	liver X receptor
+T82	BiologicallyActiveSubstance 887 890	LXR
+T83	BiologicallyActiveSubstance 1008 1011	LXR
+T84	CellFunction 1316 1329	myelin repair
+T85	Chemical 1562 1570	squalene
+T86	PharmacologicSubstance 1562 1570	squalene

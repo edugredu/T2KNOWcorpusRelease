@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 145 171	neurodegenerative diseases
+T1	ClinicalAttribute 120 140	potential biomarkers
+T2	ResearchActivity 61 70	technique
+T3	HealthCareActivity 30 33	OCT
+T4	BodyPartOrganOrOrganComponent 86 93	retinal
+T5	HealthCareActivity 40 60	non-invasive imaging
+T6	HealthCareActivity 0 28	Optical coherence tomography
+T7	AnatomicalAbnormality 86 101	retinal defects

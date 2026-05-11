@@ -1,0 +1,93 @@
+T0	ResearchActivity 21 41	experimental studies
+T1	InjuryOrPoisoning 226 231	toxic
+T2	BiologicallyActiveSubstance 282 286	VitD
+T3	PharmacologicSubstance 832 836	VitD
+T4	BiologicallyActiveSubstance 832 836	VitD
+T5	BiologicallyActiveSubstance 838 842	VitD
+T6	PharmacologicSubstance 958 962	VitD
+T7	BiologicallyActiveSubstance 958 962	VitD
+T8	AminoAcidPeptideOrProtein 1345 1352	Megalin
+T9	BiologicallyActiveSubstance 1345 1352	Megalin
+T10	PharmacologicSubstance 1421 1425	VitD
+T11	BiologicallyActiveSubstance 1421 1425	VitD
+T12	PharmacologicSubstance 1576 1580	VitD
+T13	BiologicallyActiveSubstance 1576 1580	VitD
+T14	HealthCareActivity 940 954	Administration
+T15	Finding 160 170	deficiency
+T16	Finding 1549 1559	deficiency
+T17	BiologicallyActiveSubstance 96 105	vitamin D
+T18	Eukaryote 360 371	Wistar rats
+T19	Eukaryote 527 531	rats
+T20	Eukaryote 637 641	rats
+T21	Eukaryote 764 768	rats
+T22	Eukaryote 1324 1328	rats
+T23	HealthCareActivity 589 599	injections
+T24	CellFunction 1276 1297	microglial activation
+T25	ResearchActivity 854 862	analyzed
+T26	ResearchActivity 601 611	sham group
+T27	Cell 1647 1678	oligodendrocyte precursor cells
+T28	CellFunction 1159 1172	differentiate
+T29	Cell 1085 1090	cells
+T30	Cell 1140 1145	cells
+T31	ResearchActivity 217 222	model
+T32	BodyPartOrganOrOrganComponent 1220 1226	myelin
+T33	Finding 143 151	presence
+T34	Finding 1532 1540	presence
+T35	CellFunction 308 321	remyelination
+T36	CellFunction 1599 1612	remyelination
+T37	PathologicFunction 232 245	demyelination
+T38	PathologicFunction 290 303	demyelination
+T39	InjuryOrPoisoning 390 406	surgical lesions
+T40	InjuryOrPoisoning 537 544	lesions
+T41	InjuryOrPoisoning 647 654	lesions
+T42	InjuryOrPoisoning 774 781	lesions
+T43	InjuryOrPoisoning 919 925	lesion
+T44	InjuryOrPoisoning 1098 1104	lesion
+T45	InjuryOrPoisoning 1388 1394	lesion
+T46	Cell 1178 1207	oligodendrocyte lineage cells
+T47	CellFunction 994 1009	differentiation
+T48	Chemical 453 465	lysolecithin
+T49	Chemical 576 588	lysolecithin
+T50	Chemical 702 714	lysolecithin
+T51	Chemical 716 728	lysolecithin
+T52	Chemical 806 818	lysolecithin
+T53	PharmacologicSubstance 453 465	lysolecithin
+T54	PharmacologicSubstance 576 588	lysolecithin
+T55	PharmacologicSubstance 702 714	lysolecithin
+T56	PharmacologicSubstance 716 728	lysolecithin
+T57	PharmacologicSubstance 806 818	lysolecithin
+T58	CellFunction 976 989	proliferation
+T59	CellFunction 1630 1643	proliferation
+T60	CellFunction 1066 1075	migration
+T61	CellFunction 71 84	remyelinating
+T62	AminoAcidPeptideOrProtein 1220 1240	myelin basic protein
+T63	BiologicallyActiveSubstance 1220 1240	myelin basic protein
+T64	BodyPartOrganOrOrganComponent 414 429	corpus callosum
+T65	BodyPartOrganOrOrganComponent 552 567	corpus callosum
+T66	BodyPartOrganOrOrganComponent 662 677	corpus callosum
+T67	BodyPartOrganOrOrganComponent 1117 1132	corpus callosum
+T68	HealthCareActivity 1561 1570	treatment
+T69	ResearchActivity 1561 1570	treatment
+T70	ResearchActivity 177 182	study
+T71	BiologicFunction 199 211	neurogenesis
+T72	BiologicFunction 863 875	neurogenesis
+T73	BodyPartOrganOrOrganComponent 888 907	subventricular zone
+T74	BodyPartOrganOrOrganComponent 1038 1057	subventricular zone
+T75	Cell 1013 1030	neural stem cells
+T76	OrganismAttribute 355 359	male
+T77	ResearchActivity 932 939	Results
+T78	BiologicallyActiveSubstance 107 111	VitD
+T79	BiologicallyActiveSubstance 155 159	VitD
+T80	ResearchActivity 323 343	Material and methods
+T81	Eukaryote 467 471	Rats
+T82	ResearchActivity 589 599	injections
+T83	PharmacologicSubstance 107 111	VitD
+T84	PharmacologicSubstance 155 159	VitD
+T85	PharmacologicSubstance 96 105	vitamin D
+T86	PharmacologicSubstance 838 842	VitD
+T87	PharmacologicSubstance 282 286	VitD
+T88	PharmacologicSubstance 1339 1343	VitD
+T89	BiologicallyActiveSubstance 1339 1343	VitD
+T90	CellFunction 1353 1363	expression
+T91	BiologicallyActiveSubstance 1544 1548	VitD
+T92	PharmacologicSubstance 1544 1548	VitD

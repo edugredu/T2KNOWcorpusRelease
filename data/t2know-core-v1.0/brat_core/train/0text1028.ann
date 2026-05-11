@@ -1,0 +1,124 @@
+T0	AminoAcidPeptideOrProtein 47 52	KIBRA
+T1	BiologicallyActiveSubstance 47 52	KIBRA
+T2	CellFunction 62 71	secretion
+T3	CellFunction 122 145	proteasomal degradation
+T4	GeneOrGenome 149 155	Rab27a
+T5	AminoAcidPeptideOrProtein 149 155	Rab27a
+T6	Finding 227 239	transmission
+T7	AminoAcidPeptideOrProtein 328 333	KIBRA
+T8	BiologicallyActiveSubstance 328 333	KIBRA
+T9	CellFunction 344 361	A beta metabolism
+T10	AminoAcidPeptideOrProtein 419 424	KIBRA
+T11	BiologicallyActiveSubstance 419 424	KIBRA
+T12	ResearchActivity 419 438	KIBRA knockout mice
+T13	AminoAcidPeptideOrProtein 465 470	KIBRA
+T14	BiologicallyActiveSubstance 465 470	KIBRA
+T15	Eukaryote 490 496	murine
+T16	CellFunction 520 534	overexpressing
+T17	CellComponent 677 698	Multivesicular bodies
+T18	CellComponent 700 704	MVBs
+T19	AminoAcidPeptideOrProtein 822 827	KIBRA
+T20	BiologicallyActiveSubstance 822 827	KIBRA
+T21	OrganismAttribute 828 837	genotypes
+T22	ResearchActivity 914 919	Simoa
+T23	AminoAcidPeptideOrProtein 1001 1006	KIBRA
+T24	BiologicallyActiveSubstance 1001 1006	KIBRA
+T25	AminoAcidPeptideOrProtein 1094 1099	KIBRA
+T26	BiologicallyActiveSubstance 1094 1099	KIBRA
+T27	ExperimentalModelOfDisease 1100 1108	knockout
+T28	ResearchActivity 1100 1108	knockout
+T29	Finding 1113 1122	no effect
+T30	AminoAcidPeptideOrProtein 1199 1204	KIBRA
+T31	BiologicallyActiveSubstance 1199 1204	KIBRA
+T32	CellFunction 1265 1274	secretion
+T33	BiologicFunction 1265 1274	secretion
+T34	CellComponent 1301 1305	MVBs
+T35	CellComponent 1367 1371	MVBs
+T36	CellFunction 1429 1435	fusion
+T37	CellFunction 1470 1488	lysosomal function
+T38	BiologicFunction 1497 1506	secretion
+T39	CellFunction 1497 1506	secretion
+T40	AminoAcidPeptideOrProtein 1589 1594	KIBRA
+T41	BiologicallyActiveSubstance 1589 1594	KIBRA
+T42	AminoAcidPeptideOrProtein 1660 1665	KIBRA
+T43	BiologicallyActiveSubstance 1660 1665	KIBRA
+T44	AminoAcidPeptideOrProtein 1756 1761	KIBRA
+T45	BiologicallyActiveSubstance 1756 1761	KIBRA
+T46	CellFunction 1772 1789	A beta metabolism
+T47	BiologicFunction 1810 1819	secretion
+T48	CellFunction 1810 1819	secretion
+T49	NaturalPhenomenonOrProcess 1440 1451	degradation
+T50	ResearchActivity 725 744	electron microscopy
+T51	NucleicAcidNucleosideOrNucleotide 1570 1574	exon
+T52	PopulationGroup 53 61	controls
+T53	PopulationGroup 804 810	cohort
+T54	PopulationGroup 1623 1629	cohort
+T55	ResearchActivity 595 603	analyzed
+T56	ResearchActivity 868 876	analyzed
+T57	AminoAcidPeptideOrProtein 190 202	amyloid beta
+T58	AminoAcidPeptideOrProtein 535 538	APP
+T59	AminoAcidPeptideOrProtein 1140 1168	APP C-terminal fragment beta
+T60	AminoAcidPeptideOrProtein 1170 1182	APP-CTF beta
+T61	AminoAcidPeptideOrProtein 1230 1242	APP-CTF beta
+T62	AminoAcidPeptideOrProtein 1382 1394	APP-CTF beta
+T63	AminoAcidPeptideOrProtein 1823 1835	APP-CTF beta
+T64	GeneOrGenome 535 538	APP
+T65	BiologicallyActiveSubstance 535 538	APP
+T66	BiologicallyActiveSubstance 1170 1182	APP-CTF beta
+T67	BiologicallyActiveSubstance 1230 1242	APP-CTF beta
+T68	BiologicallyActiveSubstance 1382 1394	APP-CTF beta
+T69	BiologicallyActiveSubstance 1823 1835	APP-CTF beta
+T70	ResearchActivity 20 28	research
+T71	CellFunction 1456 1466	inhibition
+T72	CellComponent 75 97	extracellular vesicles
+T73	DiseaseOrSyndrome 247 266	Alzheimer's disease
+T74	CellComponent 99 102	EVs
+T75	CellComponent 160 163	EVs
+T76	CellComponent 586 589	EVs
+T77	CellComponent 1261 1264	EVs
+T78	CellComponent 1541 1544	EVs
+T79	CellComponent 1854 1857	EVs
+T80	DiseaseOrSyndrome 268 270	AD
+T81	PathologicFunction 272 284	pathogenesis
+T82	Cell 481 486	cells
+T83	Cell 497 507	HT22 cells
+T84	AminoAcidPeptideOrProtein 204 210	A beta
+T85	AminoAcidPeptideOrProtein 557 563	A beta
+T86	AminoAcidPeptideOrProtein 849 855	A beta
+T87	AminoAcidPeptideOrProtein 962 968	A beta
+T88	AminoAcidPeptideOrProtein 1395 1401	A beta
+T89	AminoAcidPeptideOrProtein 1523 1529	A beta
+T90	AminoAcidPeptideOrProtein 1702 1708	A beta
+T91	AminoAcidPeptideOrProtein 1836 1842	A beta
+T92	Finding 1351 1363	accumulation
+T93	BodyPartOrganOrOrganComponent 1022 1027	brain
+T94	ResearchActivity 631 661	nanoparticle tracking analysis
+T95	PopulationGroup 787 797	population
+T96	PopulationGroup 1606 1616	population
+T97	CellFunction 212 222	metabolism
+T98	BiologicFunction 212 222	metabolism
+T99	CellComponent 1064 1077	extracellular
+T100	ResearchActivity 471 480	knockdown
+T101	ClinicalAttribute 849 862	A beta levels
+T102	ClinicalAttribute 1184 1197	A beta levels
+T103	CellComponent 1126 1139	intraneuronal
+T104	TemporalConcept 11 19	Previous
+T105	BodyPartOrganOrOrganComponent 842 848	plasma
+T106	BodyPartOrganOrOrganComponent 1695 1701	plasma
+T107	BiologicFunction 107 117	inhibiting
+T108	ResearchActivity 1007 1021	knockout mouse
+T109	CellFunction 1677 1689	polymorphism
+T110	BiologicallyActiveSubstance 149 155	Rab27a
+T111	CellFunction 370 396	endosomal-lysosomal system
+T112	ExperimentalModelOfDisease 444 449	5XFAD
+T113	ResearchActivity 607 626	biochemical methods
+T114	ResearchActivity 749 780	confocal fluorescent microscopy
+T115	ResearchActivity 883 909	multiple-PCR amplification
+T116	BiologicallyActiveSubstance 1140 1168	APP C-terminal fragment beta
+T117	AminoAcidPeptideOrProtein 1243 1249	A beta
+T118	BiologicFunction 62 71	secretion
+T119	CellComponent 1415 1419	MVBs
+T120	CellComponent 1420 1428	lysosome
+T121	BiologicallyActiveSubstance 1510 1522	APP-CTF beta
+T122	AminoAcidPeptideOrProtein 1510 1522	APP-CTF beta
+T123	GeneOrGenome 1666 1676	rs28421695

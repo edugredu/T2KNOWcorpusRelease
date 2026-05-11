@@ -1,0 +1,76 @@
+T0	PopulationGroup 12 19	African
+T1	BiomedicalOccupationOrDiscipline 263 273	proteomics
+T2	PopulationGroup 332 339	African
+T3	Finding 601 634	differentially-expressed proteins
+T4	AminoAcidPeptideOrProtein 788 821	differentially-expressed proteins
+T5	PopulationGroup 877 900	ethnic background group
+T6	PopulationGroup 976 993	ethnic background
+T7	Finding 1177 1210	differentially-expressed proteins
+T8	PopulationGroup 1339 1368	African American/Black adults
+T9	AminoAcidPeptideOrProtein 1400 1405	APOE4
+T10	ResearchActivity 1400 1405	APOE4
+T11	Finding 1406 1412	status
+T12	PopulationGroup 1682 1695	ethnic groups
+T13	PopulationGroup 1704 1733	African American/Black adults
+T14	BiomedicalOccupationOrDiscipline 1432 1441	education
+T15	Finding 497 515	cognitively normal
+T16	HealthCareActivity 480 489	diagnosed
+T17	MachineActivity 278 294	machine learning
+T18	Finding 66 75	incidence
+T19	ResearchActivity 177 182	study
+T20	ResearchActivity 410 426	proteomics study
+T21	ResearchActivity 1603 1608	study
+T22	OrganismAttribute 1395 1398	age
+T23	TemporalConcept 1423 1428	years
+T24	AminoAcidPeptideOrProtein 626 634	proteins
+T25	AminoAcidPeptideOrProtein 750 758	proteins
+T26	AminoAcidPeptideOrProtein 813 821	proteins
+T27	AminoAcidPeptideOrProtein 906 914	proteins
+T28	AminoAcidPeptideOrProtein 1202 1210	proteins
+T29	ResearchActivity 142 151	discovery
+T30	ResearchActivity 387 396	discovery
+T31	ResearchActivity 1633 1642	discovery
+T32	DiseaseOrSyndrome 79 98	Alzheimer's disease
+T33	ClinicalAttribute 211 232	diagnostic biomarkers
+T34	ClinicalAttribute 1755 1765	biomarkers
+T35	DiseaseOrSyndrome 100 102	AD
+T36	DiseaseOrSyndrome 237 239	AD
+T37	DiseaseOrSyndrome 490 492	AD
+T38	DiseaseOrSyndrome 825 827	AD
+T39	DiseaseOrSyndrome 948 950	AD
+T40	DiseaseOrSyndrome 1114 1116	AD
+T41	DiseaseOrSyndrome 1320 1322	AD
+T42	DiseaseOrSyndrome 1543 1545	AD
+T43	DiseaseOrSyndrome 1620 1622	AD
+T44	BodyPartOrganOrOrganComponent 403 409	plasma
+T45	BodyPartOrganOrOrganComponent 430 436	plasma
+T46	ClinicalAttribute 132 141	biomarker
+T47	ClinicalAttribute 705 714	biomarker
+T48	ClinicalAttribute 1623 1632	biomarker
+T49	ResearchActivity 1251 1256	model
+T50	ResearchActivity 1468 1473	model
+T51	ResearchActivity 1061 1064	AUC
+T52	ResearchActivity 1268 1271	AUC
+T53	CellFunction 803 812	expressed
+T54	CellFunction 1192 1201	expressed
+T55	ResearchActivity 727 734	Results
+T56	PopulationGroup 311 317	cohort
+T57	PopulationGroup 12 41	African American/Black adults
+T58	PopulationGroup 332 361	African American/Black adults
+T59	PopulationGroup 516 522	adults
+T60	PopulationGroup 1133 1158	non-Hispanic White adults
+T61	PopulationGroup 1362 1368	adults
+T62	PopulationGroup 1501 1526	non-Hispanic White adults
+T63	PopulationGroup 1727 1733	adults
+T64	PopulationGroup 895 900	group
+T65	PopulationGroup 1226 1231	group
+T66	OrganismAttribute 1414 1417	sex
+T67	BiologicFunction 286 294	learning
+T68	ResearchActivity 1039 1059	area under the curve
+T69	ResearchActivity 263 273	proteomics
+T70	PopulationGroup 573 591	non-Hispanic White
+T71	PopulationGroup 547 569	African American/Black
+T72	MachineActivity 664 686	support vector machine
+T73	MachineActivity 688 691	SVM
+T74	Finding 1078 1086	accuracy
+T75	Finding 1284 1292	accuracy

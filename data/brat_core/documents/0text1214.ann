@@ -1,0 +1,100 @@
+T0	InjuryOrPoisoning 423 432	cytotoxic
+T1	OrganismAttribute 526 548	genetic susceptibility
+T2	GeneOrGenome 711 714	TNF
+T3	BiologicallyActiveSubstance 711 714	TNF
+T4	AminoAcidPeptideOrProtein 711 714	TNF
+T5	Cell 746 765	reactive astrocytes
+T6	InjuryOrPoisoning 1061 1070	cytotoxic
+T7	PopulationGroup 777 784	persons
+T8	Cell 0 10	Astrocytes
+T9	Eukaryote 892 899	rodents
+T10	AminoAcidPeptideOrProtein 1132 1135	MBP
+T11	BiologicallyActiveSubstance 1132 1135	MBP
+T12	GeneOrGenome 1132 1135	MBP
+T13	TemporalConcept 302 313	post-mortem
+T14	Cell 448 464	oligodendrocytes
+T15	Cell 1078 1082	OPCs
+T16	Cell 1570 1574	OPCs
+T17	Cell 1738 1742	OPCs
+T18	Cell 1016 1019	OPC
+T19	Cell 1267 1270	OPC
+T20	Cell 1364 1373	OPC lines
+T21	Cell 1455 1458	OPC
+T22	Cell 1662 1665	OPC
+T23	DiseaseOrSyndrome 173 191	multiple sclerosis
+T24	BodyPartOrganOrOrganComponent 1479 1485	myelin
+T25	CellFunction 1026 1041	differentiation
+T26	CellFunction 1394 1409	differentiation
+T27	CellFunction 1459 1474	differentiation
+T28	CellFunction 1666 1681	differentiation
+T29	CellFunction 1455 1474	OPC differentiation
+T30	CellFunction 1662 1681	OPC differentiation
+T31	ResearchActivity 1304 1310	RNAseq
+T32	Cell 984 1014	oligodendrocyte precursor cell
+T33	Substance 227 236	specimens
+T34	Substance 314 323	specimens
+T35	BodyPartOrganOrOrganComponent 227 236	specimens
+T36	BodyPartOrganOrOrganComponent 314 323	specimens
+T37	AminoAcidPeptideOrProtein 1110 1130	myelin basic protein
+T38	BiologicallyActiveSubstance 1110 1130	myelin basic protein
+T39	Cell 1000 1014	precursor cell
+T40	Cell 984 1009	oligodendrocyte precursor
+T41	MolecularSequence 832 846	transcriptomes
+T42	PathologicFunction 1787 1799	inflammatory
+T43	Chemical 936 953	conditioned media
+T44	TemporalConcept 257 262	acute
+T45	ResearchActivity 1042 1047	assay
+T46	PopulationGroup 645 655	individual
+T47	OrganismAttribute 645 655	individual
+T48	BodyPartOrganOrOrganComponent 43 65	central nervous system
+T49	BodyPartOrganOrOrganComponent 67 70	CNS
+T50	PopulationGroup 808 816	controls
+T51	ResearchActivity 290 298	research
+T52	PathologicFunction 363 372	pathology
+T53	BiomedicalOccupationOrDiscipline 363 372	pathology
+T54	Eukaryote 208 213	human
+T55	Eukaryote 485 490	human
+T56	Eukaryote 570 575	human
+T57	Eukaryote 740 745	human
+T58	Eukaryote 978 983	human
+T59	Eukaryote 1419 1424	human
+T60	ResearchActivity 1271 1289	suppression assays
+T61	BodyPartOrganOrOrganComponent 676 686	peripheral
+T62	Cell 1010 1014	cell
+T63	DiseaseOrSyndrome 141 167	neurodegenerative diseases
+T64	Finding 916 922	effect
+T65	CellFunction 1486 1501	gene expression
+T66	PatientOrDisabledGroup 656 663	patient
+T67	CellFunction 1491 1501	expression
+T68	TemporalConcept 333 338	years
+T69	Finding 1719 1727	capacity
+T70	Cell 926 935	astrocyte
+T71	Finding 1150 1161	differences
+T72	Cell 436 443	neurons
+T73	BiologicFunction 72 83	homeostasis
+T74	CellFunction 1551 1566	immune pathways
+T75	Cell 381 400	reactive astrocytes
+T76	Cell 576 595	CD49f(+) astrocytes
+T77	Cell 755 765	astrocytes
+T78	Cell 1206 1216	astrocytes
+T79	Cell 1630 1649	reactive astrocytes
+T80	Cell 601 631	induced pluripotent stem cells
+T81	Cell 621 631	stem cells
+T82	InjuryOrPoisoning 102 108	injury
+T83	CellFunction 1705 1718	remyelination
+T84	DiseaseOrSyndrome 193 195	MS
+T85	DiseaseOrSyndrome 790 792	MS
+T86	DiseaseOrSyndrome 805 807	MS
+T87	DiseaseOrSyndrome 1180 1182	MS
+T88	TemporalConcept 263 269	stages
+T89	Finding 1326 1350	differentially expressed
+T90	ResearchActivity 1601 1605	data
+T91	NucleicAcidNucleosideOrNucleotide 1231 1241	transcript
+T92	GeneOrGenome 1486 1490	gene
+T93	TemporalConcept 349 359	initiation
+T94	Eukaryote 374 380	Rodent
+T95	Cell 491 496	cells
+T96	Cell 687 697	leukocytes
+T97	AminoAcidPeptideOrProtein 719 728	IL1 alpha
+T98	BiologicallyActiveSubstance 719 728	IL1 alpha
+T99	Finding 1530 1539	induction

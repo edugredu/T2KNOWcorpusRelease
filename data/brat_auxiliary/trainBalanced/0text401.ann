@@ -1,0 +1,73 @@
+T0	SignOrSymptom 51 55	pain
+T1	ResearchActivity 112 121	modelling
+T2	TemporalConcept 313 317	hour
+T3	OrganismAttribute 713 723	phenotypes
+T4	NucleicAcidNucleosideOrNucleotide 872 883	genomic DNA
+T5	Cell 903 913	cell lines
+T6	PathologicFunction 1018 1038	pathological aspects
+T7	PathologicFunction 1103 1129	pathological gene variants
+T8	GeneOrGenome 1116 1129	gene variants
+T9	Cell 1153 1163	cell lines
+T10	ResearchActivity 1317 1321	cure
+T11	ExperimentalModelOfDisease 932 967	CRISPR-iPSC-based disease modelling
+T12	DiseaseOrSyndrome 1403 1423	Huntington's disease
+T13	ResearchActivity 1170 1176	review
+T14	HealthCareActivity 1170 1176	review
+T15	DiseaseOrSyndrome 1382 1401	Parkinson's disease
+T16	Cell 490 495	cells
+T17	DiseaseOrSyndrome 122 148	neurodegenerative diseases
+T18	DiseaseOrSyndrome 266 292	neurodegenerative diseases
+T19	DiseaseOrSyndrome 419 445	neurodegenerative diseases
+T20	DiseaseOrSyndrome 1266 1292	neurodegenerative diseases
+T21	DiseaseOrSyndrome 1326 1352	neurodegenerative diseases
+T22	TemporalConcept 742 748	recent
+T23	PatientOrDisabledGroup 1145 1152	patient
+T24	DiseaseOrSyndrome 1047 1074	neurodegenerative processes
+T25	DiseaseOrSyndrome 1361 1380	Alzheimer's disease
+T26	ResearchActivity 1254 1262	research
+T27	AminoAcidPeptideOrProtein 583 587	Cas9
+T28	AminoAcidPeptideOrProtein 772 776	Cas9
+T29	AminoAcidPeptideOrProtein 1204 1208	Cas9
+T30	Cell 343 373	induced pluripotent stem cells
+T31	ResearchActivity 765 787	CRISPR/Cas9 technology
+T32	BiologicallyActiveSubstance 583 587	Cas9
+T33	BiologicallyActiveSubstance 772 776	Cas9
+T34	BiologicallyActiveSubstance 1204 1208	Cas9
+T35	HealthCareActivity 765 787	CRISPR/Cas9 technology
+T36	Eukaryote 337 342	human
+T37	Eukaryote 897 902	human
+T38	Cell 375 380	iPSCs
+T39	Cell 925 930	iPSCs
+T40	Cell 1190 1195	iPSCs
+T41	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T42	PathologicFunction 233 262	pathophysiological conditions
+T43	BiologicFunction 72 77	death
+T44	PathologicFunction 72 77	death
+T45	Cell 515 534	neuronal cell types
+T46	OrganismAttribute 1133 1140	healthy
+T47	DiseaseOrSyndrome 57 66	suffering
+T48	ResearchActivity 796 807	researchers
+T49	ResearchActivity 446 454	in vitro
+T50	GeneOrGenome 594 600	genome
+T51	DiseaseOrSyndrome 1425 1454	Amyotrophic Lateral Sclerosis
+T52	ResearchActivity 576 587	CRISPR/Cas9
+T53	ResearchActivity 765 776	CRISPR/Cas9
+T54	ResearchActivity 1197 1208	CRISPR/Cas9
+T55	TemporalConcept 566 574	Recently
+T56	BiologicFunction 576 587	CRISPR/Cas9
+T57	BiologicFunction 765 776	CRISPR/Cas9
+T58	BiologicFunction 1197 1208	CRISPR/Cas9
+T59	NucleicAcidNucleosideOrNucleotide 576 582	CRISPR
+T60	NucleicAcidNucleosideOrNucleotide 765 771	CRISPR
+T61	NucleicAcidNucleosideOrNucleotide 932 938	CRISPR
+T62	NucleicAcidNucleosideOrNucleotide 1197 1203	CRISPR
+T63	NucleicAcidNucleosideOrNucleotide 1214 1220	CRISPR
+T64	ResearchActivity 576 582	CRISPR
+T65	ResearchActivity 765 771	CRISPR
+T66	ResearchActivity 932 938	CRISPR
+T67	ResearchActivity 1214 1242	CRISPR-iPSC-based approaches
+T68	ResearchActivity 594 608	genome editing
+T69	CellFunction 72 77	death
+T70	HealthCareActivity 540 564	cell replacement therapy
+T71	Cell 1221 1225	iPSC
+T72	ResearchActivity 323 373	generation of human-induced pluripotent stem cells

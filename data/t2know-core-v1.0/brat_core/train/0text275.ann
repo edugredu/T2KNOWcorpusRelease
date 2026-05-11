@@ -1,0 +1,58 @@
+T0	DiseaseOrSyndrome 46 49	NDD
+T1	HealthCareActivity 185 198	gait analysis
+T2	Finding 260 275	noninvasiveness
+T3	ResearchActivity 346 361	autocorrelation
+T4	Substance 447 453	sample
+T5	BodyPartOrganOrOrganComponent 447 453	sample
+T6	ResearchActivity 509 522	Decision Tree
+T7	NaturalPhenomenonOrProcess 526 533	trained
+T8	BiologicFunction 666 675	dominance
+T9	DiseaseOrSyndrome 965 968	NDD
+T10	Finding 969 974	class
+T11	DiseaseOrSyndrome 1043 1046	NDD
+T12	DiseaseOrSyndrome 1299 1302	NDD
+T13	MachineActivity 1343 1352	algorithm
+T14	DiseaseOrSyndrome 1434 1459	Neurodegenerative disease
+T15	ResearchActivity 285 290	paper
+T16	Finding 1157 1163	severe
+T17	OrganismAttribute 185 189	gait
+T18	OrganismAttribute 392 396	gait
+T19	OrganismAttribute 602 609	healthy
+T20	DiseaseOrSyndrome 82 111	Amyotrophic Lateral Sclerosis
+T21	ResearchActivity 305 309	data
+T22	ResearchActivity 679 683	data
+T23	ResearchActivity 1409 1413	data
+T24	ResearchActivity 190 198	analysis
+T25	ResearchActivity 620 652	Mutual Information (MI) analysis
+T26	PopulationGroup 602 618	healthy controls
+T27	TemporalConcept 397 401	time
+T28	DiseaseOrSyndrome 18 44	neurodegenerative diseases
+T29	DiseaseOrSyndrome 570 596	neurodegenerative diseases
+T30	PatientOrDisabledGroup 1164 1172	patients
+T31	DiseaseOrSyndrome 123 143	Huntington's disease
+T32	DiseaseOrSyndrome 56 75	Parkinson's disease
+T33	DiseaseOrSyndrome 145 147	HD
+T34	DiseaseOrSyndrome 862 864	HD
+T35	DiseaseOrSyndrome 1242 1244	HD
+T36	DiseaseOrSyndrome 77 79	PD
+T37	DiseaseOrSyndrome 878 880	PD
+T38	DiseaseOrSyndrome 1258 1260	PD
+T39	DiseaseOrSyndrome 113 116	ALS
+T40	DiseaseOrSyndrome 898 901	ALS
+T41	DiseaseOrSyndrome 1278 1281	ALS
+T42	CellOrMolecularDysfunction 927 944	neurodegenerative
+T43	TemporalConcept 988 995	current
+T44	MachineActivity 1373 1405	rule based classification system
+T45	ResearchActivity 807 821	classification
+T46	Finding 822 830	accuracy
+T47	ResearchActivity 1460 1474	classification
+T48	ResearchActivity 366 383	cross correlation
+T49	ResearchActivity 205 219	classification
+T50	Finding 1198 1208	accuracies
+T51	ResearchActivity 0 14	Classification
+T52	Finding 160 179	clinical importance
+T53	MachineActivity 479 502	a rule based classifier
+T54	ResearchActivity 714 731	cross correlation
+T55	Substance 945 952	samples
+T56	BodyPartOrganOrOrganComponent 945 952	samples
+T57	Finding 1030 1038	accuracy

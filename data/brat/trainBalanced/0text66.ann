@@ -1,0 +1,22 @@
+T0	NaturalPhenomenonOrProcess 127 137	phenomenon
+T1	Finding 127 137	phenomenon
+T2	DiseaseOrSyndrome 584 602	hereditary ataxias
+T3	HealthCareActivity 627 657	targeted epigenetic correction
+T4	Finding 214 238	phenotypical realization
+T5	CellFunction 410 423	demethylation
+T6	CellFunction 0 24	Epigenetic modifications
+T7	CellFunction 394 405	methylation
+T8	CellFunction 460 481	epigenetic regulation
+T9	CellFunction 291 317	gene expression regulation
+T10	CellFunction 240 255	DNA methylation
+T11	CellFunction 350 365	DNA methylation
+T12	CellFunction 172 191	molecular mechanism
+T13	DiseaseOrSyndrome 679 704	neurodegenerative disease
+T14	HealthCareActivity 705 712	therapy
+T15	DiseaseOrSyndrome 28 54	neurodegenerative diseases
+T16	DiseaseOrSyndrome 527 556	amyotrophic lateral sclerosis
+T17	DiseaseOrSyndrome 558 578	Huntington's disease
+T18	DiseaseOrSyndrome 506 525	Parkinson's disease
+T19	DiseaseOrSyndrome 485 504	Alzheimer's disease
+T20	ResearchActivity 324 330	review
+T21	HealthCareActivity 324 330	review

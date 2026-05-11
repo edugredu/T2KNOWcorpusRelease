@@ -1,0 +1,53 @@
+T0	PopulationGroup 780 785	donor
+T1	BodyPartOrganOrOrganComponent 357 363	Saliva
+T2	ResearchActivity 4 10	search
+T3	ClinicalAttribute 1098 1118	predictive biomarker
+T4	HealthCareActivity 868 894	pharmacological treatments
+T5	ResearchActivity 868 894	pharmacological treatments
+T6	AminoAcidPeptideOrProtein 159 161	Lf
+T7	AminoAcidPeptideOrProtein 670 672	Lf
+T8	AminoAcidPeptideOrProtein 723 725	Lf
+T9	AminoAcidPeptideOrProtein 965 967	Lf
+T10	AminoAcidPeptideOrProtein 1090 1092	Lf
+T11	BiologicallyActiveSubstance 159 161	Lf
+T12	BiologicallyActiveSubstance 670 672	Lf
+T13	BiologicallyActiveSubstance 723 725	Lf
+T14	BiologicallyActiveSubstance 965 967	Lf
+T15	BiologicallyActiveSubstance 1090 1092	Lf
+T16	HealthCareActivity 100 109	challenge
+T17	BiologicallyActiveSubstance 146 157	lactoferrin
+T18	AminoAcidPeptideOrProtein 146 157	lactoferrin
+T19	BodyPartOrganOrOrganComponent 137 145	salivary
+T20	BodyPartOrganOrOrganComponent 575 583	salivary
+T21	BodyPartOrganOrOrganComponent 661 669	salivary
+T22	BodyPartOrganOrOrganComponent 714 722	salivary
+T23	BodyPartOrganOrOrganComponent 956 964	salivary
+T24	Finding 786 795	dependent
+T25	BiologicFunction 845 862	physical activity
+T26	DiseaseOrSyndrome 60 79	Alzheimer's disease
+T27	DiseaseOrSyndrome 81 83	AD
+T28	DiseaseOrSyndrome 213 215	AD
+T29	DiseaseOrSyndrome 344 346	AD
+T30	DiseaseOrSyndrome 1123 1125	AD
+T31	ClinicalAttribute 189 198	biomarker
+T32	ClinicalAttribute 397 406	biomarker
+T33	ClinicalAttribute 1109 1118	biomarker
+T34	HealthCareActivity 413 431	testing approaches
+T35	HealthCareActivity 85 94	diagnosis
+T36	ClinicalAttribute 45 55	biomarkers
+T37	Finding 302 313	performance
+T38	HealthCareActivity 575 601	salivary handling protocol
+T39	OrganismAttribute 814 817	age
+T40	TemporalConcept 1072 1078	future
+T41	PopulationGroup 347 355	subjects
+T42	HealthCareActivity 322 340	clinical detection
+T43	TemporalConcept 114 122	recently
+T44	Substance 381 387	sample
+T45	BodyPartOrganOrOrganComponent 381 387	sample
+T46	HealthCareActivity 291 301	diagnostic
+T47	ResearchActivity 705 713	analyzed
+T48	ClinicalAttribute 137 157	salivary lactoferrin
+T49	ClinicalAttribute 661 686	salivary Lf concentration
+T50	ClinicalAttribute 956 981	salivary Lf concentration
+T51	ClinicalAttribute 714 739	salivary Lf concentration
+T52	HealthCareActivity 756 775	handling conditions

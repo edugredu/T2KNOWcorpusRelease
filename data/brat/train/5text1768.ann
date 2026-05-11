@@ -1,0 +1,8 @@
+T0	Finding 43 49	severe
+T1	EmbryonicStructure 11 22	neural tube
+T2	EmbryonicStructure 84 95	neural tube
+T3	AnatomicalAbnormality 43 74	severe congenital malformations
+T4	PathologicFunction 0 30	Defects in neural tube closure
+T5	AnatomicalAbnormality 84 103	neural tube defects
+T6	AnatomicalAbnormality 113 125	spina bifida
+T7	AnatomicalAbnormality 130 141	anencephaly

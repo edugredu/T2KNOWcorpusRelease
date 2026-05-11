@@ -1,0 +1,73 @@
+T0	Chemical 746 755	compounds
+T1	PharmacologicSubstance 746 755	compounds
+T2	Chemical 964 974	flavonoids
+T3	Chemical 1209 1219	flavonoids
+T4	HealthCareActivity 1291 1297	action
+T5	Chemical 1395 1405	flavonoids
+T6	ResearchActivity 1327 1343	preclinical data
+T7	PopulationGroup 209 222	United States
+T8	Finding 1302 1312	identified
+T9	PathologicFunction 284 303	disease development
+T10	PathologicFunction 538 557	disease development
+T11	PathologicFunction 898 917	disease development
+T12	InjuryOrPoisoning 1083 1091	toxicity
+T13	HealthCareActivity 721 738	disease treatment
+T14	BiologicFunction 479 484	aging
+T15	BiologicFunction 633 638	aging
+T16	CellFunction 479 484	aging
+T17	CellFunction 633 638	aging
+T18	TemporalConcept 158 167	currently
+T19	ResearchActivity 1369 1382	investigation
+T20	PopulationGroup 195 201	people
+T21	Finding 1178 1196	beneficial effects
+T22	BodyPartOrganOrOrganComponent 485 490	brain
+T23	BodyPartOrganOrOrganComponent 639 644	brain
+T24	BodyPartOrganOrOrganComponent 855 860	brain
+T25	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T26	CellFunction 1092 1100	pathways
+T27	HealthCareActivity 729 738	treatment
+T28	HealthCareActivity 1414 1423	treatment
+T29	ResearchActivity 729 738	treatment
+T30	ResearchActivity 1414 1423	treatment
+T31	BiologicFunction 292 303	development
+T32	BiologicFunction 546 557	development
+T33	BiologicFunction 906 917	development
+T34	CellFunction 292 303	development
+T35	CellFunction 546 557	development
+T36	CellFunction 906 917	development
+T37	OrganismAttribute 373 376	age
+T38	OrganismAttribute 825 828	age
+T39	OrganismAttribute 1068 1071	age
+T40	Finding 394 405	risk factor
+T41	DiseaseOrSyndrome 59 61	AD
+T42	DiseaseOrSyndrome 1233 1235	AD
+T43	Finding 394 398	risk
+T44	Finding 511 515	risk
+T45	Finding 1165 1173	evidence
+T46	HealthCareActivity 252 262	treatments
+T47	ResearchActivity 252 262	treatments
+T48	PathologicFunction 308 319	progression
+T49	PathologicFunction 922 933	progression
+T50	TemporalConcept 308 319	progression
+T51	TemporalConcept 922 933	progression
+T52	DiseaseOrSyndrome 1117 1143	neurodegenerative diseases
+T53	DiseaseOrSyndrome 1427 1453	neurodegenerative diseases
+T54	DiseaseOrSyndrome 90 110	Huntington's disease
+T55	DiseaseOrSyndrome 64 83	Parkinson's disease
+T56	DiseaseOrSyndrome 112 114	HD
+T57	DiseaseOrSyndrome 1241 1243	HD
+T58	DiseaseOrSyndrome 85 87	PD
+T59	DiseaseOrSyndrome 1237 1239	PD
+T60	DiseaseOrSyndrome 152 155	ALS
+T61	DiseaseOrSyndrome 1249 1252	ALS
+T62	DiseaseOrSyndrome 520 545	neurodegenerative disease
+T63	DiseaseOrSyndrome 880 905	neurodegenerative disease
+T64	DiseaseOrSyndrome 121 150	amyotrophic lateral sclerosis
+T65	DiseaseOrSyndrome 38 57	Alzheimer's disease
+T66	ResearchActivity 1153 1159	review
+T67	HealthCareActivity 1153 1159	review
+T68	ResearchActivity 1223 1229	models
+T69	DiseaseOrSyndrome 427 435	maladies
+T70	BiologicFunction 775 796	biological activities
+T71	Finding 840 847	changes
+T72	Eukaryote 950 955	plant

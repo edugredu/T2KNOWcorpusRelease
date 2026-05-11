@@ -1,0 +1,8 @@
+T0	BodyPartOrganOrOrganComponent 73 78	brain
+T1	DiseaseOrSyndrome 126 145	Alzheimer's disease
+T2	AminoAcidPeptideOrProtein 42 54	amyloid-beta
+T3	BiologicFunction 100 113	understanding
+T4	EnvironmentalEffectOfHumans 24 37	air pollution
+T5	DiseaseOrSyndrome 158 167	disorders
+T6	BiologicallyActiveSubstance 42 54	amyloid-beta
+T7	PathologicFunction 42 65	amyloid-beta deposition

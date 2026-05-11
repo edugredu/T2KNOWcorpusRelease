@@ -1,0 +1,94 @@
+T0	DiseaseOrSyndrome 0 32	Age-associated cognitive decline
+T1	Finding 152 169	white matter loss
+T2	AminoAcidPeptideOrProtein 938 943	BCAS1
+T3	GeneOrGenome 938 943	BCAS1
+T4	PopulationGroup 1145 1155	progenitor
+T5	GeneOrGenome 1196 1202	NKX2.2
+T6	AminoAcidPeptideOrProtein 1473 1487	myelin protein
+T7	CellOrMolecularDysfunction 699 713	damaged myelin
+T8	AminoAcidPeptideOrProtein 1175 1195	transcription factor
+T9	BiologicallyActiveSubstance 1175 1195	transcription factor
+T10	TemporalConcept 1272 1276	aged
+T11	AminoAcidPeptideOrProtein 1497 1500	MBP
+T12	BiologicallyActiveSubstance 1497 1500	MBP
+T13	GeneOrGenome 1497 1500	MBP
+T14	OrganismAttribute 0 3	Age
+T15	Cell 435 439	OPCs
+T16	Cell 1156 1160	OPCs
+T17	Cell 1220 1224	OPCs
+T18	Cell 1277 1281	OPCs
+T19	Cell 1308 1312	OPCs
+T20	Cell 1611 1615	OPCs
+T21	Cell 402 433	oligodendrocyte precursor cells
+T22	CellFunction 540 553	differentiate
+T23	BodyPartOrganOrOrganComponent 174 180	myelin
+T24	BodyPartOrganOrOrganComponent 300 306	myelin
+T25	BodyPartOrganOrOrganComponent 616 622	myelin
+T26	BodyPartOrganOrOrganComponent 828 834	myelin
+T27	BodyPartOrganOrOrganComponent 1627 1633	myelin
+T28	Cell 1366 1389	mature oligodendrocytes
+T29	Cell 1404 1427	mature oligodendrocytes
+T30	CellFunction 1225 1240	differentiation
+T31	CellFunction 1345 1360	differentiation
+T32	BiologicFunction 835 847	regeneration
+T33	BodyPartOrganOrOrganComponent 152 164	white matter
+T34	Cell 946 974	myelinating oligodendrocytes
+T35	CellFunction 1128 1141	proliferation
+T36	Cell 349 372	oligodendrocyte lineage
+T37	Cell 559 594	mature myelinating oligodendrocytes
+T38	HealthCareActivity 835 847	regeneration
+T39	CellFunction 828 847	myelin regeneration
+T40	BiologicFunction 736 755	neuronal conduction
+T41	AminoAcidPeptideOrProtein 1505 1508	PLP
+T42	GeneOrGenome 1505 1508	PLP
+T43	BiologicallyActiveSubstance 1505 1508	PLP
+T44	BodyPartOrganOrOrganComponent 236 242	Myelin
+T45	DiseaseOrSyndrome 106 125	Alzheimer's disease
+T46	OrganismAttribute 59 66	healthy
+T47	ClinicalAttribute 1488 1495	markers
+T48	ResearchActivity 762 767	study
+T49	ResearchActivity 877 884	Results
+T50	BodyPartOrganOrOrganComponent 1567 1572	brain
+T51	Cell 336 341	cells
+T52	Cell 999 1004	cells
+T53	ResearchActivity 791 796	model
+T54	CellFunction 1445 1455	expression
+T55	ClinicalAttribute 1056 1077	cognitive performance
+T56	CellOrMolecularDysfunction 266 282	oxidative stress
+T57	Finding 848 856	capacity
+T58	Finding 1662 1670	capacity
+T59	OrganismAttribute 872 875	age
+T60	PopulationGroup 75 81	people
+T61	Finding 1259 1268	decreased
+T62	PopulationGroup 901 909	subjects
+T63	Finding 800 806	normal
+T64	Finding 1554 1560	normal
+T65	DiseaseOrSyndrome 15 32	cognitive decline
+T66	DiseaseOrSyndrome 217 234	cognitive decline
+T67	Finding 1020 1029	reduction
+T68	Finding 1585 1594	reduction
+T69	NaturalPhenomenonOrProcess 1020 1029	reduction
+T70	NaturalPhenomenonOrProcess 1585 1594	reduction
+T71	Eukaryote 777 790	rhesus monkey
+T72	CellFunction 663 676	remyelination
+T73	CellFunction 1675 1688	remyelination
+T74	CellComponent 300 313	myelin sheath
+T75	BiologicFunction 599 604	aging
+T76	BiologicFunction 807 812	aging
+T77	BiologicFunction 1561 1566	aging
+T78	CellFunction 599 604	aging
+T79	CellFunction 807 812	aging
+T80	CellFunction 1561 1566	aging
+T81	Finding 227 234	decline
+T82	ResearchActivity 1516 1520	data
+T83	NucleicAcidNucleosideOrNucleotide 1441 1444	RNA
+T84	TemporalConcept 895 900	older
+T85	PopulationGroup 67 74	elderly
+T86	InjuryOrPoisoning 623 629	damage
+T87	Finding 130 141	neuron loss
+T88	InjuryOrPoisoning 181 187	damage
+T89	InjuryOrPoisoning 456 462	damage
+T90	CellOrMolecularDysfunction 651 676	inefficient remyelination
+T91	BiologicallyActiveSubstance 938 943	BCAS1
+T92	AminoAcidPeptideOrProtein 1196 1202	NKX2.2
+T93	BiologicallyActiveSubstance 1196 1202	NKX2.2

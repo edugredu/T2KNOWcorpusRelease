@@ -1,0 +1,8 @@
+T0	BodyPartOrganOrOrganComponent 129 144	cerebral cortex
+T1	BiologicFunction 21 33	neurogenesis
+T2	BodyPartOrganOrOrganComponent 155 168	brain regions
+T3	TemporalConcept 69 78	postnatal
+T4	EmbryonicStructure 0 11	Radial glia
+T5	BiologicFunction 55 64;79 90	embryonic development
+T6	BiologicFunction 69 90	postnatal development
+T7	BiologicFunction 112 144	expansion of the cerebral cortex

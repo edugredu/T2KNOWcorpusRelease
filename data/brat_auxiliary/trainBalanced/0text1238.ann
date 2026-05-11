@@ -1,0 +1,65 @@
+T0	BiologicFunction 437 453	immunosenescence
+T1	Cell 508 519	immune cell
+T2	BiologicFunction 684 704	immune cell function
+T3	DiseaseOrSyndrome 751 770	autoimmune diseases
+T4	BiologicFunction 931 947	immunosenescence
+T5	Cell 1135 1160	haematopoietic stem cells
+T6	Cell 1285 1292	T cells
+T7	BiologicFunction 1333 1349	immunosenescence
+T8	TemporalConcept 101 116	life expectancy
+T9	HealthCareActivity 177 205	disease-modifying treatments
+T10	HealthCareActivity 997 1029	potential therapeutic strategies
+T11	ExperimentalModelOfDisease 854 895	experimental autoimmune encephalomyelitis
+T12	PathologicFunction 281 307	progression of the disease
+T13	TemporalConcept 281 307	progression of the disease
+T14	Finding 408 419	explanation
+T15	PopulationGroup 124 142	general population
+T16	TemporalConcept 246 255	frequency
+T17	Cell 1194 1225	oligodendrocyte precursor cells
+T18	DiseaseOrSyndrome 22 40	multiple sclerosis
+T19	Cell 1210 1225	precursor cells
+T20	Cell 1194 1219	oligodendrocyte precursor
+T21	TemporalConcept 585 590	early
+T22	Cell 1241 1250	monocytes
+T23	PatientOrDisabledGroup 46 54	patients
+T24	PatientOrDisabledGroup 976 984	patients
+T25	BiologicFunction 567 578	development
+T26	CellFunction 567 578	development
+T27	PathologicFunction 1392 1403	progression
+T28	TemporalConcept 1392 1403	progression
+T29	Cell 1252 1264	thymus cells
+T30	Finding 345 357	accumulation
+T31	Finding 484 496	accumulation
+T32	Cell 515 519	cell
+T33	ResearchActivity 896 902	models
+T34	ResearchActivity 649 657	overview
+T35	TemporalConcept 922 927	onset
+T36	ResearchActivity 798 805	studies
+T37	OrganismAttribute 824 827	age
+T38	Cell 1227 1236	microglia
+T39	TemporalConcept 216 223	current
+T40	PathologicFunction 735 747	pathogenesis
+T41	HealthCareActivity 224 234	treatments
+T42	ResearchActivity 224 234	treatments
+T43	BiologicFunction 665 675	senescence
+T44	TemporalConcept 665 675	senescence
+T45	PathologicFunction 374 393	disease progression
+T46	PathologicFunction 609 621	autoimmunity
+T47	BodyPartOrganOrOrganComponent 1056 1069	immune system
+T48	TemporalConcept 642 648	recent
+T49	Cell 1150 1160	stem cells
+T50	HealthCareActivity 1162 1171	therapies
+T51	DiseaseOrSyndrome 42 44	MS
+T52	DiseaseOrSyndrome 785 787	MS
+T53	DiseaseOrSyndrome 973 975	MS
+T54	DiseaseOrSyndrome 1407 1409	MS
+T55	PopulationGroup 14 21	elderly
+T56	Finding 334 344	disability
+T57	CellFunction 591 597	ageing
+T58	BiologicFunction 591 597	ageing
+T59	Finding 836 850	immune changes
+T60	TemporalConcept 912 921	premature
+T61	HealthCareActivity 1105 1128	regenerative strategies
+T62	HealthCareActivity 1090 1100;1118 1128	Senolytics strategies
+T63	Cell 1269 1280;1287 1292	senescent B cells
+T64	AminoAcidPeptideOrProtein 665 675	senescence

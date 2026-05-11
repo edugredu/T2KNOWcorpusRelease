@@ -1,0 +1,88 @@
+T0	BiologicallyActiveSubstance 12 20	Vitamins
+T1	BiologicallyActiveSubstance 29 43	micronutrients
+T2	BodyPartOrganOrOrganComponent 70 83	immune system
+T3	TemporalConcept 101 107	future
+T4	PathologicFunction 108 117	infection
+T5	BiologicallyActiveSubstance 119 127	Vitamins
+T6	BiologicFunction 160 177	defense mechanism
+T7	Cell 189 196	neurons
+T8	CellFunction 219 236	neuronal survival
+T9	CellFunction 242 263	neuronal transmission
+T10	Finding 271 281	deficiency
+T11	PathologicFunction 291 309	abnormal functions
+T12	CellOrMolecularDysfunction 346 371	mitochondrial dysfunction
+T13	Finding 373 397	accumulation of proteins
+T14	AminoAcidPeptideOrProtein 399 408	synuclein
+T15	BiologicallyActiveSubstance 399 408	synuclein
+T16	PathologicFunction 450 464	excitotoxicity
+T17	HealthCareActivity 516 523	reports
+T18	ResearchActivity 516 523	reports
+T19	HealthCareRelatedOrganization 563 576	Research gate
+T20	Finding 689 711	deficiency of vitamins
+T21	BiologicallyActiveSubstance 703 711	vitamins
+T22	DiseaseOrSyndrome 739 761	neurological disorders
+T23	DiseaseOrSyndrome 767 786	Alzheimer's disease
+T24	DiseaseOrSyndrome 788 807	Parkinson's disease
+T25	DiseaseOrSyndrome 835 845	depression
+T26	BiologicallyActiveSubstance 877 885	vitamins
+T27	DiseaseOrSyndrome 889 911	neurological disorders
+T28	DiseaseOrSyndrome 939 949	Depression
+T29	Finding 965 1002	deficiency of vitamin-C and vitamin B
+T30	BiologicallyActiveSubstance 979 988	vitamin-C
+T31	DiseaseOrSyndrome 1019 1038	Alzheimer's disease
+T32	BiologicallyActiveSubstance 1059 1069	vitamin-B1
+T33	BiologicallyActiveSubstance 1080 1089	vitamin-A
+T34	DiseaseOrSyndrome 1138 1157	Parkinson's disease
+T35	DiseaseOrSyndrome 1159 1179	vitamin-D deficiency
+T36	Finding 1191 1212	decrease in the level
+T37	SignOrSymptom 1230 1239	imbalance
+T38	CellOrMolecularDysfunction 1230 1239	imbalance
+T39	BiologicallyActiveSubstance 1243 1252	vitamin D
+T40	PathologicFunction 1262 1287	accumulation of synuclein
+T41	AminoAcidPeptideOrProtein 1278 1287	synuclein
+T42	BiologicallyActiveSubstance 1278 1287	synuclein
+T43	DiseaseOrSyndrome 1292 1294	MS
+T44	BiologicallyActiveSubstance 1296 1305	vitamin-C
+T45	DiseaseOrSyndrome 1296 1330	vitamin-C and vitamin-D deficiency
+T46	PathologicFunction 1338 1351	demyelination
+T47	Cell 1355 1362	neurons
+T48	DiseaseOrSyndrome 1389 1409	vitamin-C deficiency
+T49	CellFunction 1424 1441	antioxidant level
+T50	Chemical 1487 1494	glucose
+T51	CellFunction 1487 1500	glucose cycle
+T52	Finding 1502 1523	vitamin B5 deficiency
+T53	CellFunction 1561 1587	synthesis of acetylcholine
+T54	Chemical 1574 1587	acetylcholine
+T55	PharmacologicSubstance 1574 1587	acetylcholine
+T56	BiologicallyActiveSubstance 1574 1587	acetylcholine
+T57	BiologicallyActiveSubstance 1592 1600	hormones
+T58	BodyPartOrganOrOrganComponent 719 723	body
+T59	BodyPartOrganOrOrganComponent 927 937	human body
+T60	BodyPartOrganOrOrganComponent 317 322	brain
+T61	BodyPartOrganOrOrganComponent 1608 1613	brain
+T62	Chemical 1216 1224	dopamine
+T63	PharmacologicSubstance 1216 1224	dopamine
+T64	BiologicallyActiveSubstance 1216 1224	dopamine
+T65	DiseaseOrSyndrome 809 829	Huntington's disease
+T66	DiseaseOrSyndrome 1367 1387	Huntington's disease
+T67	DiseaseOrSyndrome 1527 1547	Huntington's disease
+T68	CellOrMolecularDysfunction 427 444	neurodegeneration
+T69	BiologicFunction 144 156	neurogenesis
+T70	CellOrMolecularDysfunction 328 344	oxidative stress
+T71	CellOrMolecularDysfunction 1452 1468	oxidative stress
+T72	ResearchActivity 483 489	review
+T73	HealthCareActivity 483 489	review
+T74	CellFunction 198 217	metabolic reactions
+T75	HealthCareRelatedOrganization 539 545	PubMed
+T76	HealthCareRelatedOrganization 547 561	Scholar Google
+T77	HealthCareRelatedOrganization 582 596	Science direct
+T78	ResearchActivity 661 671	manuscript
+T79	BiologicallyActiveSubstance 993 1002	vitamin B
+T80	AminoAcidPeptideOrProtein 1108 1122	A beta-plaques
+T81	PathologicFunction 1108 1122	A beta-plaques
+T82	AminoAcidPeptideOrProtein 410 424	A beta plaques
+T83	PathologicFunction 410 424	A beta plaques
+T84	BiologicallyActiveSubstance 1310 1319	vitamin-D
+T85	PharmacologicSubstance 1487 1494	glucose
+T86	BiologicallyActiveSubstance 1487 1494	glucose
+T87	BiologicallyActiveSubstance 1502 1512	vitamin B5

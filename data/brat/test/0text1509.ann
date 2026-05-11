@@ -1,0 +1,58 @@
+T0	IndividualBehavior 250 260	incubation
+T1	ResearchActivity 250 260	incubation
+T2	Finding 319 339	clinical sensitivity
+T3	HealthCareRelatedOrganization 552 561	community
+T4	Finding 1125 1141	high sensitivity
+T5	Finding 1125 1157	high sensitivity and specificity
+T6	TemporalConcept 728 735	initial
+T7	CellComponent 461 463	TM
+T8	DiseaseOrSyndrome 103 122	Alzheimer's disease
+T9	BodyPartOrganOrOrganComponent 155 161	plasma
+T10	BodyPartOrganOrOrganComponent 497 503	plasma
+T11	BodyPartOrganOrOrganComponent 1024 1030	plasma
+T12	AminoAcidPeptideOrProtein 12 35	Oligomeric amyloid-beta
+T13	ResearchActivity 776 783	Results
+T14	DiseaseOrSyndrome 124 126	AD
+T15	DiseaseOrSyndrome 400 402	AD
+T16	DiseaseOrSyndrome 772 774	AD
+T17	DiseaseOrSyndrome 836 838	AD
+T18	DiseaseOrSyndrome 1116 1118	AD
+T19	ClinicalAttribute 1080 1089	biomarker
+T20	Finding 582 588	normal
+T21	BodyPartOrganOrOrganComponent 1068 1073	blood
+T22	Finding 582 598	normal cognition
+T23	HealthCareActivity 745 754	diagnosis
+T24	BiologicFunction 589 598	cognition
+T25	HealthCareActivity 709 718	follow-up
+T26	TemporalConcept 709 718	follow-up
+T27	PopulationGroup 568 576	subjects
+T28	TemporalConcept 762 768	course
+T29	ResearchActivity 533 543	comparison
+T30	BodyPartOrganOrOrganComponent 454 459	Blood
+T31	AminoAcidPeptideOrProtein 37 43	A beta
+T32	AminoAcidPeptideOrProtein 129 135	A beta
+T33	AminoAcidPeptideOrProtein 266 289	spiked synthetic A beta
+T34	AminoAcidPeptideOrProtein 1031 1037	A beta
+T35	PopulationGroup 600 602	NC
+T36	PopulationGroup 872 874	NC
+T37	Finding 953 964	sensitivity
+T38	Finding 1130 1141	sensitivity
+T39	HealthCareActivity 436 444	measured
+T40	TemporalConcept 699 705	months
+T41	HealthCareActivity 736 754	clinical diagnosis
+T42	HealthCareActivity 1094 1112	clinical diagnosis
+T43	Finding 344 355	specificity
+T44	Finding 976 987	specificity
+T45	Finding 1146 1157	specificity
+T46	CellFunction 129 151	A beta oligomerization
+T47	HealthCareActivity 186 229	Multimer Detection System-Oligomeric A beta
+T48	HealthCareActivity 231 242	MDS-OA beta
+T49	HealthCareActivity 363 374	MDS-OA beta
+T50	HealthCareActivity 417 428	MDS-OA beta
+T51	HealthCareActivity 789 800	MDS-OA beta
+T52	HealthCareActivity 1001 1012	MDS-OA beta
+T53	ClinicalAttribute 1024 1053	plasma A beta oligomerization
+T54	ResearchActivity 609 628	inclusion criterion
+T55	HealthCareActivity 649 661	NINCDS-ADRDA
+T56	PathologicFunction 85 99	pathomechanism
+T57	Finding 386 396	prediction

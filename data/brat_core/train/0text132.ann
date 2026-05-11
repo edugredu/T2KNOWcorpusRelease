@@ -1,0 +1,50 @@
+T0	DiseaseOrSyndrome 48 57	inherited
+T1	DiseaseOrSyndrome 58 84	neurodegenerative disorder
+T2	SignOrSymptom 107 146	hyperkinetic, and hypokinetic movements
+T3	HealthCareRelatedOrganization 152 155	FDA
+T4	SignOrSymptom 350 358	symptoms
+T5	DiseaseOrSyndrome 367 377	depression
+T6	DiseaseOrSyndrome 379 386	anxiety
+T7	SignOrSymptom 388 402	muscle tremors
+T8	DiseaseOrSyndrome 408 429	cognitive dysfunction
+T9	HealthCareActivity 509 525	Drug repurposing
+T10	ResearchActivity 554 560	search
+T11	Chemical 593 610	molecular targets
+T12	Chemical 638 653	small molecules
+T13	HealthCareActivity 658 672	gene therapies
+T14	ResearchActivity 693 715	clinical investigation
+T15	ResearchActivity 731 747	clinical studies
+T16	ResearchActivity 805 826	observational studies
+T17	Chemical 861 875	small molecule
+T18	Chemical 898 915	molecular targets
+T19	ClinicalAttribute 941 951	biomarkers
+T20	HealthCareActivity 953 969	diagnostic tests
+T21	HealthCareActivity 971 985	gene therapies
+T22	ResearchActivity 1002 1023	observational studies
+T23	DiseaseOrSyndrome 99 105	chorea
+T24	DiseaseOrSyndrome 242 248	chorea
+T25	DiseaseOrSyndrome 333 339	chorea
+T26	SignOrSymptom 99 105	chorea
+T27	SignOrSymptom 242 248	chorea
+T28	SignOrSymptom 333 339	chorea
+T29	HealthCareActivity 470 497	disease-modifying treatment
+T30	PharmacologicSubstance 178 183	drugs
+T31	PharmacologicSubstance 292 297	drugs
+T32	PharmacologicSubstance 577 582	drugs
+T33	PharmacologicSubstance 509 513	Drug
+T34	DiseaseOrSyndrome 22 24	HD
+T35	DiseaseOrSyndrome 265 267	HD
+T36	DiseaseOrSyndrome 446 448	HD
+T37	DiseaseOrSyndrome 574 576	HD
+T38	DiseaseOrSyndrome 765 767	HD
+T39	DiseaseOrSyndrome 920 922	HD
+T40	DiseaseOrSyndrome 1028 1030	HD
+T41	DiseaseOrSyndrome 0 20	Huntington's disease
+T42	TemporalConcept 31 35	rare
+T43	ResearchActivity 840 846	review
+T44	HealthCareActivity 840 846	review
+T45	PharmacologicSubstance 190 203	tetrabenazine
+T46	PharmacologicSubstance 209 226	deu-tetrabenazine
+T47	Chemical 190 203	tetrabenazine
+T48	Chemical 209 226	deu-tetrabenazine
+T49	ResearchActivity 876 893	clinical pipeline

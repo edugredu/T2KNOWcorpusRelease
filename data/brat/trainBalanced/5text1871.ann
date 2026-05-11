@@ -1,0 +1,5 @@
+T0	DiseaseOrSyndrome 106 134	neurodegenerative conditions
+T1	PathologicFunction 83 92	infection
+T2	Finding 176 196	causal relationships
+T3	Bacterium 62 82	Chlamydia pneumoniae
+T4	ResearchActivity 0 23	Epidemiological studies

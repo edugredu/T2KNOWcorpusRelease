@@ -1,0 +1,9 @@
+T0	Cell 40 51	glial cells
+T1	Cell 165 173	neuronal
+T2	Cell 40 45	glial
+T3	Finding 11 29	bipolar morphology
+T4	CellFunction 174 183	migration
+T5	EmbryonicStructure 33 45	radial glial
+T6	EmbryonicStructure 33 51	radial glial cells
+T7	BodyPartOrganOrOrganComponent 94 110	ventricular zone
+T8	BodyPartOrganOrOrganComponent 118 130	pial surface

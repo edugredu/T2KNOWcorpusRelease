@@ -1,0 +1,4 @@
+model	model_slug	flat_recovery_mean	nested_recovery_mean	same_span_recovery_mean	flat_recovery_std	nested_recovery_std	same_span_recovery_std
+BiomedBERT	biomedbert	0.8615708762	0.6700622524	0.8069319510	0.0027026953	0.0122659578	0.0047960363
+BioBERT	biobert	0.8506668404	0.6689303905	0.7844691772	0.0031608619	0.0029209933	0.0070433973
+W2NER + BiomedBERT	w2ner_biomedbert	0.9313393284	0.8685908319	0.9234131219	0.0004768778	0.0029209933	0.0022140591

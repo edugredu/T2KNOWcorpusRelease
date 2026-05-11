@@ -1,0 +1,8 @@
+T0	CellOrMolecularDysfunction 114 131	neurodegeneration
+T1	Cell 46 55	microglia
+T2	PathologicFunction 74 101	neuroinflammatory processes
+T3	EnvironmentalEffectOfHumans 0 23	Tobacco smoke pollution
+T4	Substance 0 13	Tobacco smoke
+T5	EnvironmentalEffectOfHumans 8 23	smoke pollution
+T6	EnvironmentalEffectOfHumans 14 23	pollution
+T7	CellFunction 32 42	activation

@@ -1,0 +1,158 @@
+T0	Finding 68 80	hypertensive
+T1	Chemical 171 182	Candesartan
+T2	PharmacologicSubstance 187 215	angiotensin receptor blocker
+T3	DiseaseOrSyndrome 283 295	hypertension
+T4	Finding 283 295	hypertension
+T5	Chemical 523 534	candesartan
+T6	TemporalConcept 916 920	once
+T7	Chemical 932 943	candesartan
+T8	Chemical 1028 1039	candesartan
+T9	Chemical 1491 1502	candesartan
+T10	Chemical 1580 1591	Candesartan
+T11	Finding 1676 1687	hypotension
+T12	DiseaseOrSyndrome 1689 1702	renal failure
+T13	Finding 1706 1718	hyperkalemia
+T14	Chemical 1720 1731	Candesartan
+T15	Chemical 2015 2026	Candesartan
+T16	CellFunction 2286 2294	networks
+T17	Chemical 2296 2307	Candesartan
+T18	BiologicFunction 2345 2363	executive function
+T19	Chemical 2830 2841	candesartan
+T20	Chemical 3003 3014	candesartan
+T21	DiseaseOrSyndrome 3175 3182	illness
+T22	DiseaseOrSyndrome 653 682	prodromal Alzheimer's disease
+T23	DiseaseOrSyndrome 2799 2828	prodromal Alzheimer's disease
+T24	Finding 2047 2056	decreased
+T25	BiologicFunction 1299 1320	cognitive functioning
+T26	BiologicFunction 2490 2511	cognitive functioning
+T27	Finding 2336 2344	improved
+T28	Finding 2474 2482	improved
+T29	HealthCareActivity 1176 1187	PET imaging
+T30	PopulationGroup 784 791	African
+T31	ResearchActivity 3098 3111	investigation
+T32	HealthCareActivity 1246 1255	brain MRI
+T33	HealthCareActivity 2715 2758	clinical dementia rating scale-sum of boxes
+T34	Chemical 1217 1220	PiB
+T35	Chemical 2059 2064	C-PiB
+T36	ClinicalAttribute 2685 2703	cognitive measures
+T37	HealthCareActivity 1180 1187	imaging
+T38	Chemical 1226 1243	F-18-flortaucipir
+T39	HealthCareRelatedOrganization 1545 1563	ClinicalTrials.gov
+T40	ResearchActivity 1012 1024	tolerability
+T41	BiologicallyActiveSubstance 47 55	receptor
+T42	BiologicallyActiveSubstance 199 207	receptor
+T43	AminoAcidPeptideOrProtein 1121 1132	phospho-tau
+T44	BiologicallyActiveSubstance 1121 1132	phospho-tau
+T45	AminoAcidPeptideOrProtein 1802 1811	A beta 40
+T46	AminoAcidPeptideOrProtein 1905 1914	A beta 42
+T47	BiologicallyActiveSubstance 1802 1811	A beta 40
+T48	BiologicallyActiveSubstance 1905 1914	A beta 42
+T49	TemporalConcept 740 745	older
+T50	TemporalConcept 412 417	first
+T51	SignOrSymptom 1664 1672	symptoms
+T52	TemporalConcept 507 511	year
+T53	BodyPartOrganOrOrganComponent 2274 2285	subcortical
+T54	BodyPartOrganOrOrganComponent 2906 2917	subcortical
+T55	PopulationGroup 784 800	African American
+T56	Finding 1618 1643	no significant difference
+T57	PathologicFunction 152 169	disease pathology
+T58	ResearchActivity 1863 1882	confidence interval
+T59	ResearchActivity 1933 1952	confidence interval
+T60	ResearchActivity 2109 2128	confidence interval
+T61	ResearchActivity 2418 2437	confidence interval
+T62	ResearchActivity 2565 2584	confidence interval
+T63	AminoAcidPeptideOrProtein 2645 2648	tau
+T64	DiseaseOrSyndrome 140 159	Alzheimer's disease
+T65	DiseaseOrSyndrome 367 386	Alzheimer's disease
+T66	DiseaseOrSyndrome 576 595	Alzheimer's disease
+T67	DiseaseOrSyndrome 663 682	Alzheimer's disease
+T68	DiseaseOrSyndrome 857 876	Alzheimer's disease
+T69	DiseaseOrSyndrome 3057 3076	Alzheimer's disease
+T70	BiologicallyActiveSubstance 2645 2648	tau
+T71	ClinicalAttribute 633 642	biomarker
+T72	ClinicalAttribute 837 846	biomarker
+T73	BodyPartOrganOrOrganComponent 1041 1060	cerebrospinal fluid
+T74	BodyPartOrganOrOrganComponent 1782 1801	cerebrospinal fluid
+T75	AminoAcidPeptideOrProtein 1107 1116	total tau
+T76	BiologicallyActiveSubstance 1107 1116	total tau
+T77	Finding 2547 2552	score
+T78	BodyPartOrganOrOrganComponent 1987 1992	brain
+T79	BodyPartOrganOrOrganComponent 2871 2876	brain
+T80	BodyPartOrganOrOrganComponent 2918 2923	brain
+T81	HealthCareActivity 3136 3145	treatment
+T82	ResearchActivity 3136 3145	treatment
+T83	PopulationGroup 715 727	participants
+T84	PopulationGroup 332 361	non, hypertensive individuals
+T85	PopulationGroup 599 627	non-hypertensive individuals
+T86	ResearchActivity 14 21	studies
+T87	AminoAcidPeptideOrProtein 1073 1088	amyloid-beta 42
+T88	AminoAcidPeptideOrProtein 1090 1105	amyloid-beta 40
+T89	AminoAcidPeptideOrProtein 1993 2000	amyloid
+T90	AminoAcidPeptideOrProtein 2877 2884	amyloid
+T91	BiologicallyActiveSubstance 1073 1088	amyloid-beta 42
+T92	BiologicallyActiveSubstance 1090 1105	amyloid-beta 40
+T93	BiologicallyActiveSubstance 1993 2000	amyloid
+T94	BiologicallyActiveSubstance 2877 2884	amyloid
+T95	ClinicalAttribute 538 548	biomarkers
+T96	ClinicalAttribute 1061 1071	biomarkers
+T97	ClinicalAttribute 2885 2895	biomarkers
+T98	ResearchActivity 2178 2209	false discovery rate correction
+T99	Finding 2391 2402	performance
+T100	PopulationGroup 773 778	women
+T101	Finding 983 991	outcomes
+T102	Finding 1158 1166	outcomes
+T103	Finding 1535 1543	outcomes
+T104	OrganismAttribute 752 755	age
+T105	HealthCareActivity 310 316	safety
+T106	HealthCareActivity 483 489	safety
+T107	HealthCareActivity 1001 1007	safety
+T108	HealthCareActivity 1389 1404	safety measures
+T109	HealthCareActivity 1647 1662	safety measures
+T110	TemporalConcept 731 736	years
+T111	TemporalConcept 762 767	years
+T112	ResearchActivity 418 466	double-blind randomized placebo-controlled trial
+T113	HealthCareActivity 969 976	placebo
+T114	Finding 321 328	effects
+T115	Finding 494 501	effects
+T116	Finding 1503 1510	effects
+T117	Finding 2634 2641	effects
+T118	Finding 2945 2973	favourable cognitive effects
+T119	HealthCareActivity 512 519	therapy
+T120	ResearchActivity 1432 1470	repeated measures mixed effects models
+T121	HealthCareActivity 1176 1179	PET
+T122	DiseaseOrSyndrome 252 277	mild cognitive impairment
+T123	DiseaseOrSyndrome 807 832	mild cognitive impairment
+T124	PopulationGroup 1368 1373	group
+T125	PopulationGroup 1821 1826	group
+T126	Finding 2001 2013	accumulation
+T127	BiologicFunction 1272 1284	connectivity
+T128	BiologicFunction 2235 2266	functional network connectivity
+T129	BiologicFunction 2924 2936	connectivity
+T130	PopulationGroup 81 87	adults
+T131	BiologicFunction 2705 2711	memory
+T132	TemporalConcept 921 926	daily
+T133	ResearchActivity 1411 1426	Chi-square test
+T134	HealthCareActivity 1422 1426	test
+T135	ClinicalAttribute 2657 2675	hippocampal volume
+T136	ClinicalAttribute 2645 2655	tau levels
+T137	TemporalConcept 114 118	post
+T138	TemporalConcept 114 125	post-mortem
+T139	PatientOrDisabledGroup 68 87	hypertensive adults
+T140	PharmacologicSubstance 171 182	Candesartan
+T141	PharmacologicSubstance 523 534	candesartan
+T142	BodyPartOrganOrOrganComponent 927 931	oral
+T143	PharmacologicSubstance 932 943	candesartan
+T144	PharmacologicSubstance 1028 1039	candesartan
+T145	Chemical 1189 1210	Pittsburgh Compound-B
+T146	ResearchActivity 1322 1330	Analyses
+T147	ResearchActivity 1377 1378	p
+T148	PharmacologicSubstance 1491 1502	candesartan
+T149	PharmacologicSubstance 1583 1584	d
+T150	PharmacologicSubstance 1720 1731	Candesartan
+T151	PharmacologicSubstance 2015 2026	Candesartan
+T152	BodyPartOrganOrOrganComponent 2072 2094	parahippocampal region
+T153	PharmacologicSubstance 2296 2307	Candesartan
+T154	HealthCareActivity 2365 2389	Trail Making Test Part B
+T155	PharmacologicSubstance 2830 2841	candesartan
+T156	PharmacologicSubstance 3003 3014	candesartan
+T157	Finding 3037 3053	therapeutic role

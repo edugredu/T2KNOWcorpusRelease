@@ -1,0 +1,97 @@
+T0	HealthCareActivity 229 238	Diagnoses
+T1	BodyPartOrganOrOrganComponent 753 758	lower
+T2	AminoAcidPeptideOrProtein 532 551	neurofilament light
+T3	BiologicallyActiveSubstance 532 551	neurofilament light
+T4	AminoAcidPeptideOrProtein 520 526	YKL-40
+T5	AminoAcidPeptideOrProtein 649 655	YKL-40
+T6	AminoAcidPeptideOrProtein 873 879	YKL-40
+T7	BiologicallyActiveSubstance 520 526	YKL-40
+T8	BiologicallyActiveSubstance 649 655	YKL-40
+T9	BiologicallyActiveSubstance 873 879	YKL-40
+T10	CellFunction 492 506	phosphorylated
+T11	Finding 362 384	cognitively unimpaired
+T12	HealthCareActivity 427 435	measured
+T13	TemporalConcept 680 684	year
+T14	TemporalConcept 811 815	year
+T15	DiseaseOrSyndrome 244 272	subjective cognitive decline
+T16	BiologicallyActiveSubstance 553 556	NfL
+T17	BiologicallyActiveSubstance 640 643	NfL
+T18	BiologicallyActiveSubstance 854 857	NfL
+T19	AminoAcidPeptideOrProtein 553 556	NfL
+T20	AminoAcidPeptideOrProtein 640 643	NfL
+T21	AminoAcidPeptideOrProtein 854 857	NfL
+T22	AminoAcidPeptideOrProtein 479 482	tau
+T23	AminoAcidPeptideOrProtein 486 489	tau
+T24	AminoAcidPeptideOrProtein 507 510	tau
+T25	AminoAcidPeptideOrProtein 514 517	tau
+T26	AminoAcidPeptideOrProtein 628 631	tau
+T27	AminoAcidPeptideOrProtein 635 638	tau
+T28	AminoAcidPeptideOrProtein 734 737	tau
+T29	AminoAcidPeptideOrProtein 776 779	tau
+T30	AminoAcidPeptideOrProtein 1017 1020	tau
+T31	DiseaseOrSyndrome 84 103	Alzheimer's disease
+T32	BodyPartOrganOrOrganComponent 65 68	CSF
+T33	BodyPartOrganOrOrganComponent 216 219	CSF
+T34	BodyPartOrganOrOrganComponent 459 462	CSF
+T35	BodyPartOrganOrOrganComponent 566 569	CSF
+T36	BodyPartOrganOrOrganComponent 612 615	CSF
+T37	BodyPartOrganOrOrganComponent 946 949	CSF
+T38	BiologicallyActiveSubstance 479 482	tau
+T39	BiologicallyActiveSubstance 486 489	tau
+T40	BiologicallyActiveSubstance 507 510	tau
+T41	BiologicallyActiveSubstance 514 517	tau
+T42	BiologicallyActiveSubstance 628 631	tau
+T43	BiologicallyActiveSubstance 635 638	tau
+T44	BiologicallyActiveSubstance 734 737	tau
+T45	BiologicallyActiveSubstance 776 779	tau
+T46	BiologicallyActiveSubstance 1017 1020	tau
+T47	DiseaseOrSyndrome 105 107	AD
+T48	DiseaseOrSyndrome 324 326	AD
+T49	DiseaseOrSyndrome 728 730	AD
+T50	DiseaseOrSyndrome 1008 1010	AD
+T51	BodyPartOrganOrOrganComponent 44 63	cerebrospinal fluid
+T52	PopulationGroup 704 712	controls
+T53	AminoAcidPeptideOrProtein 473 482	total tau
+T54	BiologicallyActiveSubstance 473 482	total tau
+T55	AminoAcidPeptideOrProtein 492 510	phosphorylated tau
+T56	BiologicallyActiveSubstance 492 510	phosphorylated tau
+T57	TemporalConcept 917 923	period
+T58	DiseaseOrSyndrome 327 335	dementia
+T59	ClinicalAttribute 70 80	biomarkers
+T60	ClinicalAttribute 950 960	biomarkers
+T61	ResearchActivity 174 190	BIOMARKAPD study
+T62	ResearchActivity 911 916	study
+T63	BiologicallyActiveSubstance 484 489	t-tau
+T64	BiologicallyActiveSubstance 626 631	t-tau
+T65	BiologicallyActiveSubstance 732 737	t-tau
+T66	BiologicallyActiveSubstance 1015 1020	t-tau
+T67	AminoAcidPeptideOrProtein 484 489	t-tau
+T68	AminoAcidPeptideOrProtein 626 631	t-tau
+T69	AminoAcidPeptideOrProtein 732 737	t-tau
+T70	AminoAcidPeptideOrProtein 1015 1020	t-tau
+T71	ResearchActivity 603 610	Results
+T72	DiseaseOrSyndrome 255 272	cognitive decline
+T73	OrganismAttribute 697 700	age
+T74	OrganismAttribute 828 831	age
+T75	OrganismAttribute 975 978	age
+T76	HealthCareActivity 449 458	follow-up
+T77	TemporalConcept 449 458	follow-up
+T78	TemporalConcept 596 601	years
+T79	DiseaseOrSyndrome 283 308	mild cognitive impairment
+T80	AminoAcidPeptideOrProtein 512 517	p-tau
+T81	AminoAcidPeptideOrProtein 633 638	p-tau
+T82	AminoAcidPeptideOrProtein 774 779	p-tau
+T83	BiologicallyActiveSubstance 512 517	p-tau
+T84	BiologicallyActiveSubstance 633 638	p-tau
+T85	BiologicallyActiveSubstance 774 779	p-tau
+T86	PopulationGroup 353 358	group
+T87	PopulationGroup 156 164	subjects
+T88	PopulationGroup 385 393	subjects
+T89	HealthCareRelatedOrganization 1044 1067	Alzheimer's Association
+T90	ClinicalAttribute 732 744	t-tau levels
+T91	ClinicalAttribute 774 786	p-tau levels
+T92	Substance 220 227	samples
+T93	BodyPartOrganOrOrganComponent 220 227	samples
+T94	TemporalConcept 579 587	interval
+T95	HealthCareActivity 566 578	CSF sampling
+T96	ClinicalAttribute 612 631	CSF levels of t-tau

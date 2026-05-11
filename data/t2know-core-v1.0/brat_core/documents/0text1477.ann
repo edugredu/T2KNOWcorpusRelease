@@ -1,0 +1,96 @@
+T0	AminoAcidPeptideOrProtein 0 12	Amyloid-beta
+T1	ResearchActivity 235 254	immunoprecipitation
+T2	ResearchActivity 269 345	matrix-assisted laser desorption ionization time-of-flight mass spectrometry
+T3	Finding 559 565	status
+T4	AminoAcidPeptideOrProtein 703 714	Disintegrin
+T5	AminoAcidPeptideOrProtein 719 736	Metalloproteinase
+T6	GeneOrGenome 719 736	Metalloproteinase
+T7	GeneOrGenome 781 788	ADAMTS4
+T8	AminoAcidPeptideOrProtein 781 788	ADAMTS4
+T9	AminoAcidPeptideOrProtein 807 813	enzyme
+T10	GeneOrGenome 841 848	ADAMTS4
+T11	AminoAcidPeptideOrProtein 841 848	ADAMTS4
+T12	AminoAcidPeptideOrProtein 945 960	gamma-secretase
+T13	BiologicallyActiveSubstance 945 960	gamma-secretase
+T14	GeneOrGenome 1004 1011	ADAMTS4
+T15	AminoAcidPeptideOrProtein 1004 1011	ADAMTS4
+T16	Cell 1077 1091	cultured cells
+T17	ResearchActivity 1077 1091	cultured cells
+T18	GeneOrGenome 1346 1353	ADAMTS4
+T19	AminoAcidPeptideOrProtein 1346 1353	ADAMTS4
+T20	ResearchActivity 658 666	in vitro
+T21	BodyPartOrganOrOrganComponent 40 56	brain parenchyma
+T22	AminoAcidPeptideOrProtein 177 189	(APP)669-711
+T23	AminoAcidPeptideOrProtein 857 860	APP
+T24	GeneOrGenome 178 181	APP
+T25	GeneOrGenome 857 860	APP
+T26	BiologicallyActiveSubstance 178 181	APP
+T27	BiologicallyActiveSubstance 857 860	APP
+T28	HealthCareActivity 555 558	PET
+T29	DiseaseOrSyndrome 97 114	Alzheimer disease
+T30	TemporalConcept 1241 1245	aged
+T31	BodyPartOrganOrOrganComponent 1510 1515	brain
+T32	DiseaseOrSyndrome 116 118	AD
+T33	DiseaseOrSyndrome 569 571	AD
+T34	DiseaseOrSyndrome 1246 1248	AD
+T35	BodyPartOrganOrOrganComponent 222 228	plasma
+T36	BodyPartOrganOrOrganComponent 519 525	plasma
+T37	BodyPartOrganOrOrganComponent 1109 1115	plasma
+T38	BodyPartOrganOrOrganComponent 1405 1411	plasma
+T39	PatientOrDisabledGroup 572 580	patients
+T40	PatientOrDisabledGroup 1312 1320	patients
+T41	ClinicalAttribute 413 422	biomarker
+T42	ClinicalAttribute 1412 1421	biomarker
+T43	ResearchActivity 1328 1332	data
+T44	Eukaryote 216 221	human
+T45	Eukaryote 513 518	human
+T46	Eukaryote 1306 1311	human
+T47	Eukaryote 1103 1108	mouse
+T48	Eukaryote 1519 1524	mouse
+T49	Finding 84 93	hallmarks
+T50	ResearchActivity 671 685	in vivo assays
+T51	TemporalConcept 313 317	time
+T52	AminoAcidPeptideOrProtein 151 176	amyloid precursor protein
+T53	AminoAcidPeptideOrProtein 547 554	amyloid
+T54	BiologicallyActiveSubstance 547 554	amyloid
+T55	AminoAcidPeptideOrProtein 14 20	A beta
+T56	AminoAcidPeptideOrProtein 198 211	A beta(-3)-40
+T57	AminoAcidPeptideOrProtein 458 469	A beta 1-42
+T58	AminoAcidPeptideOrProtein 480 491	A beta 1-40
+T59	AminoAcidPeptideOrProtein 492 503	A beta 1-42
+T60	AminoAcidPeptideOrProtein 1135 1141	A beta
+T61	AminoAcidPeptideOrProtein 1206 1217	A beta 1-42
+T62	AminoAcidPeptideOrProtein 1273 1279	A beta
+T63	AminoAcidPeptideOrProtein 1485 1491	A beta
+T64	ResearchActivity 1525 1531	models
+T65	ResearchActivity 347 358	IP-MALDI-MS
+T66	BiologicallyActiveSubstance 198 211	A beta(-3)-40
+T67	AminoAcidPeptideOrProtein 447 457	APP669-711
+T68	BiologicallyActiveSubstance 447 457	APP669-711
+T69	BiologicallyActiveSubstance 458 469	A beta 1-42
+T70	BiologicallyActiveSubstance 480 491	A beta 1-40
+T71	BiologicallyActiveSubstance 492 503	A beta 1-42
+T72	AminoAcidPeptideOrProtein 619 629	APP669-711
+T73	BiologicallyActiveSubstance 619 629	APP669-711
+T74	AminoAcidPeptideOrProtein 744 779	Thrombospondin type 1 motif, type 4
+T75	GeneOrGenome 744 779	Thrombospondin type 1 motif, type 4
+T76	BiologicallyActiveSubstance 807 813	enzyme
+T77	AminoAcidPeptideOrProtein 818 828	APP669-711
+T78	BiologicallyActiveSubstance 818 828	APP669-711
+T79	AminoAcidPeptideOrProtein 886 906	C-terminal stub c102
+T80	AminoAcidPeptideOrProtein 972 982	APP669-711
+T81	BiologicallyActiveSubstance 972 982	APP669-711
+T82	BiologicallyActiveSubstance 1004 1011	ADAMTS4
+T83	BiologicallyActiveSubstance 781 788	ADAMTS4
+T84	ResearchActivity 984 1000	Genetic knockout
+T85	AminoAcidPeptideOrProtein 1049 1059	APP669-711
+T86	BiologicallyActiveSubstance 1049 1059	APP669-711
+T87	Eukaryote 1188 1194	murine
+T88	AminoAcidPeptideOrProtein 1195 1205	APP669-711
+T89	BiologicallyActiveSubstance 1195 1205	APP669-711
+T90	BiologicallyActiveSubstance 1206 1217	A beta 1-42
+T91	ExperimentalModelOfDisease 1241 1259	aged AD model mice
+T92	BiologicallyActiveSubstance 1346 1353	ADAMTS4
+T93	BiologicallyActiveSubstance 1387 1397	APP669-711
+T94	AminoAcidPeptideOrProtein 1387 1397	APP669-711
+T95	ResearchActivity 1436 1447	IP-MALDI-MS

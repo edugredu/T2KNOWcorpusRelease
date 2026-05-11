@@ -1,0 +1,90 @@
+T0	CellFunction 289 305	protein transfer
+T1	GeneOrGenome 587 593	DNAJB6
+T2	AminoAcidPeptideOrProtein 587 593	DNAJB6
+T3	CellFunction 624 639	protein folding
+T4	ResearchActivity 820 828	wildtype
+T5	GeneOrGenome 1011 1017	DNAJB6
+T6	AminoAcidPeptideOrProtein 1011 1017	DNAJB6
+T7	AminoAcidPeptideOrProtein 1144 1153	chaperone
+T8	BiologicallyActiveSubstance 1144 1153	chaperone
+T9	AminoAcidPeptideOrProtein 1233 1242	chaperone
+T10	BiologicallyActiveSubstance 1233 1242	chaperone
+T11	GeneOrGenome 1457 1463	DNAJB6
+T12	AminoAcidPeptideOrProtein 1457 1463	DNAJB6
+T13	AminoAcidPeptideOrProtein 1369 1379	chaperones
+T14	BiologicallyActiveSubstance 1369 1379	chaperones
+T15	BiologicallyActiveSubstance 46 55	effectors
+T16	DiseaseOrSyndrome 739 759	Huntington's disease
+T17	CellFunction 1207 1221	downregulation
+T18	Finding 1533 1545	relationship
+T19	BiologicFunction 359 366	content
+T20	BiologicFunction 1565 1572	content
+T21	CellComponent 13 35	extracellular vesicles
+T22	DiseaseOrSyndrome 715 734	Alzheimer's disease
+T23	CellComponent 37 40	EVs
+T24	CellComponent 274 277	EVs
+T25	CellComponent 438 441	EVs
+T26	CellComponent 549 552	EVs
+T27	CellComponent 802 805	EVs
+T28	CellComponent 856 859	EVs
+T29	CellComponent 1065 1068	EVs
+T30	CellComponent 356 358	EV
+T31	CellComponent 1420 1422	EV
+T32	CellComponent 1445 1447	EV
+T33	CellComponent 1554 1556	EV
+T34	CellComponent 1577 1579	EV
+T35	ResearchActivity 943 965	Comprehensive analysis
+T36	Cell 196 201	cells
+T37	Cell 829 842	HEK293T cells
+T38	Cell 865 879	HEK 293T cells
+T39	Cell 1104 1109	cells
+T40	Cell 1480 1493	HEK293T cells
+T41	CellComponent 214 219	cargo
+T42	CellFunction 1355 1365	expression
+T43	ResearchActivity 764 772	analyzed
+T44	AminoAcidPeptideOrProtein 790 798	proteome
+T45	BiologicallyActiveSubstance 790 798	proteome
+T46	AminoAcidPeptideOrProtein 234 242	proteins
+T47	AminoAcidPeptideOrProtein 595 613	Chaperone proteins
+T48	AminoAcidPeptideOrProtein 1053 1061	proteins
+T49	AminoAcidPeptideOrProtein 1186 1194	proteins
+T50	AminoAcidPeptideOrProtein 1260 1268	proteins
+T51	Finding 1464 1476	transmission
+T52	CellFunction 880 894	overexpressing
+T53	ResearchActivity 902 904	WT
+T54	CellFunction 59 85	cell-to-cell communication
+T55	ResearchActivity 140 147	in vivo
+T56	Cell 311 323	target cells
+T57	Cell 1346 1354	cellular
+T58	HealthCareActivity 72 85	communication
+T59	CellFunction 72 85	communication
+T60	OrganismAttribute 179 186	ability
+T61	PharmacologicSubstance 148 152	drug
+T62	Finding 1303 1311	presence
+T63	ResearchActivity 969 984	proteomics data
+T64	CellFunction 67 85	cell communication
+T65	CellFunction 1126 1138	upregulation
+T66	CellOrMolecularDysfunction 908 941	loss-of-function mutant DNAJB6-M3
+T67	AminoAcidPeptideOrProtein 289 296	protein
+T68	AminoAcidPeptideOrProtein 569 593	chaperone protein DNAJB6
+T69	AminoAcidPeptideOrProtein 1029 1036	protein
+T70	AminoAcidPeptideOrProtein 1162 1169	protein
+T71	AminoAcidPeptideOrProtein 1557 1564	protein
+T72	HealthCareActivity 419 434	clinical safety
+T73	BiologicFunction 153 161	delivery
+T74	HealthCareActivity 148 161	drug delivery
+T75	CellFunction 677 696	protein aggregation
+T76	BiomedicalOccupationOrDiscipline 969 979	proteomics
+T77	BiologicallyActiveSubstance 569 593	chaperone protein DNAJB6
+T78	BiologicallyActiveSubstance 587 593	DNAJB6
+T79	DiseaseOrSyndrome 677 705	protein aggregation diseases
+T80	AminoAcidPeptideOrProtein 895 901	DNAJB6
+T81	GeneOrGenome 895 901	DNAJB6
+T82	BiologicallyActiveSubstance 895 901	DNAJB6
+T83	BiologicallyActiveSubstance 1011 1017	DNAJB6
+T84	AminoAcidPeptideOrProtein 1082 1088	DNAJB6
+T85	BiologicallyActiveSubstance 1082 1088	DNAJB6
+T86	GeneOrGenome 1082 1088	DNAJB6
+T87	ResearchActivity 1410 1433	proteomic EV signatures
+T88	BiologicallyActiveSubstance 1457 1463	DNAJB6
+T89	CellFunction 1577 1588	EV function

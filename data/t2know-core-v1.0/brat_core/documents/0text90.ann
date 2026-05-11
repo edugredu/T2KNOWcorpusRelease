@@ -1,0 +1,58 @@
+T0	CellFunction 492 522	cellular metabolism regulation
+T1	CellComponent 524 537	intracellular
+T2	CellFunction 524 557	intracellular calcium homeostasis
+T3	BiologicFunction 538 557	calcium homeostasis
+T4	BiologicFunction 559 575	immune responses
+T5	CellFunction 559 575	immune responses
+T6	CellFunction 581 590	cell fate
+T7	CellFunction 794 800	mitoQC
+T8	BiologicFunction 842 854	bioenergetic
+T9	Finding 855 862	defects
+T10	CellFunction 916 922	mitoQC
+T11	CellFunction 988 1009	organelle degradation
+T12	CellFunction 1070 1076	mitoQC
+T13	CellFunction 1235 1241	mitoQC
+T14	ResearchActivity 777 792	quality control
+T15	Cell 166 172	neuron
+T16	HealthCareActivity 1191 1213	therapeutic strategies
+T17	TemporalConcept 1042 1049	to date
+T18	CellFunction 948 960	proteostasis
+T19	CellOrMolecularDysfunction 672 697	mitochondrial dysfunction
+T20	CellComponent 631 644	mitochondrial
+T21	CellComponent 763 776	mitochondrial
+T22	CellComponent 803 816	mitochondrial
+T23	CellComponent 934 947	mitochondrial
+T24	CellComponent 1081 1094	mitochondrial
+T25	CellComponent 408 420	Mitochondria
+T26	CellFunction 962 972	biogenesis
+T27	Finding 306 327	accumulating evidence
+T28	TemporalConcept 1045 1049	date
+T29	NaturalPhenomenonOrProcess 974 982	dynamics
+T30	TemporalConcept 260 270	initiation
+T31	PathologicFunction 824 836	inflammation
+T32	PathologicFunction 1102 1114	inflammation
+T33	DiseaseOrSyndrome 38 49	Alzheimer's
+T34	BiologicFunction 546 557	homeostasis
+T35	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T36	Cell 598 603	cells
+T37	TemporalConcept 136 147	progressive
+T38	BiologicFunction 275 286	development
+T39	CellFunction 275 286	development
+T40	DiseaseOrSyndrome 64 76	Huntington's
+T41	Cell 445 452	neurons
+T42	BodyPartOrganOrOrganComponent 189 211	central nervous system
+T43	BodyPartOrganOrOrganComponent 213 216	CNS
+T44	BodyPartOrganOrOrganComponent 611 614	CNS
+T45	TemporalConcept 875 882	briefly
+T46	DiseaseOrSyndrome 716 742	neurodegenerative diseases
+T47	DiseaseOrSyndrome 1133 1159	neurodegenerative diseases
+T48	DiseaseOrSyndrome 1245 1271	neurodegenerative diseases
+T49	DiseaseOrSyndrome 82 111	amyotrophic lateral sclerosis
+T50	ResearchActivity 1032 1040	research
+T51	CellOrMolecularDysfunction 339 370	impaired mitochondrial function
+T52	CellFunction 473 490	energy production
+T53	CellFunction 631 654	mitochondrial integrity
+T54	CellFunction 763 792	mitochondrial quality control
+T55	CellOrMolecularDysfunction 754 792	aberrant mitochondrial quality control
+T56	CellOrMolecularDysfunction 1061 1076	aberrant mitoQC
+T57	CellOrMolecularDysfunction 1226 1241	aberrant mitoQC

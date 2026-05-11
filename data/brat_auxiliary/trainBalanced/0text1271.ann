@@ -1,0 +1,63 @@
+T0	InjuryOrPoisoning 122 132	CNS injury
+T1	Cell 140 151	progenitors
+T2	AminoAcidPeptideOrProtein 194 200	AMPARs
+T3	BodyPartOrganOrOrganComponent 218 226	synapses
+T4	AminoAcidPeptideOrProtein 357 363	AMPARs
+T5	AminoAcidPeptideOrProtein 500 505	GluA2
+T6	CellFunction 506 520	overexpression
+T7	Finding 506 520	overexpression
+T8	PopulationGroup 711 719	neonates
+T9	AminoAcidPeptideOrProtein 738 743	GluA2
+T10	AminoAcidPeptideOrProtein 904 909	GluA2
+T11	Finding 325 335	alteration
+T12	CellFunction 152 159	express
+T13	PopulationGroup 723 729	adults
+T14	BiologicFunction 950 971	regenerative behavior
+T15	Cell 644 660	oligodendrocytes
+T16	Cell 33 37	OPCs
+T17	Cell 981 985	OPCs
+T18	Cell 487 490	OPC
+T19	CellFunction 71 82	myelination
+T20	Cell 87 102	oligodendrocyte
+T21	Cell 786 801	oligodendrocyte
+T22	PathologicFunction 681 694	demyelinating
+T23	Eukaryote 396 400	mice
+T24	ResearchActivity 455 462	in vivo
+T25	BodyPartOrganOrOrganComponent 122 125	CNS
+T26	BodyPartOrganOrOrganComponent 255 258	CNS
+T27	TemporalConcept 615 619	rate
+T28	TemporalConcept 850 857	initial
+T29	BiologicFunction 1034 1040	repair
+T30	HealthCareActivity 1034 1040	repair
+T31	CellFunction 282 291	signaling
+T32	BiologicFunction 57 70	developmental
+T33	TemporalConcept 57 70	developmental
+T34	BodyPartOrganOrOrganComponent 695 700	brain
+T35	CellFunction 623 638	differentiation
+T37	InjuryOrPoisoning 701 707	injury
+T38	InjuryOrPoisoning 835 841	injury
+T39	BiologicFunction 103 115	regeneration
+T40	BiologicFunction 802 814	regeneration
+T41	CellFunction 550 563	proliferation
+T42	CellFunction 764 781	OPC proliferation
+T43	Cell 367 382	oligodendroglia
+T45	Cell 232 239	neurons
+T46	OrganismAttribute 570 573	age
+T47	OrganismAttribute 467 474	healthy
+T48	BiologicallyActiveSubstance 160 192	calcium-permeable AMPA receptors
+T49	HealthCareActivity 103 115	regeneration
+T50	HealthCareActivity 802 814	regeneration
+T51	Cell 0 31	Oligodendrocyte precursor cells
+T52	AminoAcidPeptideOrProtein 160 192	calcium-permeable AMPA receptors
+T53	PopulationGroup 975 980	adult
+T54	BiologicallyActiveSubstance 194 200	AMPARs
+T55	BiologicallyActiveSubstance 357 363	AMPARs
+T56	AminoAcidPeptideOrProtein 444 448	EGFP
+T57	Chemical 444 448	EGFP
+T58	AminoAcidPeptideOrProtein 449 454	GluA2
+T59	AminoAcidPeptideOrProtein 898 903	AMPAR
+T60	BiologicallyActiveSubstance 898 903	AMPAR
+T61	CellOrMolecularDysfunction 858 867	cell loss
+T62	BiologicFunction 932 945;963 971	proliferative behavior
+T63	Finding 1000 1015	putative target
+T64	BodyPartOrganOrOrganComponent 1027 1033	myelin

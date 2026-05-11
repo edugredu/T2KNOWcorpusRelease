@@ -1,0 +1,61 @@
+T0	EnvironmentalEffectOfHumans 49 62	air pollution
+T1	PathologicFunction 181 191	effects of
+T2	EnvironmentalEffectOfHumans 196 209	air pollution
+T3	EnvironmentalEffectOfHumans 399 412	air pollution
+T4	InjuryOrPoisoning 757 762	toxic
+T5	InjuryOrPoisoning 763 777	air pollutants
+T6	InjuryOrPoisoning 960 978	neurotoxic effects
+T7	EnvironmentalEffectOfHumans 1065 1078	air pollution
+T8	HealthCareActivity 1269 1304	diagnostic or therapeutic molecules
+T9	Cell 825 836	brain cells
+T10	BodyPartOrganOrOrganComponent 448 451	CNS
+T11	BodyPartOrganOrOrganComponent 1086 1089	CNS
+T12	CellComponent 507 528	extracellular vesicle
+T13	Substance 1295 1304	molecules
+T14	ResearchActivity 144 154	literature
+T15	CellFunction 546 573	intercellular communication
+T16	Cell 237 248	glial cells
+T17	Cell 224 232	neuronal
+T18	DiseaseOrSyndrome 92 114	neurological disorders
+T19	DiseaseOrSyndrome 651 673	neurological disorders
+T20	TemporalConcept 135 143	Previous
+T21	TemporalConcept 874 880	origin
+T22	CellOrMolecularDysfunction 279 295	oxidative stress
+T23	Cell 335 344	astrocyte
+T24	Finding 923 935	exacerbation
+T25	CellComponent 210 220	components
+T26	InjuryOrPoisoning 453 461	toxicity
+T27	Finding 2 14	relationship
+T28	Finding 742 750	evidence
+T29	Finding 264 275	involvement
+T30	Finding 810 821	involvement
+T31	AminoAcidPeptideOrProtein 1044 1052	proteins
+T32	Finding 1017 1029	accumulation
+T33	BodyPartOrganOrOrganComponent 800 805	brain
+T34	CellOrMolecularDysfunction 994 1011	neurodegeneration
+T35	CellOrMolecularDysfunction 1356 1373	neurodegeneration
+T36	DiseaseOrSyndrome 679 698	Alzheimer's disease
+T37	CellComponent 532 535	EVs
+T38	CellComponent 850 853	EVs
+T39	CellComponent 899 902	EVs
+T40	CellComponent 1167 1170	EVs
+T41	CellComponent 1233 1236	EVs
+T42	BodyPartOrganOrOrganComponent 1182 1188	plasma
+T43	Eukaryote 1176 1181	human
+T44	PathologicFunction 300 317	neuroinflammation
+T45	Cell 321 330	microglia
+T46	BiologicFunction 611 622	development
+T47	CellFunction 611 622	development
+T48	BodyPartOrganOrOrganComponent 424 446	central nervous system
+T49	DiseaseOrSyndrome 67 87	cognitive impairment
+T50	DiseaseOrSyndrome 626 646	cognitive impairment
+T51	DiseaseOrSyndrome 1331 1351	cognitive impairment
+T52	TemporalConcept 911 921	initiation
+T53	PathologicFunction 980 992	inflammation
+T54	OrganismAttribute 891 895	size
+T55	InjuryOrPoisoning 23 62	environmental exposure to air pollution
+T56	Finding 941 952	propagation
+T57	EnvironmentalEffectOfHumans 1309 1322	air pollution
+T58	ResearchActivity 1139 1170	isolation of neural-derived EVs
+T59	CellFunction 335 355	astrocyte reactivity
+T60	CellFunction 321 330;345 355	microglia reactivity

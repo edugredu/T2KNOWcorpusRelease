@@ -1,0 +1,103 @@
+T0	Chemical 326 341	Ginsenoside Rg1
+T1	Finding 784 793	examining
+T2	ResearchActivity 1223 1255	transmission electron microscope
+T3	AminoAcidPeptideOrProtein 1298 1303	Olig2
+T4	GeneOrGenome 1298 1303	Olig2
+T5	ResearchActivity 1601 1619	Molecular analysis
+T6	AminoAcidPeptideOrProtein 1699 1708	GSK3 beta
+T7	AminoAcidPeptideOrProtein 1710 1722	beta-Catenin
+T8	BiologicallyActiveSubstance 1710 1722	beta-Catenin
+T9	BiomedicalOccupationOrDiscipline 1812 1826	histopathology
+T10	ClinicalAttribute 1812 1826	histopathology
+T11	BiologicFunction 1049 1063	spatial memory
+T12	ExperimentalModelOfDisease 849 890	experimental autoimmune encephalomyelitis
+T13	ExperimentalModelOfDisease 892 895	EAE
+T14	ExperimentalModelOfDisease 1830 1833	EAE
+T15	Chemical 595 598	CPZ
+T16	ResearchActivity 720 728	In vitro
+T17	DiseaseOrSyndrome 319 323	SPMS
+T18	DiseaseOrSyndrome 567 571	SPMS
+T19	DiseaseOrSyndrome 951 955	SPMS
+T20	BiologicFunction 1098 1106	behavior
+T21	IndividualBehavior 1098 1106	behavior
+T22	ResearchActivity 1098 1106	behavior
+T23	Cell 1577 1593	oligodendrocytes
+T24	Cell 76 80	OPCs
+T25	Cell 526 530	OPCs
+T26	Cell 734 741;748 752	primary OPCs
+T27	Cell 1456 1460	OPCs
+T28	Cell 1539 1543	OPCs
+T29	Cell 1877 1881	OPCs
+T30	DiseaseOrSyndrome 1998 2020	demyelinating diseases
+T31	BiologicFunction 1563 1573	maturation
+T32	Cell 43 74	oligodendrocyte precursor cells
+T33	PathologicFunction 1998 2011	demyelinating
+T34	DiseaseOrSyndrome 277 317	secondary progressive multiple sclerosis
+T35	BodyPartOrganOrOrganComponent 1137 1143	myelin
+T36	BodyPartOrganOrOrganComponent 1165 1171	myelin
+T37	BodyPartOrganOrOrganComponent 1204 1210	myelin
+T38	BodyPartOrganOrOrganComponent 1935 1941	myelin
+T39	PathologicFunction 1020 1032	demyelinated
+T40	Cell 1305 1334	oligodendrocyte lineage cells
+T41	CellFunction 1671 1680	signaling
+T42	CellFunction 24 39	differentiation
+T43	CellFunction 1437 1452	differentiation
+T44	CellFunction 1655 1670	differentiation
+T45	CellFunction 1882 1897	differentiation
+T46	Cell 1595 1598	OLs
+T47	CellFunction 1522 1535	proliferation
+T48	Cell 59 74	precursor cells
+T49	Cell 43 68	oligodendrocyte precursor
+T50	IndividualBehavior 1922 1931	integrity
+T51	PathologicFunction 433 445	degeneration
+T52	Cell 1305 1328	oligodendrocyte lineage
+T53	Chemical 584 593	cuprizone
+T54	BiologicFunction 1065 1079	motor function
+T55	CellFunction 494 513	myelin regeneration
+T56	CellFunction 134 147	myelin repair
+T57	CellFunction 811 824	myelin repair
+T58	ResearchActivity 957 964	Results
+T59	Eukaryote 1033 1037	mice
+T60	Cell 400 408	neuronal
+T61	DiseaseOrSyndrome 235 261	neurodegenerative diseases
+T62	ResearchActivity 600 605	model
+T63	ResearchActivity 897 902	model
+T64	Finding 1384 1390	effect
+T65	Eukaryote 742 747	mouse
+T66	CellFunction 1509 1517	survival
+T67	ClinicalAttribute 1799 1807	severity
+T68	Finding 1799 1807	severity
+T69	Finding 1274 1297	significantly increased
+T70	CellFunction 1699 1730	GSK3 beta/ beta-Catenin pathway
+T71	BiologicFunction 681 700	functional recovery
+T72	BiologicFunction 993 1012	functional recovery
+T73	BiologicFunction 1975 1994	functional recovery
+T74	CellFunction 705 718	remyelination
+T75	CellFunction 1370 1383	remyelination
+T76	CellFunction 1760 1773	remyelination
+T77	ResearchActivity 771 779	cultured
+T78	Finding 476 483	effects
+T79	Finding 1774 1781	effects
+T80	OrganismAttribute 800 807	ability
+T81	PathologicFunction 201 223	behavioral dysfunction
+T82	DiseaseOrSyndrome 1085 1092	anxiety
+T83	TemporalConcept 841 848	chronic
+T84	Finding 164 192	essential therapeutic target
+T85	InjuryOrPoisoning 400 416	neuronal damages
+T86	Chemical 343 346	Rg1
+T87	Chemical 487 490	Rg1
+T88	Finding 539 563	therapeutic significance
+T89	Chemical 649 652	Rg1
+T90	Chemical 980 983	Rg1
+T91	Chemical 1124 1127	Rg1
+T92	ExperimentalModelOfDisease 1020 1037	demyelinated mice
+T93	ResearchActivity 1172 1180	staining
+T94	Chemical 1270 1273	Rg1
+T95	BiologicallyActiveSubstance 1298 1303	Olig2
+T96	BodyPartOrganOrOrganComponent 1338 1346	callosum
+T97	Chemical 1394 1397	Rg1
+T98	Chemical 1491 1494	Rg1
+T99	Chemical 1632 1635	Rg1
+T100	BiologicallyActiveSubstance 1699 1708	GSK3 beta
+T101	Chemical 1783 1786	Rg1
+T102	Chemical 1899 1902	Rg1

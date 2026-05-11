@@ -1,0 +1,49 @@
+T0	BiologicFunction 248 252	born
+T1	Cell 258 268	precursors
+T2	Cell 602 621	interneuron subtype
+T3	CellComponent 652 662	myelinated
+T4	Cell 24 46	GABAergic interneurons
+T5	CellFunction 269 279	expressing
+T6	CellFunction 566 576	expressing
+T7	PathologicFunction 1081 1104	pathological conditions
+T8	Cell 34 46	interneurons
+T9	Cell 577 589	interneurons
+T10	Cell 1013 1025	interneurons
+T11	AminoAcidPeptideOrProtein 288 309	transcription factors
+T12	BiologicallyActiveSubstance 288 309	transcription factors
+T13	AminoAcidPeptideOrProtein 554 565	parvalbumin
+T14	BiologicallyActiveSubstance 554 565	parvalbumin
+T15	Finding 887 899	relationship
+T16	Cell 472 476	OPCs
+T17	Cell 439 470	oligodendrocyte precursor cells
+T18	Cell 51 80	oligodendrocyte lineage cells
+T19	Cell 761 790	oligodendrocyte lineage cells
+T20	TemporalConcept 498 507	transient
+T21	Cell 1030 1045	oligodendroglia
+T22	Cell 455 470	precursor cells
+T23	Cell 439 464	oligodendrocyte precursor
+T24	Cell 51 74	oligodendrocyte lineage
+T25	Cell 761 784	oligodendrocyte lineage
+T26	Cell 152 157	glial
+T27	DiseaseOrSyndrome 1113 1126	schizophrenia
+T28	ResearchActivity 955 963	research
+T29	BiologicFunction 408 419	development
+T30	BiologicFunction 1062 1073	development
+T31	CellFunction 408 419	development
+T32	CellFunction 1062 1073	development
+T33	Cell 152 163	glial cells
+T34	ResearchActivity 672 678	review
+T35	HealthCareActivity 672 678	review
+T36	BodyPartOrganOrOrganComponent 7 22	cerebral cortex
+T37	BodyPartOrganOrOrganComponent 798 813	cerebral cortex
+T38	Cell 140 147	neurons
+T39	BodyPartOrganOrOrganComponent 430 438	cortical
+T40	BodyPartOrganOrOrganComponent 903 911	cortical
+T41	BodyPartOrganOrOrganComponent 1053 1061	cortical
+T42	HealthCareActivity 376 389	communication
+T43	CellFunction 376 389	communication
+T44	TemporalConcept 622 630	recently
+T45	Cell 198 208	cell types
+T46	Finding 714 726	interactions
+T47	Cell 735 756	GABAergic intemeurons
+T48	CellFunction 508 532	GABAergic synaptic input

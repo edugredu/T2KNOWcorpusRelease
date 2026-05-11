@@ -1,0 +1,13 @@
+T0	BodyPartOrganOrOrganComponent 178 183	brain
+T1	BiologicFunction 148 159	bloodstream
+T2	Chemical 99 125	volatile organic compounds
+T3	EnvironmentalEffectOfHumans 0 13	Air pollution
+T4	Substance 34 52	particulate matter
+T5	Substance 54 56	PM
+T6	InjuryOrPoisoning 59 75	nitrogen dioxide
+T7	InjuryOrPoisoning 77 80	NO2
+T8	Chemical 83 88	ozone
+T9	Chemical 90 92	O3
+T10	Chemical 127 131	VOCs
+T11	Chemical 59 75	nitrogen dioxide
+T12	Chemical 77 80	NO2

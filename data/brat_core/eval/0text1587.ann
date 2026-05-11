@@ -1,0 +1,80 @@
+T0	HealthCareActivity 159 196	resting state functional connectivity
+T1	NaturalPhenomenonOrProcess 1315 1324	Reduction
+T2	Finding 1315 1324	Reduction
+T3	TemporalConcept 294 308	clinical onset
+T4	TemporalConcept 380 394	clinical onset
+T5	Finding 1195 1207	accumulation
+T6	PopulationGroup 426 432	people
+T7	PopulationGroup 585 591	people
+T8	PopulationGroup 956 962	people
+T9	PopulationGroup 1172 1178	people
+T10	PopulationGroup 1391 1397	people
+T11	BodyPartOrganOrOrganComponent 204 224	default mode network
+T12	DiseaseOrSyndrome 69 88	Alzheimer's disease
+T13	ResearchActivity 1035 1042	Results
+T14	DiseaseOrSyndrome 90 92	AD
+T15	DiseaseOrSyndrome 133 135	AD
+T16	DiseaseOrSyndrome 312 314	AD
+T17	DiseaseOrSyndrome 398 400	AD
+T18	DiseaseOrSyndrome 1134 1136	AD
+T19	DiseaseOrSyndrome 1385 1387	AD
+T20	ClinicalAttribute 1371 1380	biomarker
+T21	PopulationGroup 782 794	participants
+T22	PopulationGroup 111 122	individuals
+T23	HealthCareActivity 743 746	PET
+T24	DiseaseOrSyndrome 405 422	cognitive decline
+T25	DiseaseOrSyndrome 1151 1168	cognitive decline
+T26	AminoAcidPeptideOrProtein 735 741	A beta
+T27	AminoAcidPeptideOrProtein 1188 1194	A beta
+T28	ClinicalAttribute 1361 1380	potential biomarker
+T29	OrganismAttribute 606 609	age
+T30	OrganismAttribute 977 980	age
+T31	DiseaseOrSyndrome 711 719	dementia
+T32	HealthCareActivity 451 479	Resting state functional MRI
+T33	HealthCareActivity 1137 1146	diagnosis
+T34	Substance 931 937	sample
+T35	BodyPartOrganOrOrganComponent 931 937	sample
+T36	TemporalConcept 618 623	years
+T37	TemporalConcept 635 640	years
+T38	TemporalConcept 656 661	years
+T39	TemporalConcept 673 678	years
+T40	TemporalConcept 989 994	years
+T41	TemporalConcept 1006 1011	years
+T42	TemporalConcept 1027 1032	years
+T43	ResearchActivity 547 551	data
+T44	ResearchActivity 747 751	data
+T45	ResearchActivity 860 864	data
+T46	ResearchActivity 490 502	longitudinal
+T47	AminoAcidPeptideOrProtein 721 733	Amyloid-beta
+T48	HealthCareActivity 536 546	assessment
+T49	HealthCareActivity 849 859	assessment
+T50	ResearchActivity 536 546	assessment
+T51	ResearchActivity 849 859	assessment
+T52	ResearchActivity 625 627	SD
+T53	ResearchActivity 996 998	SD
+T54	BiologicFunction 348 371	functional connectivity
+T55	BiologicFunction 1050 1073	functional connectivity
+T56	BiologicFunction 1278 1301	functional connectivity
+T57	Finding 1442 1452	conversion
+T58	HealthCareActivity 503 521	neuropsychological
+T59	HealthCareActivity 816 834	neuropsychological
+T60	DiseaseOrSyndrome 12 25	Down syndrome
+T61	DiseaseOrSyndrome 27 29	DS
+T62	DiseaseOrSyndrome 318 320	DS
+T63	DiseaseOrSyndrome 438 440	DS
+T64	DiseaseOrSyndrome 597 599	DS
+T65	DiseaseOrSyndrome 968 970	DS
+T66	DiseaseOrSyndrome 1184 1186	DS
+T67	DiseaseOrSyndrome 1403 1405	DS
+T68	TemporalConcept 912 919	younger
+T69	HealthCareActivity 796 814	Resting state fMRI
+T70	BodyPartOrganOrOrganComponent 226 229	DMN
+T71	BodyPartOrganOrOrganComponent 269 272	DMN
+T72	BodyPartOrganOrOrganComponent 344 347	DMN
+T73	BodyPartOrganOrOrganComponent 1274 1277	DMN
+T74	BodyPartOrganOrOrganComponent 1339 1342	DMN
+T75	BodyPartOrganOrOrganComponent 1113 1124	DMN regions
+T76	BiologicFunction 1328 1355	long-range DMN connectivity
+T77	BodyPartOrganOrOrganComponent 1215 1239	inferior parietal cortex
+T78	BiologicFunction 273 285	connectivity
+T79	HealthCareActivity 481 487	rsfMRI

@@ -1,0 +1,5 @@
+T0	DiseaseOrSyndrome 76 103	neurodegenerative disorders
+T1	HealthCareActivity 12 28	speech therapies
+T2	PopulationGroup 59 70	individuals
+T3	MachineActivity 0 3	ASR
+T4	BiologicFunction 139 159	communication skills

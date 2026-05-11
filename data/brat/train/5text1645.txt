@@ -1,0 +1,1 @@
+HSV vectors can also be used to deliver therapeutic genes to specific neurons affected by neurodegenerative diseases.

@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 115 143	neurodegenerative conditions
+T1	GeneOrGenome 95 111	protective genes
+T2	CellFunction 82 94	upregulating
+T3	ResearchActivity 20 37	CRISPR activation
+T4	ResearchActivity 39 46	CRISPRa
+T5	Virus 0 10	Lentivirus

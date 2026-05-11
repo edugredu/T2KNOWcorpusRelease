@@ -1,0 +1,8 @@
+T0	ResearchActivity 0 20	Longitudinal studies
+T1	DiseaseOrSyndrome 81 106	neurodegenerative disease
+T2	Finding 107 111	risk
+T3	Finding 45 53	reducing
+T4	HealthCareActivity 146 166	public health policy
+T5	EnvironmentalEffectOfHumans 54 77	tobacco smoke pollution
+T6	PathologicFunction 116 127	progression
+T7	TemporalConcept 116 127	progression

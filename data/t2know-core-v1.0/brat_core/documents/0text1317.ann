@@ -1,0 +1,123 @@
+T0	DiseaseOrSyndrome 0 23	Demyelinating disorders
+T1	IndividualBehavior 59 66	failure
+T2	ResearchActivity 244 267	transcriptomic analysis
+T3	ResearchActivity 271 281	microarray
+T4	ManufacturedObject 271 281	microarray
+T5	BiomedicalOccupationOrDiscipline 535 549	transcriptomic
+T6	HealthCareActivity 616 635	functional analysis
+T7	DiseaseOrSyndrome 641 643	GO
+T8	GeneOrGenome 641 643	GO
+T9	GeneOrGenome 751 763	target genes
+T10	PathologicFunction 840 852	demyelinated
+T11	BodyPartOrganOrOrganComponent 870 872	CC
+T12	PathologicFunction 1036 1048	demyelinated
+T13	BodyPartOrganOrOrganComponent 1049 1051	CC
+T14	PathologicFunction 1128 1140	demyelinated
+T15	BodyPartOrganOrOrganComponent 1141 1143	CC
+T16	TemporalConcept 1153 1163	time point
+T17	BodyPartOrganOrOrganComponent 1196 1198	CC
+T18	CellFunction 1285 1301	lipid metabolism
+T19	BiologicFunction 1285 1301	lipid metabolism
+T20	ResearchActivity 531 534	GEO
+T21	Cell 503 513	cell types
+T22	Cell 1630 1640	cell types
+T23	Chemical 1285 1290	lipid
+T24	Substance 407 416	molecules
+T25	Cell 160 176	oligodendrocytes
+T26	Finding 1402 1426	differentially expressed
+T27	Cell 109 125	progenitor cells
+T28	CellFunction 38 51	remyelination
+T29	CellFunction 311 324	remyelination
+T30	CellFunction 1551 1564	remyelination
+T31	Cell 127 131	OPCs
+T32	Cell 1203 1207	OPCs
+T33	Cell 1245 1249	OPCs
+T34	Cell 208 211	OPC
+T35	Cell 692 695	OPC
+T36	Cell 733 736	OPC
+T37	Cell 1100 1103	OPC
+T38	Cell 1358 1361	OPC
+T39	Cell 1380 1383	OPC
+T40	Cell 1722 1725	OPC
+T41	BodyPartOrganOrOrganComponent 853 868	corpus callosum
+T42	CellFunction 1476 1487	myelination
+T43	GeneOrGenome 477 481	DEGs
+T44	GeneOrGenome 828 832	DEGs
+T45	GeneOrGenome 927 931	DEGs
+T46	GeneOrGenome 1057 1061	DEGs
+T47	GeneOrGenome 1092 1096	DEGs
+T48	GeneOrGenome 1184 1188	DEGs
+T49	GeneOrGenome 445 475	Differentially expressed genes
+T50	ResearchActivity 445 475	Differentially expressed genes
+T51	ResearchActivity 477 481	DEGs
+T52	ResearchActivity 828 832	DEGs
+T53	ResearchActivity 927 931	DEGs
+T54	ResearchActivity 1057 1061	DEGs
+T55	ResearchActivity 1092 1096	DEGs
+T56	ResearchActivity 1184 1188	DEGs
+T57	Chemical 325 334	cuprizone
+T58	Chemical 565 574	cuprizone
+T59	Chemical 894 903	cuprizone
+T60	Chemical 964 973	cuprizone
+T61	Chemical 1430 1439	cuprizone
+T62	Cell 93 125	oligodendrocyte progenitor cells
+T70	Finding 997 1008	normal diet
+T71	CellFunction 212 221	crosstalk
+T72	CellFunction 434 443	crosstalk
+T73	CellFunction 696 705	crosstalk
+T74	CellFunction 1650 1668	Cellular crosstalk
+T75	TemporalConcept 138 144	mature
+T76	TemporalConcept 1031 1035	week
+T77	TemporalConcept 1123 1127	week
+T78	ResearchActivity 282 289	studies
+T79	ResearchActivity 1594 1601	studies
+T80	ClinicalAttribute 1565 1590	transcriptomic biomarkers
+T81	ResearchActivity 535 558	transcriptomic raw data
+T82	Eukaryote 351 356	human
+T83	ResearchActivity 259 267	analysis
+T84	ResearchActivity 627 635	analysis
+T85	ResearchActivity 1313 1321	analysis
+T86	ResearchActivity 1669 1677	analysis
+T87	HealthCareActivity 575 584	treatment
+T88	HealthCareActivity 904 913	treatment
+T89	HealthCareActivity 974 983	treatment
+T90	ResearchActivity 575 584	treatment
+T91	ResearchActivity 904 913	treatment
+T92	ResearchActivity 974 983	treatment
+T93	ResearchActivity 297 340	demyelination-remyelination cuprizone model
+T94	ResearchActivity 786 800	NicheNet model
+T95	TemporalConcept 885 890	weeks
+T96	TemporalConcept 955 960	weeks
+T97	DiseaseOrSyndrome 388 390	MS
+T98	DiseaseOrSyndrome 592 594	MS
+T99	DiseaseOrSyndrome 1065 1067	MS
+T100	DiseaseOrSyndrome 368 386	multiple sclerosis
+T101	CellFunction 460 469	expressed
+T102	CellFunction 1417 1426	expressed
+T103	PathologicFunction 297 310	demyelination
+T104	PathologicFunction 1537 1550	demyelination
+T105	CellFunction 939 951	remyelinated
+T106	BodyPartOrganOrOrganComponent 145 151	myelin
+T107	BodyPartOrganOrOrganComponent 1274 1280	myelin
+T108	TemporalConcept 989 993	days
+T109	Cell 198 207	microglia
+T110	Cell 682 691	microglia
+T111	Cell 714 723	microglia
+T112	Cell 1108 1117	microglia
+T113	Cell 1231 1240	microglia
+T114	Cell 1336 1345	microglia
+T115	Cell 1703 1712	microglia
+T116	CellFunction 74 89	differentiation
+T117	TemporalConcept 1153 1157	time
+T118	BodyPartOrganOrOrganComponent 1641 1648	tissues
+T119	Substance 357 364	samples
+T120	BodyPartOrganOrOrganComponent 357 364	samples
+T121	BiologicallyActiveSubstance 737 746	receptors
+T122	GeneOrGenome 1224 1227	DEG
+T123	ResearchActivity 1224 1227	DEG
+T124	BiologicallyActiveSubstance 1362 1371	receptors
+T125	GeneOrGenome 1384 1396	target genes
+T126	ResearchActivity 1493 1525	differential expression pipeline
+T127	ClinicalAttribute 1692 1699	markers
+T128	BiologicallyActiveSubstance 1726 1735	receptors
+T129	GeneOrGenome 1740 1752	target genes

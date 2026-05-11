@@ -1,0 +1,75 @@
+T0	CellOrMolecularDysfunction 80 114	expansion of the CAG repeat region
+T1	BiologicallyActiveSubstance 417 427	modulators
+T2	CellFunction 431 452	synaptic transmission
+T3	BiologicallyActiveSubstance 503 520	neurotransmitters
+T4	AminoAcidPeptideOrProtein 526 535	glutamate
+T5	BiologicallyActiveSubstance 526 535	glutamate
+T6	AminoAcidPeptideOrProtein 540 563	gamma-aminobutyric acid
+T7	PharmacologicSubstance 540 563	gamma-aminobutyric acid
+T8	BiologicallyActiveSubstance 565 575	modulators
+T9	NucleicAcidNucleosideOrNucleotide 594 603	adenosine
+T10	Chemical 608 624	endocannabinoids
+T11	BiologicallyActiveSubstance 608 624	endocannabinoids
+T12	Finding 737 748	Alterations
+T13	BiologicFunction 756 767	functioning
+T14	BodyPartOrganOrOrganComponent 854 860	cortex
+T15	CellComponent 854 860	cortex
+T16	CellFunction 889 901	transmission
+T17	NaturalPhenomenonOrProcess 906 916	plasticity
+T18	BiologicFunction 906 916	plasticity
+T19	BodyPartOrganOrOrganComponent 924 932	synapses
+T20	BiologicFunction 983 992	behaviour
+T21	IndividualBehavior 983 992	behaviour
+T22	Finding 1371 1383	drug targets
+T23	CellFunction 1176 1186	cell death
+T24	GeneOrGenome 140 155	huntingtin gene
+T25	BiologicallyActiveSubstance 584 592	dopamine
+T26	Chemical 584 592	dopamine
+T27	PharmacologicSubstance 584 592	dopamine
+T28	DiseaseOrSyndrome 30 66	inherited neurodegenerative disorder
+T29	BodyPartOrganOrOrganComponent 196 204	striatum
+T30	BodyPartOrganOrOrganComponent 844 852	striatum
+T31	BodyPartOrganOrOrganComponent 865 876	hippocampus
+T32	CellOrMolecularDysfunction 1141 1161	synaptic dysfunction
+T33	BiologicFunction 1195 1208	understanding
+T34	DiseaseOrSyndrome 0 18	Huntington disease
+T35	CellFunction 777 795	signaling pathways
+T36	BiologicFunction 1181 1186	death
+T37	PathologicFunction 1181 1186	death
+T38	CellFunction 294 311	neurotransmission
+T39	CellFunction 692 709	neurotransmission
+T40	CellFunction 1181 1186	death
+T41	PathologicFunction 462 471	disrupted
+T42	BodyPartOrganOrOrganComponent 822 835	brain regions
+T43	AminoAcidPeptideOrProtein 645 678	brain-derived neurotrophic factor
+T44	BiologicallyActiveSubstance 645 678	brain-derived neurotrophic factor
+T45	CellOrMolecularDysfunction 157 174	Neurodegeneration
+T46	NucleicAcidNucleosideOrNucleotide 128 132	exon
+T47	MolecularSequence 97 107	CAG repeat
+T48	SignOrSymptom 1341 1349	symptoms
+T49	PathologicFunction 1015 1030	pathophysiology
+T50	BiomedicalOccupationOrDiscipline 1015 1030	pathophysiology
+T51	Substance 630 639	molecules
+T52	PathologicFunction 259 270	dysfunction
+T53	PathologicFunction 1150 1161	dysfunction
+T54	BodyPartOrganOrOrganComponent 231 242	brain areas
+T55	BodyPartOrganOrOrganComponent 332 343	brain areas
+T56	BiologicFunction 1322 1333	development
+T57	CellFunction 1322 1333	development
+T58	Finding 1059 1068	knowledge
+T59	PharmacologicSubstance 1371 1375	drug
+T60	ResearchActivity 373 381	overview
+T61	TemporalConcept 122 127	first
+T62	DiseaseOrSyndrome 20 22	HD
+T63	DiseaseOrSyndrome 475 477	HD
+T64	DiseaseOrSyndrome 1034 1036	HD
+T65	DiseaseOrSyndrome 1353 1355	HD
+T66	TemporalConcept 1042 1049	current
+T67	ResearchActivity 350 356	review
+T68	HealthCareActivity 350 356	review
+T69	DiseaseOrSyndrome 40 66	neurodegenerative disorder
+T70	BiologicallyActiveSubstance 389 412	neurochemical mediators
+T71	PharmacologicSubstance 594 603	adenosine
+T72	BiologicallyActiveSubstance 594 603	adenosine
+T73	ResearchActivity 983 992	behaviour
+T74	PathologicFunction 1247 1294	disruptions in synaptic function and plasticity

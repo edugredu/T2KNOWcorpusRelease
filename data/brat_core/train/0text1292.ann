@@ -1,0 +1,121 @@
+T0	DiseaseOrSyndrome 17 39	fetal alcohol syndrome
+T1	DiseaseOrSyndrome 60 92	fetal alcohol spectrum disorders
+T2	PathologicFunction 108 122	dysmyelination
+T3	DiseaseOrSyndrome 245 267	fetal alcohol syndrome
+T4	ResearchActivity 272 285	human studies
+T5	Chemical 390 397	Ethanol
+T6	PharmacologicSubstance 390 397	Ethanol
+T7	DiseaseOrSyndrome 528 550	fetal alcohol syndrome
+T8	BiomedicalOccupationOrDiscipline 564 581	histopathological
+T9	Substance 582 591	specimens
+T10	BodyPartOrganOrOrganComponent 582 591	specimens
+T11	AminoAcidPeptideOrProtein 652 662	chemokines
+T12	BiologicallyActiveSubstance 652 662	chemokines
+T13	DiseaseOrSyndrome 751 773	fetal alcohol syndrome
+T14	TemporalConcept 775 780	Acute
+T15	HealthCareActivity 775 780	Acute
+T16	Chemical 781 788	ethanol
+T17	PharmacologicSubstance 781 788	ethanol
+T18	InjuryOrPoisoning 781 797	ethanol exposure
+T19	EmbryonicStructure 868 873	fetal
+T20	EmbryonicStructure 906 925	fetal brain tissues
+T21	Chemical 933 940	ethanol
+T22	PharmacologicSubstance 933 940	ethanol
+T23	AminoAcidPeptideOrProtein 969 996	tumor necrosis factor alpha
+T24	BiologicallyActiveSubstance 969 996	tumor necrosis factor alpha
+T25	DiseaseOrSyndrome 1138 1160	fetal alcohol syndrome
+T26	CellFunction 1339 1350	Expressions
+T27	AminoAcidPeptideOrProtein 1396 1416	myelin basic protein
+T28	BiologicallyActiveSubstance 1396 1416	myelin basic protein
+T29	PathologicFunction 1509 1523	dysmyelination
+T30	PathologicFunction 1579 1593	dysmyelination
+T31	PopulationGroup 1597 1605	children
+T32	Chemical 1617 1624	ethanol
+T33	PharmacologicSubstance 1617 1624	ethanol
+T34	BiologicFunction 1632 1649	fetal development
+T35	EmbryonicStructure 1672 1677	fetal
+T36	Cell 1678 1694	oligodendrocyte-
+T37	DiseaseOrSyndrome 1808 1830	fetal alcohol syndrome
+T38	Cell 1918 1932	precursor cell
+T39	EmbryonicStructure 2078 2085	fetuses
+T40	BiologicFunction 2144 2153	pregnancy
+T41	PopulationGroup 878 886	maternal
+T42	TemporalConcept 124 130	Recent
+T43	Cell 1016 1023	neurons
+T44	BiologicFunction 849 855	growth
+T45	Cell 1262 1278	oligodendrocytes
+T46	Cell 1321 1337	oligodendrocytes
+T47	Finding 1454 1463	knowledge
+T48	CellFunction 344 353	apoptosis
+T49	CellFunction 162 182	molecular mechanisms
+T50	Finding 53 59	severe
+T51	Cell 1699 1729	oligodendrocyte precursor cell
+T52	Cell 1902 1932	oligodendrocyte precursor cell
+T53	Cell 373 388	precursor cells
+T54	Cell 1902 1927	oligodendrocyte precursor
+T55	CellFunction 1373 1384	myelination
+T56	CellComponent 1216 1230	myelin sheaths
+T57	Cell 308 323	oligodendrocyte
+T58	Cell 1937 1952	oligodendrocyte
+T59	Eukaryote 1134 1137	Rat
+T60	Cell 357 388	oligodendrocyte precursor cells
+T61	CellFunction 482 500	protein expression
+T62	Eukaryote 504 507	rat
+T63	TemporalConcept 1366 1372	mature
+T64	TemporalConcept 1965 1974	adulthood
+T65	CellComponent 1738 1746	exosomes
+T66	CellFunction 1850 1868	epigenetic changes
+T67	TemporalConcept 461 468	delayed
+T68	BodyPartOrganOrOrganComponent 102 107	brain
+T69	BodyPartOrganOrOrganComponent 1088 1093	brain
+T70	ResearchActivity 131 138	studies
+T71	ResearchActivity 601 608	studies
+T72	ResearchActivity 1658 1665	studies
+T73	ResearchActivity 2021 2038	molecular studies
+T74	ClinicalAttribute 1793 1803	biomarkers
+T75	BodyPartOrganOrOrganComponent 1774 1779	blood
+T76	Eukaryote 558 563	human
+T77	Eukaryote 900 905	human
+T78	Eukaryote 1010 1015	human
+T79	Eukaryote 512 517	mouse
+T80	Eukaryote 1000 1005	mouse
+T81	CellFunction 820 835	neuroprotective
+T82	PathologicFunction 4 13	pathology
+T83	BiomedicalOccupationOrDiscipline 4 13	pathology
+T84	DiseaseOrSyndrome 728 746	multiple sclerosis
+T85	InjuryOrPoisoning 1038 1045	lesions
+T86	BodyPartOrganOrOrganComponent 1025 1037	White matter
+T87	HealthCareActivity 1997 2004	imaging
+T88	BodyPartOrganOrOrganComponent 436 442	myelin
+T89	BodyPartOrganOrOrganComponent 1216 1222	myelin
+T90	BodyPartOrganOrOrganComponent 1396 1402	myelin
+T91	CellComponent 1187 1191	axon
+T92	BodyPartOrganOrOrganComponent 200 212	white matter
+T93	CellFunction 324 339	differentiation
+T94	BiologicFunction 1542 1553	development
+T95	BiologicFunction 1878 1889	development
+T96	CellFunction 1542 1553	development
+T97	CellFunction 1878 1889	development
+T98	BodyPartOrganOrOrganComponent 694 716	central nervous system
+T99	ResearchActivity 235 241	models
+T100	ResearchActivity 518 524	models
+T101	AnatomicalAbnormality 60 92	fetal alcohol spectrum disorders
+T102	PathologicFunction 200 226	white matter abnormalities
+T103	ExperimentalModelOfDisease 228 267	Rodent models of fetal alcohol syndrome
+T104	AminoAcidPeptideOrProtein 436 456	myelin basic protein
+T105	BiologicallyActiveSubstance 436 456	myelin basic protein
+T106	AminoAcidPeptideOrProtein 469 489	myelin basic protein
+T107	BiologicallyActiveSubstance 469 489	myelin basic protein
+T108	DiseaseOrSyndrome 666 690	dysmyelinating disorders
+T109	InjuryOrPoisoning 390 406	Ethanol exposure
+T110	AminoAcidPeptideOrProtein 836 864	insulin-like growth factor-1
+T111	BiologicallyActiveSubstance 836 864	insulin-like growth factor-1
+T112	Eukaryote 887 892	sheep
+T113	EmbryonicStructure 1071 1093	developing sheep brain
+T114	InjuryOrPoisoning 1097 1113	alcohol exposure
+T115	BiologicFunction 1123 1132	gestation
+T116	TemporalConcept 1117 1122	early
+T117	ExperimentalModelOfDisease 1138 1167	fetal alcohol syndrome models
+T118	CellOrMolecularDysfunction 1296 1337	morphologically aberrant oligodendrocytes
+T119	Chemical 1493 1500	ethanol
+T120	PharmacologicSubstance 1493 1500	ethanol

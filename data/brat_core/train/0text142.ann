@@ -1,0 +1,66 @@
+T0	AnatomicalAbnormality 377 401	peripheral abnormalities
+T1	BodyPartOrganOrOrganComponent 433 440	cardiac
+T2	BiologicFunction 554 570	cardiac function
+T3	BodyPartOrganOrOrganComponent 655 660	heart
+T4	PathologicFunction 677 700	electrical disturbances
+T5	HealthCareActivity 1061 1078	electrocardiogram
+T6	ManufacturedObject 1061 1078	electrocardiogram
+T7	HealthCareActivity 1080 1083	ECG
+T8	ManufacturedObject 1080 1083	ECG
+T9	Cell 1245 1259	cardiomyocytes
+T10	BiologicFunction 1322 1332	contention
+T11	Finding 1414 1418	risk
+T12	DiseaseOrSyndrome 1422 1436	heart diseases
+T13	HealthCareActivity 1540 1547	studies
+T14	HealthCareActivity 1577 1602	cardiac electrophysiology
+T15	HealthCareActivity 1610 1613	ECG
+T16	ManufacturedObject 1610 1613	ECG
+T17	Cell 1618 1631	cardiomyocyte
+T18	BodyPartOrganOrOrganComponent 1746 1751	heart
+T19	ResearchActivity 409 425	characterization
+T20	Finding 768 776	advances
+T21	Cell 1755 1763	neuronal
+T22	Finding 601 610	knowledge
+T23	Finding 52 61	mortality
+T24	PathologicFunction 229 246	brain pathologies
+T25	CellFunction 1274 1290	action potential
+T26	CellOrMolecularDysfunction 280 314	aggregation of a misfolded protein
+T27	ResearchActivity 729 735	review
+T28	ResearchActivity 1652 1658	review
+T29	HealthCareActivity 729 735	review
+T30	HealthCareActivity 1652 1658	review
+T31	DiseaseOrSyndrome 86 112	neurodegenerative diseases
+T32	DiseaseOrSyndrome 456 482	neurodegenerative diseases
+T33	Finding 355 363	evidence
+T34	Finding 441 452	involvement
+T35	DiseaseOrSyndrome 178 198	Huntington's disease
+T36	DiseaseOrSyndrome 148 167	Parkinson's disease
+T37	BodyPartOrganOrOrganComponent 335 340	brain
+T38	DiseaseOrSyndrome 200 202	HD
+T39	DiseaseOrSyndrome 984 986	HD
+T40	DiseaseOrSyndrome 169 171	PD
+T41	DiseaseOrSyndrome 976 978	PD
+T42	DiseaseOrSyndrome 942 970	neurodegenerative conditions
+T43	CellOrMolecularDysfunction 1102 1119	neurodegeneration
+T44	ResearchActivity 492 499	studies
+T45	ResearchActivity 1011 1018	studies
+T46	DiseaseOrSyndrome 122 141	Alzheimer's disease
+T47	DiseaseOrSyndrome 143 145	AD
+T48	DiseaseOrSyndrome 972 974	AD
+T49	PatientOrDisabledGroup 1088 1096	patients
+T50	PatientOrDisabledGroup 1440 1448	patients
+T51	CellOrMolecularDysfunction 836 865	neurodegenerative environment
+T52	CellOrMolecularDysfunction 1454 1471	neurodegenerative
+T53	TemporalConcept 761 767	recent
+T54	BodyPartOrganOrOrganComponent 1385 1395	peripheral
+T55	BodyPartOrganOrOrganComponent 1341 1363	central nervous system
+T56	ResearchActivity 1127 1140	animal models
+T57	TemporalConcept 593 600	current
+T58	CellOrMolecularDysfunction 1217 1241	excitability disruptions
+T59	PathologicFunction 545 570	impaired cardiac function
+T60	PathologicFunction 799 828	cardiac electrical remodeling
+T61	BiologicFunction 891 932	crosstalk between the heart and the brain
+T62	CellOrMolecularDysfunction 1274 1302	action potential impairments
+T63	PathologicFunction 1341 1377	central nervous system abnormalities
+T64	BodyPartOrganOrOrganComponent 1534 1539	heart
+T65	CellFunction 1618 1644	cardiomyocyte excitability

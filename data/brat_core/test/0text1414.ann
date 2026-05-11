@@ -1,0 +1,80 @@
+T0	AminoAcidPeptideOrProtein 0 22	Kappa free light chain
+T1	ClinicalAttribute 0 22;30 35	Kappa free light chain index
+T2	HealthCareActivity 137 157	diagnostic potential
+T3	AminoAcidPeptideOrProtein 218 239	IgG oligoclonal bands
+T4	BiologicallyActiveSubstance 218 239	IgG oligoclonal bands
+T5	AminoAcidPeptideOrProtein 241 245	OCBs
+T6	AminoAcidPeptideOrProtein 346 350	KFLC
+T7	BiologicallyActiveSubstance 346 350	KFLC
+T8	DiseaseOrSyndrome 527 555	clinically isolated syndrome
+T9	DiseaseOrSyndrome 557 560	CIS
+T10	DiseaseOrSyndrome 563 595	radiologically isolated syndrome
+T11	DiseaseOrSyndrome 597 600	RIS
+T12	ClinicalAttribute 630 640	KFLC index
+T13	ClinicalAttribute 794 804	KFLC index
+T14	GeneOrGenome 836 838	CI
+T15	ResearchActivity 836 838	CI
+T16	ResearchActivity 951 953	CI
+T17	ClinicalAttribute 977 987	KFLC index
+T18	AminoAcidPeptideOrProtein 1018 1022	KFLC
+T19	BiologicallyActiveSubstance 1018 1022	KFLC
+T20	ClinicalAttribute 1138 1148	KFLC index
+T21	PathologicFunction 1215 1227	degenerative
+T22	BodyPartOrganOrOrganComponent 1279 1282	CSF
+T23	ClinicalAttribute 1285 1295	KFLC index
+T24	HealthCareActivity 1302 1313	diagnostics
+T25	ClinicalAttribute 1507 1517	KFLC index
+T26	AminoAcidPeptideOrProtein 1543 1547	OCBs
+T27	BiologicallyActiveSubstance 1543 1547	OCBs
+T28	AminoAcidPeptideOrProtein 1579 1582	IgG
+T29	BiologicallyActiveSubstance 1579 1582	IgG
+T30	Finding 1651 1670	demographic factors
+T31	BodyPartOrganOrOrganComponent 1756 1759	CSF
+T32	ClinicalAttribute 1244 1254	biomarkers
+T33	ClinicalAttribute 1742 1752	biomarkers
+T34	HealthCareActivity 1093 1100	therapy
+T35	Finding 285 296	sensitivity
+T36	Finding 811 822	sensitivity
+T37	Finding 1492 1503	sensitivity
+T38	Finding 298 309	specificity
+T39	Finding 854 865	specificity
+T40	Finding 1476 1487	specificity
+T41	BodyPartOrganOrOrganComponent 1258 1277	cerebrospinal fluid
+T42	DiseaseOrSyndrome 181 183	MS
+T43	DiseaseOrSyndrome 360 362	MS
+T44	DiseaseOrSyndrome 464 466	MS
+T45	DiseaseOrSyndrome 607 609	MS
+T46	DiseaseOrSyndrome 916 918	MS
+T47	DiseaseOrSyndrome 1056 1058	MS
+T48	DiseaseOrSyndrome 1299 1301	MS
+T49	DiseaseOrSyndrome 1722 1724	MS
+T50	ResearchActivity 937 940	AUC
+T51	PopulationGroup 674 682	subjects
+T52	PopulationGroup 746 754	controls
+T53	PatientOrDisabledGroup 440 448	patients
+T54	DiseaseOrSyndrome 161 179	multiple sclerosis
+T55	PatientOrDisabledGroup 513 521	Patients
+T56	HealthCareActivity 1060 1069	Treatment
+T57	ResearchActivity 1060 1069	Treatment
+T58	SignOrSymptom 734 745	symptomatic
+T59	BodyPartOrganOrOrganComponent 51 62	intrathecal
+T60	BodyPartOrganOrOrganComponent 992 1003	intrathecal
+T61	HealthCareActivity 1075 1100	disease-modifying therapy
+T62	BiologicallyActiveSubstance 0 22	Kappa free light chain
+T63	AminoAcidPeptideOrProtein 24 28	KFLC
+T64	BiologicallyActiveSubstance 24 28	KFLC
+T65	AminoAcidPeptideOrProtein 77 94	free kappa chains
+T66	BiologicallyActiveSubstance 241 245	OCBs
+T67	Finding 323 342	diagnostic accuracy
+T68	ClinicalAttribute 346 356	KFLC index
+T69	ClinicalAttribute 364 374	KFLC index
+T70	TemporalConcept 485 493	May 2013
+T71	TemporalConcept 498 511	February 2020
+T72	DiseaseOrSyndrome 694 722	neuro-inflammatory disorders
+T73	DiseaseOrSyndrome 912 915	RIS
+T74	DiseaseOrSyndrome 908 911	CIS
+T75	ResearchActivity 879 881	CI
+T76	Finding 1176 1195	demographic factors
+T77	PharmacologicSubstance 1579 1582	IgG
+T78	ClinicalAttribute 1579 1588	IgG index
+T79	ClinicalAttribute 1603 1613	KFLC index

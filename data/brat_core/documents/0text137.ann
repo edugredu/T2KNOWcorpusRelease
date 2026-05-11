@@ -1,0 +1,50 @@
+T0	CellFunction 83 103	biochemical pathways
+T1	CellFunction 135 154	mechanotransduction
+T2	Finding 450 466	general concepts
+T3	BiomedicalOccupationOrDiscipline 470 484	mechanobiology
+T4	CellFunction 539 558	mechanotransduction
+T5	CellFunction 630 664	intracellular biochemical response
+T6	CellComponent 695 714	cellular organelles
+T7	CellFunction 905 914	metabolic
+T8	BiologicFunction 905 914	metabolic
+T9	AminoAcidPeptideOrProtein 931 946	mutant proteins
+T10	CellOrMolecularDysfunction 931 946	mutant proteins
+T11	PathologicFunction 1265 1286	pathogenic mechanisms
+T12	ResearchActivity 1398 1417	therapeutic targets
+T13	ResearchActivity 1388 1417	potential therapeutic targets
+T14	CellComponent 704 714	organelles
+T15	CellFunction 321 330	crosstalk
+T16	CellFunction 589 598	crosstalk
+T17	Finding 248 270	mechanistic components
+T18	DiseaseOrSyndrome 1047 1066	Alzheimer's Disease
+T19	DiseaseOrSyndrome 1124 1143	Parkinson's Disease
+T20	Finding 915 927	accumulation
+T21	PathologicFunction 224 236	pathogenesis
+T22	DiseaseOrSyndrome 1068 1088	Huntington's Disease
+T23	PathologicFunction 732 743	dysfunction
+T24	CellFunction 361 392	soluble intracellular signaling
+T25	CellFunction 803 861	translation of mechanosignaling into biochemical signaling
+T26	BiologicFunction 716 727	homeostasis
+T27	CellFunction 280 288	pathways
+T28	CellFunction 1203 1231	mechanotransduction pathways
+T29	CellFunction 1363 1371	pathways
+T30	ResearchActivity 63 79	characterization
+T31	Finding 40 48	advances
+T32	Finding 783 792	knowledge
+T33	TemporalConcept 33 39	recent
+T34	TemporalConcept 1154 1160	recent
+T35	BiologicFunction 171 180	attention
+T36	DiseaseOrSyndrome 1090 1119	Amyotrophic Lateral Sclerosis
+T37	DiseaseOrSyndrome 1298 1324	neurodegenerative diseases
+T38	TemporalConcept 775 782	current
+T39	DiseaseOrSyndrome 198 223	neurodegenerative disease
+T40	ResearchActivity 8 14	review
+T41	HealthCareActivity 8 14	review
+T42	CellOrMolecularDysfunction 1000 1037	pathological intracellular aggregates
+T43	CellFunction 1184 1198	mechanosensing
+T44	CellFunction 470 484	mechanobiology
+T45	CellFunction 520 534	mechanosensing
+T46	NaturalPhenomenonOrProcess 607 625	mechanical stimuli
+T47	Finding 321 330	crosstalk
+T48	NaturalPhenomenonOrProcess 339 356	mechanical forces
+T49	Finding 589 598	crosstalk

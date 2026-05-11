@@ -1,0 +1,85 @@
+T0	DiseaseOrSyndrome 172 196	neurogenerative diseases
+T1	PharmacologicSubstance 206 213	calcium
+T2	Chemical 206 213	calcium
+T3	InjuryOrPoisoning 404 409	toxic
+T4	CellComponent 454 470	inclusion bodies
+T5	Finding 489 499	impairment
+T6	CellFunction 814 839	unfolded protein response
+T7	DiseaseOrSyndrome 1007 1020	prion disease
+T8	Finding 1087 1098	exacerbated
+T9	Finding 1157 1170	deteriorating
+T10	BiologicFunction 1208 1218	activating
+T11	CellFunction 1340 1350	activation
+T12	Finding 1401 1407	worsen
+T13	CellOrMolecularDysfunction 721 727	mutant
+T14	TemporalConcept 517 523	Recent
+T15	CellComponent 575 596	endoplasmic reticulum
+T16	PathologicFunction 1408 1436	neurodegenerative phenotypes
+T17	CellFunction 503 515	proteostasis
+T18	AminoAcidPeptideOrProtein 431 449	protein aggregates
+T19	CellOrMolecularDysfunction 421 449	misfolded protein aggregates
+T20	CellOrMolecularDysfunction 1517 1535	neurodegenerations
+T21	CellFunction 1463 1483	molecular mechanisms
+T22	PathologicFunction 119 131	dysfunctions
+T23	DiseaseOrSyndrome 1171 1200	neurodegenerative pathologies
+T24	Chemical 1714 1729	small molecules
+T25	CellComponent 1231 1241	components
+T26	CellComponent 1769 1779	components
+T27	CellComponent 598 600	ER
+T28	CellComponent 759 761	ER
+T29	CellComponent 1270 1272	ER
+T30	CellComponent 1491 1493	ER
+T31	CellComponent 1792 1794	ER
+T32	CellOrMolecularDysfunction 759 768	ER stress
+T33	CellOrMolecularDysfunction 1099 1108	ER stress
+T34	CellOrMolecularDysfunction 1270 1279	ER stress
+T35	CellOrMolecularDysfunction 1491 1500	ER stress
+T36	CellOrMolecularDysfunction 1792 1801	ER stress
+T37	HealthCareActivity 1578 1590	therapeutics
+T38	CellFunction 283 308	autophagy-lysosome system
+T39	CellOrMolecularDysfunction 421 430	misfolded
+T40	CellOrMolecularDysfunction 731 740	misfolded
+T41	AminoAcidPeptideOrProtein 421 438	misfolded protein
+T42	AminoAcidPeptideOrProtein 731 748	misfolded protein
+T43	CellOrMolecularDysfunction 421 438	misfolded protein
+T44	CellOrMolecularDysfunction 731 748	misfolded protein
+T45	CellFunction 841 844	UPR
+T46	CellFunction 1227 1230	UPR
+T47	CellFunction 1359 1362	UPR
+T48	CellFunction 1765 1768	UPR
+T49	BiologicFunction 55 60	aging
+T50	BiologicFunction 1599 1604	aging
+T51	CellFunction 55 60	aging
+T52	CellFunction 1599 1604	aging
+T53	PathologicFunction 230 247	neuroinflammation
+T54	PathologicFunction 631 640	pathology
+T55	BiomedicalOccupationOrDiscipline 631 640	pathology
+T56	PathologicFunction 854 869	pathophysiology
+T57	BiomedicalOccupationOrDiscipline 854 869	pathophysiology
+T58	Substance 1720 1729	molecules
+T59	CellFunction 283 292	autophagy
+T60	CellFunction 788 797	signaling
+T61	DiseaseOrSyndrome 920 931	Alzheimer's
+T62	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T63	CellOrMolecularDysfunction 1299 1316	neurodegeneration
+T64	BiologicFunction 1699 1710	development
+T65	CellFunction 1699 1710	development
+T66	OrganismAttribute 253 256	age
+T67	ResearchActivity 524 531	studies
+T68	ResearchActivity 657 670	animal models
+T69	Eukaryote 685 690	human
+T70	TemporalConcept 77 92	life expectancy
+T71	TemporalConcept 77 81	life
+T72	DiseaseOrSyndrome 370 396	neurodegenerative diseases
+T73	PatientOrDisabledGroup 691 699	patients
+T74	DiseaseOrSyndrome 950 970	Huntington's disease
+T75	CellOrMolecularDysfunction 613 630	neurodegenerative
+T76	TemporalConcept 1656 1663	current
+T77	DiseaseOrSyndrome 972 1001	amyotrophic lateral sclerosis
+T78	DiseaseOrSyndrome 881 908	neurodegenerative disorders
+T79	PathologicFunction 214 228	dyshomeostasis
+T80	CellOrMolecularDysfunction 575 596;602 608	endoplasmic reticulum stress
+T81	DiseaseOrSyndrome 933 944	Parkinson's
+T82	CellOrMolecularDysfunction 1041 1060	Impaired UPR action
+T83	CellOrMolecularDysfunction 1110 1151	pathogenic protein aggregate accumulation
+T84	DiseaseOrSyndrome 1599 1638	aging-associated neurological syndromes

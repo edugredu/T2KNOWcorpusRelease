@@ -1,0 +1,24 @@
+T0	CellFunction 120 129	myelinate
+T1	NaturalPhenomenonOrProcess 557 573	microenvironment
+T2	BodyPartOrganOrOrganComponent 557 573	microenvironment
+T3	PathologicFunction 273 296	pathological conditions
+T4	TemporalConcept 173 183	frequently
+T5	CellComponent 130 135	axons
+T6	Cell 99 115	oligodendrocytes
+T7	Cell 33 37	OPCs
+T8	Cell 408 412	OPCs
+T9	Cell 649 652	OPC
+T10	Finding 335 347	interactions
+T11	Finding 662 674	interactions
+T12	Cell 198 203	cells
+T13	BiologicFunction 237 248	development
+T14	CellFunction 237 248	development
+T15	BodyPartOrganOrOrganComponent 469 491	central nervous system
+T16	BodyPartOrganOrOrganComponent 493 496	CNS
+T17	ResearchActivity 583 589	review
+T18	HealthCareActivity 583 589	review
+T19	BiologicFunction 250 261	homeostasis
+T21	BodyPartOrganOrOrganComponent 653 661	vascular
+T22	BodyPartOrganOrOrganComponent 211 229	neurovascular unit
+T23	Cell 0 31	Oligodendrocyte precursor cells
+T24	Cell 446 461	cell population

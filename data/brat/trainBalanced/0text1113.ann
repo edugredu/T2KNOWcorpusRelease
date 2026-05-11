@@ -1,0 +1,52 @@
+T0	OrganismAttribute 744 755	susceptible
+T1	ResearchActivity 744 755	susceptible
+T2	PathologicFunction 51 73	pathological processes
+T3	Cell 630 639	Microglia
+T4	DiseaseOrSyndrome 819 835	neuropathologies
+T5	Cell 604 609	glial
+T6	Cell 614 628	neuronal cells
+T7	DiseaseOrSyndrome 78 97	Alzheimer's disease
+T8	DiseaseOrSyndrome 464 483	Alzheimer's disease
+T9	DiseaseOrSyndrome 965 984	Alzheimer's disease
+T10	DiseaseOrSyndrome 1099 1118	Alzheimer's disease
+T11	BodyPartOrganOrOrganComponent 258 280	central nervous system
+T12	BodyPartOrganOrOrganComponent 569 591	central nervous system
+T13	BiologicFunction 1084 1095	development
+T14	CellFunction 1084 1095	development
+T15	BodyPartOrganOrOrganComponent 730 735	brain
+T16	PathologicFunction 895 907	dysregulated
+T17	PathologicFunction 500 516	pro-inflammatory
+T18	ResearchActivity 350 356	review
+T19	HealthCareActivity 350 356	review
+T20	CellFunction 933 943	expression
+T21	Finding 20 29	mediators
+T22	Finding 403 412	mediators
+T23	BodyPartOrganOrOrganComponent 240 249	periphery
+T24	BodyPartOrganOrOrganComponent 544 553	periphery
+T25	BodyPartOrganOrOrganComponent 177 196	blood-brain barrier
+T26	AminoAcidPeptideOrProtein 844 851	amyloid
+T27	BiologicallyActiveSubstance 844 851	amyloid
+T28	Finding 1063 1075	risk factors
+T29	Substance 322 343	biochemical molecules
+T30	Substance 517 526	molecules
+T31	HealthCareActivity 214 227	communication
+T32	CellFunction 214 227	communication
+T33	BiologicFunction 724 729	aging
+T34	CellFunction 724 729	aging
+T35	OrganismAttribute 156 163	ability
+T36	PathologicFunction 698 715	neuroinflammation
+T37	PathologicFunction 787 804	neuroinflammation
+T38	CellComponent 134 142	exosomes
+T39	CellComponent 295 303	exosomes
+T40	CellComponent 382 390	exosomes
+T41	CellComponent 0 8	Exosomes
+T42	CellComponent 485 493	Exosomes
+T43	DiseaseOrSyndrome 421 459	chronic systemic inflammatory diseases
+T44	NaturalPhenomenonOrProcess 857 866	clearance
+T45	AminoAcidPeptideOrProtein 844 856	amyloid-beta
+T46	TemporalConcept 690 697	chronic
+T47	PathologicFunction 977 994	disease pathology
+T48	NucleicAcidNucleosideOrNucleotide 908 917	microRNAs
+T49	BiologicallyActiveSubstance 908 917	microRNAs
+T50	Cell 644 655	astro-cytes
+T51	Finding 764 771	changes

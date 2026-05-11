@@ -1,0 +1,85 @@
+T0	CellComponent 171 184	Extracellular
+T1	AnatomicalAbnormality 185 197;207 214	amyloid-beta plaques
+T2	Finding 451 462	Interaction
+T3	CellComponent 487 502	plasma membrane
+T4	CellComponent 504 506	PM
+T5	InjuryOrPoisoning 740 750	toxicities
+T6	InjuryOrPoisoning 786 796	toxicities
+T7	CellComponent 1362 1364	PM
+T8	TemporalConcept 928 935	decades
+T9	CellComponent 611 620	membranes
+T10	CellFunction 1309 1318	signaling
+T11	CellComponent 219 232	intracellular
+T12	CellComponent 1457 1465	membrane
+T13	DiseaseOrSyndrome 112 131	Alzheimer's disease
+T14	DiseaseOrSyndrome 133 135	AD
+T15	DiseaseOrSyndrome 296 298	AD
+T16	DiseaseOrSyndrome 390 392	AD
+T17	DiseaseOrSyndrome 579 581	AD
+T18	DiseaseOrSyndrome 1712 1714	AD
+T19	Cell 971 977	neuron
+T20	Cell 981 987	neuron
+T21	BodyPartOrganOrOrganComponent 1684 1692	synaptic
+T22	Finding 1168 1176	evidence
+T23	PathologicFunction 27 36	pathology
+T24	PathologicFunction 366 375	pathology
+T25	BiomedicalOccupationOrDiscipline 27 36	pathology
+T26	BiomedicalOccupationOrDiscipline 366 375	pathology
+T27	BiologicFunction 12 23	development
+T28	CellFunction 12 23	development
+T29	AminoAcidPeptideOrProtein 233 236	tau
+T30	AminoAcidPeptideOrProtein 347 350	tau
+T31	AminoAcidPeptideOrProtein 1048 1051	tau
+T32	BiologicallyActiveSubstance 233 236	tau
+T33	BiologicallyActiveSubstance 347 350	tau
+T34	BiologicallyActiveSubstance 1048 1051	tau
+T35	AminoAcidPeptideOrProtein 466 481	A beta peptides
+T36	Cell 731 739	neuronal
+T37	DiseaseOrSyndrome 84 110	neurodegenerative diseases
+T38	ResearchActivity 1397 1403	review
+T39	HealthCareActivity 1397 1403	review
+T40	ResearchActivity 329 336	studies
+T41	ResearchActivity 945 952	studies
+T42	InjuryOrPoisoning 714 719	toxic
+T43	AminoAcidPeptideOrProtein 1018 1026	proteins
+T44	CellOrMolecularDysfunction 1000 1017	neurodegenerative
+T45	AminoAcidPeptideOrProtein 199 205	A beta
+T46	AminoAcidPeptideOrProtein 399 405	A beta
+T47	AminoAcidPeptideOrProtein 583 589	A beta
+T48	AminoAcidPeptideOrProtein 657 663	A beta
+T49	AminoAcidPeptideOrProtein 1037 1043	A beta
+T50	AminoAcidPeptideOrProtein 1432 1438	A beta
+T51	AminoAcidPeptideOrProtein 185 192	amyloid
+T52	BiologicallyActiveSubstance 185 192	amyloid
+T53	PathologicFunction 889 899	pathogenic
+T54	PathologicFunction 1520 1530	pathogenic
+T55	PathologicFunction 1585 1595	pathogenic
+T56	CellComponent 1336 1343	vesicle
+T57	Cell 309 317	cellular
+T58	Cell 1300 1308	cellular
+T59	CellFunction 1201 1209	pathways
+T60	CellFunction 1287 1295	pathways
+T61	Chemical 605 610	lipid
+T62	CellFunction 1225 1235	biogenesis
+T63	OrganismAttribute 282 292	phenotypes
+T64	CellFunction 1191 1209	molecular pathways
+T65	AminoAcidPeptideOrProtein 809 814	prion
+T66	CellFunction 590 597	binding
+T67	Finding 1416 1428	interactions
+T68	Finding 540 551	involvement
+T69	CellComponent 1056 1064	exosomes
+T70	CellComponent 1239 1247	exosomes
+T71	Eukaryote 322 328	animal
+T72	AminoAcidPeptideOrProtein 1369 1374	actin
+T73	CellOrMolecularDysfunction 237 260	neurofibrillary tangles
+T74	OrganismAttribute 664 671	species
+T75	AminoAcidPeptideOrProtein 185 197	amyloid-beta
+T76	CellComponent 1069 1088	tunneling nanotubes
+T77	CellComponent 1090 1094	TNTs
+T78	CellOrMolecularDysfunction 399 416	A beta aggregates
+T79	PathologicFunction 768 803	neuropathological toxicities spread
+T80	BiologicFunction 1114 1147	long-range intercellular transfer
+T81	PathologicFunction 1496 1541	intercellular spread of pathogenic aggregates
+T82	Finding 1693 1700	changes
+T83	CellComponent 1252 1256	TNTs
+T84	CellComponent 1272 1286	endo-lysosomal

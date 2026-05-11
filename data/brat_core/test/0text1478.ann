@@ -1,0 +1,93 @@
+T0	PopulationGroup 80 97	mutation carriers
+T1	PopulationGroup 99 101	MC
+T2	PopulationGroup 349 351	MC
+T3	ClinicalAttribute 547 556	global FC
+T4	ClinicalAttribute 840 860	molecular biomarkers
+T5	PopulationGroup 937 939	MC
+T6	PopulationGroup 976 978	MC
+T7	PopulationGroup 1086 1088	MC
+T8	DiseaseOrSyndrome 1097 1105	demented
+T9	PopulationGroup 1128 1130	MC
+T10	HealthCareActivity 805 833	positron emission tomography
+T11	BodyPartOrganOrOrganComponent 1476 1487	hippocampal
+T12	BodyPartOrganOrOrganComponent 1698 1709	hippocampal
+T13	Cell 1476 1487	hippocampal
+T14	Cell 1698 1709	hippocampal
+T15	TemporalConcept 1279 1285	period
+T16	HealthCareActivity 866 903	structural magnetic resonance imaging
+T17	ManufacturedObject 866 903	structural magnetic resonance imaging
+T18	Finding 1150 1156	normal
+T19	ManufacturedObject 805 833	positron emission tomography
+T20	HealthCareActivity 835 838	PET
+T21	HealthCareActivity 1403 1406	PET
+T22	AminoAcidPeptideOrProtein 202 205	tau
+T23	AminoAcidPeptideOrProtein 1430 1435	p-tau
+T24	AminoAcidPeptideOrProtein 1443 1446	tau
+T25	TemporalConcept 1251 1256	years
+T26	TemporalConcept 1329 1334	years
+T27	ClinicalAttribute 616 629	gFC signature
+T28	CellOrMolecularDysfunction 215 232	neurodegeneration
+T29	ClinicalAttribute 237 247	biomarkers
+T30	ClinicalAttribute 717 727	biomarkers
+T31	ClinicalAttribute 850 860	biomarkers
+T32	ClinicalAttribute 1533 1543	biomarkers
+T33	DiseaseOrSyndrome 1024 1032	dementia
+T34	BodyPartOrganOrOrganComponent 799 802	CSF
+T35	BodyPartOrganOrOrganComponent 1408 1411	CSF
+T36	BodyPartOrganOrOrganComponent 1426 1429	CSF
+T37	BodyPartOrganOrOrganComponent 1437 1440	CSF
+T38	BodyPartOrganOrOrganComponent 1652 1655	CSF
+T39	Substance 792 797	fluid
+T40	HealthCareActivity 877 903	magnetic resonance imaging
+T41	HealthCareActivity 896 903	imaging
+T42	ManufacturedObject 877 903	magnetic resonance imaging
+T43	ResearchActivity 905 912	Results
+T44	PopulationGroup 523 534	participant
+T45	PopulationGroup 400 412	participants
+T46	PopulationGroup 957 969	participants
+T47	PopulationGroup 979 991	participants
+T48	PopulationGroup 1164 1176	participants
+T49	BodyPartOrganOrOrganComponent 778 797	cerebrospinal fluid
+T50	BiologicFunction 37 60	functional connectivity
+T51	BiologicFunction 416 439	functional connectivity
+T52	TemporalConcept 253 285	estimated years to symptom onset
+T53	AminoAcidPeptideOrProtein 189 196	amyloid
+T54	AminoAcidPeptideOrProtein 1395 1402	amyloid
+T55	AminoAcidPeptideOrProtein 1656 1663	amyloid
+T56	BiologicallyActiveSubstance 189 196	amyloid
+T57	BiologicallyActiveSubstance 1395 1402	amyloid
+T58	BiologicallyActiveSubstance 1656 1663	amyloid
+T59	CellOrMolecularDysfunction 80 88	mutation
+T60	CellOrMolecularDysfunction 366 374	mutation
+T61	BiologicallyActiveSubstance 202 205	tau
+T62	BiologicallyActiveSubstance 1430 1435	p-tau
+T63	BiologicallyActiveSubstance 1443 1446	tau
+T64	AminoAcidPeptideOrProtein 1412 1424	A beta(1-42)
+T65	DiseaseOrSyndrome 112 142	Dominantly Inherited Alzheimer
+T66	HealthCareRelatedOrganization 112 150	Dominantly Inherited Alzheimer Network
+T67	HealthCareRelatedOrganization 152 156	DIAN
+T68	BiologicFunction 478 500	resting-state networks
+T69	ClinicalAttribute 170 173	gFC
+T70	ClinicalAttribute 16 60;67 76	global resting-state functional connectivity signature
+T71	ClinicalAttribute 62 65	gFC
+T72	ClinicalAttribute 678 681	gFC
+T73	ClinicalAttribute 918 921	gFC
+T74	HealthCareActivity 1015 1039	clinical dementia rating
+T75	HealthCareActivity 1041 1044	CDR
+T76	ClinicalAttribute 1051 1054	gFC
+T77	HealthCareActivity 1089 1092	CDR
+T78	HealthCareActivity 1131 1134	CDR
+T79	ClinicalAttribute 1182 1185	gFC
+T80	TemporalConcept 287 290	EYO
+T81	ClinicalAttribute 1698 1716	hippocampal volume
+T82	ClinicalAttribute 1608 1611	gFC
+T83	ClinicalAttribute 1513 1516	gFC
+T84	Chemical 1448 1470	18F-fluorodeoxyglucose
+T85	ClinicalAttribute 1476 1494	hippocampal volume
+T86	TemporalConcept 1210 1213	EYO
+T87	TemporalConcept 1241 1244	EYO
+T88	TemporalConcept 1352 1355	EYO
+T89	ClinicalAttribute 1365 1368	gFC
+T90	TemporalConcept 669 672	EYO
+T91	TemporalConcept 1321 1324	EYO
+T92	BiologicallyActiveSubstance 1412 1424	A beta(1-42)

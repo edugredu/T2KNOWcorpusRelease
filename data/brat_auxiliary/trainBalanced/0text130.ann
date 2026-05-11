@@ -1,0 +1,84 @@
+T0	Finding 94 99	lives
+T1	ResearchActivity 209 212	map
+T2	CellFunction 610 624	Macroautophagy
+T3	AminoAcidPeptideOrProtein 840 856	scaffold protein
+T4	CellFunction 881 903	macroautophagy process
+T5	BiologicallyActiveSubstance 905 908	p62
+T6	AminoAcidPeptideOrProtein 905 908	p62
+T7	HealthCareActivity 922 928	anchor
+T8	ManufacturedObject 922 928	anchor
+T9	CellComponent 963 985	autophagosome membrane
+T10	BiologicallyActiveSubstance 1032 1042	Modulators
+T11	BiologicallyActiveSubstance 1053 1056	p62
+T12	AminoAcidPeptideOrProtein 1053 1056	p62
+T13	CellFunction 1093 1112	protective pathways
+T14	Finding 1262 1268	errors
+T15	DiseaseOrSyndrome 1447 1480	frontotemporal lobar degeneration
+T16	GeneOrGenome 1533 1536	hub
+T17	AminoAcidPeptideOrProtein 1533 1536	hub
+T18	BiologicallyActiveSubstance 1822 1825	p62
+T19	AminoAcidPeptideOrProtein 1822 1825	p62
+T20	HealthCareActivity 1858 1869	exploration
+T21	DiseaseOrSyndrome 1333 1360	neurodegenerative disorders
+T22	ResearchActivity 1701 1707	design
+T23	HealthCareActivity 1701 1707	design
+T24	CellOrMolecularDysfunction 514 532	abnormal molecules
+T25	Substance 1021 1030	molecules
+T26	Cell 593 601	neuronal
+T27	HealthCareActivity 602 608	health
+T28	Finding 753 772	therapeutic effects
+T29	CellFunction 697 706	autophagy
+T30	CellFunction 1067 1076	autophagy
+T31	CellFunction 1726 1735	autophagy
+T32	PathologicFunction 459 470	dysfunction
+T33	NaturalPhenomenonOrProcess 997 1008	degradation
+T34	HealthCareActivity 671 685	Administration
+T35	CellFunction 1523 1532	signaling
+T36	BiologicFunction 67 81	brain function
+T37	CellOrMolecularDysfunction 400 444	misfolded and abnormally aggregated proteins
+T38	AminoAcidPeptideOrProtein 1877 1894	protein structure
+T39	AminoAcidPeptideOrProtein 933 955	ubiquitinated proteins
+T40	Finding 1217 1237	causal relationships
+T41	DiseaseOrSyndrome 1385 1396	Parkinson's
+T42	DiseaseOrSyndrome 329 355	neurodegenerative diseases
+T43	DiseaseOrSyndrome 1655 1681	neurodegenerative diseases
+T44	DiseaseOrSyndrome 1372 1383	Alzheimer's
+T45	AminoAcidPeptideOrProtein 947 955	proteins
+T46	BiologicFunction 569 580	homeostasis
+T47	CellFunction 561 580	protein homeostasis
+T48	BodyPartOrganOrOrganComponent 160 165	brain
+T49	BodyPartOrganOrOrganComponent 482 487	brain
+T50	DiseaseOrSyndrome 1412 1441	amyotrophic lateral sclerosis
+T51	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T52	DiseaseOrSyndrome 794 822	neurodegenerative conditions
+T53	CellOrMolecularDysfunction 1575 1592	neurodegeneration
+T54	PatientOrDisabledGroup 315 323	patients
+T55	CellFunction 217 255	biochemical and physiological pathways
+T56	CellFunction 1550 1558	pathways
+T57	Cell 651 656	cells
+T58	HealthCareActivity 1172 1181	treatment
+T59	HealthCareActivity 1642 1651	treatment
+T60	ResearchActivity 1172 1181	treatment
+T61	ResearchActivity 1642 1651	treatment
+T62	TemporalConcept 47 58	progressive
+T63	HealthCareActivity 174 183	challenge
+T64	BiologicFunction 1305 1316	development
+T65	CellFunction 1305 1316	development
+T66	PopulationGroup 115 126	individuals
+T67	PopulationGroup 777 788	individuals
+T68	PathologicFunction 59 81	loss of brain function
+T69	BodyPartOrganOrOrganComponent 298 303	Brain
+T70	PharmacologicSubstance 697 726	autophagy-enhancing compounds
+T71	AminoAcidPeptideOrProtein 824 834	SQSTM1/p62
+T72	BiologicallyActiveSubstance 824 834	SQSTM1/p62
+T73	CellFunction 1117 1144	aggregate protein clearance
+T74	AminoAcidPeptideOrProtein 1286 1296	SQSTM1/p62
+T75	BiologicallyActiveSubstance 1286 1296	SQSTM1/p62
+T76	DiseaseOrSyndrome 1398 1410	Huntington's
+T77	AminoAcidPeptideOrProtein 1495 1505	SQSTM1/p62
+T78	BiologicallyActiveSubstance 1495 1505	SQSTM1/p62
+T79	Finding 1606 1634	potential therapeutic target
+T80	AminoAcidPeptideOrProtein 1713 1716	p62
+T81	BiologicallyActiveSubstance 1713 1716	p62
+T82	ResearchActivity 1858 1869	exploration
+T83	BiologicallyActiveSubstance 1736 1745	modulator

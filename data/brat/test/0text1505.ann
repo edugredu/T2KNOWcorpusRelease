@@ -1,0 +1,61 @@
+T0	HealthCareActivity 373 376	ATN
+T1	ResearchActivity 424 443	logistic regression
+T2	HealthCareActivity 580 583	ATN
+T3	ResearchActivity 1041 1060	modeling approaches
+T4	ClinicalAttribute 894 911	clinical features
+T5	Finding 326 335	knowledge
+T6	BiomedicalOccupationOrDiscipline 89 99	pathologic
+T7	CellOrMolecularDysfunction 89 103	pathologic tau
+T8	PopulationGroup 675 682	persons
+T9	Finding 715 721	normal
+T10	ResearchActivity 1154 1169	clinical trials
+T11	OrganismAttribute 1077 1084	ability
+T12	MachineActivity 448 485	RUSBoost machine learning classifiers
+T13	Finding 531 537	scores
+T14	TemporalConcept 498 508	continuous
+T15	AminoAcidPeptideOrProtein 100 103	tau
+T16	BiologicallyActiveSubstance 100 103	tau
+T17	ClinicalAttribute 521 530	biomarker
+T18	ResearchActivity 400 422	data-driven approaches
+T19	ResearchActivity 542 564	data-driven approaches
+T20	ResearchActivity 735 769	data-driven classification methods
+T21	ResearchActivity 1029 1033	data
+T22	PopulationGroup 623 634	individuals
+T23	AminoAcidPeptideOrProtein 71 78	amyloid
+T24	BiologicallyActiveSubstance 71 78	amyloid
+T25	DiseaseOrSyndrome 172 192	cognitive impairment
+T26	DiseaseOrSyndrome 202 210	dementia
+T27	DiseaseOrSyndrome 640 648	dementia
+T28	DiseaseOrSyndrome 697 705	dementia
+T29	DiseaseOrSyndrome 862 870	dementia
+T30	DiseaseOrSyndrome 1003 1011	dementia
+T31	ClinicalAttribute 819 833	ATN biomarkers
+T32	ClinicalAttribute 955 969	ATN biomarkers
+T33	DiseaseOrSyndrome 194 197	MCI
+T34	DiseaseOrSyndrome 239 242	MCI
+T35	DiseaseOrSyndrome 688 691	MCI
+T36	PathologicFunction 988 999	progression
+T37	PathologicFunction 1104 1115	progression
+T38	TemporalConcept 988 999	progression
+T39	TemporalConcept 1104 1115	progression
+T40	Finding 276 287	performance
+T41	PathologicFunction 1096 1115	disease progression
+T42	PopulationGroup 722 728	groups
+T43	TemporalConcept 1147 1153	future
+T44	Finding 974 984	prediction
+T45	DiseaseOrSyndrome 167 192	mild cognitive impairment
+T46	CellOrMolecularDysfunction 113 130	neurodegeneration
+T47	Finding 167 171	mild
+T48	AminoAcidPeptideOrProtein 71 83	amyloid beta
+T49	PopulationGroup 227 233	people
+T50	Substance 217 223	sample
+T51	BodyPartOrganOrOrganComponent 217 223	sample
+T52	Finding 151 161	conversion
+T53	Finding 848 858	conversion
+T54	HealthCareActivity 34 69	ATN biomarker classification system
+T55	HealthCareActivity 291 309	ATN classification
+T56	ResearchActivity 316 350	empirical knowledge-based cut-offs
+T57	ResearchActivity 796 814	empirical cut-offs
+T58	ResearchActivity 933 944	classifiers
+T59	ResearchActivity 872 883	Classifiers
+T60	ClinicalAttribute 34 47	ATN biomarker

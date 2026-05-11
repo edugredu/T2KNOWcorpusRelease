@@ -1,0 +1,69 @@
+T0	Cell 130 162	Oligodendrocyte progenitor cells
+T1	AminoAcidPeptideOrProtein 582 594	ion channels
+T2	BiologicallyActiveSubstance 582 594	ion channels
+T3	AminoAcidPeptideOrProtein 672 684	Ion channels
+T4	BiologicallyActiveSubstance 672 684	Ion channels
+T5	AminoAcidPeptideOrProtein 763 785	voltage-gated channels
+T6	PathologicFunction 949 956	outcome
+T7	AminoAcidPeptideOrProtein 1116 1124	channels
+T8	BiologicallyActiveSubstance 1116 1124	channels
+T9	CellFunction 574 581	express
+T10	Chemical 582 585	ion
+T11	Chemical 1025 1028	ion
+T12	Cell 1147 1172	infiltrating immune cells
+T13	BiologicallyActiveSubstance 599 615	neurotransmitter
+T14	CellComponent 359 364	axons
+T15	Cell 319 335	oligodendrocytes
+T16	Cell 164 168	OPCs
+T17	Cell 471 475	OPCs
+T18	Cell 440 443	OPC
+T19	BiologicFunction 660 670	maturation
+T20	CellFunction 293 306	differentiate
+T21	PathologicFunction 36 49	demyelinating
+T22	PathologicFunction 232 245	demyelinating
+T23	CellFunction 339 350	remyelinate
+T24	DiseaseOrSyndrome 36 57	demyelinating disease
+T25	InjuryOrPoisoning 281 288	lesions
+T26	Cell 312 335	mature oligodendrocytes
+T27	CellFunction 444 459	differentiation
+T28	Cell 146 162	progenitor cells
+T29	CellFunction 440 459	OPC differentiation
+T30	TemporalConcept 312 318	mature
+T31	Chemical 1047 1056	compounds
+T32	PharmacologicSubstance 1047 1056	compounds
+T33	Cell 130 145	Oligodendrocyte
+T34	BodyPartOrganOrOrganComponent 65 87	central nervous system
+T35	BodyPartOrganOrOrganComponent 89 92	CNS
+T36	BodyPartOrganOrOrganComponent 216 219	CNS
+T37	Cell 182 187	cells
+T38	ResearchActivity 1186 1192	review
+T39	HealthCareActivity 1186 1192	review
+T40	ResearchActivity 714 733	therapeutic targets
+T41	CellFunction 1096 1106	expression
+T42	SignOrSymptom 917 925	symptoms
+T43	Cell 1137 1141	glia
+T44	Cell 562 569	neurons
+T45	Cell 1128 1135	neurons
+T46	CellFunction 499 524	neuro-glial communication
+T47	TemporalConcept 1204 1210	recent
+T48	DiseaseOrSyndrome 20 22	MS
+T49	DiseaseOrSyndrome 929 931	MS
+T50	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T51	ResearchActivity 968 981	animal models
+T52	PopulationGroup 210 215	adult
+T53	PharmacologicSubstance 1337 1341	drug
+T54	AminoAcidPeptideOrProtein 631 640	receptors
+T55	BiologicallyActiveSubstance 631 640	receptors
+T56	PathologicFunction 111 128	neuroinflammation
+T57	PathologicFunction 1269 1297	pathophysiological processes
+T58	HealthCareRelatedOrganization 855 858	FDA
+T59	PathologicFunction 1269 1287	pathophysiological
+T60	PharmacologicSubstance 855 874	FDA-approved agents
+T61	BiologicallyActiveSubstance 1025 1036	ion-channel
+T62	AminoAcidPeptideOrProtein 1025 1036	ion-channel
+T63	BiologicallyActiveSubstance 616 630	neuromodulator
+T64	AminoAcidPeptideOrProtein 746 758;777 785	ligand-gated channels
+T65	BiologicallyActiveSubstance 763 785	voltage-gated channels
+T66	BiologicallyActiveSubstance 746 758;777 785	ligand-gated channels
+T67	CellFunction 541 556	synaptic inputs
+T68	Finding 401 423	disease chronicization

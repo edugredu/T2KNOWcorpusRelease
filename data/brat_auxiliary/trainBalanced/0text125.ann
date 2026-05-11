@@ -1,0 +1,69 @@
+T0	CellOrMolecularDysfunction 30 55	mutant huntingtin protein
+T1	NaturalPhenomenonOrProcess 263 272	diffusion
+T2	PathologicFunction 276 297	pathological proteins
+T3	BodyPartOrganOrOrganComponent 306 322	brain connectome
+T4	Finding 342 350	severity
+T5	CellOrMolecularDysfunction 354 373	neural degeneration
+T6	HealthCareActivity 407 444	structural magnetic resonance imaging
+T7	HealthCareActivity 446 449	MRI
+T8	HealthCareActivity 507 510	DWI
+T9	CellOrMolecularDysfunction 622 641	neural degeneration
+T10	Finding 646 659	disconnection
+T11	DiseaseOrSyndrome 720 734	disease spread
+T12	OrganismAttribute 894 901	healthy
+T13	CellOrMolecularDysfunction 1003 1015	degeneration
+T14	CellOrMolecularDysfunction 1050 1069	neural degeneration
+T15	BodyPartOrganOrOrganComponent 1075 1101	sub-cortical brain regions
+T16	BodyPartOrganOrOrganComponent 1117 1126	accumbens
+T17	BodyPartOrganOrOrganComponent 1131 1139	thalamus
+T18	BodyPartOrganOrOrganComponent 1283 1288	nodes
+T19	NaturalPhenomenonOrProcess 1338 1347	diffusion
+T20	CellOrMolecularDysfunction 1514 1539	mutant huntingtin protein
+T21	BodyPartOrganOrOrganComponent 1601 1612	gray matter
+T22	ManufacturedObject 455 505	high-angular resolution diffusion weighted imaging
+T23	PopulationGroup 573 601	age-matched healthy controls
+T24	BodyPartOrganOrOrganComponent 744 766	human brain connectome
+T25	BodyPartOrganOrOrganComponent 842 847	brain
+T26	BodyPartOrganOrOrganComponent 902 924	human brain connectome
+T27	BodyPartOrganOrOrganComponent 1551 1573	human brain connectome
+T28	DiseaseOrSyndrome 168 170	HD
+T29	DiseaseOrSyndrome 395 397	HD
+T30	DiseaseOrSyndrome 556 558	HD
+T31	DiseaseOrSyndrome 663 665	HD
+T32	DiseaseOrSyndrome 1019 1021	HD
+T33	DiseaseOrSyndrome 1235 1237	HD
+T34	DiseaseOrSyndrome 1454 1456	HD
+T35	DiseaseOrSyndrome 1679 1681	HD
+T36	AminoAcidPeptideOrProtein 37 55	huntingtin protein
+T37	AminoAcidPeptideOrProtein 1521 1539	huntingtin protein
+T38	BiologicallyActiveSubstance 37 55	huntingtin protein
+T39	BiologicallyActiveSubstance 1521 1539	huntingtin protein
+T40	DiseaseOrSyndrome 146 166	Huntington's disease
+T41	DiseaseOrSyndrome 534 554	Huntington's disease
+T42	ResearchActivity 201 224	network diffusion model
+T43	ResearchActivity 671 694	network diffusion model
+T44	PathologicFunction 821 830	pathology
+T45	BodyPartOrganOrOrganComponent 1391 1399	striatum
+T46	BodyPartOrganOrOrganComponent 1243 1255	white matter
+T47	BodyPartOrganOrOrganComponent 1630 1642	white matter
+T48	PathologicFunction 95 124	cortico-striatal degeneration
+T49	AminoAcidPeptideOrProtein 276 297	pathological proteins
+T50	Finding 129 142	disconnection
+T51	Finding 378 391	disconnection
+T52	ManufacturedObject 407 444	structural magnetic resonance imaging
+T53	HealthCareActivity 455 505	high-angular resolution diffusion weighted imaging
+T54	ManufacturedObject 507 510	DWI
+T55	ResearchActivity 512 516	data
+T56	CellFunction 0 26	Trans-neuronal propagation
+T57	CellFunction 239 259	transneuronal spread
+T58	ResearchActivity 866 875	eigenmode
+T59	ResearchActivity 925 941	Laplacian matrix
+T60	BodyPartOrganOrOrganComponent 967 983	cortico-striatal
+T61	BodyPartOrganOrOrganComponent 1243 1267	white matter connections
+T62	PathologicFunction 1354 1368	disease spread
+T63	PathologicFunction 1601 1625	gray matter degeneration
+T64	Finding 1666 1675	hallmarks
+T65	PathologicFunction 1630 1656	white matter disconnection
+T66	CellFunction 1486 1510	trans-neuronal diffusion
+T67	Finding 1437 1450	disconnection
+T68	Finding 75 91	organised spread

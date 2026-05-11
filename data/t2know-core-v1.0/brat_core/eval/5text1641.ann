@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 88 107	Parkinson's disease
+T1	DiseaseOrSyndrome 109 111	PD
+T2	BiologicFunction 10 15	aging
+T3	CellFunction 10 15	aging
+T4	ResearchActivity 78 84	burden
+T5	PopulationGroup 16 27	populations
+T6	EnvironmentalEffectOfHumans 42 65	environmental pollution
+T7	EnvironmentalEffectOfHumans 56 65	pollution

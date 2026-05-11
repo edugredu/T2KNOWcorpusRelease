@@ -1,0 +1,6 @@
+T0	BodyPartOrganOrOrganComponent 75 80	brain
+T1	CellOrMolecularDysfunction 144 161	neurodegeneration
+T2	BiologicFunction 104 117	understanding
+T3	HealthCareActivity 81 87	health
+T4	Finding 91 99	critical
+T5	InjuryOrPoisoning 47 71	environmental pollutants

@@ -1,0 +1,7 @@
+T0	CellOrMolecularDysfunction 162 179	neurodegeneration
+T1	CellOrMolecularDysfunction 48 66	protein misfolding
+T2	AminoAcidPeptideOrProtein 115 122	protein
+T3	Organism 39 44	yeast
+T4	CellFunction 18 35	cellular response
+T5	BiologicFunction 0 13	Understanding
+T6	CellFunction 115 149	protein quality control mechanisms

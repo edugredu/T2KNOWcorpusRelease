@@ -1,0 +1,105 @@
+T0	BiologicFunction 392 402	menopausal
+T1	Chemical 635 649	beta-estradiol
+T2	PharmacologicSubstance 668 699	oral conjugated equine estrogen
+T3	PharmacologicSubstance 691 699	estrogen
+T4	BiologicallyActiveSubstance 961 1004	ionized calcium -binding adaptor molecule 1
+T5	AminoAcidPeptideOrProtein 1012 1041	glial fibrillary acid protein
+T6	BiologicallyActiveSubstance 1054 1103	low density lipoprotein receptor-related protein1
+T7	AminoAcidPeptideOrProtein 1054 1103	low density lipoprotein receptor-related protein1
+T8	AminoAcidPeptideOrProtein 1508 1510	PL
+T9	GeneOrGenome 1508 1510	PL
+T10	BodyPartOrganOrOrganComponent 1508 1510	PL
+T11	CellFunction 1718 1728	expressing
+T12	AminoAcidPeptideOrProtein 904 942	neuron specific class III beta-tubulin
+T13	BiologicallyActiveSubstance 904 942	neuron specific class III beta-tubulin
+T14	Cell 1618 1621	PCs
+T15	Cell 334 352	neurovascular unit
+T16	Cell 1786 1804	neurovascular unit
+T17	AminoAcidPeptideOrProtein 1005 1009	Iba1
+T18	BiologicallyActiveSubstance 1005 1009	Iba1
+T19	HealthCareActivity 598 605	placebo
+T20	ResearchActivity 1472 1478	median
+T21	HealthCareActivity 213 225	neuroimaging
+T22	AminoAcidPeptideOrProtein 832 842	antibodies
+T23	BiologicallyActiveSubstance 832 842	antibodies
+T24	BodyPartOrganOrOrganComponent 668 672	oral
+T25	DiseaseOrSyndrome 124 133	dementias
+T26	BodyPartOrganOrOrganComponent 1729 1745	peripheral blood
+T27	DiseaseOrSyndrome 92 111	Alzheimer's disease
+T28	ClinicalAttribute 226 233	markers
+T29	ClinicalAttribute 1191 1198	markers
+T30	ClinicalAttribute 1710 1717	markers
+T31	ResearchActivity 1112 1141	Principal components analysis
+T32	ResearchActivity 251 256	study
+T33	ResearchActivity 577 582	study
+T34	ResearchActivity 1351 1358	Results
+T35	AminoAcidPeptideOrProtein 859 868	total tau
+T36	BodyPartOrganOrOrganComponent 359 364	brain
+T37	BodyPartOrganOrOrganComponent 494 499	brain
+T38	BodyPartOrganOrOrganComponent 1626 1631	brain
+T39	BodyPartOrganOrOrganComponent 1874 1879	brain
+T40	ClinicalAttribute 46 56	biomarkers
+T41	BiologicallyActiveSubstance 859 868	total tau
+T42	BodyPartOrganOrOrganComponent 34 39	blood
+T43	BodyPartOrganOrOrganComponent 287 292	blood
+T44	BodyPartOrganOrOrganComponent 725 748	peripheral venous blood
+T45	BodyPartOrganOrOrganComponent 1740 1745	blood
+T46	Cell 321 326	cells
+T47	Cell 1773 1778	cells
+T48	BodyPartOrganOrOrganComponent 1729 1739	peripheral
+T49	HealthCareActivity 65 74	diagnosis
+T50	BodyPartOrganOrOrganComponent 190 209	cerebrospinal fluid
+T51	HealthCareActivity 583 592	treatment
+T52	HealthCareActivity 1454 1463	treatment
+T53	ResearchActivity 583 592	treatment
+T54	ResearchActivity 1454 1463	treatment
+T55	ResearchActivity 1234 1288	Proportional odds ordinal logistic regression analysis
+T56	TemporalConcept 548 553	years
+T57	ResearchActivity 768 776	analyzed
+T58	Cell 951 960	microglia
+T59	PopulationGroup 158 168	population
+T60	AminoAcidPeptideOrProtein 870 887	amyloid-beta 1-42
+T61	AminoAcidPeptideOrProtein 1303 1310	amyloid
+T62	AminoAcidPeptideOrProtein 1632 1639	amyloid
+T63	AminoAcidPeptideOrProtein 1880 1887	amyloid
+T64	BiologicallyActiveSubstance 870 887	amyloid-beta 1-42
+T65	BiologicallyActiveSubstance 1303 1310	amyloid
+T66	BiologicallyActiveSubstance 1632 1639	amyloid
+T67	BiologicallyActiveSubstance 1880 1887	amyloid
+T68	HealthCareActivity 513 541	positron emission tomography
+T69	PopulationGroup 403 408	women
+T70	GeneOrGenome 1105 1109	LRP1
+T71	BiologicallyActiveSubstance 1105 1109	LRP1
+T72	AminoAcidPeptideOrProtein 1105 1109	LRP1
+T73	CellComponent 293 306	microvesicles
+T74	CellComponent 749 762	microvesicles
+T75	CellComponent 1379 1392	microvesicles
+T76	CellComponent 1746 1759	microvesicles
+T77	HealthCareActivity 79 88	prognosis
+T78	AminoAcidPeptideOrProtein 1043 1047	GFAP
+T79	BiologicallyActiveSubstance 1043 1047	GFAP
+T80	GeneOrGenome 1043 1047	GFAP
+T81	AminoAcidPeptideOrProtein 500 512	amyloid-beta
+T82	AminoAcidPeptideOrProtein 1303 1315	amyloid-beta
+T83	AminoAcidPeptideOrProtein 1632 1644	amyloid-beta
+T84	AminoAcidPeptideOrProtein 1880 1892	amyloid-beta
+T85	PathologicFunction 1632 1655	amyloid-beta deposition
+T86	PathologicFunction 1880 1903	amyloid-beta deposition
+T87	PathologicFunction 1303 1326	amyloid-beta deposition
+T88	ResearchActivity 445 483	Kronos Early Estrogen Prevention Study
+T89	Eukaryote 684 690	equine
+T90	BiologicallyActiveSubstance 691 699	estrogen
+T91	Chemical 691 699	estrogen
+T92	ResearchActivity 780 802	digital flow cytometry
+T93	Chemical 809 820	fluorophore
+T94	AminoAcidPeptideOrProtein 944 948	Tuj1
+T95	BiologicallyActiveSubstance 944 948	Tuj1
+T96	AminoAcidPeptideOrProtein 961 1004	ionized calcium -binding adaptor molecule 1
+T97	BiologicallyActiveSubstance 1012 1041	glial fibrillary acid protein
+T98	PathologicFunction 365 388	amyloid-beta deposition
+T99	PharmacologicSubstance 620 649	transdermal 17 beta-estradiol
+T100	BiologicallyActiveSubstance 635 649	beta-estradiol
+T101	AminoAcidPeptideOrProtein 1406 1418	A beta(1-42)
+T102	BiologicallyActiveSubstance 1406 1418	A beta(1-42)
+T103	AminoAcidPeptideOrProtein 889 901	A beta(1-42)
+T104	BiologicallyActiveSubstance 889 901	A beta(1-42)

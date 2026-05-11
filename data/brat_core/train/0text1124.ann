@@ -1,0 +1,111 @@
+T0	Finding 823 833	senescence
+T1	TemporalConcept 823 833	senescence
+T2	CellFunction 823 833	senescence
+T3	AminoAcidPeptideOrProtein 1015 1053	charged multivesicular body protein 2A
+T4	BiologicallyActiveSubstance 1015 1053	charged multivesicular body protein 2A
+T5	AminoAcidPeptideOrProtein 1055 1061	CHMP2A
+T6	GeneOrGenome 1055 1061	CHMP2A
+T7	BiologicallyActiveSubstance 1139 1163	syndecan-binding protein
+T8	AminoAcidPeptideOrProtein 1139 1163	syndecan-binding protein
+T9	GeneOrGenome 1165 1170	SDCBP
+T10	AminoAcidPeptideOrProtein 1165 1170	SDCBP
+T11	AminoAcidPeptideOrProtein 1255 1261	CDKN1A
+T12	GeneOrGenome 1255 1261	CDKN1A
+T13	GeneOrGenome 1267 1273	CDKN2A
+T14	AminoAcidPeptideOrProtein 1267 1273	CDKN2A
+T15	BiologicallyActiveSubstance 1267 1273	CDKN2A
+T16	AminoAcidPeptideOrProtein 1305 1311	CHMP2A
+T17	GeneOrGenome 1305 1311	CHMP2A
+T18	GeneOrGenome 1316 1321	SDCBP
+T19	AminoAcidPeptideOrProtein 1316 1321	SDCBP
+T20	AminoAcidPeptideOrProtein 1416 1422	CHMP2A
+T21	GeneOrGenome 1416 1422	CHMP2A
+T22	GeneOrGenome 1437 1442	SDCBP
+T23	AminoAcidPeptideOrProtein 1437 1442	SDCBP
+T24	Finding 1660 1670	senescence
+T25	TemporalConcept 1660 1670	senescence
+T26	CellFunction 1660 1670	senescence
+T27	Cell 62 72	cell types
+T28	Cell 269 279	cell types
+T29	CellFunction 1578 1593	gene expression
+T30	Cell 856 872	cell populations
+T31	Cell 1067 1083	cell populations
+T32	Cell 1176 1192	cell populations
+T33	Cell 1355 1371	cell populations
+T34	Cell 1621 1637	cell populations
+T35	NucleicAcidNucleosideOrNucleotide 983 993	transcript
+T36	NucleicAcidNucleosideOrNucleotide 1107 1117	transcript
+T37	PopulationGroup 1382 1393	individuals
+T38	OrganismAttribute 699 702	age
+T39	OrganismAttribute 725 728	age
+T40	OrganismAttribute 957 960	age
+T41	OrganismAttribute 1007 1010	age
+T42	OrganismAttribute 1131 1134	age
+T43	OrganismAttribute 1342 1345	age
+T44	OrganismAttribute 1609 1612	age
+T45	DiseaseOrSyndrome 173 192	Alzheimer's disease
+T46	DiseaseOrSyndrome 194 196	AD
+T47	DiseaseOrSyndrome 222 224	AD
+T48	DiseaseOrSyndrome 625 627	AD
+T49	DiseaseOrSyndrome 1399 1401	AD
+T50	DiseaseOrSyndrome 1702 1704	AD
+T51	Cell 312 317	cells
+T52	CellComponent 0 22	Extracellular vesicles
+T53	CellComponent 28 36	exosomes
+T54	Cell 403 407	cell
+T55	Cell 579 583	cell
+T56	Cell 874 883	cell type
+T57	ResearchActivity 524 548	Memory and Aging Project
+T58	BiologicFunction 136 141	aging
+T59	BiologicFunction 212 217	aging
+T60	BiologicFunction 615 620	aging
+T61	BiologicFunction 1497 1502	aging
+T62	CellFunction 136 141	aging
+T63	CellFunction 212 217	aging
+T64	CellFunction 615 620	aging
+T65	CellFunction 1497 1502	aging
+T66	CellFunction 240 250	biogenesis
+T67	CellFunction 421 431	biogenesis
+T68	CellFunction 657 667	biogenesis
+T69	CellFunction 763 781	exosome biogenesis
+T70	CellFunction 921 939	exosome biogenesis
+T71	CellFunction 1559 1577	exosome biogenesis
+T72	CellFunction 794 807	exosome cargo
+T73	Eukaryote 1491 1496	mouse
+T74	BodyPartOrganOrOrganComponent 351 357	tissue
+T75	BodyPartOrganOrOrganComponent 383 389	tissue
+T76	BodyPartOrganOrOrganComponent 588 594	tissue
+T77	BodyPartOrganOrOrganComponent 886 892	tissue
+T78	CellComponent 232 239	exosome
+T79	CellComponent 413 420	exosome
+T80	CellComponent 649 656	exosome
+T81	CellComponent 763 770	exosome
+T82	CellComponent 794 801	exosome
+T83	CellComponent 921 928	exosome
+T84	CellComponent 1559 1566	exosome
+T85	CellComponent 98 106	Exosomes
+T86	BodyPartOrganOrOrganComponent 89 96	tissues
+T87	Finding 1645 1656	independent
+T88	DiseaseOrSyndrome 146 167	age-related disorders
+T89	ResearchActivity 460 478	Tabula Muris Senis
+T90	ResearchActivity 480 492	Mayo RNA-seq
+T91	ResearchActivity 497 523	Rush Religious Order Study
+T92	ResearchActivity 549 558	data sets
+T93	CellFunction 713 723	expression
+T94	GeneOrGenome 978 982	gene
+T95	GeneOrGenome 940 944	gene
+T96	BiologicallyActiveSubstance 1255 1261	CDKN1A
+T97	BiologicallyActiveSubstance 1416 1422	CHMP2A
+T98	CellFunction 1443 1453	expression
+T99	BiologicallyActiveSubstance 1437 1442	SDCBP
+T100	Finding 1510 1528	absence of disease
+T101	BiologicallyActiveSubstance 1055 1061	CHMP2A
+T102	GeneOrGenome 1102 1106	gene
+T103	BiologicallyActiveSubstance 1165 1170	SDCBP
+T104	TemporalConcept 1199 1209	senescence
+T105	Finding 1199 1209	senescence
+T106	CellFunction 1199 1209	senescence
+T107	BiologicallyActiveSubstance 1227 1253	cyclin-dependent kinase 1A
+T108	AminoAcidPeptideOrProtein 1227 1253	cyclin-dependent kinase 1A
+T109	BiologicallyActiveSubstance 1305 1311	CHMP2A
+T110	BiologicallyActiveSubstance 1316 1321	SDCBP

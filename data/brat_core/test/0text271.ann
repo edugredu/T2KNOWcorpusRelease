@@ -1,0 +1,43 @@
+T0	DiseaseOrSyndrome 29 62	genetic neurodegenerative disease
+T1	SignOrSymptom 78 99	involuntary movements
+T2	BiologicFunction 456 464	pressure
+T3	OrganismAttribute 608 627	individual footstep
+T4	ResearchActivity 764 775	experiments
+T5	HealthCareActivity 731 736	UHDRS
+T6	Finding 916 927	performance
+T7	DiseaseOrSyndrome 0 18	Huntington Disease
+T8	ClinicalAttribute 291 307	disease severity
+T9	ClinicalAttribute 582 598	disease severity
+T10	MachineActivity 990 996	3D CNN
+T11	ResearchActivity 910 915	model
+T12	Finding 291 307	disease severity
+T13	Finding 582 598	disease severity
+T14	OrganismAttribute 394 407	stride length
+T15	OrganismAttribute 394 400	stride
+T16	BiologicFunction 425 434	attention
+T17	OrganismAttribute 350 354	gait
+T18	OrganismAttribute 379 383	gait
+T19	ResearchActivity 465 469	data
+T20	ResearchActivity 637 641	data
+T21	PatientOrDisabledGroup 281 289	patients
+T22	DiseaseOrSyndrome 20 22	HD
+T23	ResearchActivity 832 846	classification
+T24	ResearchActivity 934 948	classification
+T25	Finding 847 855	accuracy
+T26	Finding 949 957	accuracy
+T27	DiseaseOrSyndrome 37 62	neurodegenerative disease
+T28	PatientOrDisabledGroup 574 581	patient
+T29	ResearchActivity 864 884	Image pre-processing
+T30	SignOrSymptom 104 120	impaired balance
+T31	HealthCareActivity 201 228	Protokinetics' Zeno Walkway
+T32	HealthCareActivity 163 192	footstep pressure sensor mats
+T33	ManufacturedObject 201 228	Protokinetics' Zeno Walkway
+T34	OrganismAttribute 379 389	gait width
+T35	ClinicalAttribute 163 180	footstep pressure
+T36	OrganismAttribute 270 279	footsteps
+T37	OrganismAttribute 500 520	individual footsteps
+T38	ClinicalAttribute 619 636	footstep pressure
+T39	MachineActivity 648 672	deep learning techniques
+T40	HealthCareActivity 684 729	Motor Subscale of the Unified HD Rating Scale
+T41	MachineActivity 794 799	VGG16
+T42	MachineActivity 1007 1010	SVM

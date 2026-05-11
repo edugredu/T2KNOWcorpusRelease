@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 67 93	neurodegenerative diseases
+T1	ResearchActivity 118 133	clinical trials
+T2	HealthCareActivity 47 63	adjuvant therapy
+T3	HealthCareActivity 4 10	safety
+T4	PopulationGroup 98 106	subjects
+T5	Finding 15 23	efficacy
+T6	TemporalConcept 110 117	ongoing
+T7	Organism 27 40	Ginkgo biloba

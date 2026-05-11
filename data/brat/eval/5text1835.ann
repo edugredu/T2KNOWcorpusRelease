@@ -1,0 +1,7 @@
+T0	Cell 85 93	neuronal
+T1	PathologicFunction 63 80	neuroinflammation
+T2	Virus 12 22	SARS-CoV-2
+T3	InjuryOrPoisoning 94 100	damage
+T4	AminoAcidPeptideOrProtein 31 39	cytokine
+T5	BiologicallyActiveSubstance 31 39	cytokine
+T6	DiseaseOrSyndrome 31 46	cytokine storms

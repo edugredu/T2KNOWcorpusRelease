@@ -1,0 +1,49 @@
+T0	ResearchActivity 65 87	translational research
+T1	BiomedicalOccupationOrDiscipline 99 113	neuropathology
+T2	PathologicFunction 99 113	neuropathology
+T3	BiomedicalOccupationOrDiscipline 179 194	neuroanatomical
+T4	BodyPartOrganOrOrganComponent 199 221	neurochemical pathways
+T5	CellOrMolecularDysfunction 291 312	neuronal degeneration
+T6	CellFunction 317 342	activation of glial cells
+T7	Cell 331 342	glial cells
+T8	BodyPartOrganOrOrganComponent 402 424	central nervous system
+T9	ResearchActivity 426 446	Genetic manipulation
+T10	HealthCareActivity 448 455	imaging
+T11	ResearchActivity 461 475	drug screening
+T12	CellFunction 537 546	mutations
+T13	CellOrMolecularDysfunction 537 546	mutations
+T14	GeneOrGenome 551 561	transgenes
+T15	Chemical 581 600	fluorescent markers
+T16	ResearchActivity 622 629	in vivo
+T17	ResearchActivity 746 765	automated screening
+T18	HealthCareActivity 770 777	imaging
+T19	DiseaseOrSyndrome 904 923	Parkinson's disease
+T20	DiseaseOrSyndrome 925 944	Alzheimer's disease
+T21	DiseaseOrSyndrome 946 975	amyotrophic lateral sclerosis
+T22	DiseaseOrSyndrome 1086 1114	neurodegenerative conditions
+T23	BodyPartOrganOrOrganComponent 129 134	brain
+T24	BodyPartOrganOrOrganComponent 246 251	brain
+T25	PharmacologicSubstance 461 465	drug
+T26	Eukaryote 397 401	fish
+T27	Eukaryote 714 725	fish larvae
+T28	Eukaryote 93 98	human
+T29	Eukaryote 173 178	human
+T30	Eukaryote 240 245	human
+T31	Eukaryote 863 868	human
+T32	DiseaseOrSyndrome 981 1001	Huntington's disease
+T33	ManufacturedObject 46 60	model organism
+T34	DiseaseOrSyndrome 869 895	neurodegenerative diseases
+T35	PathologicFunction 252 261	pathology
+T36	BiomedicalOccupationOrDiscipline 252 261	pathology
+T37	CellFunction 270 289	protein aggregation
+T38	CellOrMolecularDysfunction 270 289	protein aggregation
+T39	ResearchActivity 787 793	review
+T40	HealthCareActivity 787 793	review
+T41	HealthCareActivity 684 693	treatment
+T42	ResearchActivity 684 693	treatment
+T43	Eukaryote 4 13	zebrafish
+T44	Eukaryote 119 128	zebrafish
+T45	Eukaryote 492 501	zebrafish
+T46	Eukaryote 812 821	zebrafish
+T47	Eukaryote 1055 1064	zebrafish
+T48	TemporalConcept 649 662	larval stages

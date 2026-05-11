@@ -1,0 +1,61 @@
+T0	CellComponent 10 14	EXOs
+T1	DiseaseOrSyndrome 168 171	NDD
+T2	CellComponent 224 228	EXOs
+T3	CellComponent 332 336	EXOs
+T4	CellComponent 368 372	EXOs
+T5	PathologicFunction 504 521	adverse reactions
+T6	CellComponent 533 537	EXOs
+T7	DiseaseOrSyndrome 656 659	NDD
+T8	HealthCareActivity 701 718	disease detection
+T9	CellComponent 868 872	EXOs
+T10	HealthCareActivity 876 884	diagnose
+T11	CellComponent 996 1000	EXOs
+T12	HealthCareActivity 1088 1096	diagnose
+T13	PharmacologicSubstance 280 297	therapeutic cargo
+T14	ResearchActivity 803 812	technique
+T15	HealthCareActivity 612 633	clinical applications
+T16	CellComponent 43 64	extracellular vesicle
+T17	BiologicFunction 27 36	attention
+T18	DiseaseOrSyndrome 198 217	Alzheimer's disease
+T19	DiseaseOrSyndrome 219 221	AD
+T20	DiseaseOrSyndrome 588 590	AD
+T21	DiseaseOrSyndrome 885 887	AD
+T22	DiseaseOrSyndrome 1035 1037	AD
+T23	CellComponent 66 68	EV
+T24	BiologicFunction 116 127	development
+T25	BiologicFunction 899 910	development
+T26	CellFunction 116 127	development
+T27	CellFunction 899 910	development
+T28	HealthCareActivity 643 652	diagnosis
+T29	ResearchActivity 709 718	detection
+T30	HealthCareActivity 709 718	detection
+T31	ResearchActivity 964 974	literature
+T32	CellFunction 292 297	cargo
+T33	ResearchActivity 938 944	review
+T34	HealthCareActivity 938 944	review
+T35	SignOrSymptom 760 768	symptoms
+T36	SignOrSymptom 923 931	symptoms
+T37	ResearchActivity 305 316	researchers
+T38	TemporalConcept 605 611	future
+T39	TemporalConcept 777 783	future
+T40	Finding 384 402	low immunogenicity
+T41	TemporalConcept 747 756	emergence
+T42	PharmacologicSubstance 340 344	drug
+T43	PharmacologicSubstance 414 418	drug
+T44	PharmacologicSubstance 462 466	drug
+T45	PharmacologicSubstance 557 561	drug
+T46	TemporalConcept 523 531	Recently
+T47	DiseaseOrSyndrome 139 166	neurodegenerative disorders
+T48	CellComponent 0 8	Exosomes
+T49	ManufacturedObject 428 436	vehicles
+T50	DiseaseOrSyndrome 182 193	Parkinson's
+T51	BiologicFunction 345 353	delivery
+T52	BiologicFunction 419 427	delivery
+T53	BiologicFunction 467 475	delivery
+T54	BiologicFunction 562 570	delivery
+T55	HealthCareActivity 340 366	drug delivery applications
+T56	HealthCareActivity 414 427	drug delivery
+T57	HealthCareActivity 462 475	drug delivery
+T58	HealthCareActivity 557 570	drug delivery
+T59	ResearchActivity 844 853	isolating
+T60	PathologicFunction 85 103	pathophysiological

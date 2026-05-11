@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 136 163	neurodegenerative disorders
+T1	Finding 66 89	neuroprotective effects
+T2	CellOrMolecularDysfunction 98 116	protein misfolding
+T3	Finding 19 33	overexpression
+T4	AminoAcidPeptideOrProtein 37 56	heat shock proteins
+T5	BiologicallyActiveSubstance 37 56	heat shock proteins
+T6	Virus 0 10	Lentivirus

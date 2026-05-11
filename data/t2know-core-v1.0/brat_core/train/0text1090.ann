@@ -1,0 +1,50 @@
+T0	Finding 4 15	observation
+T1	BiologicFunction 668 693	physiological suppression
+T2	NaturalPhenomenonOrProcess 682 693	suppression
+T3	Finding 106 117	risk factor
+T4	CellComponent 331 352	extracellular vesicle
+T5	Finding 626 638	exacerbation
+T6	BiologicFunction 358 365	content
+T7	DiseaseOrSyndrome 122 141	Alzheimer's disease
+T8	CellComponent 477 480	EVs
+T9	CellComponent 551 554	EVs
+T10	DiseaseOrSyndrome 143 145	AD
+T11	DiseaseOrSyndrome 204 206	AD
+T12	DiseaseOrSyndrome 370 372	AD
+T13	DiseaseOrSyndrome 589 591	AD
+T14	DiseaseOrSyndrome 697 699	AD
+T15	CellComponent 354 356	EV
+T16	BodyPartOrganOrOrganComponent 239 245	plasma
+T17	PathologicFunction 700 709	pathology
+T18	BiomedicalOccupationOrDiscipline 700 709	pathology
+T19	NucleicAcidNucleosideOrNucleotide 246 252	miRNAs
+T20	NucleicAcidNucleosideOrNucleotide 374 380	miRNAs
+T21	NucleicAcidNucleosideOrNucleotide 713 719	miRNAs
+T22	BiologicallyActiveSubstance 246 252	miRNAs
+T23	BiologicallyActiveSubstance 374 380	miRNAs
+T24	BiologicallyActiveSubstance 713 719	miRNAs
+T25	Finding 106 110	risk
+T26	NucleicAcidNucleosideOrNucleotide 54 59	miRNA
+T27	NucleicAcidNucleosideOrNucleotide 187 192	miRNA
+T28	NucleicAcidNucleosideOrNucleotide 572 577	miRNA
+T29	BiologicallyActiveSubstance 54 59	miRNA
+T30	BiologicallyActiveSubstance 187 192	miRNA
+T31	BiologicallyActiveSubstance 572 577	miRNA
+T32	CellFunction 485 494	secretion
+T33	BiologicFunction 485 494	secretion
+T34	TemporalConcept 77 81	time
+T35	CellFunction 266 279	downregulated
+T36	CellFunction 393 406	downregulated
+T37	BiologicFunction 21 26	aging
+T38	BiologicFunction 214 219	aging
+T39	BiologicFunction 256 261	aging
+T40	BiologicFunction 646 651	aging
+T41	CellFunction 21 26	aging
+T42	CellFunction 214 219	aging
+T43	CellFunction 256 261	aging
+T44	CellFunction 646 651	aging
+T45	BiologicFunction 175 200	circulating miRNA network
+T46	BiologicFunction 560 585	circulating miRNA network
+T47	NucleicAcidNucleosideOrNucleotide 43 52	microRNAs
+T48	BiologicallyActiveSubstance 43 52	microRNAs
+T49	CellFunction 464 480	loading into EVs

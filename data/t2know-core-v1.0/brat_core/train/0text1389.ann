@@ -1,0 +1,54 @@
+T0	CellFunction 56 65	crosstalk
+T1	BiologicFunction 73 90	brain development
+T2	Cell 166 197	oligodendrocyte precursor cells
+T3	Cell 199 203	OPCs
+T4	Cell 223 244	endothelial tip cells
+T5	Eukaryote 255 261	ferret
+T6	PopulationGroup 273 281	neonatal
+T7	TemporalConcept 273 281	neonatal
+T8	Finding 332 366	increased or decreased OPC density
+T9	Cell 355 358	OPC
+T10	PathologicFunction 431 438	Hypoxia
+T11	Cell 460 463	OPC
+T12	Cell 492 508	endothelial cell
+T13	CellFunction 527 538	Wnt pathway
+T14	GeneOrGenome 547 553	Apcdd1
+T15	GeneOrGenome 558 563	Axin2
+T16	AminoAcidPeptideOrProtein 558 563	Axin2
+T17	ExperimentalModelOfDisease 629 664	Conditional knockout of OPC Wntless
+T18	BiologicFunction 775 794	angiogenic response
+T19	PathologicFunction 798 805	hypoxia
+T20	PopulationGroup 920 928	neonatal
+T21	TemporalConcept 920 928	neonatal
+T22	BiologicFunction 942 962	vascular development
+T23	TemporalConcept 0 6	Recent
+T24	ResearchActivity 7 14	studies
+T25	BodyPartOrganOrOrganComponent 47 55	vascular
+T26	BodyPartOrganOrOrganComponent 410 418	vascular
+T27	BodyPartOrganOrOrganComponent 701 709	vascular
+T28	ResearchActivity 302 317	transgenic mice
+T29	Eukaryote 267 272	human
+T30	Finding 820 846	severe white matter damage
+T31	BodyPartOrganOrOrganComponent 282 294	white matter
+T32	BodyPartOrganOrOrganComponent 397 409	white matter
+T33	BodyPartOrganOrOrganComponent 567 579	white matter
+T34	BodyPartOrganOrOrganComponent 688 700	white matter
+T35	BodyPartOrganOrOrganComponent 827 839	white matter
+T36	HealthCareActivity 154 160	report
+T37	ResearchActivity 154 160	report
+T38	BiologicFunction 710 716	growth
+T39	InjuryOrPoisoning 1052 1066	hypoxic injury
+T40	Cell 30 46	oligodendroglial
+T41	Eukaryote 248 253	mouse
+T42	Finding 447 471	increases in OPC numbers
+T43	HealthCareActivity 473 487	vessel density
+T44	AminoAcidPeptideOrProtein 547 553	Apcdd1
+T45	BiologicallyActiveSubstance 547 553	Apcdd1
+T46	BiologicallyActiveSubstance 558 563	Axin2
+T47	CellFunction 592 627	paracrine OPC-endothelial signaling
+T48	Finding 720 728	normoxia
+T49	CellOrMolecularDysfunction 738 762	loss of Wnt7a/b function
+T50	CellFunction 877 910	OPC-endothelial cell interactions
+T51	BodyPartOrganOrOrganComponent 929 941	white matter
+T52	AminoAcidPeptideOrProtein 968 971	Wnt
+T53	BiologicallyActiveSubstance 968 971	Wnt

@@ -1,0 +1,82 @@
+T0	HealthCareActivity 72 91	preventive measures
+T1	Finding 329 335	effect
+T2	NucleicAcidNucleosideOrNucleotide 528 547	long non-coding RNA
+T3	NucleicAcidNucleosideOrNucleotide 444 450	ncRNAs
+T4	CellFunction 393 408	gene expression
+T5	PathologicFunction 988 1000	dysregulated
+T6	HealthCareActivity 1162 1169	reports
+T7	ResearchActivity 1162 1169	reports
+T8	DiseaseOrSyndrome 0 19	Alzheimer's Disease
+T9	ResearchActivity 1455 1469	stratification
+T10	Finding 1087 1107	positive association
+T11	PopulationGroup 1046 1054	controls
+T12	PopulationGroup 1248 1256	controls
+T13	PathologicFunction 299 311	Inflammation
+T14	Finding 476 484	evidence
+T15	CellComponent 831 853	extracellular vesicles
+T16	CellComponent 855 858	EVs
+T17	CellComponent 1012 1015	EVs
+T18	CellComponent 1203 1206	EVs
+T19	DiseaseOrSyndrome 21 23	AD
+T20	DiseaseOrSyndrome 121 123	AD
+T21	DiseaseOrSyndrome 216 218	AD
+T22	DiseaseOrSyndrome 626 628	AD
+T23	DiseaseOrSyndrome 792 794	AD
+T24	DiseaseOrSyndrome 1030 1032	AD
+T25	DiseaseOrSyndrome 1145 1147	AD
+T26	DiseaseOrSyndrome 1336 1338	AD
+T27	DiseaseOrSyndrome 1544 1546	AD
+T28	PathologicFunction 1116 1132	pro-inflammatory
+T29	PathologicFunction 499 511	inflammation
+T30	PathologicFunction 610 622	inflammation
+T31	PathologicFunction 761 773	inflammation
+T32	PatientOrDisabledGroup 1033 1041	patients
+T33	PatientOrDisabledGroup 1235 1243	patients
+T34	ClinicalAttribute 1351 1361	biomarkers
+T35	NucleicAcidNucleosideOrNucleotide 461 467	miRNAs
+T36	NucleicAcidNucleosideOrNucleotide 599 605	miRNAs
+T37	BiologicallyActiveSubstance 461 467	miRNAs
+T38	BiologicallyActiveSubstance 599 605	miRNAs
+T39	TemporalConcept 277 282	onset
+T40	PatientOrDisabledGroup 1447 1454	patient
+T41	DiseaseOrSyndrome 670 696	neurodegenerative diseases
+T42	ResearchActivity 729 735	review
+T43	HealthCareActivity 729 735	review
+T44	HealthCareActivity 52 61	treatment
+T45	ResearchActivity 52 61	treatment
+T46	ResearchActivity 970 977	studies
+T47	InjuryOrPoisoning 323 328	toxic
+T48	ResearchActivity 1068 1078	literature
+T49	BodyPartOrganOrOrganComponent 815 821	plasma
+T50	BodyPartOrganOrOrganComponent 1225 1231	plasma
+T51	TemporalConcept 469 475	Recent
+T52	ResearchActivity 1491 1500	discovery
+T53	ResearchActivity 219 225	burden
+T54	PathologicFunction 928 945	brain pathologies
+T55	NucleicAcidNucleosideOrNucleotide 427 442	non-coding RNAs
+T56	NucleicAcidNucleosideOrNucleotide 659 666	lncRNAs
+T57	NucleicAcidNucleosideOrNucleotide 749 756	lncRNAs
+T58	NucleicAcidNucleosideOrNucleotide 1001 1008	lncRNAs
+T59	NucleicAcidNucleosideOrNucleotide 1133 1140	lncRNAs
+T60	NucleicAcidNucleosideOrNucleotide 1312 1319	lncRNAs
+T61	NucleicAcidNucleosideOrNucleotide 549 555	lncRNA
+T62	NucleicAcidNucleosideOrNucleotide 1181 1187	lncRNA
+T63	BiologicallyActiveSubstance 427 442	non-coding RNAs
+T64	ResearchActivity 1520 1539	therapeutic targets
+T65	TemporalConcept 29 38	currently
+T66	PathologicFunction 227 244	Neuroinflammation
+T67	HealthCareActivity 904 923	monitoring strategy
+T68	BiologicallyActiveSubstance 528 547	long non-coding RNA
+T69	BiologicallyActiveSubstance 549 555	lncRNA
+T70	BiologicallyActiveSubstance 444 450	ncRNAs
+T71	CellFunction 557 567	expression
+T72	BiologicallyActiveSubstance 659 666	lncRNAs
+T73	BiologicallyActiveSubstance 749 756	lncRNAs
+T74	Finding 124 128	risk
+T75	HealthCareActivity 149 165	early prediction
+T76	BiologicallyActiveSubstance 1001 1008	lncRNAs
+T77	BiologicallyActiveSubstance 1133 1140	lncRNAs
+T78	CellOrMolecularDysfunction 1181 1199	lncRNA alterations
+T79	BiologicallyActiveSubstance 1181 1187	lncRNA
+T80	BiologicallyActiveSubstance 1312 1319	lncRNAs
+T81	Finding 1427 1442	risk prediction

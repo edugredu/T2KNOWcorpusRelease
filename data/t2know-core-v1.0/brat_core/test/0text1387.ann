@@ -1,0 +1,58 @@
+T0	AminoAcidPeptideOrProtein 12 32	RNA binding proteins
+T1	AminoAcidPeptideOrProtein 167 174	QUAKING
+T2	AminoAcidPeptideOrProtein 176 179	QKI
+T3	AminoAcidPeptideOrProtein 181 200	RNA binding protein
+T4	BiologicallyActiveSubstance 181 200	RNA binding protein
+T5	CellComponent 275 293	phagocytosed cargo
+T6	AminoAcidPeptideOrProtein 332 335	QKI
+T7	HealthCareActivity 564 578	cuprizone diet
+T8	CellFunction 673 686	remyelination
+T9	Cell 711 742	oligodendrocyte precursor cells
+T10	AminoAcidPeptideOrProtein 796 799	QKI
+T11	CellFunction 816 829	downregulated
+T12	AminoAcidPeptideOrProtein 967 970	QKI
+T13	AminoAcidPeptideOrProtein 1031 1041	Rho GTPase
+T14	GeneOrGenome 1031 1041	Rho GTPase
+T15	CellFunction 1079 1092	remyelination
+T16	BodyPartOrganOrOrganComponent 668 671	CNS
+T17	BodyPartOrganOrOrganComponent 1075 1078	CNS
+T18	DiseaseOrSyndrome 922 924	MS
+T19	DiseaseOrSyndrome 1097 1099	MS
+T20	ExperimentalModelOfDisease 580 613	mice with QKI-deficient microglia
+T21	BodyPartOrganOrOrganComponent 644 666	central nervous system
+T22	CellFunction 754 763	apoptosis
+T23	PatientOrDisabledGroup 926 934	patients
+T24	PatientOrDisabledGroup 1100 1108	patients
+T25	DiseaseOrSyndrome 902 920	multiple sclerosis
+T26	ResearchActivity 295 312	Splicing analysis
+T27	GeneOrGenome 419 423	RhoA
+T28	AminoAcidPeptideOrProtein 419 423	RhoA
+T29	BodyPartOrganOrOrganComponent 878 890	white matter
+T30	Cell 98 107	microglia
+T31	Cell 139 148	microglia
+T32	Cell 482 491	microglia
+T33	Cell 604 613	microglia
+T34	Cell 803 812	microglia
+T35	CellFunction 376 394	Rho GTPase pathway
+T36	CellFunction 782 799	expression of QKI
+T37	AminoAcidPeptideOrProtein 530 551	Rock kinase inhibitor
+T38	PharmacologicSubstance 530 551	Rock kinase inhibitor
+T39	CellFunction 66 94	cytokine-releasing functions
+T40	Finding 206 248	increased proinflammatory cytokine release
+T41	Finding 253 293	defects in processing phagocytosed cargo
+T42	CellFunction 232 248	cytokine release
+T43	AminoAcidPeptideOrProtein 439 464	proinflammatory cytokines
+T44	BiologicallyActiveSubstance 439 464	proinflammatory cytokines
+T45	CellOrMolecularDysfunction 468 491	QKI-deficient microglia
+T46	BiologicallyActiveSubstance 419 423	RhoA
+T47	CellFunction 419 434	RhoA activation
+T48	NucleicAcidNucleosideOrNucleotide 1042 1052	microexons
+T49	BiologicallyActiveSubstance 1042 1052	microexons
+T50	NucleicAcidNucleosideOrNucleotide 350 359	microexon
+T51	BiologicallyActiveSubstance 350 359	microexon
+T52	CellFunction 350 368	microexon networks
+T53	CellFunction 977 1007	alternative splicing regulator
+T54	BiologicallyActiveSubstance 1031 1041	Rho GTPase
+T55	Finding 833 898	preactive, chronic active, and remyelinating white matter lesions
+T56	BiologicallyActiveSubstance 12 32	RNA binding proteins
+T57	CellOrMolecularDysfunction 139 174	microglia deficient for the QUAKING

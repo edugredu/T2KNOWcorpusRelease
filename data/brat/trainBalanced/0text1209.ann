@@ -1,0 +1,56 @@
+T0	HealthCareActivity 293 307	drug therapies
+T1	BiologicFunction 586 592	ageing
+T2	TemporalConcept 740 747	reserve
+T3	TemporalConcept 46 54	progress
+T4	TemporalConcept 188 195	Current
+T5	HealthCareActivity 77 105	disease-modifying treatments
+T6	HealthCareActivity 664 684	therapeutic approach
+T7	Finding 507 526	increasing evidence
+T8	BiologicFunction 810 822	developments
+T9	CellFunction 810 822	developments
+T10	DiseaseOrSyndrome 110 128	multiple sclerosis
+T11	DiseaseOrSyndrome 356 374	multiple sclerosis
+T12	DiseaseOrSyndrome 853 871	multiple sclerosis
+T13	BodyPartOrganOrOrganComponent 752 758	myelin
+T14	BiologicFunction 759 771	regeneration
+T15	Cell 704 747	oligodendrocyte precursor cell pool reserve
+T16	CellComponent 496 500	axon
+T17	HealthCareActivity 759 771	regeneration
+T18	CellFunction 752 771	myelin regeneration
+T19	HealthCareActivity 826 849	remyelinating therapies
+T20	HealthCareActivity 628 648	cell transplantation
+T21	BodyPartOrganOrOrganComponent 325 331	Myelin
+T22	ResearchActivity 196 204	research
+T23	BiologicFunction 62 73	development
+T24	CellFunction 62 73	development
+T25	BodyPartOrganOrOrganComponent 575 580	brain
+T26	PathologicFunction 605 616	progression
+T27	TemporalConcept 605 616	progression
+T28	Cell 895 899	cell
+T29	ResearchActivity 15 21	review
+T30	ResearchActivity 785 791	review
+T31	HealthCareActivity 15 21	review
+T32	HealthCareActivity 785 791	review
+T33	TemporalConcept 309 315	Recent
+T34	Finding 556 564	capacity
+T35	TemporalConcept 285 292	current
+T36	CellOrMolecularDysfunction 460 477	neurodegeneration
+T37	ResearchActivity 906 916	strategies
+T38	BiologicFunction 906 916	strategies
+T39	HealthCareActivity 95 105	treatments
+T40	ResearchActivity 95 105	treatments
+T41	PathologicFunction 597 616	disease progression
+T42	TemporalConcept 803 809	recent
+T43	CellFunction 408 421	remyelination
+T44	CellFunction 542 555	remyelination
+T45	HealthCareActivity 232 241	therapies
+T46	HealthCareActivity 298 307	therapies
+T47	DiseaseOrSyndrome 130 132	MS
+T48	DiseaseOrSyndrome 572 574	MS
+T49	PharmacologicSubstance 293 297	drug
+T50	Finding 344 352	hallmark
+T51	Cell 216 225	stem cell
+T52	BiologicFunction 135 141	repair
+T53	HealthCareActivity 135 141	repair
+T54	InjuryOrPoisoning 154 160	damage
+T55	InjuryOrPoisoning 332 338	damage

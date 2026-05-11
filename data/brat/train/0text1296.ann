@@ -1,0 +1,82 @@
+T0	DiseaseOrSyndrome 29 57	chronic inflammatory disease
+T1	Cell 449 453	OGDs
+T2	BodyPartOrganOrOrganComponent 704 723	paranodal junctions
+T3	IndividualBehavior 742 751	integrity
+T4	IndividualBehavior 809 818	integrity
+T5	Cell 839 842	OGD
+T6	BiologicFunction 843 859	supply of energy
+T7	NaturalPhenomenonOrProcess 853 859	energy
+T8	SignOrSymptom 950 959	splitting
+T9	Cell 1054 1058	OGDs
+T10	BiologicFunction 1166 1173	remodel
+T11	CellFunction 1223 1240	neural plasticity
+T12	TemporalConcept 162 174	age of onset
+T13	BodyPartOrganOrOrganComponent 89 92	CNS
+T14	BodyPartOrganOrOrganComponent 1248 1251	CNS
+T15	CellComponent 822 827	axons
+T16	Cell 605 613	neuronal
+T17	TemporalConcept 221 228	decades
+T18	Cell 431 447	oligodendrocytes
+T19	Cell 556 566	astrocytes
+T20	Finding 1489 1498	knowledge
+T21	ResearchActivity 1465 1473	overview
+T22	CellOrMolecularDysfunction 672 688	oxidative stress
+T23	CellComponent 630 643	mitochondrial
+T24	CellFunction 1399 1412	remyelination
+T25	CellFunction 1636 1649	remyelination
+T26	Cell 475 479	OPCs
+T27	CellFunction 770 781	myelination
+T28	CellFunction 1146 1157	myelination
+T29	Cell 1548 1572	oligodendroglial lineage
+T30	CellComponent 1187 1203	myelinated axons
+T31	CellOrMolecularDysfunction 1611 1630	axonal degeneration
+T32	TemporalConcept 1047 1053	mature
+T33	PathologicFunction 694 723	disrupted paranodal junctions
+T34	ResearchActivity 1442 1448	review
+T35	HealthCareActivity 1442 1448	review
+T36	PathologicFunction 287 298	progression
+T37	TemporalConcept 287 298	progression
+T38	OrganismAttribute 267 270	age
+T39	OrganismAttribute 311 314	age
+T40	OrganismAttribute 496 499	age
+T41	OrganismAttribute 593 596	age
+T42	OrganismAttribute 1502 1505	age
+T43	BiologicFunction 1296 1301	aging
+T44	CellFunction 1296 1301	aging
+T45	Finding 965 1004	accumulation of multilamellar fragments
+T46	PathologicFunction 415 427	degeneration
+T47	CellOrMolecularDysfunction 123 140	neurodegeneration
+T48	ResearchActivity 243 250	studies
+T49	OrganismAttribute 1102 1109	healthy
+T50	PatientOrDisabledGroup 181 189	patients
+T51	PatientOrDisabledGroup 393 401	patients
+T52	Cell 1535 1540	cells
+T53	ResearchActivity 1021 1025	data
+T54	DiseaseOrSyndrome 20 22	MS
+T55	DiseaseOrSyndrome 178 180	MS
+T56	DiseaseOrSyndrome 390 392	MS
+T57	DiseaseOrSyndrome 1416 1418	MS
+T58	PathologicFunction 105 118	demyelination
+T59	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T60	TemporalConcept 799 808	long-term
+T61	TemporalConcept 29 36	chronic
+T62	BodyPartOrganOrOrganComponent 735 741	myelin
+T63	BodyPartOrganOrOrganComponent 902 908	myelin
+T64	BodyPartOrganOrOrganComponent 931 937	myelin
+T65	BodyPartOrganOrOrganComponent 1110 1116	myelin
+T66	BodyPartOrganOrOrganComponent 1593 1599	myelin
+T67	Cell 571 580	microglia
+T68	TemporalConcept 1122 1126	time
+T69	PathologicFunction 279 298	disease progression
+T70	BodyPartOrganOrOrganComponent 65 87	central nervous system
+T71	Finding 376 386	disability
+T72	OrganismAttribute 1070 1077	ability
+T73	BodyPartOrganOrOrganComponent 1287 1294	tissues
+T74	TemporalConcept 1481 1488	current
+T75	TemporalConcept 142 157	Life expectancy
+T76	Cell 459 473	OGD precursors
+T77	CellFunction 531 552	inflammatory activity
+T78	CellOrMolecularDysfunction 630 655	mitochondrial alterations
+T79	CellFunction 735 751	myelin integrity
+T80	CellFunction 1593 1609	myelin synthesis
+T81	Finding 1650 1660	efficiency

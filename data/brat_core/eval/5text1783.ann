@@ -1,0 +1,9 @@
+T0	ClinicalAttribute 67 84	molecular markers
+T1	CellFunction 44 54	expression
+T2	Cell 153 171	neural progenitors
+T3	EmbryonicStructure 0 18	Radial glial cells
+T4	AminoAcidPeptideOrProtein 94 98	Pax6
+T5	AminoAcidPeptideOrProtein 103 109	Nestin
+T6	BiologicallyActiveSubstance 103 109	Nestin
+T7	BiologicallyActiveSubstance 94 98	Pax6
+T8	GeneOrGenome 94 98	Pax6

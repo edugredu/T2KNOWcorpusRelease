@@ -1,0 +1,105 @@
+T0	ResearchActivity 616 645	immunofluorescence procedures
+T1	TemporalConcept 702 713	post-mortem
+T2	AminoAcidPeptideOrProtein 884 898	myelin protein
+T3	GeneOrGenome 899 902	MOG
+T4	AminoAcidPeptideOrProtein 911 922	HLA antigen
+T5	BiologicallyActiveSubstance 911 922	HLA antigen
+T6	PopulationGroup 1346 1360	subpopulations
+T7	OrganismAttribute 1449 1459	morphology
+T8	CellFunction 1203 1213	expressing
+T9	CellFunction 1370 1380	expressing
+T10	Finding 717 730	brain lesions
+T11	BodyPartOrganOrOrganComponent 1131 1133	WM
+T12	BodyPartOrganOrOrganComponent 1491 1493	WM
+T13	ClinicalAttribute 1107 1111	NAWM
+T14	ClinicalAttribute 1253 1257	NAWM
+T15	ClinicalAttribute 1624 1628	NAWM
+T16	TemporalConcept 702 706	post
+T17	DiseaseOrSyndrome 750 774	secondary progressive MS
+T18	CellComponent 126 131	axons
+T19	Cell 363 379	oligodendrocytes
+T20	Cell 61 65	OPCs
+T21	Cell 1586 1590	OPCs
+T22	Cell 206 209	OPC
+T23	BiologicFunction 210 220	maturation
+T24	BiologicFunction 426 436	maturation
+T25	Cell 28 59	oligodendrocyte precursor cells
+T26	DiseaseOrSyndrome 3 21	multiple sclerosis
+T27	CellFunction 106 117	remyelinate
+T28	InjuryOrPoisoning 723 730	lesions
+T29	InjuryOrPoisoning 1056 1063	lesions
+T30	InjuryOrPoisoning 831 837	lesion
+T31	InjuryOrPoisoning 1598 1604	lesion
+T32	BodyPartOrganOrOrganComponent 1093 1105	white matter
+T33	BodyPartOrganOrOrganComponent 1117 1129	white matter
+T34	CellFunction 287 306	OPC differentiation
+T35	TemporalConcept 271 276	early
+T36	PathologicFunction 801 822	inflammatory activity
+T37	BiologicallyActiveSubstance 226 243	membrane receptor
+T38	GeneOrGenome 244 249	GPR17
+T39	GeneOrGenome 481 486	GPR17
+T40	GeneOrGenome 544 549	GPR17
+T41	GeneOrGenome 667 672	GPR17
+T42	GeneOrGenome 1026 1031	GPR17
+T43	GeneOrGenome 1197 1202	GPR17
+T44	GeneOrGenome 1364 1369	GPR17
+T45	GeneOrGenome 1577 1582	GPR17
+T46	GeneOrGenome 1649 1654	GPR17
+T47	AminoAcidPeptideOrProtein 244 249	GPR17
+T48	AminoAcidPeptideOrProtein 481 486	GPR17
+T49	AminoAcidPeptideOrProtein 544 549	GPR17
+T50	AminoAcidPeptideOrProtein 667 672	GPR17
+T51	AminoAcidPeptideOrProtein 1026 1031	GPR17
+T52	AminoAcidPeptideOrProtein 1197 1202	GPR17
+T53	AminoAcidPeptideOrProtein 1364 1369	GPR17
+T54	AminoAcidPeptideOrProtein 1577 1582	GPR17
+T55	AminoAcidPeptideOrProtein 1649 1654	GPR17
+T56	BiologicFunction 354 362	immature
+T57	BiologicallyActiveSubstance 244 249	GPR17
+T58	BiologicallyActiveSubstance 481 486	GPR17
+T59	BiologicallyActiveSubstance 544 549	GPR17
+T60	BiologicallyActiveSubstance 667 672	GPR17
+T61	BiologicallyActiveSubstance 1026 1031	GPR17
+T62	BiologicallyActiveSubstance 1197 1202	GPR17
+T63	BiologicallyActiveSubstance 1364 1369	GPR17
+T64	BiologicallyActiveSubstance 1577 1582	GPR17
+T65	BiologicallyActiveSubstance 1649 1654	GPR17
+T66	Cell 1214 1236	oligodendroglial cells
+T67	Cell 1381 1403	oligodendroglial cells
+T68	PopulationGroup 1497 1513	healthy controls
+T69	OrganismAttribute 1497 1504	healthy
+T70	PatientOrDisabledGroup 145 153	patients
+T71	PatientOrDisabledGroup 568 576	patients
+T72	PatientOrDisabledGroup 736 744	patients
+T73	PatientOrDisabledGroup 1521 1529	patients
+T74	Eukaryote 676 681	human
+T75	Cell 1041 1046	cells
+T76	ResearchActivity 654 663	detection
+T77	HealthCareActivity 654 663	detection
+T78	PathologicFunction 1277 1289	inflammation
+T79	HealthCareActivity 1727 1753	pharmacological approaches
+T80	Finding 1268 1276	moderate
+T81	PopulationGroup 779 795	control subjects
+T82	PopulationGroup 1138 1154	control subjects
+T83	PopulationGroup 1146 1154	subjects
+T84	Finding 1076 1092	normal appearing
+T85	Finding 1322 1332	identified
+T86	InjuryOrPoisoning 96 102	injury
+T87	CellFunction 1696 1709	remyelination
+T88	DiseaseOrSyndrome 23 25	MS
+T89	DiseaseOrSyndrome 565 567	MS
+T90	DiseaseOrSyndrome 714 716	MS
+T91	DiseaseOrSyndrome 1518 1520	MS
+T92	ResearchActivity 456 469	animal models
+T93	ResearchActivity 591 611	immunohistochemistry
+T94	ResearchActivity 855 875	immunohistochemistry
+T95	TemporalConcept 277 283	stages
+T96	CellFunction 394 407	downregulated
+T97	Finding 1565 1573	presence
+T98	ResearchActivity 1160 1164	data
+T99	BodyPartOrganOrOrganComponent 682 689	tissues
+T100	Finding 550 561	alterations
+T101	TemporalConcept 951 958	chronic
+T102	TemporalConcept 971 978	chronic
+T103	AminoAcidPeptideOrProtein 899 902	MOG
+T104	BiologicallyActiveSubstance 899 902	MOG

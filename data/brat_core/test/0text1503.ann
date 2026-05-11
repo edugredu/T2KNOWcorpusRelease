@@ -1,0 +1,80 @@
+T0	DiseaseOrSyndrome 332 365	frontotemporal lobar degeneration
+T1	DiseaseOrSyndrome 367 371	FTLD
+T2	DiseaseOrSyndrome 419 422	LBD
+T3	DiseaseOrSyndrome 861 864	LBD
+T4	DiseaseOrSyndrome 869 873	FTLD
+T5	GeneOrGenome 897 902	AP2B1
+T6	AminoAcidPeptideOrProtein 897 902	AP2B1
+T7	AminoAcidPeptideOrProtein 907 918	syntaxin-1B
+T8	DiseaseOrSyndrome 1021 1024	LBD
+T9	DiseaseOrSyndrome 1030 1034	FTLD
+T10	PathologicFunction 1299 1326	frontotemporal degeneration
+T11	DiseaseOrSyndrome 1299 1326	frontotemporal degeneration
+T12	BiomedicalOccupationOrDiscipline 1365 1374	Pathology
+T13	PathologicFunction 1365 1374	Pathology
+T14	HealthCareActivity 1392 1399	autopsy
+T15	PopulationGroup 1403 1411	familial
+T16	CellFunction 1412 1421	mutations
+T17	CellOrMolecularDysfunction 1412 1421	mutations
+T18	DiseaseOrSyndrome 557 585	neurodegenerative conditions
+T19	DiseaseOrSyndrome 657 685	neurodegenerative conditions
+T20	DiseaseOrSyndrome 761 789	neurodegenerative conditions
+T21	AminoAcidPeptideOrProtein 807 821	beta-synuclein
+T22	CellOrMolecularDysfunction 993 1013	synaptic dysfunction
+T23	PathologicFunction 13 34	Synaptic degeneration
+T24	CellOrMolecularDysfunction 1461 1482	synaptic degeneration
+T25	DiseaseOrSyndrome 1332 1363	Lewy body spectrum of disorders
+T26	AminoAcidPeptideOrProtein 195 212	synaptic proteins
+T27	AminoAcidPeptideOrProtein 947 964	synaptic proteins
+T28	AminoAcidPeptideOrProtein 1180 1197	synaptic proteins
+T29	AminoAcidPeptideOrProtein 1540 1557	synaptic proteins
+T30	ResearchActivity 1247 1264	mass spectrometry
+T31	ClinicalAttribute 1437 1456	synaptic biomarkers
+T32	AminoAcidPeptideOrProtein 791 802	neurogranin
+T33	BiologicallyActiveSubstance 791 802	neurogranin
+T34	DiseaseOrSyndrome 75 101	neurodegenerative diseases
+T35	DiseaseOrSyndrome 1130 1156	neurodegenerative diseases
+T36	DiseaseOrSyndrome 1565 1591	neurodegenerative diseases
+T37	AminoAcidPeptideOrProtein 812 821	synuclein
+T38	BiologicallyActiveSubstance 812 821	synuclein
+T39	ResearchActivity 178 184	Method
+T40	PopulationGroup 462 464	HC
+T41	PopulationGroup 598 600	HC
+T42	PopulationGroup 886 888	HC
+T43	DiseaseOrSyndrome 298 317	Alzheimer's disease
+T44	DiseaseOrSyndrome 1278 1297	Alzheimer's disease
+T45	DiseaseOrSyndrome 319 321	AD
+T46	DiseaseOrSyndrome 740 742	AD
+T47	DiseaseOrSyndrome 893 895	AD
+T48	DiseaseOrSyndrome 1017 1019	AD
+T49	BodyPartOrganOrOrganComponent 254 273	cerebrospinal fluid
+T50	BodyPartOrganOrOrganComponent 1221 1240	cerebrospinal fluid
+T51	PatientOrDisabledGroup 284 292	patients
+T52	PopulationGroup 444 460	healthy controls
+T53	ClinicalAttribute 107 117	biomarkers
+T54	ClinicalAttribute 978 988	biomarkers
+T55	PathologicFunction 56 71	pathophysiology
+T56	BiomedicalOccupationOrDiscipline 56 71	pathophysiology
+T57	PathologicFunction 234 243	pathology
+T58	BiomedicalOccupationOrDiscipline 234 243	pathology
+T59	ResearchActivity 475 482	Results
+T60	DiseaseOrSyndrome 1487 1504	cognitive decline
+T61	PopulationGroup 274 280	cohort
+T62	ResearchActivity 518 526	patterns
+T63	ResearchActivity 1063 1071	patterns
+T64	ResearchActivity 1528 1536	patterns
+T65	ClinicalAttribute 528 535	markers
+T66	ClinicalAttribute 628 635	markers
+T67	ClinicalAttribute 707 714	markers
+T68	ClinicalAttribute 828 835	markers
+T69	PathologicFunction 133 157	pathological alterations
+T70	DiseaseOrSyndrome 386 417	Lewy body spectrum of disorders
+T71	ResearchActivity 483 494	Comparisons
+T72	AminoAcidPeptideOrProtein 606 625	neuronal pentraxins
+T73	BiologicallyActiveSubstance 606 625	neuronal pentraxins
+T74	BiologicallyActiveSubstance 897 902	AP2B1
+T75	BiologicallyActiveSubstance 907 918	syntaxin-1B
+T76	AminoAcidPeptideOrProtein 1075 1091	synaptic protein
+T77	Finding 1092 1103	alterations
+T78	AminoAcidPeptideOrProtein 687 704	14-3-3 zeta/delta
+T79	BiologicallyActiveSubstance 687 704	14-3-3 zeta/delta

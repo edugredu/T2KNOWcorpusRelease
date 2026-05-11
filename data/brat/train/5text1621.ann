@@ -1,0 +1,9 @@
+T0	DiseaseOrSyndrome 44 46	AD
+T1	PatientOrDisabledGroup 47 55	patients
+T2	BodyPartOrganOrOrganComponent 139 142	CSF
+T3	BiologicallyActiveSubstance 111 121	antibodies
+T4	BodyPartOrganOrOrganComponent 129 134	serum
+T5	Finding 77 88	high levels
+T6	Bacterium 97 106	H. pylori
+T7	AminoAcidPeptideOrProtein 107 110	IgG
+T8	BiologicallyActiveSubstance 107 110	IgG

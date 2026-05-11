@@ -1,0 +1,52 @@
+T0	SignOrSymptom 15 43	nonneurologic manifestations
+T1	DiseaseOrSyndrome 93 127	genetic neurodegenerative disorder
+T2	DiseaseOrSyndrome 138 164	cerebral venous thrombosis
+T3	PathologicFunction 138 164	cerebral venous thrombosis
+T4	DiseaseOrSyndrome 166 169	CVT
+T5	PathologicFunction 166 169	CVT
+T6	DiseaseOrSyndrome 172 194	iron-deficiency anemia
+T7	SignOrSymptom 241 254	presentations
+T8	ManufacturedObject 287 291	case
+T9	DiseaseOrSyndrome 313 316	CVT
+T10	PathologicFunction 313 316	CVT
+T11	DiseaseOrSyndrome 318 333	iron-deficiency
+T12	DiseaseOrSyndrome 334 340	anemia
+T13	TemporalConcept 362 371	transient
+T14	SignOrSymptom 422 436	manifestations
+T15	HealthCareActivity 493 501	reviewed
+T16	ResearchActivity 510 517	article
+T17	DiseaseOrSyndrome 572 575	CVT
+T18	PathologicFunction 572 575	CVT
+T19	DiseaseOrSyndrome 577 599	iron-deficiency anemia
+T20	BodyPartOrganOrOrganComponent 624 632	vascular
+T21	Cell 637 647	blood cell
+T22	ResearchActivity 688 695	article
+T23	DiseaseOrSyndrome 759 785	cerebral venous thrombosis
+T24	PathologicFunction 759 785	cerebral venous thrombosis
+T25	DiseaseOrSyndrome 787 809	iron-deficiency anemia
+T26	DiseaseOrSyndrome 803 809	anemia
+T27	SignOrSymptom 909 923	manifestations
+T28	ResearchActivity 493 501	reviewed
+T29	ResearchActivity 470 492	experimental evidences
+T30	Finding 559 574	formation of CV
+T31	TemporalConcept 376 383	chronic
+T32	CellOrMolecularDysfunction 637 661	blood cell abnormalities
+T33	TemporalConcept 255 262	to date
+T34	Finding 384 396	risk factors
+T35	DiseaseOrSyndrome 84 86	HD
+T36	DiseaseOrSyndrome 535 537	HD
+T37	PatientOrDisabledGroup 297 307	HD patient
+T38	DiseaseOrSyndrome 64 82	Huntington disease
+T39	DiseaseOrSyndrome 727 745	Huntington disease
+T40	DiseaseOrSyndrome 863 881	Huntington disease
+T41	DiseaseOrSyndrome 199 210	neutropenia
+T42	DiseaseOrSyndrome 345 356	neutropenia
+T43	DiseaseOrSyndrome 604 615	neutropenia
+T44	DiseaseOrSyndrome 814 825	neutropenia
+T45	AnatomicalAbnormality 199 210	neutropenia
+T46	AnatomicalAbnormality 345 356	neutropenia
+T47	AnatomicalAbnormality 604 615	neutropenia
+T48	AnatomicalAbnormality 814 825	neutropenia
+T49	PatientOrDisabledGroup 746 753	patient
+T50	ResearchActivity 835 841	review
+T51	HealthCareActivity 835 841	review

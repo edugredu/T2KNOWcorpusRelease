@@ -1,0 +1,21 @@
+T0	ResearchActivity 277 288	single-cell
+T1	Cell 416 426	brain cell
+T2	ResearchActivity 123 149	Single-cell RNA sequencing
+T3	ResearchActivity 154 183	single-nucleus RNA sequencing
+T4	TemporalConcept 3 17	recent decades
+T5	Chemical 161 168	nucleus
+T6	CellComponent 161 168	nucleus
+T7	ResearchActivity 498 504	review
+T8	HealthCareActivity 498 504	review
+T9	BodyPartOrganOrOrganComponent 264 269	brain
+T10	DiseaseOrSyndrome 74 100	neurodegenerative diseases
+T11	DiseaseOrSyndrome 462 488	neurodegenerative diseases
+T12	DiseaseOrSyndrome 563 589	neurodegenerative diseases
+T13	Cell 422 432	cell types
+T14	TemporalConcept 523 529	recent
+T15	Finding 318 327	knowledge
+T16	BodyPartOrganOrOrganComponent 335 357	central nervous system
+T17	Finding 530 538	advances
+T18	NucleicAcidNucleosideOrNucleotide 135 138	RNA
+T19	NucleicAcidNucleosideOrNucleotide 169 172	RNA
+T20	ResearchActivity 602 627	cutting-edge technologies

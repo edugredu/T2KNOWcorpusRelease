@@ -1,0 +1,105 @@
+T0	AminoAcidPeptideOrProtein 163 179	gamma-secretases
+T1	Finding 212 222	accumulate
+T2	AnatomicalAbnormality 226 241	amyloid plaques
+T3	AminoAcidPeptideOrProtein 304 317	eta-secretase
+T4	GeneOrGenome 304 317	eta-secretase
+T5	AminoAcidPeptideOrProtein 406 413	eta CTF
+T6	CellFunction 440 449	cleavages
+T7	BiologicallyActiveSubstance 464 479	beta-secretases
+T8	AminoAcidPeptideOrProtein 464 479	beta-secretases
+T9	AminoAcidPeptideOrProtein 579 586	eta CTF
+T10	BodyPartOrganOrOrganComponent 603 612	fragments
+T11	BiologicallyActiveSubstance 722 743	eta CTF-NTer antibody
+T12	AminoAcidPeptideOrProtein 800 807	eta CTF
+T13	AminoAcidPeptideOrProtein 818 825	eta CTF
+T14	AminoAcidPeptideOrProtein 921 928	eta CTF
+T15	AminoAcidPeptideOrProtein 929 937	fragment
+T16	AminoAcidPeptideOrProtein 1002 1009	eta CTF
+T17	Finding 1079 1090	accumulates
+T18	CellComponent 1105 1110	Golgi
+T19	AminoAcidPeptideOrProtein 1167 1174	eta CTF
+T20	AminoAcidPeptideOrProtein 1273 1280	eta CTF
+T21	AminoAcidPeptideOrProtein 1313 1320	eta CTF
+T22	Cell 1324 1335	fibroblasts
+T23	AminoAcidPeptideOrProtein 1552 1559	eta CTF
+T24	AminoAcidPeptideOrProtein 1635 1642	eta CTF
+T25	AminoAcidPeptideOrProtein 1643 1651	fragment
+T26	AminoAcidPeptideOrProtein 284 287	MMP
+T27	GeneOrGenome 284 287	MMP
+T28	BiologicallyActiveSubstance 284 287	MMP
+T29	CellFunction 1262 1272	expressing
+T30	CellFunction 1475 1491	immunoreactivity
+T31	DiseaseOrSyndrome 1221 1234	neuroblastoma
+T32	AnatomicalAbnormality 1499 1514	amyloid plaques
+T33	CellComponent 1184 1206	extracellular vesicles
+T34	DiseaseOrSyndrome 95 114	Alzheimer's disease
+T35	DiseaseOrSyndrome 116 118	AD
+T36	DiseaseOrSyndrome 616 618	AD
+T37	DiseaseOrSyndrome 1591 1593	AD
+T38	DiseaseOrSyndrome 1674 1676	AD
+T39	ResearchActivity 660 665	study
+T40	ResearchActivity 1611 1616	study
+T41	PathologicFunction 619 628	pathology
+T42	PathologicFunction 1677 1686	pathology
+T43	BiomedicalOccupationOrDiscipline 619 628	pathology
+T44	BiomedicalOccupationOrDiscipline 1677 1686	pathology
+T45	NaturalPhenomenonOrProcess 1020 1031	degradation
+T46	AminoAcidPeptideOrProtein 49 52	APP
+T47	AminoAcidPeptideOrProtein 350 353	APP
+T48	AminoAcidPeptideOrProtein 1346 1349	APP
+T49	GeneOrGenome 49 52	APP
+T50	GeneOrGenome 350 353	APP
+T51	GeneOrGenome 1346 1349	APP
+T52	BiologicallyActiveSubstance 49 52	APP
+T53	BiologicallyActiveSubstance 350 353	APP
+T54	BiologicallyActiveSubstance 1346 1349	APP
+T55	Cell 1235 1240	cells
+T56	Finding 1536 1548	accumulation
+T57	Eukaryote 968 972	mice
+T58	Cell 949 953	cell
+T59	ResearchActivity 1594 1599	model
+T60	ResearchActivity 954 960	models
+T61	CellFunction 1299 1309	expression
+T62	OrganismAttribute 1522 1525	age
+T63	Eukaryote 1249 1254	mouse
+T64	Eukaryote 1585 1590	mouse
+T65	AminoAcidPeptideOrProtein 188 194	A beta
+T66	AminoAcidPeptideOrProtein 872 878	A beta
+T67	AminoAcidPeptideOrProtein 1359 1365	A beta
+T68	AminoAcidPeptideOrProtein 1732 1738	A beta
+T69	AminoAcidPeptideOrProtein 22 29	amyloid
+T70	BiologicallyActiveSubstance 22 29	amyloid
+T71	CellFunction 1066 1074	pathways
+T72	CellComponent 1118 1127	endosomes
+T73	CellFunction 1415 1436	amyloidogenic pathway
+T74	AminoAcidPeptideOrProtein 22 47	amyloid precursor protein
+T75	BiologicallyActiveSubstance 22 47	amyloid precursor protein
+T76	CellFunction 188 205	A beta production
+T77	CellFunction 1359 1376	A beta production
+T78	CellFunction 1732 1749	A beta production
+T79	Finding 1155 1163	presence
+T80	BodyPartOrganOrOrganComponent 1255 1261	brains
+T81	Finding 1717 1728	involvement
+T82	TemporalConcept 243 251	Recently
+T83	CellFunction 988 1001	overexpressed
+T84	CellComponent 1694 1702	exosomal
+T85	Finding 120 128	etiology
+T86	BiologicallyActiveSubstance 354 369	cleaving enzyme
+T87	CellFunction 1055 1065	autophagic
+T88	CellComponent 1178 1206	small extracellular vesicles
+T89	AminoAcidPeptideOrProtein 40 47	protein
+T90	AminoAcidPeptideOrProtein 509 528	A eta beta peptides
+T91	BiologicallyActiveSubstance 163 179	gamma-secretases
+T92	AminoAcidPeptideOrProtein 153 158;169 179	beta- secretases
+T93	BiologicallyActiveSubstance 153 158;169 179	beta- secretases
+T94	AminoAcidPeptideOrProtein 257 287	matrix metalloprotease MT5-MMP
+T95	BiologicallyActiveSubstance 257 287	matrix metalloprotease MT5-MMP
+T96	AminoAcidPeptideOrProtein 382 404	transmembrane fragment
+T97	AminoAcidPeptideOrProtein 493 504;520 528	A eta alpha peptides
+T98	AminoAcidPeptideOrProtein 781 796	N-terminal part
+T99	AminoAcidPeptideOrProtein 827 838	A eta alpha
+T100	AminoAcidPeptideOrProtein 840 850	A eta beta
+T101	CellComponent 1039 1050	proteasomal
+T102	AminoAcidPeptideOrProtein 1462 1469	eta CTF
+T103	ExperimentalModelOfDisease 1567 1599	triple-transgenic mouse AD model
+T104	CellFunction 1694 1712	exosomal spreading

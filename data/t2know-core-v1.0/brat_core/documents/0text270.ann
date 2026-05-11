@@ -1,0 +1,69 @@
+T0	BiologicFunction 0 9	Mammalian
+T1	AminoAcidPeptideOrProtein 10 27	transglutaminases
+T2	BiologicallyActiveSubstance 10 27	transglutaminases
+T3	AminoAcidPeptideOrProtein 29 32	TGs
+T4	BiologicallyActiveSubstance 29 32	TGs
+T5	CellFunction 43 60	calcium-dependent
+T6	CellFunction 74 105	posttranslational modifications
+T7	AminoAcidPeptideOrProtein 244 261	transglutaminases
+T8	BiologicallyActiveSubstance 244 261	transglutaminases
+T9	GeneOrGenome 303 306	TG6
+T10	AminoAcidPeptideOrProtein 448 465	transglutaminases
+T11	BiologicallyActiveSubstance 448 465	transglutaminases
+T12	ExperimentalModelOfDisease 469 512	Huntington disease transgenic rodent models
+T13	GeneOrGenome 559 562	TG6
+T14	ResearchActivity 711 758	biochemical, histological and functional assays
+T15	BiologicFunction 788 808	physical interaction
+T16	GeneOrGenome 817 820	TG6
+T17	ResearchActivity 848 879	co-immunoprecipitation analysis
+T18	CellFunction 908 926	enzymatic activity
+T19	GeneOrGenome 1004 1007	TG6
+T20	BodyPartOrganOrOrganComponent 1063 1081	olfactory tubercle
+T21	BodyPartOrganOrOrganComponent 1086 1101	piriform cortex
+T22	ExperimentalModelOfDisease 1167 1197	transgenic rodent models of HD
+T23	GeneOrGenome 1311 1314	TG6
+T24	AminoAcidPeptideOrProtein 1148 1152	mHTT
+T25	AminoAcidPeptideOrProtein 1212 1216	mHTT
+T26	AminoAcidPeptideOrProtein 1343 1347	mHTT
+T27	CellOrMolecularDysfunction 1148 1152	mHTT
+T28	CellOrMolecularDysfunction 1212 1216	mHTT
+T29	CellOrMolecularDysfunction 1343 1347	mHTT
+T30	CellOrMolecularDysfunction 826 832	mutant
+T31	Eukaryote 695 698	rat
+T32	PathologicFunction 167 179	pathogenesis
+T33	PathologicFunction 1326 1338	pathogenesis
+T34	ResearchActivity 695 704	rat model
+T35	PathologicFunction 631 650	disease progression
+T36	BodyPartOrganOrOrganComponent 290 297	tissues
+T37	AminoAcidPeptideOrProtein 109 117	proteins
+T38	Cell 959 972	SH-SY5Y cells
+T39	Cell 1265 1270	cells
+T40	OrganismAttribute 570 573	age
+T41	Finding 544 555	involvement
+T42	BodyPartOrganOrOrganComponent 342 345	CNS
+T43	Eukaryote 191 196	human
+T44	AminoAcidPeptideOrProtein 307 314	isoform
+T45	PathologicFunction 639 650	progression
+T46	TemporalConcept 639 650	progression
+T47	CellFunction 325 334	expressed
+T48	DiseaseOrSyndrome 197 223	neurodegenerative diseases
+T49	ResearchActivity 359 364	study
+T50	AminoAcidPeptideOrProtein 834 844	huntingtin
+T51	BiologicallyActiveSubstance 834 844	huntingtin
+T52	AminoAcidPeptideOrProtein 559 562	TG6
+T53	BiologicallyActiveSubstance 559 562	TG6
+T54	OrganismAttribute 579 587	genotype
+T55	ExperimentalModelOfDisease 654 672	HD transgenic mice
+T56	ExperimentalModelOfDisease 679 704	tgHD transgenic rat model
+T57	BiologicallyActiveSubstance 817 820	TG6
+T58	AminoAcidPeptideOrProtein 817 820	TG6
+T59	BiologicallyActiveSubstance 1004 1007	TG6
+T60	AminoAcidPeptideOrProtein 1004 1007	TG6
+T61	CellOrMolecularDysfunction 1148 1163	mHTT aggregates
+T62	CellOrMolecularDysfunction 1212 1227	mHTT aggregates
+T63	BiologicallyActiveSubstance 1252 1255	TG6
+T64	AminoAcidPeptideOrProtein 1252 1255	TG6
+T65	GeneOrGenome 1252 1255	TG6
+T66	AminoAcidPeptideOrProtein 1311 1314	TG6
+T67	BiologicallyActiveSubstance 1311 1314	TG6
+T68	CellOrMolecularDysfunction 1343 1357	mHTT aggregate

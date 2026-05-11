@@ -1,0 +1,72 @@
+T0	AminoAcidPeptideOrProtein 135 157	ubiquitinated proteins
+T1	DiseaseOrSyndrome 374 384	idiopathic
+T2	PathologicFunction 608 630	age-related alteration
+T3	AminoAcidPeptideOrProtein 664 687	26S proteasome subunits
+T4	BiologicallyActiveSubstance 664 687	26S proteasome subunits
+T5	AminoAcidPeptideOrProtein 721 740	Proteasome subunits
+T6	BiologicallyActiveSubstance 721 740	Proteasome subunits
+T7	Finding 930 942	interactions
+T8	Finding 1080 1092	interactions
+T9	ResearchActivity 1109 1117	patterns
+T10	AminoAcidPeptideOrProtein 1158 1181	26S proteasome subunits
+T11	BiologicallyActiveSubstance 1158 1181	26S proteasome subunits
+T12	AminoAcidPeptideOrProtein 1271 1281	proteasome
+T13	BiologicallyActiveSubstance 1271 1281	proteasome
+T14	AminoAcidPeptideOrProtein 1333 1352	proteasome subunits
+T15	BiologicallyActiveSubstance 1333 1352	proteasome subunits
+T16	AminoAcidPeptideOrProtein 1492 1501	effectors
+T17	AminoAcidPeptideOrProtein 1621 1640	proteasome subunits
+T18	BiologicallyActiveSubstance 1621 1640	proteasome subunits
+T19	Finding 1675 1688	relationships
+T20	AminoAcidPeptideOrProtein 1753 1772	proteasome subunits
+T21	BiologicallyActiveSubstance 1753 1772	proteasome subunits
+T22	ResearchActivity 1051 1057	review
+T23	HealthCareActivity 1051 1057	review
+T24	DiseaseOrSyndrome 850 861	Parkinson's
+T25	DiseaseOrSyndrome 901 922	Huntington's diseases
+T26	DiseaseOrSyndrome 229 255	neurodegenerative diseases
+T27	DiseaseOrSyndrome 311 337	neurodegenerative diseases
+T28	DiseaseOrSyndrome 535 561	neurodegenerative diseases
+T29	DiseaseOrSyndrome 796 822	neurodegenerative diseases
+T30	DiseaseOrSyndrome 1217 1243	neurodegenerative diseases
+T31	DiseaseOrSyndrome 1450 1476	neurodegenerative diseases
+T32	ResearchActivity 402 407	study
+T33	PathologicFunction 1202 1213	progression
+T34	PathologicFunction 1536 1547	progression
+T35	TemporalConcept 1202 1213	progression
+T36	TemporalConcept 1536 1547	progression
+T37	Finding 1259 1267	evidence
+T38	AminoAcidPeptideOrProtein 863 866	tau
+T39	DiseaseOrSyndrome 870 881	Alzheimer's
+T40	TemporalConcept 974 979	years
+T41	Finding 1282 1293	involvement
+T42	DiseaseOrSyndrome 1710 1735	neurodegenerative disease
+T43	AminoAcidPeptideOrProtein 755 763	proteins
+T44	AminoAcidPeptideOrProtein 1372 1380	proteins
+T45	CellFunction 45 52	pathway
+T46	BiologicFunction 565 570	aging
+T47	CellFunction 565 570	aging
+T48	Finding 519 530	risk factor
+T49	ResearchActivity 470 478	research
+T50	Finding 694 703	reduction
+T51	Finding 1584 1605	age-related reduction
+T52	NaturalPhenomenonOrProcess 694 703	reduction
+T53	BiologicFunction 61 72	maintenance
+T54	Finding 1189 1197	etiology
+T55	CellFunction 101 111	inhibition
+T56	Finding 119 131	accumulation
+T57	Finding 437 449	accumulation
+T58	BiologicFunction 84 95	homeostasis
+T59	OrganismAttribute 1127 1137	phenotypes
+T60	AminoAcidPeptideOrProtein 887 897	huntingtin
+T61	GeneOrGenome 887 897	huntingtin
+T62	AminoAcidPeptideOrProtein 837 846	synuclein
+T63	BiologicallyActiveSubstance 837 846	synuclein
+T64	CellFunction 4 24	ubiquitin-proteasome
+T65	AminoAcidPeptideOrProtein 831 846	alpha-synuclein
+T66	BiologicallyActiveSubstance 831 846	alpha-synuclein
+T67	CellFunction 76 95	protein homeostasis
+T68	CellFunction 4 31	ubiquitin-proteasome system
+T69	Finding 164 176	accumulation
+T70	TemporalConcept 996 1004	recently
+T71	Finding 1398 1428	age related altered expression

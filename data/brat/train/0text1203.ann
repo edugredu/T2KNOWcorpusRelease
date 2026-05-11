@@ -1,0 +1,120 @@
+T0	AminoAcidPeptideOrProtein 4 28	p70 ribosomal S6 kinases
+T1	AminoAcidPeptideOrProtein 30 55	p70 ribosomal S6 kinase 1
+T2	AminoAcidPeptideOrProtein 60 85	p70 ribosomal S6 kinase 2
+T3	AminoAcidPeptideOrProtein 169 194	p70 ribosomal S6 kinase 1
+T4	CellOrMolecularDysfunction 901 911	transition
+T5	Chemical 1130 1153	lysophosphatidylcholine
+T6	AminoAcidPeptideOrProtein 1268 1291	p70 ribosomal S6 kinase
+T7	DiseaseOrSyndrome 1496 1521	active multiple sclerosis
+T8	AminoAcidPeptideOrProtein 1660 1685	p70 ribosomal S6 kinase 1
+T9	ResearchActivity 1689 1697	cultured
+T10	AminoAcidPeptideOrProtein 2056 2059	p70
+T11	GeneOrGenome 2056 2059	p70
+T12	GeneOrGenome 2060 2081	ribosomal S6 kinase 1
+T13	AminoAcidPeptideOrProtein 2060 2081	ribosomal S6 kinase 1
+T14	AminoAcidPeptideOrProtein 2189 2202	p70 S6 kinase
+T15	BiologicallyActiveSubstance 2189 2202	p70 S6 kinase
+T16	GeneOrGenome 2363 2367	S6K1
+T17	AminoAcidPeptideOrProtein 2363 2367	S6K1
+T18	Eukaryote 1834 1843	zebrafish
+T19	Eukaryote 2511 2520	zebrafish
+T20	Finding 1416 1426	identified
+T21	InjuryOrPoisoning 1097 1118	demyelinating lesions
+T22	TemporalConcept 496 505	immediate
+T23	Cell 298 314	cell populations
+T24	ExperimentalModelOfDisease 1170 1211	experimental autoimmune encephalomyelitis
+T25	Chemical 139 148	rapamycin
+T26	Chemical 389 398	rapamycin
+T27	Chemical 550 559	rapamycin
+T28	CellComponent 1992 2002	internodes
+T29	CellComponent 2497 2507	internodes
+T30	Eukaryote 2299 2306	rodents
+T31	ResearchActivity 1752 1764	cell lineage
+T32	Eukaryote 262 272	Drosophila
+T33	Eukaryote 2423 2429	rodent
+T34	CellFunction 399 406	pathway
+T35	HealthCareActivity 1154 1163	injection
+T36	OrganismAttribute 2180 2187	species
+T37	Cell 1071 1087	oligodendrocytes
+T38	Cell 1366 1391	maturing oligodendrocytes
+T39	CellFunction 466 477	myelination
+T40	CellFunction 735 746	myelination
+T41	CellFunction 965 976	myelination
+T42	CellFunction 2266 2277	myelination
+T43	Cell 416 431	oligodendrocyte
+T44	Cell 682 697	oligodendrocyte
+T45	Cell 1583 1598	oligodendrocyte
+T46	Cell 2095 2110	oligodendrocyte
+T47	Cell 1698 1729	oligodendrocyte precursor cells
+T48	Cell 2430 2461	oligodendrocyte precursor cells
+T49	Eukaryote 1215 1219	mice
+T50	DiseaseOrSyndrome 2343 2361	multiple sclerosis
+T51	ResearchActivity 1852 1859	in vivo
+T52	BodyPartOrganOrOrganComponent 1985 1991	myelin
+T53	BodyPartOrganOrOrganComponent 2490 2496	myelin
+T54	BiologicFunction 2134 2145	development
+T55	CellFunction 2134 2145	development
+T56	BodyPartOrganOrOrganComponent 782 785	CNS
+T57	CellFunction 751 764	remyelination
+T58	CellFunction 2150 2163	remyelination
+T59	CellFunction 2282 2295	remyelination
+T60	PathologicFunction 1765 1776	progression
+T61	TemporalConcept 1765 1776	progression
+T62	InjuryOrPoisoning 1224 1244	demyelinated lesions
+T63	InjuryOrPoisoning 1522 1529	lesions
+T64	InjuryOrPoisoning 2332 2339	lesions
+T65	BodyPartOrganOrOrganComponent 990 1001	spinal cord
+T66	Cell 849 878	oligodendrocyte lineage cells
+T67	Cell 1463 1492	oligodendrocyte lineage cells
+T68	BiologicFunction 452 465	developmental
+T69	BiologicFunction 721 734	developmental
+T70	BiologicFunction 951 964	developmental
+T71	BiologicFunction 2252 2265	developmental
+T72	TemporalConcept 452 465	developmental
+T73	TemporalConcept 721 734	developmental
+T74	TemporalConcept 951 964	developmental
+T75	TemporalConcept 2252 2265	developmental
+T76	CellFunction 432 447	differentiation
+T77	CellFunction 698 713	differentiation
+T78	CellFunction 1599 1614	differentiation
+T79	CellFunction 1951 1966	differentiation
+T80	CellFunction 2111 2126	differentiation
+T81	TemporalConcept 1341 1350	transient
+T82	TemporalConcept 886 890	time
+T83	BiologicFunction 1649 1659	inhibiting
+T84	BiologicFunction 1865 1875	inhibiting
+T85	Cell 915 943	myelinating oligodendrocytes
+T86	ResearchActivity 2019 2023	data
+T87	Cell 2221 2236	oligodendroglia
+T88	Eukaryote 984 989	mouse
+T89	CellFunction 149 167	signalling pathway
+T90	AminoAcidPeptideOrProtein 1795 1815	myelin basic protein
+T91	AminoAcidPeptideOrProtein 2399 2419	myelin basic protein
+T92	BiologicallyActiveSubstance 1795 1815	myelin basic protein
+T93	BiologicallyActiveSubstance 2399 2419	myelin basic protein
+T94	ResearchActivity 333 340	studies
+T95	OrganismAttribute 254 258	size
+T96	TemporalConcept 1091 1096	acute
+T97	Cell 1914 1936	oligodendroglial cells
+T98	PharmacologicSubstance 389 398	rapamycin
+T99	PharmacologicSubstance 550 559	rapamycin
+T100	PharmacologicSubstance 139 148	rapamycin
+T101	BiologicallyActiveSubstance 4 28	p70 ribosomal S6 kinases
+T102	BiologicallyActiveSubstance 30 55	p70 ribosomal S6 kinase 1
+T103	BiologicallyActiveSubstance 60 85	p70 ribosomal S6 kinase 2
+T104	BiologicallyActiveSubstance 169 194	p70 ribosomal S6 kinase 1
+T105	AminoAcidPeptideOrProtein 280 287	insulin
+T106	BiologicallyActiveSubstance 280 287	insulin
+T107	PharmacologicSubstance 280 287	insulin
+T108	Eukaryote 318 325	mammals
+T109	CellFunction 1019 1051	p70 ribosomal S6 kinase activity
+T110	BiologicallyActiveSubstance 1268 1291	p70 ribosomal S6 kinase
+T111	CellFunction 1427 1459	p70 ribosomal S6 kinase activity
+T112	BiologicallyActiveSubstance 1660 1685	p70 ribosomal S6 kinase 1
+T113	CellFunction 1781 1791	expression
+T114	CellFunction 1876 1910	p70 ribosomal S6 kinase 1 function
+T115	AminoAcidPeptideOrProtein 1300 1335	phosphorylated S6 ribosomal protein
+T116	BiologicallyActiveSubstance 1300 1335	phosphorylated S6 ribosomal protein
+T117	CellFunction 807 839	p70 ribosomal S6 kinase activity
+T118	BiologicallyActiveSubstance 646 671	p70 ribosomal S6 kinase 1
+T119	AminoAcidPeptideOrProtein 646 671	p70 ribosomal S6 kinase 1

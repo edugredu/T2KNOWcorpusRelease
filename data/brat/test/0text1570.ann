@@ -1,0 +1,92 @@
+T0	Substance 30 36	sample
+T1	BodyPartOrganOrOrganComponent 30 36	sample
+T2	BodyPartOrganOrOrganComponent 1014 1025	grey matter
+T3	BodyPartOrganOrOrganComponent 1476 1487	grey matter
+T4	TemporalConcept 1507 1515	temporal
+T5	BodyPartOrganOrOrganComponent 1507 1515;1558 1565	temporal network
+T6	BiologicFunction 268 287	learning and memory
+T7	PopulationGroup 1900 1916	healthy subjects
+T8	Finding 1124 1131	finding
+T9	Finding 447 474	longitudinal memory decline
+T10	Finding 1632 1662	longitudinal cognitive changes
+T11	Finding 686 697	performance
+T12	Finding 1070 1104	longitudinal cognitive performance
+T13	Finding 1450 1461	performance
+T14	AminoAcidPeptideOrProtein 422 425	tau
+T15	AminoAcidPeptideOrProtein 807 810	tau
+T16	AminoAcidPeptideOrProtein 864 867	tau
+T17	AminoAcidPeptideOrProtein 914 917	tau
+T18	AminoAcidPeptideOrProtein 1163 1166	tau
+T19	AminoAcidPeptideOrProtein 1385 1388	tau
+T20	AminoAcidPeptideOrProtein 1807 1810	tau
+T21	CellOrMolecularDysfunction 393 410	neurodegeneration
+T22	CellOrMolecularDysfunction 1824 1841	neurodegeneration
+T23	DiseaseOrSyndrome 81 100	Alzheimer's disease
+T24	BodyPartOrganOrOrganComponent 127 130	CSF
+T25	BodyPartOrganOrOrganComponent 418 421	CSF
+T26	BodyPartOrganOrOrganComponent 1159 1162	CSF
+T27	ResearchActivity 1106 1113	Results
+T28	BiologicallyActiveSubstance 422 425	tau
+T29	BiologicallyActiveSubstance 807 810	tau
+T30	BiologicallyActiveSubstance 864 867	tau
+T31	BiologicallyActiveSubstance 914 917	tau
+T32	BiologicallyActiveSubstance 1163 1166	tau
+T33	BiologicallyActiveSubstance 1385 1388	tau
+T34	BiologicallyActiveSubstance 1807 1810	tau
+T35	DiseaseOrSyndrome 102 104	AD
+T36	ClinicalAttribute 132 141	biomarker
+T37	ClinicalAttribute 372 381	biomarker
+T38	BiologicFunction 268 276	learning
+T39	Finding 74 80	normal
+T40	Finding 525 531	normal
+T41	BodyPartOrganOrOrganComponent 1608 1613	brain
+T42	ResearchActivity 722 734	linear model
+T43	BodyPartOrganOrOrganComponent 106 125	cerebrospinal fluid
+T44	PopulationGroup 1361 1372	individuals
+T45	IndividualBehavior 1620 1627	driving
+T46	HealthCareActivity 557 560	MRI
+T47	TemporalConcept 165 173	earliest
+T48	TemporalConcept 1873 1881	earliest
+T49	PopulationGroup 60 68	subjects
+T50	PopulationGroup 538 546	subjects
+T51	PopulationGroup 816 824	subjects
+T52	PopulationGroup 1908 1916	subjects
+T53	BiologicFunction 1763 1778	cognitive aging
+T54	CellFunction 1773 1778	aging
+T55	HealthCareActivity 562 591	neuropsychological assessment
+T56	ResearchActivity 763 771	analysis
+T57	ClinicalAttribute 1814 1820	marker
+T58	BiologicallyActiveSubstance 847 850	Tau
+T59	BiologicallyActiveSubstance 899 902	Tau
+T60	AminoAcidPeptideOrProtein 847 850	Tau
+T61	AminoAcidPeptideOrProtein 899 902	Tau
+T62	HealthCareActivity 581 591	assessment
+T63	ResearchActivity 581 591	assessment
+T64	Finding 1706 1714	evidence
+T65	TemporalConcept 626 632	months
+T66	ResearchActivity 1274 1282	analyses
+T67	Finding 655 667	relationship
+T68	OrganismAttribute 40 59	cognitively healthy
+T69	OrganismAttribute 1900 1907	healthy
+T70	BiologicFunction 208 214	memory
+T71	BiologicFunction 281 287	memory
+T72	BiologicFunction 460 466	memory
+T73	BiologicFunction 1882 1888	memory
+T74	Finding 195 222	longitudinal memory changes
+T75	HealthCareActivity 268 292	learning and memory test
+T76	HealthCareActivity 298 328	Ancient Farming Equipment Test
+T77	HealthCareActivity 330 335	AFE-T
+T78	HealthCareActivity 601 606	AFE-T
+T79	TemporalConcept 633 638	later
+T80	ClinicalAttribute 1014 1032	grey matter volume
+T81	HealthCareActivity 961 984	voxel-based morphometry
+T82	HealthCareActivity 986 989	VBM
+T83	Finding 1171 1198	longitudinal memory decline
+T84	HealthCareActivity 1213 1218	AFE-T
+T85	HealthCareActivity 1417 1420	VBM
+T86	HealthCareActivity 1444 1449	AFE-T
+T87	ClinicalAttribute 1476 1494	grey matter volume
+T88	BodyPartOrganOrOrganComponent 1517 1531;1558 1565	middle frontal network
+T89	BodyPartOrganOrOrganComponent 1537 1565	posterior cerebellar network
+T90	ClinicalAttribute 1734 1752	biological markers
+T91	Finding 1882 1896	memory changes

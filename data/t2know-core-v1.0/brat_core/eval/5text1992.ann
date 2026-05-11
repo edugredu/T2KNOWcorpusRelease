@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 50 77	neurodegenerative disorders
+T1	BodyPartOrganOrOrganComponent 12 17	brain
+T2	PopulationGroup 33 44	individuals
+T3	Substance 18 27	specimens
+T4	DiseaseOrSyndrome 153 163	conditions
+T5	TemporalConcept 0 11	Post-mortem
+T6	PathologicFunction 110 130	pathological changes

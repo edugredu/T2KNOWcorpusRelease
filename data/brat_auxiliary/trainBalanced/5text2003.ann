@@ -1,0 +1,7 @@
+T0	ResearchActivity 38 46	analysis
+T1	DiseaseOrSyndrome 16 18	MS
+T2	ResearchActivity 19 27	research
+T3	Substance 29 37	biofluid
+T4	ClinicalAttribute 127 147	potential biomarkers
+T5	PathologicFunction 89 110	disease's progression
+T6	BiologicFunction 71 84	understanding

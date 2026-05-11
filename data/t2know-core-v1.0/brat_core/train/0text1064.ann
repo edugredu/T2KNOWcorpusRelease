@@ -1,0 +1,70 @@
+T0	Cell 27 52	mesenchymal stromal cells
+T1	DiseaseOrSyndrome 1056 1070	osteoarthritis
+T2	PathologicFunction 1143 1155	preeclampsia
+T3	HealthCareActivity 1351 1361	Challenges
+T4	TemporalConcept 18 25	decades
+T5	TemporalConcept 9 13	past
+T6	DiseaseOrSyndrome 1072 1092	rheumatoid arthritis
+T7	HealthCareActivity 696 714	therapeutic agents
+T8	Finding 281 298	clinical outcomes
+T9	PathologicFunction 1263 1275	degenerative
+T10	Finding 1226 1244	beneficial effects
+T11	HealthCareActivity 1292 1300	reviewed
+T12	ResearchActivity 1292 1300	reviewed
+T13	CellComponent 646 668	extracellular vesicles
+T14	DiseaseOrSyndrome 1094 1113	Alzheimer's disease
+T15	CellComponent 670 673	EVs
+T16	CellComponent 739 742	EVs
+T17	CellComponent 956 959	EVs
+T18	CellComponent 1210 1213	EVs
+T19	CellComponent 1412 1415	EVs
+T20	TemporalConcept 156 167	early stage
+T21	ResearchActivity 521 529	research
+T22	ResearchActivity 900 908	research
+T23	BiologicFunction 631 642	development
+T24	CellFunction 631 642	development
+T25	Cell 434 438	cell
+T26	PathologicFunction 114 126	inflammation
+T27	PathologicFunction 756 768	inflammation
+T28	PathologicFunction 1023 1035	inflammation
+T29	PathologicFunction 1437 1449	inflammation
+T30	ResearchActivity 868 874	review
+T31	HealthCareActivity 868 874	review
+T32	HealthCareActivity 101 110	treatment
+T33	HealthCareActivity 209 218	treatment
+T34	HealthCareActivity 1424 1433	treatment
+T35	ResearchActivity 101 110	treatment
+T36	ResearchActivity 209 218	treatment
+T37	ResearchActivity 1424 1433	treatment
+T38	ResearchActivity 854 861	studies
+T39	ResearchActivity 828 836	in vitro
+T40	TemporalConcept 892 899	current
+T41	HealthCareActivity 445 455	treatments
+T42	ResearchActivity 445 455	treatments
+T43	TemporalConcept 1366 1372	future
+T44	Cell 727 730	MSC
+T45	Cell 944 947	MSC
+T46	Cell 1198 1201	MSC
+T47	Cell 1400 1403	MSC
+T48	Finding 798 819	therapeutic potential
+T49	Finding 1328 1349	therapeutic potential
+T50	Cell 54 58	MSCs
+T51	Cell 575 579	MSCs
+T52	Finding 1237 1244	effects
+T53	DiseaseOrSyndrome 1115 1137	cardiovascular disease
+T54	Finding 592 611	therapeutic effects
+T55	BodyPartOrganOrOrganComponent 1276 1283	tissues
+T56	Eukaryote 847 853	animal
+T57	HealthCareActivity 362 368	safety
+T58	ResearchActivity 168 183	clinical trials
+T59	BiologicFunction 678 695	anti-inflammatory
+T60	BiologicFunction 963 980	anti-inflammatory
+T61	PharmacologicSubstance 678 695	anti-inflammatory
+T62	PharmacologicSubstance 963 980	anti-inflammatory
+T63	DiseaseOrSyndrome 114 145	inflammation-related conditions
+T64	Finding 476 491	clinical impact
+T65	DiseaseOrSyndrome 756 787	inflammation-related conditions
+T66	PharmacologicSubstance 985 1008	pro-regenerative agents
+T67	DiseaseOrSyndrome 1023 1054	inflammation-related conditions
+T68	InjuryOrPoisoning 1252 1259	damaged
+T69	DiseaseOrSyndrome 1437 1468	inflammation-related conditions

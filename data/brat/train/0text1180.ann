@@ -1,0 +1,38 @@
+T0	DiseaseOrSyndrome 0 20	Alcohol use disorder
+T1	PathologicFunction 66 83	organ dysfunction
+T2	BodyPartOrganOrOrganComponent 102 107	liver
+T3	Finding 386 406	genetic risk factors
+T4	IndividualBehavior 415 426	alcohol use
+T5	Chemical 415 422	alcohol
+T6	OrganismAttribute 495 510	innate immunity
+T7	DiseaseOrSyndrome 626 639	alcohol abuse
+T8	DiseaseOrSyndrome 741 754	alcohol abuse
+T9	DiseaseOrSyndrome 952 962	alcoholism
+T10	BodyPartOrganOrOrganComponent 1064 1080	liver-brain axis
+T11	DiseaseOrSyndrome 431 458	neurodegenerative disorders
+T12	BiologicFunction 592 605	understanding
+T13	Finding 394 406	risk factors
+T14	CellFunction 687 707	molecular mechanisms
+T15	Cell 316 335	innate immune cells
+T16	PathologicFunction 40 61	systemic inflammation
+T17	BiologicFunction 209 223	brain function
+T18	BodyPartOrganOrOrganComponent 1064 1069	liver
+T19	TemporalConcept 139 145	decade
+T20	PathologicFunction 172 205	alcohol abuse-mediated impairment
+T21	PathologicFunction 270 293	inflammatory mechanisms
+T22	PathologicFunction 652 663	progression
+T23	TemporalConcept 652 663	progression
+T24	BodyPartOrganOrOrganComponent 116 121	brain
+T25	BodyPartOrganOrOrganComponent 1070 1075	brain
+T26	CellOrMolecularDysfunction 244 261	neurodegeneration
+T27	CellOrMolecularDysfunction 1001 1018	neurodegeneration
+T28	ResearchActivity 147 154	studies
+T29	ResearchActivity 357 364	studies
+T30	DiseaseOrSyndrome 759 778	Alzheimer's disease
+T31	DiseaseOrSyndrome 897 916	Alzheimer's disease
+T32	TemporalConcept 350 356	recent
+T33	DiseaseOrSyndrome 643 651	dementia
+T34	DiseaseOrSyndrome 805 813	dementia
+T35	DiseaseOrSyndrome 1023 1031	dementia
+T36	PathologicFunction 711 728	neuroinflammation
+T37	PathologicFunction 49 61	inflammation

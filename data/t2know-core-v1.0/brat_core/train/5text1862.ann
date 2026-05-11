@@ -1,0 +1,9 @@
+T0	DiseaseOrSyndrome 115 141	neurodegenerative diseases
+T1	Finding 64 75	risk factor
+T2	PathologicFunction 158 170	inflammation
+T3	TemporalConcept 150 157	chronic
+T4	PathologicFunction 21 30	infection
+T5	Finding 99 111	exacerbation
+T6	PathologicFunction 150 170	chronic inflammation
+T7	Bacterium 0 20	Chlamydia pneumoniae
+T8	BiologicFunction 84 95	development

@@ -1,0 +1,96 @@
+T0	ResearchActivity 90 107	follow-up studies
+T1	PopulationGroup 1075 1085	individual
+T2	OrganismAttribute 1075 1085	individual
+T3	Finding 1108 1118	conversion
+T4	BodyPartOrganOrOrganComponent 1149 1154	joint
+T5	Finding 1155 1163	presence
+T6	CellFunction 1207 1217	conversion
+T7	Finding 1242 1250	presence
+T8	Finding 1478 1486	presence
+T9	Finding 1630 1638	abnormal
+T10	TemporalConcept 1791 1800	long term
+T11	Finding 1175 1187	risk factors
+T12	Finding 754 765	risk factor
+T13	Finding 1086 1097	risk factor
+T14	HealthCareActivity 317 326	prognosis
+T15	TemporalConcept 209 218	long-term
+T16	ResearchActivity 1020 1026	median
+T17	Finding 219 230	performance
+T18	AminoAcidPeptideOrProtein 1407 1410	tau
+T19	AminoAcidPeptideOrProtein 1655 1658	tau
+T20	TemporalConcept 947 952	years
+T21	TemporalConcept 1063 1068	years
+T22	ClinicalAttribute 1841 1851	biomarkers
+T23	PatientOrDisabledGroup 330 338	patients
+T24	BodyPartOrganOrOrganComponent 293 296	CSF
+T25	BodyPartOrganOrOrganComponent 1391 1394	CSF
+T26	BodyPartOrganOrOrganComponent 1639 1642	CSF
+T27	ResearchActivity 870 877	Results
+T28	AminoAcidPeptideOrProtein 1395 1402	amyloid
+T29	AminoAcidPeptideOrProtein 1643 1650	amyloid
+T30	BiologicallyActiveSubstance 1395 1402	amyloid
+T31	BiologicallyActiveSubstance 1643 1650	amyloid
+T32	BiologicallyActiveSubstance 1407 1410	tau
+T33	BiologicallyActiveSubstance 1655 1658	tau
+T34	ClinicalAttribute 154 163	biomarker
+T35	ClinicalAttribute 298 307	biomarker
+T36	ClinicalAttribute 393 402	biomarker
+T37	ClinicalAttribute 653 662	biomarker
+T38	ClinicalAttribute 1717 1726	biomarker
+T39	DiseaseOrSyndrome 496 504	dementia
+T40	DiseaseOrSyndrome 795 803	dementia
+T41	DiseaseOrSyndrome 1027 1035	dementia
+T42	DiseaseOrSyndrome 1122 1130	dementia
+T43	DiseaseOrSyndrome 1547 1555	dementia
+T44	DiseaseOrSyndrome 1762 1770	dementia
+T45	PopulationGroup 961 973	participants
+T46	TemporalConcept 1005 1011	period
+T47	HealthCareActivity 547 562	lumbar puncture
+T48	TemporalConcept 62 67	older
+T49	BodyPartOrganOrOrganComponent 272 291	cerebrospinal fluid
+T50	PopulationGroup 68 79	individuals
+T51	CellFunction 631 639	survival
+T52	CellFunction 715 723	survival
+T53	CellFunction 809 817	survival
+T54	CellFunction 1041 1049	survival
+T55	CellFunction 1561 1569	survival
+T56	HealthCareActivity 531 545	volumetric MRI
+T57	PathologicFunction 481 492	progression
+T58	TemporalConcept 481 492	progression
+T59	HealthCareActivity 995 1004	follow-up
+T60	TemporalConcept 995 1004	follow-up
+T61	DiseaseOrSyndrome 1282 1299	memory impairment
+T62	DiseaseOrSyndrome 1359 1376	memory impairment
+T63	DiseaseOrSyndrome 1611 1628	memory impairment
+T64	PopulationGroup 423 431	subjects
+T65	PopulationGroup 883 891	subjects
+T66	HealthCareActivity 254 266	neuroimaging
+T67	PopulationGroup 676 681	group
+T68	Finding 1868 1876	accuracy
+T69	DiseaseOrSyndrome 349 369	cognitive impairment
+T70	DiseaseOrSyndrome 442 462	cognitive impairment
+T71	DiseaseOrSyndrome 344 369	mild cognitive impairment
+T72	DiseaseOrSyndrome 437 462	mild cognitive impairment
+T73	ClinicalAttribute 12 22	Biomarkers
+T74	PopulationGroup 412 419	cohorts
+T75	Finding 344 348	mild
+T76	Finding 437 441	mild
+T77	PathologicFunction 1270 1277	atrophy
+T78	PathologicFunction 1350 1357	atrophy
+T79	PathologicFunction 1506 1513	atrophy
+T80	DiseaseOrSyndrome 1270 1277	atrophy
+T81	DiseaseOrSyndrome 1350 1357	atrophy
+T82	DiseaseOrSyndrome 1506 1513	atrophy
+T83	TemporalConcept 640 644	time
+T84	TemporalConcept 1050 1054	time
+T85	TemporalConcept 1570 1574	time
+T86	ResearchActivity 836 868	Cox proportional hazard analyses
+T87	BiologicFunction 1282 1288	memory
+T88	ClinicalAttribute 1391 1402	CSF amyloid
+T89	Finding 1443 1462	risk for conversion
+T90	BodyPartOrganOrOrganComponent 1490 1505	medial temporal
+T91	BodyPartOrganOrOrganComponent 1254 1269	medial temporal
+T92	HealthCareActivity 568 601	Rey Auditory Verbal Learning Test
+T93	DiseaseOrSyndrome 617 625	Dementia
+T94	ResearchActivity 702 730	Kaplan-Meier survival curves
+T95	ClinicalAttribute 1391 1394;1407 1410	CSF tau

@@ -1,0 +1,95 @@
+T0	Chemical 45 57	formaldehyde
+T1	PopulationGroup 328 334	groups
+T2	DiseaseOrSyndrome 506 510	CINM
+T3	PopulationGroup 779 786	Chinese
+T4	Chemical 1293 1305	formaldehyde
+T5	HealthCareActivity 1506 1521	early diagnosis
+T6	DiseaseOrSyndrome 549 552	MCI
+T7	PathologicFunction 74 91	pathogenic factor
+T8	Finding 373 389	normal cognitive
+T9	PathologicFunction 589 615	progression of the disease
+T10	TemporalConcept 589 615	progression of the disease
+T11	HealthCareActivity 730 759	Mini-Mental State Examination
+T12	Finding 170 182	relationship
+T13	HealthCareActivity 860 895	Montreal Cognitive Assessment-Basic
+T14	HealthCareActivity 897 903	MoCA-B
+T15	ResearchActivity 141 146	study
+T16	ResearchActivity 1413 1418	study
+T17	PathologicFunction 589 600	progression
+T18	TemporalConcept 589 600	progression
+T19	AminoAcidPeptideOrProtein 1206 1211	T-tau
+T20	AminoAcidPeptideOrProtein 1236 1241	T-tau
+T21	Finding 18 30	accumulation
+T22	HealthCareActivity 354 363	diagnosis
+T23	HealthCareActivity 1512 1521	diagnosis
+T24	DiseaseOrSyndrome 95 114	Alzheimer's disease
+T25	ClinicalAttribute 222 232	biomarkers
+T26	ClinicalAttribute 1151 1161	biomarkers
+T27	ClinicalAttribute 1356 1366	biomarkers
+T28	DiseaseOrSyndrome 116 118	AD
+T29	DiseaseOrSyndrome 236 238	AD
+T30	DiseaseOrSyndrome 568 570	AD
+T31	DiseaseOrSyndrome 1027 1029	AD
+T32	DiseaseOrSyndrome 1380 1382	AD
+T33	DiseaseOrSyndrome 1525 1527	AD
+T34	BodyPartOrganOrOrganComponent 215 221	plasma
+T35	BodyPartOrganOrOrganComponent 1070 1076	plasma
+T36	BodyPartOrganOrOrganComponent 1144 1150	plasma
+T37	BodyPartOrganOrOrganComponent 1349 1355	plasma
+T38	ClinicalAttribute 1488 1497	biomarker
+T39	AminoAcidPeptideOrProtein 1077 1096	neurofilament light
+T40	BiologicallyActiveSubstance 1104 1107	NfL
+T41	ResearchActivity 973 976	AUC
+T42	ResearchActivity 1109 1112	AUC
+T43	BiologicallyActiveSubstance 1077 1096	neurofilament light
+T44	AminoAcidPeptideOrProtein 1104 1107	NfL
+T45	AminoAcidPeptideOrProtein 1077 1102	neurofilament light chain
+T46	BiologicallyActiveSubstance 1077 1102	neurofilament light chain
+T47	ResearchActivity 571 578	Results
+T48	PopulationGroup 292 304	participants
+T49	TemporalConcept 905 909	time
+T50	DiseaseOrSyndrome 450 470	cognitive impairment
+T51	DiseaseOrSyndrome 484 504	cognitive impairment
+T52	DiseaseOrSyndrome 527 547	cognitive impairment
+T53	BiologicallyActiveSubstance 1206 1211	T-tau
+T54	BiologicallyActiveSubstance 1236 1241	T-tau
+T55	ClinicalAttribute 1383 1396	disease stage
+T56	TemporalConcept 1383 1396	disease stage
+T57	AminoAcidPeptideOrProtein 1163 1172	A beta 40
+T58	AminoAcidPeptideOrProtein 1174 1183	A beta 42
+T59	AminoAcidPeptideOrProtein 1185 1194	A beta 42
+T60	AminoAcidPeptideOrProtein 1195 1204	A beta 40
+T61	DiseaseOrSyndrome 416 433	cognitive decline
+T62	ClinicalAttribute 1482 1497	novel biomarker
+T63	DiseaseOrSyndrome 479 504	mild cognitive impairment
+T64	DiseaseOrSyndrome 522 547	mild cognitive impairment
+T65	ClinicalAttribute 617 643	urinary formic acid levels
+T66	Chemical 625 636	formic acid
+T67	Chemical 199 210	formic acid
+T68	BodyPartOrganOrOrganComponent 191 198	urinary
+T69	BodyPartOrganOrOrganComponent 617 624	urinary
+T70	BodyPartOrganOrOrganComponent 676 683	Urinary
+T71	Chemical 684 695	formic acid
+T72	HealthCareActivity 761 765	MMSE
+T73	HealthCareActivity 798 837	Addenbrooke's Cognitive Examination III
+T74	HealthCareActivity 839 846	ACE-III
+T75	ResearchActivity 915 971	areas under the receiver operating characteristic curves
+T76	BodyPartOrganOrOrganComponent 981 988	urinary
+T77	Chemical 989 1000	formic acid
+T78	BiologicallyActiveSubstance 1163 1172	A beta 40
+T79	BiologicallyActiveSubstance 1174 1183	A beta 42
+T80	BiologicallyActiveSubstance 1185 1194	A beta 42
+T81	BiologicallyActiveSubstance 1195 1204	A beta 40
+T82	BiologicallyActiveSubstance 1213 1221	P-tau181
+T83	AminoAcidPeptideOrProtein 1213 1221	P-tau181
+T84	BiologicallyActiveSubstance 1227 1235	P-tau181
+T85	AminoAcidPeptideOrProtein 1227 1235	P-tau181
+T86	BodyPartOrganOrOrganComponent 1269 1276	urinary
+T87	Chemical 1277 1288	formic acid
+T88	Finding 1331 1339	accuracy
+T89	BodyPartOrganOrOrganComponent 1447 1454	urinary
+T90	Chemical 1455 1466	formic acid
+T91	PharmacologicSubstance 45 57	formaldehyde
+T92	InjuryOrPoisoning 45 57	formaldehyde
+T93	InjuryOrPoisoning 1293 1305	formaldehyde
+T94	PharmacologicSubstance 1293 1305	formaldehyde

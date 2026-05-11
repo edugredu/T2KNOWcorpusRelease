@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 122 149	neurodegenerative disorders
+T1	HealthCareActivity 108 118	monitoring
+T2	HealthCareActivity 88 103	early detection
+T3	MachineActivity 0 28	Automated Speech Recognition
+T4	MachineActivity 30 33	ASR
+T5	Finding 158 165	changes
+T6	ClinicalAttribute 169 184	speech patterns
+T7	BiologicFunction 169 175	speech

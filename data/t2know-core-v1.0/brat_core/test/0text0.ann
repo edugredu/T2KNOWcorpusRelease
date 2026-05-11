@@ -1,0 +1,46 @@
+T0	DiseaseOrSyndrome 26 61	neurodegenerative autosomal disease
+T1	GeneOrGenome 121 136	huntingtin gene
+T2	CellFunction 138 153	Phosphorylation
+T3	AminoAcidPeptideOrProtein 161 190	translation initiation factor
+T4	GeneOrGenome 161 190	translation initiation factor
+T5	AminoAcidPeptideOrProtein 191 196	4E-BP
+T6	GeneOrGenome 191 196	4E-BP
+T7	CellFunction 230 249	translation control
+T8	CellOrMolecularDysfunction 327 333	mutant
+T9	CellFunction 352 370	gene transcription
+T10	Finding 391 402	Variability
+T11	PopulationGroup 477 482	adult
+T12	PopulationGroup 487 495	juvenile
+T13	PopulationGroup 567 575	maternal
+T14	BiologicFunction 567 586	maternal protection
+T15	PathologicFunction 591 622	excessive paternal transmission
+T16	NaturalPhenomenonOrProcess 601 622	paternal transmission
+T17	GeneOrGenome 633 645	ageing genes
+T18	DiseaseOrSyndrome 768 789	cognitive disturbance
+T19	DiseaseOrSyndrome 794 822	neuropsychiatric disturbance
+T20	HealthCareActivity 828 837	diagnosis
+T21	AminoAcidPeptideOrProtein 346 350	mhtt
+T22	GeneOrGenome 346 350	mhtt
+T23	MolecularSequence 102 113	CAG repeats
+T24	TemporalConcept 406 418	age of onset
+T25	SignOrSymptom 749 766	motor disturbance
+T26	SignOrSymptom 911 941	primary and secondary symptoms
+T27	CellOrMolecularDysfunction 261 287	unwanted protein synthesis
+T29	NaturalPhenomenonOrProcess 650 673	environmental threshold
+T30	Finding 212 222	alteration
+T31	GeneOrGenome 548 565	genetic modifiers
+T32	CellFunction 548 565	genetic modifiers
+T33	HealthCareActivity 886 901	genetic testing
+T34	BiomedicalOccupationOrDiscipline 982 990	genetics
+T35	CellFunction 982 990	genetics
+T36	DiseaseOrSyndrome 0 20	Huntington's disease
+T37	DiseaseOrSyndrome 445 465	Huntington's disease
+T38	DiseaseOrSyndrome 1008 1028	Huntington's disease
+T39	PathologicFunction 711 733	molecular pathogenesis
+T40	CellFunction 292 309	neuronal function
+T41	PathologicFunction 995 1004	pathology
+T42	BiomedicalOccupationOrDiscipline 995 1004	pathology
+T43	CellFunction 90 101	polymorphic
+T44	CellFunction 270 287	protein synthesis
+T45	ResearchActivity 955 961	review
+T46	HealthCareActivity 955 961	review

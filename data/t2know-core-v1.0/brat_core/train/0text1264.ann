@@ -1,0 +1,88 @@
+T0	ResearchActivity 916 938	Transcriptome analysis
+T1	GeneOrGenome 1063 1069	Slc8a3
+T2	AminoAcidPeptideOrProtein 1063 1069	Slc8a3
+T3	GeneOrGenome 1158 1162	Gas7
+T4	AminoAcidPeptideOrProtein 1158 1162	Gas7
+T5	TemporalConcept 7 18	last decade
+T6	ExperimentalModelOfDisease 419 460	experimental autoimmune encephalomyelitis
+T7	ExperimentalModelOfDisease 462 465	EAE
+T8	HealthCareActivity 1447 1486	promyelinating protective interventions
+T9	Cell 1216 1232	oligodendrocytes
+T10	Cell 259 263	OPCs
+T11	Cell 373 377	OPCs
+T12	Cell 639 643	OPCs
+T13	Cell 846 849	OPC
+T14	Cell 1326 1329	OPC
+T15	DiseaseOrSyndrome 1390 1412	demyelinating diseases
+T16	BiologicFunction 850 860	maturation
+T17	BiologicFunction 1245 1255	maturation
+T18	BiologicFunction 1330 1340	maturation
+T19	Cell 226 257	oligodendrocyte precursor cells
+T20	PathologicFunction 1390 1403	demyelinating
+T21	DiseaseOrSyndrome 333 351	multiple sclerosis
+T22	InjuryOrPoisoning 322 329	lesions
+T23	BodyPartOrganOrOrganComponent 396 407	spinal cord
+T24	CellFunction 207 222	differentiation
+T25	Chemical 555 567	lysolecithin
+T26	Chemical 745 757	lysolecithin
+T27	PharmacologicSubstance 555 567	lysolecithin
+T28	PharmacologicSubstance 745 757	lysolecithin
+T29	CellFunction 522 535	remyelinating
+T30	BodyPartOrganOrOrganComponent 536 551	corpus callosum
+T31	Cell 85 90	glial
+T32	Chemical 1080 1087	calcium
+T33	PharmacologicSubstance 1080 1087	calcium
+T34	BiologicallyActiveSubstance 1080 1087	calcium
+T35	CellFunction 85 102	glial development
+T36	CellComponent 1088 1096	membrane
+T37	CellFunction 874 888	downregulation
+T38	ResearchActivity 943 968	luciferase reporter assay
+T39	PatientOrDisabledGroup 357 365	patients
+T40	BiologicFunction 91 102	development
+T41	CellFunction 91 102	development
+T42	Eukaryote 467 471	mice
+T43	Eukaryote 576 580	mice
+T44	CellFunction 610 620	expression
+T45	CellFunction 708 718	expression
+T46	CellFunction 806 821	over-expression
+T47	ResearchActivity 198 206	in vitro
+T48	PathologicFunction 1374 1386	pathogenesis
+T49	ResearchActivity 719 726	in vivo
+T50	ResearchActivity 1341 1348	in vivo
+T51	BiomedicalOccupationOrDiscipline 175 185	physiology
+T52	BiologicFunction 175 185	physiology
+T53	Finding 117 127	identified
+T54	TemporalConcept 1440 1446	future
+T55	Cell 159 174	oligodendrocyte
+T56	CellFunction 901 914	remyelination
+T57	DiseaseOrSyndrome 353 355	MS
+T58	PathologicFunction 766 779	demyelination
+T59	Finding 989 996	effects
+T60	TemporalConcept 104 112	Recently
+T61	CellFunction 1294 1306	upregulation
+T62	TemporalConcept 411 418	chronic
+T63	NucleicAcidNucleosideOrNucleotide 20 29	microRNAs
+T64	BiologicallyActiveSubstance 20 29	microRNAs
+T65	BiologicallyActiveSubstance 71 81	modulators
+T66	NucleicAcidNucleosideOrNucleotide 624 635	miR-125a-3p
+T67	BiologicallyActiveSubstance 624 635	miR-125a-3p
+T68	BiologicallyActiveSubstance 825 836	miR-125a-3p
+T69	NucleicAcidNucleosideOrNucleotide 825 836	miR-125a-3p
+T70	BiologicallyActiveSubstance 1063 1069	Slc8a3
+T71	NucleicAcidNucleosideOrNucleotide 285 296	miR-125a-3p
+T72	BiologicallyActiveSubstance 285 296	miR-125a-3p
+T73	BiologicallyActiveSubstance 696 707	miR-125a-3p
+T74	NucleicAcidNucleosideOrNucleotide 696 707	miR-125a-3p
+T75	NucleicAcidNucleosideOrNucleotide 1282 1293	miR-125a-3p
+T76	BiologicallyActiveSubstance 1282 1293	miR-125a-3p
+T77	NucleicAcidNucleosideOrNucleotide 1046 1057	miR-125a-3p
+T78	BiologicallyActiveSubstance 1046 1057	miR-125a-3p
+T79	BiologicallyActiveSubstance 128 139	miR-125a-3p
+T80	NucleicAcidNucleosideOrNucleotide 128 139	miR-125a-3p
+T81	CellOrMolecularDysfunction 658 681	defective remyelination
+T82	ResearchActivity 731 738	ex vivo
+T83	Virus 795 805	lentiviral
+T84	AminoAcidPeptideOrProtein 1073 1108	sodium-calcium membrane transporter
+T85	BiologicallyActiveSubstance 1073 1108	sodium-calcium membrane transporter
+T86	BiologicallyActiveSubstance 1073 1079	sodium
+T87	Chemical 1073 1079	sodium

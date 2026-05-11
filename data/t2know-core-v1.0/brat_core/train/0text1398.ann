@@ -1,0 +1,38 @@
+T0	MolecularSequence 191 205	transcriptomes
+T1	BodyPartOrganOrOrganComponent 243 255	tissue types
+T2	BodyPartOrganOrOrganComponent 363 368	atlas
+T3	Cell 628 660	oligodendrocyte progenitor cells
+T4	BodyPartOrganOrOrganComponent 678 690	White matter
+T5	GeneOrGenome 951 979	neural tube patterning genes
+T6	TemporalConcept 985 994	adulthood
+T7	MolecularSequence 1045 1058	transcriptome
+T8	PopulationGroup 1073 1082	companion
+T9	Cell 826 840	resident cells
+T10	BodyPartOrganOrOrganComponent 263 285	central nervous system
+T11	DiseaseOrSyndrome 523 545	neurological disorders
+T12	ResearchActivity 383 407	cross-species comparison
+T13	CellFunction 429 437	pathways
+T14	HealthCareActivity 359 362	MRI
+T15	OrganismAttribute 289 296	healthy
+T16	BodyPartOrganOrOrganComponent 869 880	gray matter
+T17	BodyPartOrganOrOrganComponent 907 918	gray matter
+T18	BodyPartOrganOrOrganComponent 77 89	white matter
+T19	Cell 112 116	glia
+T20	Cell 691 695	glia
+T21	Cell 919 923	glia
+T22	Cell 617 626	microglia
+T23	Cell 666 676	astrocytes
+T24	AminoAcidPeptideOrProtein 1009 1030	transcription factors
+T25	BiologicallyActiveSubstance 1009 1030	transcription factors
+T26	OrganismAttribute 389 396	species
+T27	BodyPartOrganOrOrganComponent 112 128	glia-rich tissue
+T28	Eukaryote 148 156	primates
+T29	Eukaryote 169 176	rodents
+T30	CellComponent 228 234	nuclei
+T31	Eukaryote 297 312	common marmoset
+T32	ResearchActivity 356 368	3D MRI atlas
+T33	CellFunction 447 483	regional intercellular communication
+T34	EmbryonicStructure 951 962	neural tube
+T35	ResearchActivity 1083 1120	Callithrix jacchus Primate Cell Atlas
+T36	ResearchActivity 1122 1127	CjPCA
+T37	Finding 587 613	strong spatial segregation

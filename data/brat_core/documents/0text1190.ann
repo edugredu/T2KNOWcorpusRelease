@@ -1,0 +1,61 @@
+T0	DiseaseOrSyndrome 28 30	ND
+T1	HealthCareRelatedOrganization 76 94	healthcare systems
+T2	CellComponent 483 502	small bilipid layer
+T3	NucleicAcidNucleosideOrNucleotide 755 763	circRNAs
+T4	HealthCareActivity 1122 1132	techniques
+T5	ResearchActivity 1122 1132	techniques
+T6	Cell 836 851	recipient cells
+T7	NucleicAcidNucleosideOrNucleotide 690 695	mRNAs
+T8	BiologicFunction 143 148	death
+T9	PathologicFunction 143 148	death
+T10	BodyPartOrganOrOrganComponent 1259 1267	salivary
+T11	BodyPartOrganOrOrganComponent 1383 1391	salivary
+T12	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T13	PathologicFunction 421 432	progression
+T14	TemporalConcept 421 432	progression
+T15	AminoAcidPeptideOrProtein 661 669	proteins
+T16	ResearchActivity 337 345	research
+T17	CellComponent 512 534	extracellular vesicles
+T18	DiseaseOrSyndrome 150 169	Alzheimer's disease
+T19	DiseaseOrSyndrome 171 173	AD
+T20	BodyPartOrganOrOrganComponent 1412 1417	blood
+T21	BodyPartOrganOrOrganComponent 1439 1442	CSF
+T22	BodyPartOrganOrOrganComponent 1418 1437	cerebrospinal fluid
+T23	CellComponent 374 382	exosomes
+T24	CellComponent 773 781	exosomes
+T25	CellComponent 954 962	exosomes
+T26	CellComponent 1268 1276	exosomes
+T27	CellComponent 1392 1400	exosomes
+T28	CellComponent 1450 1458	exosomes
+T29	PathologicFunction 311 320	pathology
+T30	BiomedicalOccupationOrDiscipline 311 320	pathology
+T31	Chemical 671 677	lipids
+T32	ClinicalAttribute 1369 1379	biomarkers
+T33	NucleicAcidNucleosideOrNucleotide 734 740	miRNAs
+T34	BiologicallyActiveSubstance 734 740	miRNAs
+T35	DiseaseOrSyndrome 442 468	neurodegenerative diseases
+T36	DiseaseOrSyndrome 1007 1033	neurodegenerative diseases
+T37	DiseaseOrSyndrome 1325 1351	neurodegenerative diseases
+T38	TemporalConcept 352 360	recently
+T39	ResearchActivity 947 953	review
+T40	HealthCareActivity 947 953	review
+T41	PathologicFunction 1182 1191	pathology
+T42	TemporalConcept 296 306	initiation
+T43	TemporalConcept 406 416	initiation
+T44	ResearchActivity 1075 1091	characterization
+T45	CellFunction 970 980	biogenesis
+T46	ClinicalAttribute 889 909	diagnostic biomarker
+T47	CellComponent 607 620	nano-vesicles
+T48	CellComponent 859 867	vesicles
+T49	Finding 128 138	disability
+T50	DiseaseOrSyndrome 231 250	Parkinson's disease
+T51	DiseaseOrSyndrome 252 254	PD
+T52	CellComponent 470 478	Exosomes
+T53	NucleicAcidNucleosideOrNucleotide 717 732	non-coding RNAs
+T54	NucleicAcidNucleosideOrNucleotide 742 749	lncRNAs
+T55	BiologicallyActiveSubstance 717 732	non-coding RNAs
+T56	HealthCareActivity 1306 1321	early diagnosis
+T57	DiseaseOrSyndrome 1156 1181	neurodegenerative disease
+T58	HealthCareActivity 914 937	early disease detection
+T59	BiologicallyActiveSubstance 742 749	lncRNAs
+T60	BiologicallyActiveSubstance 755 763	circRNAs

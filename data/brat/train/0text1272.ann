@@ -1,0 +1,46 @@
+T0	BodyPartOrganOrOrganComponent 91 102	vasculature
+T1	CellFunction 121 128	signals
+T2	BiologicallyActiveSubstance 522 536	angiopoietin-1
+T3	AminoAcidPeptideOrProtein 522 536	angiopoietin-1
+T4	AminoAcidPeptideOrProtein 538 542	Ang1
+T5	BiologicallyActiveSubstance 538 542	Ang1
+T6	BiologicallyActiveSubstance 585 599	Sonic hedgehog
+T7	AminoAcidPeptideOrProtein 585 599	Sonic hedgehog
+T8	AminoAcidPeptideOrProtein 633 637	Ang1
+T9	BiologicallyActiveSubstance 633 637	Ang1
+T10	CellFunction 638 645	signals
+T11	GeneOrGenome 663 667	Tie2
+T12	AminoAcidPeptideOrProtein 718 751	transforming growth factor beta 1
+T13	BiologicallyActiveSubstance 718 751	transforming growth factor beta 1
+T14	AminoAcidPeptideOrProtein 753 763	TGF beta 1
+T15	CellFunction 842 849	signals
+T16	BiologicFunction 879 889	commitment
+T17	BodyPartOrganOrOrganComponent 1009 1020	vasculature
+T18	BiologicFunction 225 253	neurodevelopmental processes
+T19	Cell 672 689	endothelial cells
+T20	CellFunction 514 521	express
+T21	BiologicFunction 1048 1066	oligodendrogenesis
+T22	Cell 621 624	NPC
+T23	Cell 897 928	oligodendrocyte precursor cells
+T24	BodyPartOrganOrOrganComponent 379 393	developing CNS
+T25	Cell 483 506	neural progenitor cells
+T26	Cell 508 512	NPCs
+T27	Cell 858 862	NPCs
+T28	Cell 996 1000	NPCs
+T29	Substance 818 837	angiocrine molecule
+T30	BiologicallyActiveSubstance 653 661	receptor
+T31	Cell 407 437	oligodendrocyte precursor cell
+T32	BodyPartOrganOrOrganComponent 351 359	vascular
+T33	CellFunction 314 323	crosstalk
+T34	ResearchActivity 279 284	study
+T35	GeneOrGenome 753 763	TGF beta 1
+T36	BiologicallyActiveSubstance 753 763	TGF beta 1
+T37	Finding 960 987	bidirectional collaboration
+T38	Finding 1026 1044	critical regulator
+T39	AminoAcidPeptideOrProtein 786 796	TGF beta 1
+T40	BiologicallyActiveSubstance 786 796	TGF beta 1
+T41	GeneOrGenome 786 796	TGF beta 1
+T42	Finding 27 45	crucial regulators
+T43	BiologicFunction 49 68	CNS vascularization
+T44	Cell 766 777	Endothelial
+T45	Cell 0 6	Neural

@@ -1,0 +1,35 @@
+T0	DiseaseOrSyndrome 0 18	Huntington Disease
+T1	DiseaseOrSyndrome 36 77	progressive and neurodegenerative disease
+T2	TemporalConcept 115 120	years
+T3	Finding 138 147	worsening
+T4	DiseaseOrSyndrome 154 163	suffering
+T5	DiseaseOrSyndrome 164 182	Huntington Disease
+T6	BiologicFunction 200 210	experience
+T7	DiseaseOrSyndrome 389 398	suffering
+T8	ManufacturedObject 463 475	feeding tube
+T9	ManufacturedObject 511 528	tracheostomy tube
+T10	PathologicFunction 554 579	respiratory insufficiency
+T11	PathologicFunction 620 629	infection
+T12	DiseaseOrSyndrome 637 656	respiratory disease
+T13	HealthCareActivity 694 703	diagnosed
+T14	Finding 694 703	diagnosed
+T15	DiseaseOrSyndrome 709 727	Huntington Disease
+T16	HealthCareActivity 731 752	advance care planning
+T17	HealthCareActivity 756 772	end-of-life care
+T18	BiologicFunction 828 843	decision-making
+T19	TemporalConcept 854 860	future
+T20	BiologicFunction 913 922	decisions
+T21	BiologicFunction 94 99	death
+T22	PatientOrDisabledGroup 187 194	patient
+T23	PatientOrDisabledGroup 269 276	patient
+T24	PatientOrDisabledGroup 411 418	patient
+T25	PatientOrDisabledGroup 816 824	patients
+T26	DiseaseOrSyndrome 124 133	suffering
+T27	SignOrSymptom 211 255	physical, cognitive and psychological issues
+T28	TemporalConcept 333 350	end-of-life-phase
+T29	Finding 371 378	problem
+T30	BiologicFunction 594 599	death
+T31	HealthCareActivity 778 802	life-sustaining measures
+T32	HealthCareActivity 861 865	care
+T33	PathologicFunction 594 599	death
+T34	PathologicFunction 94 99	death

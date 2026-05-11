@@ -1,0 +1,85 @@
+T0	AminoAcidPeptideOrProtein 37 44	insulin
+T1	BiologicallyActiveSubstance 37 44	insulin
+T2	PharmacologicSubstance 37 44	insulin
+T3	AminoAcidPeptideOrProtein 241 248	insulin
+T4	BiologicallyActiveSubstance 241 248	insulin
+T5	PharmacologicSubstance 241 248	insulin
+T6	BodyPartOrganOrOrganComponent 311 332	cerebral spinal fluid
+T7	ResearchActivity 451 473	phase 2 clinical trial
+T8	PopulationGroup 604 610	Adults
+T9	AminoAcidPeptideOrProtein 731 738	insulin
+T10	BiologicallyActiveSubstance 731 738	insulin
+T11	PharmacologicSubstance 731 738	insulin
+T12	PopulationGroup 855 858	men
+T13	HealthCareActivity 875 887	Measurements
+T14	BodyPartOrganOrOrganComponent 1031 1052	cerebral spinal fluid
+T15	BodyPartOrganOrOrganComponent 1365 1389	deep and frontal regions
+T16	Finding 1510 1518	worsened
+T17	PopulationGroup 1649 1664	treatment group
+T18	PopulationGroup 576 589	United States
+T19	Eukaryote 71 77	rodent
+T20	HealthCareActivity 830 838	screened
+T21	ResearchActivity 830 838	screened
+T22	HealthCareActivity 265 271	health
+T23	TemporalConcept 787 796	12 months
+T24	BiologicFunction 1583 1601	cognitive function
+T25	DiseaseOrSyndrome 99 118	Alzheimer's disease
+T26	DiseaseOrSyndrome 396 415	Alzheimer's disease
+T27	DiseaseOrSyndrome 645 664	Alzheimer's disease
+T28	DiseaseOrSyndrome 1519 1538	Alzheimer's disease
+T29	DiseaseOrSyndrome 1836 1855	Alzheimer's disease
+T30	ResearchActivity 1247 1254	Results
+T31	ClinicalAttribute 333 342	biomarker
+T32	ClinicalAttribute 1561 1570	biomarker
+T33	PopulationGroup 812 824	participants
+T34	PathologicFunction 1482 1493	progression
+T35	PathologicFunction 1763 1774	progression
+T36	TemporalConcept 1482 1493	progression
+T37	TemporalConcept 1763 1774	progression
+T38	BodyPartOrganOrOrganComponent 252 264	white matter
+T39	BodyPartOrganOrOrganComponent 933 945	white matter
+T40	BodyPartOrganOrOrganComponent 1327 1339	white matter
+T41	ClinicalAttribute 1053 1063	biomarkers
+T42	PopulationGroup 355 361	adults
+T43	Finding 888 895	Changes
+T44	PopulationGroup 591 603	Participants
+T45	PopulationGroup 679 691	Participants
+T46	PopulationGroup 1275 1280	group
+T47	PopulationGroup 1659 1664	group
+T48	DiseaseOrSyndrome 367 392	mild cognitive impairment
+T49	DiseaseOrSyndrome 616 641	mild cognitive impairment
+T50	BiologicFunction 1229 1235	memory
+T51	ResearchActivity 88 95	studies
+T52	ResearchActivity 343 351	profiles
+T53	HealthCareActivity 720 727	placebo
+T54	ResearchActivity 498 542	randomized (1:1) double-blind clinical trial
+T55	Eukaryote 82 87	human
+T56	TemporalConcept 714 719	daily
+T57	BiologicFunction 297 306	cognition
+T58	TemporalConcept 1399 1405	months
+T59	TemporalConcept 1713 1719	months
+T60	PathologicFunction 134 141	effects
+T61	PathologicFunction 204 211	effects
+T62	ResearchActivity 1624 1636	correlations
+T63	ResearchActivity 996 1004	analyzed
+T64	ResearchActivity 429 437	analyses
+T65	HealthCareActivity 1649 1658	treatment
+T66	HealthCareActivity 1677 1705	Intranasal insulin treatment
+T67	ResearchActivity 1649 1658	treatment
+T68	ClinicalAttribute 972 990	gray matter volume
+T69	ResearchActivity 1612 1620	patterns
+T70	HealthCareActivity 11 44	Intranasally administered insulin
+T71	HealthCareActivity 215 248	intranasally administered insulin
+T72	PharmacologicSubstance 740 768	20 IU Humulin R U-100 b.i.d.
+T73	ClinicalAttribute 933 967	white matter hyperintensity volume
+T74	HealthCareActivity 1065 1111	Alzheimer's Disease Assessment Scale-Cognition
+T75	HealthCareActivity 1113 1149	Clinical Disease Rating-Sum of Boxes
+T76	HealthCareActivity 1151 1221	Alzheimer's Disease Cooperative Study-Activities of Daily Living Scale
+T77	AminoAcidPeptideOrProtein 1259 1266	insulin
+T78	BiologicallyActiveSubstance 1259 1266	insulin
+T79	PharmacologicSubstance 1259 1266	insulin
+T80	ClinicalAttribute 1327 1361	white matter hyperintensity volume
+T81	BodyPartOrganOrOrganComponent 1539 1560	cerebral spinal fluid
+T82	ClinicalAttribute 1447 1481	White matter hyperintensity volume
+T83	ClinicalAttribute 1728 1762	white matter hyperintensity volume
+T84	HealthCareActivity 1813 1831	therapeutic option

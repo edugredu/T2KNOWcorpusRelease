@@ -1,0 +1,60 @@
+T0	HealthCareActivity 189 229	optical coherence tomography angiography
+T1	BodyPartOrganOrOrganComponent 432 434	CC
+T2	BodyPartOrganOrOrganComponent 518 522	eyes
+T3	BodyPartOrganOrOrganComponent 558 562	eyes
+T4	ResearchActivity 586 603	prospective study
+T5	BodyPartOrganOrOrganComponent 890 909	choroidal structure
+T6	BodyPartOrganOrOrganComponent 960 973	neurovascular
+T7	PathologicFunction 993 1008	physiopathology
+T8	DiseaseOrSyndrome 158 176	Huntington disease
+T9	HealthCareActivity 231 235	OCTA
+T10	HealthCareActivity 442 446	OCTA
+T11	HealthCareActivity 821 825	OCTA
+T12	HealthCareActivity 285 295	EDI SD-OCT
+T13	HealthCareActivity 474 484	EDI SD-OCT
+T14	Finding 787 812	significant relationships
+T15	BodyPartOrganOrOrganComponent 39 73	choriocapillaris vascular networks
+T16	BodyPartOrganOrOrganComponent 414 430	choriocapillaris
+T17	BodyPartOrganOrOrganComponent 646 662	choriocapillaris
+T18	HealthCareActivity 322 336	vessel density
+T19	HealthCareActivity 338 340	VD
+T20	HealthCareActivity 663 665	VD
+T21	BodyPartOrganOrOrganComponent 345 373	superficial capillary plexus
+T22	BodyPartOrganOrOrganComponent 381 402	deep capillary plexus
+T23	HealthCareActivity 256 263	imaging
+T24	ResearchActivity 486 493	Results
+T25	BiologicFunction 586 597	prospective
+T26	HealthCareActivity 462 470	measured
+T27	HealthCareActivity 189 217	optical coherence tomography
+T28	HealthCareActivity 241 283	enhanced depth imaging spectral-domain OCT
+T29	BodyPartOrganOrOrganComponent 27 34;56 73	retinal vascular networks
+T30	BodyPartOrganOrOrganComponent 634 641	retinal
+T31	BodyPartOrganOrOrganComponent 1087 1095	vascular
+T32	Finding 974 985	involvement
+T33	OrganismAttribute 537 544	healthy
+T34	PopulationGroup 537 553	healthy controls
+T35	PatientOrDisabledGroup 137 145	patients
+T36	PatientOrDisabledGroup 743 751	patients
+T37	DiseaseOrSyndrome 178 180	HD
+T38	DiseaseOrSyndrome 1012 1014	HD
+T39	DiseaseOrSyndrome 1127 1152	neurodegenerative disease
+T40	PopulationGroup 700 708	controls
+T41	PopulationGroup 763 771	controls
+T42	PatientOrDisabledGroup 502 513	HD patients
+T43	PatientOrDisabledGroup 684 695	HD patients
+T44	BodyPartOrganOrOrganComponent 77 91	macular region
+T45	ClinicalAttribute 100 127	central choroidal thickness
+T46	ClinicalAttribute 129 132	CCT
+T47	BodyPartOrganOrOrganComponent 375 378	SCP
+T48	BodyPartOrganOrOrganComponent 404 407	DCP
+T49	ClinicalAttribute 454 457	CCT
+T50	ClinicalAttribute 322 336	vessel density
+T51	ClinicalAttribute 338 340	VD
+T52	Finding 605 630	No significant difference
+T53	ClinicalAttribute 634 641;663 665	retinal VD
+T54	ClinicalAttribute 646 665	choriocapillaris VD
+T55	ClinicalAttribute 715 718	CCT
+T56	ClinicalAttribute 839 862	neurological parameters
+T57	Finding 879 886	changes
+T58	BodyPartOrganOrOrganComponent 1016 1042	Choroidal vascular network
+T59	PathologicFunction 1087 1106	vascular impairment

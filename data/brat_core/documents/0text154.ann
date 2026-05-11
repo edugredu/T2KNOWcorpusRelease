@@ -1,0 +1,46 @@
+T0	BiologicFunction 16 30	Sleep patterns
+T1	PathologicFunction 46 55	disrupted
+T2	ClinicalAttribute 197 212	clinic features
+T3	PatientOrDisabledGroup 356 367	HD subjects
+T4	HealthCareActivity 431 461	Pittsburgh Sleep Quality Index
+T5	HealthCareActivity 463 467	PSQI
+T6	BiologicFunction 787 797	perception
+T7	DiseaseOrSyndrome 801 820	sleep abnormalities
+T8	Finding 906 922	sleep efficiency
+T9	PharmacologicSubstance 958 975	sleep medications
+T10	Finding 1043 1051	severity
+T11	DiseaseOrSyndrome 1096 1115	sleep abnormalities
+T12	Finding 1196 1211	quality of life
+T13	Finding 1231 1252	level of independence
+T14	BiologicFunction 1240 1252	independence
+T15	Finding 1280 1297	mental well-being
+T16	PathologicFunction 1059 1078	disease progression
+T17	DiseaseOrSyndrome 115 117	HD
+T18	DiseaseOrSyndrome 1151 1153	HD
+T19	DiseaseOrSyndrome 95 113	Huntington disease
+T20	DiseaseOrSyndrome 617 637	Huntington's Disease
+T21	DiseaseOrSyndrome 59 86	neurodegenerative disorders
+T22	PatientOrDisabledGroup 397 405	patients
+T23	PatientOrDisabledGroup 777 785	patients
+T24	PatientOrDisabledGroup 1186 1194	patients
+T25	TemporalConcept 1067 1078	progression
+T26	HealthCareActivity 503 517	questionnaires
+T27	ResearchActivity 218 223	study
+T28	HealthCareActivity 609 650	Unified Huntington's Disease Rating Scale
+T29	HealthCareActivity 652 657	UHDRS
+T30	TemporalConcept 35 45	frequently
+T31	BiologicFunction 272 277	sleep
+T32	Finding 291 343	motor, cognitive, behavioural and functional changes
+T33	HealthCareActivity 473 496	Insomnia Severity Index
+T34	HealthCareActivity 498 501	ISI
+T35	ClinicalAttribute 519 536	clinical features
+T36	ResearchActivity 569 593	ENROLL-HD platform assay
+T37	HealthCareActivity 667 707	Problem Behaviours Assessment Short Form
+T38	HealthCareActivity 709 714	PBA-s
+T39	ResearchActivity 825 890	scores of impaired independence, cognitive and motor performances
+T40	ResearchActivity 924 941	PSQI-C4 subscores
+T41	ResearchActivity 977 994	PSQI-C6 subscores
+T42	TemporalConcept 1012 1022	frequently
+T43	ClinicalAttribute 1154 1170	clinical profile
+T44	Finding 1254 1275	cognition performance
+T45	BiologicFunction 1254 1263	cognition

@@ -1,0 +1,163 @@
+T0	ResearchActivity 349 359	randomized
+T1	Finding 349 359	randomized
+T2	HealthCareRelatedOrganization 500 526	American Heart Association
+T3	HealthCareActivity 563 567	diet
+T4	TemporalConcept 574 581	washout
+T5	HealthCareActivity 574 581	washout
+T6	AminoAcidPeptideOrProtein 610 623	synaptophysin
+T7	BiologicallyActiveSubstance 610 623	synaptophysin
+T8	AminoAcidPeptideOrProtein 628 657	neural cell adhesion molecule
+T9	ResearchActivity 954 992	confocal microscopy fluorescent images
+T10	ResearchActivity 997 1011	flow cytometry
+T11	CellFunction 1170 1175	Cargo
+T12	AminoAcidPeptideOrProtein 1782 1837	glutamate receptors-glutamate receptor ionotropic NMDA1
+T13	AminoAcidPeptideOrProtein 1918 1967	glutamate receptor ionotropic AMPA type subunit 1
+T14	AminoAcidPeptideOrProtein 2085 2102	amyloid beta 1-42
+T15	PharmacologicSubstance 2225 2251	anti-inflammatory activity
+T16	GeneOrGenome 2350 2379	monocarboxylate transporter 2
+T17	AminoAcidPeptideOrProtein 2350 2379	monocarboxylate transporter 2
+T18	Finding 2606 2616	responsive
+T19	HealthCareActivity 2625 2645	dietary intervention
+T20	ResearchActivity 349 376	randomized crossover design
+T21	HealthCareActivity 370 376	design
+T22	Finding 46 54	invasive
+T23	TemporalConcept 538 543	weeks
+T24	CellFunction 916 931	differentiation
+T25	TemporalConcept 2262 2270	modified
+T26	TemporalConcept 2453 2461	modified
+T27	ResearchActivity 932 952	63-ELISA-based assay
+T28	PopulationGroup 319 331	participants
+T29	PopulationGroup 435 447	participants
+T30	PopulationGroup 1408 1420	participants
+T31	PopulationGroup 1572 1584	participants
+T32	PopulationGroup 2593 2605	participants
+T33	CellComponent 181 203	extracellular vesicles
+T34	CellComponent 720 742	extracellular vesicles
+T35	CellComponent 2905 2927	extracellular vesicles
+T36	DiseaseOrSyndrome 95 114	Alzheimer's disease
+T37	DiseaseOrSyndrome 3049 3068	Alzheimer's disease
+T38	DiseaseOrSyndrome 127 135	dementia
+T39	ResearchActivity 2505 2525	area under the curve
+T40	Cell 165 171	neuron
+T41	Cell 698 704	neuron
+T42	ResearchActivity 1176 1184	analysis
+T43	ResearchActivity 337 342	study
+T44	BodyPartOrganOrOrganComponent 209 215	plasma
+T45	BodyPartOrganOrOrganComponent 1162 1168	plasma
+T46	BodyPartOrganOrOrganComponent 2931 2937	plasma
+T47	BodyPartOrganOrOrganComponent 1482 1485	CSF
+T48	BodyPartOrganOrOrganComponent 2056 2059	CSF
+T49	AminoAcidPeptideOrProtein 1308 1316	p181-tau
+T50	AminoAcidPeptideOrProtein 2128 2131	tau
+T51	ClinicalAttribute 81 91	biomarkers
+T52	ClinicalAttribute 2060 2070	biomarkers
+T53	BiologicallyActiveSubstance 1308 1316	p181-tau
+T54	BiologicallyActiveSubstance 2128 2131	tau
+T55	CellComponent 0 22	Extracellular vesicles
+T56	TemporalConcept 789 794	first
+T57	CellFunction 1760 1770	expression
+T58	CellFunction 2336 2346	expression
+T59	ClinicalAttribute 658 673	surface markers
+T60	AminoAcidPeptideOrProtein 2423 2440	amyloid beta 1-42
+T61	AminoAcidPeptideOrProtein 2742 2759	amyloid beta 1-42
+T62	TemporalConcept 795 799	time
+T63	Finding 2712 2716	high
+T64	BiologicallyActiveSubstance 2085 2102	amyloid beta 1-42
+T65	BiologicallyActiveSubstance 2423 2440	amyloid beta 1-42
+T66	BiologicallyActiveSubstance 2742 2759	amyloid beta 1-42
+T67	AminoAcidPeptideOrProtein 2072 2083	neurogranin
+T68	BiologicallyActiveSubstance 2072 2083	neurogranin
+T69	Finding 1546 1550	mild
+T70	DiseaseOrSyndrome 1551 1571	cognitive impairment
+T71	AminoAcidPeptideOrProtein 1340 1359	neurofilament light
+T72	AminoAcidPeptideOrProtein 2104 2123	neurofilament light
+T73	AminoAcidPeptideOrProtein 2816 2835	neurofilament light
+T74	BiologicallyActiveSubstance 1340 1359	neurofilament light
+T75	BiologicallyActiveSubstance 2104 2123	neurofilament light
+T76	BiologicallyActiveSubstance 2816 2835	neurofilament light
+T77	DiseaseOrSyndrome 293 318	mild cognitive impairment
+T78	DiseaseOrSyndrome 409 434	mild cognitive impairment
+T79	DiseaseOrSyndrome 1382 1407	mild cognitive impairment
+T80	DiseaseOrSyndrome 1546 1571	mild cognitive impairment
+T81	DiseaseOrSyndrome 3023 3048	mild cognitive impairment
+T82	ResearchActivity 849 902	immunogold labelling/transmission electron microscopy
+T83	Finding 1456 1467	sensitivity
+T84	HealthCareActivity 2982 3014	dietary/therapeutic intervention
+T85	Finding 281 289	efficacy
+T86	Finding 2970 2978	efficacy
+T87	CellFunction 240 260	molecular mechanisms
+T88	AminoAcidPeptideOrProtein 1509 1518	glutamate
+T89	AminoAcidPeptideOrProtein 1839 1875	glutamate receptor ionotropic NMDA2A
+T90	AminoAcidPeptideOrProtein 1877 1913	glutamate receptor ionotropic NMDA2B
+T91	BiologicallyActiveSubstance 1509 1518	glutamate
+T92	BiologicallyActiveSubstance 1782 1837	glutamate receptors-glutamate receptor ionotropic NMDA1
+T93	Finding 386 404	cognitively normal
+T94	Finding 1032 1040	presence
+T95	Finding 828 837	evidences
+T96	ResearchActivity 935 940	ELISA
+T97	ResearchActivity 1012 1016	data
+T98	ResearchActivity 1658 1674	characterization
+T99	HealthCareActivity 2566 2575	screening
+T100	ResearchActivity 2566 2575	screening
+T101	BiologicallyActiveSubstance 1877 1913	glutamate receptor ionotropic NMDA2B
+T102	BiologicallyActiveSubstance 1918 1967	glutamate receptor ionotropic AMPA type subunit 1
+T103	CellComponent 714 742	small extracellular vesicles
+T104	CellComponent 2899 2927	small extracellular vesicles
+T105	CellComponent 744 747	sEV
+T106	CellComponent 756 759	sEV
+T107	CellComponent 769 772	sEV
+T108	CellComponent 1088 1091	sEV
+T109	CellComponent 1144 1147	sEV
+T110	CellComponent 1188 1191	sEV
+T111	CellComponent 1432 1435	sEV
+T112	CellComponent 1647 1650	sEV
+T113	CellComponent 1988 1991	sEV
+T114	CellComponent 2147 2150	sEV
+T115	CellComponent 2398 2401	sEV
+T116	CellComponent 2656 2659	sEV
+T117	CellComponent 2668 2671	sEV
+T118	CellComponent 2681 2684	sEV
+T119	BiologicFunction 2225 2242	anti-inflammatory
+T120	PharmacologicSubstance 2225 2242	anti-inflammatory
+T121	HealthCareActivity 264 278	ketogenic diet
+T122	HealthCareActivity 459 496	modified Mediterranean-ketogenic diet
+T123	HealthCareActivity 500 531	American Heart Association diet
+T124	AminoAcidPeptideOrProtein 583 608	L1 cell adhesion molecule
+T125	BiologicallyActiveSubstance 583 608	L1 cell adhesion molecule
+T126	BiologicallyActiveSubstance 628 657	neural cell adhesion molecule
+T127	AminoAcidPeptideOrProtein 748 753	L1CAM
+T128	AminoAcidPeptideOrProtein 760 763	SYP
+T129	AminoAcidPeptideOrProtein 773 777	NCAM
+T130	BiologicallyActiveSubstance 748 753	L1CAM
+T131	BiologicallyActiveSubstance 760 763	SYP
+T132	BiologicallyActiveSubstance 773 777	NCAM
+T133	AminoAcidPeptideOrProtein 1044 1069	L1 cell adhesion molecule
+T134	BiologicallyActiveSubstance 1044 1069	L1 cell adhesion molecule
+T135	AminoAcidPeptideOrProtein 1092 1097	L1CAM
+T136	BiologicallyActiveSubstance 1092 1097	L1CAM
+T137	AminoAcidPeptideOrProtein 1148 1153	L1CAM
+T138	BiologicallyActiveSubstance 1148 1153	L1CAM
+T139	BiologicallyActiveSubstance 1192 1197	L1CAM
+T140	AminoAcidPeptideOrProtein 1192 1197	L1CAM
+T141	HealthCareActivity 1211 1261	modified Mediterranean-ketogenic diet intervention
+T142	AminoAcidPeptideOrProtein 1270 1287	amyloid beta 1-42
+T143	BiologicallyActiveSubstance 1270 1287	amyloid beta 1-42
+T144	AminoAcidPeptideOrProtein 1436 1441	L1CAM
+T145	BiologicallyActiveSubstance 1436 1441	L1CAM
+T146	HealthCareActivity 1595 1645	modified Mediterranean-ketogenic diet intervention
+T147	AminoAcidPeptideOrProtein 1651 1656	L1CAM
+T148	AminoAcidPeptideOrProtein 1992 1997	L1CAM
+T149	HealthCareActivity 1695 1732	modified Mediterranean-ketogenic diet
+T150	BiologicallyActiveSubstance 1651 1656	L1CAM
+T151	BiologicallyActiveSubstance 1839 1875	glutamate receptor ionotropic NMDA2A
+T152	BiologicallyActiveSubstance 1992 1997	L1CAM
+T153	AminoAcidPeptideOrProtein 2151 2156	L1CAM
+T154	AminoAcidPeptideOrProtein 2402 2407	L1CAM
+T155	AminoAcidPeptideOrProtein 2685 2689	NCAM
+T156	AminoAcidPeptideOrProtein 2672 2675	SYP
+T157	AminoAcidPeptideOrProtein 2660 2665	L1CAM
+T158	BiologicallyActiveSubstance 2151 2156	L1CAM
+T159	BiologicallyActiveSubstance 2672 2675	SYP
+T160	BiologicallyActiveSubstance 2660 2665	L1CAM
+T161	BiologicallyActiveSubstance 2685 2689	NCAM
+T162	BiologicallyActiveSubstance 2402 2407	L1CAM

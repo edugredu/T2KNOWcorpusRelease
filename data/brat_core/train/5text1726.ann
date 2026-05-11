@@ -1,0 +1,4 @@
+T0	DiseaseOrSyndrome 120 146	neurodegenerative diseases
+T1	PharmacologicSubstance 100 104	drug
+T2	Organism 0 24	Saccharomyces cerevisiae
+T3	ResearchActivity 31 50	screening platforms

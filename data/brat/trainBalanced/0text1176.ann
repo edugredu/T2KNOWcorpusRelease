@@ -1,0 +1,79 @@
+T0	CellFunction 559 569	cell cycle
+T1	BodyPartOrganOrOrganComponent 880 895	brain structure
+T2	Finding 1186 1200	considerations
+T3	CellFunction 671 678	secrete
+T4	ResearchActivity 919 925	models
+T5	PathologicFunction 990 1003	tau pathology
+T6	ResearchActivity 113 131	disease mechanisms
+T7	CellFunction 766 779	cell survival
+T8	BiologicFunction 516 531	stress response
+T9	CellFunction 516 531	stress response
+T10	Eukaryote 912 918	rodent
+T11	Finding 268 279	risk factor
+T12	HealthCareActivity 196 223	disease-modifying therapies
+T13	Cell 1285 1306	senescent brain cells
+T14	DiseaseOrSyndrome 33 52	Alzheimer's disease
+T15	DiseaseOrSyndrome 54 56	AD
+T16	DiseaseOrSyndrome 295 297	AD
+T17	DiseaseOrSyndrome 948 950	AD
+T18	DiseaseOrSyndrome 1095 1097	AD
+T19	DiseaseOrSyndrome 1260 1262	AD
+T20	DiseaseOrSyndrome 1396 1398	AD
+T21	Finding 1125 1133	evidence
+T22	AminoAcidPeptideOrProtein 990 993	tau
+T23	BodyPartOrganOrOrganComponent 1179 1184	brain
+T24	Eukaryote 1173 1178	human
+T25	BiologicallyActiveSubstance 990 993	tau
+T26	PathologicFunction 349 360	progression
+T27	TemporalConcept 349 360	progression
+T28	Cell 548 553	cells
+T29	Cell 612 627	Senescent cells
+T30	Cell 855 870	senescent cells
+T31	Finding 1153 1165	accumulation
+T32	Cell 600 604	cell
+T33	Cell 1138 1152	senescent cell
+T34	TemporalConcept 1352 1357	first
+T35	Substance 1310 1319	biofluids
+T36	ResearchActivity 1017 1023	review
+T37	ResearchActivity 1118 1124	review
+T38	HealthCareActivity 1017 1023	review
+T39	HealthCareActivity 1118 1124	review
+T40	HealthCareActivity 1073 1082	treatment
+T41	HealthCareActivity 1383 1392	treatment
+T42	ResearchActivity 1073 1082	treatment
+T43	ResearchActivity 1383 1392	treatment
+T44	InjuryOrPoisoning 823 828	toxic
+T45	Finding 268 272	risk
+T46	Finding 929 933	risk
+T47	OrganismAttribute 248 251	age
+T48	OrganismAttribute 644 647	age
+T49	PopulationGroup 605 610	state
+T50	BodyPartOrganOrOrganComponent 716 722	tissue
+T51	CellFunction 580 589	apoptosis
+T52	TemporalConcept 411 418	current
+T53	AminoAcidPeptideOrProtein 979 985	A beta
+T54	ResearchActivity 419 429	strategies
+T55	ResearchActivity 1205 1215	strategies
+T56	BiologicFunction 419 429	strategies
+T57	BiologicFunction 1205 1215	strategies
+T58	BiologicFunction 85 98	understanding
+T59	PathologicFunction 4 14	pathogenic
+T60	Finding 1220 1230	senescence
+T61	TemporalConcept 1220 1230	senescence
+T62	CellFunction 1220 1230	senescence
+T63	PathologicFunction 341 360	disease progression
+T64	Substance 679 688	molecules
+T65	HealthCareActivity 214 223	therapies
+T66	CellFunction 448 467	cellular senescence
+T67	BiologicFunction 325 330	aging
+T68	CellFunction 325 330	aging
+T69	BiologicallyActiveSubstance 829 838	secretome
+T70	PathologicFunction 723 734	dysfunction
+T71	ResearchActivity 1098 1113	clinical trials
+T72	TemporalConcept 708 715	chronic
+T73	OrganismAttribute 225 251	Advanced chronological age
+T74	InjuryOrPoisoning 540 547	damaged
+T75	ResearchActivity 1220 1247	senescence-targeting trials
+T76	ResearchActivity 1358 1374	senolytic trials
+T77	ResearchActivity 1400 1411	NCT04063124
+T78	ResearchActivity 1416 1427	NCT04685590

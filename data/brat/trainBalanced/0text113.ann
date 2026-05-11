@@ -1,0 +1,72 @@
+T0	NucleicAcidNucleosideOrNucleotide 205 226	small non-coding RNAs
+T1	CellFunction 239 289	post transcriptional regulation of gene expression
+T2	ResearchActivity 350 360	comparison
+T3	PathologicFunction 398 410	dysregulated
+T4	ResearchActivity 484 501	systematic review
+T5	NucleicAcidNucleosideOrNucleotide 556 564	microRNA
+T6	Finding 543 575	differential microRNA expression
+T7	CellFunction 556 575	microRNA expression
+T8	ManufacturedObject 618 631	animal models
+T9	DiseaseOrSyndrome 739 758	Alzheimer's disease
+T10	DiseaseOrSyndrome 760 789	amyotrophic lateral sclerosis
+T11	DiseaseOrSyndrome 791 823	age-related macular degeneration
+T12	SignOrSymptom 825 831	ataxia
+T13	DiseaseOrSyndrome 825 831	ataxia
+T14	DiseaseOrSyndrome 833 841	dementia
+T15	DiseaseOrSyndrome 843 861	myotonic dystrophy
+T16	DiseaseOrSyndrome 873 881	glaucoma
+T17	DiseaseOrSyndrome 905 923	multiple sclerosis
+T18	DiseaseOrSyndrome 925 944	Parkinson's disease
+T19	DiseaseOrSyndrome 950 965	prion disorders
+T20	NucleicAcidNucleosideOrNucleotide 967 976	MicroRNAs
+T21	PathologicFunction 988 1000	dysregulated
+T22	ManufacturedObject 1040 1046	models
+T23	NucleicAcidNucleosideOrNucleotide 1108 1118	miR-124-3p
+T24	CellFunction 1168 1176	pathways
+T25	NucleicAcidNucleosideOrNucleotide 1207 1213	miRNAs
+T26	Finding 1249 1267	functional overlap
+T27	NucleicAcidNucleosideOrNucleotide 1327 1335	microRNA
+T28	BiologicallyActiveSubstance 1327 1335	microRNA
+T29	Finding 1400 1432	regulate broad networks of genes
+T30	PathologicFunction 1468 1480	dysregulated
+T31	Finding 176 190	Altered levels
+T32	ResearchActivity 505 531	peer-reviewed publications
+T33	NucleicAcidNucleosideOrNucleotide 1056 1064	miR-9-5p
+T34	NucleicAcidNucleosideOrNucleotide 1066 1075	miR-21-5p
+T35	NucleicAcidNucleosideOrNucleotide 1081 1094	miR-29 family
+T36	NucleicAcidNucleosideOrNucleotide 1096 1106	miR-132-3p
+T37	NucleicAcidNucleosideOrNucleotide 1149 1159	miR-223-3p
+T38	GeneOrGenome 1056 1064	miR-9-5p
+T39	GeneOrGenome 1066 1075	miR-21-5p
+T40	GeneOrGenome 1081 1094	miR-29 family
+T41	GeneOrGenome 1096 1106	miR-132-3p
+T42	GeneOrGenome 1108 1118	miR-124-3p
+T43	GeneOrGenome 1120 1131	miR-146a-5p
+T44	NucleicAcidNucleosideOrNucleotide 1120 1131	miR-146a-5p
+T45	NucleicAcidNucleosideOrNucleotide 1133 1143	miR-155-5p
+T46	GeneOrGenome 1133 1143	miR-155-5p
+T47	GeneOrGenome 1149 1159	miR-223-3p
+T48	BiologicFunction 1359 1375	immune component
+T49	BiologicallyActiveSubstance 967 976	MicroRNAs
+T50	DiseaseOrSyndrome 863 871	epilepsy
+T51	PathologicFunction 863 871	epilepsy
+T52	DiseaseOrSyndrome 883 903	Huntington's disease
+T53	NucleicAcidNucleosideOrNucleotide 194 203	microRNAs
+T54	NucleicAcidNucleosideOrNucleotide 411 420	microRNAs
+T55	NucleicAcidNucleosideOrNucleotide 1390 1399	microRNAs
+T56	NucleicAcidNucleosideOrNucleotide 1449 1458	microRNAs
+T57	BiologicallyActiveSubstance 194 203	microRNAs
+T58	BiologicallyActiveSubstance 411 420	microRNAs
+T59	BiologicallyActiveSubstance 1390 1399	microRNAs
+T60	BiologicallyActiveSubstance 1449 1458	microRNAs
+T61	CellOrMolecularDysfunction 141 158	neurodegeneration
+T62	CellOrMolecularDysfunction 428 445	neurodegeneration
+T63	CellOrMolecularDysfunction 1598 1615	neurodegeneration
+T64	DiseaseOrSyndrome 37 63	neurodegenerative diseases
+T65	DiseaseOrSyndrome 317 343	neurodegenerative diseases
+T66	DiseaseOrSyndrome 579 605	neurodegenerative diseases
+T67	DiseaseOrSyndrome 693 719	neurodegenerative diseases
+T68	DiseaseOrSyndrome 1488 1514	neurodegenerative diseases
+T69	ResearchActivity 662 669	studies
+T70	BiologicFunction 1348 1376	neural and immune components
+T71	Finding 1306 1317	strong role

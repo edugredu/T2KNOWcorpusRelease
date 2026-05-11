@@ -1,0 +1,76 @@
+T0	Finding 52 64	asymptomatic
+T1	HealthCareActivity 263 281	clinical treatment
+T2	HealthCareActivity 789 799	enrollment
+T3	ResearchActivity 1021 1035	research study
+T4	HealthCareActivity 1125 1135	enrollment
+T5	PopulationGroup 1171 1182	Participant
+T6	Finding 1183 1192	responses
+T7	Finding 1528 1533	worry
+T8	ResearchActivity 1773 1778	trial
+T9	HealthCareActivity 1798 1808	enrollment
+T10	ResearchActivity 1779 1785	design
+T11	HealthCareActivity 1779 1785	design
+T12	HealthCareRelatedOrganization 1744 1753	community
+T13	HealthCareActivity 1515 1522	testing
+T14	HealthCareActivity 1572 1579	testing
+T15	TemporalConcept 871 876	years
+T16	DiseaseOrSyndrome 12 31	Alzheimer's disease
+T17	ClinicalAttribute 102 112	biomarkers
+T18	ClinicalAttribute 211 221	biomarkers
+T19	TemporalConcept 65 82	preclinical phase
+T20	ResearchActivity 1162 1169	Results
+T21	OrganismAttribute 880 883	age
+T22	ResearchActivity 294 324	preclinical biomarker research
+T23	ResearchActivity 742 750	research
+T24	ResearchActivity 922 930	research
+T25	ResearchActivity 1152 1160	research
+T26	ResearchActivity 1328 1336	research
+T27	ResearchActivity 1701 1709	research
+T28	DiseaseOrSyndrome 33 35	AD
+T29	DiseaseOrSyndrome 285 287	AD
+T30	DiseaseOrSyndrome 729 731	AD
+T31	DiseaseOrSyndrome 919 921	AD
+T32	DiseaseOrSyndrome 1139 1141	AD
+T33	DiseaseOrSyndrome 1481 1483	AD
+T34	DiseaseOrSyndrome 1642 1644	AD
+T35	ClinicalAttribute 294 315	preclinical biomarker
+T36	ClinicalAttribute 732 741	biomarker
+T37	ClinicalAttribute 1011 1020	biomarker
+T38	ClinicalAttribute 1142 1151	biomarker
+T39	ClinicalAttribute 1295 1304	biomarker
+T40	ClinicalAttribute 1657 1666	biomarker
+T41	PopulationGroup 932 944	Participants
+T42	BiologicFunction 1447 1455	learning
+T43	PopulationGroup 427 438	individuals
+T44	PopulationGroup 612 623	individuals
+T45	ResearchActivity 470 474	data
+T46	BiologicFunction 1719 1730	development
+T47	CellFunction 1719 1730	development
+T48	HealthCareActivity 242 251	diagnosis
+T49	HealthCareActivity 546 555	diagnosis
+T50	PopulationGroup 364 380	African American
+T51	PopulationGroup 693 710	African Americans
+T52	PopulationGroup 829 846	African Americans
+T53	PopulationGroup 1819 1836	African Americans
+T54	DiseaseOrSyndrome 142 162	cognitive impairment
+T55	Finding 1421 1443	psychological outcomes
+T56	PopulationGroup 484 490	groups
+T57	HealthCareActivity 560 569	treatment
+T58	ResearchActivity 560 569	treatment
+T59	ResearchActivity 1043 1071	qualitative content analysis
+T60	Finding 1754 1764	engagement
+T61	BiologicFunction 1274 1280	desire
+T62	PopulationGroup 358 363	Black
+T63	ResearchActivity 1667 1689	research participation
+T64	ResearchActivity 164 172	Research
+T65	Finding 122 141	risk for developing
+T66	BiologicFunction 671 682	willingness
+T67	PopulationGroup 686 692	Blacks
+T68	PopulationGroup 822 828	Blacks
+T69	Finding 1231 1262	Themes motivating participation
+T70	Finding 1344 1377	themes discouraging participation
+T71	Finding 1501 1511	usefulness
+T72	Finding 1456 1483	one's increased risk for AD
+T73	Finding 1554 1568	physical harms
+T74	BiologicFunction 1593 1606	Understanding
+T75	PopulationGroup 1812 1818	Blacks

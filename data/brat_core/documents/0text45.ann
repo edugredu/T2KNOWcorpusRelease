@@ -1,0 +1,31 @@
+T0	DiseaseOrSyndrome 118 121	NDs
+T1	PathologicFunction 163 175	pathogenesis
+T2	PathologicFunction 177 197	pathological effects
+T3	DiseaseOrSyndrome 240 259	Alzheimer's Disease
+T4	DiseaseOrSyndrome 261 263	AD
+T5	DiseaseOrSyndrome 266 285	Parkinson's Disease
+T6	DiseaseOrSyndrome 287 289	PD
+T7	DiseaseOrSyndrome 322 351	Amyotrophic Lateral Sclerosis
+T8	DiseaseOrSyndrome 353 356	ALS
+T9	Cell 392 399	neurons
+T10	Cell 403 414	glial cells
+T11	AminoAcidPeptideOrProtein 586 604	protein aggregates
+T12	ResearchActivity 611 625	review article
+T13	Finding 657 666	knowledge
+T14	PathologicFunction 717 729	pathogenesis
+T15	DiseaseOrSyndrome 766 769	NDs
+T16	AminoAcidPeptideOrProtein 41 57	prionoid protein
+T17	CellOrMolecularDysfunction 573 604	pathological protein aggregates
+T18	BodyPartOrganOrOrganComponent 19 23	body
+T19	TemporalConcept 637 644	current
+T20	PathologicFunction 470 489	disease progression
+T21	PathologicFunction 734 753	disease progression
+T22	Finding 27 35	evidence
+T23	DiseaseOrSyndrome 314 316	HD
+T24	Eukaryote 136 142	humans
+T25	DiseaseOrSyndrome 292 312	Huntington's Disease
+T26	DiseaseOrSyndrome 90 116	neurodegenerative diseases
+T27	PathologicFunction 478 489	progression
+T28	PathologicFunction 742 753	progression
+T29	TemporalConcept 478 489	progression
+T30	TemporalConcept 742 753	progression

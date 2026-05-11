@@ -1,0 +1,63 @@
+T0	AminoAcidPeptideOrProtein 123 136	Inflammasomes
+T1	AminoAcidPeptideOrProtein 141 163	multiprotein complexes
+T2	CellFunction 279 289	Activation
+T3	BiologicallyActiveSubstance 293 306	inflammasomes
+T4	AminoAcidPeptideOrProtein 379 387	caspases
+T5	BiologicallyActiveSubstance 379 387	caspases
+T6	AminoAcidPeptideOrProtein 392 404	interleukins
+T7	BiologicallyActiveSubstance 392 404	interleukins
+T8	GeneOrGenome 406 411	NLRP3
+T9	AminoAcidPeptideOrProtein 406 411	NLRP3
+T10	MolecularSequence 439 458	leucine-rich-repeat
+T11	AminoAcidPeptideOrProtein 413 503	nucleotidebinding domain, leucine-rich-repeat containing family, pyrin domain-containing 3
+T12	CellComponent 525 545	inflammasome complex
+T13	CellFunction 555 565	activation
+T14	AminoAcidPeptideOrProtein 577 586	caspase-1
+T15	BiologicallyActiveSubstance 577 586	caspase-1
+T16	CellFunction 596 604	cleavage
+T17	CellComponent 596 604	cleavage
+T18	AminoAcidPeptideOrProtein 612 628	pro-interleukins
+T19	GeneOrGenome 629 638	IL-1 beta
+T20	AminoAcidPeptideOrProtein 643 647	IL18
+T21	GeneOrGenome 643 647	IL18
+T22	GeneOrGenome 689 700	gasdermin D
+T23	CellComponent 801 827	NLRP3 inflammasome complex
+T24	ResearchActivity 917 937	pre-clinical studies
+T25	CellComponent 993 1022	NLRP3 inflammasome activation
+T26	CellComponent 1067 1095	innate immune system complex
+T27	CellFunction 735 745	cell death
+T28	BiologicFunction 740 745	death
+T29	PathologicFunction 740 745	death
+T30	SignOrSymptom 101 121	psychiatric symptoms
+T31	CellFunction 740 745	death
+T32	AminoAcidPeptideOrProtein 629 638	IL-1 beta
+T33	BiologicallyActiveSubstance 629 638	IL-1 beta
+T34	PharmacologicSubstance 629 638	IL-1 beta
+T35	TemporalConcept 659 665	mature
+T36	Finding 764 785	Accumulating evidence
+T37	CellFunction 752 762	pyroptosis
+T38	CellFunction 324 344	inflammatory cascade
+T39	BodyPartOrganOrOrganComponent 1074 1087	immune system
+T40	HealthCareActivity 1117 1137	therapeutic strategy
+T41	ResearchActivity 234 242	patterns
+T42	SignOrSymptom 1155 1163	symptoms
+T43	PathologicFunction 320 336	pro-inflammatory
+T44	PathologicFunction 718 734	pro-inflammatory
+T45	Substance 368 377	molecules
+T46	CellFunction 255 277	innate immune pathways
+T47	Finding 777 785	evidence
+T48	Finding 863 871	evidence
+T49	Finding 981 989	evidence
+T50	DiseaseOrSyndrome 831 857	neurodegenerative diseases
+T51	DiseaseOrSyndrome 0 20	Huntington's disease
+T52	DiseaseOrSyndrome 22 24	HD
+T53	DiseaseOrSyndrome 875 877	HD
+T54	DiseaseOrSyndrome 1026 1028	HD
+T55	DiseaseOrSyndrome 36 61	neurodegenerative disease
+T56	ResearchActivity 944 950	review
+T57	HealthCareActivity 944 950	review
+T58	TemporalConcept 31 35	rare
+T59	BiologicallyActiveSubstance 406 411	NLRP3
+T60	AminoAcidPeptideOrProtein 293 306	inflammasomes
+T61	BiologicallyActiveSubstance 123 136	Inflammasomes
+T62	BiologicallyActiveSubstance 643 647	IL18

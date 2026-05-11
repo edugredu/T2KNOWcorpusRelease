@@ -1,0 +1,74 @@
+T0	DiseaseOrSyndrome 32 68	inherited neurodegenerative disorder
+T1	DiseaseOrSyndrome 149 188	progressive movement cognitive disorder
+T2	HealthCareActivity 210 217	therapy
+T3	BiologicFunction 290 311	etiological processes
+T4	BiologicFunction 443 460	immune activation
+T5	PathologicFunction 490 507	neuroinflammatory
+T6	BiologicallyActiveSubstance 567 583	natural products
+T7	Chemical 589 599	Elderberry
+T8	Chemical 601 603	EB
+T9	HealthCareActivity 650 671	therapeutic candidate
+T10	Chemical 721 723	EB
+T11	TemporalConcept 741 746	daily
+T12	TemporalConcept 779 785	months
+T13	CellFunction 826 845	oxidative responses
+T14	Chemical 868 889	3-nitropropionic acid
+T15	ResearchActivity 935 942	Rotarod
+T16	HealthCareActivity 947 970	electromyography setups
+T17	Chemical 987 989	EB
+T18	HealthCareActivity 987 994	EB diet
+T19	ResearchActivity 1122 1140	molecular findings
+T20	Chemical 1154 1156	EB
+T21	HealthCareActivity 1154 1161	EB diet
+T22	Finding 1171 1187	significant drop
+T23	BiologicFunction 1204 1210	growth
+T24	AminoAcidPeptideOrProtein 1214 1223	caspase-3
+T25	BiologicallyActiveSubstance 1214 1223	caspase-3
+T26	BiologicallyActiveSubstance 1228 1237	TNF-alpha
+T27	AminoAcidPeptideOrProtein 1228 1237	TNF-alpha
+T28	BiologicallyActiveSubstance 1343 1346	ROS
+T29	Chemical 1343 1346	ROS
+T30	AminoAcidPeptideOrProtein 1372 1375	GSH
+T31	BiologicallyActiveSubstance 1372 1375	GSH
+T32	BiologicFunction 1408 1422	motor recovery
+T33	ResearchActivity 1430 1435	tests
+T34	HealthCareActivity 1430 1435	tests
+T35	BiologicFunction 1567 1584	anti-inflammatory
+T36	PharmacologicSubstance 1567 1584	anti-inflammatory
+T37	CellFunction 1290 1303	antioxidative
+T38	TemporalConcept 387 394	current
+T39	Finding 395 403	evidence
+T40	DiseaseOrSyndrome 22 24	HD
+T41	DiseaseOrSyndrome 190 192	HD
+T42	DiseaseOrSyndrome 251 253	HD
+T43	DiseaseOrSyndrome 0 20	Huntington's disease
+T44	ExperimentalModelOfDisease 903 927	experimental model of HD
+T45	ExperimentalModelOfDisease 1508 1520	HD rat model
+T46	DiseaseOrSyndrome 532 559	neurodegenerative disorders
+T47	CellOrMolecularDysfunction 320 336	oxidative stress
+T48	Finding 1318 1339	significant reduction
+T49	BodyPartOrganOrOrganComponent 89 97	striatum
+T50	ResearchActivity 715 720	study
+T51	HealthCareActivity 680 689	treatment
+T52	HealthCareActivity 1257 1266	treatment
+T53	HealthCareActivity 1488 1500	EB treatment
+T54	ResearchActivity 680 689	treatment
+T55	ResearchActivity 1257 1266	treatment
+T56	BodyPartOrganOrOrganComponent 124 136	neural areas
+T57	InjuryOrPoisoning 465 478	neural damage
+T58	PharmacologicSubstance 589 599	Elderberry
+T59	PharmacologicSubstance 601 603	EB
+T60	PharmacologicSubstance 721 723	EB
+T61	Eukaryote 766 770	rats
+T62	Eukaryote 849 853	rats
+T63	PharmacologicSubstance 868 889	3-nitropropionic acid
+T64	PharmacologicSubstance 891 895	3-NP
+T65	Chemical 891 895	3-NP
+T66	PharmacologicSubstance 987 989	EB
+T67	PharmacologicSubstance 1154 1156	EB
+T68	PharmacologicSubstance 1191 1195	3-NP
+T69	Chemical 1191 1195	3-NP
+T70	PharmacologicSubstance 1372 1375	GSH
+T71	CellFunction 1548 1562	anti-oxidative
+T72	Finding 1353 1368	remarkable rise
+T73	PathologicFunction 809 821;836 845	inflammatory responses

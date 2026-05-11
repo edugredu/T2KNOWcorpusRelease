@@ -1,0 +1,136 @@
+T0	BodyPartOrganOrOrganComponent 42 57	cerebrovascular
+T1	Finding 75 82	leakage
+T2	PathologicFunction 112 123	Dysfunction
+T3	Finding 219 239	white matter lesions
+T4	Finding 241 244	WML
+T5	Finding 349 357	presence
+T6	BiomedicalOccupationOrDiscipline 547 558	pathologies
+T7	DiseaseOrSyndrome 642 669	cerebral amyloid angiopathy
+T8	DiseaseOrSyndrome 671 674	CAA
+T9	TemporalConcept 725 736	post-mortem
+T10	Finding 960 963	WML
+T11	PathologicFunction 1049 1058	sclerotic
+T12	DiseaseOrSyndrome 1855 1858	CAA
+T13	BiomedicalOccupationOrDiscipline 1935 1946	pathologies
+T14	Finding 1986 1994	presence
+T15	AminoAcidPeptideOrProtein 1998 2008	fibrinogen
+T16	BiologicallyActiveSubstance 1998 2008	fibrinogen
+T17	ResearchActivity 917 923	burden
+T18	ResearchActivity 1093 1099	burden
+T19	ResearchActivity 1187 1193	burden
+T20	ResearchActivity 1368 1374	burden
+T21	ResearchActivity 1450 1456	burden
+T22	ResearchActivity 1605 1611	burden
+T23	Finding 538 546	hallmark
+T24	Finding 1926 1934	hallmark
+T25	PathologicFunction 299 311	pathogenesis
+T26	ClinicalAttribute 399 418	potential biomarker
+T27	PathologicFunction 895 908	demyelination
+T28	BodyPartOrganOrOrganComponent 219 231	white matter
+T29	BodyPartOrganOrOrganComponent 483 495	white matter
+T30	BodyPartOrganOrOrganComponent 692 704	white matter
+T31	BodyPartOrganOrOrganComponent 849 861	white matter
+T32	BodyPartOrganOrOrganComponent 985 997	white matter
+T33	BodyPartOrganOrOrganComponent 1244 1256	white matter
+T34	ClinicalAttribute 999 1003	NAWM
+T35	ClinicalAttribute 1077 1081	NAWM
+T36	ClinicalAttribute 1352 1356	NAWM
+T37	ClinicalAttribute 1434 1438	NAWM
+T38	AminoAcidPeptideOrProtein 566 589	hyperphosphorylated tau
+T39	AminoAcidPeptideOrProtein 591 597	HP tau
+T40	AminoAcidPeptideOrProtein 833 839	HP tau
+T41	AminoAcidPeptideOrProtein 1197 1203	HP tau
+T42	DiseaseOrSyndrome 315 334	Alzheimer's disease
+T43	BodyPartOrganOrOrganComponent 365 371	plasma
+T44	AminoAcidPeptideOrProtein 603 615	amyloid-beta
+T45	BodyPartOrganOrOrganComponent 361 364	CSF
+T46	BodyPartOrganOrOrganComponent 2016 2019	CSF
+T47	PathologicFunction 1214 1223	pathology
+T48	PathologicFunction 2053 2062	pathology
+T49	BiomedicalOccupationOrDiscipline 1214 1223	pathology
+T50	BiomedicalOccupationOrDiscipline 2053 2062	pathology
+T51	BiologicallyActiveSubstance 566 589	hyperphosphorylated tau
+T52	BiologicallyActiveSubstance 591 597	HP tau
+T53	BiologicallyActiveSubstance 833 839	HP tau
+T54	BiologicallyActiveSubstance 1197 1203	HP tau
+T55	DiseaseOrSyndrome 336 338	AD
+T56	DiseaseOrSyndrome 422 424	AD
+T57	DiseaseOrSyndrome 535 537	AD
+T58	DiseaseOrSyndrome 769 771	AD
+T59	DiseaseOrSyndrome 1140 1142	AD
+T60	DiseaseOrSyndrome 1489 1491	AD
+T61	DiseaseOrSyndrome 1563 1565	AD
+T62	DiseaseOrSyndrome 1615 1617	AD
+T63	DiseaseOrSyndrome 1809 1811	AD
+T64	DiseaseOrSyndrome 1923 1925	AD
+T65	DiseaseOrSyndrome 2050 2052	AD
+T66	ClinicalAttribute 409 418	biomarker
+T67	Finding 968 984	normal appearing
+T68	BodyPartOrganOrOrganComponent 27 30	BBB
+T69	BodyPartOrganOrOrganComponent 131 134	BBB
+T70	BodyPartOrganOrOrganComponent 260 263	BBB
+T71	BodyPartOrganOrOrganComponent 1510 1513	BBB
+T72	BodyPartOrganOrOrganComponent 1651 1654	BBB
+T73	BodyPartOrganOrOrganComponent 1766 1769	BBB
+T74	BodyPartOrganOrOrganComponent 86 91	blood
+T75	PopulationGroup 779 800	non-demented controls
+T76	PopulationGroup 1147 1155	controls
+T77	PopulationGroup 1393 1401	controls
+T78	PopulationGroup 1729 1737	controls
+T79	BodyPartOrganOrOrganComponent 737 743	brains
+T80	BodyPartOrganOrOrganComponent 1566 1572	brains
+T81	BodyPartOrganOrOrganComponent 6 25	blood-brain barrier
+T82	BiologicFunction 520 531	development
+T83	CellFunction 520 531	development
+T84	ClinicalAttribute 869 877	severity
+T85	ClinicalAttribute 1010 1018	severity
+T86	ClinicalAttribute 1276 1284	severity
+T87	Finding 869 877	severity
+T88	Finding 1010 1018	severity
+T89	Finding 1276 1284	severity
+T90	PathologicFunction 264 275	dysfunction
+T91	PathologicFunction 1514 1525	dysfunction
+T92	PathologicFunction 1655 1666	dysfunction
+T93	PathologicFunction 1770 1781	dysfunction
+T94	AminoAcidPeptideOrProtein 372 380	proteins
+T95	InjuryOrPoisoning 232 239	lesions
+T96	BodyPartOrganOrOrganComponent 745 760	parietal tissue
+T97	Eukaryote 719 724	human
+T98	AminoAcidPeptideOrProtein 617 623	A beta
+T99	AminoAcidPeptideOrProtein 841 847	A beta
+T100	AminoAcidPeptideOrProtein 1207 1213	A beta
+T101	PatientOrDisabledGroup 1489 1497	AD cases
+T102	PatientOrDisabledGroup 1809 1817	AD cases
+T103	ClinicalAttribute 2029 2045	surrogate marker
+T104	DiseaseOrSyndrome 1550 1558	demented
+T105	DiseaseOrSyndrome 1720 1728	demented
+T106	BodyPartOrganOrOrganComponent 1629 1637	cortical
+T107	TemporalConcept 725 729	post
+T108	BiologicFunction 58 70	permeability
+T109	AminoAcidPeptideOrProtein 100 110	fibrinogen
+T110	BiologicallyActiveSubstance 100 110	fibrinogen
+T111	PharmacologicSubstance 100 110	fibrinogen
+T112	DiseaseOrSyndrome 160 208	cerebral arteriolosclerosis small vessel disease
+T113	DiseaseOrSyndrome 210 213	SVD
+T114	DiseaseOrSyndrome 637 640	SVD
+T115	ClinicalAttribute 451 475	extravascular fibrinogen
+T116	ClinicalAttribute 879 893	axonal density
+T117	ClinicalAttribute 927 951	extravascular fibrinogen
+T118	DiseaseOrSyndrome 1006 1009	SVD
+T119	Finding 1068 1071	WML
+T120	DiseaseOrSyndrome 1288 1291	SVD
+T121	DiseaseOrSyndrome 1430 1433	SVD
+T122	DiseaseOrSyndrome 1696 1699	SVD
+T123	DiseaseOrSyndrome 1761 1764	SVD
+T124	DiseaseOrSyndrome 1961 1964	SVD
+T125	AminoAcidPeptideOrProtein 1439 1449	fibrinogen
+T126	BiologicallyActiveSubstance 1439 1449	fibrinogen
+T127	PharmacologicSubstance 1439 1449	fibrinogen
+T128	ClinicalAttribute 1875 1899	extravascular fibrinogen
+T129	PharmacologicSubstance 1998 2008	fibrinogen
+T130	AminoAcidPeptideOrProtein 1357 1367	fibrinogen
+T131	PharmacologicSubstance 1357 1367	fibrinogen
+T132	BiologicallyActiveSubstance 1357 1367	fibrinogen
+T133	AminoAcidPeptideOrProtein 1082 1092	fibrinogen
+T134	PharmacologicSubstance 1082 1092	fibrinogen
+T135	BiologicallyActiveSubstance 1082 1092	fibrinogen

@@ -1,0 +1,5 @@
+T0	DiseaseOrSyndrome 120 146	neurodegenerative diseases
+T1	ResearchActivity 156 169	investigation
+T2	AminoAcidPeptideOrProtein 107 115	proteins
+T3	Organism 17 41	Saccharomyces cerevisiae
+T4	ResearchActivity 47 72	biotechnological platform

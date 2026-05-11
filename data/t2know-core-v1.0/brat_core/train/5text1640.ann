@@ -1,0 +1,12 @@
+T0	DiseaseOrSyndrome 243 254	Parkinson's
+T1	DiseaseOrSyndrome 106 132	neurodegenerative diseases
+T2	BodyPartOrganOrOrganComponent 52 57	brain
+T3	Cell 166 173	neurons
+T4	BiologicFunction 91 102	development
+T5	CellFunction 91 102	development
+T6	PathologicFunction 32 44	inflammation
+T7	DiseaseOrSyndrome 227 238	Alzheimer's
+T8	InjuryOrPoisoning 159 165	damage
+T9	PathologicFunction 134 154	Chronic inflammation
+T10	EnvironmentalEffectOfHumans 0 23	Environmental pollution
+T11	EnvironmentalEffectOfHumans 14 23	pollution

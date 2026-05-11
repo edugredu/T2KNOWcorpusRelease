@@ -1,0 +1,83 @@
+T0	HealthCareActivity 662 698	Alzheimer's disease Assessment Scale
+T1	BodyPartOrganOrOrganComponent 1383 1388	Lower
+T2	BiologicFunction 1613 1628	episodic memory
+T3	TemporalConcept 1636 1648	pre-clinical
+T4	BodyPartOrganOrOrganComponent 0 11	Hippocampal
+T5	TemporalConcept 1596 1601	Early
+T6	HealthCareActivity 653 657	MRIs
+T7	Finding 348 354	normal
+T8	ResearchActivity 515 558	Alzheimer's Disease Neuroimaging Initiative
+T9	HealthCareRelatedOrganization 515 558	Alzheimer's Disease Neuroimaging Initiative
+T10	TemporalConcept 201 207	stages
+T11	PathologicFunction 1731 1740	sensitive
+T12	TemporalConcept 1777 1791	disease course
+T13	DiseaseOrSyndrome 428 456	subjective cognitive decline
+T14	DiseaseOrSyndrome 906 934	subjective cognitive decline
+T15	DiseaseOrSyndrome 458 461	SCD
+T16	DiseaseOrSyndrome 936 939	SCD
+T17	DiseaseOrSyndrome 966 969	SCD
+T18	DiseaseOrSyndrome 1450 1453	SCD
+T19	DiseaseOrSyndrome 1469 1472	SCD
+T20	HealthCareActivity 835 868	Rey Auditory Verbal Learning Test
+T21	TemporalConcept 195 200	later
+T22	PopulationGroup 348 363	normal controls
+T23	Finding 760 766	scores
+T24	Finding 812 818	scores
+T25	DiseaseOrSyndrome 1076 1088	prodromal AD
+T26	DiseaseOrSyndrome 119 138	Alzheimer's disease
+T27	DiseaseOrSyndrome 140 142	AD
+T28	DiseaseOrSyndrome 374 376	AD
+T29	DiseaseOrSyndrome 495 497	AD
+T30	DiseaseOrSyndrome 623 625	AD
+T31	DiseaseOrSyndrome 1086 1088	AD
+T32	DiseaseOrSyndrome 1240 1242	AD
+T33	DiseaseOrSyndrome 1368 1370	AD
+T34	DiseaseOrSyndrome 1592 1594	AD
+T35	DiseaseOrSyndrome 1649 1651	AD
+T36	TemporalConcept 1744 1755	progressive
+T37	ResearchActivity 266 272	method
+T38	HealthCareActivity 266 272	method
+T39	PopulationGroup 377 389	participants
+T40	PopulationGroup 559 571	participants
+T41	DiseaseOrSyndrome 515 534	Alzheimer's Disease
+T42	ResearchActivity 225 230	study
+T43	DiseaseOrSyndrome 110 113	MCI
+T44	Finding 1395 1406	performance
+T45	DiseaseOrSyndrome 58 75	cognitive decline
+T46	OrganismAttribute 50 53	age
+T47	Finding 336 354	cognitively normal
+T48	TemporalConcept 464 469	early
+T49	TemporalConcept 1764 1769	early
+T50	BiologicFunction 410 419	cognition
+T51	BiologicFunction 1047 1056	cognition
+T52	BiologicFunction 1103 1112	cognition
+T53	BiologicFunction 1267 1276	cognition
+T54	BiologicFunction 1559 1568	cognition
+T55	HealthCareActivity 713 750	Clinical Dementia Rating-Sum of Boxes
+T56	ResearchActivity 777 785	analysis
+T57	DiseaseOrSyndrome 83 108	mild cognitive impairment
+T58	HealthCareActivity 752 758	CDR-SB
+T59	HealthCareActivity 1299 1305	CDR-SB
+T60	BodyPartOrganOrOrganComponent 321 332	hippocampus
+T61	BiologicFunction 805 811	memory
+T62	PopulationGroup 591 593	NC
+T63	PopulationGroup 1189 1191	NC
+T64	PopulationGroup 1572 1574	NC
+T65	Finding 12 19	changes
+T66	ClinicalAttribute 243 262	hippocampal grading
+T67	Finding 289 313	morphological similarity
+T68	HealthCareActivity 870 875	RAVLT
+T69	ClinicalAttribute 1024 1043	hippocampal grading
+T70	ResearchActivity 978 996	Linear regressions
+T71	TemporalConcept 1060 1071	preclinical
+T72	ClinicalAttribute 1168 1187	hippocampal grading
+T73	ClinicalAttribute 1326 1345	hippocampal grading
+T74	HealthCareActivity 1389 1394	RAVLT
+T75	ClinicalAttribute 1427 1446	hippocampal grading
+T76	ClinicalAttribute 1513 1532	hippocampal grading
+T77	Finding 1602 1609	changes
+T78	ClinicalAttribute 1683 1702	hippocampal grading
+T79	Finding 1756 1763	changes
+T80	ClinicalAttribute 1704 1723	Hippocampal grading
+T81	HealthCareActivity 1139 1146	ADAS-13
+T82	HealthCareActivity 700 707	ADAS-13

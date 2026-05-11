@@ -1,0 +1,5 @@
+T0	DiseaseOrSyndrome 108 135	neurodegenerative disorders
+T1	BodyPartOrganOrOrganComponent 69 74	brain
+T2	DiseaseOrSyndrome 144 163	Alzheimer's disease
+T3	AnatomicalAbnormality 0 15	Amyloid plaques
+T4	CellOrMolecularDysfunction 20 45	abnormal protein deposits

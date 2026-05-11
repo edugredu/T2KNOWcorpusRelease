@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 102 129	neurodegenerative disorders
+T1	PathologicFunction 71 88	neuroinflammatory
+T2	Virus 31 49	Epstein-Barr Virus
+T3	AminoAcidPeptideOrProtein 50 58	vaccines
+T4	BiologicallyActiveSubstance 50 58	vaccines
+T5	PharmacologicSubstance 50 58	vaccines

@@ -1,0 +1,7 @@
+T0	Cell 90 100	cell types
+T1	Cell 112 119	neurons
+T2	Cell 13 18	cells
+T3	Cell 121 125	glia
+T4	EmbryonicStructure 0 12	Neural crest
+T5	Cell 127 138	melanocytes
+T6	BodyPartOrganOrOrganComponent 170 191	craniofacial skeleton

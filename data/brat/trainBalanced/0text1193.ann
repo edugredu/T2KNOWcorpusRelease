@@ -1,0 +1,85 @@
+T0	PathologicFunction 592 612	inflammatory process
+T1	HealthCareActivity 1097 1101	MMSE
+T2	Finding 1166 1193	severe cognitive impairment
+T3	NucleicAcidNucleosideOrNucleotide 254 263	MicroRNAs
+T4	NucleicAcidNucleosideOrNucleotide 834 843	miR-21-5p
+T5	NucleicAcidNucleosideOrNucleotide 998 1007	miR-21-5p
+T6	BiologicallyActiveSubstance 834 843	miR-21-5p
+T7	BiologicallyActiveSubstance 998 1007	miR-21-5p
+T8	BiologicallyActiveSubstance 254 263	MicroRNAs
+T9	HealthCareActivity 1066 1095	Mini-Mental State Examination
+T10	Finding 143 151	invasive
+T11	Finding 1305 1313	invasive
+T12	ResearchActivity 541 554	investigation
+T13	Finding 476 490	increased risk
+T14	Finding 964 976	relationship
+T15	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T16	DiseaseOrSyndrome 21 23	AD
+T17	DiseaseOrSyndrome 384 386	AD
+T18	DiseaseOrSyndrome 494 496	AD
+T19	DiseaseOrSyndrome 760 762	AD
+T20	DiseaseOrSyndrome 906 908	AD
+T21	DiseaseOrSyndrome 1395 1397	AD
+T22	OrganismAttribute 792 799	healthy
+T23	PatientOrDisabledGroup 746 754	patients
+T24	PatientOrDisabledGroup 909 917	patients
+T25	BodyPartOrganOrOrganComponent 860 866	plasma
+T26	Finding 372 380	evidence
+T27	BiologicFunction 497 508	development
+T28	BiologicFunction 1340 1351	development
+T29	CellFunction 497 508	development
+T30	CellFunction 1340 1351	development
+T31	ClinicalAttribute 164 174	biomarkers
+T32	ClinicalAttribute 324 334	biomarkers
+T33	NucleicAcidNucleosideOrNucleotide 265 271	miRNAs
+T34	NucleicAcidNucleosideOrNucleotide 570 576	miRNAs
+T35	NucleicAcidNucleosideOrNucleotide 621 636	inflamma-miRNAs
+T36	NucleicAcidNucleosideOrNucleotide 1246 1273	circulating inflamma-miRNAs
+T37	BiologicallyActiveSubstance 265 271	miRNAs
+T38	BiologicallyActiveSubstance 570 576	miRNAs
+T39	BiologicallyActiveSubstance 621 636	inflamma-miRNAs
+T40	BiologicallyActiveSubstance 1246 1273	circulating inflamma-miRNAs
+T41	BodyPartOrganOrOrganComponent 722 736	plasma samples
+T42	PathologicFunction 241 252	progression
+T43	PathologicFunction 513 524	progression
+T44	PathologicFunction 1356 1367	progression
+T45	TemporalConcept 241 252	progression
+T46	TemporalConcept 513 524	progression
+T47	TemporalConcept 1356 1367	progression
+T48	HealthCareActivity 201 210	diagnosis
+T49	Finding 1295 1313	minimally invasive
+T50	PathologicFunction 429 445	pro-inflammatory
+T51	CellFunction 642 652	expression
+T52	ClinicalAttribute 152 174	circulating biomarkers
+T53	ClinicalAttribute 312 334	circulating biomarkers
+T54	OrganismAttribute 780 783	age
+T55	BodyPartOrganOrOrganComponent 289 295	tissue
+T56	PopulationGroup 86 96	population
+T57	PopulationGroup 108 114	people
+T58	Finding 1157 1161	mild
+T59	PopulationGroup 813 821	subjects
+T60	DiseaseOrSyndrome 1032 1052	cognitive impairment
+T61	DiseaseOrSyndrome 1173 1193	cognitive impairment
+T62	DiseaseOrSyndrome 1371 1391	cognitive impairment
+T63	HealthCareActivity 219 229	monitoring
+T64	DiseaseOrSyndrome 45 70	neurodegenerative disease
+T65	Finding 446 452	status
+T66	Finding 879 902	significantly increased
+T67	PathologicFunction 233 252	disease progression
+T68	Finding 1166 1172	severe
+T69	DiseaseOrSyndrome 346 366	age-related diseases
+T70	PopulationGroup 100 107	elderly
+T71	BiologicallyActiveSubstance 665 674	miR-17-5p
+T72	BiologicallyActiveSubstance 665 668;676 682	miR -21-5p
+T73	BiologicallyActiveSubstance 665 668;684 691	miR -126-3p
+T74	BiologicallyActiveSubstance 665 668;697 705	miR -146a-5p
+T75	BiologicallyActiveSubstance 849 859	miR-126-3p
+T76	NucleicAcidNucleosideOrNucleotide 849 859	miR-126-3p
+T77	BiologicallyActiveSubstance 1012 1022	miR-126-3p
+T78	NucleicAcidNucleosideOrNucleotide 1012 1022	miR-126-3p
+T79	NucleicAcidNucleosideOrNucleotide 1113 1123	miR-126-3p
+T80	BiologicallyActiveSubstance 1113 1123	miR-126-3p
+T81	NucleicAcidNucleosideOrNucleotide 656 668	inflamma-miR
+T82	BiologicallyActiveSubstance 656 668	inflamma-miR
+T83	BiologicallyActiveSubstance 823 832	MiR-17-5p
+T84	NucleicAcidNucleosideOrNucleotide 823 832	MiR-17-5p

@@ -1,0 +1,63 @@
+T0	ResearchActivity 50 68	proteomic profiles
+T1	BiologicallyActiveSubstance 945 953	Eotaxin3
+T2	AminoAcidPeptideOrProtein 976 994	C-reactive protein
+T3	BiologicallyActiveSubstance 976 994	C-reactive protein
+T4	AminoAcidPeptideOrProtein 996 1001	IL-18
+T5	BiologicallyActiveSubstance 996 1001	IL-18
+T6	GeneOrGenome 996 1001	IL-18
+T7	ClinicalAttribute 1003 1018	serum amyloid A
+T8	AminoAcidPeptideOrProtein 1025 1030	FABP3
+T9	GeneOrGenome 1025 1030	FABP3
+T10	BiologicallyActiveSubstance 1025 1030	FABP3
+T11	HealthCareRelatedOrganization 432 438	ABC-DS
+T12	OrganismAttribute 926 929	sex
+T13	BodyPartOrganOrOrganComponent 33 38	serum
+T14	BodyPartOrganOrOrganComponent 483 488	serum
+T15	BodyPartOrganOrOrganComponent 719 724	serum
+T16	ResearchActivity 670 677	cut-off
+T17	ResearchActivity 854 861	cut-off
+T18	DiseaseOrSyndrome 225 244	Alzheimer's disease
+T19	DiseaseOrSyndrome 249 251	AD
+T20	DiseaseOrSyndrome 364 366	AD
+T21	DiseaseOrSyndrome 703 705	AD
+T22	DiseaseOrSyndrome 1153 1155	AD
+T23	ResearchActivity 509 529	area under the curve
+T24	Finding 678 683	score
+T25	Finding 862 867	score
+T26	DiseaseOrSyndrome 213 216	MCI
+T27	DiseaseOrSyndrome 346 349	MCI
+T28	DiseaseOrSyndrome 463 466	MCI
+T29	DiseaseOrSyndrome 1139 1142	MCI
+T30	Finding 544 555	sensitivity
+T31	Finding 569 580	specificity
+T32	Finding 1126 1134	accuracy
+T33	BodyPartOrganOrOrganComponent 43 49	plasma
+T34	BodyPartOrganOrOrganComponent 639 645	plasma
+T35	BodyPartOrganOrOrganComponent 823 829	plasma
+T36	OrganismAttribute 918 921	age
+T37	DiseaseOrSyndrome 186 211	mild cognitive impairment
+T38	HealthCareActivity 1116 1125	detection
+T39	DiseaseOrSyndrome 101 114	Down syndrome
+T40	DiseaseOrSyndrome 116 118	DS
+T41	DiseaseOrSyndrome 217 219	DS
+T42	DiseaseOrSyndrome 246 248	DS
+T43	DiseaseOrSyndrome 350 352	DS
+T44	DiseaseOrSyndrome 361 363	DS
+T45	DiseaseOrSyndrome 467 469	DS
+T46	DiseaseOrSyndrome 700 702	DS
+T47	DiseaseOrSyndrome 1143 1145	DS
+T48	DiseaseOrSyndrome 1150 1152	DS
+T49	ResearchActivity 531 534	AUC
+T50	ResearchActivity 601 604	AUC
+T51	ResearchActivity 745 748	AUC
+T52	ResearchActivity 786 789	AUC
+T53	ResearchActivity 869 872	AUC
+T54	PopulationGroup 89 95	adults
+T55	ResearchActivity 147 155	profiles
+T56	ResearchActivity 1080 1098	Proteomic profiles
+T57	Finding 264 282	cognitively stable
+T58	HealthCareRelatedOrganization 384 430	Alzheimer's Biomarker Consortium-Down Syndrome
+T59	ResearchActivity 489 496	profile
+T60	BiologicallyActiveSubstance 955 974	interleukin (IL)-10
+T61	BiologicallyActiveSubstance 955 974	interleukin (IL)-10
+T62	AminoAcidPeptideOrProtein 945 953	Eotaxin3

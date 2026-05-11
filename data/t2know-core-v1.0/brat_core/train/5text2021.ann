@@ -1,0 +1,7 @@
+T0	PatientOrDisabledGroup 130 137	patient
+T1	DiseaseOrSyndrome 154 172	multiple sclerosis
+T2	Substance 72 82	suspension
+T3	HealthCareRelatedOrganization 0 24	Pharmaceutical companies
+T4	Finding 117 125	outcomes
+T5	HealthCareActivity 107 116	treatment
+T6	ResearchActivity 107 116	treatment

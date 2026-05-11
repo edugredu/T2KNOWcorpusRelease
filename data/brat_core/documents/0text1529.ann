@@ -1,0 +1,116 @@
+T0	ResearchActivity 790 809	Logistic regression
+T1	HealthCareActivity 2000 2023	preventative treatments
+T2	ClinicalAttribute 116 133	clinical features
+T3	CellComponent 313 320	exosome
+T4	ResearchActivity 783 788	ELISA
+T5	PathologicFunction 12 23	Progression
+T6	TemporalConcept 467 471	year
+T7	TemporalConcept 478 482	year
+T8	TemporalConcept 887 891	year
+T9	TemporalConcept 898 902	year
+T10	TemporalConcept 1355 1359	year
+T11	TemporalConcept 1366 1370	year
+T12	TemporalConcept 1400 1404	year
+T13	Finding 955 961	scores
+T14	Finding 1501 1507	scores
+T15	HealthCareActivity 634 642	diagnose
+T16	DiseaseOrSyndrome 62 81	Alzheimer's disease
+T17	DiseaseOrSyndrome 83 85	AD
+T18	DiseaseOrSyndrome 372 374	AD
+T19	DiseaseOrSyndrome 563 565	AD
+T20	DiseaseOrSyndrome 1023 1025	AD
+T21	DiseaseOrSyndrome 1119 1121	AD
+T22	DiseaseOrSyndrome 1180 1182	AD
+T23	DiseaseOrSyndrome 1338 1340	AD
+T24	DiseaseOrSyndrome 1476 1478	AD
+T25	DiseaseOrSyndrome 1568 1570	AD
+T26	DiseaseOrSyndrome 1693 1695	AD
+T27	DiseaseOrSyndrome 1842 1844	AD
+T28	DiseaseOrSyndrome 1969 1971	AD
+T29	PatientOrDisabledGroup 401 409	patients
+T30	PatientOrDisabledGroup 575 583	patients
+T31	PatientOrDisabledGroup 1642 1650	patients
+T32	Cell 296 304	neuronal
+T33	OrganismAttribute 539 546	healthy
+T34	OrganismAttribute 1047 1054	healthy
+T35	PopulationGroup 539 555	healthy controls
+T36	PopulationGroup 1047 1063	healthy controls
+T37	PopulationGroup 1097 1108	individuals
+T38	PopulationGroup 1158 1169	individuals
+T39	DiseaseOrSyndrome 32 52	cognitive impairment
+T40	DiseaseOrSyndrome 87 95	dementia
+T41	DiseaseOrSyndrome 375 383	dementia
+T42	DiseaseOrSyndrome 566 574	dementia
+T43	DiseaseOrSyndrome 1026 1034	dementia
+T44	DiseaseOrSyndrome 1122 1130	dementia
+T45	DiseaseOrSyndrome 1183 1191	dementia
+T46	DiseaseOrSyndrome 1341 1349	dementia
+T47	DiseaseOrSyndrome 1479 1487	dementia
+T48	DiseaseOrSyndrome 1571 1579	dementia
+T49	DiseaseOrSyndrome 1696 1704	dementia
+T50	DiseaseOrSyndrome 1845 1853	dementia
+T51	DiseaseOrSyndrome 1972 1980	dementia
+T52	ClinicalAttribute 155 165	biomarkers
+T53	ClinicalAttribute 1763 1773	biomarkers
+T54	ResearchActivity 216 221	study
+T55	DiseaseOrSyndrome 54 57	MCI
+T56	DiseaseOrSyndrome 397 400	MCI
+T57	DiseaseOrSyndrome 878 881	MCI
+T58	DiseaseOrSyndrome 1015 1018	MCI
+T59	DiseaseOrSyndrome 1093 1096	MCI
+T60	DiseaseOrSyndrome 1154 1157	MCI
+T61	DiseaseOrSyndrome 1331 1334	MCI
+T62	DiseaseOrSyndrome 1656 1659	MCI
+T63	DiseaseOrSyndrome 1835 1838	MCI
+T64	PathologicFunction 1950 1965	pathophysiology
+T65	BiomedicalOccupationOrDiscipline 1950 1965	pathophysiology
+T66	HealthCareActivity 451 461	assessment
+T67	ResearchActivity 451 461	assessment
+T68	BodyPartOrganOrOrganComponent 289 295	plasma
+T69	PathologicFunction 357 368	progression
+T70	TemporalConcept 357 368	progression
+T71	HealthCareActivity 441 461	cognitive assessment
+T72	ResearchActivity 913 920	Results
+T73	DiseaseOrSyndrome 857 874	cognitive decline
+T74	DiseaseOrSyndrome 2028 2045	cognitive decline
+T75	HealthCareActivity 483 492	follow-up
+T76	HealthCareActivity 1405 1414	follow-up
+T77	TemporalConcept 483 492	follow-up
+T78	TemporalConcept 1405 1414	follow-up
+T79	TemporalConcept 1140 1145	years
+T80	TemporalConcept 1201 1206	years
+T81	BiologicFunction 507 516	cognition
+T82	Finding 1299 1309	prediction
+T83	BiologicFunction 1932 1945	understanding
+T84	ResearchActivity 226 238	investigated
+T85	DiseaseOrSyndrome 27 52	mild cognitive impairment
+T86	Finding 1539 1553	increased risk
+T87	AminoAcidPeptideOrProtein 327 339	A beta(1-42)
+T88	AminoAcidPeptideOrProtein 736 748	A beta(1-42)
+T89	AminoAcidPeptideOrProtein 973 985	A beta(1-42)
+T90	AminoAcidPeptideOrProtein 1258 1264	A beta
+T91	AminoAcidPeptideOrProtein 1611 1617	A beta
+T92	AminoAcidPeptideOrProtein 1783 1789	A beta
+T93	Finding 27 31	mild
+T94	ResearchActivity 1073 1085	longitudinal
+T95	Finding 1317 1327	conversion
+T96	Finding 1462 1472	conversion
+T97	Finding 1821 1831	conversion
+T98	PopulationGroup 935 941	cohort
+T99	Finding 840 852	risk factors
+T100	Finding 1906 1927	critical implications
+T101	Finding 183 199	predictive power
+T102	BiologicFunction 266 284	olfactory function
+T103	ClinicalAttribute 289 320;327 339	plasma neuronal-derived exosome A beta(1-42)
+T104	BiologicFunction 667 685	Olfactory function
+T105	ManufacturedObject 709 723	sniffin sticks
+T106	HealthCareActivity 709 723	sniffin sticks
+T107	CellComponent 322 325	NDE
+T108	ClinicalAttribute 973 1000	A beta(1-42) levels in NDEs
+T109	BiologicallyActiveSubstance 973 985	A beta(1-42)
+T110	HealthCareActivity 1241 1253	SS-16 scores
+T111	ClinicalAttribute 1258 1284	A beta(1-42) level in NDEs
+T112	HealthCareActivity 1416 1428	SS-16 scores
+T113	ClinicalAttribute 1611 1638	A beta(1-42) levels in NDEs
+T114	HealthCareActivity 1801 1806	SS-16
+T115	ClinicalAttribute 736 763	A beta(1-42) levels in NDEs

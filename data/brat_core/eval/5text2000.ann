@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 119 146	neurodegenerative disorders
+T1	ResearchActivity 4 9	study
+T2	BodyPartOrganOrOrganComponent 30 35	brain
+T3	DiseaseOrSyndrome 85 99	prion diseases
+T4	Substance 36 45	specimens
+T5	AminoAcidPeptideOrProtein 13 26	prion protein

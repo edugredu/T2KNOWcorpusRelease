@@ -1,0 +1,10 @@
+T0	BodyPartOrganOrOrganComponent 94 99	brain
+T1	CellOrMolecularDysfunction 149 166	neurodegeneration
+T2	ResearchActivity 117 130	investigation
+T3	HealthCareActivity 100 106	health
+T4	PathologicFunction 57 67	pathogenic
+T5	Organism 68 82	microorganisms
+T6	Chemical 17 22	water
+T7	EnvironmentalEffectOfHumans 17 32	water pollution
+T8	ManufacturedObject 45 52	vehicle
+T9	Substance 45 52	vehicle

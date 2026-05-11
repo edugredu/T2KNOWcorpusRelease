@@ -1,0 +1,97 @@
+T0	AminoAcidPeptideOrProtein 194 206	gantenerumab
+T1	AminoAcidPeptideOrProtein 234 245	solanezumab
+T2	AminoAcidPeptideOrProtein 546 558	gantenerumab
+T3	AminoAcidPeptideOrProtein 563 574	solanezumab
+T4	AminoAcidPeptideOrProtein 638 650	gantenerumab
+T5	AminoAcidPeptideOrProtein 672 683	solanezumab
+T6	AminoAcidPeptideOrProtein 862 874	gantenerumab
+T7	Finding 1706 1710	high
+T8	Finding 1715 1722	maximal
+T9	PharmacologicSubstance 1733 1743	medication
+T10	HealthCareActivity 1733 1743	medication
+T11	DiseaseOrSyndrome 1261 1274	rare diseases
+T12	TemporalConcept 1261 1265	rare
+T13	TemporalConcept 1748 1757	prolonged
+T14	TemporalConcept 87 94	ongoing
+T15	TemporalConcept 442 448	annual
+T16	DiseaseOrSyndrome 22 52	Dominantly Inherited Alzheimer
+T17	HealthCareRelatedOrganization 22 60	Dominantly Inherited Alzheimer Network
+T18	HealthCareRelatedOrganization 74 78	DIAN
+T19	Finding 468 485	treatment effects
+T20	Finding 588 620	dose-dependent treatment effects
+T21	Finding 900 917	treatment effects
+T22	Finding 1400 1417	treatment effects
+T23	Finding 1469 1486	treatment effects
+T24	Finding 1626 1643	treatment effects
+T25	TemporalConcept 1758 1767	durations
+T26	BiologicFunction 796 802	uptake
+T27	CellFunction 796 802	uptake
+T28	AminoAcidPeptideOrProtein 712 719	amyloid
+T29	AminoAcidPeptideOrProtein 839 854	amyloid beta 42
+T30	AminoAcidPeptideOrProtein 1352 1359	amyloid
+T31	BiologicallyActiveSubstance 712 719	amyloid
+T32	BiologicallyActiveSubstance 839 854	amyloid beta 42
+T33	BiologicallyActiveSubstance 1352 1359	amyloid
+T34	ClinicalAttribute 514 523	biomarker
+T35	PopulationGroup 1189 1201	participants
+T36	BodyPartOrganOrOrganComponent 819 838	cerebrospinal fluid
+T37	Finding 524 532	outcomes
+T38	ClinicalAttribute 1002 1032	clinical or cognitive outcomes
+T39	ClinicalAttribute 1504 1531	clinical/cognitive outcomes
+T40	HealthCareActivity 732 782	Pittsburgh compound B positron emission tomography
+T41	ManufacturedObject 754 782	positron emission tomography
+T42	ClinicalAttribute 720 730	biomarkers
+T43	ClinicalAttribute 937 947	biomarkers
+T44	ClinicalAttribute 1440 1450	biomarkers
+T45	ResearchActivity 1579 1584	study
+T46	ResearchActivity 105 109	data
+T47	PopulationGroup 1659 1667	subjects
+T48	ResearchActivity 378 423	generalized linear mixed effects (LME) models
+T49	ResearchActivity 300 305	trial
+T50	ResearchActivity 1049 1054	trial
+T51	ResearchActivity 1222 1227	trial
+T52	TemporalConcept 1678 1683	stage
+T53	ClinicalAttribute 1678 1683	stage
+T54	TemporalConcept 1122 1129	initial
+T55	Finding 1673 1677	mild
+T56	SignOrSymptom 1647 1658	symptomatic
+T57	HealthCareActivity 347 356	treatment
+T58	HealthCareActivity 468 477	treatment
+T59	HealthCareActivity 603 612	treatment
+T60	HealthCareActivity 900 909	treatment
+T61	HealthCareActivity 967 976	treatment
+T62	HealthCareActivity 1318 1327	treatment
+T63	HealthCareActivity 1400 1409	treatment
+T64	HealthCareActivity 1469 1478	treatment
+T65	HealthCareActivity 1626 1635	treatment
+T66	ResearchActivity 347 356	treatment
+T67	ResearchActivity 468 477	treatment
+T68	ResearchActivity 603 612	treatment
+T69	ResearchActivity 900 909	treatment
+T70	ResearchActivity 967 976	treatment
+T71	ResearchActivity 1318 1327	treatment
+T72	ResearchActivity 1400 1409	treatment
+T73	ResearchActivity 1469 1478	treatment
+T74	ResearchActivity 1626 1635	treatment
+T75	Finding 952 984	dose-dependent treatment effects
+T76	Finding 1303 1334	dose-dependent treatment effect
+T77	Finding 1454 1486	dose-dependent treatment effects
+T78	ResearchActivity 22 72	Dominantly Inherited Alzheimer Network Trials Unit
+T79	ResearchActivity 74 81	DIAN-TU
+T80	Finding 332 363	dose-dependent treatment effect
+T81	BiologicallyActiveSubstance 194 206	gantenerumab
+T82	PharmacologicSubstance 194 206	gantenerumab
+T83	BiologicallyActiveSubstance 234 245	solanezumab
+T84	PharmacologicSubstance 234 245	solanezumab
+T85	PharmacologicSubstance 546 558	gantenerumab
+T86	BiologicallyActiveSubstance 546 558	gantenerumab
+T87	BiologicallyActiveSubstance 563 574	solanezumab
+T88	PharmacologicSubstance 563 574	solanezumab
+T89	PharmacologicSubstance 638 650	gantenerumab
+T90	BiologicallyActiveSubstance 638 650	gantenerumab
+T91	BiologicallyActiveSubstance 672 683	solanezumab
+T92	PharmacologicSubstance 672 683	solanezumab
+T93	BiologicallyActiveSubstance 862 874	gantenerumab
+T94	PharmacologicSubstance 862 874	gantenerumab
+T95	HealthCareActivity 1369 1384	immunotherapies
+T96	AminoAcidPeptideOrProtein 1385 1417	Dose-dependent treatment effects

@@ -1,0 +1,131 @@
+T0	BiologicFunction 28 46	cognitive function
+T1	BiologicFunction 107 114;133 140	genetic factors
+T2	GeneOrGenome 142 151	3a allele
+T3	PopulationGroup 152 160	carriers
+T4	DiseaseOrSyndrome 194 210	cortical atrophy
+T5	PathologicFunction 194 210	cortical atrophy
+T6	GeneOrGenome 336 348	Met66 allele
+T7	BiologicFunction 471 477	ageing
+T8	CellFunction 471 477	ageing
+T9	BiologicFunction 563 581	cognitive function
+T10	DiseaseOrSyndrome 563 581	cognitive function
+T11	IndividualBehavior 786 819	cognitively stimulating lifestyle
+T12	CellFunction 824 845	genetic polymorphisms
+T13	BiologicFunction 872 890	cognitive function
+T14	BiologicFunction 1028 1046	cognitive function
+T15	ResearchActivity 1142 1173	multi-centre longitudinal study
+T16	GeneOrGenome 1301 1305	FAN1
+T17	AminoAcidPeptideOrProtein 1307 1311	MSH3
+T18	GeneOrGenome 1307 1311	MSH3
+T19	AminoAcidPeptideOrProtein 1319 1323	COMT
+T20	GeneOrGenome 1319 1323	COMT
+T21	BiologicallyActiveSubstance 1319 1323	COMT
+T22	GeneOrGenome 1328 1332	MAPT
+T23	GeneOrGenome 1411 1420	3a allele
+T24	GeneOrGenome 1428 1437	MSH3 gene
+T25	BiologicFunction 1463 1488	global cognitive function
+T26	GeneOrGenome 1547 1556	3a allele
+T27	PopulationGroup 1557 1565	carriers
+T28	BiologicFunction 1751 1769	cognitive function
+T29	AminoAcidPeptideOrProtein 1788 1792	MSH3
+T30	GeneOrGenome 1788 1792	MSH3
+T31	BiologicFunction 1891 1909	cognitive function
+T32	BiologicFunction 2009 2028	verbal intelligence
+T33	BiomedicalOccupationOrDiscipline 2046 2056	occupation
+T34	Finding 2066 2089	intellectually engaging
+T35	BiologicFunction 2102 2120	cognitive function
+T36	DiseaseOrSyndrome 2199 2208	dementias
+T37	GeneOrGenome 2273 2282	BDNF gene
+T38	GeneOrGenome 2356 2368	Met66 allele
+T39	PopulationGroup 2369 2377	carriers
+T40	GeneOrGenome 2550 2562	Met66 allele
+T41	PopulationGroup 2563 2571	carriers
+T42	GeneOrGenome 2722 2731	3a allele
+T43	AminoAcidPeptideOrProtein 2735 2739	MSH3
+T44	GeneOrGenome 2735 2739	MSH3
+T45	BiologicFunction 2743 2761	cognitive function
+T46	BodyPartOrganOrOrganComponent 2806 2821	brain structure
+T47	PopulationGroup 1198 1211	gene carriers
+T48	CellFunction 683 701	autosomal dominant
+T49	Finding 743 753	identified
+T50	NaturalPhenomenonOrProcess 119 140	environmental factors
+T51	BodyPartOrganOrOrganComponent 1519 1527	cortical
+T52	Finding 944 956	relationship
+T53	Finding 2407 2419	relationship
+T54	AminoAcidPeptideOrProtein 352 385	brain-derived neurotrophic factor
+T55	BiologicallyActiveSubstance 352 385	brain-derived neurotrophic factor
+T56	AminoAcidPeptideOrProtein 1313 1317	BDNF
+T57	BiologicallyActiveSubstance 1313 1317	BDNF
+T58	BodyPartOrganOrOrganComponent 2471 2478	caudate
+T59	ClinicalAttribute 2471 2485	caudate volume
+T60	BodyPartOrganOrOrganComponent 1519 1535	cortical regions
+T61	DiseaseOrSyndrome 1051 1064	brain atrophy
+T62	DiseaseOrSyndrome 1369 1382	brain atrophy
+T63	DiseaseOrSyndrome 1493 1506	brain atrophy
+T64	TemporalConcept 1579 1583	rate
+T65	DiseaseOrSyndrome 702 710	dementia
+T66	ResearchActivity 1155 1173	longitudinal study
+T67	PopulationGroup 1911 1923	participants
+T68	ResearchActivity 1155 1167	longitudinal
+T69	DiseaseOrSyndrome 447 467	cognitive impairment
+T70	Finding 89 98	interplay
+T71	PathologicFunction 1609 1616	atrophy
+T72	DiseaseOrSyndrome 1609 1616	atrophy
+T73	DiseaseOrSyndrome 172 189	cognitive decline
+T74	DiseaseOrSyndrome 271 288	cognitive decline
+T75	DiseaseOrSyndrome 1347 1364	cognitive decline
+T76	DiseaseOrSyndrome 1587 1604	cognitive decline
+T77	BodyPartOrganOrOrganComponent 2461 2466	brain
+T78	BiologicFunction 417 428	development
+T79	CellFunction 417 428	development
+T80	HealthCareActivity 730 737	studies
+T81	Finding 2645 2653	evidence
+T82	ResearchActivity 730 737	studies
+T83	ResearchActivity 2157 2164	studies
+T84	HealthCareActivity 432 442	treatments
+T85	ResearchActivity 432 442	treatments
+T86	ResearchActivity 1120 1124	data
+T87	DiseaseOrSyndrome 482 508	neurodegenerative diseases
+T88	DiseaseOrSyndrome 50 70	Huntington's disease
+T89	DiseaseOrSyndrome 645 665	Huntington's disease
+T90	DiseaseOrSyndrome 1068 1088	Huntington's disease
+T91	DiseaseOrSyndrome 1177 1197	Huntington's disease
+T92	DiseaseOrSyndrome 2168 2188	Huntington's disease
+T93	DiseaseOrSyndrome 2765 2785	Huntington's disease
+T94	DiseaseOrSyndrome 1136 1138	HD
+T95	ResearchActivity 907 912	study
+T96	ResearchActivity 2619 2624	study
+T97	AnatomicalAbnormality 194 210	cortical atrophy
+T98	IndividualBehavior 225 253	high intellectual enrichment
+T99	Finding 524 559	genetic and environmental modifiers
+T100	IndividualBehavior 754 777	intellectual enrichment
+T101	Finding 849 868	potential modifiers
+T102	IndividualBehavior 1001 1024	intellectual enrichment
+T103	BiologicFunction 981 996	genetic factors
+T104	ResearchActivity 1130 1138	Track-HD
+T105	IndividualBehavior 1239 1262	intellectual enrichment
+T106	AminoAcidPeptideOrProtein 1301 1305	FAN1
+T107	BiologicallyActiveSubstance 1301 1305	FAN1
+T108	BiologicallyActiveSubstance 1307 1311	MSH3
+T109	GeneOrGenome 1313 1317	BDNF
+T110	BiologicallyActiveSubstance 1328 1332	MAPT
+T111	AminoAcidPeptideOrProtein 1328 1332	MAPT
+T112	PopulationGroup 1631 1643	non-carriers
+T113	CellOrMolecularDysfunction 1675 1694	somatic instability
+T114	Finding 1705 1722	genetic predictor
+T115	BiologicallyActiveSubstance 1788 1792	MSH3
+T116	IndividualBehavior 1812 1835	intellectual enrichment
+T117	IndividualBehavior 1837 1860	Intellectual enrichment
+T118	Finding 1872 1887	positive effect
+T119	IndividualBehavior 1936 1959	intellectual enrichment
+T120	IndividualBehavior 2229 2252	intellectual enrichment
+T121	Finding 2298 2313	positive effect
+T122	IndividualBehavior 2317 2340	intellectual enrichment
+T123	PopulationGroup 2383 2395	non-carriers
+T124	Finding 2491 2506	positive effect
+T125	IndividualBehavior 2510 2533	intellectual enrichment
+T126	PopulationGroup 2589 2601	non-carriers
+T127	Finding 2662 2677	beneficial role
+T128	IndividualBehavior 2681 2704	intellectual enrichment
+T129	BiologicallyActiveSubstance 2735 2739	MSH3
+T130	Finding 2796 2802	effect

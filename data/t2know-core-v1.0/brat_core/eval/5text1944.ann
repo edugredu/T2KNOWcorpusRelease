@@ -1,0 +1,10 @@
+T0	Organism 82 86	host
+T1	DiseaseOrSyndrome 150 188	age-related neurodegenerative diseases
+T2	Organism 53 67	gut microbiota
+T3	Bacterium 87 95	bacteria
+T4	ResearchActivity 0 7	Studies
+T5	Finding 96 108	interactions
+T6	NaturalPhenomenonOrProcess 82 108	host-bacteria interactions
+T7	BiologicFunction 24 29	aging
+T8	CellFunction 24 29	aging
+T9	Finding 38 45	changes

@@ -1,0 +1,5 @@
+T0	PathologicFunction 61 74	complications
+T1	BiologicFunction 113 118	sleep
+T2	AnatomicalAbnormality 15 37	brain stem compression
+T3	DiseaseOrSyndrome 101 124	obstructive sleep apnea
+T4	DiseaseOrSyndrome 84 97	hydrocephalus

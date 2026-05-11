@@ -1,0 +1,102 @@
+T0	BodyPartOrganOrOrganComponent 70 81	parenchymal
+T1	InjuryOrPoisoning 198 210	brain injury
+T2	CellFunction 491 500	metabolic
+T3	HealthCareActivity 519 525	demand
+T4	CellFunction 890 899	metabolic
+T5	HealthCareActivity 900 906	demand
+T6	CellFunction 1221 1230	metabolic
+T7	BiologicFunction 1387 1398	respiration
+T8	CellFunction 1387 1398	respiration
+T9	BiologicFunction 315 334	learning and memory
+T10	CellFunction 447 470	transcriptional network
+T11	CellFunction 1201 1216	transcriptional
+T12	BiologicFunction 315 323	learning
+T13	Cell 162 178	oligodendrocytes
+T14	Cell 33 37	OPCs
+T15	Cell 118 122	OPCs
+T16	Cell 359 362	OPC
+T17	Cell 556 559	OPC
+T18	Cell 600 603	OPC
+T19	Cell 859 862	OPC
+T20	Cell 1041 1044	OPC
+T21	Cell 1252 1255	OPC
+T22	Cell 1487 1490	OPC
+T23	Cell 1591 1594	OPC
+T24	Cell 1632 1635	OPC
+T25	DiseaseOrSyndrome 685 703	multiple sclerosis
+T26	CellFunction 363 378	differentiation
+T27	CellFunction 604 619	differentiation
+T28	CellFunction 1045 1060	differentiation
+T29	CellFunction 1256 1271	differentiation
+T30	CellFunction 1491 1506	differentiation
+T31	CellFunction 359 378	OPC differentiation
+T32	CellFunction 600 619	OPC differentiation
+T33	CellFunction 1041 1060	OPC differentiation
+T34	CellFunction 1252 1271	OPC differentiation
+T35	CellFunction 1487 1506	OPC differentiation
+T36	Cell 16 31	precursor cells
+T37	CellComponent 505 518	mitochondrial
+T38	CellComponent 1358 1371	mitochondrial
+T39	Cell 384 419	mature myelinating oligodendrocytes
+T40	NaturalPhenomenonOrProcess 863 873	plasticity
+T41	CellFunction 863 873	plasticity
+T42	Substance 289 296	plastic
+T43	Cell 0 31	Oligodendrocyte precursor cells
+T44	Cell 0 15	Oligodendrocyte
+T45	Cell 105 110	glial
+T46	PopulationGroup 61 69	resident
+T47	CellOrMolecularDysfunction 154 178	loss of oligodendrocytes
+T48	DiseaseOrSyndrome 705 724	Alzheimer's disease
+T49	BodyPartOrganOrOrganComponent 82 104	central nervous system
+T50	DiseaseOrSyndrome 729 748	Parkinson's disease
+T51	Finding 536 544	evidence
+T52	ResearchActivity 1101 1109	research
+T53	PathologicFunction 634 645	progression
+T54	TemporalConcept 634 645	progression
+T55	Cell 105 116	glial cells
+T56	PathologicFunction 214 226	inflammation
+T57	ResearchActivity 1124 1130	review
+T58	HealthCareActivity 1124 1130	review
+T59	HealthCareActivity 1645 1654	treatment
+T60	ResearchActivity 1645 1654	treatment
+T61	PharmacologicSubstance 921 932	antioxidant
+T62	CellFunction 921 932	antioxidant
+T63	Finding 933 941	capacity
+T64	TemporalConcept 1093 1100	current
+T65	CellFunction 1410 1420	metabolism
+T66	BiologicFunction 1410 1420	metabolism
+T67	CellOrMolecularDysfunction 763 780	neurodegeneration
+T68	ResearchActivity 1655 1665	strategies
+T69	BiologicFunction 1655 1665	strategies
+T70	Finding 486 490	high
+T71	Finding 885 889	high
+T72	Cell 1319 1327	cellular
+T73	BiomedicalOccupationOrDiscipline 1309 1317	genetics
+T74	CellFunction 1309 1317	genetics
+T75	TemporalConcept 1625 1631	future
+T76	Cell 1288 1303	oligodendrocyte
+T77	Chemical 1404 1409	lipid
+T78	BiologicFunction 1372 1382	signalling
+T79	CellFunction 250 263	remyelination
+T80	CellFunction 336 356	adaptive myelination
+T81	PathologicFunction 235 248	demyelination
+T82	BiologicFunction 328 334	memory
+T83	PathologicFunction 560 571	dysfunction
+T84	DiseaseOrSyndrome 649 676	neurodegenerative disorders
+T85	DiseaseOrSyndrome 1510 1537	neurodegenerative disorders
+T86	DiseaseOrSyndrome 1669 1696	neurodegenerative disorders
+T87	Cell 963 972	cell type
+T88	CellFunction 1404 1420	lipid metabolism
+T89	BiologicFunction 1404 1420	lipid metabolism
+T90	HealthCareActivity 1645 1665	treatment strategies
+T91	ResearchActivity 1645 1665	treatment strategies
+T92	BiologicFunction 1340 1346	repair
+T93	HealthCareActivity 1340 1346	repair
+T94	CellOrMolecularDysfunction 556 571	OPC dysfunction
+T95	CellOrMolecularDysfunction 815 830	carbonyl stress
+T96	CellOrMolecularDysfunction 801 810;824 830	oxidative stress
+T97	CellOrMolecularDysfunction 1007 1032	oxidative/carbonyl stress
+T98	CellOrMolecularDysfunction 1151 1176	oxidative/carbonyl stress
+T99	Finding 1231 1238	changes
+T100	CellOrMolecularDysfunction 1450 1475	oxidative/carbonyl stress
+T101	CellOrMolecularDysfunction 1557 1582	oxidative/carbonyl stress

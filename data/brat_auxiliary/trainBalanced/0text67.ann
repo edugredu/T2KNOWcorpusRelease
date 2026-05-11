@@ -1,0 +1,70 @@
+T0	OrganismAttribute 164 173	structure
+T1	PathologicFunction 178 189	disruptions
+T2	PopulationGroup 493 501	carriers
+T3	HealthCareActivity 607 644	resting-state functional connectivity
+T4	CellOrMolecularDysfunction 811 824	gene mutation
+T5	PopulationGroup 825 833	carriers
+T6	BodyPartOrganOrOrganComponent 1153 1177	medial prefrontal cortex
+T7	ResearchActivity 1192 1202	correlated
+T8	BodyPartOrganOrOrganComponent 1359 1366;1385 1393	insular cortices
+T9	ResearchActivity 1403 1413	correlated
+T10	PopulationGroup 1652 1660	carriers
+T11	PathologicFunction 1754 1764	disruption
+T12	Finding 1528 1547	network variability
+T13	TemporalConcept 1963 1981	premanifest stages
+T14	Finding 1317 1326	decreased
+T15	Finding 1552 1561	decreased
+T16	ResearchActivity 1243 1257	disease burden
+T17	ResearchActivity 1454 1468	disease burden
+T18	ResearchActivity 1856 1870	disease burden
+T19	ResearchActivity 789 796	Results
+T20	PopulationGroup 589 601	participants
+T21	BiologicFunction 621 644	functional connectivity
+T22	BiologicFunction 688 711	functional connectivity
+T23	BiologicFunction 1327 1350	functional connectivity
+T24	SignOrSymptom 352 363	symptomatic
+T25	SignOrSymptom 451 462	symptomatic
+T26	SignOrSymptom 952 963	symptomatic
+T27	CellOrMolecularDysfunction 484 492	mutation
+T28	CellOrMolecularDysfunction 1643 1651	mutation
+T29	BodyPartOrganOrOrganComponent 205 210	brain
+T30	BodyPartOrganOrOrganComponent 737 742	brain
+T31	BodyPartOrganOrOrganComponent 768 773	brain
+T32	ResearchActivity 544 565	sociodemographic data
+T33	ResearchActivity 645 649	data
+T34	PopulationGroup 513 529	healthy controls
+T35	PopulationGroup 841 857	healthy controls
+T36	PopulationGroup 1000 1016	healthy controls
+T37	TemporalConcept 662 666	time
+T38	PatientOrDisabledGroup 364 372	patients
+T39	PatientOrDisabledGroup 876 884	patients
+T40	PatientOrDisabledGroup 1018 1026	patients
+T41	DiseaseOrSyndrome 11 31	Huntington's disease
+T42	DiseaseOrSyndrome 378 398	Huntington's disease
+T43	DiseaseOrSyndrome 463 483	Huntington's disease
+T44	DiseaseOrSyndrome 890 910	Huntington's disease
+T45	DiseaseOrSyndrome 964 984	Huntington's disease
+T46	DiseaseOrSyndrome 1032 1052	Huntington's disease
+T47	DiseaseOrSyndrome 1703 1723	Huntington's disease
+T48	DiseaseOrSyndrome 37 63	neurodegenerative disorder
+T49	BodyPartOrganOrOrganComponent 211 229	cognitive networks
+T50	Finding 81 101	clinical alterations
+T51	BiologicFunction 109 114;142 149	motor domains
+T52	BiologicFunction 116 126;142 149	behavioral domains
+T53	BiologicFunction 132 149	cognitive domains
+T54	Finding 291 298	changes
+T55	BiologicFunction 302 332	large-scale cognitive networks
+T56	ResearchActivity 531 539;561 565	Clinical data
+T57	PatientOrDisabledGroup 435 446;463 483	premanifest Huntington's disease
+T58	PatientOrDisabledGroup 930 941	premanifest
+T59	BiologicFunction 1070 1090	network connectivity
+T60	BodyPartOrganOrOrganComponent 1124 1144	default-mode network
+T61	Finding 1258 1264	scores
+T62	Finding 1179 1186	changes
+T63	BodyPartOrganOrOrganComponent 1293 1309	salience network
+T64	BodyPartOrganOrOrganComponent 1371 1393	supramarginal cortices
+T65	ResearchActivity 1499 1515	Dynamic analyses
+T66	BodyPartOrganOrOrganComponent 1566 1600	default-central executive networks
+T67	BodyPartOrganOrOrganComponent 1768 1798	large-scale cognitive networks
+T68	ResearchActivity 1889 1916	dynamic functional analyses
+T69	Finding 1935 1950	network changes

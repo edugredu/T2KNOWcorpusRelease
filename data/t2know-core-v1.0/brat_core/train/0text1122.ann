@@ -1,0 +1,91 @@
+T0	Cell 123 139	microglial cells
+T1	Cell 283 291	hAD-MSCs
+T2	Cell 438 446	hAD-MSCs
+T3	AminoAcidPeptideOrProtein 541 555	growth factors
+T4	CellFunction 650 668	cell communication
+T5	Cell 826 834	hAD-MSCs
+T6	Cell 989 997	hAD-MSCs
+T7	Chemical 1144 1163	lipopolysaccharides
+T8	Chemical 1165 1168	LPS
+T9	CellFunction 1171 1183	Upregulation
+T10	AminoAcidPeptideOrProtein 1187 1218	inducible nitric oxide synthase
+T11	ResearchActivity 1292 1302	cocultured
+T12	Cell 1308 1316	hAD-MSCs
+T13	Cell 1336 1344	hAD-MSCs
+T14	BiologicFunction 1359 1368	secretion
+T15	CellFunction 1359 1368	secretion
+T16	AminoAcidPeptideOrProtein 1405 1409	IL-6
+T17	BiologicallyActiveSubstance 1405 1409	IL-6
+T18	GeneOrGenome 1405 1409	IL-6
+T19	AminoAcidPeptideOrProtein 1421 1426	MCP-1
+T20	PharmacologicSubstance 1480 1507	anti-inflammatory mediators
+T21	AminoAcidPeptideOrProtein 1516 1521	IL-10
+T22	BiologicallyActiveSubstance 1516 1521	IL-10
+T23	GeneOrGenome 1516 1521	IL-10
+T24	AminoAcidPeptideOrProtein 1525 1531	TIMP-1
+T25	Cell 1602 1610	hAD-MSCs
+T26	Cell 771 786	recipient cells
+T27	HealthCareActivity 312 333	therapeutic candidate
+T28	OrganismAttribute 152 162	phenotypic
+T29	ClinicalAttribute 359 386	immunomodulatory properties
+T30	AminoAcidPeptideOrProtein 1220 1224	iNOS
+T31	BiologicallyActiveSubstance 1220 1224	iNOS
+T32	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T33	NucleicAcidNucleosideOrNucleotide 735 740	miRNA
+T34	BiologicallyActiveSubstance 735 740	miRNA
+T35	DiseaseOrSyndrome 28 31	NDs
+T36	DiseaseOrSyndrome 343 346	NDs
+T37	DiseaseOrSyndrome 1692 1695	NDs
+T38	AminoAcidPeptideOrProtein 694 702	proteins
+T39	CellComponent 567 589	extracellular vesicles
+T40	DiseaseOrSyndrome 42 61	Alzheimer's disease
+T41	CellComponent 591 594	EVs
+T42	CellComponent 607 610	EVs
+T43	CellComponent 854 857	EVs
+T44	CellComponent 1059 1062	EVs
+T45	CellComponent 1321 1324	EVs
+T46	CellComponent 1449 1452	EVs
+T47	CellComponent 1630 1633	EVs
+T48	DiseaseOrSyndrome 63 65	AD
+T49	Cell 183 188	cells
+T50	Cell 1034 1039	cells
+T51	Cell 1108 1113	cells
+T52	Cell 1251 1261	HMC3 cells
+T53	ClinicalAttribute 1241 1247	marker
+T54	Chemical 704 710	lipids
+T55	ResearchActivity 1568 1572	data
+T56	Eukaryote 904 909	human
+T57	Eukaryote 1091 1096	human
+T58	Cell 1097 1107	microglial
+T59	Cell 910 919	microglia
+T60	Cell 1545 1554	microglia
+T61	PathologicFunction 1372 1387	proinflammatory
+T62	NucleicAcidNucleosideOrNucleotide 742 746	mRNA
+T63	HealthCareActivity 1679 1688	treatment
+T64	ResearchActivity 1679 1688	treatment
+T65	ResearchActivity 929 934	study
+T66	PathologicFunction 82 99	neuroinflammation
+T67	Finding 637 646	mediators
+T68	Cell 259 281	mesenchymal stem cells
+T69	Cell 230 281	Human adipose tissue-derived mesenchymal stem cells
+T70	HealthCareActivity 801 822	therapeutic potential
+T71	HealthCareActivity 954 975	therapeutic potential
+T72	NucleicAcidNucleosideOrNucleotide 716 727	RNA species
+T73	TemporalConcept 597 605	Recently
+T74	AminoAcidPeptideOrProtein 526 536	chemokines
+T75	AminoAcidPeptideOrProtein 515 524	cytokines
+T76	AminoAcidPeptideOrProtein 1411 1415	IL-8
+T77	BiologicallyActiveSubstance 1411 1415	IL-8
+T78	Finding 205 228	target for intervention
+T79	BiologicallyActiveSubstance 464 473	secretome
+T80	BiologicallyActiveSubstance 515 524	cytokines
+T81	BiologicallyActiveSubstance 526 536	chemokines
+T82	BiologicallyActiveSubstance 541 555	growth factors
+T83	NucleicAcidNucleosideOrNucleotide 752 757	tRNAs
+T84	BiologicallyActiveSubstance 752 757	tRNAs
+T85	Cell 1115 1119	HMC3
+T86	BiologicallyActiveSubstance 1187 1218	inducible nitric oxide synthase
+T87	BiologicallyActiveSubstance 1421 1426	MCP-1
+T88	CellFunction 1466 1476	expression
+T89	BiologicallyActiveSubstance 1525 1531	TIMP-1
+T90	Finding 1638 1670	potential therapeutic candidates

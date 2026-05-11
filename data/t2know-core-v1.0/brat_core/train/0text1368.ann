@@ -1,0 +1,55 @@
+T0	Finding 291 302	coordinated
+T1	NucleicAcidNucleosideOrNucleotide 425 428	ATP
+T2	BiologicallyActiveSubstance 425 428	ATP
+T3	PharmacologicSubstance 425 428	ATP
+T4	CellFunction 526 552	transcriptional regulators
+T5	CellFunction 775 789	myelinogenesis
+T6	CellFunction 892 918	transcriptional regulators
+T7	AminoAcidPeptideOrProtein 935 963	chromatin remodeling factors
+T8	TemporalConcept 657 663	latest
+T9	CellFunction 318 333	transcriptional
+T10	BiologicallyActiveSubstance 381 409	chromatin remodeling enzymes
+T11	Cell 0 16	Oligodendrocytes
+T12	CellFunction 746 773	oligodendrocyte development
+T13	BiologicFunction 1057 1070	developmental
+T14	TemporalConcept 1057 1070	developmental
+T15	CellFunction 265 280	differentiation
+T16	BiologicFunction 348 358	remodeling
+T17	BiologicFunction 611 623	regeneration
+T18	BiologicFunction 795 807	regeneration
+T19	CellComponent 90 104	myelin sheaths
+T20	CellComponent 338 347	chromatin
+T21	CellComponent 460 469	chromatin
+T22	CellComponent 513 522	chromatin
+T23	NaturalPhenomenonOrProcess 435 441	energy
+T24	Cell 571 594	oligodendrocyte lineage
+T25	GeneOrGenome 980 998	genomic landscapes
+T26	HealthCareActivity 611 623	regeneration
+T27	HealthCareActivity 795 807	regeneration
+T28	CellFunction 140 157	action potentials
+T29	BodyPartOrganOrOrganComponent 58 80	central nervous system
+T30	BiologicFunction 595 606	development
+T31	CellFunction 595 606	development
+T32	PathologicFunction 221 232	progression
+T33	TemporalConcept 221 232	progression
+T34	Cell 22 39	myelinating cells
+T35	Finding 703 714	specificity
+T36	ResearchActivity 633 639	review
+T37	HealthCareActivity 633 639	review
+T38	Cell 174 189	oligodendrocyte
+T39	InjuryOrPoisoning 1106 1112	injury
+T40	CellFunction 1087 1100	remyelination
+T41	CellFunction 190 201	myelination
+T42	CellFunction 1071 1082	myelination
+T43	NaturalPhenomenonOrProcess 470 478	dynamics
+T44	Eukaryote 47 57	vertebrate
+T45	CellFunction 115 136	saltatory propagation
+T46	CellFunction 238 261	precursor specification
+T47	NucleicAcidNucleosideOrNucleotide 367 370	ATP
+T48	PharmacologicSubstance 367 370	ATP
+T49	BiologicallyActiveSubstance 367 370	ATP
+T50	Finding 442 448	source
+T51	BiologicallyActiveSubstance 935 963	chromatin remodeling factors
+T52	CellFunction 367 401	ATP-dependent chromatin remodeling
+T53	BiologicallyActiveSubstance 718 738	chromatin remodelers
+T54	AminoAcidPeptideOrProtein 718 738	chromatin remodelers

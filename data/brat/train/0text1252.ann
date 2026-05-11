@@ -1,0 +1,117 @@
+T0	DiseaseOrSyndrome 54 78	neuroaxonal degeneration
+T1	Chemical 80 95	4-aminopyridine
+T2	Chemical 97 101	4-AP
+T3	AminoAcidPeptideOrProtein 264 296	voltage gated potassium channels
+T4	Chemical 432 436	4-AP
+T5	HealthCareActivity 492 528	optical coherence tomography imaging
+T6	BiologicFunction 530 545	visual function
+T7	Chemical 639 643	4-AP
+T8	PathologicFunction 689 706	optic nerve crush
+T9	Cell 800 822	retinal ganglion cells
+T10	Chemical 877 881	4-AP
+T11	HealthCareActivity 882 895	stabilization
+T12	CellFunction 882 895	stabilization
+T13	AminoAcidPeptideOrProtein 997 1032	nuclear factor of activated T cells
+T14	BiologicallyActiveSubstance 997 1032	nuclear factor of activated T cells
+T15	Chemical 1066 1070	4-AP
+T16	Chemical 1162 1166	4-AP
+T17	ResearchActivity 1248 1261	retrospective
+T18	Chemical 1396 1400	4-AP
+T19	Chemical 1488 1492	4-AP
+T20	Chemical 1634 1638	4-AP
+T21	ResearchActivity 1706 1732	prospective clinical study
+T22	BiologicFunction 1739 1754	visual function
+T23	Finding 1780 1787	outcome
+T24	ResearchActivity 1694 1700	design
+T25	HealthCareActivity 1694 1700	design
+T26	ResearchActivity 855 866	experiments
+T27	HealthCareActivity 129 150	symptomatic treatment
+T28	HealthCareActivity 546 553	testing
+T29	TemporalConcept 1385 1395	continuous
+T30	DiseaseOrSyndrome 670 684	optic neuritis
+T31	BiomedicalOccupationOrDiscipline 832 841	histology
+T32	ResearchActivity 832 841	histology
+T33	TemporalConcept 1477 1487	concurrent
+T34	BodyPartOrganOrOrganComponent 689 700	optic nerve
+T35	HealthCareActivity 492 520	optical coherence tomography
+T36	HealthCareActivity 1275 1303	optical coherence tomography
+T37	BodyPartOrganOrOrganComponent 1522 1555	macular retinal nerve fibre layer
+T38	BodyPartOrganOrOrganComponent 608 615	retinal
+T39	BodyPartOrganOrOrganComponent 800 807	retinal
+T40	BodyPartOrganOrOrganComponent 1336 1343	retinal
+T41	BodyPartOrganOrOrganComponent 1759 1766	retinal
+T42	CellComponent 343 348	axons
+T43	Cell 910 941	oligodendrocyte precursor cells
+T44	DiseaseOrSyndrome 22 40	multiple sclerosis
+T45	DiseaseOrSyndrome 190 208	multiple sclerosis
+T46	DiseaseOrSyndrome 1203 1221	multiple sclerosis
+T47	BodyPartOrganOrOrganComponent 899 905	myelin
+T48	PathologicFunction 330 342	demyelinated
+T49	CellFunction 968 989	nuclear translocation
+T50	CellComponent 257 263	axonal
+T51	NaturalPhenomenonOrProcess 316 326	conduction
+T52	PharmacologicSubstance 245 253	blockade
+T53	HealthCareActivity 245 253	blockade
+T54	Cell 926 941	precursor cells
+T55	Cell 910 935	oligodendrocyte precursor
+T56	HealthCareActivity 521 528	imaging
+T57	PathologicFunction 66 78	degeneration
+T58	PathologicFunction 1502 1514	degeneration
+T59	PathologicFunction 750 762	inflammatory
+T60	BiologicFunction 316 326	conduction
+T61	Chemical 1130 1140	fingolimod
+T62	PharmacologicSubstance 1130 1140	fingolimod
+T63	BiologicallyActiveSubstance 1130 1140	fingolimod
+T64	PatientOrDisabledGroup 1373 1381	patients
+T65	ResearchActivity 358 363	study
+T66	ResearchActivity 1304 1309	study
+T67	BodyPartOrganOrOrganComponent 473 476	CNS
+T68	PopulationGroup 1424 1432	controls
+T69	Finding 376 384	evidence
+T70	ResearchActivity 647 653	models
+T71	HealthCareActivity 141 150	treatment
+T72	HealthCareActivity 1115 1124	treatment
+T73	HealthCareActivity 1191 1202;1222 1231	symptomatic treatment
+T74	ResearchActivity 141 150	treatment
+T75	ResearchActivity 1115 1124	treatment
+T76	TemporalConcept 1575 1580	years
+T77	ResearchActivity 846 854	in vitro
+T78	CellOrMolecularDysfunction 616 633	neurodegeneration
+T79	CellOrMolecularDysfunction 1344 1361	neurodegeneration
+T80	HealthCareActivity 1401 1408	therapy
+T81	HealthCareActivity 1493 1500	therapy
+T82	HealthCareActivity 1646 1665	symptomatic therapy
+T83	ResearchActivity 484 491	in vivo
+T84	Finding 595 604	reduction
+T85	NaturalPhenomenonOrProcess 595 604	reduction
+T86	Finding 423 430	effects
+T87	Finding 714 721	effects
+T88	Finding 1087 1094	effects
+T89	Finding 1623 1630	effects
+T90	ResearchActivity 657 669	experimental
+T91	ResearchActivity 1451 1468	experimental data
+T92	SignOrSymptom 129 140	symptomatic
+T93	SignOrSymptom 411 422	symptomatic
+T94	BiologicFunction 745 762	anti-inflammatory
+T95	PharmacologicSubstance 745 762	anti-inflammatory
+T96	Finding 8 18	disability
+T97	Finding 165 186	ambulatory disability
+T98	PharmacologicSubstance 1098 1114	immunomodulatory
+T99	BiologicFunction 1098 1114	immunomodulatory
+T100	HealthCareActivity 1098 1114	immunomodulatory
+T101	TemporalConcept 0 7	Chronic
+T102	PharmacologicSubstance 80 95	4-aminopyridine
+T103	BiologicallyActiveSubstance 264 296	voltage gated potassium channels
+T104	PharmacologicSubstance 432 436	4-AP
+T105	PathologicFunction 449 465	neuroaxonal loss
+T106	ResearchActivity 558 579	histologic assessment
+T107	PharmacologicSubstance 639 643	4-AP
+T108	ExperimentalModelOfDisease 647 684	models of experimental optic neuritis
+T109	PharmacologicSubstance 877 881	4-AP
+T110	PharmacologicSubstance 1066 1070	4-AP
+T111	ExperimentalModelOfDisease 1037 1064	experimental optic neuritis
+T112	PharmacologicSubstance 1162 1166	4-AP
+T113	PharmacologicSubstance 1396 1400	4-AP
+T114	PharmacologicSubstance 1488 1492	4-AP
+T115	PharmacologicSubstance 1634 1638	4-AP
+T116	ResearchActivity 1788 1798	parameters

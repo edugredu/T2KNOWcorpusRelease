@@ -1,0 +1,6 @@
+T0	OrganismAttribute 179 186	healthy
+T1	BiologicFunction 187 201	brain function
+T2	CellFunction 36 55	regulatory networks
+T3	HealthCareActivity 101 126	therapeutic interventions
+T4	DiseaseOrSyndrome 138 166	neurodevelopmental disorders
+T5	EmbryonicStructure 4 23	developmental brain

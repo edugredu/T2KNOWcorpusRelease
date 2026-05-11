@@ -1,0 +1,95 @@
+T0	AminoAcidPeptideOrProtein 37 65	insulin-like growth factor 1
+T1	BiologicallyActiveSubstance 37 65	insulin-like growth factor 1
+T2	AminoAcidPeptideOrProtein 67 72	IGF-1
+T3	GeneOrGenome 67 72	IGF-1
+T4	BiologicallyActiveSubstance 67 72	IGF-1
+T5	Cell 116 119	ODC
+T6	AminoAcidPeptideOrProtein 267 272	IGF-1
+T7	BiologicallyActiveSubstance 267 272	IGF-1
+T8	GeneOrGenome 267 272	IGF-1
+T9	AminoAcidPeptideOrProtein 463 468	IGF-1
+T10	GeneOrGenome 463 468	IGF-1
+T11	BiologicallyActiveSubstance 463 468	IGF-1
+T12	AminoAcidPeptideOrProtein 590 627	insulin-like growth factor 1 receptor
+T13	BiologicallyActiveSubstance 590 627	insulin-like growth factor 1 receptor
+T14	AminoAcidPeptideOrProtein 629 634	IGF1R
+T15	BiologicallyActiveSubstance 629 634	IGF1R
+T16	GeneOrGenome 629 634	IGF1R
+T17	Cell 692 695	ODC
+T18	AminoAcidPeptideOrProtein 757 762	IGF1R
+T19	BiologicallyActiveSubstance 757 762	IGF1R
+T20	GeneOrGenome 757 762	IGF1R
+T21	AminoAcidPeptideOrProtein 803 808	IGF-1
+T22	BiologicallyActiveSubstance 803 808	IGF-1
+T23	GeneOrGenome 803 808	IGF-1
+T24	AminoAcidPeptideOrProtein 911 916	IGF1R
+T25	BiologicallyActiveSubstance 911 916	IGF1R
+T26	GeneOrGenome 911 916	IGF1R
+T27	Cell 936 939	ODC
+T28	Finding 982 994	intoxication
+T29	HealthCareActivity 998 1007	induction
+T30	HealthCareRelatedOrganization 998 1007	induction
+T31	AminoAcidPeptideOrProtein 1159 1164	IGF1R
+T32	BiologicallyActiveSubstance 1159 1164	IGF1R
+T33	AminoAcidPeptideOrProtein 1271 1276	IGF-1
+T34	BiologicallyActiveSubstance 1271 1276	IGF-1
+T35	GeneOrGenome 1271 1276	IGF-1
+T36	NaturalPhenomenonOrProcess 1351 1363	steady-state
+T37	ExperimentalModelOfDisease 1011 1052;1060 1066	experimental autoimmune encephalomyelitis models
+T38	ExperimentalModelOfDisease 1054 1057	EAE
+T39	ExperimentalModelOfDisease 1227 1236	EAE model
+T40	TemporalConcept 772 778	months
+T41	TemporalConcept 849 861	post-mitotic
+T42	BodyPartOrganOrOrganComponent 709 715	myelin
+T43	BodyPartOrganOrOrganComponent 953 959	myelin
+T44	CellFunction 554 568	IGF1-signaling
+T45	CellFunction 803 818	IGF-1 signaling
+T46	CellFunction 1271 1286	IGF-1 signaling
+T47	TemporalConcept 652 658	mature
+T48	TemporalConcept 1336 1342	mature
+T49	Cell 121 136	precursor cells
+T50	Chemical 972 981	cuprizone
+T51	NaturalPhenomenonOrProcess 529 534	light
+T52	Cell 176 190	neuronal cells
+T53	BodyPartOrganOrOrganComponent 7 29	central nervous system
+T54	BodyPartOrganOrOrganComponent 31 34	CNS
+T55	Finding 402 410	evidence
+T56	InjuryOrPoisoning 1071 1076	toxic
+T57	OrganismAttribute 782 785	age
+T58	ResearchActivity 204 212	in vitro
+T59	Eukaryote 671 676	mouse
+T60	CellFunction 696 704	survival
+T61	CellFunction 940 948	survival
+T62	CellFunction 1324 1332	survival
+T63	TemporalConcept 234 242	Previous
+T64	BiologicFunction 297 302	death
+T65	PathologicFunction 297 302	death
+T66	CellFunction 297 302	death
+T67	BiologicFunction 874 885	homeostasis
+T68	ResearchActivity 217 224	in vivo
+T69	Finding 716 722	status
+T70	Finding 960 966	status
+T71	Cell 99 114	oligodendrocyte
+T72	CellFunction 292 302	cell death
+T73	HealthCareActivity 438 459	therapeutic potential
+T74	CellFunction 316 329	remyelination
+T75	CellFunction 84 95	myelination
+T76	PathologicFunction 361 385	autoimmune demyelination
+T77	PathologicFunction 1081 1105	autoimmune demyelination
+T78	ResearchActivity 1252 1256	data
+T79	PathologicFunction 1202 1219	neuroinflammation
+T80	CellFunction 147 161	anti-apoptotic
+T81	Cell 282 286	ODCs
+T82	DiseaseOrSyndrome 472 500	demyelinating CNS conditions
+T83	Cell 573 577	ODCs
+T84	Cell 659 663	ODCs
+T85	Finding 746 753	absence
+T86	Cell 862 866	ODCs
+T87	Finding 900 907	absence
+T88	InjuryOrPoisoning 343 348	toxin
+T89	Finding 1148 1155	absence
+T90	Cell 1170 1174	ODCs
+T91	Cell 1343 1347	ODCs
+T92	BiologicallyActiveSubstance 343 348	toxin
+T93	ExperimentalModelOfDisease 333 356;372 385	models of toxin-induced demyelination
+T94	ExperimentalModelOfDisease 333 342;361 385	models of autoimmune demyelination

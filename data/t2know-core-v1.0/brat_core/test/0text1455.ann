@@ -1,0 +1,110 @@
+T0	BodyPartOrganOrOrganComponent 57 72	basal forebrain
+T1	BodyPartOrganOrOrganComponent 74 76	BF
+T2	BodyPartOrganOrOrganComponent 577 586	BF nuclei
+T3	BodyPartOrganOrOrganComponent 619 639	medial septal nuclei
+T4	Finding 1279 1288	Decreased
+T5	BodyPartOrganOrOrganComponent 1289 1291	BF
+T6	TemporalConcept 1473 1479	serial
+T7	BodyPartOrganOrOrganComponent 29 46	entorhinal cortex
+T8	CellComponent 580 586	nuclei
+T9	DiseaseOrSyndrome 843 850	AD aMCI
+T10	DiseaseOrSyndrome 865 872	AD aMCI
+T11	DiseaseOrSyndrome 1077 1084	AD aMCI
+T12	DiseaseOrSyndrome 1161 1168	AD aMCI
+T13	DiseaseOrSyndrome 1212 1219	AD aMCI
+T14	BodyPartOrganOrOrganComponent 559 572	EC subregions
+T15	BodyPartOrganOrOrganComponent 48 50	EC
+T16	BodyPartOrganOrOrganComponent 559 561	EC
+T17	BodyPartOrganOrOrganComponent 1420 1422	EC
+T18	BodyPartOrganOrOrganComponent 1735 1737	EC
+T19	BodyPartOrganOrOrganComponent 1406 1422	posteromedial EC
+T20	BodyPartOrganOrOrganComponent 1721 1737	posteromedial EC
+T21	BodyPartOrganOrOrganComponent 806 811	Brain
+T22	DiseaseOrSyndrome 465 476	Alzheimer's
+T23	Finding 926 932	normal
+T24	Finding 947 949	CN
+T25	Finding 1185 1187	CN
+T26	TemporalConcept 375 380	older
+T27	TemporalConcept 763 768	older
+T28	TemporalConcept 933 938	older
+T29	TemporalConcept 1606 1611	older
+T30	PopulationGroup 375 387	older adults
+T31	PopulationGroup 763 775	older adults
+T32	PopulationGroup 933 945	older adults
+T33	PopulationGroup 1606 1618	older adults
+T34	Finding 1336 1341	worse
+T35	TemporalConcept 92 100	earliest
+T36	BodyPartOrganOrOrganComponent 1447 1451	body
+T37	DiseaseOrSyndrome 429 433	aMCI
+T38	DiseaseOrSyndrome 846 850	aMCI
+T39	DiseaseOrSyndrome 868 872	aMCI
+T40	DiseaseOrSyndrome 1080 1084	aMCI
+T41	DiseaseOrSyndrome 1164 1168	aMCI
+T42	DiseaseOrSyndrome 1215 1219	aMCI
+T43	DiseaseOrSyndrome 1624 1628	aMCI
+T44	DiseaseOrSyndrome 121 140	Alzheimer's disease
+T45	DiseaseOrSyndrome 142 144	AD
+T46	DiseaseOrSyndrome 440 442	AD
+T47	DiseaseOrSyndrome 500 502	AD
+T48	DiseaseOrSyndrome 843 845	AD
+T49	DiseaseOrSyndrome 865 867	AD
+T50	DiseaseOrSyndrome 888 890	AD
+T51	DiseaseOrSyndrome 1077 1079	AD
+T52	DiseaseOrSyndrome 1161 1163	AD
+T53	DiseaseOrSyndrome 1212 1214	AD
+T54	DiseaseOrSyndrome 1228 1230	AD
+T55	DiseaseOrSyndrome 1571 1573	AD
+T56	ClinicalAttribute 1574 1583	biomarker
+T57	BodyPartOrganOrOrganComponent 1030 1035	brain
+T58	HealthCareActivity 996 1003	testing
+T59	HealthCareActivity 1548 1555	testing
+T60	DiseaseOrSyndrome 407 427	cognitive impairment
+T61	DiseaseOrSyndrome 891 899	dementia
+T62	ResearchActivity 1497 1502	study
+T63	PathologicFunction 146 155	pathology
+T64	BiomedicalOccupationOrDiscipline 146 155	pathology
+T65	Finding 313 324	differences
+T66	Finding 355 366	performance
+T67	Finding 720 731	performance
+T68	Finding 1136 1147	performance
+T69	Finding 1342 1353	performance
+T70	HealthCareActivity 1005 1025	cognitive assessment
+T71	ResearchActivity 1064 1071	Results
+T72	PopulationGroup 1200 1206	groups
+T73	PopulationGroup 1231 1237	groups
+T74	PopulationGroup 825 837	Participants
+T75	Finding 1642 1650	evidence
+T76	Finding 914 932	cognitively normal
+T77	DiseaseOrSyndrome 393 427	amnestic mild cognitive impairment
+T78	HealthCareActivity 1262 1277	cognitive tests
+T79	ResearchActivity 1262 1277	cognitive tests
+T80	DiseaseOrSyndrome 402 427	mild cognitive impairment
+T81	PopulationGroup 1085 1090	group
+T82	BodyPartOrganOrOrganComponent 16 27	hippocampus
+T83	BodyPartOrganOrOrganComponent 1746 1767	posterior hippocampus
+T84	Finding 402 406	mild
+T85	Finding 883 887	mild
+T86	PopulationGroup 381 387	adults
+T87	PopulationGroup 769 775	adults
+T88	PopulationGroup 939 945	adults
+T89	PopulationGroup 1612 1618	adults
+T90	BodyPartOrganOrOrganComponent 546 557	hippocampal
+T91	BodyPartOrganOrOrganComponent 1427 1443	hippocampal tail
+T92	HealthCareActivity 1036 1062	magnetic resonance imaging
+T93	BodyPartOrganOrOrganComponent 101 108	regions
+T94	BiologicFunction 188 214	spatial pattern separation
+T95	BiologicFunction 248 288	discrimination between similar locations
+T96	BiologicFunction 328 354	spatial pattern separation
+T97	PathologicFunction 477 494	pathologic change
+T98	BodyPartOrganOrOrganComponent 607 617	subregions
+T99	BodyPartOrganOrOrganComponent 644 702	vertical limb of the diagonal band of Broca - Ch1-2 nuclei
+T100	ResearchActivity 800 823	Czech Brain Aging Study
+T101	BiologicFunction 969 995	spatial pattern separation
+T102	BiologicFunction 1109 1135	spatial pattern separation
+T103	ClinicalAttribute 1289 1304	BF Ch1-2 volume
+T104	ClinicalAttribute 1370 1393	hippocampal tail volume
+T105	ClinicalAttribute 1427 1438;1447 1459	hippocampal body volumes
+T106	ClinicalAttribute 1427 1443;1452 1459	hippocampal tail volumes
+T107	BodyPartOrganOrOrganComponent 1656 1671	BF Ch1-2 nuclei
+T108	BiologicFunction 1682 1708	spatial pattern separation
+T109	BiologicFunction 1521 1547	spatial pattern separation

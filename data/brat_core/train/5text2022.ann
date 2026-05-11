@@ -1,0 +1,5 @@
+T0	PatientOrDisabledGroup 88 95	patient
+T1	DiseaseOrSyndrome 129 147	multiple sclerosis
+T2	HealthCareActivity 148 158	management
+T3	Substance 56 67	suspensions
+T4	HealthCareActivity 0 11	Pharmacists

@@ -1,0 +1,83 @@
+T0	BiologicFunction 126 142	immunomodulation
+T1	HealthCareActivity 126 142	immunomodulation
+T2	PharmacologicSubstance 126 142	immunomodulation
+T3	MachineActivity 144 158	reconstruction
+T4	HealthCareActivity 144 158	reconstruction
+T5	Finding 166 170	lost
+T6	AminoAcidPeptideOrProtein 249 270	metabotropic receptor
+T7	AminoAcidPeptideOrProtein 286 295	G-protein
+T8	ManufacturedObject 341 348	sensors
+T9	MachineActivity 410 424	reconstruction
+T10	HealthCareActivity 410 424	reconstruction
+T11	HealthCareActivity 1097 1117	innovative therapies
+T12	GeneOrGenome 1267 1272	GRP17
+T13	PathologicFunction 719 742	pathological conditions
+T14	CellOrMolecularDysfunction 995 1009	damaged myelin
+T15	Cell 689 705	oligodendrocytes
+T16	DiseaseOrSyndrome 52 74	demyelinating diseases
+T17	BiologicFunction 675 685	maturation
+T18	PathologicFunction 439 452	demyelinating
+T19	PathologicFunction 829 852	demyelinating processes
+T20	DiseaseOrSyndrome 83 101	multiple sclerosis
+T21	BodyPartOrganOrOrganComponent 171 177	myelin
+T22	BodyPartOrganOrOrganComponent 372 378	myelin
+T23	BodyPartOrganOrOrganComponent 1003 1009	myelin
+T24	CellFunction 644 659	differentiation
+T25	PathologicFunction 479 491	inflammatory
+T26	GeneOrGenome 297 302	GPR17
+T27	GeneOrGenome 304 309	GPR17
+T28	GeneOrGenome 503 508	GPR17
+T29	GeneOrGenome 1029 1034	GPR17
+T30	AminoAcidPeptideOrProtein 297 302	GPR17
+T31	AminoAcidPeptideOrProtein 304 309	GPR17
+T32	AminoAcidPeptideOrProtein 503 508	GPR17
+T33	AminoAcidPeptideOrProtein 1029 1034	GPR17
+T34	BiologicallyActiveSubstance 297 302	GPR17
+T35	BiologicallyActiveSubstance 304 309	GPR17
+T36	BiologicallyActiveSubstance 503 508	GPR17
+T37	BiologicallyActiveSubstance 1029 1034	GPR17
+T38	AnatomicalAbnormality 453 460	plaques
+T39	TemporalConcept 471 478	ongoing
+T40	CellOrMolecularDysfunction 1143 1168	neurodegenerative process
+T41	BodyPartOrganOrOrganComponent 207 229	central nervous system
+T42	BiologicFunction 1298 1309	development
+T43	CellFunction 1298 1309	development
+T44	ResearchActivity 1239 1245	review
+T45	HealthCareActivity 1239 1245	review
+T46	HealthCareActivity 39 48	treatment
+T47	HealthCareActivity 1126 1135	treatment
+T48	ResearchActivity 39 48	treatment
+T49	ResearchActivity 1126 1135	treatment
+T50	CellFunction 781 791	expression
+T51	Finding 812 821	mediators
+T52	BiologicFunction 941 946	death
+T53	PathologicFunction 941 946	death
+T54	CellFunction 941 946	death
+T55	Cell 950 957	neurons
+T56	Cell 550 581	precursor oligodendrocyte cells
+T57	CellFunction 1209 1232	remyelination processes
+T58	CellFunction 230 241	myelination
+T59	CellComponent 171 184	myelin sheath
+T60	CellComponent 372 385	myelin sheath
+T61	CellComponent 1003 1016	myelin sheath
+T62	DiseaseOrSyndrome 103 105	MS
+T63	DiseaseOrSyndrome 1172 1174	MS
+T64	DiseaseOrSyndrome 1295 1297	MS
+T65	AminoAcidPeptideOrProtein 310 319	receptors
+T66	AminoAcidPeptideOrProtein 509 518	receptors
+T67	AminoAcidPeptideOrProtein 1035 1044	receptors
+T68	BiologicallyActiveSubstance 310 319	receptors
+T69	BiologicallyActiveSubstance 509 518	receptors
+T70	BiologicallyActiveSubstance 1035 1044	receptors
+T71	PathologicFunction 1276 1291	pathomechanisms
+T72	AminoAcidPeptideOrProtein 288 295	protein
+T73	Cell 534 545	nerve cells
+T74	Cell 761 772	nerve cells
+T75	BiologicFunction 429 435	repair
+T76	BiologicFunction 981 987	repair
+T77	HealthCareActivity 429 435	repair
+T78	HealthCareActivity 981 987	repair
+T79	BiologicallyActiveSubstance 190 199	modulator
+T80	InjuryOrPoisoning 358 364	damage
+T81	InjuryOrPoisoning 751 757	damage
+T82	InjuryOrPoisoning 926 932	damage

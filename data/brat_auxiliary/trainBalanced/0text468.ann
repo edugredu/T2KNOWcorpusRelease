@@ -1,0 +1,83 @@
+T0	ClinicalAttribute 190 223	macular retinal layer thicknesses
+T1	PopulationGroup 311 319	carriers
+T2	BodyPartOrganOrOrganComponent 659 678	ganglion cell layer
+T3	BodyPartOrganOrOrganComponent 680 683	GCL
+T4	BodyPartOrganOrOrganComponent 686 711	retinal nerve fiber layer
+T5	BodyPartOrganOrOrganComponent 720 723	GCL
+T6	BodyPartOrganOrOrganComponent 726 747	inner plexiform layer
+T7	BodyPartOrganOrOrganComponent 1005 1018	Retinal layer
+T8	BodyPartOrganOrOrganComponent 1170 1173	GCL
+T9	MachineActivity 1548 1560	segmentation
+T10	HealthCareActivity 11 55	Spectral-domain optical coherence tomography
+T11	CellOrMolecularDysfunction 1484 1510	neurodegenerative features
+T12	PatientOrDisabledGroup 912 918	pre-HD
+T13	PatientOrDisabledGroup 1222 1228	pre-HD
+T14	DiseaseOrSyndrome 1294 1300	pre-HD
+T15	DiseaseOrSyndrome 1315 1321	pre-HD
+T16	PatientOrDisabledGroup 1463 1469	pre-HD
+T17	PatientOrDisabledGroup 1572 1578	pre-HD
+T18	TemporalConcept 1620 1633	disease onset
+T19	BodyPartOrganOrOrganComponent 190 211	macular retinal layer
+T20	BodyPartOrganOrOrganComponent 438 460	macular retinal layers
+T21	BodyPartOrganOrOrganComponent 767 773	retina
+T22	BodyPartOrganOrOrganComponent 1192 1198	retina
+T23	ResearchActivity 625 633	database
+T24	OrganismAttribute 953 959	female
+T25	OrganismAttribute 996 1002	female
+T26	OrganismAttribute 940 944	male
+T27	OrganismAttribute 983 987	male
+T28	ResearchActivity 874 881	Results
+T29	PopulationGroup 253 259	cohort
+T30	PopulationGroup 1430 1436	cohort
+T31	PopulationGroup 919 931	participants
+T32	PopulationGroup 1301 1313	participants
+T33	PopulationGroup 1470 1482	participants
+T34	ResearchActivity 1084 1096	correlations
+T35	HealthCareActivity 27 55	optical coherence tomography
+T36	HealthCareActivity 57 60	OCT
+T37	HealthCareActivity 364 380	macular OCT scan
+T38	HealthCareActivity 1635 1638	OCT
+T39	BodyPartOrganOrOrganComponent 713 717	RNFL
+T40	BodyPartOrganOrOrganComponent 1261 1265	RNFL
+T41	BodyPartOrganOrOrganComponent 73 80	retinal
+T42	BodyPartOrganOrOrganComponent 1534 1547	retinal layer
+T43	CellOrMolecularDysfunction 302 310	mutation
+T44	TemporalConcept 1607 1612	years
+T45	PopulationGroup 264 280	healthy controls
+T46	DiseaseOrSyndrome 107 133	neurodegenerative diseases
+T47	DiseaseOrSyndrome 148 168	Huntington's disease
+T48	DiseaseOrSyndrome 170 172	HD
+T49	DiseaseOrSyndrome 249 251	HD
+T50	DiseaseOrSyndrome 299 301	HD
+T51	DiseaseOrSyndrome 916 918	HD
+T52	DiseaseOrSyndrome 1117 1119	HD
+T53	DiseaseOrSyndrome 1226 1228	HD
+T54	DiseaseOrSyndrome 1298 1300	HD
+T55	DiseaseOrSyndrome 1319 1321	HD
+T56	DiseaseOrSyndrome 1467 1469	HD
+T57	DiseaseOrSyndrome 1576 1578	HD
+T58	ClinicalAttribute 1120 1130	biomarkers
+T59	ClinicalAttribute 94 103	biomarker
+T60	ResearchActivity 795 827	exploratory correlation analyses
+T61	Finding 81 88	changes
+T62	PatientOrDisabledGroup 229 243	premanifest HD
+T63	PatientOrDisabledGroup 245 251	pre-HD
+T64	PatientOrDisabledGroup 295 301	Pre-HD
+T65	ClinicalAttribute 382 398	Thickness values
+T66	BodyPartOrganOrOrganComponent 506 516	inner ring
+T67	ResearchActivity 548 572	Heyex segmentation batch
+T68	ClinicalAttribute 639 651	IR thickness
+T69	BodyPartOrganOrOrganComponent 749 754	GCIPL
+T70	ResearchActivity 886 894	analyses
+T71	PopulationGroup 972 974	HC
+T72	PopulationGroup 870 872	HC
+T73	ResearchActivity 1019 1029	parameters
+T74	ResearchActivity 1053 1073	paraclinical ratings
+T75	ClinicalAttribute 1148 1162	IR thicknesses
+T76	BodyPartOrganOrOrganComponent 1175 1180	GCIPL
+T77	PopulationGroup 1233 1235	HC
+T78	ClinicalAttribute 1241 1253	IR thickness
+T79	TemporalConcept 1677 1682	early
+T80	Finding 1683 1690	changes
+T81	MachineActivity 534 546	segmentation
+T82	PopulationGroup 575 577	HC

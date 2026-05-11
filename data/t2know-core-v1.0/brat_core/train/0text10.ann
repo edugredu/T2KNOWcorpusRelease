@@ -1,0 +1,73 @@
+T0	DiseaseOrSyndrome 95 108	CNS disorders
+T1	ResearchActivity 157 173	clinical studies
+T2	PopulationGroup 335 340	donor
+T3	ResearchActivity 479 495	clinical studies
+T4	ResearchActivity 509 525	characterization
+T5	ResearchActivity 527 542	quality control
+T6	ResearchActivity 547 557	validation
+T8	ResearchActivity 579 585	design
+T9	ResearchActivity 587 597	validation
+T10	ResearchActivity 602 610	approval
+T11	ManufacturedObject 618 633	surgical device
+T12	HealthCareActivity 639 659	operative procedures
+T13	HealthCareActivity 695 707	cell product
+T14	BiologicFunction 683 691	delivery
+T15	ResearchActivity 735 750	clinical trials
+T16	HealthCareActivity 792 798	design
+T17	DiseaseOrSyndrome 887 900	rare diseases
+T18	PopulationGroup 925 932	cohorts
+T19	HealthCareActivity 1117 1129	cell therapy
+T20	HealthCareActivity 1374 1383	gene test
+T21	ResearchActivity 1374 1383	gene test
+T22	ExperimentalModelOfDisease 1440 1453	animal models
+T23	ResearchActivity 1547 1572	experimental therapeutics
+T24	Finding 1655 1663	road map
+T25	DiseaseOrSyndrome 1679 1702	neurological conditions
+T26	ResearchActivity 1709 1720	white paper
+T27	Cell 1832 1842	Stem Cells
+T28	HealthCareActivity 1990 2002	cell therapy
+T29	BiologicFunction 2010 2020	experience
+T30	ClinicalAttribute 2030 2038	guidance
+T31	HealthCareActivity 2115 2124	therapies
+T32	HealthCareActivity 2248 2262	cell therapies
+T33	ResearchActivity 2410 2433	international workshops
+T34	ResearchActivity 2438 2448	discussion
+T35	TemporalConcept 118 129	last decade
+T36	ResearchActivity 244 266	translational pipeline
+T37	ResearchActivity 1093 1113	clinical translation
+T38	DiseaseOrSyndrome 1320 1348	autosomal dominant condition
+T39	ResearchActivity 497 507	scaling-up
+T40	HealthCareRelatedOrganization 1876 1913	European Huntington's Disease Network
+T41	HealthCareRelatedOrganization 1914 1946	Advanced Therapies Working Group
+T42	Cell 341 351	cell types
+T43	ResearchActivity 1778 1786	meetings
+T44	HealthCareRelatedOrganization 1794 1831	international translational platforms
+T45	ResearchActivity 2224 2244	clinical translation
+T46	BodyPartOrganOrOrganComponent 95 98	CNS
+T47	Finding 1385 1408	full genetic penetrance
+T48	HealthCareRelatedOrganization 1832 1867	Stem Cells for Huntington's Disease
+T49	HealthCareRelatedOrganization 2469 2506	'Stem Cells for Huntington's Disease'
+T50	Cell 565 577	cell product
+T51	HealthCareActivity 803 828	disease-specific outcomes
+T52	ResearchActivity 1734 1751	consensus opinion
+T53	ResearchActivity 2381 2395	consensus view
+T54	CellFunction 1320 1338	autosomal dominant
+T55	BodyPartOrganOrOrganComponent 715 720	brain
+T56	Finding 2129 2145	clinical benefit
+T57	DiseaseOrSyndrome 1137 1157	Huntington's disease
+T58	DiseaseOrSyndrome 1243 1263	Huntington's disease
+T59	DiseaseOrSyndrome 1618 1638	Huntington's disease
+T60	DiseaseOrSyndrome 2149 2169	Huntington's disease
+T61	DiseaseOrSyndrome 2270 2290	Huntington's disease
+T62	DiseaseOrSyndrome 1847 1867	Huntington's Disease
+T63	DiseaseOrSyndrome 2485 2505	Huntington's Disease
+T64	ResearchActivity 399 415	preclinical data
+T65	TemporalConcept 27 35	progress
+T66	TemporalConcept 2098 2106	progress
+T67	PathologicFunction 136 147	progression
+T68	PathologicFunction 454 465	progression
+T69	TemporalConcept 136 147	progression
+T70	TemporalConcept 454 465	progression
+T71	BiomedicalOccupationOrDiscipline 58 79	regenerative medicine
+T7	Finding 1281 1291	unmet need
+T72	TemporalConcept 151 156	early

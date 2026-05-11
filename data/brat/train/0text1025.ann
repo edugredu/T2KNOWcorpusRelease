@@ -1,0 +1,105 @@
+T0	ResearchActivity 493 502	profiling
+T1	AminoAcidPeptideOrProtein 523 532	proteomes
+T2	ResearchActivity 600 619	molecular profiling
+T3	BodyPartOrganOrOrganComponent 785 797	Brain tissue
+T4	AminoAcidPeptideOrProtein 963 967	PRDX
+T5	BiologicallyActiveSubstance 963 967	PRDX
+T6	ResearchActivity 994 1005	immunoassay
+T7	Finding 1029 1039	separation
+T8	Cell 1041 1047	Neuron
+T9	BodyPartOrganOrOrganComponent 1075 1085	endothelia
+T10	AminoAcidPeptideOrProtein 1219 1227	Proteome
+T11	GeneOrGenome 1341 1346	PRDX1
+T12	GeneOrGenome 1352 1357	PRDX6
+T13	HealthCareActivity 1573 1591	disease monitoring
+T14	TemporalConcept 409 413	rare
+T15	BodyPartOrganOrOrganComponent 240 249	periphery
+T16	BodyPartOrganOrOrganComponent 636 645	periphery
+T17	AminoAcidPeptideOrProtein 288 296	proteome
+T18	BiologicallyActiveSubstance 288 296	proteome
+T19	BiologicallyActiveSubstance 935 961	antioxidant peroxiredoxins
+T20	AminoAcidPeptideOrProtein 935 961	antioxidant peroxiredoxins
+T21	ResearchActivity 1125 1142	multiplexed ELISA
+T22	PopulationGroup 841 849	controls
+T23	PopulationGroup 1412 1420	controls
+T24	OrganismAttribute 813 816	age
+T25	AminoAcidPeptideOrProtein 1514 1522	proteins
+T26	CellComponent 12 55	Brain tissue-derived extracellular vesicles
+T27	DiseaseOrSyndrome 122 141	Alzheimer's disease
+T28	CellComponent 172 175	EVs
+T29	CellComponent 1118 1121	EVs
+T30	DiseaseOrSyndrome 143 145	AD
+T31	DiseaseOrSyndrome 536 538	AD
+T32	DiseaseOrSyndrome 825 827	AD
+T33	DiseaseOrSyndrome 1215 1217	AD
+T34	DiseaseOrSyndrome 1248 1250	AD
+T35	DiseaseOrSyndrome 1389 1391	AD
+T36	DiseaseOrSyndrome 1485 1487	AD
+T37	DiseaseOrSyndrome 1539 1541	AD
+T38	CellComponent 761 763	EV
+T39	BodyPartOrganOrOrganComponent 1649 1659	peripheral
+T40	CellComponent 148 170	Extracellular vesicles
+T41	PatientOrDisabledGroup 539 547	patients
+T42	PatientOrDisabledGroup 828 836	patients
+T43	ClinicalAttribute 389 404	surface markers
+T44	ClinicalAttribute 665 672	markers
+T45	ClinicalAttribute 1086 1093	markers
+T46	ClinicalAttribute 1460 1467	markers
+T47	ClinicalAttribute 1617 1624	markers
+T48	Cell 370 374	cell
+T49	Cell 651 655	cell
+T50	Cell 1441 1445	cell
+T51	Cell 1612 1616	cell
+T52	BodyPartOrganOrOrganComponent 317 329	brain tissue
+T53	BodyPartOrganOrOrganComponent 1303 1315	brain tissue
+T54	AminoAcidPeptideOrProtein 884 893	Total tau
+T55	AminoAcidPeptideOrProtein 895 900	t-tau
+T56	AminoAcidPeptideOrProtein 903 921	phosphorylated tau
+T57	AminoAcidPeptideOrProtein 923 928	p-tau
+T58	AminoAcidPeptideOrProtein 1327 1332	t-tau
+T59	AminoAcidPeptideOrProtein 1334 1339	p-tau
+T60	BodyPartOrganOrOrganComponent 196 201	brain
+T61	BodyPartOrganOrOrganComponent 484 489	brain
+T62	Cell 1049 1058	microglia
+T63	BiologicallyActiveSubstance 884 893	Total tau
+T64	BiologicallyActiveSubstance 895 900	t-tau
+T65	BiologicallyActiveSubstance 903 921	phosphorylated tau
+T66	BiologicallyActiveSubstance 923 928	p-tau
+T67	BiologicallyActiveSubstance 1327 1332	t-tau
+T68	BiologicallyActiveSubstance 1334 1339	p-tau
+T69	Cell 1060 1069	astrocyte
+T70	CellOrMolecularDysfunction 69 86	neurodegenerative
+T71	ResearchActivity 262 269	studies
+T72	ResearchActivity 345 352	studies
+T73	BodyPartOrganOrOrganComponent 229 232	CNS
+T74	BodyPartOrganOrOrganComponent 647 650	CNS
+T75	BodyPartOrganOrOrganComponent 1608 1611	CNS
+T76	PopulationGroup 216 221	state
+T77	ResearchActivity 1144 1151	Results
+T78	BodyPartOrganOrOrganComponent 12 24	Brain tissue
+T79	BodyPartOrganOrOrganComponent 507 513	tissue
+T80	Finding 1228 1239	differences
+T81	Finding 1012 1023	independent
+T82	CellComponent 57 62	bdEVs
+T83	CellComponent 300 305	bdEVs
+T84	CellComponent 365 369	bdEV
+T85	CellComponent 701 705	bdEV
+T86	CellComponent 1024 1028	bdEV
+T87	CellComponent 1455 1459	bdEV
+T88	CellComponent 1509 1513	bdEV
+T89	CellComponent 1660 1664	bdEV
+T90	CellComponent 724 729	bdEVs
+T91	PathologicFunction 449 472	pathological mechanisms
+T92	CellComponent 518 522	bdEV
+T93	BiologicallyActiveSubstance 523 532	proteomes
+T94	CellComponent 623 628	bdEVs
+T95	CellComponent 802 807	bdEVs
+T96	ResearchActivity 860 882	proteomically profiled
+T97	CellComponent 1189 1194	bdEVs
+T98	BiologicallyActiveSubstance 1219 1227	Proteome
+T99	CellComponent 1288 1293	bdEVs
+T100	AminoAcidPeptideOrProtein 1341 1346	PRDX1
+T101	BiologicallyActiveSubstance 1341 1346	PRDX1
+T102	BiologicallyActiveSubstance 1352 1357	PRDX6
+T103	AminoAcidPeptideOrProtein 1352 1357	PRDX6
+T104	CellComponent 1392 1397	bdEVs

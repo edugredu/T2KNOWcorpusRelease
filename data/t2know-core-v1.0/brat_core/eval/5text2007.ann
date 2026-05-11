@@ -1,0 +1,7 @@
+T0	HealthCareActivity 132 150	targeted therapies
+T1	DiseaseOrSyndrome 63 65	MS
+T2	PatientOrDisabledGroup 66 74	patients
+T3	Substance 31 39	biofluid
+T4	ResearchActivity 96 114	disease mechanisms
+T5	Substance 31 47	biofluid samples
+T6	ResearchActivity 0 16	Research studies

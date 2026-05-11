@@ -1,0 +1,116 @@
+T0	HealthCareActivity 592 596	fMRI
+T1	TemporalConcept 831 846	prodromal phase
+T2	Finding 1459 1472	resting state
+T3	HealthCareActivity 1758 1762	fMRI
+T4	BodyPartOrganOrOrganComponent 2326 2341	amygdala nuclei
+T5	HealthCareActivity 2959 2969	diagnosing
+T6	HealthCareActivity 3322 3326	fMRI
+T7	PopulationGroup 3555 3566	populations
+T8	ResearchActivity 486 494	patterns
+T9	ResearchActivity 2075 2106	three-dimensional (3D) patterns
+T10	DiseaseOrSyndrome 775 801	neurodegenerative diseases
+T11	TemporalConcept 964 970	recent
+T12	ManufacturedObject 3402 3406	case
+T13	TemporalConcept 26 33	initial
+T14	ResearchActivity 1918 1935	nodal path length
+T15	Finding 2650 2661	performance
+T16	ResearchActivity 3012 3018	method
+T17	HealthCareActivity 3012 3018	method
+T18	DiseaseOrSyndrome 811 822	Alzheimer's
+T19	DiseaseOrSyndrome 43 62	Alzheimer's disease
+T20	ClinicalAttribute 149 159	biomarkers
+T21	ClinicalAttribute 1352 1362	biomarkers
+T22	PatientOrDisabledGroup 542 550	patients
+T23	TemporalConcept 34 39	phase
+T24	PopulationGroup 3247 3253	cohort
+T25	OrganismAttribute 3388 3392	size
+T26	Finding 3481 3487	result
+T27	ResearchActivity 116 124	research
+T28	ResearchActivity 3186 3194	research
+T29	ResearchActivity 971 978	studies
+T30	DiseaseOrSyndrome 64 66	AD
+T31	DiseaseOrSyndrome 210 212	AD
+T32	DiseaseOrSyndrome 349 351	AD
+T33	DiseaseOrSyndrome 556 558	AD
+T34	DiseaseOrSyndrome 957 959	AD
+T35	DiseaseOrSyndrome 1119 1121	AD
+T36	DiseaseOrSyndrome 1289 1291	AD
+T37	DiseaseOrSyndrome 2578 2580	AD
+T38	DiseaseOrSyndrome 2970 2972	AD
+T39	DiseaseOrSyndrome 3283 3285	AD
+T40	TemporalConcept 1063 1069	period
+T41	ResearchActivity 1197 1202	study
+T42	ResearchActivity 3339 3344	study
+T43	BodyPartOrganOrOrganComponent 1405 1410	brain
+T44	BodyPartOrganOrOrganComponent 2497 2511	brain networks
+T45	BodyPartOrganOrOrganComponent 2846 2860	brain networks
+T46	ResearchActivity 597 613	time series data
+T47	HealthCareActivity 232 246	structural MRI
+T48	HealthCareActivity 258 286	resting-state functional MRI
+T49	HealthCareActivity 325 336	MRI imaging
+T50	HealthCareActivity 9 18	diagnosis
+T51	HealthCareActivity 352 361	diagnosis
+T52	HealthCareActivity 944 953	diagnosis
+T53	HealthCareActivity 1823 1840	disease diagnosis
+T54	HealthCareActivity 3270 3279	diagnosis
+T55	MachineActivity 2587 2609	support vector machine
+T56	MachineActivity 2611 2614	SVM
+T57	MachineActivity 2665 2668	SVM
+T58	Finding 2927 2935	accuracy
+T59	Finding 2978 2986	accuracy
+T60	Finding 1566 1569	low
+T61	DiseaseOrSyndrome 875 878	MCI
+T62	DiseaseOrSyndrome 1011 1014	MCI
+T63	DiseaseOrSyndrome 1080 1083	MCI
+T64	PopulationGroup 576 586	population
+T65	PopulationGroup 3464 3474	population
+T66	DiseaseOrSyndrome 848 873	mild cognitive impairment
+T67	HealthCareActivity 168 178	diagnostic
+T68	HealthCareActivity 1247 1276	proposed diagnostic framework
+T69	HealthCareActivity 2548 2573	diagnostic identification
+T70	ResearchActivity 179 187	analysis
+T71	BodyPartOrganOrOrganComponent 450 458	amygdala
+T72	BodyPartOrganOrOrganComponent 2825 2833	amygdala
+T73	BodyPartOrganOrOrganComponent 433 444	hippocampus
+T74	MachineActivity 2674 2687	Random Forest
+T75	MachineActivity 2689 2691	RF
+T76	ClinicalAttribute 450 465	amygdala volume
+T77	ClinicalAttribute 2825 2840	amygdala volume
+T78	BodyPartOrganOrOrganComponent 408 419	subcortical
+T79	BodyPartOrganOrOrganComponent 2047 2060	brain regions
+T80	TemporalConcept 597 601	time
+T81	BodyPartOrganOrOrganComponent 2301 2321	hippocampal subfield
+T82	BodyPartOrganOrOrganComponent 2799 2819	hippocampal subfield
+T83	BodyPartOrganOrOrganComponent 395 403	cortical
+T84	ResearchActivity 709 737	Voxel and graphical analyses
+T85	TemporalConcept 1427 1436	frequency
+T86	TemporalConcept 1570 1579	frequency
+T87	OrganismAttribute 568 575	healthy
+T88	HealthCareActivity 248 252	sMRI
+T89	HealthCareActivity 288 295	rs-fMRI
+T90	ClinicalAttribute 314 344	anatomical MRI imaging markers
+T91	ClinicalAttribute 408 427	subcortical volumes
+T92	ClinicalAttribute 395 403;420 427	cortical volumes
+T93	HealthCareActivity 1377 1381	sMRI
+T94	ResearchActivity 1710 1743	Pearson's correlation coefficient
+T95	ResearchActivity 1857 1869	graph theory
+T96	ResearchActivity 1899 1911	nodal degree
+T97	ResearchActivity 2160 2189	univariate statistical t-test
+T98	HealthCareActivity 2277 2281	sMRI
+T99	ClinicalAttribute 2326 2348	amygdala nuclei volume
+T100	ResearchActivity 2355 2365	Freesurfer
+T101	MachineActivity 2430 2458	feature selection algorithms
+T102	HealthCareActivity 2887 2894	rs-fMRI
+T103	ResearchActivity 3036 3057	binary classification
+T104	ResearchActivity 3213 3239	AD Neuroimaging Initiative
+T105	ResearchActivity 3241 3245	ADNI
+T106	HealthCareActivity 3313 3317	sMRI
+T107	ResearchActivity 2202 2209	3D mask
+T108	ResearchActivity 1954 1964	centrality
+T109	ResearchActivity 1553 1591	amplitude of low-frequency fluctuation
+T110	ResearchActivity 1628 1648	regional homogeneity
+T111	ResearchActivity 1658 1675	degree centrality
+T112	ResearchActivity 1686 1703	salience networks
+T113	ResearchActivity 1600 1615	fractional ALFF
+T114	ResearchActivity 984 1007	classification of cases
+T115	ResearchActivity 3081 3103	classification results

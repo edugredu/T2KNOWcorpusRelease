@@ -1,0 +1,89 @@
+T0	Eukaryote 0 5	Human
+T1	Cell 6 31	mesenchymal stromal cells
+T2	Cell 33 38	hMSCs
+T3	NaturalPhenomenonOrProcess 119 131	shear stress
+T4	CellFunction 133 149	cell aggregation
+T5	ManufacturedObject 199 209	bioreactor
+T6	ResearchActivity 188 218	3D dynamic bioreactor cultures
+T7	ManufacturedObject 255 265	bioreactor
+T8	PharmacologicSubstance 415 435	therapeutic proteins
+T9	Cell 521 526	hMSCs
+T10	Cell 753 758	hMSCs
+T11	GeneOrGenome 831 847	glycolysis genes
+T12	BiologicallyActiveSubstance 984 990	miR-10
+T13	AminoAcidPeptideOrProtein 984 990	miR-10
+T14	CellFunction 1103 1112	metabolic
+T15	ManufacturedObject 1272 1287	0.5L bioreactor
+T16	ManufacturedObject 1367 1382	0.1L bioreactor
+T17	Cell 327 331	hMSC
+T18	Cell 1315 1319	hMSC
+T19	NucleicAcidNucleosideOrNucleotide 887 895	microRNA
+T20	BiologicallyActiveSubstance 887 895	microRNA
+T21	Chemical 155 164	substrate
+T22	BodyPartOrganOrOrganComponent 501 512	bone marrow
+T23	DiseaseOrSyndrome 1555 1570	ischemic stroke
+T24	BiologicallyActiveSubstance 1128 1131	ROS
+T25	Chemical 1128 1131	ROS
+T26	DiseaseOrSyndrome 1564 1570	stroke
+T27	PathologicFunction 125 131	stress
+T28	PathologicFunction 649 655	stress
+T29	DiseaseOrSyndrome 1597 1615	multiple sclerosis
+T30	NaturalPhenomenonOrProcess 266 282	microenvironment
+T31	BodyPartOrganOrOrganComponent 266 282	microenvironment
+T32	CellComponent 340 362	extracellular vesicles
+T33	DiseaseOrSyndrome 1572 1591	Alzheimer's disease
+T34	CellComponent 364 367	EVs
+T35	CellComponent 926 929	EVs
+T36	CellComponent 1176 1179	EVs
+T37	CellComponent 1465 1468	EVs
+T38	CellComponent 805 807	EV
+T39	CellComponent 1020 1022	EV
+T40	CellComponent 1320 1322	EV
+T41	ClinicalAttribute 819 826	markers
+T42	ResearchActivity 1058 1077	proteomics analysis
+T43	ResearchActivity 494 499	study
+T44	ResearchActivity 1389 1394	study
+T45	Cell 472 484	parent cells
+T46	ResearchActivity 315 323	profiles
+T47	Cell 1452 1456	cell
+T48	Cell 1489 1493	cell
+T49	CellFunction 309 314	cargo
+T50	CellFunction 896 901	cargo
+T51	CellFunction 1031 1036	cargo
+T52	CellFunction 1337 1342	cargo
+T53	CellFunction 791 801	expression
+T54	AminoAcidPeptideOrProtein 1140 1148	proteins
+T55	CellFunction 295 304	secretion
+T56	CellFunction 1323 1332	secretion
+T57	BiologicFunction 295 304	secretion
+T58	BiologicFunction 1323 1332	secretion
+T59	DiseaseOrSyndrome 1524 1546	neurological disorders
+T60	HealthCareActivity 1489 1506	cell-free therapy
+T61	Chemical 456 462	lipids
+T62	NucleicAcidNucleosideOrNucleotide 437 450	nucleic acids
+T63	CellFunction 1114 1123	autophagy
+T64	PathologicFunction 57 66	sensitive
+T65	CellFunction 735 747	EV secretion
+T66	CellFunction 1320 1332	EV secretion
+T67	CellFunction 808 818	biogenesis
+T68	ResearchActivity 1164 1175	2D cultured
+T69	Finding 1395 1403	advances
+T70	OrganismAttribute 78 88	phenotypic
+T71	CellComponent 391 399	exosomes
+T72	CellFunction 968 980	upregulation
+T73	CellFunction 1087 1099	upregulation
+T74	Cell 1447 1456	stem cell
+T75	AminoAcidPeptideOrProtein 1023 1030	protein
+T76	ResearchActivity 1430 1443	manufacturing
+T77	Finding 89 100	alterations
+T78	BiomedicalOccupationOrDiscipline 1058 1068	proteomics
+T79	Finding 165 172	changes
+T80	ManufacturedObject 544 573	3D Synthemax II microcarriers
+T81	ManufacturedObject 581 627	PBS mini 0.1L Vertical-Wheel bioreactor system
+T82	NaturalPhenomenonOrProcess 643 655	shear stress
+T83	ManufacturedObject 708 725	bioreactor system
+T84	CellFunction 831 841	glycolysis
+T85	ResearchActivity 864 881	static 2D culture
+T86	ResearchActivity 935 953	bioreactor culture
+T87	ManufacturedObject 1217 1249	Vertical-Wheel bioreactor system
+T88	Finding 1198 1209	scalability

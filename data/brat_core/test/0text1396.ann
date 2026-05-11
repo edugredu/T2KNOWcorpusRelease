@@ -1,0 +1,59 @@
+T0	CellFunction 0 11	Myelination
+T1	CellComponent 15 33	projection neurons
+T2	Cell 37 53	oligodendrocytes
+T3	CellFunction 73 89	action potential
+T4	BiologicFunction 90 100	conduction
+T5	NaturalPhenomenonOrProcess 90 100	conduction
+T6	CellComponent 151 157	myelin
+T7	CellComponent 170 175	axons
+T8	CellFunction 294 305	myelination
+T9	CellFunction 404 415	myelination
+T10	Cell 598 629	oligodendrocyte precursor cells
+T11	CellFunction 639 650	myelination
+T12	CellOrMolecularDysfunction 680 699	myelination defects
+T13	CellComponent 724 734	internodes
+T14	CellOrMolecularDysfunction 788 814	proximal axon malformation
+T15	CellFunction 1107 1118	myelination
+T16	TemporalConcept 1161 1167	mature
+T17	CellFunction 1198 1209	Myelination
+T18	BiologicFunction 1220 1230	conduction
+T19	NaturalPhenomenonOrProcess 1220 1230	conduction
+T20	CellFunction 1277 1288	myelination
+T21	Cell 1292 1304	interneurons
+T22	Cell 1306 1309	INs
+T23	Cell 1377 1380	INs
+T24	CellFunction 1381 1392	myelination
+T25	TemporalConcept 651 656	onset
+T26	CellComponent 885 897	postsynaptic
+T27	Cell 925 943	excitatory neurons
+T28	Cell 1240 1258	excitatory neurons
+T29	BiologicFunction 454 465	maintenance
+T30	PathologicFunction 964 976	dysfunctions
+T31	CellFunction 1412 1422	inhibition
+T32	CellFunction 482 517	FSI-mediated feedforward inhibition
+T33	BodyPartOrganOrOrganComponent 739 744	nodes
+T34	BodyPartOrganOrOrganComponent 263 280	cortical circuits
+T35	BodyPartOrganOrOrganComponent 521 546	cortical sensory circuits
+T36	BiologicFunction 1319 1336	cortical networks
+T37	BodyPartOrganOrOrganComponent 1432 1457	cortical sensory circuits
+T38	CellOrMolecularDysfunction 996 1027	excitation-inhibition imbalance
+T39	BodyPartOrganOrOrganComponent 151 157	myelin
+T40	Cell 200 225	fast-spiking interneurons
+T41	Cell 227 230	FSI
+T42	Cell 290 293	FSI
+T43	BodyPartOrganOrOrganComponent 340 362	intracortical networks
+T44	Cell 400 403	FSI
+T45	AminoAcidPeptideOrProtein 179 190	parvalbumin
+T46	BiologicallyActiveSubstance 179 190	parvalbumin
+T47	CellFunction 566 594	GABAergic synaptic signaling
+T48	Cell 676 679	FSI
+T49	CellOrMolecularDysfunction 746 766	aberrant myelination
+T50	BodyPartOrganOrOrganComponent 770 783	branch points
+T51	Cell 845 848	FSI
+T52	ResearchActivity 1049 1089	whisker-dependent texture discrimination
+T53	BodyPartOrganOrOrganComponent 1049 1056	whisker
+T54	Cell 1103 1106	FSI
+T55	BodyPartOrganOrOrganComponent 1168 1196	cortical inhibitory circuits
+T56	Eukaryote 1426 1431	mouse
+T57	BodyPartOrganOrOrganComponent 1470 1477	whisker
+T58	BiologicFunction 1470 1496	whisker-mediated behaviour

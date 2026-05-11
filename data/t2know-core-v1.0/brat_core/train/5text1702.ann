@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 121 146	neurodegenerative disease
+T1	Finding 147 151	risk
+T2	InjuryOrPoisoning 8 16	exposure
+T3	IndividualBehavior 90 99	lifestyle
+T4	EnvironmentalEffectOfHumans 20 43	environmental pollution
+T5	TemporalConcept 0 7	Chronic
+T6	Finding 100 107;78 85	factors genetic

@@ -1,0 +1,90 @@
+T0	Chemical 54 63	sentinels
+T1	Organism 72 91	exogenous pathogens
+T2	BiologicFunction 126 136	commitment
+T3	BiologicFunction 276 286	remodeling
+T4	BiologicFunction 505 527	innate immune response
+T5	Finding 746 759	resting state
+T6	GeneOrGenome 1127 1133	Rab11A
+T7	GeneOrGenome 1371 1377	Rab11A
+T8	BodyPartOrganOrOrganComponent 105 118	neural tissue
+T9	DiseaseOrSyndrome 607 636	neurodegenerative pathologies
+T10	DiseaseOrSyndrome 1754 1783	neurodegenerative pathologies
+T11	CellFunction 439 456	neuronal activity
+T12	Cell 0 9	Microglia
+T13	Finding 1206 1223	dramatic decrease
+T14	Finding 1333 1341	decrease
+T15	BiologicFunction 512 527	immune response
+T16	CellComponent 476 483	neurite
+T17	Cell 1435 1449	neuronal cells
+T18	BodyPartOrganOrOrganComponent 1320 1326	sample
+T19	Substance 1320 1326	sample
+T20	CellComponent 340 362	extracellular vesicles
+T21	DiseaseOrSyndrome 645 664	Alzheimer's disease
+T22	CellComponent 364 367	EVs
+T23	CellComponent 1297 1300	EVs
+T24	CellComponent 1544 1547	EVs
+T25	DiseaseOrSyndrome 666 668	AD
+T26	DiseaseOrSyndrome 853 855	AD
+T27	CellComponent 689 691	EV
+T28	CellComponent 943 945	EV
+T29	CellComponent 1095 1097	EV
+T30	CellComponent 1268 1270	EV
+T31	OrganismAttribute 411 418	healthy
+T32	Finding 550 558	evidence
+T33	BiologicFunction 263 274	development
+T34	BiologicFunction 592 603	development
+T35	CellFunction 263 274	development
+T36	CellFunction 592 603	development
+T37	BodyPartOrganOrOrganComponent 419 424	brain
+T38	Cell 872 881	BV2 cells
+T39	Cell 15 42	macrophage-like glial cells
+T40	ResearchActivity 1425 1431	burden
+T41	Cell 244 252	neuronal
+T42	Cell 439 447	neuronal
+T43	CellFunction 946 951	cargo
+T44	CellFunction 1271 1276	cargo
+T45	OrganismAttribute 1679 1688	phenotype
+T46	AminoAcidPeptideOrProtein 907 915	proteins
+T47	Cell 322 331	microglia
+T48	Cell 933 942	microglia
+T49	Cell 1048 1057	microglia
+T50	Cell 1258 1267	microglia
+T51	Cell 1576 1585	microglia
+T52	Eukaryote 927 932	mouse
+T53	AminoAcidPeptideOrProtein 810 816	A beta
+T54	AminoAcidPeptideOrProtein 1243 1249	A beta
+T55	AminoAcidPeptideOrProtein 1561 1567	A beta
+T56	PopulationGroup 1731 1741	population
+T57	BiologicFunction 1484 1489	death
+T58	PathologicFunction 1484 1489	death
+T59	CellFunction 1484 1489	death
+T60	HealthCareActivity 770 781	stimulation
+T61	NaturalPhenomenonOrProcess 770 781	stimulation
+T62	AminoAcidPeptideOrProtein 1030 1037	amyloid
+T63	AminoAcidPeptideOrProtein 1175 1182	amyloid
+T64	AminoAcidPeptideOrProtein 1417 1424	amyloid
+T65	BiologicallyActiveSubstance 1030 1037	amyloid
+T66	BiologicallyActiveSubstance 1175 1182	amyloid
+T67	BiologicallyActiveSubstance 1417 1424	amyloid
+T68	AminoAcidPeptideOrProtein 787 808	beta-amyloid peptides
+T69	Cell 1381 1388	neurons
+T70	TemporalConcept 1692 1700	recently
+T71	Cell 720 740	BV2 microglial cells
+T72	Cell 1668 1678	microglial
+T73	Cell 1720 1730	microglial
+T74	AminoAcidPeptideOrProtein 692 699	protein
+T75	AminoAcidPeptideOrProtein 1098 1105	protein
+T76	AminoAcidPeptideOrProtein 1232 1239	protein
+T77	BiologicFunction 1359 1367	delivery
+T78	Finding 1520 1531	alterations
+T79	BodyPartOrganOrOrganComponent 302 310	synapses
+T80	OrganismAttribute 1183 1190	species
+T81	ResearchActivity 990 1019	Vesiclepedia exosome database
+T82	TemporalConcept 253 262	postnatal
+T83	CellFunction 291 310	pruning of synapses
+T84	BiologicFunction 165 183	defensive function
+T85	CellFunction 476 493	neurite outgrowth
+T86	BiologicallyActiveSubstance 1127 1133	Rab11A
+T87	AminoAcidPeptideOrProtein 1127 1133	Rab11A
+T88	BiologicallyActiveSubstance 1371 1377	Rab11A
+T89	AminoAcidPeptideOrProtein 1371 1377	Rab11A

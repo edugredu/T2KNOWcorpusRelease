@@ -1,0 +1,59 @@
+T0	SignOrSymptom 109 128	choreatic movements
+T1	SignOrSymptom 130 153	behavioral disturbances
+T2	DiseaseOrSyndrome 574 597	behavioral disturbances
+T3	DiseaseOrSyndrome 602 623	learning disturbances
+T4	IndividualBehavior 826 845	aggressive behavior
+T5	Finding 869 876	suicide
+T6	HealthCareActivity 994 1010	hospitalizations
+T7	DiseaseOrSyndrome 1036 1043	illness
+T8	HealthCareActivity 1047 1057	consultant
+T9	HealthCareActivity 1058 1070	psychiatrist
+T10	SignOrSymptom 1148 1157	agitation
+T11	SignOrSymptom 1267 1276	agitation
+T12	SignOrSymptom 1395 1404	agitation
+T13	MolecularSequence 270 281	CAG repeats
+T14	MolecularSequence 448 459	CAG repeats
+T15	HealthCareActivity 695 710	genetic testing
+T16	CellFunction 217 235	autosomal dominant
+T17	CellFunction 227 235	dominant
+T18	ClinicalAttribute 913 921	severity
+T19	TemporalConcept 1142 1147	acute
+T20	TemporalConcept 1389 1394	acute
+T21	Finding 721 728	no cure
+T22	Finding 913 921	severity
+T23	SignOrSymptom 774 799	neuropsychiatric symptoms
+T24	DiseaseOrSyndrome 201 210	inherited
+T25	DiseaseOrSyndrome 810 820	depression
+T26	SignOrSymptom 476 481	signs
+T27	SignOrSymptom 659 664	signs
+T28	PopulationGroup 885 895	population
+T29	GeneOrGenome 327 342	Huntingtin gene
+T30	TemporalConcept 766 770	rate
+T31	SignOrSymptom 486 494	symptoms
+T32	SignOrSymptom 548 556	symptoms
+T33	SignOrSymptom 669 677	symptoms
+T34	TemporalConcept 1343 1352	currently
+T35	TemporalConcept 1022 1028	course
+T36	TemporalConcept 464 471	earlier
+T37	HealthCareActivity 1129 1138	treatment
+T38	HealthCareActivity 1376 1385	treatment
+T39	ResearchActivity 1129 1138	treatment
+T40	ResearchActivity 1376 1385	treatment
+T41	Finding 861 865	risk
+T42	ResearchActivity 1233 1240	studies
+T43	BodyPartOrganOrOrganComponent 69 91	central nervous system
+T44	ResearchActivity 1363 1367	data
+T45	PatientOrDisabledGroup 966 974	patients
+T46	PatientOrDisabledGroup 1408 1416	patients
+T47	DiseaseOrSyndrome 0 20	Huntington's disease
+T48	DiseaseOrSyndrome 344 364	Huntington's disease
+T49	DiseaseOrSyndrome 1422 1442	Huntington's disease
+T50	DiseaseOrSyndrome 22 24	HD
+T51	DiseaseOrSyndrome 36 61	neurodegenerative disease
+T52	ResearchActivity 1318 1324	review
+T53	HealthCareActivity 1318 1324	review
+T54	PatientOrDisabledGroup 1161 1172	HD patients
+T55	TemporalConcept 31 35	rare
+T56	SignOrSymptom 159 184	neuropsychiatric sequelae
+T57	CellComponent 289 319	short arm of chromosome 4p16.3
+T58	TemporalConcept 531 542	generations

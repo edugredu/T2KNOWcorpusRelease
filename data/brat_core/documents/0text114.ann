@@ -1,0 +1,58 @@
+T0	DiseaseOrSyndrome 29 54	neurodegenerative disease
+T1	AminoAcidPeptideOrProtein 71 84	polyglutamine
+T2	PathologicFunction 71 94	polyglutamine expansion
+T3	AminoAcidPeptideOrProtein 102 120	protein huntingtin
+T4	TemporalConcept 199 212	disease onset
+T5	DiseaseOrSyndrome 227 280	psychological, cognitive and behavioral complications
+T6	CellOrMolecularDysfunction 326 351	Mitochondrial dysfunction
+T7	CellOrMolecularDysfunction 356 378	metabolic deregulation
+T8	ResearchActivity 424 452	multi-omics characterization
+T9	ResearchActivity 469 482	model systems
+T10	ResearchActivity 568 578	validation
+T11	ResearchActivity 590 601	yeast model
+T12	CellFunction 626 634	pathways
+T13	BiomedicalOccupationOrDiscipline 670 691	Metabolomics analysis
+T14	CellFunction 821 839	metabolic pathways
+T15	Eukaryote 920 924	mice
+T16	CellFunction 1018 1036	metabolic pathways
+T17	AminoAcidPeptideOrProtein 1048 1059	amino acids
+T18	CellFunction 1061 1083	glutathione metabolism
+T19	TemporalConcept 1085 1094	longevity
+T20	CellFunction 1110 1119	mitophagy
+T21	ResearchActivity 1167 1181	gene knockouts
+T22	CellFunction 1285 1293	pathways
+T23	AminoAcidPeptideOrProtein 155 175	polyglutamine repeat
+T24	ClinicalAttribute 217 225	severity
+T25	ResearchActivity 544 559	multiomics data
+T26	ResearchActivity 854 874	multi-omics analysis
+T27	ResearchActivity 1248 1266	yeast model system
+T28	Finding 785 805	considerable overlap
+T29	OrganismAttribute 192 195	age
+T30	ResearchActivity 524 540	Systems analysis
+T31	ResearchActivity 767 775	analysis
+T32	ResearchActivity 866 874	analysis
+T33	CellFunction 1096 1105	autophagy
+T34	DiseaseOrSyndrome 20 22	HD
+T35	DiseaseOrSyndrome 408 410	HD
+T37	DiseaseOrSyndrome 1440 1442	HD
+T38	GeneOrGenome 122 125	HTT
+T39	AminoAcidPeptideOrProtein 122 125	HTT
+T40	Eukaryote 913 918	human
+T41	DiseaseOrSyndrome 0 18	Huntington disease
+T42	PatientOrDisabledGroup 456 464	patients
+T43	PatientOrDisabledGroup 695 706	HD patients
+T44	HealthCareActivity 1485 1494	prognosis
+T45	PathologicFunction 1469 1480	progression
+T46	TemporalConcept 1469 1480	progression
+T47	CellFunction 649 668	protein aggregation
+T48	CellFunction 1306 1325	protein aggregation
+T49	CellFunction 1417 1436	protein aggregation
+T50	CellOrMolecularDysfunction 649 668	protein aggregation
+T51	CellOrMolecularDysfunction 1306 1325	protein aggregation
+T52	CellOrMolecularDysfunction 1417 1436	protein aggregation
+T53	ExperimentalModelOfDisease 716 733	yeast model of HD
+T58	ResearchActivity 929 948	yeast model systems
+T59	CellOrMolecularDysfunction 989 1009	deregulated pathways
+T60	CellFunction 1222 1231	autophagy
+T61	CellOrMolecularDysfunction 1385 1405	deregulated pathways
+T62	CellOrMolecularDysfunction 1196 1217;1232 1240	deregulated metabolic pathways

@@ -1,0 +1,5 @@
+T0	PathologicFunction 10 19	infection
+T1	DiseaseOrSyndrome 134 161	neurodegenerative processes
+T2	DiseaseOrSyndrome 65 86	cognitive impairments
+T3	SignOrSymptom 39 60	neurological symptoms
+T4	Organism 0 9	Ramularia

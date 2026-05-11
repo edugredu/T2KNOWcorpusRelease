@@ -1,0 +1,11 @@
+T0	BodyPartOrganOrOrganComponent 43 48	brain
+T1	DiseaseOrSyndrome 182 201	Alzheimer's disease
+T2	Finding 4 16	accumulation
+T3	AnatomicalAbnormality 20 35	amyloid plaques
+T4	Finding 58 64	normal
+T5	TemporalConcept 122 133	progressive
+T6	PopulationGroup 165 176	individuals
+T7	HealthCareActivity 87 100	communication
+T8	CellFunction 65 82	cellular function
+T9	CellFunction 87 100	communication
+T10	PathologicFunction 134 161	loss of cognitive abilities

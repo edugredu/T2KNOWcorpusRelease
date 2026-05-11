@@ -1,0 +1,67 @@
+T0	HealthCareActivity 97 103	triage
+T1	IndividualBehavior 1295 1302	failure
+T2	DiseaseOrSyndrome 1295 1302	failure
+T3	PathologicFunction 776 793	amyloid pathology
+T4	PathologicFunction 926 943	amyloid pathology
+T5	AminoAcidPeptideOrProtein 631 639	Proteins
+T6	ResearchActivity 660 672	Luminex xMAP
+T7	ClinicalAttribute 67 85	protein biomarkers
+T8	ResearchActivity 674 679	ELISA
+T9	ResearchActivity 244 254	validation
+T10	ResearchActivity 1264 1279	clinical trials
+T11	OrganismAttribute 749 756	ability
+T12	Finding 922 925	low
+T13	DiseaseOrSyndrome 177 196	Alzheimer's disease
+T14	DiseaseOrSyndrome 198 200	AD
+T15	DiseaseOrSyndrome 576 578	AD
+T16	DiseaseOrSyndrome 617 619	AD
+T17	ClinicalAttribute 817 826	biomarker
+T18	ClinicalAttribute 1006 1015	biomarker
+T19	BodyPartOrganOrOrganComponent 145 164	cerebrospinal fluid
+T20	PatientOrDisabledGroup 562 570	patients
+T21	ResearchActivity 952 972	area under the curve
+T22	PopulationGroup 121 133	participants
+T23	PopulationGroup 503 514	individuals
+T24	PopulationGroup 896 907	individuals
+T25	PopulationGroup 1096 1107	individuals
+T26	DiseaseOrSyndrome 584 592	dementia
+T27	ClinicalAttribute 281 291	biomarkers
+T28	ResearchActivity 218 223	study
+T29	BodyPartOrganOrOrganComponent 60 66	plasma
+T30	BodyPartOrganOrOrganComponent 274 280	plasma
+T31	BodyPartOrganOrOrganComponent 345 351	plasma
+T32	PathologicFunction 202 211	pathology
+T33	PathologicFunction 422 431	pathology
+T34	BiomedicalOccupationOrDiscipline 202 211	pathology
+T35	BiomedicalOccupationOrDiscipline 422 431	pathology
+T36	AminoAcidPeptideOrProtein 367 375	proteins
+T37	AminoAcidPeptideOrProtein 720 728	proteins
+T38	AminoAcidPeptideOrProtein 801 809	proteins
+T39	BodyPartOrganOrOrganComponent 1119 1124	blood
+T40	Finding 986 997	performance
+T41	OrganismAttribute 850 853	age
+T42	Finding 387 395	evidence
+T43	ResearchActivity 352 360	analyses
+T44	PopulationGroup 495 502	elderly
+T45	Finding 400 410	prediction
+T46	HealthCareActivity 138 141	PET
+T47	DiseaseOrSyndrome 528 553	mild cognitive impairment
+T48	OrganismAttribute 475 494	cognitively healthy
+T49	ResearchActivity 414 421	in vivo
+T50	ResearchActivity 768 775	in vivo
+T51	PopulationGroup 516 522	people
+T52	HealthCareActivity 1288 1294	screen
+T53	ResearchActivity 1288 1294	screen
+T54	DiseaseOrSyndrome 576 592	AD-type dementia
+T55	Finding 913 917	high
+T56	ResearchActivity 114 120	trials
+T57	HealthCareActivity 317 334	sample collection
+T58	Substance 462 469	samples
+T59	BodyPartOrganOrOrganComponent 462 469	samples
+T60	ResearchActivity 612 629	EMIF-AD catalogue
+T61	ResearchActivity 685 712	Meso Scale Discovery assays
+T62	ResearchActivity 1006 1021	biomarker panel
+T63	GeneOrGenome 1057 1083	apolipoprotein E epsilon 4
+T64	PopulationGroup 1084 1095	non-carrier
+T65	ResearchActivity 1190 1210	immunocapture arrays
+T66	ResearchActivity 817 832	biomarker panel

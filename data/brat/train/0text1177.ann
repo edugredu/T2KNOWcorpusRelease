@@ -1,0 +1,66 @@
+T0	DiseaseOrSyndrome 0 22	Chronic kidney disease
+T1	DiseaseOrSyndrome 24 27	CKD
+T2	DiseaseOrSyndrome 34 51	clinical syndrome
+T3	BodyPartOrganOrOrganComponent 120 126	kidney
+T4	AnatomicalAbnormality 335 349	senile plaques
+T5	DiseaseOrSyndrome 463 466	CKD
+T6	DiseaseOrSyndrome 496 499	CKD
+T7	DiseaseOrSyndrome 580 583	CKD
+T8	DiseaseOrSyndrome 700 703	CKD
+T9	BodyPartOrganOrOrganComponent 752 776	renin-angiotensin system
+T10	BodyPartOrganOrOrganComponent 778 781	RAS
+T11	ResearchActivity 784 791	In vivo
+T12	AminoAcidPeptideOrProtein 851 880	angiotensin-converting enzyme
+T13	CellFunction 837 880	expression of angiotensin-converting enzyme
+T14	AminoAcidPeptideOrProtein 882 885	ACE
+T15	BiologicallyActiveSubstance 882 885	ACE
+T16	PharmacologicSubstance 937 951	ACE inhibitors
+T17	PharmacologicSubstance 953 958	ACEIs
+T18	DiseaseOrSyndrome 1046 1049	CKD
+T19	BodyPartOrganOrOrganComponent 1080 1083	RAS
+T20	CellOrMolecularDysfunction 273 311	accumulation of misfolded beta-amyloid
+T21	Finding 898 913	positive effect
+T22	TemporalConcept 199 208	evolution
+T23	BiologicFunction 199 208	evolution
+T24	PathologicFunction 681 696	pathophysiology
+T25	BiomedicalOccupationOrDiscipline 681 696	pathophysiology
+T26	AminoAcidPeptideOrProtein 321 329	proteins
+T27	DiseaseOrSyndrome 210 229	Alzheimer's disease
+T28	DiseaseOrSyndrome 231 233	AD
+T29	DiseaseOrSyndrome 471 473	AD
+T30	DiseaseOrSyndrome 544 546	AD
+T31	DiseaseOrSyndrome 588 590	AD
+T32	DiseaseOrSyndrome 733 735	AD
+T33	DiseaseOrSyndrome 929 931	AD
+T34	DiseaseOrSyndrome 992 994	AD
+T35	DiseaseOrSyndrome 1054 1056	AD
+T36	AminoAcidPeptideOrProtein 304 311	amyloid
+T37	BiologicallyActiveSubstance 304 311	amyloid
+T38	AminoAcidPeptideOrProtein 313 319	A beta
+T39	DiseaseOrSyndrome 522 539	cognitive decline
+T40	CellOrMolecularDysfunction 371 394	neurofibrillary tangles
+T41	CellComponent 371 386	neurofibrillary
+T42	AminoAcidPeptideOrProtein 299 311	beta-amyloid
+T43	Finding 273 285	accumulation
+T44	PatientOrDisabledGroup 500 508	patients
+T45	BiologicFunction 662 673	development
+T46	CellFunction 662 673	development
+T47	AminoAcidPeptideOrProtein 433 436	tau
+T48	BodyPartOrganOrOrganComponent 1120 1125	brain
+T49	BiologicallyActiveSubstance 433 436	tau
+T50	PopulationGroup 451 461	population
+T51	ResearchActivity 617 623	review
+T52	HealthCareActivity 617 623	review
+T53	BiologicFunction 445 450	aging
+T54	CellFunction 445 450	aging
+T55	CellComponent 259 272	extracellular
+T56	ResearchActivity 792 799	studies
+T57	Finding 965 983	protective effects
+T58	TemporalConcept 187 198	progressive
+T59	BodyPartOrganOrOrganComponent 1091 1111	systemic circulation
+T60	BiologicallyActiveSubstance 851 880	angiotensin-converting enzyme
+T61	AminoAcidPeptideOrProtein 413 436	hyperphosphorylated tau
+T62	BiologicallyActiveSubstance 413 436	hyperphosphorylated tau
+T63	CellOrMolecularDysfunction 396 400	NFTs
+T64	Finding 1030 1042	risk factors
+T65	Finding 158 173	irreversibility

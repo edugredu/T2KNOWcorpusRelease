@@ -1,0 +1,7 @@
+T0	TemporalConcept 138 152	simultaneously
+T1	GeneOrGenome 114 119	genes
+T2	GeneOrGenome 132 137	genes
+T3	Virus 65 69	AAVs
+T4	Virus 0 10	Lentiviral
+T5	GeneOrGenome 36 52	genetic payloads
+T6	NucleicAcidNucleosideOrNucleotide 11 18	vectors

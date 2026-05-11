@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 103 123	Huntington's disease
+T1	HealthCareRelatedOrganization 206 215	community
+T2	PopulationGroup 79 90	individuals
+T3	MachineActivity 0 3	NLP
+T4	MachineActivity 10 18	chatbots
+T5	MachineActivity 23 41	virtual assistants
+T6	MachineActivity 52 74	user-friendly platform

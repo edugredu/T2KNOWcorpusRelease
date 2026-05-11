@@ -1,0 +1,105 @@
+T0	AminoAcidPeptideOrProtein 500 507	laminin
+T1	AminoAcidPeptideOrProtein 590 597	laminin
+T2	AminoAcidPeptideOrProtein 746 753	laminin
+T3	AminoAcidPeptideOrProtein 839 846	laminin
+T4	AminoAcidPeptideOrProtein 847 855	isoforms
+T5	NucleicAcidNucleosideOrNucleotide 847 855	isoforms
+T6	AminoAcidPeptideOrProtein 857 874	laminin receptors
+T7	TemporalConcept 950 970	developmental stages
+T8	HealthCareActivity 1118 1130	manipulation
+T9	AminoAcidPeptideOrProtein 1343 1350	laminin
+T10	AminoAcidPeptideOrProtein 1355 1372	laminin receptors
+T11	AminoAcidPeptideOrProtein 1437 1444	laminin
+T12	BiologicFunction 1720 1724	hope
+T13	CellFunction 64 79	trophic support
+T14	Finding 554 575	Accumulating evidence
+T15	CellComponent 46 51	axons
+T16	Cell 320 351	premyelinating oligodendrocytes
+T17	Cell 424 440	oligodendrocytes
+T18	Cell 786 802	oligodendrocytes
+T19	Cell 920 936	oligodendrocytes
+T20	Cell 1376 1392	oligodendrocytes
+T21	Cell 0 16	Oligodendrocytes
+T22	Cell 228 244	Oligodendrocytes
+T23	DiseaseOrSyndrome 176 198	demyelinating diseases
+T24	DiseaseOrSyndrome 1224 1246	demyelinating diseases
+T25	CellFunction 1134 1161	oligodendrocyte development
+T26	Cell 262 293	oligodendrocyte precursor cells
+T27	CellFunction 301 314	differentiate
+T28	PathologicFunction 176 189	demyelinating
+T29	PathologicFunction 1224 1237	demyelinating
+T30	DiseaseOrSyndrome 208 226	multiple sclerosis
+T31	BodyPartOrganOrOrganComponent 532 552	extracellular matrix
+T32	BiologicallyActiveSubstance 887 906	signaling molecules
+T33	Cell 367 390	mature oligodendrocytes
+T34	CellFunction 887 896	signaling
+T35	CellFunction 1024 1033	signaling
+T36	BiologicFunction 950 963	developmental
+T37	TemporalConcept 950 963	developmental
+T38	CellFunction 704 719	differentiation
+T39	CellFunction 1519 1534	differentiation
+T40	Cell 1699 1701	OL
+T41	CellFunction 689 702	proliferation
+T42	CellFunction 1504 1517	proliferation
+T43	CellFunction 678 687	migration
+T44	CellFunction 1493 1502	migration
+T45	Cell 278 293	precursor cells
+T46	Cell 262 287	oligodendrocyte precursor
+T47	Cell 1699 1709	OL lineage
+T48	Cell 1699 1715	OL lineage cells
+T49	BodyPartOrganOrOrganComponent 98 101	CNS
+T50	BodyPartOrganOrOrganComponent 1403 1406	CNS
+T51	Finding 567 575	evidence
+T52	ResearchActivity 1773 1781	research
+T53	BiologicFunction 396 407	development
+T54	BiologicFunction 1150 1161	development
+T55	CellFunction 396 407	development
+T56	CellFunction 1150 1161	development
+T57	PopulationGroup 148 153	group
+T58	Cell 25 30	cells
+T59	Cell 1407 1412	cells
+T60	Chemical 1002 1019	molecular targets
+T61	HealthCareActivity 1602 1612	challenges
+T62	TemporalConcept 1272 1277	first
+T63	ResearchActivity 1261 1267	review
+T64	ResearchActivity 1656 1676	comprehensive review
+T65	HealthCareActivity 1261 1267	review
+T66	CellFunction 1329 1339	expression
+T67	CellFunction 668 676	survival
+T68	CellFunction 1483 1491	survival
+T69	Cell 83 90	neurons
+T70	BiomedicalOccupationOrDiscipline 649 656	biology
+T71	BiomedicalOccupationOrDiscipline 1084 1091	biology
+T72	BiomedicalOccupationOrDiscipline 1304 1311	biology
+T73	BiomedicalOccupationOrDiscipline 1464 1471	biology
+T74	CellFunction 1034 1042	pathways
+T75	Cell 633 648	oligodendrocyte
+T76	Cell 1068 1083	oligodendrocyte
+T77	Cell 1288 1303	oligodendrocyte
+T78	Cell 1448 1463	oligodendrocyte
+T79	Substance 479 488	molecules
+T80	Substance 897 906	molecules
+T81	CellFunction 1024 1042	signaling pathways
+T82	CellFunction 725 736	myelination
+T83	CellFunction 1540 1551	myelination
+T84	HealthCareActivity 1211 1220	therapies
+T85	TemporalConcept 964 970	stages
+T86	CellFunction 907 916	expressed
+T87	AminoAcidPeptideOrProtein 865 874	receptors
+T88	AminoAcidPeptideOrProtein 1363 1372	receptors
+T89	BiologicallyActiveSubstance 865 874	receptors
+T90	BiologicallyActiveSubstance 1363 1372	receptors
+T91	PathologicFunction 109 120	dysfunction
+T92	BiologicFunction 649 656	biology
+T93	BiologicFunction 1084 1091	biology
+T94	BiologicFunction 1304 1311	biology
+T95	BiologicFunction 1464 1471	biology
+T96	AminoAcidPeptideOrProtein 517 524	protein
+T97	BiologicallyActiveSubstance 500 507	laminin
+T98	BiologicallyActiveSubstance 590 597	laminin
+T99	BiologicallyActiveSubstance 746 753	laminin
+T100	BiologicallyActiveSubstance 839 846	laminin
+T101	BiologicallyActiveSubstance 1343 1350	laminin
+T102	BiologicallyActiveSubstance 1437 1444	laminin
+T103	AminoAcidPeptideOrProtein 1680 1687	laminin
+T104	BiologicallyActiveSubstance 1680 1687	laminin

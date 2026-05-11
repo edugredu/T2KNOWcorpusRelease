@@ -1,0 +1,41 @@
+T0	DiseaseOrSyndrome 42 62	degenerative disease
+T1	EmbryonicStructure 414 422	placenta
+T2	BiologicFunction 502 511	pregnancy
+T3	CellFunction 645 658	remyelination
+T4	CellFunction 907 920	remyelination
+T5	Finding 83 103	immunological attack
+T6	CellFunction 770 781	myelination
+T7	CellComponent 111 124	myelin sheath
+T8	PathologicFunction 740 752	autoimmunity
+T9	CellOrMolecularDysfunction 154 171	axon degeneration
+T10	HealthCareActivity 287 296	therapies
+T11	DiseaseOrSyndrome 20 22	MS
+T12	DiseaseOrSyndrome 341 343	MS
+T13	DiseaseOrSyndrome 679 681	MS
+T14	DiseaseOrSyndrome 924 926	MS
+T15	PathologicFunction 136 149	demyelination
+T16	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T17	CellComponent 224 246	extracellular vesicles
+T18	CellComponent 248 251	EVs
+T19	CellComponent 614 617	EVs
+T20	CellComponent 891 894	EVs
+T21	Cell 173 203	Mesenchymal stem/stromal cells
+T22	DiseaseOrSyndrome 306 332	neurodegenerative diseases
+T23	DiseaseOrSyndrome 571 597	neurodegenerative diseases
+T24	ResearchActivity 662 675	animal models
+T25	ResearchActivity 832 838	review
+T26	HealthCareActivity 832 838	review
+T27	HealthCareActivity 558 567	treatment
+T28	ResearchActivity 558 567	treatment
+T29	TemporalConcept 824 831	current
+T30	Cell 205 209	MSCs
+T31	Cell 445 449	MSCs
+T32	Cell 545 549	MSCs
+T33	CellFunction 696 716	molecular mechanisms
+T34	CellFunction 856 876	molecular mechanisms
+T35	Cell 599 604	PMSCs
+T36	Cell 451 456	PMSCs
+T37	Cell 609 613	PMSC
+T38	Cell 886 890	PMSC
+T39	Finding 385 408	regenerative properties
+T40	Finding 357 380;398 408	potent immunomodulatory properties

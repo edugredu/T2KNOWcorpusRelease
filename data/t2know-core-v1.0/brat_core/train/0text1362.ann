@@ -1,0 +1,58 @@
+T0	CellFunction 66 94	saltatory impulse conduction
+T1	TemporalConcept 1012 1019	origins
+T2	BodyPartOrganOrOrganComponent 1073 1075	SC
+T3	BodyPartOrganOrOrganComponent 1133 1135	SC
+T4	ResearchActivity 963 970	article
+T5	BodyPartOrganOrOrganComponent 550 575	peripheral nervous system
+T6	Cell 501 514	Schwann cells
+T7	Cell 516 519	SCs
+T8	Cell 626 629	SCs
+T9	Cell 1023 1026	SCs
+T10	Cell 1202 1205	SCs
+T11	Finding 643 650	finding
+T12	CellComponent 456 461	axons
+T13	Cell 331 347	oligodendrocytes
+T14	Cell 258 262	OPCs
+T15	Cell 577 581	OPCs
+T16	Cell 817 820	OPC
+T17	Cell 1066 1069	OPC
+T18	CellFunction 308 321	differentiate
+T19	PathologicFunction 164 177	demyelinating
+T20	BodyPartOrganOrOrganComponent 1210 1216	myelin
+T21	InjuryOrPoisoning 279 285	lesion
+T22	PathologicFunction 443 455	demyelinated
+T23	Cell 224 256	oligodendrocyte progenitor cells
+T24	CellFunction 827 842	differentiation
+T25	CellFunction 1076 1091	differentiation
+T26	BiologicFunction 1217 1229	regeneration
+T27	CellComponent 362 376	myelin sheaths
+T28	Cell 240 256	progenitor cells
+T29	NaturalPhenomenonOrProcess 84 94	conduction
+T30	CellFunction 485 497	remyelinated
+T31	CellFunction 30 46	axonal integrity
+T32	HealthCareActivity 1217 1229	regeneration
+T33	CellFunction 1210 1229	myelin regeneration
+T34	BiologicFunction 84 94	conduction
+T35	InjuryOrPoisoning 164 186	demyelinating injuries
+T36	PopulationGroup 617 625	resident
+T37	CellFunction 130 147	neuronal function
+T38	BodyPartOrganOrOrganComponent 194 216	central nervous system
+T39	BodyPartOrganOrOrganComponent 750 772	central nervous system
+T40	BodyPartOrganOrOrganComponent 218 221	CNS
+T41	BodyPartOrganOrOrganComponent 469 472	CNS
+T42	BodyPartOrganOrOrganComponent 613 616	CNS
+T43	BodyPartOrganOrOrganComponent 1034 1037	CNS
+T44	BodyPartOrganOrOrganComponent 1155 1158	CNS
+T45	BodyPartOrganOrOrganComponent 1237 1240	CNS
+T46	BodyPartOrganOrOrganComponent 735 745;758 772	peripheral nervous system
+T47	Cell 538 542	cell
+T48	ResearchActivity 980 986	review
+T49	HealthCareActivity 980 986	review
+T50	Finding 995 1004	knowledge
+T51	TemporalConcept 987 994	current
+T52	CellFunction 401 414	remyelination
+T53	CellFunction 943 956	remyelination
+T54	CellFunction 1136 1147	myelination
+T55	CellComponent 0 14	Myelin sheaths
+T56	EmbryonicStructure 670 687	embryonic origins
+T57	Cell 824 826	SC

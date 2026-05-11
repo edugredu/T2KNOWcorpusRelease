@@ -1,0 +1,61 @@
+T0	PopulationGroup 144 152	carriers
+T1	TemporalConcept 218 229	early stage
+T2	PathologicFunction 302 319;333 344	neuropathological progression
+T3	PathologicFunction 456 468	invasiveness
+T4	InjuryOrPoisoning 626 643	neuronal injuries
+T5	BiologicFunction 663 682	endocrine functions
+T6	BiologicFunction 684 700	immune reactions
+T7	BiologicFunction 702 712	metabolism
+T8	CellFunction 702 712	metabolism
+T9	PopulationGroup 893 902	surrogate
+T10	PharmacologicSubstance 893 902	surrogate
+T11	HealthCareActivity 914 925	Exploration
+T12	HealthCareActivity 990 998	standard
+T13	TemporalConcept 990 998	standard
+T14	ResearchActivity 930 940	validation
+T15	Finding 717 741	differentially expressed
+T16	HealthCareActivity 376 404	disease-modifying treatments
+T17	TemporalConcept 324 344	clinical progression
+T18	TemporalConcept 237 251	disease course
+T19	Finding 470 478	low cost
+T20	Finding 448 468	minimal invasiveness
+T21	HealthCareActivity 503 509	safety
+T22	NucleicAcidNucleosideOrNucleotide 742 748	miRNAs
+T23	BiologicallyActiveSubstance 742 748	miRNAs
+T24	BodyPartOrganOrOrganComponent 568 573	blood
+T25	BodyPartOrganOrOrganComponent 754 759	blood
+T26	BodyPartOrganOrOrganComponent 951 956	blood
+T27	TemporalConcept 160 173	symptom onset
+T28	CellOrMolecularDysfunction 74 82	mutation
+T29	CellOrMolecularDysfunction 135 143	mutation
+T30	ResearchActivity 1018 1024	design
+T31	ResearchActivity 874 889	clinical design
+T32	HealthCareActivity 1018 1024	design
+T33	TemporalConcept 26 37	progressive
+T34	BiologicFunction 553 564	development
+T35	CellFunction 553 564	development
+T36	CellOrMolecularDysfunction 645 661	oxidative stress
+T37	TemporalConcept 1032 1038	future
+T38	ResearchActivity 394 404	treatments
+T39	GeneOrGenome 102 105	HTT
+T40	AminoAcidPeptideOrProtein 102 105	HTT
+T41	BiologicallyActiveSubstance 102 105	HTT
+T42	DiseaseOrSyndrome 0 20	Huntington's disease
+T43	DiseaseOrSyndrome 595 597	HD
+T44	DiseaseOrSyndrome 38 63	neurodegenerative disease
+T45	ResearchActivity 519 525	review
+T46	ResearchActivity 809 815	review
+T47	HealthCareActivity 519 525	review
+T48	HealthCareActivity 809 815	review
+T49	ResearchActivity 1012 1017	study
+T50	AminoAcidPeptideOrProtein 90 100	huntingtin
+T51	BiologicallyActiveSubstance 90 100	huntingtin
+T52	ClinicalAttribute 261 271	biomarkers
+T53	ClinicalAttribute 418 428	biomarkers
+T54	ClinicalAttribute 580 590	biomarkers
+T55	ClinicalAttribute 766 776	biomarkers
+T56	ClinicalAttribute 963 973	biomarkers
+T57	GeneOrGenome 107 111;90 100	gene huntingtin
+T58	BodyPartOrganOrOrganComponent 406 411	Blood
+T59	Finding 480 498	easy accessibility
+T60	Finding 830 852	clinical applicability

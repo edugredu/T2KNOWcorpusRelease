@@ -1,0 +1,74 @@
+T0	AminoAcidPeptideOrProtein 421 430	receptors
+T1	BiologicallyActiveSubstance 421 430	receptors
+T2	CellComponent 434 448	cell membranes
+T3	AminoAcidPeptideOrProtein 491 506	amylin receptor
+T4	AminoAcidPeptideOrProtein 508 511	AMY
+T5	CellFunction 701 705	bind
+T6	InjuryOrPoisoning 764 777	toxic effects
+T7	AminoAcidPeptideOrProtein 822 837	amylin receptor
+T8	AminoAcidPeptideOrProtein 875 890	amylin receptor
+T9	BiologicFunction 891 901	antagonist
+T10	PharmacologicSubstance 891 901	antagonist
+T11	AminoAcidPeptideOrProtein 973 976	AMY
+T12	BiologicFunction 1202 1208	memory
+T13	Cell 76 86	cell types
+T14	ResearchActivity 1092 1116	hippocampal brain slices
+T15	NaturalPhenomenonOrProcess 148 159	degradation
+T16	CellFunction 953 960	binding
+T17	BiologicallyActiveSubstance 491 506	amylin receptor
+T18	BiologicallyActiveSubstance 822 837	amylin receptor
+T19	BiologicallyActiveSubstance 875 890	amylin receptor
+T20	Finding 1228 1240	observations
+T21	Finding 394 406	interactions
+T22	Finding 279 299	neuroprotective role
+T23	Finding 863 871	presence
+T24	ResearchActivity 592 600	in vitro
+T25	DiseaseOrSyndrome 206 225	Alzheimer's disease
+T26	CellComponent 24 27	EVs
+T27	CellComponent 232 235	EVs
+T28	CellComponent 693 696	EVs
+T29	CellComponent 964 967	EVs
+T30	CellComponent 1085 1088	EVs
+T31	CellComponent 1298 1301	EVs
+T32	DiseaseOrSyndrome 227 229	AD
+T33	DiseaseOrSyndrome 303 305	AD
+T34	DiseaseOrSyndrome 1340 1342	AD
+T35	Cell 746 755	N2a cells
+T36	ResearchActivity 605 612	in vivo
+T37	AminoAcidPeptideOrProtein 163 183;193 202	amyloid-beta protein oligomers
+T38	AminoAcidPeptideOrProtein 185 191	A beta
+T39	AminoAcidPeptideOrProtein 369 375	A beta
+T40	AminoAcidPeptideOrProtein 585 591	A beta
+T41	AminoAcidPeptideOrProtein 946 952	A beta
+T42	AminoAcidPeptideOrProtein 1126 1132	A beta
+T43	CellComponent 0 22	Extracellular vesicles
+T44	Finding 1141 1150	reduction
+T45	NaturalPhenomenonOrProcess 1141 1150	reduction
+T46	Eukaryote 986 990	mice
+T47	Eukaryote 1029 1033	mice
+T48	OrganismAttribute 321 328	ability
+T49	ResearchActivity 652 657	study
+T50	ResearchActivity 613 625	experimental
+T51	ResearchActivity 463 470	studies
+T52	InjuryOrPoisoning 347 365	neurotoxic effects
+T53	TemporalConcept 116 126	generation
+T54	AminoAcidPeptideOrProtein 786 793	peptide
+T55	GeneOrGenome 1025 1027	Wt
+T56	GeneOrGenome 1073 1075	Wt
+T57	BiologicFunction 1154 1176	long-term potentiation
+T58	CellComponent 33 59	double membrane structures
+T59	BiologicallyActiveSubstance 508 511	AMY
+T60	AminoAcidPeptideOrProtein 527 539	AMY3 subtype
+T61	BiologicallyActiveSubstance 527 539	AMY3 subtype
+T62	BiologicallyActiveSubstance 679 683	AMY3
+T63	AminoAcidPeptideOrProtein 679 683	AMY3
+T64	AminoAcidPeptideOrProtein 706 733	soluble oligomers of A beta
+T65	PharmacologicSubstance 902 907	AC253
+T66	BiologicallyActiveSubstance 973 976	AMY
+T67	AminoAcidPeptideOrProtein 1059 1063	AMY3
+T68	BiologicallyActiveSubstance 1059 1063	AMY3
+T69	BiologicallyActiveSubstance 1261 1274	AMY receptors
+T70	AminoAcidPeptideOrProtein 1289 1293	AMY3
+T71	BiologicallyActiveSubstance 1289 1293	AMY3
+T72	Finding 1307 1335	potential therapeutic target
+T73	ResearchActivity 973 990	AMY depleted mice

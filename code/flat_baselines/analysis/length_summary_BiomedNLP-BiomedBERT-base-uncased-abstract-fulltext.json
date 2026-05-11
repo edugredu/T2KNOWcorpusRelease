@@ -1,0 +1,51 @@
+{
+  "files": {
+    "<release-root>/T2KNOWcorpus/evalData.json": {
+      "count": 795,
+      "max": 163,
+      "mean": 34.32955974842767,
+      "min": 6,
+      "p50": 30,
+      "p90": 58,
+      "p95": 70,
+      "p99": 92
+    },
+    "<release-root>/T2KNOWcorpus/testData.json": {
+      "count": 1594,
+      "max": 208,
+      "mean": 34.9146800501882,
+      "min": 5,
+      "p50": 30,
+      "p90": 58,
+      "p95": 71,
+      "p99": 104
+    },
+    "<release-root>/T2KNOWcorpus/trainData.json": {
+      "count": 5578,
+      "max": 508,
+      "mean": 31.73503047687343,
+      "min": 4,
+      "p50": 29,
+      "p90": 48,
+      "p95": 55,
+      "p99": 76
+    }
+  },
+  "model_name": "microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext",
+  "overall": {
+    "count": 7967,
+    "coverage": {
+      "128": 0.9988703401531317,
+      "256": 0.9998744822392368,
+      "384": 0.9998744822392368,
+      "512": 1.0
+    },
+    "max": 508,
+    "mean": 32.630099159031005,
+    "min": 4,
+    "p50": 30,
+    "p90": 51,
+    "p95": 60,
+    "p99": 86
+  }
+}

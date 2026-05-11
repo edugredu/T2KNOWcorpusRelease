@@ -1,0 +1,116 @@
+T0	DiseaseOrSyndrome 0 32	Chronic Traumatic Encephalopathy
+T1	DiseaseOrSyndrome 34 37	CTE
+T2	DiseaseOrSyndrome 166 169	CTE
+T3	Cell 178 190	perivascular
+T4	DiseaseOrSyndrome 373 376	CTE
+T5	DiseaseOrSyndrome 492 495	CTE
+T6	CellComponent 951 970	cellular components
+T7	DiseaseOrSyndrome 1127 1130	CTE
+T8	GeneOrGenome 1261 1268	SNAP-25
+T9	AminoAcidPeptideOrProtein 1261 1268	SNAP-25
+T10	BiologicallyActiveSubstance 1261 1268	SNAP-25
+T11	GeneOrGenome 1270 1276	PLXNA4
+T12	GeneOrGenome 1280 1284	UBA1
+T13	GeneOrGenome 1437 1444	SNAP-25
+T14	AminoAcidPeptideOrProtein 1437 1444	SNAP-25
+T15	BiologicallyActiveSubstance 1437 1444	SNAP-25
+T16	GeneOrGenome 1449 1455	PLXNA4
+T17	DiseaseOrSyndrome 1498 1501	CTE
+T18	DiseaseOrSyndrome 1595 1598	CTE
+T19	InjuryOrPoisoning 1595 1598	CTE
+T20	HealthCareActivity 1604 1615	assessments
+T21	Chemical 588 591	ion
+T22	Finding 86 93	history
+T23	TemporalConcept 131 138	initial
+T24	BodyPartOrganOrOrganComponent 523 536	brain tissues
+T25	ResearchActivity 540 573	tandem mass tag-mass spectrometry
+T26	CellComponent 1058 1066	membrane
+T27	ResearchActivity 716 727	experiments
+T28	DiseaseOrSyndrome 349 368	Alzheimer's disease
+T29	CellComponent 288 291	EVs
+T30	CellComponent 473 476	EVs
+T31	CellComponent 931 934	EVs
+T32	CellComponent 1131 1134	EVs
+T33	CellComponent 1155 1158	EVs
+T34	CellComponent 1502 1505	EVs
+T35	CellComponent 1564 1566	EV
+T36	CellComponent 1638 1640	EV
+T37	ResearchActivity 729 776	Weighted protein co expression network analysis
+T38	ResearchActivity 1347 1397	Bioinformatic protein-protein interaction analysis
+T39	BodyPartOrganOrOrganComponent 1000 1008	synaptic
+T40	CellFunction 205 219	phosphorylated
+T41	AminoAcidPeptideOrProtein 251 254	tau
+T42	AminoAcidPeptideOrProtein 258 261	tau
+T43	AminoAcidPeptideOrProtein 342 345	tau
+T44	AminoAcidPeptideOrProtein 885 888	tau
+T45	AminoAcidPeptideOrProtein 892 895	tau
+T46	AminoAcidPeptideOrProtein 903 906	tau
+T47	AminoAcidPeptideOrProtein 1234 1237	tau
+T48	AminoAcidPeptideOrProtein 1461 1464	tau
+T49	BodyPartOrganOrOrganComponent 113 118	brain
+T50	BiologicallyActiveSubstance 251 254	tau
+T51	BiologicallyActiveSubstance 258 261	tau
+T52	BiologicallyActiveSubstance 342 345	tau
+T53	BiologicallyActiveSubstance 885 888	tau
+T54	BiologicallyActiveSubstance 892 895	tau
+T55	BiologicallyActiveSubstance 903 906	tau
+T56	BiologicallyActiveSubstance 1234 1237	tau
+T57	BiologicallyActiveSubstance 1461 1464	tau
+T58	CellComponent 264 286	Extracellular vesicles
+T59	Finding 1599 1603	risk
+T60	OrganismAttribute 503 506	age
+T61	AminoAcidPeptideOrProtein 671 679	proteins
+T62	AminoAcidPeptideOrProtein 822 830	proteins
+T63	AminoAcidPeptideOrProtein 1567 1575	proteins
+T64	AminoAcidPeptideOrProtein 890 895	t-tau
+T65	AminoAcidPeptideOrProtein 1232 1237	t-tau
+T66	AminoAcidPeptideOrProtein 256 261	p-tau
+T67	AminoAcidPeptideOrProtein 901 906	p-tau
+T68	AminoAcidPeptideOrProtein 1079 1093	p-tau (Thr181)
+T69	BiologicallyActiveSubstance 890 895	t-tau
+T70	BiologicallyActiveSubstance 1232 1237	t-tau
+T71	BiologicallyActiveSubstance 256 261	p-tau
+T72	BiologicallyActiveSubstance 901 906	p-tau
+T73	BiologicallyActiveSubstance 1079 1093	p-tau (Thr181)
+T74	CellFunction 1017 1026	secretion
+T75	BiologicFunction 1017 1026	secretion
+T76	CellFunction 1067 1073	fusion
+T77	PathologicFunction 410 422	pathogenesis
+T78	BiologicFunction 975 995	biological processes
+T79	BiologicFunction 1620 1633	understanding
+T80	PathologicFunction 312 322	pathogenic
+T81	Finding 97 101	mild
+T82	HealthCareActivity 1580 1590	monitoring
+T83	Cell 951 959	cellular
+T84	PopulationGroup 67 78	individuals
+T85	PathologicFunction 1650 1669	disease progression
+T86	TemporalConcept 1531 1537	future
+T87	Substance 323 332	molecules
+T88	Substance 638 647	molecules
+T89	CellComponent 1031 1045	multivesicular
+T90	InjuryOrPoisoning 119 125	injury
+T91	DiseaseOrSyndrome 44 53	tauopathy
+T92	CellComponent 1000 1016	synaptic vesicle
+T93	CellFunction 812 821	expressed
+T94	CellComponent 960 970	components
+T95	AminoAcidPeptideOrProtein 903 914	tau protein
+T96	BiologicallyActiveSubstance 903 914	tau protein
+T97	ResearchActivity 1513 1517	data
+T98	AminoAcidPeptideOrProtein 450 457	protein
+T99	AminoAcidPeptideOrProtein 220 250	microtubule-associated protein
+T100	BiologicallyActiveSubstance 220 250	microtubule-associated protein
+T101	BodyPartOrganOrOrganComponent 1046 1057	body-plasma
+T102	AminoAcidPeptideOrProtein 1449 1455	PLXNA4
+T103	BiologicallyActiveSubstance 1449 1455	PLXNA4
+T104	PathologicFunction 139 154	neuropathologic
+T105	Finding 155 162	changes
+T106	AminoAcidPeptideOrProtein 1241 1255	p-tau (Thr181)
+T107	BiologicallyActiveSubstance 1241 1255	p-tau (Thr181)
+T108	BiologicallyActiveSubstance 1270 1276	PLXNA4
+T109	AminoAcidPeptideOrProtein 1270 1276	PLXNA4
+T110	BiologicallyActiveSubstance 1280 1284	UBA1
+T111	AminoAcidPeptideOrProtein 1280 1284	UBA1
+T112	NaturalPhenomenonOrProcess 579 601	reporter ion intensity
+T113	Chemical 579 591	reporter ion
+T114	Finding 1205 1213	accuracy
+T115	Finding 1299 1307	accuracy

@@ -1,0 +1,69 @@
+T0	CellOrMolecularDysfunction 0 23	Abnormal tau inclusions
+T1	ResearchActivity 195 214	molecular diagnosis
+T2	CellFunction 459 466	signals
+T3	Chemical 711 720	particles
+T5	AminoAcidPeptideOrProtein 1210 1213	ROC
+T6	DiseaseOrSyndrome 139 164	neurodegenerative disease
+T7	ResearchActivity 215 222	in vivo
+T8	ResearchActivity 328 338	validation
+T9	ResearchActivity 637 647	validation
+T10	ResearchActivity 1520 1530	validation
+T11	AminoAcidPeptideOrProtein 105 108	tau
+T12	AminoAcidPeptideOrProtein 1157 1160	tau
+T13	AminoAcidPeptideOrProtein 1362 1365	tau
+T14	AminoAcidPeptideOrProtein 1447 1450	tau
+T15	DiseaseOrSyndrome 41 60	Alzheimer's disease
+T16	PathologicFunction 758 767	pathology
+T17	BiomedicalOccupationOrDiscipline 758 767	pathology
+T18	BiologicallyActiveSubstance 105 108	tau
+T19	BiologicallyActiveSubstance 1157 1160	tau
+T20	BiologicallyActiveSubstance 1362 1365	tau
+T21	BiologicallyActiveSubstance 1447 1450	tau
+T22	ResearchActivity 165 173	research
+T23	ResearchActivity 1281 1302	Introspection studies
+T24	BodyPartOrganOrOrganComponent 1176 1181	brain
+T25	ResearchActivity 1347 1352	model
+T26	OrganismAttribute 1324 1331	ability
+T27	Finding 65 75	predictors
+T28	ResearchActivity 864 884	immunohistochemistry
+T29	Finding 28 37	hallmarks
+T30	HealthCareActivity 1491 1494	MRI
+T31	BodyPartOrganOrOrganComponent 504 510	brains
+T32	BodyPartOrganOrOrganComponent 1015 1021	brains
+T33	HealthCareActivity 109 112	PET
+T34	HealthCareActivity 317 320	PET
+T35	HealthCareActivity 429 432	PET
+T36	HealthCareActivity 1534 1537	PET
+T37	ResearchActivity 1214 1217	AUC
+T38	Chemical 113 120	tracers
+T39	Chemical 1538 1545	tracers
+T40	BodyPartOrganOrOrganComponent 512 518	tissue
+T41	Eukaryote 498 503	human
+T42	Eukaryote 1009 1014	human
+T43	Finding 79 95	clinical decline
+T44	ResearchActivity 394 420	voxel-to-voxel correlation
+T45	ResearchActivity 541 556	co-registration
+T46	MachineActivity 562 584	computing requirements
+T47	MachineActivity 831 859	convolutional neural network
+T48	ResearchActivity 894 900	IHCNet
+T49	BiologicallyActiveSubstance 1033 1055	phospho-tau antibodies
+T50	BiologicallyActiveSubstance 1057 1062	AT100
+T51	BiologicallyActiveSubstance 1064 1067	AT8
+T52	BiologicallyActiveSubstance 1073 1076	MC1
+T53	MachineActivity 1121 1146	artificial neural network
+T54	BiologicallyActiveSubstance 1246 1251	AT100
+T55	BiologicallyActiveSubstance 1253 1256	AT8
+T56	BiologicallyActiveSubstance 1262 1265	MC1
+T57	ResearchActivity 1444 1473	3D tau inclusion density maps
+T58	ResearchActivity 1398 1417	end-to-end pipeline
+T59	ManufacturedObject 987 993	slides
+T60	Finding 512 530	tissue deformation
+T61	CellOrMolecularDysfunction 1157 1170	tau inclusion
+T4	CellOrMolecularDysfunction 1447 1460	tau inclusion
+T62	HealthCareActivity 260 272	clinical use
+T63	HealthCareActivity 437 466	(immuno) histological signals
+T64	ResearchActivity 437 466	(immuno) histological signals
+T65	ResearchActivity 801 816	3D density maps
+T66	ResearchActivity 1176 1188	brain images
+T67	MachineActivity 664 686	computational pipeline
+T68	ResearchActivity 736 774	billion-pixel digital pathology images

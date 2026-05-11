@@ -1,0 +1,1 @@
+ASR is used to transcribe and analyze speech samples in research studies focused on understanding the impact of neurodegenerative disorders on language and communication abilities.

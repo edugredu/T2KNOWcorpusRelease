@@ -1,0 +1,73 @@
+T0	DiseaseOrSyndrome 85 94	dementias
+T1	GeneOrGenome 140 147	NMDAR2A
+T2	AminoAcidPeptideOrProtein 140 147	NMDAR2A
+T3	ResearchActivity 374 379	assay
+T4	ResearchActivity 548 564	validation study
+T5	BodyPartOrganOrOrganComponent 684 703	Cerebrospinal fluid
+T6	ResearchActivity 707 726	molecular signature
+T7	ClinicalAttribute 707 726	molecular signature
+T8	HealthCareActivity 747 756	diagnoses
+T9	PopulationGroup 1129 1139	individual
+T10	OrganismAttribute 1129 1139	individual
+T11	BodyPartOrganOrOrganComponent 1188 1204	peripheral blood
+T12	ResearchActivity 1041 1051	validation
+T13	CellOrMolecularDysfunction 1238 1258	synaptic dysfunction
+T14	PopulationGroup 468 484	healthy controls
+T15	PopulationGroup 486 489	HCs
+T16	PopulationGroup 867 870	HCs
+T17	PopulationGroup 879 886	cohorts
+T18	PopulationGroup 586 592	cohort
+T19	PopulationGroup 1021 1027	cohort
+T20	PopulationGroup 1052 1058	cohort
+T21	ResearchActivity 414 435	cross-sectional study
+T22	PopulationGroup 767 779	participants
+T23	CellComponent 254 276	extracellular vesicles
+T24	DiseaseOrSyndrome 50 69	Alzheimer's disease
+T25	CellComponent 278 281	EVs
+T26	CellComponent 357 360	EVs
+T27	CellComponent 808 811	EVs
+T28	CellComponent 966 969	EVs
+T29	CellComponent 1181 1184	EVs
+T30	DiseaseOrSyndrome 71 73	AD
+T31	DiseaseOrSyndrome 451 453	AD
+T32	DiseaseOrSyndrome 704 706	AD
+T33	DiseaseOrSyndrome 764 766	AD
+T34	DiseaseOrSyndrome 852 854	AD
+T35	DiseaseOrSyndrome 944 946	AD
+T36	DiseaseOrSyndrome 1262 1264	AD
+T37	CellComponent 929 931	EV
+T38	OrganismAttribute 468 475	healthy
+T39	PatientOrDisabledGroup 454 462	patients
+T40	PatientOrDisabledGroup 524 532	patients
+T41	DiseaseOrSyndrome 1269 1277	dementia
+T42	ClinicalAttribute 200 206	marker
+T43	ClinicalAttribute 1228 1234	marker
+T44	ResearchActivity 978 998	area under the curve
+T45	ClinicalAttribute 38 45	markers
+T46	ClinicalAttribute 932 939	markers
+T47	ClinicalAttribute 947 954	markers
+T48	Cell 1140 1146	neuron
+T49	ResearchActivity 1117 1125	analysis
+T50	BodyPartOrganOrOrganComponent 170 178	synaptic
+T51	BodyPartOrganOrOrganComponent 1155 1163	synaptic
+T52	BodyPartOrganOrOrganComponent 210 232	central nervous system
+T53	ResearchActivity 1076 1081	study
+T54	BodyPartOrganOrOrganComponent 234 237	CNS
+T55	BodyPartOrganOrOrganComponent 796 799	CNS
+T56	BodyPartOrganOrOrganComponent 917 920	CNS
+T57	BodyPartOrganOrOrganComponent 247 253	plasma
+T58	BodyPartOrganOrOrganComponent 350 356	plasma
+T59	BodyPartOrganOrOrganComponent 815 821	plasma
+T60	ResearchActivity 1011 1020	discovery
+T61	ResearchActivity 888 906	Integrative models
+T62	ResearchActivity 781 788	Results
+T63	DiseaseOrSyndrome 499 518	Parkinson's disease
+T64	DiseaseOrSyndrome 520 522	PD
+T65	Finding 574 585	independent
+T66	BiologicallyActiveSubstance 140 147	NMDAR2A
+T67	ResearchActivity 299 330	flow cytometry-based technology
+T68	HealthCareRelatedOrganization 617 632	medical centers
+T69	ResearchActivity 638 681	Alzheimer's Disease Neuroimaging Initiative
+T70	HealthCareRelatedOrganization 638 681	Alzheimer's Disease Neuroimaging Initiative
+T71	CellFunction 1155 1172	synaptic function
+T72	CellFunction 170 187	synaptic function

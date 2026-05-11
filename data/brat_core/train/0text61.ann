@@ -1,0 +1,22 @@
+T0	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T1	PopulationGroup 85 91	people
+T2	ResearchActivity 135 143	research
+T3	CellFunction 457 475	molecular pathways
+T4	CellOrMolecularDysfunction 581 604	cellular proteotoxicity
+T5	DiseaseOrSyndrome 608 627	Alzheimer's disease
+T6	DiseaseOrSyndrome 629 648	Parkinson's disease
+T7	DiseaseOrSyndrome 676 705	amyotrophic lateral sclerosis
+T8	HealthCareActivity 925 949	therapeutic intervention
+T9	CellOrMolecularDysfunction 287 311	Cell proteome alteration
+T10	TemporalConcept 127 134	current
+T11	TemporalConcept 537 544	current
+T12	DiseaseOrSyndrome 650 670	Huntington's disease
+T13	CellOrMolecularDysfunction 377 394	neurodegeneration
+T14	PathologicFunction 845 856	progression
+T15	TemporalConcept 845 856	progression
+T16	ResearchActivity 515 521	review
+T17	HealthCareActivity 515 521	review
+T18	TemporalConcept 118 122	past
+T19	CellOrMolecularDysfunction 205 219	proteotoxicity
+T20	ResearchActivity 753 763	literature
+T21	CellOrMolecularDysfunction 801 815	proteotoxicity

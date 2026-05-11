@@ -1,0 +1,93 @@
+T0	Finding 253 274	clinical significance
+T1	AminoAcidPeptideOrProtein 1283 1306	glycosylated hemoglobin
+T2	BiologicallyActiveSubstance 1283 1306	glycosylated hemoglobin
+T3	AminoAcidPeptideOrProtein 1308 1313	HbA1c
+T4	BiologicallyActiveSubstance 1308 1313	HbA1c
+T5	ResearchActivity 544 560	demographic data
+T6	Finding 1873 1897	novel therapeutic target
+T7	ResearchActivity 663 688	logistic regression model
+T8	CellFunction 1062 1074	upregulation
+T9	NucleicAcidNucleosideOrNucleotide 30 39	microRNAs
+T10	BiologicallyActiveSubstance 30 39	microRNAs
+T11	NucleicAcidNucleosideOrNucleotide 41 47	miRNAs
+T12	NucleicAcidNucleosideOrNucleotide 219 225	miRNAs
+T13	BiologicallyActiveSubstance 41 47	miRNAs
+T14	BiologicallyActiveSubstance 219 225	miRNAs
+T15	HealthCareActivity 1137 1141	MMSE
+T16	HealthCareActivity 1361 1365	MMSE
+T17	ResearchActivity 729 732	ROC
+T18	ResearchActivity 1173 1182	ROC curve
+T19	BodyPartOrganOrOrganComponent 908 913	serum
+T20	BodyPartOrganOrOrganComponent 995 1000	serum
+T21	BodyPartOrganOrOrganComponent 1590 1595	serum
+T22	BodyPartOrganOrOrganComponent 1625 1630	serum
+T23	BiologicallyActiveSubstance 864 873	TNF-alpha
+T24	BiologicallyActiveSubstance 1631 1640	TNF-alpha
+T25	AminoAcidPeptideOrProtein 864 873	TNF-alpha
+T26	AminoAcidPeptideOrProtein 1631 1640	TNF-alpha
+T27	Finding 1143 1149	scores
+T28	Finding 1366 1372	scores
+T29	DiseaseOrSyndrome 107 126	Alzheimer's disease
+T30	DiseaseOrSyndrome 128 130	AD
+T31	DiseaseOrSyndrome 334 336	AD
+T32	DiseaseOrSyndrome 447 449	AD
+T33	DiseaseOrSyndrome 492 494	AD
+T34	DiseaseOrSyndrome 1012 1014	AD
+T35	DiseaseOrSyndrome 1542 1544	AD
+T36	DiseaseOrSyndrome 1732 1734	AD
+T37	ClinicalAttribute 1708 1728	diagnostic biomarker
+T38	PopulationGroup 512 520	controls
+T39	PopulationGroup 1038 1046	controls
+T40	PatientOrDisabledGroup 433 441	patients
+T41	PatientOrDisabledGroup 495 503	patients
+T42	PatientOrDisabledGroup 1015 1023	patients
+T43	PatientOrDisabledGroup 1545 1553	patients
+T44	PatientOrDisabledGroup 1735 1743	patients
+T45	HealthCareActivity 1106 1135	Mini-Mental State Examination
+T46	ResearchActivity 1199 1219	area under the curve
+T47	ResearchActivity 632 636	data
+T48	ResearchActivity 914 918	data
+T49	PathologicFunction 1902 1919	neuroinflammation
+T50	Finding 801 814	relationships
+T51	HealthCareActivity 321 330	treatment
+T52	ResearchActivity 321 330	treatment
+T53	HealthCareActivity 307 316	diagnosis
+T54	ResearchActivity 358 363	study
+T55	ResearchActivity 481 486	study
+T56	ResearchActivity 933 938	study
+T57	PathologicFunction 92 103	progression
+T58	TemporalConcept 92 103	progression
+T59	Finding 1762 1784	diagnostic performance
+T60	ResearchActivity 920 927	Results
+T61	ResearchActivity 1242 1270	Logistic regression analyses
+T62	PatientOrDisabledGroup 451 459	Patients
+T63	HealthCareActivity 1474 1483	detection
+T64	Substance 1001 1008	samples
+T65	BodyPartOrganOrOrganComponent 1001 1008	samples
+T66	ClinicalAttribute 1625 1647	serum TNF-alpha levels
+T67	ClinicalAttribute 1679 1692	Serum miR-128
+T68	NucleicAcidNucleosideOrNucleotide 823 830	miR-128
+T69	BiologicallyActiveSubstance 823 830	miR-128
+T70	BiologicallyActiveSubstance 950 957	miR-128
+T71	NucleicAcidNucleosideOrNucleotide 950 957	miR-128
+T72	ClinicalAttribute 589 609	serum miR-128 levels
+T73	NucleicAcidNucleosideOrNucleotide 397 404	miR-128
+T74	BiologicallyActiveSubstance 397 404	miR-128
+T75	BiologicallyActiveSubstance 788 795	miR-128
+T76	NucleicAcidNucleosideOrNucleotide 788 795	miR-128
+T77	NucleicAcidNucleosideOrNucleotide 1223 1230	miR-128
+T78	BiologicallyActiveSubstance 1223 1230	miR-128
+T79	ClinicalAttribute 1377 1397	serum miR-128 levels
+T80	ClinicalAttribute 1518 1538	serum miR-128 levels
+T81	AminoAcidPeptideOrProtein 1596 1602	IL-113
+T82	BiologicallyActiveSubstance 1596 1602	IL-113
+T83	AminoAcidPeptideOrProtein 857 863	IL-113
+T84	BiologicallyActiveSubstance 857 863	IL-113
+T85	Finding 413 429	diagnostic value
+T86	ResearchActivity 694 727;734 740	receiver operating characteristic curves
+T87	Finding 768 784	diagnostic value
+T88	BiologicallyActiveSubstance 835 855	inflammatory factors
+T89	Chemical 1323 1346	low-density lipoprotein
+T90	BiologicallyActiveSubstance 1323 1346	low-density lipoprotein
+T91	ResearchActivity 1448 1457	ROC curve
+T92	ClinicalAttribute 1590 1602	serum IL-113

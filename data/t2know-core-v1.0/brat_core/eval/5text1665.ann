@@ -1,0 +1,6 @@
+T0	CellOrMolecularDysfunction 118 135	neurodegeneration
+T1	NucleicAcidNucleosideOrNucleotide 20 23	RNA
+T2	HealthCareActivity 60 80	therapeutic strategy
+T3	GeneOrGenome 100 105	genes
+T4	Virus 0 10	Lentivirus
+T5	CellFunction 20 36	RNA interference

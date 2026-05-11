@@ -1,0 +1,38 @@
+T0	TemporalConcept 136 150	disease phases
+T1	AminoAcidPeptideOrProtein 282 294	tau peptides
+T2	CellComponent 366 388	extracellular vesicles
+T3	CellComponent 390 393	EVs
+T4	ManufacturedObject 432 440	vehicles
+T5	CellComponent 634 637	EVs
+T6	ResearchActivity 562 568	review
+T7	HealthCareActivity 562 568	review
+T8	Cell 417 428	brain cells
+T9	Cell 660 671	brain cells
+T10	PathologicFunction 937 948	progression
+T11	TemporalConcept 937 948	progression
+T12	CellOrMolecularDysfunction 487 507	synaptic alterations
+T13	DiseaseOrSyndrome 21 23	AD
+T14	DiseaseOrSyndrome 187 189	AD
+T15	DiseaseOrSyndrome 783 785	AD
+T16	DiseaseOrSyndrome 934 936	AD
+T17	CellOrMolecularDysfunction 753 773	synaptic dysfunction
+T18	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T19	TemporalConcept 592 599	current
+T20	CellFunction 813 834	EV-neuron interaction
+T21	ResearchActivity 331 344	investigation
+T22	ResearchActivity 708 721	working model
+T23	DiseaseOrSyndrome 198 218	cognitive impairment
+T24	CellOrMolecularDysfunction 675 695	neuronal alterations
+T25	Finding 241 252	involvement
+T26	HealthCareActivity 892 914	therapeutic approaches
+T27	Substance 451 460	molecules
+T28	ResearchActivity 600 610	literature
+T29	AminoAcidPeptideOrProtein 270 276	A beta
+T30	AminoAcidPeptideOrProtein 256 268	amyloid beta
+T31	CellComponent 813 815	EV
+T32	CellOrMolecularDysfunction 55 71	synaptic failure
+T33	CellFunction 73 90	Synaptic function
+T34	CellComponent 726 728	EV
+T35	CellFunction 726 749	EV-mediated propagation
+T36	Finding 789 809	deeper understanding
+T37	TemporalConcept 777 782	early

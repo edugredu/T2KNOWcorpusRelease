@@ -1,0 +1,52 @@
+T0	DiseaseOrSyndrome 283 318	chronic neurodegenerative disorders
+T1	Cell 400 431	oligodendrocyte progenitor cell
+T2	BiologicallyActiveSubstance 502 516	neuromodulator
+T3	NucleicAcidNucleosideOrNucleotide 517 526	adenosine
+T4	Finding 632 641	mediators
+T5	Cell 705 731	oligodendrocyte progenitor
+T6	Cell 933 964	oligodendrocyte progenitor cell
+T7	CellFunction 1032 1052	cell differentiation
+T8	CellFunction 1105 1131	adenosine receptor ligands
+T9	ResearchActivity 1135 1164	potential therapeutic targets
+T10	PopulationGroup 842 847	group
+T11	DiseaseOrSyndrome 116 138	demyelinating diseases
+T12	CellFunction 732 747	cell maturation
+T13	CellFunction 960 975	cell maturation
+T14	PathologicFunction 1168 1193	demyelinating pathologies
+T15	DiseaseOrSyndrome 147 165	multiple sclerosis
+T16	DiseaseOrSyndrome 1202 1220	multiple sclerosis
+T17	CellFunction 320 333	remyelination
+T18	CellFunction 645 658	remyelination
+T19	ResearchActivity 1066 1072	review
+T20	HealthCareActivity 1066 1072	review
+T21	Cell 251 274	mature oligodendrocytes
+T22	Cell 213 245	oligodendrocyte progenitor cells
+T23	Cell 804 836	oligodendrocyte progenitor cells
+T24	BodyPartOrganOrOrganComponent 78 83	brain
+T25	CellFunction 194 209	differentiation
+T26	CellFunction 427 447	cell differentiation
+T27	CellFunction 167 180	Remyelination
+T28	CellComponent 23 37	myelin sheaths
+T29	TemporalConcept 283 290	chronic
+T30	Cell 456 484	myelinating oligodendrocytes
+T31	CellFunction 752 761	migration
+T32	CellFunction 791 800	apoptosis
+T33	PathologicFunction 94 106	degeneration
+T34	BiologicallyActiveSubstance 536 545	receptors
+T35	BiologicallyActiveSubstance 575 584	receptors
+T36	Cell 0 15	Oligodendrocyte
+T37	AminoAcidPeptideOrProtein 536 545	receptors
+T38	AminoAcidPeptideOrProtein 575 584	receptors
+T39	DiseaseOrSyndrome 291 318	neurodegenerative disorders
+T40	ResearchActivity 851 859	research
+T41	CellFunction 49 70	synaptic transmission
+T42	BiologicallyActiveSubstance 687 693	A(1)Rs
+T43	AminoAcidPeptideOrProtein 687 693	A(1)Rs
+T44	AminoAcidPeptideOrProtein 774 780	A(3)Rs
+T45	BiologicallyActiveSubstance 774 780	A(3)Rs
+T46	AminoAcidPeptideOrProtein 907 913	A(2A)R
+T47	BiologicallyActiveSubstance 907 913	A(2A)R
+T48	AminoAcidPeptideOrProtein 918 924	A(2B)R
+T49	BiologicallyActiveSubstance 918 924	A(2B)R
+T50	CellFunction 988 1017	voltage-dependent K+ currents
+T51	BiologicallyActiveSubstance 1105 1131	adenosine receptor ligands

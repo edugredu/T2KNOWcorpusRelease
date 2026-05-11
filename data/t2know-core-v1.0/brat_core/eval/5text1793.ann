@@ -1,0 +1,8 @@
+T0	BiomedicalOccupationOrDiscipline 132 153	regenerative medicine
+T1	BiomedicalOccupationOrDiscipline 120 127	biology
+T2	Cell 41 52	multipotent
+T3	Cell 110 119	stem cell
+T4	BiologicFunction 120 127	biology
+T5	Cell 53 68	cell population
+T6	Substance 29 36	plastic
+T7	EmbryonicStructure 4 16	neural crest

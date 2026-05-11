@@ -1,0 +1,67 @@
+T0	BodyPartOrganOrOrganComponent 87 95	synapses
+T1	HealthCareActivity 380 387	monitor
+T2	ManufacturedObject 380 387	monitor
+T3	CellComponent 476 480	EXOs
+T4	Chemical 492 499	bilipid
+T5	Substance 558 570	biomolecules
+T6	NucleicAcidNucleosideOrNucleotide 592 605	nucleic acids
+T7	CellComponent 650 654	EXOs
+T8	CellComponent 776 780	EXOs
+T9	CellComponent 867 875	exosomal
+T10	CellComponent 1010 1018	exosomal
+T11	ClinicalAttribute 1070 1080;1097 1107	diagnostic biomarkers
+T12	TemporalConcept 619 625	Recent
+T13	Chemical 611 617	lipids
+T14	NucleicAcidNucleosideOrNucleotide 876 885	microRNAs
+T15	BiologicallyActiveSubstance 876 885	microRNAs
+T16	PathologicFunction 659 669	pathogenic
+T17	PharmacologicSubstance 1122 1127	drugs
+T18	TemporalConcept 328 337	Currently
+T19	CellComponent 466 474	Exosomes
+T20	DiseaseOrSyndrome 147 151	NDDs
+T21	DiseaseOrSyndrome 197 201	NDDs
+T22	DiseaseOrSyndrome 430 434	NDDs
+T23	DiseaseOrSyndrome 941 945	NDDs
+T24	DiseaseOrSyndrome 1029 1033	NDDs
+T25	DiseaseOrSyndrome 1132 1136	NDDs
+T26	HealthCareActivity 810 819	diagnosis
+T27	CellComponent 492 537	bilipid layer-enclosed extracellular vesicles
+T28	NucleicAcidNucleosideOrNucleotide 887 893	miRNAs
+T29	NucleicAcidNucleosideOrNucleotide 1019 1025	miRNAs
+T30	BiologicallyActiveSubstance 887 893	miRNAs
+T31	BiologicallyActiveSubstance 1019 1025	miRNAs
+T32	HealthCareActivity 914 923	therapies
+T33	DiseaseOrSyndrome 251 269	multiple sclerosis
+T34	ClinicalAttribute 408 426	treatment response
+T35	PopulationGroup 172 178	people
+T36	HealthCareActivity 455 464	prognosis
+T37	PopulationGroup 670 682	participants
+T38	PathologicFunction 744 763	disease progression
+T39	BodyPartOrganOrOrganComponent 103 117	nervous system
+T40	PathologicFunction 60 71	dysfunction
+T41	AminoAcidPeptideOrProtein 582 590	proteins
+T42	HealthCareActivity 824 833	treatment
+T43	ResearchActivity 824 833	treatment
+T44	TemporalConcept 39 50	progressive
+T45	Cell 75 82	neurons
+T46	Finding 626 634	evidence
+T47	ResearchActivity 845 852	studies
+T48	TemporalConcept 835 843	Recently
+T49	TemporalConcept 978 984	latest
+T50	PathologicFunction 392 403	progression
+T51	PathologicFunction 752 763	progression
+T52	TemporalConcept 392 403	progression
+T53	TemporalConcept 752 763	progression
+T54	DiseaseOrSyndrome 119 145	neurodegenerative diseases
+T55	DiseaseOrSyndrome 700 726	neurodegenerative diseases
+T56	DiseaseOrSyndrome 271 291	Huntington's disease
+T57	DiseaseOrSyndrome 210 229	Parkinson's disease
+T58	DiseaseOrSyndrome 297 326	amyotrophic lateral sclerosis
+T59	DiseaseOrSyndrome 231 250	Alzheimer's disease
+T60	ResearchActivity 955 961	review
+T61	HealthCareActivity 955 961	review
+T62	ClinicalAttribute 342 362	sensitive biomarkers
+T63	ClinicalAttribute 927 937	biomarkers
+T64	ClinicalAttribute 1085 1107	therapeutic biomarkers
+T65	ResearchActivity 985 993	research
+T66	CellOrMolecularDysfunction 51 55;72 82	loss of neurons

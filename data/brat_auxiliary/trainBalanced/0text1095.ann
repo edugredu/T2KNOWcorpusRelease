@@ -1,0 +1,83 @@
+T0	HealthCareActivity 441 467	intravenous administration
+T1	Chemical 613 628	ultrasmall SPIO
+T2	Chemical 630 635	USPIO
+T3	BodyPartOrganOrOrganComponent 738 747	forebrain
+T4	GeneOrGenome 888 893	FOXG1
+T5	GeneOrGenome 895 901	Nkx2.1
+T6	AminoAcidPeptideOrProtein 903 916	alpha-catenin
+T7	BiologicallyActiveSubstance 903 916	alpha-catenin
+T8	AminoAcidPeptideOrProtein 929 945	beta-tubulin III
+T9	Substance 976 981	media
+T10	ResearchActivity 1010 1020	sonication
+T11	ResearchActivity 1189 1199	sonication
+T12	BiologicFunction 1239 1247	labeling
+T13	GeneOrGenome 1249 1255	miR-21
+T14	ResearchActivity 1285 1295	sonication
+T15	HealthCareActivity 1297 1323	Magnetic resonance imaging
+T16	Chemical 1371 1376	USPIO
+T17	ManufacturedObject 1401 1412	agarose gel
+T18	Chemical 1441 1446	USPIO
+T19	Chemical 1638 1641	gel
+T20	Substance 1638 1641	gel
+T21	Chemical 1676 1681	USPIO
+T22	HealthCareActivity 1808 1819	examination
+T23	OrganismAttribute 703 713	small size
+T24	HealthCareActivity 441 452	intravenous
+T25	DiseaseOrSyndrome 292 307	ischemic stroke
+T26	BodyPartOrganOrOrganComponent 748 784	neural progenitor cortical organoids
+T27	HealthCareActivity 106 124	therapeutic agents
+T28	HealthCareActivity 1325 1328	MRI
+T29	HealthCareActivity 1595 1598	MRI
+T30	Chemical 469 497;505 518	Superparamagnetic iron oxide nanoparticles
+T31	HealthCareActivity 322 343	clinical applications
+T32	CellComponent 57 70	intracellular
+T33	DiseaseOrSyndrome 301 307	stroke
+T34	CellComponent 25 47	extracellular vesicles
+T35	DiseaseOrSyndrome 268 287	Alzheimer's disease
+T36	CellComponent 49 52	EVs
+T37	CellComponent 173 176	EVs
+T38	CellComponent 347 350	EVs
+T39	CellComponent 593 596	EVs
+T40	CellComponent 686 689	EVs
+T41	CellComponent 947 950	EVs
+T42	CellComponent 1385 1388	EVs
+T43	CellComponent 1455 1458	EVs
+T44	CellComponent 1630 1633	EVs
+T45	CellComponent 1763 1766	EVs
+T46	CellComponent 1048 1050	EV
+T47	ResearchActivity 723 728	study
+T48	ResearchActivity 1652 1657	study
+T49	BodyPartOrganOrOrganComponent 1740 1745	brain
+T50	ClinicalAttribute 90 100	biomarkers
+T51	Eukaryote 189 194	human
+T52	Eukaryote 818 823	human
+T53	Finding 71 80	mediators
+T54	ResearchActivity 1719 1727	in vitro
+T55	ResearchActivity 1078 1108	nanoparticle tracking analysis
+T56	DiseaseOrSyndrome 236 258	neurological disorders
+T57	Finding 1269 1278	decreased
+T58	ResearchActivity 1800 1807	in vivo
+T59	Finding 408 434	low therapeutic efficacies
+T60	OrganismAttribute 1154 1158	size
+T61	Chemical 1051 1060	particles
+T62	Cell 824 854	induced pluripotent stem cells
+T63	Cell 856 861	iPSCs
+T64	Cell 195 205	stem cells
+T65	Cell 844 854	stem cells
+T66	CellFunction 878 887	expressed
+T67	BiologicFunction 1031 1044	concentration
+T68	BiologicFunction 1209 1222	concentration
+T69	Finding 1543 1551	reducing
+T70	Chemical 499 503	SPIO
+T71	Chemical 1000 1006	USPIOs
+T72	BodyPartOrganOrOrganComponent 786 791	iNPCo
+T73	BodyPartOrganOrOrganComponent 872 877	iNPCo
+T74	AminoAcidPeptideOrProtein 888 893	FOXG1
+T75	BiologicallyActiveSubstance 888 893	FOXG1
+T76	BiologicallyActiveSubstance 895 901	Nkx2.1
+T77	AminoAcidPeptideOrProtein 895 901	Nkx2.1
+T78	BiologicallyActiveSubstance 929 945	beta-tubulin III
+T79	BodyPartOrganOrOrganComponent 970 975	iNPCo
+T80	Finding 1114 1136	no significant changes
+T81	ResearchActivity 1556 1572	signal intensity
+T82	BodyPartOrganOrOrganComponent 1746 1754	organoid

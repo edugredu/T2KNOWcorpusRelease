@@ -1,0 +1,36 @@
+T0	CellOrMolecularDysfunction 0 24	DNA double-strand breaks
+T1	CellOrMolecularDysfunction 26 30	DSBs
+T2	InjuryOrPoisoning 90 95	toxic
+T3	Cell 107 123	eukaryotic cells
+T4	CellOrMolecularDysfunction 125 129	DSBs
+T5	CellFunction 190 209	V(D)J recombination
+T6	AminoAcidPeptideOrProtein 190 209	V(D)J recombination
+T7	CellFunction 211 232	meiotic recombination
+T8	CellFunction 234 249	DNA replication
+T9	CellFunction 254 267	transcription
+T10	CellOrMolecularDysfunction 269 281	Deregulation
+T11	CellOrMolecularDysfunction 285 289	DSBs
+T12	DiseaseOrSyndrome 311 328	multiple diseases
+T13	DiseaseOrSyndrome 708 729	ataxia telangiectasia
+T14	CellOrMolecularDysfunction 515 528	DSB formation
+T15	HealthCareActivity 462 470	reviewed
+T16	ResearchActivity 462 470	reviewed
+T17	Eukaryote 332 344	human beings
+T18	SignOrSymptom 708 714	ataxia
+T19	DiseaseOrSyndrome 708 714	ataxia
+T20	BiologicFunction 158 181	physiological processes
+T21	PathologicFunction 561 573	pathogenesis
+T22	InjuryOrPoisoning 96 103	lesions
+T23	BiologicFunction 533 539	repair
+T24	HealthCareActivity 533 539	repair
+T25	PathologicFunction 500 511	dysfunction
+T26	DiseaseOrSyndrome 636 638	AD
+T27	TemporalConcept 475 481	recent
+T28	Eukaryote 332 337	human
+T29	DiseaseOrSyndrome 358 384	neurodegenerative diseases
+T30	DiseaseOrSyndrome 678 698	Huntington's disease
+T31	DiseaseOrSyndrome 700 702	HD
+T32	DiseaseOrSyndrome 672 675	ALS
+T33	DiseaseOrSyndrome 641 670	amyotrophic lateral sclerosis
+T34	DiseaseOrSyndrome 615 634	Alzheimer's disease
+T35	DiseaseOrSyndrome 577 604	neurodegenerative disorders

@@ -1,0 +1,117 @@
+T0	HealthCareActivity 195 213	precision medicine
+T1	BodyPartOrganOrOrganComponent 253 265	biospecimens
+T2	Substance 325 333	specimen
+T3	BodyPartOrganOrOrganComponent 325 333	specimen
+T4	OrganismAttribute 334 347	heterogeneity
+T5	TemporalConcept 433 442	precision
+T6	AminoAcidPeptideOrProtein 506 516	collection
+T7	ResearchActivity 625 648	EV isolation approaches
+T8	CellComponent 718 740	intracellular vesicles
+T9	BiomedicalOccupationOrDiscipline 1041 1058	pharmacologically
+T10	HealthCareActivity 1059 1070	manipulated
+T11	Chemical 1083 1089	GW4869
+T12	Chemical 1093 1103	picrotoxin
+T13	IndividualBehavior 1241 1250	integrity
+T14	CellComponent 1267 1275	vesicles
+T15	HealthCareActivity 1479 1486	release
+T16	ResearchActivity 1479 1486	release
+T17	BiomedicalOccupationOrDiscipline 1550 1567	pharmacologically
+T18	HealthCareActivity 1568 1579	manipulated
+T19	ManufacturedObject 1778 1786	monitors
+T20	PathologicFunction 2014 2020	stress
+T21	ResearchActivity 521 537	characterization
+T22	ResearchActivity 2151 2167	characterization
+T23	CellComponent 11 33	Extracellular vesicles
+T24	CellComponent 51 60	small EVs
+T25	CellComponent 62 66	sEVs
+T26	CellComponent 566 570	sEVs
+T27	CellComponent 1541 1545	sEVs
+T28	CellComponent 1832 1836	sEVs
+T29	CellComponent 1984 1988	sEVs
+T30	CellComponent 2232 2236	sEVs
+T31	CellComponent 1352 1355	sEV
+T32	CellComponent 2119 2122	sEV
+T33	PathologicFunction 1672 1689	brain pathologies
+T34	DiseaseOrSyndrome 1923 1934	memory loss
+T35	SignOrSymptom 1923 1934	memory loss
+T36	DiseaseOrSyndrome 1699 1709	depression
+T37	ResearchActivity 949 955	method
+T38	ResearchActivity 1154 1160	method
+T39	ResearchActivity 1329 1335	method
+T40	ResearchActivity 1487 1493	method
+T41	ResearchActivity 1771 1777	method
+T42	ResearchActivity 2109 2115	method
+T43	Eukaryote 1598 1605	animals
+T44	PopulationGroup 1365 1375	population
+T45	HealthCareActivity 949 955	method
+T46	HealthCareActivity 1154 1160	method
+T47	HealthCareActivity 1329 1335	method
+T48	HealthCareActivity 1487 1493	method
+T49	HealthCareActivity 1771 1777	method
+T50	HealthCareActivity 2109 2115	method
+T51	CellFunction 1026 1036	biogenesis
+T52	CellFunction 1517 1527	biogenesis
+T53	Finding 1939 1952	mood deficits
+T54	BiologicFunction 2240 2254	brain function
+T55	BodyPartOrganOrOrganComponent 1418 1430	brain tissue
+T56	CellComponent 76 84	exosomes
+T57	CellComponent 1899 1907	exosomes
+T58	ClinicalAttribute 379 395	clinical profile
+T59	DiseaseOrSyndrome 145 160	brain disorders
+T60	CellFunction 1803 1813	inhibition
+T61	BodyPartOrganOrOrganComponent 619 624	brain
+T62	BodyPartOrganOrOrganComponent 1213 1218	brain
+T63	BodyPartOrganOrOrganComponent 1893 1898	brain
+T64	BodyPartOrganOrOrganComponent 1996 2001	brain
+T65	BodyPartOrganOrOrganComponent 2047 2052	brain
+T66	BodyPartOrganOrOrganComponent 2218 2223	brain
+T67	HealthCareActivity 118 127	diagnosis
+T68	DiseaseOrSyndrome 1714 1733	Alzheimer's disease
+T69	CellComponent 35 38	EVs
+T70	CellComponent 1194 1197	EVs
+T71	ClinicalAttribute 2172 2181	biomarker
+T72	Eukaryote 247 252	human
+T73	Eukaryote 1412 1417	human
+T74	HealthCareActivity 1172 1181	injection
+T75	Eukaryote 1207 1212	mouse
+T76	Eukaryote 1402 1407	mouse
+T77	CellComponent 700 702	EV
+T78	CellComponent 912 914	EV
+T79	CellComponent 989 991	EV
+T80	CellComponent 1023 1025	EV
+T81	HealthCareActivity 132 141	treatment
+T82	ResearchActivity 132 141	treatment
+T83	PathologicFunction 2053 2062	pathology
+T84	PathologicFunction 2259 2268	pathology
+T85	BiomedicalOccupationOrDiscipline 2053 2062	pathology
+T86	BiomedicalOccupationOrDiscipline 2259 2268	pathology
+T87	TemporalConcept 1619 1626	chronic
+T88	TemporalConcept 1853 1860	chronic
+T89	ResearchActivity 1277 1284	Results
+T90	BiologicFunction 418 429	development
+T91	CellFunction 418 429	development
+T92	BodyPartOrganOrOrganComponent 657 663	tissue
+T94	ResearchActivity 1118 1126	validity
+T95	Finding 1118 1126	validity
+T96	PatientOrDisabledGroup 467 474	patient
+T97	HealthCareActivity 484 494	treatments
+T98	ResearchActivity 484 494	treatments
+T99	PharmacologicSubstance 1791 1795	drug
+T100	ResearchActivity 657 676	tissue dissociation
+T101	ResearchActivity 759 790	multiscale analytical platforms
+T102	ResearchActivity 808 829	label-free proteomics
+T103	ResearchActivity 799 806	cryo-EM
+T104	ResearchActivity 831 854	advanced flow cytometry
+T105	ResearchActivity 860 876	ExoView analyses
+T106	ResearchActivity 963 1011	classical digestion-based EV isolation procedure
+T107	AnatomicalAbnormality 1267 1275	vesicles
+T108	CellFunction 1528 1545	secretion of sEVs
+T109	PathologicFunction 1619 1633	chronic stress
+T110	Finding 1817 1828	enhancement
+T111	CellFunction 1832 1846	sEVs secretion
+T112	PathologicFunction 1853 1867	chronic stress
+T113	CellFunction 1880 1907	secretion of brain exosomes
+T114	PathologicFunction 2033 2039	stress
+T115	ResearchActivity 2182 2189	profile
+T116	PharmacologicSubstance 1096 1097	r
+T117	InjuryOrPoisoning 1093 1103	picrotoxin

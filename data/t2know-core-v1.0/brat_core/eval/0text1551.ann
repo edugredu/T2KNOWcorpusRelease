@@ -1,0 +1,106 @@
+T0	PopulationGroup 537 546	Colombian
+T1	Chemical 589 614	11C-Pittsburgh compound B
+T2	DiseaseOrSyndrome 1212 1231	hippocampal atrophy
+T3	ResearchActivity 89 105	characterization
+T4	BodyPartOrganOrOrganComponent 1151 1168	entorhinal cortex
+T5	TemporalConcept 188 195	decades
+T6	DiseaseOrSyndrome 36 74	autosomal dominant Alzheimer's disease
+T7	ResearchActivity 1612 1635	cross-sectional studies
+T8	HealthCareActivity 648 685	structural magnetic resonance imaging
+T9	TemporalConcept 1133 1136	EYO
+T10	TemporalConcept 1181 1184	EYO
+T11	TemporalConcept 1206 1209	EYO
+T12	TemporalConcept 1235 1238	EYO
+T13	TemporalConcept 1266 1269	EYO
+T14	BodyPartOrganOrOrganComponent 1170 1172	EC
+T15	BodyPartOrganOrOrganComponent 1373 1375	EC
+T16	BodyPartOrganOrOrganComponent 1668 1670	EC
+T17	Chemical 625 641	18F-flortaucipir
+T18	HealthCareActivity 786 793	imaging
+T19	Finding 374 391	cognitive changes
+T20	TemporalConcept 732 736	year
+T21	TemporalConcept 1366 1370	year
+T22	AminoAcidPeptideOrProtein 476 488	Presenilin-1
+T23	GeneOrGenome 476 488	Presenilin-1
+T24	BiologicallyActiveSubstance 476 488	Presenilin-1
+T25	CellOrMolecularDysfunction 457 465	mutation
+T26	PopulationGroup 515 527	non-carriers
+T27	PopulationGroup 853 865	non-carriers
+T28	AminoAcidPeptideOrProtein 489 494	E280A
+T29	AminoAcidPeptideOrProtein 164 167	tau
+T30	AminoAcidPeptideOrProtein 260 263	tau
+T31	AminoAcidPeptideOrProtein 620 623	tau
+T32	AminoAcidPeptideOrProtein 1174 1177	tau
+T33	AminoAcidPeptideOrProtein 1199 1202	tau
+T34	AminoAcidPeptideOrProtein 1281 1284	tau
+T35	AminoAcidPeptideOrProtein 1376 1379	tau
+T36	AminoAcidPeptideOrProtein 1457 1460	tau
+T37	AminoAcidPeptideOrProtein 1671 1674	tau
+T38	AminoAcidPeptideOrProtein 1756 1759	tau
+T39	BiologicallyActiveSubstance 164 167	tau
+T40	BiologicallyActiveSubstance 260 263	tau
+T41	BiologicallyActiveSubstance 620 623	tau
+T42	BiologicallyActiveSubstance 1174 1177	tau
+T43	BiologicallyActiveSubstance 1199 1202	tau
+T44	BiologicallyActiveSubstance 1281 1284	tau
+T45	BiologicallyActiveSubstance 1376 1379	tau
+T46	BiologicallyActiveSubstance 1457 1460	tau
+T47	BiologicallyActiveSubstance 1671 1674	tau
+T48	BiologicallyActiveSubstance 1756 1759	tau
+T49	ClinicalAttribute 360 369	biomarker
+T50	ClinicalAttribute 1687 1696	biomarker
+T51	Finding 871 884	relationships
+T52	ResearchActivity 25 32	studies
+T53	TemporalConcept 747 753	period
+T54	AminoAcidPeptideOrProtein 138 145	amyloid
+T55	BiologicallyActiveSubstance 138 145	amyloid
+T56	AminoAcidPeptideOrProtein 138 150	amyloid-beta
+T57	ResearchActivity 964 971	Results
+T58	DiseaseOrSyndrome 1245 1262	cognitive decline
+T59	DiseaseOrSyndrome 1478 1495	cognitive decline
+T60	OrganismAttribute 503 506	age
+T61	HealthCareActivity 737 746	follow-up
+T62	TemporalConcept 737 746	follow-up
+T63	TemporalConcept 1094 1099	years
+T64	TemporalConcept 1681 1686	early
+T65	Finding 336 348	relationship
+T66	HealthCareActivity 900 912	measurements
+T67	HealthCareActivity 973 998	Longitudinal measurements
+T68	HealthCareActivity 321 324	PET
+T69	HealthCareActivity 643 646	PET
+T70	HealthCareActivity 1380 1383	PET
+T71	PopulationGroup 466 474	carriers
+T72	PopulationGroup 840 848	carriers
+T73	PopulationGroup 954 962	carriers
+T74	PopulationGroup 1304 1312	carriers
+T75	PopulationGroup 1503 1511	carriers
+T76	AminoAcidPeptideOrProtein 152 158	A beta
+T77	AminoAcidPeptideOrProtein 581 587	A beta
+T78	AminoAcidPeptideOrProtein 1070 1076	A beta
+T79	AminoAcidPeptideOrProtein 1726 1732	A beta
+T80	Finding 168 180	accumulation
+T81	Finding 264 276	accumulation
+T82	Finding 1077 1089	accumulation
+T83	Finding 1285 1297	accumulation
+T84	Finding 1461 1473	accumulation
+T85	Finding 1760 1772	accumulation
+T86	HealthCareActivity 691 720	neuropsychological evaluation
+T87	HealthCareActivity 291 319	positron emission tomography
+T88	ResearchActivity 1733 1739	burden
+T89	TemporalConcept 214 227	symptom onset
+T90	TemporalConcept 1109 1131	expected symptom onset
+T91	SignOrSymptom 214 221	symptom
+T92	DiseaseOrSyndrome 76 80	ADAD
+T93	DiseaseOrSyndrome 428 432	ADAD
+T94	DiseaseOrSyndrome 452 456	ADAD
+T95	DiseaseOrSyndrome 1034 1038	ADAD
+T96	Finding 1047 1054	changes
+T97	DiseaseOrSyndrome 1596 1600	ADAD
+T98	DiseaseOrSyndrome 1776 1780	ADAD
+T99	HealthCareActivity 12 24	Neuroimaging
+T100	TemporalConcept 766 771	rates
+T101	TemporalConcept 917 922	rates
+T102	BodyPartOrganOrOrganComponent 1332 1350	parietal neocortex
+T103	BodyPartOrganOrOrganComponent 1187 1198	neocortical
+T104	BodyPartOrganOrOrganComponent 1445 1456	neocortical
+T105	BodyPartOrganOrOrganComponent 1744 1755	neocortical

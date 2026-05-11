@@ -1,0 +1,94 @@
+T0	BodyPartOrganOrOrganComponent 25 30	serum
+T1	AminoAcidPeptideOrProtein 58 62	sNfL
+T2	ClinicalAttribute 114 132	treatment response
+T3	ResearchActivity 201 227	retrospective cohort study
+T5	HealthCareActivity 289 298	follow-up
+T6	TemporalConcept 289 298	follow-up
+T7	ClinicalAttribute 555 566	sNfL levels
+T8	ResearchActivity 608 610	CI
+T9	ClinicalAttribute 638 649	sNfL levels
+T10	ResearchActivity 736 738	CI
+T11	ResearchActivity 794 796	CI
+T12	TemporalConcept 860 867	relapse
+T13	ResearchActivity 890 892	CI
+T14	ResearchActivity 971 973	CI
+T15	ResearchActivity 1122 1124	CI
+T16	AminoAcidPeptideOrProtein 1267 1285	glatiramer acetate
+T17	Chemical 1302 1312	fingolimod
+T18	ClinicalAttribute 1344 1355	sNfL levels
+T19	ResearchActivity 1409 1411	CI
+T20	AminoAcidPeptideOrProtein 1450 1454	sNfL
+T21	ClinicalAttribute 1513 1531	treatment response
+T22	Finding 1586 1602	disease severity
+T23	Finding 1687 1696	Class III
+T24	ClinicalAttribute 1711 1722	sNfL levels
+T25	ResearchActivity 1672 1677	study
+T26	Finding 1697 1705	evidence
+T27	TemporalConcept 306 312	months
+T28	TemporalConcept 1114 1120	months
+T29	TemporalConcept 1388 1394	months
+T30	HealthCareActivity 114 123	treatment
+T31	HealthCareActivity 458 467	treatment
+T32	HealthCareActivity 1228 1237	treatment
+T33	HealthCareActivity 1513 1522	treatment
+T34	HealthCareActivity 1616 1625	treatment
+T35	ResearchActivity 114 123	treatment
+T36	ResearchActivity 458 467	treatment
+T37	ResearchActivity 1228 1237	treatment
+T38	ResearchActivity 1513 1522	treatment
+T39	ResearchActivity 1616 1625	treatment
+T40	ClinicalAttribute 69 88	potential biomarker
+T41	DiseaseOrSyndrome 180 182	MS
+T42	DiseaseOrSyndrome 270 272	MS
+T43	DiseaseOrSyndrome 1535 1547	pediatric MS
+T44	DiseaseOrSyndrome 1653 1665	pediatric MS
+T45	DiseaseOrSyndrome 1763 1775	pediatric MS
+T46	HealthCareActivity 485 488	MRI
+T47	HealthCareActivity 685 688	MRI
+T48	HealthCareActivity 1201 1204	MRI
+T49	Finding 1331 1340	reduction
+T50	NaturalPhenomenonOrProcess 1331 1340	reduction
+T51	PopulationGroup 572 580	controls
+T52	HealthCareActivity 1481 1491	monitoring
+T53	PatientOrDisabledGroup 136 154	pediatric patients
+T54	PatientOrDisabledGroup 525 543	Untreated patients
+T55	PatientOrDisabledGroup 1003 1011	patients
+T56	PatientOrDisabledGroup 1639 1647	patients
+T57	DiseaseOrSyndrome 160 178	multiple sclerosis
+T59	PatientOrDisabledGroup 260 279	pediatric MS cohort
+T60	PatientOrDisabledGroup 1151 1159	Patients
+T61	InjuryOrPoisoning 728 734	lesion
+T62	InjuryOrPoisoning 786 792	lesion
+T63	TemporalConcept 1112 1120	2 months
+T64	TemporalConcept 1386 1394	2 months
+T65	TemporalConcept 872 876	days
+T66	ClinicalAttribute 79 88	biomarker
+T67	ClinicalAttribute 1467 1476	biomarker
+T68	AminoAcidPeptideOrProtein 31 56	neurofilament light chain
+T69	BiologicallyActiveSubstance 31 56	neurofilament light chain
+T70	HealthCareActivity 93 109	disease activity
+T71	HealthCareActivity 1743 1759	disease activity
+T72	HealthCareActivity 1205 1221	disease activity
+T73	HealthCareActivity 1492 1508	disease activity
+T74	BiologicallyActiveSubstance 58 62	sNfL
+T75	ClinicalAttribute 229 240	sNfL levels
+T76	PopulationGroup 323 362	non-neurologic pediatric control cohort
+T77	ResearchActivity 381 425	high-sensitivity single-molecule array assay
+T78	ClinicalAttribute 442 453	sNfL levels
+T79	ResearchActivity 582 588	median
+T80	HealthCareActivity 931 969	Expanded Disability Status Scale score
+T81	AminoAcidPeptideOrProtein 1025 1045	interferon beta-1a/b
+T82	BiologicallyActiveSubstance 1025 1045	interferon beta-1a/b
+T83	PharmacologicSubstance 1025 1045	interferon beta-1a/b
+T84	ClinicalAttribute 1056 1067	sNfL levels
+T85	AminoAcidPeptideOrProtein 1243 1263	interferon beta-1a/b
+T86	PharmacologicSubstance 1243 1263	interferon beta-1a/b
+T87	BiologicallyActiveSubstance 1243 1263	interferon beta-1a/b
+T88	PharmacologicSubstance 1267 1285	glatiramer acetate
+T89	PharmacologicSubstance 1302 1312	fingolimod
+T90	BiologicallyActiveSubstance 1302 1312	fingolimod
+T91	BiologicallyActiveSubstance 1450 1454	sNfL
+T92	ClinicalAttribute 774 792	T2-weighted lesion
+T4	ClinicalAttribute 58 62	sNfL
+T58	ClinicalAttribute 25 56	serum neurofilament light chain
+T93	ClinicalAttribute 1450 1454	sNfL

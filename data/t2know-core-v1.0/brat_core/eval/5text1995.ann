@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 145 172	neurodegenerative disorders
+T1	BodyPartOrganOrOrganComponent 20 32	nerve tissue
+T2	Substance 7 16	specimens
+T3	Finding 45 62	critical insights
+T4	Finding 72 102	cellular and molecular changes
+T5	HealthCareActivity 0 6	Biopsy

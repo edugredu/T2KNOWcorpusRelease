@@ -1,0 +1,106 @@
+T0	HealthCareActivity 8 14	Review
+T1	ResearchActivity 8 14	Review
+T2	CellFunction 190 210	DNA repair processes
+T3	CellOrMolecularDysfunction 380 390	Mutant HTT
+T4	CellFunction 407 420	transcription
+T5	BiologicFunction 438 444;463 471	immune function
+T6	CellFunction 500 520	post-translationally
+T7	Finding 522 530	Evidence
+T8	InjuryOrPoisoning 561 566	toxic
+T9	CellComponent 590 597	somatic
+T10	Cell 590 597	somatic
+T11	ResearchActivity 670 701	Genome-wide association studies
+T12	CellFunction 860 887	nucleocytoplasmic transport
+T13	HealthCareActivity 909 920	restoration
+T14	ClinicalAttribute 1018 1028	detectable
+T15	Finding 1107 1126	therapeutic benefit
+T16	HealthCareActivity 1128 1143	Therapeutically
+T17	ResearchActivity 1161 1166	trial
+T18	ResearchActivity 1308 1313	trial
+T19	ResearchActivity 1333 1350	clinical efficacy
+T20	HealthCareActivity 1425 1431	Review
+T21	ResearchActivity 1425 1431	Review
+T22	CellFunction 1558 1568	DNA repair
+T23	AminoAcidPeptideOrProtein 392 396	mHTT
+T24	CellOrMolecularDysfunction 392 396	mHTT
+T25	CellOrMolecularDysfunction 549 557	mHTT RNA
+T26	GeneOrGenome 305 320	huntingtin gene
+T27	PathologicFunction 61 83	molecular pathogenesis
+T28	PathologicFunction 1466 1488	molecular pathogenesis
+T29	CellOrMolecularDysfunction 277 297	CAG repeat expansion
+T30	CellOrMolecularDysfunction 598 618	CAG repeat expansion
+T31	HealthCareActivity 128 150	therapeutic strategies
+T32	HealthCareActivity 1506 1528	therapeutic strategies
+T33	DiseaseOrSyndrome 87 105	Huntington disease
+T34	DiseaseOrSyndrome 212 230	Huntington disease
+T35	PathologicFunction 357 378	pathogenic mechanisms
+T36	CellComponent 449 462	mitochondrial
+T37	NucleicAcidNucleosideOrNucleotide 1185 1210	antisense oligonucleotide
+T38	BiologicallyActiveSubstance 1185 1210	antisense oligonucleotide
+T39	Chemical 1185 1210	antisense oligonucleotide
+T40	PatientOrDisabledGroup 1278 1297	individuals with HD
+T41	Finding 707 717	identified
+T42	TemporalConcept 654 668	disease course
+T43	TemporalConcept 778 792	disease course
+T44	HealthCareActivity 118 150	potential therapeutic strategies
+T45	CellFunction 449 471	mitochondrial function
+T46	TemporalConcept 1009 1017	earliest
+T47	NucleicAcidNucleosideOrNucleotide 190 193	DNA
+T48	NucleicAcidNucleosideOrNucleotide 579 582	DNA
+T49	NucleicAcidNucleosideOrNucleotide 718 721	DNA
+T50	NucleicAcidNucleosideOrNucleotide 1558 1561	DNA
+T51	NucleicAcidNucleosideOrNucleotide 1587 1590	DNA
+T52	PathologicFunction 891 900	disrupted
+T53	MolecularSequence 277 287	CAG repeat
+T54	MolecularSequence 598 608	CAG repeat
+T55	PathologicFunction 71 83	pathogenesis
+T56	PathologicFunction 1476 1488	pathogenesis
+T57	BodyPartOrganOrOrganComponent 977 983	plasma
+T58	NucleicAcidNucleosideOrNucleotide 549 557	mHTT RNA
+T59	CellFunction 924 939	neuroprotective
+T60	Finding 1085 1096	sensitivity
+T61	BiologicFunction 194 200	repair
+T62	BiologicFunction 722 728	repair
+T63	BiologicFunction 1562 1568	repair
+T64	HealthCareActivity 194 200	repair
+T65	HealthCareActivity 722 728	repair
+T66	HealthCareActivity 1562 1568	repair
+T67	TemporalConcept 500 504	post
+T68	TemporalConcept 662 668	course
+T69	TemporalConcept 786 792	course
+T70	CellOrMolecularDysfunction 1591 1599	mutation
+T71	CellFunction 718 737	DNA repair pathways
+T72	Cell 633 638	cells
+T73	PopulationGroup 1040 1051	individuals
+T74	PopulationGroup 1278 1289	individuals
+T75	ResearchActivity 839 852	animal models
+T76	Eukaryote 1155 1160	human
+T77	TemporalConcept 1499 1505	future
+T78	GeneOrGenome 322 325	HTT
+T79	GeneOrGenome 1392 1395	HTT
+T80	AminoAcidPeptideOrProtein 322 325	HTT
+T81	AminoAcidPeptideOrProtein 380 390	Mutant HTT
+T82	AminoAcidPeptideOrProtein 1392 1395	HTT
+T83	TemporalConcept 1149 1154	first
+T84	BiologicallyActiveSubstance 322 325	HTT
+T85	BiologicallyActiveSubstance 1392 1395	HTT
+T86	DiseaseOrSyndrome 232 234	HD
+T87	DiseaseOrSyndrome 796 798	HD
+T88	DiseaseOrSyndrome 856 858	HD
+T89	DiseaseOrSyndrome 1069 1071	HD
+T90	DiseaseOrSyndrome 1295 1297	HD
+T91	DiseaseOrSyndrome 1492 1494	HD
+T92	DiseaseOrSyndrome 241 266	neurodegenerative disease
+T93	AminoAcidPeptideOrProtein 305 315	huntingtin
+T94	GeneOrGenome 305 315	huntingtin
+T95	ClinicalAttribute 984 994	biomarkers
+T96	BodyPartOrganOrOrganComponent 968 971	CSF
+T97	BodyPartOrganOrOrganComponent 1249 1252	CSF
+T98	BodyPartOrganOrOrganComponent 947 966	cerebrospinal fluid
+T99	CellOrMolecularDysfunction 480 499	aberrantly modified
+T100	DiseaseOrSyndrome 809 834	repeat expansion diseases
+T101	CellOrMolecularDysfunction 754 773	somatic instability
+T102	ExperimentalModelOfDisease 839 858	animal models of HD
+T103	ClinicalAttribute 1249 1274	CSF concentration of mHTT
+T104	HealthCareActivity 1392 1415	HTT-lowering approaches
+T105	HealthCareActivity 1172 1210	HTT-lowering antisense oligonucleotide

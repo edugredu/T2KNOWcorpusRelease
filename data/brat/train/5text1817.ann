@@ -1,0 +1,8 @@
+T0	ResearchActivity 92 122	translation to clinical trials
+T1	HealthCareActivity 64 73	therapies
+T2	DiseaseOrSyndrome 127 155	neurodegenerative conditions
+T3	HealthCareActivity 14 20	safety
+T4	Finding 35 43	efficacy
+T5	TemporalConcept 25 34	long-term
+T6	TemporalConcept 85 91	before
+T7	Virus 47 57	lentivirus

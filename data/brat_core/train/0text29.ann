@@ -1,0 +1,68 @@
+T0	BiologicFunction 33 52	psychological state
+T1	IndividualBehavior 56 71	self-regulation
+T2	BiologicFunction 56 71	self-regulation
+T3	BiologicFunction 75 85	motivation
+T4	BiologicFunction 90 96	action
+T5	BiologicFunction 198 213	self-perception
+T6	HealthCareActivity 309 317	measures
+T7	BiologicFunction 321 336	self-perception
+T8	DiseaseOrSyndrome 562 583	cognitive impairments
+T9	PopulationGroup 688 696	carriers
+T10	DiseaseOrSyndrome 911 932	cognitive impairments
+T11	PopulationGroup 1100 1108	carriers
+T12	PopulationGroup 1161 1169	carriers
+T13	HealthCareActivity 1189 1197	measures
+T14	PopulationGroup 1280 1288	carriers
+T15	SignOrSymptom 535 560	neuropsychiatric symptoms
+T16	SignOrSymptom 938 963	neuropsychiatric symptoms
+T17	BiologicFunction 203 213	perception
+T18	BiologicFunction 326 336	perception
+T19	HealthCareActivity 746 772	self-report questionnaires
+T20	DiseaseOrSyndrome 589 595	apathy
+T21	DiseaseOrSyndrome 975 981	apathy
+T22	DiseaseOrSyndrome 1425 1431	apathy
+T23	DiseaseOrSyndrome 1642 1648	apathy
+T24	HealthCareActivity 1738 1742	care
+T25	SignOrSymptom 1464 1472	symptoms
+T26	ResearchActivity 983 990	Results
+T27	PopulationGroup 855 867	participants
+T28	Finding 992 1029	Statistically significant differences
+T29	PopulationGroup 1564 1575	individuals
+T30	BiologicFunction 519 533	motor function
+T31	BiologicFunction 895 909	motor function
+T32	Finding 1530 1538	evidence
+T33	Finding 1723 1734	involvement
+T34	OrganismAttribute 135 142	healthy
+T35	DiseaseOrSyndrome 159 185	neurodegenerative diseases
+T36	DiseaseOrSyndrome 368 388	Huntington's disease
+T37	DiseaseOrSyndrome 449 469	Huntington's disease
+T38	DiseaseOrSyndrome 1476 1496	Huntington's disease
+T39	DiseaseOrSyndrome 1581 1601	Huntington's disease
+T40	ResearchActivity 1515 1520	study
+T41	PopulationGroup 704 712	controls
+T42	PopulationGroup 1173 1181	controls
+T43	PopulationGroup 1373 1381	controls
+T44	PatientOrDisabledGroup 1702 1709	patient
+T45	IndividualBehavior 12 20	Autonomy
+T46	BiologicFunction 143 154	functioning
+T47	IndividualBehavior 343 351	autonomy
+T48	IndividualBehavior 425 433	autonomy
+T49	HealthCareActivity 778 809	Autonomy-Connectedness Scale-30
+T50	HealthCareActivity 818 849	Index of Autonomous Functioning
+T51	CellOrMolecularDysfunction 673 687	gene expansion
+T52	IndividualBehavior 491 499	autonomy
+T53	PatientOrDisabledGroup 621 632;652 672	premanifest Huntington's disease
+T54	IndividualBehavior 714 722	Autonomy
+T55	CellOrMolecularDysfunction 1085 1099	gene expansion
+T56	PatientOrDisabledGroup 1113 1145	premanifest Huntington's disease
+T57	CellOrMolecularDysfunction 1146 1160	gene expansion
+T58	IndividualBehavior 1201 1209	autonomy
+T59	PatientOrDisabledGroup 1049 1084	motor-manifest Huntington's disease
+T60	PatientOrDisabledGroup 637 672	motor-manifest Huntington's disease
+T61	PathologicFunction 1543 1560	impaired autonomy
+T62	IndividualBehavior 1629 1637	autonomy
+T63	IndividualBehavior 1710 1718	autonomy
+T64	IndividualBehavior 1387 1395	autonomy
+T65	PatientOrDisabledGroup 1229 1264	motor-manifest Huntington's disease
+T66	CellOrMolecularDysfunction 1265 1279	gene expansion
+T67	IndividualBehavior 1349 1357	autonomy

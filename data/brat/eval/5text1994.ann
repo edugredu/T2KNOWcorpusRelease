@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 92 119	neurodegenerative disorders
+T1	ResearchActivity 32 37	study
+T2	ResearchActivity 158 166	analysis
+T3	BodyPartOrganOrOrganComponent 131 143	brain tissue
+T4	Substance 144 153	specimens
+T5	HealthCareActivity 63 88	therapeutic interventions
+T6	ResearchActivity 0 13	Animal models
+T7	Finding 42 49	effects

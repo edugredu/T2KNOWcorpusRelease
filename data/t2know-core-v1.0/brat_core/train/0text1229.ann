@@ -1,0 +1,68 @@
+T0	PathologicFunction 180 193	proliferative
+T1	DiseaseOrSyndrome 316 322	glioma
+T2	Finding 375 389	poor prognosis
+T3	AminoAcidPeptideOrProtein 447 477;485 487	platelet-derived growth factor AA
+T4	AminoAcidPeptideOrProtein 479 483	PDGF
+T5	BiologicallyActiveSubstance 479 483	PDGF
+T6	Chemical 634 649	guanidine group
+T7	CellFunction 728 741	transcription
+T8	AminoAcidPeptideOrProtein 772 785	beta receptor
+T9	CellFunction 926 945	signal transduction
+T10	DiseaseOrSyndrome 1091 1100	neoplasms
+T11	GeneOrGenome 745 751	Pdgfra
+T12	AminoAcidPeptideOrProtein 745 751	Pdgfra
+T13	AminoAcidPeptideOrProtein 54 57	NG2
+T14	BiologicallyActiveSubstance 54 57	NG2
+T15	Cell 33 37	OPCs
+T16	Cell 798 802	OPCs
+T17	Cell 875 879	OPCs
+T18	Cell 391 394	OPC
+T19	PathologicFunction 273 286	demyelinating
+T20	CellFunction 425 434	signaling
+T21	CellFunction 395 408	proliferation
+T22	CellFunction 858 871	proliferation
+T23	TemporalConcept 137 143	mature
+T24	Chemical 583 592	compounds
+T25	Chemical 810 819	compounds
+T26	Chemical 994 1003	compounds
+T27	PharmacologicSubstance 583 592	compounds
+T28	PharmacologicSubstance 810 819	compounds
+T29	PharmacologicSubstance 994 1003	compounds
+T30	Cell 16 31	precursor cells
+T31	DiseaseOrSyndrome 348 367	primary brain tumor
+T32	Cell 0 31	Oligodendrocyte precursor cells
+T33	Cell 0 15	Oligodendrocyte
+T34	BodyPartOrganOrOrganComponent 144 166	central nervous system
+T35	BodyPartOrganOrOrganComponent 287 292	brain
+T36	PopulationGroup 553 558	group
+T37	Cell 54 63	NG2 cells
+T38	Cell 253 258	cells
+T39	PathologicFunction 1106 1118	dysregulated
+T40	ResearchActivity 1052 1086	combinatorial treatment strategies
+T41	TemporalConcept 205 209	life
+T42	Finding 262 268	normal
+T43	Cell 896 906	astrocytes
+T44	Finding 614 622	presence
+T45	CellFunction 488 495	binding
+T46	HealthCareActivity 380 389	prognosis
+T47	BiologicallyActiveSubstance 503 517	alpha receptor
+T48	HealthCareActivity 1052 1086	combinatorial treatment strategies
+T49	AminoAcidPeptideOrProtein 519 530	PDGFR alpha
+T50	BiologicallyActiveSubstance 519 530	PDGFR alpha
+T51	GeneOrGenome 519 530	PDGFR alpha
+T52	Cell 67 82	polydendrocytes
+T53	CellFunction 241 252	myelinating
+T54	Chemical 634 643	guanidine
+T55	PharmacologicSubstance 634 643	guanidine
+T56	BiologicallyActiveSubstance 634 643	guanidine
+T57	BiologicallyActiveSubstance 745 751	Pdgfra
+T58	AminoAcidPeptideOrProtein 787 793	Pdgfrb
+T59	BiologicallyActiveSubstance 787 793	Pdgfrb
+T60	GeneOrGenome 787 793	Pdgfrb
+T61	Chemical 665 678	aromatic core
+T62	AminoAcidPeptideOrProtein 949 960	PDGFR alpha
+T63	BiologicallyActiveSubstance 949 960	PDGFR alpha
+T64	GeneOrGenome 949 960	PDGFR alpha
+T65	GeneOrGenome 1119 1130	PDGFR alpha
+T66	AminoAcidPeptideOrProtein 1119 1130	PDGFR alpha
+T67	BiologicallyActiveSubstance 1119 1130	PDGFR alpha

@@ -1,0 +1,66 @@
+T0	CellFunction 0 13	Remyelination
+T1	PathologicFunction 293 305	demyelinated
+T2	BiologicallyActiveSubstance 400 417	membrane receptor
+T3	GeneOrGenome 418 423	GPR17
+T4	AminoAcidPeptideOrProtein 418 423	GPR17
+T5	GeneOrGenome 703 708	GPR17
+T6	AminoAcidPeptideOrProtein 703 708	GPR17
+T7	Finding 772 780	atypical
+T8	BiomedicalOccupationOrDiscipline 781 793	pharmacology
+T9	HealthCareActivity 829 836	genetic
+T10	GeneOrGenome 925 930	GPR17
+T11	AminoAcidPeptideOrProtein 925 930	GPR17
+T12	Finding 1107 1115	abnormal
+T13	TemporalConcept 1120 1130	persistent
+T14	GeneOrGenome 1131 1136	GPR17
+T15	AminoAcidPeptideOrProtein 1131 1136	GPR17
+T16	CellFunction 1137 1149	upregulation
+T17	Finding 1187 1192	block
+T18	BiologicFunction 1204 1212	immature
+T19	GeneOrGenome 1320 1325	GPR17
+T20	AminoAcidPeptideOrProtein 1320 1325	GPR17
+T21	PopulationGroup 514 519	adult
+T22	CellFunction 126 143	neuronal function
+T23	BodyPartOrganOrOrganComponent 544 547	CNS
+T24	TemporalConcept 1228 1234	stages
+T25	CellComponent 74 79	axons
+T26	CellComponent 287 292	axons
+T27	ResearchActivity 1268 1278	literature
+T28	Finding 158 166	advances
+T29	BiologicFunction 185 198	understanding
+T30	CellFunction 493 506	remyelination
+T31	CellFunction 742 755	remyelination
+T32	CellFunction 1361 1374	remyelination
+T33	Cell 472 476	OPCs
+T34	Cell 1196 1200	OPCs
+T35	Cell 712 715	OPC
+T36	CellFunction 726 737	myelination
+T37	CellComponent 44 58	myelin sheaths
+T38	HealthCareActivity 647 670	remyelinating therapies
+T39	Cell 982 997	oligodendrocyte
+T40	CellFunction 799 819	downstream signaling
+T41	Cell 439 470	oligodendrocyte precursor cells
+T43	CellOrMolecularDysfunction 93 112	axonal degeneration
+T44	BiologicallyActiveSubstance 607 615	receptor
+T45	PathologicFunction 361 372	progression
+T46	TemporalConcept 361 372	progression
+T47	Finding 578 586	evidence
+T48	DiseaseOrSyndrome 1046 1074	neurodegenerative conditions
+T49	DiseaseOrSyndrome 259 277	multiple sclerosis
+T50	TemporalConcept 1038 1045	chronic
+T51	PathologicFunction 353 372	disease progression
+T52	BodyPartOrganOrOrganComponent 520 542	central nervous system
+T53	InjuryOrPoisoning 998 1004	injury
+T54	PathologicFunction 1022 1034	inflammation
+T55	TemporalConcept 1260 1267	current
+T56	PathologicFunction 931 946	pathophysiology
+T57	BiomedicalOccupationOrDiscipline 931 946	pathophysiology
+T58	BiologicallyActiveSubstance 418 423	GPR17
+T59	Finding 621 642	new attractive target
+T60	BiologicallyActiveSubstance 703 708	GPR17
+T61	AminoAcidPeptideOrProtein 841 859	epigenetic factors
+T62	BiologicallyActiveSubstance 841 859	epigenetic factors
+T63	BiologicallyActiveSubstance 925 930	GPR17
+T64	BiologicallyActiveSubstance 1131 1136	GPR17
+T65	BiologicallyActiveSubstance 1320 1325	GPR17
+T66	Finding 1331 1349	therapeutic target

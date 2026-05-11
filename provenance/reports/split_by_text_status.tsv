@@ -1,0 +1,7 @@
+split	text_redistribution_status	documents	sentences	entities
+test	excluded	81	1576	13199
+test	included	70	1293	11677
+train	excluded	267	4425	37952
+train	included	321	5627	50282
+val	excluded	41	690	5671
+val	included	41	745	6922

@@ -1,0 +1,30 @@
+T0	Cell 0 10	Astrocytes
+T1	CellFunction 72 87	transcriptional
+T2	DiseaseOrSyndrome 256 278	demyelinating diseases
+T3	Cell 424 456	oligo-dendrocyte progenitor cell
+T4	CellFunction 424 472	oligo-dendrocyte progenitor cell differentiation
+T5	CellFunction 477 497	myelin regener-ation
+T6	DiseaseOrSyndrome 619 641	demyelinating diseases
+T7	CellFunction 718 731	remyelination
+T8	Cell 810 819	astrocyte
+T9	ResearchActivity 507 513	review
+T10	HealthCareActivity 507 513	review
+T11	BodyPartOrganOrOrganComponent 133 138	brain
+T12	TemporalConcept 541 547	recent
+T13	Finding 209 228	increasing interest
+T14	TemporalConcept 169 181	recent years
+T15	ResearchActivity 529 537	overview
+T16	ResearchActivity 232 251	therapeutic targets
+T17	DiseaseOrSyndrome 846 864	multiple sclerosis
+T18	HealthCareActivity 748 780	potential therapeutic strategies
+T19	Cell 26 37	glial cells
+T20	Cell 183 193	astrocytes
+T21	Cell 314 324	astrocytes
+T22	ResearchActivity 548 558	literature
+T23	CellFunction 354 369	reactive states
+T24	PathologicFunction 700 713	demyelination
+T25	InjuryOrPoisoning 158 164	injury
+T26	InjuryOrPoisoning 292 312	demyelinating insult
+T27	CellFunction 562 600	astrocyte-oligodendrocyte interactions
+T28	Finding 792 828	pro -regenerative astrocyte response
+T29	Finding 381 398	exacerbate damage

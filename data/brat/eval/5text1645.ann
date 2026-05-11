@@ -1,0 +1,5 @@
+T0	DiseaseOrSyndrome 90 116	neurodegenerative diseases
+T1	Cell 70 77	neurons
+T2	NucleicAcidNucleosideOrNucleotide 4 11	vectors
+T3	GeneOrGenome 52 57	genes
+T4	Virus 0 3	HSV

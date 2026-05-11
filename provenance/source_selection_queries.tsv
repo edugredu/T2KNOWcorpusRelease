@@ -1,0 +1,5 @@
+query_id	database	query	language_filter	document_type_filter	publication_year_filter	access_filter	category_filter	selected_records
+Q1	Web of Science	ALL=(Huntington) AND ALL=(neurodegenerative disease) AND LA=(English) AND DT=(Article OR Review)	English	Article OR Review	Last 5 years	Open access	not specified	1000
+Q2	Web of Science	ALL=(extracellular vesicles) AND ALL=(Alzheimer) AND LA=(English) AND DT=(Article OR Review)	English	Article OR Review	2021;2022;2023	Open access	not specified	279
+Q3	Web of Science	ALL=(multiple sclerosis) AND ALL=(oligodendrocyte precursor) AND LA=(English) AND DT=(Article OR Review)	English	Article OR Review	2020;2021;2022;2023	Open access	not specified	218
+Q4	Web of Science	TI=(biomarker) AND TI=(Huntington OR Alzheimer OR Multiple Sclerosis) AND LA=(English) AND DT=(Article)	English	Article	Last 5 years	Open access	Clinical Neurology OR Neurosciences	204

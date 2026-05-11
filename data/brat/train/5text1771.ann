@@ -1,0 +1,6 @@
+T0	BodyPartOrganOrOrganComponent 121 132	spinal cord
+T1	EmbryonicStructure 4 24	anterior neural tube
+T2	EmbryonicStructure 89 110	posterior neural tube
+T3	BodyPartOrganOrOrganComponent 43 52	forebrain
+T4	BodyPartOrganOrOrganComponent 54 62	midbrain
+T5	BodyPartOrganOrOrganComponent 68 77	hindbrain

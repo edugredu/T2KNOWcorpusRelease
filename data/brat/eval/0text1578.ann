@@ -1,0 +1,164 @@
+T0	Chemical 176 200	cholinesterase inhibitor
+T1	PharmacologicSubstance 176 200	cholinesterase inhibitor
+T2	Chemical 202 206	ChEI
+T3	PharmacologicSubstance 202 206	ChEI
+T4	Finding 566 578;589 615	instrumental activities of daily living
+T5	ClinicalAttribute 622 632	capacities
+T6	TemporalConcept 666 679	semi-annually
+T7	Chemical 1149 1153	ChEI
+T8	PharmacologicSubstance 1149 1153	ChEI
+T9	ManufacturedObject 1251 1257	scales
+T10	ResearchActivity 1251 1257	scales
+T11	HealthCareActivity 1417 1428	assessments
+T12	AminoAcidPeptideOrProtein 1433 1449	apolipoprotein E
+T13	BiologicallyActiveSubstance 1433 1449	apolipoprotein E
+T14	HealthCareActivity 1640 1695	Alzheimer's Disease Assessment Scale-cognitive subscale
+T15	TemporalConcept 671 679	annually
+T16	BiologicFunction 589 615	activities of daily living
+T17	Finding 1291 1299	improved
+T18	BiologicFunction 304 315	prospective
+T19	ResearchActivity 317 336	observational study
+T20	HealthCareActivity 2524 2533	therapies
+T21	Finding 397 405	moderate
+T22	BodyPartOrganOrOrganComponent 62 82	cerebro-spinal fluid
+T23	InjuryOrPoisoning 2267 2273	injury
+T24	TemporalConcept 1088 1098	initiation
+T25	ResearchActivity 1229 1243	AT(N) profiles
+T26	CellOrMolecularDysfunction 2023 2037	pathologic tau
+T27	AminoAcidPeptideOrProtein 141 146	T-tau
+T28	AminoAcidPeptideOrProtein 505 510	T-tau
+T29	AminoAcidPeptideOrProtein 817 822	T-tau
+T30	AminoAcidPeptideOrProtein 867 872	T-tau
+T31	AminoAcidPeptideOrProtein 918 923	T-tau
+T32	AminoAcidPeptideOrProtein 969 974	T-tau
+T33	AminoAcidPeptideOrProtein 1602 1607	T-tau
+T34	AminoAcidPeptideOrProtein 1812 1817	T-tau
+T35	AminoAcidPeptideOrProtein 2139 2144	T-tau
+T36	BiologicallyActiveSubstance 141 146	T-tau
+T37	BiologicallyActiveSubstance 505 510	T-tau
+T38	BiologicallyActiveSubstance 817 822	T-tau
+T39	BiologicallyActiveSubstance 867 872	T-tau
+T40	BiologicallyActiveSubstance 918 923	T-tau
+T41	BiologicallyActiveSubstance 969 974	T-tau
+T42	BiologicallyActiveSubstance 1602 1607	T-tau
+T43	BiologicallyActiveSubstance 1812 1817	T-tau
+T44	BiologicallyActiveSubstance 2139 2144	T-tau
+T45	Finding 800 806	normal
+T46	Finding 896 902	normal
+T47	Finding 734 742	abnormal
+T48	Finding 845 853	abnormal
+T49	Finding 909 917	abnormal
+T50	Finding 950 958	abnormal
+T51	HealthCareActivity 426 441	lumbar puncture
+T52	ResearchActivity 2498 2513	clinical trials
+T53	TemporalConcept 1172 1176	year
+T54	TemporalConcept 1543 1547	year
+T55	Finding 2317 2322	worse
+T56	HealthCareActivity 2323 2332	prognosis
+T57	AminoAcidPeptideOrProtein 119 124	P-tau
+T58	AminoAcidPeptideOrProtein 495 500	P-tau
+T59	AminoAcidPeptideOrProtein 807 812	P-tau
+T60	AminoAcidPeptideOrProtein 854 859	P-tau
+T61	AminoAcidPeptideOrProtein 903 908	P-tau
+T62	AminoAcidPeptideOrProtein 959 964	P-tau
+T63	AminoAcidPeptideOrProtein 1698 1703	P-tau
+T64	AminoAcidPeptideOrProtein 2130 2135	P-tau
+T65	BiologicallyActiveSubstance 119 124	P-tau
+T66	BiologicallyActiveSubstance 495 500	P-tau
+T67	BiologicallyActiveSubstance 807 812	P-tau
+T68	BiologicallyActiveSubstance 854 859	P-tau
+T69	BiologicallyActiveSubstance 903 908	P-tau
+T70	BiologicallyActiveSubstance 959 964	P-tau
+T71	BiologicallyActiveSubstance 1698 1703	P-tau
+T72	BiologicallyActiveSubstance 2130 2135	P-tau
+T73	Finding 1300 1309	unchanged
+T74	AminoAcidPeptideOrProtein 1559 1562	tau
+T75	DiseaseOrSyndrome 265 284	Alzheimer's disease
+T76	BodyPartOrganOrOrganComponent 84 87	CSF
+T77	BodyPartOrganOrOrganComponent 447 450	CSF
+T78	BiologicallyActiveSubstance 1559 1562	tau
+T79	DiseaseOrSyndrome 286 288	AD
+T80	DiseaseOrSyndrome 406 408	AD
+T81	DiseaseOrSyndrome 1077 1079	AD
+T82	DiseaseOrSyndrome 2006 2008	AD
+T83	DiseaseOrSyndrome 2420 2422	AD
+T84	ClinicalAttribute 2369 2378	biomarker
+T85	PatientOrDisabledGroup 721 729	patients
+T86	PatientOrDisabledGroup 1310 1318	patients
+T87	PatientOrDisabledGroup 2009 2017	patients
+T88	Cell 2258 2266	neuronal
+T89	AminoAcidPeptideOrProtein 130 139	total tau
+T90	BiologicallyActiveSubstance 130 139	total tau
+T91	AminoAcidPeptideOrProtein 99 117	phosphorylated tau
+T92	BiologicallyActiveSubstance 99 117	phosphorylated tau
+T93	HealthCareActivity 1564 1593	Mini-Mental State Examination
+T94	HealthCareActivity 374 383	diagnosed
+T95	PathologicFunction 2244 2257	tau pathology
+T96	Finding 1594 1599	score
+T97	Finding 1484 1497	relationships
+T98	HealthCareActivity 208 217	treatment
+T99	HealthCareActivity 1192 1201	treatment
+T100	ResearchActivity 208 217	treatment
+T101	ResearchActivity 1192 1201	treatment
+T102	PopulationGroup 350 362	participants
+T103	PopulationGroup 993 1005	participants
+T104	PopulationGroup 772 783	individuals
+T105	BiologicallyActiveSubstance 462 480	amyloid-beta(1-42)
+T106	DiseaseOrSyndrome 1640 1659	Alzheimer's Disease
+T107	ClinicalAttribute 451 461	biomarkers
+T108	AminoAcidPeptideOrProtein 462 480	amyloid-beta(1-42)
+T109	PathologicFunction 244 255	progression
+T110	PathologicFunction 1762 1773	progression
+T111	PathologicFunction 2423 2434	progression
+T112	TemporalConcept 244 255	progression
+T113	TemporalConcept 1762 1773	progression
+T114	TemporalConcept 2423 2434	progression
+T115	TemporalConcept 153 163	short-term
+T116	TemporalConcept 1129 1134	month
+T117	ResearchActivity 709 716	Results
+T118	DiseaseOrSyndrome 1525 1542	cognitive decline
+T119	Finding 2484 2492	outcomes
+T120	OrganismAttribute 1953 1956	age
+T121	TemporalConcept 687 692	years
+T122	TemporalConcept 1377 1383	months
+T123	HealthCareActivity 654 661	therapy
+T124	HealthCareActivity 1392 1399	therapy
+T125	TemporalConcept 2517 2523	future
+T126	TemporalConcept 1068 1073	onset
+T127	AminoAcidPeptideOrProtein 1451 1455	APOE
+T128	BiologicallyActiveSubstance 1451 1455	APOE
+T129	PopulationGroup 1351 1356	group
+T130	PopulationGroup 1467 1475	carriers
+T131	PopulationGroup 1923 1931	carriers
+T132	PopulationGroup 2163 2171	carriers
+T133	GeneOrGenome 2282 2303	APOE epsilon 4-allele
+T134	OrganismAttribute 164 172	response
+T135	AminoAcidPeptideOrProtein 482 488	A beta
+T136	AminoAcidPeptideOrProtein 743 749	A beta
+T137	CellOrMolecularDysfunction 2042 2059	neurodegeneration
+T138	Finding 389 393	mild
+T139	ResearchActivity 219 231	longitudinal
+T140	TemporalConcept 1027 1034	younger
+T141	GeneOrGenome 2148 2162	APOE epsilon 4
+T142	ResearchActivity 1235 1243	profiles
+T143	ResearchActivity 2379 2387	profiles
+T144	TemporalConcept 603 608	daily
+T145	ResearchActivity 530 545	xMAP technology
+T146	Finding 232 239	outcome
+T147	PharmacologicSubstance 649 653	ChEI
+T148	Chemical 649 653	ChEI
+T149	Finding 860 866	normal
+T150	Chemical 1102 1107	ChEIs
+T151	PharmacologicSubstance 1102 1107	ChEIs
+T152	Finding 1158 1171	deterioration
+T153	TemporalConcept 1183 1188	start
+T154	Chemical 1387 1391	ChEI
+T155	PharmacologicSubstance 1387 1391	ChEI
+T156	GeneOrGenome 1433 1449;1457 1466	apolipoprotein E epsilon 4
+T157	TemporalConcept 1945 1952	Younger
+T158	Finding 1975 1988	deterioration
+T159	BiologicFunction 617 620	ADL
+T160	Finding 1777 1793	instrumental ADL
+T161	Finding 2094 2098	IADL
+T162	Finding 1795 1799	IADL
+T163	Finding 2099 2106	decline

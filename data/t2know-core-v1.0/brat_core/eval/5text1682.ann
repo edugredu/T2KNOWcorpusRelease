@@ -1,0 +1,10 @@
+T0	PathologicFunction 125 144	disease progression
+T1	DiseaseOrSyndrome 107 132	neurodegenerative disease
+T2	CellOrMolecularDysfunction 50 66	oxidative stress
+T3	Cell 78 92	neuronal cells
+T4	Chemical 32 45	free radicals
+T5	InjuryOrPoisoning 71 77	damage
+T6	BiologicallyActiveSubstance 32 45	free radicals
+T7	EnvironmentalEffectOfHumans 0 23	Tobacco smoke pollution
+T8	Substance 0 13	Tobacco smoke
+T9	EnvironmentalEffectOfHumans 8 23	smoke pollution

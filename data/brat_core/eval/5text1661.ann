@@ -1,0 +1,11 @@
+T0	Cell 88 95	neurons
+T1	BiologicFunction 211 216	aging
+T2	CellFunction 211 216	aging
+T3	PharmacologicSubstance 159 163	drug
+T4	BiologicFunction 227 255	pathophysiological processes
+T5	PathologicFunction 227 245	pathophysiological
+T6	PathologicFunction 34 50	latent infection
+T7	PathologicFunction 227 255	pathophysiological processes
+T8	Finding 8 14	result
+T9	Finding 21 33	asymptomatic
+T10	Virus 0 3	HSV

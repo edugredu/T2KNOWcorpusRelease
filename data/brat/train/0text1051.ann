@@ -1,0 +1,41 @@
+T0	DiseaseOrSyndrome 761 773	CNS diseases
+T1	Finding 957 971	considerations
+T2	CellComponent 250 258	membrane
+T3	CellComponent 214 236	extracellular vesicles
+T4	CellComponent 238 241	EVs
+T5	CellComponent 391 394	EVs
+T6	CellComponent 670 673	EVs
+T7	CellComponent 999 1002	EVs
+T8	BodyPartOrganOrOrganComponent 17 39	central nervous system
+T9	BodyPartOrganOrOrganComponent 41 44	CNS
+T10	BodyPartOrganOrOrganComponent 116 128	CNS barriers
+T11	BodyPartOrganOrOrganComponent 367 379	CNS barriers
+T12	BodyPartOrganOrOrganComponent 598 601	CNS
+T13	BodyPartOrganOrOrganComponent 904 916	CNS barriers
+T14	ResearchActivity 818 826	research
+T15	BodyPartOrganOrOrganComponent 164 169	brain
+T16	Cell 340 345	cells
+T17	BodyPartOrganOrOrganComponent 708 718	peripheral
+T18	ResearchActivity 551 561	literature
+T19	ResearchActivity 535 543	overview
+T20	ResearchActivity 505 511	review
+T21	HealthCareActivity 505 511	review
+T22	HealthCareActivity 4 13	treatment
+T23	ResearchActivity 4 13	treatment
+T24	BodyPartOrganOrOrganComponent 455 461	tissue
+T25	CellComponent 267 275	vesicles
+T26	Finding 86 94	presence
+T27	DiseaseOrSyndrome 46 57	pathologies
+T28	ResearchActivity 195 199	data
+T29	CellFunction 324 331	cargoes
+T30	Cell 652 661	cell type
+T31	Finding 174 184	increasing
+T32	ManufacturedObject 1014 1034	drug delivery system
+T33	BiologicFunction 476 484	delivery
+T34	HealthCareActivity 143 156	drug delivery
+T35	HealthCareActivity 1014 1027	drug delivery
+T36	BiologicallyActiveSubstance 428 435	ligands
+T37	Finding 616 638	therapeutic efficiency
+T38	HealthCareActivity 719 733	administration
+T39	CellFunction 852 882	vesicular transport mechanisms
+T40	BodyPartOrganOrOrganComponent 1008 1013	brain

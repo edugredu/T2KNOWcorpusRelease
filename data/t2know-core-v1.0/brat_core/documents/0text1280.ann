@@ -1,0 +1,108 @@
+T0	Finding 210 218	degraded
+T1	PopulationGroup 613 620	network
+T2	CellFunction 613 620	network
+T3	ResearchActivity 1600 1614	knockout lines
+T4	AminoAcidPeptideOrProtein 1757 1765	tenascin
+T5	BiologicallyActiveSubstance 1757 1765	tenascin
+T6	TemporalConcept 319 323	rare
+T7	ResearchActivity 1217 1231	culture system
+T8	Chemical 1509 1518	Cuprizone
+T9	Chemical 1698 1707	Cuprizone
+T10	AminoAcidPeptideOrProtein 1169 1202	brain-derived neurotrophic factor
+T11	BiologicallyActiveSubstance 1169 1202	brain-derived neurotrophic factor
+T12	AminoAcidPeptideOrProtein 1204 1208	BDNF
+T13	BiologicallyActiveSubstance 1204 1208	BDNF
+T14	Cell 106 122	oligodendrocytes
+T15	Cell 798 814	oligodendrocytes
+T16	Cell 954 970	oligodendrocytes
+T17	Cell 1242 1258	oligodendrocytes
+T18	Cell 0 16	Oligodendrocytes
+T19	Cell 522 526	OPCs
+T20	Cell 757 761	OPCs
+T21	Cell 1399 1403	OPCs
+T22	Cell 1781 1785	OPCs
+T23	CellFunction 407 418	myelination
+T24	CellFunction 999 1010	myelination
+T25	Cell 489 520	oligodendrocyte precursor cells
+T26	Cell 37 42	cells
+T27	Eukaryote 1488 1492	mice
+T28	DiseaseOrSyndrome 158 176	multiple sclerosis
+T29	ResearchActivity 1458 1465	in vivo
+T30	BodyPartOrganOrOrganComponent 342 348	myelin
+T31	BodyPartOrganOrOrganComponent 909 915	myelin
+T32	BodyPartOrganOrOrganComponent 1668 1674	myelin
+T33	BodyPartOrganOrOrganComponent 1847 1853	myelin
+T34	BodyPartOrganOrOrganComponent 50 72	central nervous system
+T35	BodyPartOrganOrOrganComponent 1918 1921	CNS
+T36	CellFunction 302 315	remyelination
+T37	CellFunction 770 783	remyelination
+T38	PathologicFunction 1527 1540	demyelination
+T39	BodyPartOrganOrOrganComponent 565 585	extracellular matrix
+T40	CellComponent 1668 1681	myelin sheath
+T41	AminoAcidPeptideOrProtein 549 557	proteins
+T42	AminoAcidPeptideOrProtein 1440 1457	tenascin proteins
+T43	AminoAcidPeptideOrProtein 1893 1910	tenascin proteins
+T44	BodyPartOrganOrOrganComponent 283 288	brain
+T45	CellFunction 470 485	differentiation
+T46	CellFunction 738 753	differentiation
+T47	CellFunction 1380 1395	differentiation
+T48	BodyPartOrganOrOrganComponent 587 590	ECM
+T49	AminoAcidPeptideOrProtein 642 655	proteoglycans
+T50	BiologicallyActiveSubstance 642 655	proteoglycans
+T51	BiologicFunction 1854 1866	regeneration
+T52	CellComponent 191 205	myelin sheaths
+T53	CellComponent 342 356	myelin sheaths
+T54	AminoAcidPeptideOrProtein 624 637	glycoproteins
+T55	BiologicallyActiveSubstance 624 637	glycoproteins
+T56	BiologicallyActiveSubstance 713 723	inhibitory
+T57	BiologicallyActiveSubstance 868 878	inhibitory
+T58	CellComponent 227 233	axonal
+T59	CellFunction 451 464	proliferation
+T60	CellFunction 440 449	migration
+T61	Eukaryote 1594 1599	mouse
+T62	OrganismAttribute 275 282	healthy
+T63	Finding 784 794	efficiency
+T64	HealthCareActivity 1708 1717	treatment
+T65	ResearchActivity 1708 1717	treatment
+T66	TemporalConcept 1560 1565	weeks
+T67	ResearchActivity 1417 1422	study
+T68	HealthCareActivity 1854 1866	regeneration
+T69	CellFunction 1847 1866	myelin regeneration
+T70	ResearchActivity 926 934	in vitro
+T71	ResearchActivity 990 998	in vitro
+T72	ResearchActivity 1115 1124	wild-type
+T73	AminoAcidPeptideOrProtein 689 699	tenascin-C
+T74	BiologicallyActiveSubstance 689 699	tenascin-C
+T75	AminoAcidPeptideOrProtein 701 704	Tnc
+T76	AminoAcidPeptideOrProtein 941 944	Tnc
+T77	AminoAcidPeptideOrProtein 1466 1469	Tnc
+T78	AminoAcidPeptideOrProtein 1572 1575	Tnc
+T79	BiologicallyActiveSubstance 701 704	Tnc
+T80	BiologicallyActiveSubstance 941 944	Tnc
+T81	BiologicallyActiveSubstance 1466 1469	Tnc
+T82	BiologicallyActiveSubstance 1572 1575	Tnc
+T83	AminoAcidPeptideOrProtein 853 856	Tnr
+T84	AminoAcidPeptideOrProtein 1233 1236	Tnr
+T85	AminoAcidPeptideOrProtein 1363 1366	Tnr
+T86	AminoAcidPeptideOrProtein 1479 1482	Tnr
+T87	AminoAcidPeptideOrProtein 1585 1588	Tnr
+T88	BiologicallyActiveSubstance 853 856	Tnr
+T89	BiologicallyActiveSubstance 1233 1236	Tnr
+T90	BiologicallyActiveSubstance 1363 1366	Tnr
+T91	BiologicallyActiveSubstance 1479 1482	Tnr
+T92	BiologicallyActiveSubstance 1585 1588	Tnr
+T93	CellComponent 916 925	membranes
+T94	CellComponent 909 925	myelin membranes
+T95	AminoAcidPeptideOrProtein 841 851	tenascin-R
+T96	BiologicallyActiveSubstance 841 851	tenascin-R
+T97	Finding 713 730	inhibitory effect
+T98	TemporalConcept 1547 1553	period
+T99	CellFunction 25 36	myelinating
+T100	CellFunction 234 253	signal transmission
+T101	AminoAcidPeptideOrProtein 676 688	glycoprotein
+T102	BiologicallyActiveSubstance 676 688	glycoprotein
+T103	ResearchActivity 945 953	knockout
+T104	ManufacturedObject 1023 1040	artificial fibers
+T105	Finding 1832 1843	fine-tuning
+T106	BiologicallyActiveSubstance 1440 1457	tenascin proteins
+T107	BiologicallyActiveSubstance 1893 1910	tenascin proteins

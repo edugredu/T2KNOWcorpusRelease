@@ -1,0 +1,49 @@
+T0	PopulationGroup 73 78	world
+T1	CellOrMolecularDysfunction 129 152	neurofibrillary tangles
+T2	AminoAcidPeptideOrProtein 217 240	hyperphosphorylated Tau
+T3	HealthCareActivity 506 519	communication
+T4	CellFunction 506 519	communication
+T5	NucleicAcidNucleosideOrNucleotide 582 595	nucleic acids
+T6	BiologicallyActiveSubstance 689 692	Tau
+T7	AminoAcidPeptideOrProtein 689 692	Tau
+T8	HealthCareActivity 967 999	diagnostic and therapeutic value
+T9	HealthCareActivity 1049 1058	screening
+T10	ResearchActivity 1049 1058	screening
+T11	Chemical 570 576	lipids
+T12	Substance 869 878	molecules
+T13	TemporalConcept 408 416	Recently
+T14	AminoAcidPeptideOrProtein 674 677	APP
+T15	BiologicallyActiveSubstance 674 677	APP
+T16	AminoAcidPeptideOrProtein 205 212	peptide
+T17	HealthCareActivity 1063 1073	prevention
+T18	AminoAcidPeptideOrProtein 109 124	amyloid plaques
+T19	CellComponent 307 345	single-membrane lipid bilayer vesicles
+T20	CellComponent 264 272	Exosomes
+T21	CellComponent 627 635	exosomes
+T22	CellComponent 831 839	exosomes
+T23	Cell 723 737	neuronal cells
+T24	CellOrMolecularDysfunction 154 158	NFTs
+T25	ResearchActivity 602 608	review
+T26	HealthCareActivity 602 608	review
+T27	AminoAcidPeptideOrProtein 560 568	proteins
+T28	CellFunction 786 813	endosomal-lysosomal pathway
+T29	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T30	ClinicalAttribute 469 479	biomarkers
+T31	DiseaseOrSyndrome 21 23	AD
+T32	DiseaseOrSyndrome 483 485	AD
+T33	DiseaseOrSyndrome 853 855	AD
+T34	DiseaseOrSyndrome 932 934	AD
+T35	DiseaseOrSyndrome 1004 1006	AD
+T36	Cell 296 301	cells
+T37	Cell 528 533	cells
+T38	AminoAcidPeptideOrProtein 183 195	amyloid-beta
+T39	DiseaseOrSyndrome 49 57	dementia
+T40	AminoAcidPeptideOrProtein 183 190	amyloid
+T41	BiologicallyActiveSubstance 183 190	amyloid
+T42	AminoAcidPeptideOrProtein 197 203	A beta
+T43	BodyPartOrganOrOrganComponent 538 545	tissues
+T44	PathologicFunction 902 920	pathophysiological
+T45	BiologicallyActiveSubstance 217 240	hyperphosphorylated Tau
+T46	BodyPartOrganOrOrganComponent 355 368	bodily fluids
+T47	PathologicFunction 109 124	amyloid plaques
+T48	GeneOrGenome 674 677	APP

@@ -1,0 +1,41 @@
+T0	BiomedicalOccupationOrDiscipline 48 60	neurobiology
+T1	ResearchActivity 570 607	Multiplexed RNA in situ hybridization
+T2	NaturalPhenomenonOrProcess 703 719	microenvironment
+T3	CellFunction 838 853	neuroprotection
+T4	BiologicFunction 456 467	homeostatic
+T5	BiologicFunction 750 761	homeostatic
+T6	Cell 280 296	oligodendrocytes
+T7	PathologicFunction 356 369	demyelinating
+T8	DiseaseOrSyndrome 111 129	multiple sclerosis
+T9	InjuryOrPoisoning 696 702	lesion
+T10	BiomedicalOccupationOrDiscipline 233 247	transcriptomic
+T11	Cell 298 301	OLs
+T12	PathologicFunction 343 355	inflammatory
+T13	Cell 472 495	reactive glial subtypes
+T14	Cell 667 681	glial subtypes
+T15	Cell 775 780	glial
+T16	Cell 0 13	Glial subtype
+T17	TemporalConcept 436 446	occurrence
+T18	PathologicFunction 884 893	pathology
+T19	BiomedicalOccupationOrDiscipline 884 893	pathology
+T20	PathologicFunction 557 568	progression
+T21	TemporalConcept 557 568	progression
+T22	OrganismAttribute 263 276	heterogeneity
+T23	CellFunction 648 663	gene expression
+T24	PathologicFunction 635 647	dysregulated
+T25	ResearchActivity 389 423	single cell transcriptomic studies
+T26	TemporalConcept 382 388	Recent
+T27	BiologicFunction 212 225	understanding
+T28	BiologicFunction 866 879	understanding
+T29	PathologicFunction 549 568	disease progression
+T30	Cell 781 790	cell-type
+T31	Cell 304 314	astrocytes
+T32	TemporalConcept 147 153	recent
+T33	DiseaseOrSyndrome 131 133	MS
+T34	DiseaseOrSyndrome 693 695	MS
+T35	DiseaseOrSyndrome 897 899	MS
+T36	Finding 183 191	advances
+T37	Cell 320 336	microglial cells
+T38	DiseaseOrSyndrome 65 102	immune-mediated neurological diseases
+T39	ResearchActivity 621 633	mapping back
+T40	Finding 14 23	diversity

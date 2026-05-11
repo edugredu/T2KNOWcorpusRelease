@@ -1,0 +1,87 @@
+T0	Finding 1123 1128	shift
+T1	PharmacologicSubstance 1285 1297	anti-oxidant
+T2	BodyPartOrganOrOrganComponent 1351 1355	root
+T3	HealthCareActivity 1447 1465	Biologic therapies
+T4	HealthCareRelatedOrganization 301 310	community
+T5	TemporalConcept 531 535	past
+T6	TemporalConcept 1017 1021	past
+T7	TemporalConcept 1834 1838	past
+T8	PopulationGroup 162 175	United States
+T9	TemporalConcept 746 752	trends
+T10	PharmacologicSubstance 949 953	Drug
+T11	HealthCareActivity 1303 1326	regeneration strategies
+T12	BiologicallyActiveSubstance 1178 1194	neurotransmitter
+T13	TemporalConcept 1009 1013	rate
+T14	TemporalConcept 150 154	year
+T15	TemporalConcept 202 210	progress
+T16	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T17	DiseaseOrSyndrome 21 23	AD
+T18	DiseaseOrSyndrome 497 499	AD
+T19	DiseaseOrSyndrome 1098 1100	AD
+T20	DiseaseOrSyndrome 1566 1568	AD
+T21	DiseaseOrSyndrome 1656 1658	AD
+T22	DiseaseOrSyndrome 1753 1755	AD
+T23	DiseaseOrSyndrome 1935 1937	AD
+T24	DiseaseOrSyndrome 29 48	Parkinson's disease
+T25	DiseaseOrSyndrome 50 52	PD
+T26	DiseaseOrSyndrome 504 506	PD
+T27	DiseaseOrSyndrome 1105 1107	PD
+T28	DiseaseOrSyndrome 1573 1575	PD
+T29	DiseaseOrSyndrome 1663 1665	PD
+T30	DiseaseOrSyndrome 1760 1762	PD
+T31	DiseaseOrSyndrome 1942 1944	PD
+T32	PathologicFunction 1374 1385	progression
+T33	TemporalConcept 1374 1385	progression
+T34	DiseaseOrSyndrome 77 103	neurodegenerative diseases
+T35	HealthCareActivity 225 237	therapeutics
+T36	HealthCareActivity 958 979	Biologic therapeutics
+T37	HealthCareActivity 1576 1588	therapeutics
+T38	ResearchActivity 1715 1723	overview
+T39	ResearchActivity 521 527	review
+T40	ResearchActivity 1681 1687	review
+T41	HealthCareActivity 521 527	review
+T42	HealthCareActivity 1681 1687	review
+T43	HealthCareActivity 332 341	treatment
+T44	HealthCareActivity 484 493	treatment
+T45	ResearchActivity 332 341	treatment
+T46	ResearchActivity 484 493	treatment
+T47	TemporalConcept 667 676	currently
+T48	TemporalConcept 447 454	current
+T49	SignOrSymptom 254 262	symptoms
+T50	CellOrMolecularDysfunction 390 407	neurodegeneration
+T51	ResearchActivity 1614 1642	novel preclinical strategies
+T52	TemporalConcept 940 944	time
+T53	BiologicFunction 426 439	understanding
+T54	CellFunction 1253 1264	aggregation
+T55	ResearchActivity 1253 1264	aggregation
+T56	ResearchActivity 626 648	clinical trial process
+T57	HealthCareActivity 796 803	therapy
+T58	PathologicFunction 1366 1385	disease progression
+T59	TemporalConcept 1952 1958	future
+T60	HealthCareActivity 718 727	therapies
+T61	HealthCareActivity 1158 1167	therapies
+T62	HealthCareActivity 1763 1772	therapies
+T63	Finding 1516 1522	severe
+T64	DiseaseOrSyndrome 591 618	neurodegenerative disorders
+T65	Finding 1495 1505	increasing
+T66	ManufacturedObject 1553 1561	vehicles
+T67	HealthCareActivity 1806 1826	therapeutic strategy
+T68	BiologicFunction 868 876	delivery
+T69	BiologicFunction 1544 1552	delivery
+T70	SignOrSymptom 1216 1227	symptomatic
+T71	TemporalConcept 653 660	briefly
+T72	TemporalConcept 1598 1605	briefly
+T73	ResearchActivity 756 771	clinical trials
+T74	ResearchActivity 1022 1037	clinical trials
+T75	ResearchActivity 1132 1147	clinical trials
+T76	BiologicFunction 1266 1283	anti-inflammatory
+T77	PharmacologicSubstance 1266 1283	anti-inflammatory
+T78	TemporalConcept 1855 1864	evolution
+T79	BiologicFunction 1855 1864	evolution
+T80	HealthCareActivity 1071 1093	therapeutic approaches
+T81	Finding 1228 1234	relief
+T82	HealthCareActivity 548 570	therapeutic strategies
+T83	HealthCareRelatedOrganization 677 708	US Food and Drug Administration
+T84	Finding 455 475	therapeutic frontier
+T85	HealthCareActivity 839 853	administration
+T86	Finding 890 897	outcome

@@ -1,0 +1,9 @@
+T0	BodyPartOrganOrOrganComponent 125 130	brain
+T1	HealthCareActivity 131 137	health
+T2	ResearchActivity 88 96	research
+T3	BodyPartOrganOrOrganComponent 44 63	blood-brain barrier
+T4	IndividualBehavior 64 73	integrity
+T5	EnvironmentalEffectOfHumans 25 40	smoke pollution
+T6	Substance 17 30	tobacco smoke
+T7	EnvironmentalEffectOfHumans 17 40	tobacco smoke pollution
+T8	Finding 64 73	integrity

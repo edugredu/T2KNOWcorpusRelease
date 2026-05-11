@@ -1,0 +1,7 @@
+T0	ResearchActivity 74 83	text data
+T1	DiseaseOrSyndrome 170 189	Alzheimer's disease
+T2	ResearchActivity 113 128	research papers
+T3	Substance 133 140	extract
+T4	MachineActivity 0 27;34 44	Natural language processing techniques
+T5	MachineActivity 29 32	NLP
+T6	HealthCareActivity 93 108	medical records

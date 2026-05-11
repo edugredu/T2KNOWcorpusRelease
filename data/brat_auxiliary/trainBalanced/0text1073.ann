@@ -1,0 +1,101 @@
+T0	NaturalPhenomenonOrProcess 21 27	energy
+T1	CellFunction 47 72	oxidative phosphorylation
+T2	BiologicallyActiveSubstance 87 110	Reactive Oxygen Species
+T3	AminoAcidPeptideOrProtein 125 147	Superoxide Dismutase 1
+T4	BiologicallyActiveSubstance 125 147	Superoxide Dismutase 1
+T5	AminoAcidPeptideOrProtein 218 242;249 258	electron transport chain complexes
+T6	AminoAcidPeptideOrProtein 413 416	ETC
+T7	BiologicallyActiveSubstance 413 416	ETC
+T8	ResearchActivity 506 524	immunoprecipitated
+T9	AminoAcidPeptideOrProtein 557 562	L1CAM
+T10	GeneOrGenome 557 562	L1CAM
+T11	AminoAcidPeptideOrProtein 768 779	complexes I
+T12	CellFunction 859 877	catalytic activity
+T13	BiologicallyActiveSubstance 881 893	complexes IV
+T14	BiologicallyActiveSubstance 947 958	complexes I
+T15	CellFunction 1112 1130	catalytic activity
+T16	AminoAcidPeptideOrProtein 1134 1144	complex IV
+T17	HealthCareActivity 1315 1322	autopsy
+T18	CellComponent 0 12	Mitochondria
+T19	AminoAcidPeptideOrProtein 149 153	SOD1
+T20	AminoAcidPeptideOrProtein 421 425	SOD1
+T21	AminoAcidPeptideOrProtein 808 812	SOD1
+T22	AminoAcidPeptideOrProtein 1032 1036	SOD1
+T23	AminoAcidPeptideOrProtein 1266 1270	SOD1
+T24	GeneOrGenome 149 153	SOD1
+T25	GeneOrGenome 421 425	SOD1
+T26	GeneOrGenome 808 812	SOD1
+T27	GeneOrGenome 1032 1036	SOD1
+T28	GeneOrGenome 1266 1270	SOD1
+T29	BiologicallyActiveSubstance 149 153	SOD1
+T30	BiologicallyActiveSubstance 421 425	SOD1
+T31	BiologicallyActiveSubstance 808 812	SOD1
+T32	BiologicallyActiveSubstance 1032 1036	SOD1
+T33	BiologicallyActiveSubstance 1266 1270	SOD1
+T34	BiologicallyActiveSubstance 112 115	ROS
+T35	BiologicallyActiveSubstance 268 271	ROS
+T36	Chemical 112 115	ROS
+T37	Chemical 268 271	ROS
+T38	PopulationGroup 572 579	cohorts
+T39	PopulationGroup 738 744	cohort
+T40	PopulationGroup 828 834	cohort
+T41	CellComponent 456 493	neuron-derived extracellular vesicles
+T42	DiseaseOrSyndrome 296 315	Alzheimer's disease
+T43	DiseaseOrSyndrome 317 319	AD
+T44	DiseaseOrSyndrome 394 396	AD
+T45	DiseaseOrSyndrome 621 623	AD
+T46	DiseaseOrSyndrome 697 699	AD
+T47	DiseaseOrSyndrome 912 914	AD
+T48	DiseaseOrSyndrome 1072 1074	AD
+T49	DiseaseOrSyndrome 1294 1296	AD
+T50	DiseaseOrSyndrome 1402 1404	AD
+T51	ClinicalAttribute 550 556	marker
+T52	Cell 456 462	neuron
+T53	BodyPartOrganOrOrganComponent 449 455	plasma
+T54	PopulationGroup 1062 1070	controls
+T55	ClinicalAttribute 1358 1368	biomarkers
+T56	Cell 356 364	neuronal
+T57	Cell 541 549	neuronal
+T58	TemporalConcept 732 737	first
+T59	ResearchActivity 1297 1303	models
+T60	DiseaseOrSyndrome 615 623	early AD
+T61	DiseaseOrSyndrome 691 699	early AD
+T62	PathologicFunction 321 333	pathogenesis
+T63	Finding 263 267	high
+T64	Cell 31 38	neurons
+T65	Finding 196 214	decreased activity
+T66	PopulationGroup 631 647	control subjects
+T67	PopulationGroup 707 723	control subjects
+T68	PopulationGroup 639 647	subjects
+T69	PopulationGroup 715 723	subjects
+T70	PopulationGroup 598 609	individuals
+T71	PopulationGroup 674 685	individuals
+T72	PopulationGroup 915 926	individuals
+T73	PopulationGroup 1075 1086	individuals
+T74	CellOrMolecularDysfunction 365 390	mitochondrial dysfunction
+T75	CellOrMolecularDysfunction 1373 1398	mitochondrial dysfunction
+T76	Chemical 87 110	Reactive Oxygen Species
+T77	CellOrMolecularDysfunction 156 182	Dysfunctional mitochondria
+T78	BiologicallyActiveSubstance 218 242;249 258	electron transport chain complexes
+T79	CellComponent 495 500	NDEVs
+T80	CellComponent 525 530	NDEVs
+T81	BiologicallyActiveSubstance 557 562	L1CAM
+T82	BiologicallyActiveSubstance 768 779	complexes I
+T83	AminoAcidPeptideOrProtein 790 802	ATP synthase
+T84	BiologicallyActiveSubstance 790 802	ATP synthase
+T85	AminoAcidPeptideOrProtein 881 893	complexes IV
+T86	AminoAcidPeptideOrProtein 898 910	ATP synthase
+T87	BiologicallyActiveSubstance 898 910	ATP synthase
+T88	AminoAcidPeptideOrProtein 947 958	complexes I
+T89	BiologicallyActiveSubstance 1134 1144	complex IV
+T90	AminoAcidPeptideOrProtein 1162 1174	ATP synthase
+T91	BiologicallyActiveSubstance 1162 1174	ATP synthase
+T92	CellComponent 1191 1192	E
+T93	ExperimentalModelOfDisease 1294 1303	AD models
+T94	AminoAcidPeptideOrProtein 947 956;973 976	complexes III
+T95	AminoAcidPeptideOrProtein 947 956;991 993	complexes IV
+T96	AminoAcidPeptideOrProtein 1012 1013;947 956	V complexes
+T97	AminoAcidPeptideOrProtein 768 777;781 784	complexes III
+T98	AminoAcidPeptideOrProtein 768 777;786 788	complexes IV
+T99	AminoAcidPeptideOrProtein 244 247	ETC
+T100	BiologicallyActiveSubstance 244 247	ETC

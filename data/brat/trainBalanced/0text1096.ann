@@ -1,0 +1,54 @@
+T0	OrganismAttribute 265 273	personal
+T1	Finding 585 593	carriers
+T2	Cell 630 642;655 660	neighbouring cells
+T3	CellComponent 668 676	vesicles
+T4	NaturalPhenomenonOrProcess 826 836	plasticity
+T5	CellFunction 826 836	plasticity
+T6	BiologicFunction 841 860	cognitive functions
+T7	Finding 956 964	carriers
+T8	ClinicalAttribute 1064 1074	detectable
+T9	ResearchActivity 1143 1155	experimental
+T10	Cell 724 735	brain cells
+T11	DiseaseOrSyndrome 1032 1059	neurodegenerative disorders
+T12	TemporalConcept 519 530	last decade
+T13	Cell 463 470	neurons
+T14	Cell 746 753	neurons
+T15	Substance 978 987	molecules
+T16	Cell 472 483	glial cells
+T17	HealthCareActivity 1172 1193	therapeutic potential
+T18	Cell 774 784	astrocytes
+T19	BiologicFunction 537 546	attention
+T20	CellFunction 297 317	molecular mechanisms
+T21	ResearchActivity 109 115	burden
+T22	PathologicFunction 882 905	pathological conditions
+T23	ExperimentalModelOfDisease 1227 1267	experimental models of neurodegeneration
+T24	Cell 472 477	glial
+T25	CellComponent 567 575	exosomes
+T26	CellComponent 944 952	exosomes
+T27	DiseaseOrSyndrome 0 27	Neurodegenerative disorders
+T28	Cell 755 772	neural stem cells
+T29	ResearchActivity 916 922	review
+T30	HealthCareActivity 916 922	review
+T31	DiseaseOrSyndrome 153 164	Parkinson's
+T32	DiseaseOrSyndrome 170 191	Huntington's diseases
+T33	PathologicFunction 343 354	progression
+T34	TemporalConcept 343 354	progression
+T35	Finding 1156 1164	evidence
+T36	DiseaseOrSyndrome 140 151	Alzheimer's
+T37	CellOrMolecularDysfunction 1250 1267	neurodegeneration
+T38	ClinicalAttribute 1099 1109	biomarkers
+T39	PathologicFunction 1016 1028	pathogenesis
+T40	Cell 488 504	neural stem cell
+T41	Cell 647 660	distant cells
+T42	ResearchActivity 923 927	data
+T43	DiseaseOrSyndrome 358 366	dementia
+T44	DiseaseOrSyndrome 1113 1121	dementia
+T45	Cell 762 772	stem cells
+T46	TemporalConcept 333 338	onset
+T47	Cell 790 799	microglia
+T48	Finding 65 75	disability
+T49	SignOrSymptom 249 256	symptom
+T50	DiseaseOrSyndrome 198 215	cognitive decline
+T51	DiseaseOrSyndrome 1278 1295	cognitive decline
+T52	ResearchActivity 1227 1246	experimental models
+T53	CellComponent 1197 1223	stem cell-derived vesicles

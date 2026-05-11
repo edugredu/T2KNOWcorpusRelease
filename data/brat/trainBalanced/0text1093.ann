@@ -1,0 +1,59 @@
+T0	DiseaseOrSyndrome 108 122;157 166	cardiovascular disorders
+T1	DiseaseOrSyndrome 124 134;157 166	infectious disorders
+T2	HealthCareActivity 215 235	cancer liquid biopsy
+T3	DiseaseOrSyndrome 309 315	tumour
+T4	Finding 374 381	improve
+T5	AminoAcidPeptideOrProtein 1135 1146	CD9 protein
+T6	CellFunction 1160 1171	integration
+T7	MachineActivity 1160 1171	integration
+T8	HealthCareActivity 1193 1217	point-of-care instrument
+T9	HealthCareActivity 1202 1206	care
+T10	HealthCareActivity 271 286	early detection
+T11	HealthCareActivity 587 596	challenge
+T12	ResearchActivity 437 446	technique
+T13	BiologicallyActiveSubstance 1135 1138	CD9
+T14	AminoAcidPeptideOrProtein 1135 1138	CD9
+T15	HealthCareActivity 412 429	detection methods
+T16	ResearchActivity 412 429	detection methods
+T17	CellComponent 650 676	large unilamellar vesicles
+T18	CellComponent 24 27	EVs
+T19	CellComponent 708 711	EVs
+T20	CellComponent 409 411	EV
+T21	CellComponent 744 746	EV
+T22	ClinicalAttribute 48 58	biomarkers
+T23	ClinicalAttribute 554 564	biomarkers
+T24	BiomedicalOccupationOrDiscipline 329 341	technologies
+T25	CellComponent 0 22	Extracellular vesicles
+T26	HealthCareActivity 67 76	diagnosis
+T27	ResearchActivity 277 286	detection
+T28	ResearchActivity 412 421	detection
+T29	ResearchActivity 533 542	detection
+T30	ResearchActivity 637 646	detection
+T31	HealthCareActivity 277 286	detection
+T32	HealthCareActivity 412 421	detection
+T33	HealthCareActivity 533 542	detection
+T34	HealthCareActivity 637 646	detection
+T35	ResearchActivity 698 704	models
+T36	TemporalConcept 401 408	current
+T37	Finding 464 468	high
+T38	Finding 481 494	high accuracy
+T39	Finding 987 991	high
+T40	HealthCareActivity 222 235	liquid biopsy
+T41	HealthCareActivity 291 301	monitoring
+T42	CellComponent 1081 1089	vesicles
+T43	DiseaseOrSyndrome 215 221	cancer
+T44	DiseaseOrSyndrome 1253 1259	cancer
+T45	TemporalConcept 347 355	recently
+T46	Finding 386 397	performance
+T47	Finding 845 856	performance
+T48	BiologicFunction 723 736	concentration
+T49	ResearchActivity 1179 1185	method
+T50	HealthCareActivity 1179 1185	method
+T51	DiseaseOrSyndrome 139 166	neurodegenerative disorders
+T52	Substance 222 228	liquid
+T53	Finding 469 479	resolution
+T54	ResearchActivity 771 802	dielectric resonant metasurface
+T55	ResearchActivity 897 937	plasmonic and electrochemical modalities
+T56	ResearchActivity 963 982	resonance amplitude
+T57	ResearchActivity 1008 1019;992 1003	metasurface Q-factor of
+T58	HealthCareActivity 1240 1268	personalised cancer medicine

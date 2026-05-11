@@ -1,0 +1,71 @@
+T0	Chemical 215 224	stemazole
+T1	Chemical 351 360	stemazole
+T2	CellFunction 481 495	cell apoptosis
+T3	Cell 526 537	cell clones
+T4	Chemical 668 677	stemazole
+T5	Chemical 782 791	stemazole
+T6	AminoAcidPeptideOrProtein 1051 1056	Olig2
+T7	GeneOrGenome 1051 1056	Olig2
+T8	Chemical 1097 1106	stemazole
+T9	Chemical 1175 1184	stemazole
+T10	Chemical 1264 1272	compound
+T11	PharmacologicSubstance 1153 1158	drugs
+T12	PathologicFunction 696 713	motor dysfunction
+T13	PathologicFunction 817 834	motor dysfunction
+T14	ResearchActivity 178 183	paper
+T15	Chemical 234 248	small molecule
+T16	Chemical 754 757	CPZ
+T17	Chemical 887 890	CPZ
+T18	PharmacologicSubstance 1290 1307	therapeutic agent
+T19	HealthCareActivity 1290 1307	therapeutic agent
+T20	AminoAcidPeptideOrProtein 996 999	MBP
+T21	BiologicallyActiveSubstance 996 999	MBP
+T22	GeneOrGenome 996 999	MBP
+T23	PopulationGroup 618 631	control group
+T24	PopulationGroup 594 599	group
+T25	PopulationGroup 891 896	group
+T26	PopulationGroup 912 917	group
+T27	Cell 68 72	OPCs
+T28	Cell 89 93	OPCs
+T29	Cell 35 66	oligodendrocyte precursor cells
+T30	DiseaseOrSyndrome 145 163	multiple sclerosis
+T31	ResearchActivity 1234 1241	in vivo
+T32	BodyPartOrganOrOrganComponent 950 956	myelin
+T33	CellFunction 314 327	remyelination
+T34	CellFunction 1220 1233	remyelination
+T35	DiseaseOrSyndrome 1316 1337	demyelinating disease
+T36	TemporalConcept 383 387	rate
+T37	DiseaseOrSyndrome 165 167	MS
+T38	PathologicFunction 718 731	demyelination
+T39	BiologicFunction 805 813	recovery
+T40	HealthCareActivity 805 813	recovery
+T41	TemporalConcept 805 813	recovery
+T42	BiologicFunction 843 849	repair
+T43	HealthCareActivity 843 849	repair
+T44	CellComponent 853 867	myelin sheaths
+T45	Substance 240 248	molecule
+T46	Cell 270 300	oligodendrocyte precursor cell
+T47	ResearchActivity 633 640	In vivo
+T48	Finding 16 22	normal
+T49	Chemical 743 752	cuprizone
+T50	CellFunction 301 309	survival
+T51	CellFunction 374 382	survival
+T52	CellFunction 1194 1206	OPC survival
+T53	CellFunction 122 141	myelin regeneration
+T54	CellFunction 406 421	clone formation
+T55	ResearchActivity 1207 1215	in vitro
+T56	PharmacologicSubstance 215 224	stemazole
+T57	InjuryOrPoisoning 99 105	damage
+T58	PharmacologicSubstance 351 360	stemazole
+T59	PharmacologicSubstance 668 677	stemazole
+T60	PharmacologicSubstance 1097 1106	stemazole
+T61	PharmacologicSubstance 782 791	stemazole
+T62	PharmacologicSubstance 1175 1184	stemazole
+T63	Finding 427 448	dose-dependent manner
+T64	Chemical 584 593	stemazole
+T65	PharmacologicSubstance 584 593	stemazole
+T66	Chemical 902 911	stemazole
+T67	PharmacologicSubstance 902 911	stemazole
+T68	CellFunction 1000 1010	expression
+T69	CellFunction 1057 1067	expression
+T70	BiologicallyActiveSubstance 1051 1056	Olig2

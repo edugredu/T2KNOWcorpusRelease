@@ -1,0 +1,153 @@
+T0	ManufacturedObject 591 597	Sensor
+T1	ResearchActivity 1218 1223	SIMOA
+T2	TemporalConcept 2338 2346	progress
+T3	CellOrMolecularDysfunction 31 41	misfolding
+T4	CellOrMolecularDysfunction 730 740	misfolding
+T5	CellOrMolecularDysfunction 800 810	misfolding
+T6	CellOrMolecularDysfunction 1358 1368	misfolding
+T7	CellOrMolecularDysfunction 1519 1529	misfolding
+T8	CellOrMolecularDysfunction 1578 1588	misfolding
+T9	CellOrMolecularDysfunction 1705 1715	misfolding
+T10	CellOrMolecularDysfunction 1927 1937	misfolding
+T11	Finding 2183 2194	noninvasive
+T12	ClinicalAttribute 816 836	prognostic biomarker
+T13	TemporalConcept 114 134	clinical progression
+T14	Finding 638 644	normal
+T15	Finding 2116 2138	cognitively unimpaired
+T16	HealthCareActivity 2271 2280	Follow-up
+T17	TemporalConcept 2271 2280	Follow-up
+T18	OrganismAttribute 1134 1137	sex
+T19	OrganismAttribute 1727 1730	sex
+T20	ResearchActivity 2302 2312	validation
+T21	ResearchActivity 2359 2369	validation
+T22	CellComponent 1902 1911	inclusion
+T23	ResearchActivity 337 352	SCIENCe project
+T24	TemporalConcept 1678 1682	year
+T25	DiseaseOrSyndrome 234 262	subjective cognitive decline
+T26	DiseaseOrSyndrome 264 267	SCD
+T27	DiseaseOrSyndrome 317 320	SCD
+T28	DiseaseOrSyndrome 1496 1499	SCD
+T29	OrganismAttribute 408 412	male
+T30	DiseaseOrSyndrome 367 375	Dementia
+T31	ResearchActivity 1435 1454	confidence interval
+T32	Finding 699 702	low
+T33	Finding 1574 1577	low
+T34	BiologicFunction 2005 2018	concentration
+T35	DiseaseOrSyndrome 189 208	Alzheimer's disease
+T36	DiseaseOrSyndrome 210 212	AD
+T37	DiseaseOrSyndrome 587 589	AD
+T38	DiseaseOrSyndrome 880 882	AD
+T39	DiseaseOrSyndrome 933 935	AD
+T40	DiseaseOrSyndrome 1314 1316	AD
+T41	DiseaseOrSyndrome 2110 2112	AD
+T42	DiseaseOrSyndrome 2246 2248	AD
+T43	PatientOrDisabledGroup 1281 1289	patients
+T44	ResearchActivity 1622 1642	area under the curve
+T45	PopulationGroup 2323 2330	cohorts
+T46	ResearchActivity 1201 1205	data
+T47	HealthCareActivity 2230 2239	screening
+T48	ResearchActivity 2230 2239	screening
+T49	PopulationGroup 217 228	individuals
+T50	PopulationGroup 538 549	individuals
+T51	BiologicFunction 914 925	development
+T52	CellFunction 914 925	development
+T53	ResearchActivity 2281 2288	studies
+T54	AminoAcidPeptideOrProtein 2032 2039	amyloid
+T55	BiologicallyActiveSubstance 2032 2039	amyloid
+T56	DiseaseOrSyndrome 173 181	dementia
+T57	DiseaseOrSyndrome 571 579	dementia
+T58	DiseaseOrSyndrome 864 872	dementia
+T59	DiseaseOrSyndrome 1317 1325	dementia
+T60	DiseaseOrSyndrome 2094 2102	dementia
+T61	ClinicalAttribute 2040 2050	biomarkers
+T62	ClinicalAttribute 2162 2172	biomarkers
+T63	DiseaseOrSyndrome 165 168	MCI
+T64	DiseaseOrSyndrome 564 567	MCI
+T65	DiseaseOrSyndrome 856 859	MCI
+T66	DiseaseOrSyndrome 929 932	MCI
+T67	DiseaseOrSyndrome 1307 1310	MCI
+T68	DiseaseOrSyndrome 2077 2089	clinical MCI
+T69	Finding 888 896	accuracy
+T70	BodyPartOrganOrOrganComponent 287 293	plasma
+T71	BodyPartOrganOrOrganComponent 1180 1186	plasma
+T72	BodyPartOrganOrOrganComponent 1779 1785	plasma
+T73	BodyPartOrganOrOrganComponent 2025 2031	plasma
+T74	BodyPartOrganOrOrganComponent 2155 2161	plasma
+T75	PathologicFunction 123 134	progression
+T76	PathologicFunction 841 852	progression
+T77	TemporalConcept 123 134	progression
+T78	TemporalConcept 841 852	progression
+T79	TemporalConcept 429 433	time
+T80	PopulationGroup 1036 1046	individual
+T81	OrganismAttribute 1036 1046	individual
+T82	ResearchActivity 1456 1458	CI
+T83	ResearchActivity 1545 1547	CI
+T84	ResearchActivity 1662 1664	CI
+T85	ResearchActivity 1834 1836	CI
+T86	ResearchActivity 1881 1883	CI
+T87	ResearchActivity 1266 1273	Results
+T88	OrganismAttribute 384 387	age
+T89	OrganismAttribute 1129 1132	age
+T90	OrganismAttribute 1722 1725	age
+T91	HealthCareActivity 419 428	follow-up
+T92	HealthCareActivity 518 527	follow-up
+T93	HealthCareActivity 1047 1056	follow-up
+T94	HealthCareActivity 1683 1692	follow-up
+T95	TemporalConcept 419 428	follow-up
+T96	TemporalConcept 518 527	follow-up
+T97	TemporalConcept 1047 1056	follow-up
+T98	TemporalConcept 1683 1692	follow-up
+T99	TemporalConcept 397 402	years
+T100	TemporalConcept 438 443	years
+T101	TemporalConcept 509 514	years
+T102	TemporalConcept 1335 1340	years
+T103	TemporalConcept 2240 2245	early
+T104	ResearchActivity 954 1025	time-dependent receiver operating characteristic (t-ROC) curve analyses
+T105	ResearchActivity 1382 1394	Cox analyses
+T106	ResearchActivity 1590 1610	T-ROC curve analyses
+T107	ResearchActivity 1751 1756	model
+T108	ResearchActivity 1768 1773	model
+T109	TemporalConcept 107 113	future
+T110	TemporalConcept 1475 1481	future
+T111	ResearchActivity 750 780	Cox proportional hazard models
+T112	ResearchActivity 1092 1110	Statistical models
+T113	DiseaseOrSyndrome 138 163	mild cognitive impairment
+T114	AminoAcidPeptideOrProtein 1143 1147	APOE
+T115	AminoAcidPeptideOrProtein 1736 1740	APOE
+T116	BiologicallyActiveSubstance 1143 1147	APOE
+T117	BiologicallyActiveSubstance 1736 1740	APOE
+T118	Finding 1158 1164	status
+T119	PopulationGroup 321 329	subjects
+T120	PopulationGroup 1500 1508	subjects
+T121	PopulationGroup 2139 2147	subjects
+T122	AminoAcidPeptideOrProtein 24 30	A beta
+T123	AminoAcidPeptideOrProtein 645 651	A beta
+T124	AminoAcidPeptideOrProtein 793 799	A beta
+T125	AminoAcidPeptideOrProtein 1187 1200	A beta(42/40)
+T126	AminoAcidPeptideOrProtein 1351 1357	A beta
+T127	AminoAcidPeptideOrProtein 1698 1704	A beta
+T128	ClinicalAttribute 1779 1805	plasma A beta(42/40) ratio
+T129	AminoAcidPeptideOrProtein 1920 1926	A beta
+T130	ClinicalAttribute 1946 1965	A beta(42/40) ratio
+T131	Finding 1061 1071	conversion
+T132	Finding 1482 1492	conversion
+T133	Finding 2063 2073	conversion
+T134	ResearchActivity 1644 1647	AUC
+T135	ResearchActivity 1817 1820	AUC
+T136	ResearchActivity 1854 1857	AUC
+T137	ResearchActivity 450 458	analyzed
+T138	ResearchActivity 1243 1251	analyzed
+T139	Finding 725 729	high
+T140	Finding 1514 1518	high
+T141	ResearchActivity 357 382	Amsterdam Dementia Cohort
+T142	GeneOrGenome 1736 1750	APOE epsilon 4
+T143	ClinicalAttribute 1180 1200	plasma A beta(42/40)
+T144	BiologicallyActiveSubstance 1187 1200	A beta(42/40)
+T145	HealthCareActivity 87 102	prognostic tool
+T146	GeneOrGenome 1143 1157	APOE epsilon 4
+T147	ResearchActivity 1406 1418	hazard ratio
+T148	ClinicalAttribute 62 81	A beta(42/40) ratio
+T149	ResearchActivity 465 498	immuno-infrared-sensor technology
+T150	CellFunction 652 659	folding
+T151	Finding 2199 2225	cost-effective alternative
+T152	ResearchActivity 598 612	readout values

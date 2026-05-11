@@ -1,0 +1,61 @@
+T0	CellFunction 177 194	metabolic support
+T1	BodyPartOrganOrOrganComponent 541 555	nervous tissue
+T2	CellFunction 594 615	myelin reconstitution
+T3	Cell 1165 1168	MNs
+T4	BiologicFunction 309 318	attention
+T5	BiologicFunction 1404 1421	energy metabolism
+T6	CellOrMolecularDysfunction 244 258	OL dysfunction
+T7	HealthCareActivity 1224 1249	therapeutic interventions
+T8	Cell 1150 1163	motor neurons
+T9	CellFunction 802 817	trophic support
+T10	DiseaseOrSyndrome 471 474	ALS
+T11	DiseaseOrSyndrome 1019 1022	ALS
+T12	DiseaseOrSyndrome 1314 1317	ALS
+T13	CellComponent 83 88	axons
+T14	CellComponent 821 826	axons
+T15	Cell 45 61	oligodendrocytes
+T16	Cell 526 530	OPCs
+T17	Cell 733 737	OPCs
+T18	Cell 1099 1102	OPC
+T19	BiologicFunction 1103 1113	maturation
+T20	Cell 493 524	oligodendrocyte precursor cells
+T21	BodyPartOrganOrOrganComponent 263 269	myelin
+T22	BodyPartOrganOrOrganComponent 594 600	myelin
+T23	BodyPartOrganOrOrganComponent 692 698	myelin
+T24	BodyPartOrganOrOrganComponent 773 779	myelin
+T25	BiologicFunction 638 650	regeneration
+T26	Cell 63 66	OLs
+T27	Cell 586 589	OLs
+T28	Cell 1012 1015	OLs
+T29	Cell 482 484	OL
+T30	Cell 1072 1074	OL
+T31	CellFunction 1355 1368	remyelinating
+T32	PathologicFunction 1075 1087	degeneration
+T33	HealthCareActivity 638 650	regeneration
+T34	BiologicFunction 145 172	saltatory signal conduction
+T35	BodyPartOrganOrOrganComponent 0 6	Myelin
+T36	ResearchActivity 958 964	review
+T37	HealthCareActivity 958 964	review
+T38	TemporalConcept 223 228	years
+T39	PathologicFunction 1023 1035	pathogenesis
+T40	CellOrMolecularDysfunction 378 395	neurodegeneration
+T41	CellOrMolecularDysfunction 931 948	neurodegeneration
+T42	DiseaseOrSyndrome 440 469	amyotrophic lateral sclerosis
+T43	Cell 198 205	neurons
+T44	TemporalConcept 1217 1223	future
+T45	Substance 1329 1338	molecules
+T46	Chemical 14 19	lipid
+T47	InjuryOrPoisoning 485 491	injury
+T48	PopulationGroup 535 540	adult
+T49	TemporalConcept 568 578	generation
+T50	BiologicFunction 763 769	repair
+T51	HealthCareActivity 763 769	repair
+T52	DiseaseOrSyndrome 407 428	neurological diseases
+T53	BiologicFunction 1133 1146	energy supply
+T54	InjuryOrPoisoning 270 276	damage
+T55	InjuryOrPoisoning 699 705	damage
+T56	CellOrMolecularDysfunction 998 1015	dysfunctional OLs
+T57	CellOrMolecularDysfunction 1089 1113	defective OPC maturation
+T58	CellOrMolecularDysfunction 1119 1146	impairment in energy supply
+T59	Finding 1281 1310	potential therapeutic utility
+T60	Finding 858 879	immunomodulatory role

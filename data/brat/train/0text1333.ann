@@ -1,0 +1,67 @@
+T0	Cell 0 15	Oligodendrocyte
+T1	AminoAcidPeptideOrProtein 374 383	receptors
+T2	BiologicallyActiveSubstance 374 383	receptors
+T3	AminoAcidPeptideOrProtein 388 402	growth factors
+T4	BiologicallyActiveSubstance 404 423	signaling molecules
+T5	CellFunction 404 423	signaling molecules
+T6	BiologicallyActiveSubstance 425 442	neurotransmitters
+T7	AminoAcidPeptideOrProtein 425 442	neurotransmitters
+T8	BiologicallyActiveSubstance 447 462	neuromodulators
+T9	CellComponent 736 748	cytoskeletal
+T10	CellFunction 788 799	integration
+T11	MachineActivity 788 799	integration
+T12	HealthCareActivity 1006 1019	communication
+T13	CellFunction 1006 1019	communication
+T14	CellComponent 805 811	axonal
+T15	BiologicFunction 637 645	behavior
+T16	BiologicFunction 1145 1153	behavior
+T17	IndividualBehavior 637 645	behavior
+T18	IndividualBehavior 1145 1153	behavior
+T19	ResearchActivity 637 645	behavior
+T20	ResearchActivity 1145 1153	behavior
+T21	TemporalConcept 149 155	Recent
+T22	Cell 52 59	neurons
+T23	Cell 1028 1035	neurons
+T24	Cell 854 860	neuron
+T25	Substance 414 423	molecules
+T26	Cell 183 191	neuronal
+T27	Cell 540 548	neuronal
+T28	BiologicFunction 388 394	growth
+T29	Finding 468 477	knowledge
+T30	CellFunction 759 774	gene expression
+T31	CellFunction 485 517	intracellular signaling pathways
+T32	CellFunction 214 227	proliferation
+T33	CellFunction 250 261	myelination
+T34	CellFunction 1158 1169	myelination
+T35	BiologicFunction 776 786	maturation
+T36	CellFunction 404 413	signaling
+T37	CellFunction 671 702	intracellular calcium signaling
+T38	CellFunction 1086 1122	activity-dependent calcium signaling
+T39	CellFunction 183 200	neuronal activity
+T40	CellFunction 540 557	neuronal activity
+T41	PathologicFunction 935 948	demyelinating
+T42	Cell 31 46	oligodendroglia
+T43	Cell 326 341	oligodendroglia
+T44	Cell 621 636	oligodendroglia
+T45	Cell 861 876	oligodendroglia
+T46	Cell 1040 1055	oligodendroglia
+T47	BiologicFunction 133 147	brain function
+T48	ResearchActivity 967 973	review
+T49	HealthCareActivity 967 973	review
+T50	OrganismAttribute 125 132	healthy
+T51	CellFunction 598 606	pathways
+T52	Cell 0 29	Oligodendrocyte lineage cells
+T53	BiologicFunction 921 929	recovery
+T54	HealthCareActivity 921 929	recovery
+T55	TemporalConcept 921 929	recovery
+T56	CellFunction 229 244	differentiation
+T57	NaturalPhenomenonOrProcess 749 757	dynamics
+T58	TemporalConcept 109 113	life
+T59	BodyPartOrganOrOrganComponent 303 318	neural circuits
+T60	BiologicallyActiveSubstance 388 402	growth factors
+T61	Chemical 685 692	calcium
+T62	PharmacologicSubstance 685 692	calcium
+T63	BiologicallyActiveSubstance 685 692	calcium
+T64	CellFunction 835 890	activity-dependent neuron-oligodendroglia communication
+T65	InjuryOrPoisoning 935 957	demyelinating injuries
+T66	CellFunction 1105 1122	calcium signaling

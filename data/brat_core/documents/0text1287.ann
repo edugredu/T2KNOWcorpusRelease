@@ -1,0 +1,100 @@
+T0	BodyPartOrganOrOrganComponent 61 69	cerebrum
+T1	BodyPartOrganOrOrganComponent 132 142	connectome
+T2	BiologicallyActiveSubstance 450 483	chondroitin sulphate proteoglycan
+T3	AminoAcidPeptideOrProtein 450 483	chondroitin sulphate proteoglycan
+T4	GeneOrGenome 489 494	Cspg4
+T5	AminoAcidPeptideOrProtein 489 494	Cspg4
+T6	PopulationGroup 528 533	Adult
+T7	AminoAcidPeptideOrProtein 759 785	G-protein-coupled receptor
+T8	BiologicFunction 1044 1062	cognitive function
+T9	BiologicFunction 1235 1241	ageing
+T10	BiologicFunction 1429 1435	ageing
+T11	Chemical 1556 1562	purine
+T12	AminoAcidPeptideOrProtein 1651 1664	P2X7 receptor
+T13	CellFunction 1699 1713	OPC metabolism
+T14	DiseaseOrSyndrome 1781 1807	chronic multiple sclerosis
+T15	Chemical 1886 1892	purine
+T16	CellFunction 616 628	self-renewal
+T17	CellFunction 1588 1604	OPC self-renewal
+T18	AminoAcidPeptideOrProtein 484 487	NG2
+T19	AminoAcidPeptideOrProtein 534 537	NG2
+T20	BiologicallyActiveSubstance 484 487	NG2
+T21	BiologicallyActiveSubstance 534 537	NG2
+T22	BodyPartOrganOrOrganComponent 14 16	WM
+T23	BiologicFunction 1031 1039	learning
+T24	DiseaseOrSyndrome 1176 1193	cognitive decline
+T25	Cell 177 193	oligodendrocytes
+T26	Cell 318 334	Oligodendrocytes
+T27	Cell 401 405	OPCs
+T28	Cell 534 543	NG2+ OPCs
+T29	Cell 664 674	'late OPCs
+T30	Cell 707 711	OPCs
+T31	Cell 891 909	reservoirs of OPCs
+T32	Cell 1436 1440	OPCs
+T33	Cell 1289 1292	OPC
+T34	CellFunction 932 943	myelination
+T35	CellFunction 1108 1119	myelination
+T36	CellFunction 1766 1777	myelination
+T37	CellFunction 1928 1939	myelination
+T38	Cell 368 399	oligodendrocyte precursor cells
+T39	Cell 548 574	slowly proliferating cells
+T40	BodyPartOrganOrOrganComponent 1220 1226	myelin
+T41	BodyPartOrganOrOrganComponent 1812 1818	myelin
+T42	Cell 951 959	neuronal
+T43	BiologicFunction 1996 2002	repair
+T44	HealthCareActivity 1996 2002	repair
+T45	BodyPartOrganOrOrganComponent 150 155	brain
+T46	BodyPartOrganOrOrganComponent 311 316	brain
+T47	BodyPartOrganOrOrganComponent 878 883	brain
+T48	CellFunction 633 648	differentiation
+T49	CellFunction 680 695	differentiation
+T50	CellFunction 814 829	differentiation
+T51	TemporalConcept 360 364	life
+T52	BiologicFunction 1854 1867	understanding
+T53	Cell 835 863	myelinating oligodendrocytes
+T54	BiologicallyActiveSubstance 759 785	G-protein-coupled receptor
+T55	BiologicallyActiveSubstance 1651 1664	P2X7 receptor
+T57	Eukaryote 55 60	human
+T58	Eukaryote 305 310	human
+T59	BodyPartOrganOrOrganComponent 0 12	White matter
+T60	OrganismAttribute 1085 1088	age
+T61	OrganismAttribute 1676 1679	age
+T62	OrganismAttribute 1725 1728	age
+T63	OrganismAttribute 2006 2009	age
+T64	Finding 1380 1387	failure
+T65	Finding 1755 1762	failure
+T66	BiomedicalOccupationOrDiscipline 2020 2034	neuropathology
+T67	PathologicFunction 2020 2034	neuropathology
+T68	CellFunction 1391 1410	myelin regeneration
+T69	CellFunction 221 254	neuronal electrical communication
+T70	PopulationGroup 872 877	adult
+T71	GeneOrGenome 786 791	GPR17
+T72	GeneOrGenome 1637 1642	GPR17
+T73	AminoAcidPeptideOrProtein 786 791	GPR17
+T74	AminoAcidPeptideOrProtein 1637 1642	GPR17
+T75	BiologicallyActiveSubstance 786 791	GPR17
+T76	BiologicallyActiveSubstance 1637 1642	GPR17
+T77	Cell 589 598	stem cell
+T78	DiseaseOrSyndrome 1827 1846	Alzheimer's disease
+T79	Cell 518 526	NG2-glia
+T80	BodyPartOrganOrOrganComponent 157 163	Myelin
+T81	CellFunction 1556 1573	purine signalling
+T82	CellFunction 1886 1903	purine signalling
+T83	BodyPartOrganOrOrganComponent 90 117	bundles of myelinated axons
+T84	Finding 274 297	massive computing power
+T85	CellFunction 432 442	expression
+T86	BiologicallyActiveSubstance 489 494	Cspg4
+T87	Cell 914 918	COPs
+T88	Cell 712 716	COPs
+T89	CellComponent 951 971	neuronal connections
+T90	CellFunction 994 1013	neuronal signalling
+T91	CellOrMolecularDysfunction 1146 1171	loss of neuronal function
+T92	CellOrMolecularDysfunction 1220 1231	myelin loss
+T93	Finding 1294 1302	stemness
+T94	Cell 1344 1348	COPs
+T95	CellOrMolecularDysfunction 1460 1496	dysregulation of neuronal signalling
+T96	CellFunction 1501 1523	OPC metabolic function
+T97	Finding 1310 1317	decline
+T98	Finding 1327 1340	replenishment
+T99	CellOrMolecularDysfunction 1812 1823	myelin loss
+T100	CellFunction 1907 1923	OPC regeneration

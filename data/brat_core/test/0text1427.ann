@@ -1,0 +1,48 @@
+T0	Finding 186 192	result
+T1	PopulationGroup 330 368	non-Hispanic Black or African American
+T2	Finding 602 617	behavior change
+T3	Finding 622 642	psychological impact
+T4	BiologicFunction 758 766	planning
+T5	BiologicFunction 859 867	distress
+T6	Finding 893 899	stigma
+T7	ResearchActivity 923 934	measurement
+T8	HealthCareActivity 923 934	measurement
+T9	ClinicalAttribute 1020 1029	Biomarker
+T10	BiologicFunction 602 610	behavior
+T11	BiologicFunction 713 721	behavior
+T12	IndividualBehavior 602 610	behavior
+T13	IndividualBehavior 713 721	behavior
+T14	ResearchActivity 602 610	behavior
+T15	ResearchActivity 713 721	behavior
+T16	SignOrSymptom 869 887	cognitive symptoms
+T17	OrganismAttribute 306 309	age
+T18	ResearchActivity 1147 1155	research
+T19	Finding 771 794	dementia risk-reduction
+T20	ResearchActivity 105 112	studies
+T21	ResearchActivity 267 279;283 290	longitudinal studies
+T22	DiseaseOrSyndrome 280 282	AD
+T23	DiseaseOrSyndrome 493 495	AD
+T24	DiseaseOrSyndrome 1017 1019	AD
+T25	DiseaseOrSyndrome 1123 1125	AD
+T26	ClinicalAttribute 95 104	biomarker
+T27	ClinicalAttribute 176 185	biomarker
+T28	ClinicalAttribute 496 505	biomarker
+T29	ClinicalAttribute 1126 1135	biomarker
+T30	DiseaseOrSyndrome 771 779	dementia
+T31	ResearchActivity 704 734	2-factor behavior change model
+T32	ResearchActivity 800 835	3-factor psychological impact model
+T33	ResearchActivity 571 578	Results
+T34	PopulationGroup 1156 1168	participants
+T35	PopulationGroup 248 254	adults
+T36	PopulationGroup 203 215	Participants
+T37	BiologicFunction 484 492	learning
+T38	ResearchActivity 584 590	models
+T39	ResearchActivity 906 912	models
+T40	HealthCareActivity 31 59	Alzheimer's Biomarker Survey
+T41	PopulationGroup 556 569	racial groups
+T42	PopulationGroup 685 698	racial groups
+T43	CellComponent 893 899	stigma
+T44	PopulationGroup 953 966	racial groups
+T45	HealthCareActivity 1017 1046	AD Biomarker Disclosure scale
+T46	Substance 666 672	sample
+T47	BodyPartOrganOrOrganComponent 666 672	sample

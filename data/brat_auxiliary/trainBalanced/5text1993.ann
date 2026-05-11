@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 89 116	neurodegenerative disorders
+T1	HealthCareActivity 128 143	early diagnosis
+T2	ClinicalAttribute 64 74	biomarkers
+T3	HealthCareActivity 148 166	disease monitoring
+T4	BodyPartOrganOrOrganComponent 16 35	cerebrospinal fluid
+T5	BodyPartOrganOrOrganComponent 37 40	CSF
+T6	Substance 42 51	specimens
+T7	ResearchActivity 0 11	Researchers

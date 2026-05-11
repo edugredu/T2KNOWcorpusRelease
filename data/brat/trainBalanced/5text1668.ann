@@ -1,0 +1,6 @@
+T0	BodyPartOrganOrOrganComponent 99 104	brain
+T1	CellOrMolecularDysfunction 156 173	neurodegeneration
+T2	BiologicFunction 122 135	understanding
+T3	PathologicFunction 53 70	neuroinflammation
+T4	CellOrMolecularDysfunction 75 91	oxidative stress
+T5	EnvironmentalEffectOfHumans 26 39	air pollution

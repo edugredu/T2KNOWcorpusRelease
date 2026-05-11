@@ -1,0 +1,45 @@
+T0	DiseaseOrSyndrome 0 11	Tauopathies
+T1	HealthCareActivity 291 299	transfer
+T2	ResearchActivity 291 299	transfer
+T3	DiseaseOrSyndrome 538 549	tauopathies
+T4	DiseaseOrSyndrome 659 670	tauopathies
+T5	DiseaseOrSyndrome 963 974	tauopathies
+T6	PathologicFunction 943 956	tau pathology
+T7	Eukaryote 391 397	humans
+T8	InjuryOrPoisoning 834 841	lesions
+T9	Cell 78 89	brain cells
+T10	Substance 425 431	fluids
+T11	CellComponent 313 335	extracellular vesicles
+T12	DiseaseOrSyndrome 740 759	Alzheimer's disease
+T13	CellComponent 337 340	EVs
+T14	CellComponent 456 459	EVs
+T15	CellComponent 464 467	EVs
+T16	CellComponent 773 776	EVs
+T17	CellComponent 894 897	EVs
+T18	Finding 708 716	evidence
+T19	AminoAcidPeptideOrProtein 60 63	tau
+T20	AminoAcidPeptideOrProtein 106 117	tau species
+T21	AminoAcidPeptideOrProtein 830 833	tau
+T22	AminoAcidPeptideOrProtein 943 946	tau
+T23	BodyPartOrganOrOrganComponent 433 438	brain
+T24	BiologicallyActiveSubstance 60 63	tau
+T25	BiologicallyActiveSubstance 830 833	tau
+T26	BiologicallyActiveSubstance 943 946	tau
+T27	OrganismAttribute 639 652	heterogeneity
+T28	Cell 153 157	cell
+T29	Cell 161 165	cell
+T30	DiseaseOrSyndrome 16 42	neurodegenerative diseases
+T31	ResearchActivity 592 600	in vitro
+T32	Finding 928 939	propagation
+T33	ResearchActivity 605 612	in vivo
+T34	ResearchActivity 842 849	in vivo
+T35	CellComponent 411 419	vesicles
+T36	AminoAcidPeptideOrProtein 228 233	prion
+T37	AminoAcidPeptideOrProtein 917 922	prion
+T38	BodyPartOrganOrOrganComponent 513 526	brain regions
+T39	BodyPartOrganOrOrganComponent 675 688	brain regions
+T40	OrganismAttribute 806 813	species
+T41	HealthCareActivity 1025 1047	therapeutic strategies
+T42	CellOrMolecularDysfunction 60 74	tau inclusions
+T43	CellFunction 561 578	seeding potential
+T44	HealthCareActivity 1010 1020;1037 1047	diagnostic strategies

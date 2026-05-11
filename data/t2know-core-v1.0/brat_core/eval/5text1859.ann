@@ -1,0 +1,8 @@
+T0	BodyPartOrganOrOrganComponent 89 94	brain
+T1	HealthCareActivity 95 101	health
+T2	DiseaseOrSyndrome 125 153	neurodegenerative conditions
+T3	Organism 36 50	gut microbiota
+T4	BodyPartOrganOrOrganComponent 36 39	gut
+T5	Finding 21 32	alterations
+T6	Bacterium 0 13	P. gingivalis
+T7	BiologicFunction 110 121	development

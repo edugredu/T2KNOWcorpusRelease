@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 121 146	mild cognitive impairment
+T1	DiseaseOrSyndrome 163 191	neurodegenerative conditions
+T2	PopulationGroup 104 115	individuals
+T3	BiologicFunction 71 77	memory
+T4	Finding 71 77	memory
+T5	BiologicFunction 82 100	cognitive function
+T6	Organism 0 13	Ginkgo biloba
+T7	HealthCareActivity 0 29	Ginkgo biloba supplementation

@@ -1,0 +1,16 @@
+T0	DiseaseOrSyndrome 38 63	neurodegenerative disease
+T1	SignOrSymptom 94 111	Choreic movements
+T2	DiseaseOrSyndrome 113 136	psychological disorders
+T3	SignOrSymptom 197 215	atypical movements
+T4	SignOrSymptom 237 245	symptoms
+T5	DiseaseOrSyndrome 255 267	parkinsonism
+T6	SignOrSymptom 269 275	ataxia
+T7	SignOrSymptom 281 289	dystonia
+T8	DiseaseOrSyndrome 281 289	dystonia
+T9	HealthCareActivity 299 305	report
+T10	ResearchActivity 299 305	report
+T11	DiseaseOrSyndrome 351 372	atypical parkinsonism
+T12	DiseaseOrSyndrome 142 159	cognitive decline
+T13	PatientOrDisabledGroup 321 331	HD patient
+T14	DiseaseOrSyndrome 0 20	Huntington's disease
+T15	PatientOrDisabledGroup 166 174	patients

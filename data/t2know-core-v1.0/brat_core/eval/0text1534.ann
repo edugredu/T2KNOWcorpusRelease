@@ -1,0 +1,86 @@
+T0	HealthCareActivity 442 473	neuropsychological test battery
+T1	HealthCareRelatedOrganization 562 589	National Institute on Aging
+T2	HealthCareRelatedOrganization 591 594	NIA
+T3	TemporalConcept 947 954	minutes
+T4	BiologicFunction 924 930	recall
+T5	PathologicFunction 1029 1046	amyloid pathology
+T6	HealthCareActivity 1190 1206	clinical setting
+T7	TemporalConcept 21 25	life
+T8	BiologicFunction 1091 1099	learning
+T9	TemporalConcept 180 186	stages
+T10	BiologicFunction 53 59	growth
+T11	AminoAcidPeptideOrProtein 736 745	A beta 42
+T12	BiologicallyActiveSubstance 736 745	A beta 42
+T13	HealthCareActivity 442 465	neuropsychological test
+T14	ResearchActivity 1286 1299	cutoff values
+T15	HealthCareActivity 274 298	neuropsychological tests
+T16	TemporalConcept 174 186	early stages
+T17	BiologicFunction 1120 1131	Recognition
+T18	TemporalConcept 21 36	life expectancy
+T19	DiseaseOrSyndrome 399 424	Mild Cognitive Impairment
+T20	HealthCareActivity 962 995	Rey Auditory Verbal Learning Test
+T21	HealthCareActivity 195 221	neuropsychological testing
+T22	HealthCareActivity 1228 1254	neuropsychological testing
+T23	Finding 1143 1149	scores
+T24	Finding 1274 1280	scores
+T25	Finding 728 731	low
+T26	DiseaseOrSyndrome 85 104	Alzheimer's disease
+T27	BodyPartOrganOrOrganComponent 732 735	CSF
+T28	DiseaseOrSyndrome 106 108	AD
+T29	DiseaseOrSyndrome 325 327	AD
+T30	DiseaseOrSyndrome 1352 1354	AD
+T31	PatientOrDisabledGroup 380 388	patients
+T32	PatientOrDisabledGroup 754 762	patients
+T33	Finding 931 936	score
+T34	AminoAcidPeptideOrProtein 614 621	amyloid
+T35	AminoAcidPeptideOrProtein 676 683	amyloid
+T36	AminoAcidPeptideOrProtein 787 794	amyloid
+T37	AminoAcidPeptideOrProtein 810 817	amyloid
+T38	AminoAcidPeptideOrProtein 1029 1036	amyloid
+T39	BiologicallyActiveSubstance 614 621	amyloid
+T40	BiologicallyActiveSubstance 676 683	amyloid
+T41	BiologicallyActiveSubstance 787 794	amyloid
+T42	BiologicallyActiveSubstance 810 817	amyloid
+T43	BiologicallyActiveSubstance 1029 1036	amyloid
+T44	DiseaseOrSyndrome 519 538	Alzheimer's Disease
+T45	HealthCareActivity 161 170	diagnosis
+T46	HealthCareActivity 1328 1337	diagnosis
+T47	ClinicalAttribute 132 142	biomarkers
+T48	ResearchActivity 244 249	study
+T49	DiseaseOrSyndrome 394 397	MCI
+T50	DiseaseOrSyndrome 783 786	MCI
+T51	DiseaseOrSyndrome 806 809	MCI
+T52	DiseaseOrSyndrome 1341 1344	MCI
+T53	PathologicFunction 328 343	pathophysiology
+T54	BiomedicalOccupationOrDiscipline 328 343	pathophysiology
+T55	Finding 845 868	Statistical differences
+T56	Finding 653 661	presence
+T57	Finding 1047 1055	presence
+T58	ResearchActivity 836 843	Results
+T59	PopulationGroup 908 914	groups
+T60	TemporalConcept 174 179	early
+T61	HealthCareActivity 707 714	PIB-PET
+T62	ResearchActivity 887 899	memory tests
+T63	HealthCareActivity 887 899	memory tests
+T64	AminoAcidPeptideOrProtein 736 742	A beta
+T65	ResearchActivity 487 503	Uniform Data Set
+T66	HealthCareActivity 442 460	neuropsychological
+T67	PopulationGroup 1377 1383	cohort
+T68	ResearchActivity 1057 1060	AUC
+T69	ResearchActivity 1101 1104	AUC
+T70	ResearchActivity 1133 1136	AUC
+T71	PopulationGroup 63 69	adults
+T72	BiologicFunction 887 893	memory
+T73	ResearchActivity 461 465	test
+T74	HealthCareActivity 461 465	test
+T75	ClinicalAttribute 622 629	markers
+T76	ResearchActivity 519 554	Alzheimer's Disease Centers program
+T77	Finding 665 672	absence
+T78	ClinicalAttribute 732 752	CSF A beta 42 levels
+T79	HealthCareActivity 997 1001	AVLT
+T80	HealthCareActivity 1080 1084	AVLT
+T81	HealthCareActivity 1115 1119	AVLT
+T82	ResearchActivity 1168 1182	cut off values
+T83	ResearchActivity 1269 1273	AVLT
+T84	PopulationGroup 1363 1376	SouthAmerican
+T85	ResearchActivity 505 508	UDS

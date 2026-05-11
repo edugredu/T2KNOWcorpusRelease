@@ -1,0 +1,80 @@
+T0	DiseaseOrSyndrome 62 82	neurologic disorders
+T1	Virus 94 97	HIV
+T2	Finding 155 166	persistence
+T3	PharmacologicSubstance 231 234	ARV
+T4	DiseaseOrSyndrome 301 312	impairments
+T5	PharmacologicSubstance 347 350	ARV
+T6	Chemical 352 363	bictegravir
+T7	Chemical 365 368	BIC
+T8	Chemical 663 666	BIC
+T9	Finding 769 779	impairment
+T10	CellComponent 783 792	lysosomal
+T11	CellComponent 837 846	lysosomal
+T12	CellComponent 963 972	lysosomal
+T13	Finding 993 1003	impairment
+T14	Chemical 1042 1045	BIC
+T15	CellComponent 1121 1130	lysosomal
+T16	CellFunction 1245 1268	lysosomal acidification
+T17	DiseaseOrSyndrome 1333 1352	neurologic diseases
+T18	CellComponent 1087 1096	lysosomes
+T19	TemporalConcept 1047 1053	Lastly
+T20	DiseaseOrSyndrome 94 133	HIV-associated neurocognitive disorders
+T21	Finding 35 58	neuropathologic finding
+T22	Finding 676 696	significant decrease
+T23	Cell 1173 1189	oligodendrocytes
+T24	Cell 628 632	OPCs
+T25	Cell 1007 1022	oligodendrocyte
+T26	BiologicFunction 1159 1169	maturation
+T27	Cell 595 626	oligodendrocyte precursor cells
+T28	ResearchActivity 456 461	model
+T29	BodyPartOrganOrOrganComponent 545 551	myelin
+T30	CellFunction 396 409	remyelination
+T31	PathologicFunction 439 452	demyelination
+T32	PathologicFunction 487 500	demyelination
+T33	Cell 700 723	mature oligodendrocytes
+T34	CellFunction 1023 1038	differentiation
+T35	BodyPartOrganOrOrganComponent 170 182	white matter
+T36	BodyPartOrganOrOrganComponent 1396 1408	white matter
+T37	HealthCareActivity 323 329	report
+T38	ResearchActivity 323 329	report
+T39	TemporalConcept 538 544	mature
+T40	Chemical 1100 1109	compounds
+T41	PharmacologicSubstance 1100 1109	compounds
+T42	Eukaryote 591 594	rat
+T43	ResearchActivity 565 572	studies
+T44	BodyPartOrganOrOrganComponent 0 12	White matter
+T45	PathologicFunction 1396 1422	white matter abnormalities
+T46	Chemical 420 429	cuprizone
+T47	HealthCareActivity 648 657	treatment
+T48	ResearchActivity 648 657	treatment
+T49	ResearchActivity 1205 1210	study
+T50	HealthCareActivity 215 229;236 243	antiretroviral therapy
+T51	CellFunction 1283 1307	oligodendrocyte function
+T52	CellComponent 847 855	membrane
+T53	TemporalConcept 481 486	acute
+T54	Finding 13 21	deficits
+T55	DiseaseOrSyndrome 135 139	HAND
+T56	DiseaseOrSyndrome 145 149	HAND
+T57	Finding 183 194	alterations
+T58	PharmacologicSubstance 258 262	ARVs
+T59	PharmacologicSubstance 352 363	bictegravir
+T60	BiologicallyActiveSubstance 352 363	bictegravir
+T61	BiologicallyActiveSubstance 365 368	BIC
+T62	PharmacologicSubstance 365 368	BIC
+T63	BiologicallyActiveSubstance 663 666	BIC
+T64	PharmacologicSubstance 663 666	BIC
+T65	CellFunction 739 764	lysosomal deacidification
+T66	CellFunction 783 813	lysosomal degradative capacity
+T67	Finding 822 833	alterations
+T68	CellFunction 847 868	membrane permeability
+T69	CellComponent 878 886	lysosome
+T70	AminoAcidPeptideOrProtein 913 941	endolysosomal cation channel
+T71	BiologicallyActiveSubstance 913 941	endolysosomal cation channel
+T72	AminoAcidPeptideOrProtein 942 948	TRPML1
+T73	BiologicallyActiveSubstance 942 948	TRPML1
+T74	CellFunction 963 988	lysosomal deacidification
+T75	BiologicallyActiveSubstance 1042 1045	BIC
+T76	PharmacologicSubstance 1042 1045	BIC
+T77	CellFunction 1068 1096	deacidification of lysosomes
+T78	CellFunction 1121 1133	lysosomal pH
+T79	CellOrMolecularDysfunction 1370 1391	lysosomal dysfunction

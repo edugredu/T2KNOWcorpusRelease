@@ -1,0 +1,62 @@
+T0	Finding 438 447	irregular
+T1	DiseaseOrSyndrome 494 512	neuronal disorders
+T2	Finding 584 597	iron overload
+T3	CellFunction 696 726	mitochondrial iron homeostasis
+T4	ResearchActivity 801 820	therapeutic targets
+T5	ResearchActivity 791 820	potential therapeutic targets
+T6	SignOrSymptom 397 403	ataxia
+T7	DiseaseOrSyndrome 397 403	ataxia
+T8	CellComponent 26 39	mitochondrial
+T9	CellComponent 696 709	mitochondrial
+T10	CellFunction 26 48	mitochondrial function
+T11	DiseaseOrSyndrome 384 403	Friedreich's ataxia
+T12	TemporalConcept 552 558	update
+T13	PharmacologicSubstance 138 142	iron
+T14	PharmacologicSubstance 223 227	iron
+T15	PharmacologicSubstance 448 452	iron
+T16	PharmacologicSubstance 584 588	iron
+T17	PharmacologicSubstance 710 714	iron
+T18	PharmacologicSubstance 843 847	iron
+T19	Chemical 138 142	iron
+T20	Chemical 223 227	iron
+T21	Chemical 448 452	iron
+T22	Chemical 584 588	iron
+T23	Chemical 710 714	iron
+T24	Chemical 843 847	iron
+T25	BiologicallyActiveSubstance 138 142	iron
+T26	BiologicallyActiveSubstance 223 227	iron
+T27	BiologicallyActiveSubstance 448 452	iron
+T28	BiologicallyActiveSubstance 584 588	iron
+T29	BiologicallyActiveSubstance 710 714	iron
+T30	BiologicallyActiveSubstance 843 847	iron
+T31	PharmacologicSubstance 0 4	Iron
+T32	Chemical 0 4	Iron
+T33	BiologicallyActiveSubstance 0 4	Iron
+T34	BiologicFunction 53 64	homeostasis
+T35	BiologicFunction 715 726	homeostasis
+T36	BodyPartOrganOrOrganComponent 248 253	brain
+T37	BiologicFunction 479 490	development
+T38	BiologicFunction 605 616	development
+T39	CellFunction 479 490	development
+T40	CellFunction 605 616	development
+T41	CellOrMolecularDysfunction 152 168	oxidative stress
+T42	Finding 172 194	large body of evidence
+T43	HealthCareActivity 829 839	treatments
+T44	ResearchActivity 829 839	treatments
+T45	PathologicFunction 621 632	progression
+T46	TemporalConcept 621 632	progression
+T47	DiseaseOrSyndrome 281 307	neurodegenerative diseases
+T48	DiseaseOrSyndrome 636 662	neurodegenerative diseases
+T49	DiseaseOrSyndrome 864 890	neurodegenerative diseases
+T50	DiseaseOrSyndrome 316 336	Huntington's disease
+T51	DiseaseOrSyndrome 359 378	Parkinson's disease
+T52	TemporalConcept 525 532	current
+T53	DiseaseOrSyndrome 338 357	Alzheimer's disease
+T54	ResearchActivity 533 539	review
+T55	ResearchActivity 774 780	review
+T56	HealthCareActivity 533 539	review
+T57	HealthCareActivity 774 780	review
+T58	BodyPartOrganOrOrganComponent 108 123	neuronal system
+T59	Finding 214 240	abnormal iron accumulation
+T60	DiseaseOrSyndrome 736 754	disease conditions
+T61	Finding 843 856	iron overload

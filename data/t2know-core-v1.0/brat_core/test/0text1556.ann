@@ -1,0 +1,134 @@
+T0	DiseaseOrSyndrome 277 302	Mild Cognitive Impairment
+T1	ResearchActivity 557 567	genotyping
+T2	AminoAcidPeptideOrProtein 1035 1039	NfLs
+T3	BiologicallyActiveSubstance 1035 1039	NfLs
+T4	DiseaseOrSyndrome 1493 1503	conditions
+T5	SignOrSymptom 1536 1552	prodromal stages
+T6	ResearchActivity 645 651	burden
+T7	DiseaseOrSyndrome 81 102	neurological diseases
+T8	Finding 909 932	significantly increased
+T9	PatientOrDisabledGroup 781 789	Patients
+T10	Finding 979 990	differences
+T11	BodyPartOrganOrOrganComponent 1367 1373	Plasma
+T12	CellFunction 719 733	phosphorylated
+T13	AminoAcidPeptideOrProtein 734 737	tau
+T14	AminoAcidPeptideOrProtein 741 744	tau
+T15	AminoAcidPeptideOrProtein 750 759	total-tau
+T16	AminoAcidPeptideOrProtein 761 766	t-tau
+T17	AminoAcidPeptideOrProtein 1188 1191	tau
+T18	AminoAcidPeptideOrProtein 1590 1593	tau
+T19	CellOrMolecularDysfunction 178 195	neurodegeneration
+T20	CellOrMolecularDysfunction 1420 1437	neurodegeneration
+T21	ClinicalAttribute 376 386	biomarkers
+T22	ClinicalAttribute 1213 1223	biomarkers
+T23	BodyPartOrganOrOrganComponent 217 223	plasma
+T24	BodyPartOrganOrOrganComponent 573 579	plasma
+T25	PatientOrDisabledGroup 317 325	patients
+T26	PatientOrDisabledGroup 456 464	patients
+T27	PatientOrDisabledGroup 605 613	patients
+T28	PatientOrDisabledGroup 691 699	patients
+T29	PatientOrDisabledGroup 963 971	patients
+T30	PatientOrDisabledGroup 1231 1239	patients
+T31	BodyPartOrganOrOrganComponent 372 375	CSF
+T32	BodyPartOrganOrOrganComponent 663 666	CSF
+T33	BodyPartOrganOrOrganComponent 715 718	CSF
+T34	BodyPartOrganOrOrganComponent 1209 1212	CSF
+T35	BodyPartOrganOrOrganComponent 1584 1587	CSF
+T36	BiologicallyActiveSubstance 40 43	NfL
+T37	BiologicallyActiveSubstance 224 227	NfL
+T38	BiologicallyActiveSubstance 364 367	NfL
+T39	BiologicallyActiveSubstance 580 583	NfL
+T40	BiologicallyActiveSubstance 893 896	NfL
+T41	BiologicallyActiveSubstance 1111 1114	NfL
+T42	BiologicallyActiveSubstance 1159 1162	NfL
+T43	BiologicallyActiveSubstance 1292 1295	NfL
+T44	BiologicallyActiveSubstance 1374 1377	NfL
+T45	BiologicallyActiveSubstance 1619 1622	NfL
+T46	AminoAcidPeptideOrProtein 40 43	NfL
+T47	AminoAcidPeptideOrProtein 224 227	NfL
+T48	AminoAcidPeptideOrProtein 364 367	NfL
+T49	AminoAcidPeptideOrProtein 580 583	NfL
+T50	AminoAcidPeptideOrProtein 893 896	NfL
+T51	AminoAcidPeptideOrProtein 1111 1114	NfL
+T52	AminoAcidPeptideOrProtein 1159 1162	NfL
+T53	AminoAcidPeptideOrProtein 1292 1295	NfL
+T54	AminoAcidPeptideOrProtein 1374 1377	NfL
+T55	AminoAcidPeptideOrProtein 1619 1622	NfL
+T56	ResearchActivity 885 892	Results
+T57	AminoAcidPeptideOrProtein 637 644	amyloid
+T58	AminoAcidPeptideOrProtein 674 681	amyloid
+T59	AminoAcidPeptideOrProtein 853 860	amyloid
+T60	BiologicallyActiveSubstance 637 644	amyloid
+T61	BiologicallyActiveSubstance 674 681	amyloid
+T62	BiologicallyActiveSubstance 853 860	amyloid
+T63	BiologicallyActiveSubstance 734 737	tau
+T64	BiologicallyActiveSubstance 741 744	tau
+T65	BiologicallyActiveSubstance 750 759	total-tau
+T66	BiologicallyActiveSubstance 761 766	t-tau
+T67	BiologicallyActiveSubstance 1188 1191	tau
+T68	BiologicallyActiveSubstance 1590 1593	tau
+T69	ResearchActivity 768 779	measurement
+T70	HealthCareActivity 768 779	measurement
+T71	DiseaseOrSyndrome 113 115	AD
+T72	DiseaseOrSyndrome 314 316	AD
+T73	DiseaseOrSyndrome 489 491	AD
+T74	DiseaseOrSyndrome 936 938	AD
+T75	DiseaseOrSyndrome 1155 1157	AD
+T76	DiseaseOrSyndrome 1271 1273	AD
+T77	DiseaseOrSyndrome 1479 1481	AD
+T78	DiseaseOrSyndrome 1692 1694	AD
+T79	ClinicalAttribute 152 174	peripherical biomarker
+T80	ClinicalAttribute 652 661	biomarker
+T81	ClinicalAttribute 861 870	biomarker
+T82	ClinicalAttribute 1406 1415	biomarker
+T83	ClinicalAttribute 1652 1661	biomarker
+T84	Finding 1003 1009	status
+T85	TemporalConcept 1546 1552	stages
+T86	HealthCareActivity 682 685	PET
+T87	DiseaseOrSyndrome 1454 1471	cognitive decline
+T88	DiseaseOrSyndrome 304 307	MCI
+T89	DiseaseOrSyndrome 477 480	MCI
+T90	DiseaseOrSyndrome 943 946	MCI
+T91	DiseaseOrSyndrome 1045 1048	MCI
+T92	DiseaseOrSyndrome 1073 1076	MCI
+T93	DiseaseOrSyndrome 1092 1095	MCI
+T94	DiseaseOrSyndrome 1127 1130	MCI
+T95	DiseaseOrSyndrome 1227 1230	MCI
+T96	DiseaseOrSyndrome 1512 1532	cognitive impairment
+T97	AminoAcidPeptideOrProtein 552 556	APOE
+T98	BiologicallyActiveSubstance 552 556	APOE
+T99	HealthCareActivity 508 550	clinical and neuropsychological evaluation
+T100	ResearchActivity 584 592	analysis
+T101	BodyPartOrganOrOrganComponent 1641 1651	peripheral
+T102	ResearchActivity 1244 1256	correlations
+T103	ResearchActivity 1566 1578	correlations
+T104	ResearchActivity 1605 1610	tests
+T105	HealthCareActivity 1605 1610	tests
+T106	AminoAcidPeptideOrProtein 739 744	p-tau
+T107	AminoAcidPeptideOrProtein 1186 1191	p-tau
+T108	AminoAcidPeptideOrProtein 1588 1593	p-tau
+T109	BiologicallyActiveSubstance 739 744	p-tau
+T110	BiologicallyActiveSubstance 1186 1191	p-tau
+T111	BiologicallyActiveSubstance 1588 1593	p-tau
+T112	BiologicallyActiveSubstance 13 38	Neurofilament light chain
+T113	AminoAcidPeptideOrProtein 13 38	Neurofilament light chain
+T114	Finding 342 355	relationships
+T115	BiologicFunction 1335 1341	memory
+T116	BiologicFunction 1598 1604	memory
+T117	HealthCareActivity 391 416	neuropsychological scores
+T118	ClinicalAttribute 217 234	plasma NfL levels
+T119	DiseaseOrSyndrome 241 269	Subjective Cognitive Decline
+T120	DiseaseOrSyndrome 271 274	SCD
+T121	ResearchActivity 418 439	Materials and methods
+T122	DiseaseOrSyndrome 469 472	SCD
+T123	ClinicalAttribute 893 903	NfL levels
+T124	DiseaseOrSyndrome 959 962	SCD
+T125	DiseaseOrSyndrome 1017 1020	SCD
+T126	ClinicalAttribute 1111 1121	NfL levels
+T127	ClinicalAttribute 1159 1169	NfL levels
+T128	DiseaseOrSyndrome 1195 1198	SCD
+T129	DiseaseOrSyndrome 1287 1290	SCD
+T130	ClinicalAttribute 1292 1302	NfL levels
+T131	HealthCareActivity 1335 1353	memory test scores
+T132	ClinicalAttribute 1367 1384	Plasma NfL levels
+T133	DiseaseOrSyndrome 1614 1617	SCD

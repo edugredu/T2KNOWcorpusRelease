@@ -1,0 +1,123 @@
+T0	DiseaseOrSyndrome 0 26	Posterior cortical atrophy
+T1	DiseaseOrSyndrome 68 71	LPA
+T2	DiseaseOrSyndrome 77 95	clinical syndromes
+T3	DiseaseOrSyndrome 436 439	LPA
+T4	DiseaseOrSyndrome 965 968	LPA
+T5	DiseaseOrSyndrome 1114 1117	LPA
+T6	PopulationGroup 1422 1430	minority
+T7	DiseaseOrSyndrome 1458 1461	LPA
+T8	HealthCareActivity 205 216	PET imaging
+T9	CellFunction 1633 1642	molecular
+T10	AminoAcidPeptideOrProtein 246 258	beta-amyloid
+T11	Chemical 536 555	[F-18] flortaucipir
+T12	Finding 1183 1191	abnormal
+T13	DiseaseOrSyndrome 28 31	PCA
+T14	DiseaseOrSyndrome 425 428	PCA
+T15	DiseaseOrSyndrome 1037 1040	PCA
+T16	DiseaseOrSyndrome 1450 1453	PCA
+T17	ResearchActivity 28 31	PCA
+T18	ResearchActivity 425 428	PCA
+T19	ResearchActivity 1037 1040	PCA
+T20	ResearchActivity 1450 1453	PCA
+T21	HealthCareActivity 209 216	imaging
+T22	PatientOrDisabledGroup 1342 1349	patient
+T23	BiomedicalOccupationOrDiscipline 168 179	pathologies
+T24	BodyPartOrganOrOrganComponent 0 18	Posterior cortical
+T25	CellComponent 1315 1326	Lewy bodies
+T26	DiseaseOrSyndrome 1301 1326	dementia with Lewy bodies
+T27	HealthCareActivity 478 504	neuropsychological testing
+T28	DiseaseOrSyndrome 1264 1286	cortico-basal syndrome
+T29	Finding 732 735	low
+T30	Finding 1011 1014	low
+T31	AminoAcidPeptideOrProtein 272 275	tau
+T32	AminoAcidPeptideOrProtein 610 613	tau
+T33	AminoAcidPeptideOrProtein 945 948	tau
+T34	AminoAcidPeptideOrProtein 1015 1018	tau
+T35	AminoAcidPeptideOrProtein 1094 1097	tau
+T36	AminoAcidPeptideOrProtein 1192 1195	tau
+T37	AminoAcidPeptideOrProtein 1373 1376	tau
+T38	AminoAcidPeptideOrProtein 1527 1530	tau
+T39	DiseaseOrSyndrome 126 145	Alzheimer's disease
+T40	BiologicallyActiveSubstance 272 275	tau
+T41	BiologicallyActiveSubstance 610 613	tau
+T42	BiologicallyActiveSubstance 945 948	tau
+T43	BiologicallyActiveSubstance 1015 1018	tau
+T44	BiologicallyActiveSubstance 1094 1097	tau
+T45	BiologicallyActiveSubstance 1192 1195	tau
+T46	BiologicallyActiveSubstance 1373 1376	tau
+T47	BiologicallyActiveSubstance 1527 1530	tau
+T48	DiseaseOrSyndrome 147 149	AD
+T49	DiseaseOrSyndrome 165 167	AD
+T50	DiseaseOrSyndrome 279 281	AD
+T51	DiseaseOrSyndrome 398 400	AD
+T52	DiseaseOrSyndrome 1218 1220	AD
+T53	DiseaseOrSyndrome 1726 1728	AD
+T54	ClinicalAttribute 380 389	biomarker
+T55	ClinicalAttribute 758 767	biomarker
+T56	ClinicalAttribute 811 820	biomarker
+T57	PatientOrDisabledGroup 341 349	patients
+T58	PatientOrDisabledGroup 412 420	patients
+T59	PatientOrDisabledGroup 680 688	patients
+T60	PatientOrDisabledGroup 707 715	patients
+T61	PatientOrDisabledGroup 1138 1146	patients
+T62	PatientOrDisabledGroup 1164 1172	patients
+T63	PatientOrDisabledGroup 1462 1470	patients
+T64	PatientOrDisabledGroup 1689 1697	patients
+T65	ResearchActivity 1650 1675	clinical treatment trials
+T66	HealthCareActivity 497 504	testing
+T67	DiseaseOrSyndrome 37 66	logopenic progressive aphasia
+T68	OrganismAttribute 1712 1722	phenotypes
+T69	AminoAcidPeptideOrProtein 251 258	amyloid
+T70	BiologicallyActiveSubstance 251 258	amyloid
+T71	DiseaseOrSyndrome 1301 1309	dementia
+T72	Finding 1703 1711	atypical
+T73	ResearchActivity 1390 1395	study
+T74	PathologicFunction 1221 1230	pathology
+T75	BiomedicalOccupationOrDiscipline 1221 1230	pathology
+T76	AminoAcidPeptideOrProtein 1580 1588	proteins
+T77	Finding 367 375	evidence
+T78	HealthCareActivity 205 208	PET
+T79	HealthCareActivity 614 617	PET
+T80	HealthCareActivity 917 920	PET
+T81	HealthCareActivity 949 952	PET
+T82	HealthCareActivity 1003 1006	PET
+T83	HealthCareActivity 1019 1022	PET
+T84	HealthCareActivity 1068 1071	PET
+T85	HealthCareActivity 1098 1101	PET
+T86	HealthCareActivity 1531 1534	PET
+T87	HealthCareActivity 1643 1646	PET
+T88	PopulationGroup 1150 1155	group
+T89	AminoAcidPeptideOrProtein 260 266	A beta
+T90	AminoAcidPeptideOrProtein 599 605	A beta
+T91	AminoAcidPeptideOrProtein 910 916	A beta
+T92	AminoAcidPeptideOrProtein 996 1002	A beta
+T93	AminoAcidPeptideOrProtein 1061 1067	A beta
+T94	AminoAcidPeptideOrProtein 1516 1522	A beta
+T95	Finding 1083 1087	mild
+T96	Finding 1362 1366	mild
+T97	HealthCareActivity 478 496	neuropsychological
+T98	PopulationGroup 322 328	cohort
+T99	PopulationGroup 776 782	cohort
+T100	ResearchActivity 862 870	patterns
+T101	ResearchActivity 1504 1512	patterns
+T102	HealthCareActivity 1650 1668	clinical treatment
+T103	BiologicFunction 953 959	uptake
+T104	BiologicFunction 1023 1029	uptake
+T105	BiologicFunction 1072 1078	uptake
+T106	BiologicFunction 1102 1108	uptake
+T107	BiologicFunction 1196 1202	uptake
+T108	BiologicFunction 1377 1383	uptake
+T109	BiologicFunction 1535 1541	uptake
+T110	CellFunction 953 959	uptake
+T111	CellFunction 1023 1029	uptake
+T112	CellFunction 1072 1078	uptake
+T113	CellFunction 1102 1108	uptake
+T114	CellFunction 1196 1202	uptake
+T115	CellFunction 1377 1383	uptake
+T116	CellFunction 1535 1541	uptake
+T117	Chemical 506 534	[C-11] Pittsburgh compound B
+T118	Chemical 560 585	[F-18] fluorodeoxyglucose
+T119	HealthCareActivity 586 590	PETs
+T120	ResearchActivity 618 650	standardized uptake value ratios
+T121	ResearchActivity 652 657	SUVRs
+T122	ResearchActivity 736 741	SUVRs

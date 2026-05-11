@@ -1,0 +1,83 @@
+T0	TemporalConcept 360 369	continuum
+T1	HealthCareActivity 684 693	continuum
+T2	Finding 801 805;819 826	fast decline
+T3	TemporalConcept 1252 1261	continuum
+T4	TemporalConcept 1569 1578	continuum
+T5	MachineActivity 761 774	deep learning
+T6	Finding 722 738	moderate decline
+T7	Finding 810 826	moderate decline
+T8	BiologicFunction 766 774	learning
+T9	PathologicFunction 222 244	pathological processes
+T10	TemporalConcept 1020 1027	overlap
+T11	Finding 934 952	prognostic utility
+T12	Finding 1194 1212	prognostic utility
+T13	TemporalConcept 576 581	first
+T14	Finding 125 138	heterogeneity
+T15	AminoAcidPeptideOrProtein 293 296	tau
+T16	DiseaseOrSyndrome 36 55	Alzheimer's disease
+T17	BiologicallyActiveSubstance 293 296	tau
+T18	DiseaseOrSyndrome 57 59	AD
+T19	DiseaseOrSyndrome 357 359	AD
+T20	DiseaseOrSyndrome 681 683	AD
+T21	DiseaseOrSyndrome 1106 1108	AD
+T22	DiseaseOrSyndrome 1249 1251	AD
+T23	DiseaseOrSyndrome 1566 1568	AD
+T24	ClinicalAttribute 892 907	AT(N) biomarker
+T25	ClinicalAttribute 1333 1342	biomarker
+T26	ClinicalAttribute 1490 1505	AT(N) biomarker
+T27	PopulationGroup 563 570	cohorts
+T28	ResearchActivity 444 448	data
+T29	ResearchActivity 1437 1441	data
+T30	PopulationGroup 662 673	individuals
+T31	HealthCareActivity 555 562	testing
+T32	OrganismAttribute 1065 1075	phenotypes
+T33	AminoAcidPeptideOrProtein 273 280	amyloid
+T34	BiologicallyActiveSubstance 273 280	amyloid
+T35	ClinicalAttribute 258 268	biomarkers
+T36	ClinicalAttribute 842 858	AT(N) biomarkers
+T37	ClinicalAttribute 973 983	biomarkers
+T38	ClinicalAttribute 1164 1180	AT(N) biomarkers
+T39	ClinicalAttribute 1380 1390	biomarkers
+T40	ClinicalAttribute 1635 1651	AT(N) biomarkers
+T41	ResearchActivity 1422 1427	study
+T42	AminoAcidPeptideOrProtein 273 285	amyloid-beta
+T43	PathologicFunction 15 26	progression
+T44	PathologicFunction 142 153	progression
+T45	PathologicFunction 335 346	progression
+T46	PathologicFunction 1053 1064	progression
+T47	PathologicFunction 1227 1238	progression
+T48	PathologicFunction 1523 1534	progression
+T49	PathologicFunction 1672 1683	progression
+T50	TemporalConcept 15 26	progression
+T51	TemporalConcept 142 153	progression
+T52	TemporalConcept 335 346	progression
+T53	TemporalConcept 1053 1064	progression
+T54	TemporalConcept 1227 1238	progression
+T55	TemporalConcept 1523 1534	progression
+T56	TemporalConcept 1672 1683	progression
+T57	Finding 1305 1327	predictive performance
+T58	PopulationGroup 962 972	individual
+T59	PopulationGroup 1369 1379	individual
+T60	OrganismAttribute 962 972	individual
+T61	OrganismAttribute 1369 1379	individual
+T62	ResearchActivity 860 867	Results
+T63	DiseaseOrSyndrome 1538 1555	cognitive decline
+T64	Finding 1704 1712	evidence
+T65	Finding 1614 1626	relationship
+T66	ResearchActivity 434 439	model
+T67	ResearchActivity 775 780	model
+T68	ResearchActivity 881 886	model
+T69	ResearchActivity 1040 1045	model
+T70	ResearchActivity 1123 1128	model
+T71	ResearchActivity 1279 1290	AT(N) model
+T72	ResearchActivity 1446 1451	model
+T73	ResearchActivity 514 521	dataset
+T74	CellOrMolecularDysfunction 308 325	neurodegeneration
+T75	PathologicFunction 1092 1099	atrophy
+T76	DiseaseOrSyndrome 1092 1099	atrophy
+T77	TemporalConcept 27 32	rates
+T78	TemporalConcept 154 159	rates
+T79	ResearchActivity 590 613	unsupervised clustering
+T80	HealthCareActivity 617 651	longitudinal cognitive assessments
+T81	Finding 713 717;731 738	fast decline
+T82	BiologicFunction 868 876	Training

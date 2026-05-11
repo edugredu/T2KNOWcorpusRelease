@@ -1,0 +1,91 @@
+T0	HealthCareActivity 548 558	brain scan
+T1	ResearchActivity 666 673	blinded
+T2	PopulationGroup 717 727	consultant
+T3	Finding 1699 1718	spinal cord lesions
+T4	Finding 1748 1767	spinal cord lesions
+T5	BodyPartOrganOrOrganComponent 1699 1710	spinal cord
+T6	BodyPartOrganOrOrganComponent 1748 1759	spinal cord
+T7	Finding 378 394;403 415	typical clinical presentation
+T8	Finding 451 468;478 490	atypical clinical presentation
+T9	Finding 687 708	clinical presentation
+T10	AminoAcidPeptideOrProtein 1594 1611	oligoclonal bands
+T11	BiologicallyActiveSubstance 1594 1611	oligoclonal bands
+T12	AminoAcidPeptideOrProtein 1613 1617	OCBs
+T13	AminoAcidPeptideOrProtein 1649 1653	OCBs
+T14	BiologicallyActiveSubstance 1613 1617	OCBs
+T15	BiologicallyActiveSubstance 1649 1653	OCBs
+T16	Finding 100 109	MS mimics
+T17	ClinicalAttribute 115 132	central vein sign
+T18	ClinicalAttribute 134 137	CVS
+T19	ClinicalAttribute 230 233	CVS
+T20	ClinicalAttribute 818 821	CVS
+T21	ClinicalAttribute 1380 1383	CVS
+T22	ClinicalAttribute 1797 1800	CVS
+T23	BodyPartOrganOrOrganComponent 115 127	central vein
+T24	BodyPartOrganOrOrganComponent 623 635	central vein
+T25	DiseaseOrSyndrome 74 76	MS
+T26	DiseaseOrSyndrome 100 102	MS
+T27	DiseaseOrSyndrome 165 167	MS
+T28	DiseaseOrSyndrome 279 281	MS
+T29	DiseaseOrSyndrome 400 402	MS
+T30	DiseaseOrSyndrome 441 443	MS
+T31	DiseaseOrSyndrome 475 477	MS
+T32	DiseaseOrSyndrome 514 516	MS
+T33	DiseaseOrSyndrome 714 716	MS
+T34	DiseaseOrSyndrome 955 957	MS
+T35	DiseaseOrSyndrome 1486 1488	MS
+T36	DiseaseOrSyndrome 1865 1867	MS
+T37	DiseaseOrSyndrome 54 72	multiple sclerosis
+T38	TemporalConcept 78 85	overlap
+T39	ResearchActivity 1873 1885	cutoff value
+T40	InjuryOrPoisoning 1004 1011	lesions
+T41	InjuryOrPoisoning 1127 1134	lesions
+T42	InjuryOrPoisoning 1243 1250	lesions
+T43	InjuryOrPoisoning 1346 1353	lesions
+T44	InjuryOrPoisoning 1558 1565	lesions
+T45	InjuryOrPoisoning 1711 1718	lesions
+T46	InjuryOrPoisoning 1760 1767	lesions
+T47	HealthCareActivity 9 35	Magnetic resonance imaging
+T48	ResearchActivity 1435 1454	confidence interval
+T49	ClinicalAttribute 239 259	diagnostic biomarker
+T50	PatientOrDisabledGroup 677 685	patients
+T51	PatientOrDisabledGroup 859 867	patients
+T52	PatientOrDisabledGroup 906 914	patients
+T53	PatientOrDisabledGroup 1032 1040	patients
+T54	PatientOrDisabledGroup 1069 1077	patients
+T55	PatientOrDisabledGroup 1167 1175	patients
+T56	PatientOrDisabledGroup 1180 1188	patients
+T57	PatientOrDisabledGroup 1283 1291	patients
+T58	PatientOrDisabledGroup 1628 1636	patients
+T59	PatientOrDisabledGroup 1663 1671	patients
+T60	PatientOrDisabledGroup 1731 1739	patients
+T61	HealthCareActivity 920 929	diagnosed
+T62	HealthCareActivity 1083 1092	diagnosed
+T63	HealthCareActivity 1202 1211	diagnosed
+T64	HealthCareActivity 1305 1314	diagnosed
+T65	HealthCareActivity 743 752	diagnosis
+T66	HealthCareActivity 1473 1482	diagnosis
+T67	HealthCareActivity 1852 1861	diagnosis
+T68	Finding 424 432	atypical
+T69	ResearchActivity 192 197	study
+T70	Finding 1397 1408	sensitivity
+T71	Finding 1811 1822	sensitivity
+T72	Finding 1418 1429	specificity
+T73	Finding 1832 1843	specificity
+T74	Finding 607 615	presence
+T75	ResearchActivity 840 847	Results
+T76	PopulationGroup 368 374	groups
+T77	HealthCareActivity 37 40	MRI
+T78	HealthCareActivity 433 436	MRI
+T79	HealthCareActivity 506 509	MRI
+T80	HealthCareActivity 539 547	1.5T MRI
+T81	ResearchActivity 822 830	analysis
+T82	PatientOrDisabledGroup 299 307	Patients
+T83	PatientOrDisabledGroup 321 329	Patients
+T84	PatientOrDisabledGroup 518 526	Patients
+T85	ResearchActivity 566 601	T2*-weighted gradient-echo sequence
+T86	HealthCareActivity 775 810	T2*-weighted gradient-echo sequence
+T87	ResearchActivity 1494 1507	cut off value
+T88	ResearchActivity 1594 1611	oligoclonal bands
+T89	ResearchActivity 1649 1653	OCBs
+T90	ResearchActivity 1613 1617	OCBs

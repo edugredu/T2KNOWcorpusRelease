@@ -1,0 +1,93 @@
+T0	BodyPartOrganOrOrganComponent 0 6	Myelin
+T1	CellComponent 54 59	axons
+T2	CellComponent 137 150	myelin sheath
+T3	Finding 180 217	packaging of multilamellar extensions
+T4	Cell 221 236	oligodendrocyte
+T5	CellFunction 269 293	myelinating capabilities
+T6	BiologicFunction 353 363	maturation
+T7	Cell 381 399	OL precursor cells
+T8	Cell 401 405	OPCs
+T9	BiomedicalOccupationOrDiscipline 434 441	biology
+T10	Cell 445 449	OPCs
+T11	ResearchActivity 559 570	co-cultured
+T12	Cell 585 589	OPCs
+T13	BiologicFunction 607 617	maturation
+T14	CellComponent 630 643	myelin tracts
+T15	CellComponent 651 656	axons
+T16	CellFunction 682 693	myelination
+T17	CellFunction 950 963	remyelination
+T18	PharmacologicSubstance 1015 1037	pharmacological agents
+T19	ResearchActivity 1104 1118	drug discovery
+T20	CellFunction 1149 1167	cell reprogramming
+T21	BiomedicalOccupationOrDiscipline 1169 1179	biophysics
+T22	BiomedicalOccupationOrDiscipline 1184 1198	bioengineering
+T23	BiologicFunction 1278 1294	brain physiology
+T24	CellFunction 1299 1310	myelination
+T25	Eukaryote 1312 1315	Rat
+T26	Cell 1326 1330	OPCs
+T27	Cell 1356 1360	OPCs
+T28	Cell 1549 1553	OPCs
+T29	ResearchActivity 1680 1688	modeling
+T30	BodyPartOrganOrOrganComponent 1849 1856	tissues
+T31	PathologicFunction 1877 1900	pathological conditions
+T32	BodyPartOrganOrOrganComponent 1977 1986	organoids
+T33	BiologicFunction 2033 2060	embryonic brain development
+T34	CellFunction 2070 2094	neuronal differentiation
+T35	BiologicFunction 2096 2106	maturation
+T36	BodyPartOrganOrOrganComponent 2236 2245	organoids
+T37	ResearchActivity 2372 2395	experimental approaches
+T38	ResearchActivity 2321 2327	review
+T39	HealthCareActivity 2321 2327	review
+T40	BiologicFunction 460 468	behavior
+T41	IndividualBehavior 460 468	behavior
+T42	ResearchActivity 460 468	behavior
+T43	EmbryonicStructure 2033 2048	embryonic brain
+T44	ResearchActivity 1272 1277	study
+T45	ResearchActivity 2012 2017	study
+T46	TemporalConcept 1130 1136	Recent
+T47	TemporalConcept 1916 1922	recent
+T48	ResearchActivity 2280 2287	studies
+T49	HealthCareActivity 1538 1547	treatment
+T50	ResearchActivity 1538 1547	treatment
+T51	BodyPartOrganOrOrganComponent 113 135	central nervous system
+T52	Cell 1558 1570	neural cells
+T53	Cell 1373 1403	induced pluripotent stem cells
+T54	Eukaryote 844 849	human
+T55	Eukaryote 1350 1355	human
+T56	Cell 1405 1410	iPSCs
+T57	ExperimentalModelOfDisease 533 552	experimental models
+T58	ManufacturedObject 780 794	in vivo models
+T59	CellFunction 333 348	differentiation
+T60	TemporalConcept 2304 2311	infancy
+T61	PopulationGroup 2304 2311	infancy
+T62	Cell 576 583	neurons
+T63	DiseaseOrSyndrome 2493 2511	multiple sclerosis
+T64	PathologicFunction 850 865	pathophysiology
+T65	PharmacologicSubstance 1104 1108	drug
+T66	CellFunction 926 946	molecular mechanisms
+T67	PatientOrDisabledGroup 1436 1456	diseased individuals
+T68	TemporalConcept 415 428	last 20 years
+T69	ResearchActivity 744 759	in vitro system
+T70	ResearchActivity 2187 2204	in vitro cultures
+T71	BiomedicalOccupationOrDiscipline 850 865	pathophysiology
+T72	DiseaseOrSyndrome 2470 2484	human diseases
+T73	Finding 1137 1145	advances
+T74	PathologicFunction 904 917	demyelination
+T75	BiologicFunction 78 104	saltatory nerve conduction
+T76	Cell 238 240	OL
+T77	CellComponent 242 251	membranes
+T78	Cell 295 298	OLs
+T79	PathologicFunction 475 498	pathological conditions
+T80	Eukaryote 1320 1325	mouse
+T81	ExperimentalModelOfDisease 1504 1533	personalized disease modeling
+T82	ManufacturedObject 1613 1640	3D-printed culture chambers
+T83	ManufacturedObject 1645 1666	biomaterial scaffolds
+T84	CellFunction 1689 1714	cell-to-cell interactions
+T85	ResearchActivity 1761 1779	scaffold stiffness
+T86	BiologicFunction 1812 1837	mechanosensory properties
+T87	ManufacturedObject 1938 1968	iPSC-derived 3D brain cultures
+T88	CellFunction 2268 2279	myelination
+T89	PharmacologicSubstance 2445 2465	remyelinating agents
+T90	BodyPartOrganOrOrganComponent 1951 1968	3D brain cultures
+T91	ResearchActivity 1092 1103;1119 1128	large scale screening
+T92	PopulationGroup 1425 1432;1445 1456	healthy individuals

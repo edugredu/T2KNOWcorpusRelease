@@ -1,0 +1,9 @@
+T0	BiomedicalOccupationOrDiscipline 173 180	biology
+T1	ResearchActivity 124 129	model
+T2	ResearchActivity 69 75	models
+T3	BiologicFunction 173 180	biology
+T4	AminoAcidPeptideOrProtein 201 212	α-synuclein
+T5	BiologicallyActiveSubstance 201 212	α-synuclein
+T6	PathologicFunction 185 197	pathobiology
+T7	Organism 130 138	organism
+T8	Organism 0 5	Yeast

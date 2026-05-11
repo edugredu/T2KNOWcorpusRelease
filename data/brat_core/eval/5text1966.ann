@@ -1,0 +1,6 @@
+T0	HealthCareActivity 173 182	diagnosis
+T1	DiseaseOrSyndrome 125 152	neurodegenerative disorders
+T2	BodyPartOrganOrOrganComponent 56 61	brain
+T3	Finding 4 12	presence
+T4	AnatomicalAbnormality 33 48	amyloid plaques
+T5	HealthCareActivity 71 83	pathologists

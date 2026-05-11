@@ -1,0 +1,12 @@
+Property	Count	Percentage	Available in release field/report
+DOI available	819	99.76	provenance/reports/reconstruction_manifest.tsv
+PMID available	776	94.52	provenance/reports/reconstruction_manifest.tsv
+source URL available	819	99.76	provenance/reports/reconstruction_manifest.tsv
+title available	821	100.00	provenance/reports/reconstruction_manifest.tsv
+year available	821	100.00	provenance/reports/reconstruction_manifest.tsv
+journal available	801	97.56	provenance/reports/reconstruction_manifest.tsv
+text included	432	52.62	provenance/reports/reconstruction_manifest.tsv
+text excluded	389	47.38	provenance/reports/reconstruction_manifest.tsv
+exact/high-confidence source match	821	100.00	provenance/reports/reconstruction_manifest.tsv
+reconstruction metadata available	821	100.00	provenance/reports/reconstruction_manifest.tsv
+no recoverable source identifier	0	0.00	provenance/reports/reconstruction_manifest.tsv

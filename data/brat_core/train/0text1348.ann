@@ -1,0 +1,73 @@
+T0	PathologicFunction 89 109	axonal demyelination
+T1	ClinicalAttribute 166 178	polarization
+T2	CellFunction 166 178	polarization
+T3	Cell 354 364	glial cell
+T4	Cell 552 561	stem cell
+T5	Chemical 601 610	medrysone
+T6	ClinicalAttribute 655 667	polarization
+T7	CellFunction 645 667	astrocyte polarization
+T8	Chemical 678 687	Medrysone
+T9	GeneOrGenome 848 853	Timp1
+T10	BiologicallyActiveSubstance 848 853	Timp1
+T11	Cell 909 919	astrocytic
+T12	Chemical 1165 1179	corticosteroid
+T13	PharmacologicSubstance 1165 1179	corticosteroid
+T14	CellComponent 89 95	axonal
+T15	Cell 144 154	astrocytes
+T16	Cell 537 547	astrocytes
+T17	Cell 813 823	astrocytes
+T18	Cell 881 891	astrocytes
+T19	OrganismAttribute 920 929	phenotype
+T20	CellFunction 504 517	remyelination
+T21	BiologicFunction 290 302	regeneration
+T22	HealthCareActivity 290 302	regeneration
+T23	Cell 708 731	mature oligodendrocytes
+T24	Cell 645 654	astrocyte
+T25	Cell 1019 1043	astrocyte subpopulations
+T26	CellFunction 937 948	myelination
+T27	CellFunction 221 234	myelin repair
+T28	CellFunction 626 639	myelin repair
+T29	Cell 354 359	glial
+T30	PathologicFunction 260 271	progression
+T31	TemporalConcept 260 271	progression
+T32	BiologicFunction 277 282	aging
+T33	CellFunction 277 282	aging
+T34	ResearchActivity 462 467	model
+T35	PathologicFunction 96 109	demyelination
+T36	PathologicFunction 448 461	demyelination
+T37	PathologicFunction 486 499	demyelination
+T38	DiseaseOrSyndrome 11 29	Multiple sclerosis
+T39	TemporalConcept 440 447	chronic
+T40	BiologicFunction 696 704	recovery
+T41	HealthCareActivity 696 704	recovery
+T42	TemporalConcept 696 704	recovery
+T43	BiologicFunction 228 234	repair
+T44	BiologicFunction 633 639	repair
+T45	HealthCareActivity 228 234	repair
+T46	HealthCareActivity 633 639	repair
+T47	BodyPartOrganOrOrganComponent 221 227	myelin
+T48	BodyPartOrganOrOrganComponent 626 632	myelin
+T49	BodyPartOrganOrOrganComponent 733 739	myelin
+T50	BodyPartOrganOrOrganComponent 1070 1076	myelin
+T51	PathologicFunction 252 271	disease progression
+T52	NaturalPhenomenonOrProcess 365 373	dynamics
+T53	PathologicFunction 50 62	inflammation
+T54	HealthCareActivity 396 419	regenerative treatments
+T55	ResearchActivity 396 419	regenerative treatments
+T56	CellOrMolecularDysfunction 64 84	oligodendrocyte loss
+T57	PharmacologicSubstance 601 610	medrysone
+T58	PharmacologicSubstance 678 687	Medrysone
+T59	CellFunction 733 750	myelin expression
+T60	CellFunction 755 769	node formation
+T61	AminoAcidPeptideOrProtein 788 795	S100a10
+T62	BiologicallyActiveSubstance 788 795	S100a10
+T63	GeneOrGenome 788 795	S100a10
+T64	AminoAcidPeptideOrProtein 784 787	C3d
+T65	GeneOrGenome 784 787	C3d
+T66	BiologicallyActiveSubstance 784 787	C3d
+T67	CellFunction 796 809	co-expression
+T68	AminoAcidPeptideOrProtein 868 871	C3d
+T69	BiologicallyActiveSubstance 868 871	C3d
+T70	GeneOrGenome 868 871	C3d
+T71	AminoAcidPeptideOrProtein 848 853	Timp1
+T72	BiologicallyActiveSubstance 1165 1179	corticosteroid

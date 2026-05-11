@@ -1,0 +1,80 @@
+T0	MachineActivity 574 587	deep learning
+T1	Finding 1116 1122	result
+T2	IndividualBehavior 1153 1165	performances
+T3	BodyPartOrganOrOrganComponent 1697 1705	amygdala
+T4	BodyPartOrganOrOrganComponent 1842 1850	amygdala
+T5	TemporalConcept 358 364	Recent
+T6	BodyPartOrganOrOrganComponent 1684 1695	hippocampus
+T7	BodyPartOrganOrOrganComponent 1826 1837	hippocampus
+T8	DiseaseOrSyndrome 796 799	MCI
+T9	DiseaseOrSyndrome 1783 1786	MCI
+T10	DiseaseOrSyndrome 1923 1926	MCI
+T11	ResearchActivity 824 876	Alzheimer's Disease Neuroimaging Initiative database
+T12	Finding 742 748	normal
+T13	DiseaseOrSyndrome 824 843	Alzheimer's Disease
+T14	Finding 392 405	effectiveness
+T15	MachineActivity 670 686	machine learning
+T16	ResearchActivity 638 643	study
+T17	BodyPartOrganOrOrganComponent 346 351	brain
+T18	BodyPartOrganOrOrganComponent 726 731	brain
+T19	ResearchActivity 365 372	studies
+T20	DiseaseOrSyndrome 316 335	Alzheimer's disease
+T21	ClinicalAttribute 245 255	biomarkers
+T22	DiseaseOrSyndrome 337 339	AD
+T23	DiseaseOrSyndrome 420 422	AD
+T24	DiseaseOrSyndrome 810 812	AD
+T25	DiseaseOrSyndrome 1549 1551	AD
+T26	DiseaseOrSyndrome 1792 1794	AD
+T27	DiseaseOrSyndrome 1808 1810	AD
+T28	ResearchActivity 146 161	multimodal data
+T29	ResearchActivity 624 628	data
+T30	ResearchActivity 41 46	model
+T31	ResearchActivity 549 562	model methods
+T32	PopulationGroup 749 757	controls
+T33	DiseaseOrSyndrome 774 794	cognitive impairment
+T34	BiologicFunction 540 548	learning
+T35	BiologicFunction 579 587	learning
+T36	BiologicFunction 678 686	learning
+T37	ResearchActivity 687 693	models
+T38	DiseaseOrSyndrome 769 794	mild cognitive impairment
+T39	MachineActivity 0 13	Random Forest
+T40	MachineActivity 15 17	RF
+T41	ManufacturedObject 352 356	MRIs
+T42	HealthCareActivity 352 356	MRIs
+T43	MachineActivity 387 389	RF
+T44	MachineActivity 526 528	RF
+T45	MachineActivity 655 657	RF
+T46	ManufacturedObject 732 736	MRIs
+T47	HealthCareActivity 732 736	MRIs
+T48	MachineActivity 1007 1009	RF
+T49	MachineActivity 1011 1033	Support vector machine
+T50	MachineActivity 1035 1038	SVM
+T51	MachineActivity 1041 1063	Multi-layer perceptron
+T52	MachineActivity 1065 1068	MLP
+T53	MachineActivity 1075 1103	Convolutional neural network
+T54	MachineActivity 1105 1108	CNN
+T55	MachineActivity 281 283	RF
+T56	MachineActivity 1124 1126	RF
+T57	MachineActivity 1254 1256	RF
+T58	MachineActivity 1652 1654	RF
+T59	MachineActivity 1537 1539	RF
+T60	MachineActivity 1128 1131	MLP
+T61	MachineActivity 1137 1140	CNN
+T62	MachineActivity 1491 1494	MLP
+T63	MachineActivity 1516 1519	CNN
+T64	Finding 1289 1297	accuracy
+T65	ResearchActivity 1314 1332	standard deviation
+T66	MachineActivity 1369 1372	MLP
+T67	MachineActivity 1377 1380	CNN
+T68	Finding 1402 1410	accuracy
+T69	ResearchActivity 1450 1468	standard deviation
+T70	BodyPartOrganOrOrganComponent 1711 1737	inferior lateral ventricle
+T71	PopulationGroup 1779 1781	NC
+T72	BodyPartOrganOrOrganComponent 1882 1908	inferior lateral ventricle
+T73	PopulationGroup 1931 1933	NC
+T74	ClinicalAttribute 1842 1857	amygdala volume
+T75	ClinicalAttribute 1826 1837;1851 1857	hippocampus volume
+T76	ClinicalAttribute 1872 1908	volume of inferior lateral ventricle
+T77	Substance 437 443	sample
+T78	BodyPartOrganOrOrganComponent 437 443	sample
+T79	OrganismAttribute 444 449	sizes

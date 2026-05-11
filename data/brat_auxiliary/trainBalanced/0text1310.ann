@@ -1,0 +1,88 @@
+T0	GeneOrGenome 14 18	AQP4
+T1	AminoAcidPeptideOrProtein 14 18	AQP4
+T2	DiseaseOrSyndrome 105 110	NMOSD
+T3	Substance 364 372	Material
+T4	Chemical 499 503	sham
+T5	DiseaseOrSyndrome 822 827	NMOSD
+T6	ResearchActivity 86 94	spectrum
+T7	HealthCareActivity 1428 1440	cell therapy
+T8	PatientOrDisabledGroup 422 430	patients
+T9	AminoAcidPeptideOrProtein 958 961	NG2
+T10	BiologicallyActiveSubstance 958 961	NG2
+T11	GeneOrGenome 958 961	NG2
+T12	BodyPartOrganOrOrganComponent 563 575	neurospheres
+T13	TemporalConcept 663 678	advanced stages
+T14	DiseaseOrSyndrome 65 103	neuromyelitis optica spectrum disorder
+T15	DiseaseOrSyndrome 65 85	neuromyelitis optica
+T16	DiseaseOrSyndrome 266 286	neuromyelitis optica
+T17	DiseaseOrSyndrome 454 474	neuromyelitis optica
+T18	DiseaseOrSyndrome 1402 1422	neuromyelitis optica
+T19	BodyPartOrganOrOrganComponent 227 238	optic nerve
+T20	AminoAcidPeptideOrProtein 51 54	IgG
+T21	AminoAcidPeptideOrProtein 335 338	IgG
+T22	AminoAcidPeptideOrProtein 441 444	IgG
+T23	BiologicallyActiveSubstance 51 54	IgG
+T24	BiologicallyActiveSubstance 335 338	IgG
+T25	BiologicallyActiveSubstance 441 444	IgG
+T26	PharmacologicSubstance 51 54	IgG
+T27	PharmacologicSubstance 335 338	IgG
+T28	PharmacologicSubstance 441 444	IgG
+T29	ResearchActivity 551 559	cultures
+T30	Cell 1051 1067	oligodendrocytes
+T31	BiologicFunction 1099 1109	maturation
+T32	DiseaseOrSyndrome 1346 1364	multiple sclerosis
+T33	BodyPartOrganOrOrganComponent 1160 1166	myelin
+T34	DiseaseOrSyndrome 131 152	demyelinating disease
+T35	BodyPartOrganOrOrganComponent 211 222	spinal cord
+T36	Cell 920 952	oligodendrocyte progenitor cells
+T37	Cell 1310 1342	oligodendrocyte progenitor cells
+T38	Cell 1446 1478	oligodendrocyte progenitor cells
+T39	CellFunction 523 538	differentiation
+T40	CellFunction 682 697	differentiation
+T41	CellFunction 716 731	differentiation
+T42	CellFunction 882 897	differentiation
+T43	CellFunction 1291 1306	differentiation
+T44	CellFunction 1277 1286	migration
+T45	Cell 831 846	precursor cells
+T46	TemporalConcept 653 658	early
+T47	PathologicFunction 118 130	inflammatory
+T48	BodyPartOrganOrOrganComponent 585 604	subventricular zone
+T49	BodyPartOrganOrOrganComponent 1007 1026	subventricular zone
+T50	OrganismAttribute 478 485	healthy
+T51	PatientOrDisabledGroup 808 816	patients
+T52	BodyPartOrganOrOrganComponent 170 192	central nervous system
+T53	ResearchActivity 759 766	Results
+T54	PopulationGroup 413 418	group
+T55	PopulationGroup 486 491	group
+T56	PopulationGroup 504 509	group
+T57	Cell 962 967	cells
+T58	Cell 992 997	cells
+T59	Cell 1187 1192	cells
+T60	BodyPartOrganOrOrganComponent 798 802	sera
+T61	Eukaryote 608 612	mice
+T62	BodyPartOrganOrOrganComponent 623 628	serum
+T63	Finding 788 794	effect
+T64	Finding 254 262	capacity
+T65	Finding 539 547	capacity
+T66	ResearchActivity 514 522	analyzed
+T67	ResearchActivity 707 715	analyzed
+T68	OrganismAttribute 1217 1220	age
+T69	PharmacologicSubstance 1258 1263	drugs
+T70	CellFunction 240 253	remyelination
+T71	TemporalConcept 672 678	stages
+T72	OrganismAttribute 1140 1147	ability
+T73	CellFunction 342 362	cell differentiation
+T74	Cell 747 757	cell lines
+T75	BiologicallyActiveSubstance 14 18	AQP4
+T76	AminoAcidPeptideOrProtein 20 31	aquaporin-4
+T77	BiologicallyActiveSubstance 20 31	aquaporin-4
+T78	AminoAcidPeptideOrProtein 33 49	immunoglobulin G
+T79	BiologicallyActiveSubstance 33 49	immunoglobulin G
+T80	PharmacologicSubstance 33 49	immunoglobulin G
+T81	GeneOrGenome 330 334	AQP4
+T82	BiologicallyActiveSubstance 330 334	AQP4
+T83	AminoAcidPeptideOrProtein 330 334	AQP4
+T84	AminoAcidPeptideOrProtein 436 440	AQP4
+T85	BiologicallyActiveSubstance 436 440	AQP4
+T86	GeneOrGenome 436 440	AQP4
+T87	Finding 1193 1201	decrease

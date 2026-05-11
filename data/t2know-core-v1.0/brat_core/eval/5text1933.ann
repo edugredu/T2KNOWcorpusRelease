@@ -1,0 +1,8 @@
+T0	Finding 100 107	sources
+T1	NaturalPhenomenonOrProcess 130 132	UV
+T2	NaturalPhenomenonOrProcess 13 15	UV
+T3	NaturalPhenomenonOrProcess 0 11;17 26	Ultraviolet radiation
+T4	NaturalPhenomenonOrProcess 40 65	electromagnetic radiation
+T5	ManufacturedObject 130 138	UV lamps
+T6	ManufacturedObject 113 125	tanning beds
+T7	NaturalPhenomenonOrProcess 81 84	sun

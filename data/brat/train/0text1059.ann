@@ -1,0 +1,186 @@
+T0	ResearchActivity 156 168	immunoassays
+T1	Finding 671 678	improve
+T2	ResearchActivity 1152 1164	immunoassays
+T3	AminoAcidPeptideOrProtein 1166 1181	alpha-Synuclein
+T4	BiologicallyActiveSubstance 1166 1181	alpha-Synuclein
+T5	CellFunction 1470 1484	Phosphorylated
+T6	SignOrSymptom 2031 2044	motor symptom
+T7	AminoAcidPeptideOrProtein 2092 2120	insulin receptor substrate-1
+T8	SignOrSymptom 2639 2652	motor symptom
+T9	AminoAcidPeptideOrProtein 2688 2716	insulin receptor substrate-1
+T10	AminoAcidPeptideOrProtein 2745 2773	insulin receptor substrate-1
+T11	SignOrSymptom 3004 3017	motor symptom
+T12	AminoAcidPeptideOrProtein 3040 3055	alpha-Synuclein
+T13	BiologicallyActiveSubstance 3040 3055	alpha-Synuclein
+T14	AminoAcidPeptideOrProtein 3083 3111	insulin receptor substrate-1
+T15	Finding 819 835	normal cognition
+T16	Finding 1356 1372	normal cognition
+T17	Chemical 2177 2186	rapamycin
+T18	Chemical 2266 2275	rapamycin
+T19	Finding 2037 2053	symptom severity
+T20	Finding 2645 2661	symptom severity
+T21	Finding 3010 3026	symptom severity
+T22	AminoAcidPeptideOrProtein 2408 2417	synuclein
+T23	AminoAcidPeptideOrProtein 3232 3241	synuclein
+T24	BiologicallyActiveSubstance 2408 2417	synuclein
+T25	BiologicallyActiveSubstance 3232 3241	synuclein
+T26	AminoAcidPeptideOrProtein 191 206	alpha-synuclein
+T27	AminoAcidPeptideOrProtein 450 465	alpha-synuclein
+T28	AminoAcidPeptideOrProtein 2402 2417	alpha-synuclein
+T29	AminoAcidPeptideOrProtein 3226 3241	alpha-synuclein
+T30	BiologicallyActiveSubstance 191 206	alpha-synuclein
+T31	BiologicallyActiveSubstance 450 465	alpha-synuclein
+T32	BiologicallyActiveSubstance 2402 2417	alpha-synuclein
+T33	BiologicallyActiveSubstance 3226 3241	alpha-synuclein
+T34	PatientOrDisabledGroup 1266 1286	cognitively impaired
+T35	PatientOrDisabledGroup 1574 1594	cognitively impaired
+T36	PatientOrDisabledGroup 1876 1896	cognitively impaired
+T37	PatientOrDisabledGroup 2293 2313	cognitively impaired
+T38	PatientOrDisabledGroup 2513 2533	cognitively impaired
+T39	PatientOrDisabledGroup 2879 2899	cognitively impaired
+T40	SignOrSymptom 2037 2044	symptom
+T41	SignOrSymptom 2645 2652	symptom
+T42	SignOrSymptom 3010 3017	symptom
+T43	BiologicallyActiveSubstance 3083 3111	insulin receptor substrate-1
+T44	PopulationGroup 764 776	participants
+T45	CellComponent 57 79	extracellular vesicles
+T46	CellComponent 998 1020	extracellular vesicles
+T47	CellComponent 3366 3388	extracellular vesicles
+T48	DiseaseOrSyndrome 470 489	Alzheimer's disease
+T49	PatientOrDisabledGroup 278 286	patients
+T50	DiseaseOrSyndrome 943 951	dementia
+T51	ResearchActivity 729 734	study
+T52	DiseaseOrSyndrome 135 154	Parkinson's disease
+T53	DiseaseOrSyndrome 375 394	Parkinson's disease
+T54	DiseaseOrSyndrome 592 611	Parkinson's disease
+T55	DiseaseOrSyndrome 679 698	Parkinson's disease
+T56	DiseaseOrSyndrome 782 801	Parkinson's disease
+T57	DiseaseOrSyndrome 841 860	Parkinson's disease
+T58	DiseaseOrSyndrome 1195 1214	Parkinson's disease
+T59	DiseaseOrSyndrome 1287 1306	Parkinson's disease
+T60	DiseaseOrSyndrome 1331 1350	Parkinson's disease
+T61	DiseaseOrSyndrome 1510 1529	Parkinson's disease
+T62	DiseaseOrSyndrome 1626 1645	Parkinson's disease
+T63	DiseaseOrSyndrome 1806 1825	Parkinson's disease
+T64	DiseaseOrSyndrome 1928 1947	Parkinson's disease
+T65	DiseaseOrSyndrome 2345 2364	Parkinson's disease
+T66	DiseaseOrSyndrome 2456 2475	Parkinson's disease
+T67	DiseaseOrSyndrome 2565 2584	Parkinson's disease
+T68	DiseaseOrSyndrome 2812 2831	Parkinson's disease
+T69	DiseaseOrSyndrome 2931 2950	Parkinson's disease
+T70	DiseaseOrSyndrome 3303 3322	Parkinson's disease
+T71	DiseaseOrSyndrome 3434 3453	Parkinson's disease
+T72	CellFunction 208 222	phosphorylated
+T73	CellFunction 1749 1763	phosphorylated
+T74	CellFunction 2077 2091	phosphorylated
+T75	CellFunction 2229 2243	phosphorylated
+T76	CellFunction 2717 2731	phosphorylated
+T77	CellFunction 2774 2788	phosphorylated
+T78	CellFunction 3112 3126	phosphorylated
+T79	HealthCareActivity 15 21	report
+T80	ResearchActivity 15 21	report
+T81	PopulationGroup 981 989	controls
+T82	PopulationGroup 1674 1682	controls
+T83	PopulationGroup 1975 1983	controls
+T84	PopulationGroup 2488 2496	controls
+T85	AminoAcidPeptideOrProtein 223 226	tau
+T86	AminoAcidPeptideOrProtein 1485 1488	tau
+T87	BodyPartOrganOrOrganComponent 515 520	brain
+T88	ClinicalAttribute 553 563	biomarkers
+T89	ClinicalAttribute 1119 1129	biomarkers
+T90	ClinicalAttribute 3389 3399	biomarkers
+T91	BiologicallyActiveSubstance 223 226	tau
+T92	BiologicallyActiveSubstance 1485 1488	tau
+T93	BodyPartOrganOrOrganComponent 740 754	plasma samples
+T94	ClinicalAttribute 97 106	biomarker
+T95	HealthCareActivity 699 708	diagnosis
+T96	Cell 1090 1094	cell
+T97	Cell 48 56	neuronal
+T98	Cell 1034 1042	neuronal
+T99	Cell 3357 3365	neuronal
+T100	TemporalConcept 1043 1049	origin
+T101	CellComponent 39 44	cargo
+T102	OrganismAttribute 960 963	age
+T103	AminoAcidPeptideOrProtein 231 239	proteins
+T104	AminoAcidPeptideOrProtein 1696 1705	Total tau
+T105	AminoAcidPeptideOrProtein 208 226	phosphorylated tau
+T106	BiologicallyActiveSubstance 1696 1705	Total tau
+T107	BiologicallyActiveSubstance 208 226	phosphorylated tau
+T108	Finding 176 187	differences
+T109	SignOrSymptom 337 351	motor symptoms
+T110	PathologicFunction 646 656	pathogenic
+T111	Finding 2005 2014	decreased
+T112	Finding 2613 2622	decreased
+T113	ClinicalAttribute 2045 2053	severity
+T114	ClinicalAttribute 2653 2661	severity
+T115	ClinicalAttribute 3018 3026	severity
+T116	Finding 2045 2053	severity
+T117	Finding 2653 2661	severity
+T118	Finding 3018 3026	severity
+T119	BiologicFunction 826 835	cognition
+T120	BiologicFunction 1363 1372	cognition
+T121	DiseaseOrSyndrome 111 131	cognitive impairment
+T122	DiseaseOrSyndrome 307 327	cognitive impairment
+T123	DiseaseOrSyndrome 403 423	cognitive impairment
+T124	DiseaseOrSyndrome 568 588	cognitive impairment
+T125	DiseaseOrSyndrome 878 898	cognitive impairment
+T126	DiseaseOrSyndrome 3328 3348	cognitive impairment
+T127	BodyPartOrganOrOrganComponent 991 997	Plasma
+T128	BodyPartOrganOrOrganComponent 3350 3356	Plasma
+T129	Finding 819 825	normal
+T130	Finding 1356 1362	normal
+T131	Finding 1619 1625	normal
+T132	Finding 1921 1927	normal
+T133	Finding 2338 2344	normal
+T134	Finding 2558 2564	normal
+T135	Finding 2924 2930	normal
+T136	PopulationGroup 358 369	individuals
+T137	PopulationGroup 802 813	individuals
+T138	PopulationGroup 861 872	individuals
+T139	PopulationGroup 1235 1246	individuals
+T140	PopulationGroup 1307 1318	individuals
+T141	PopulationGroup 1409 1420	individuals
+T142	PopulationGroup 1543 1554	individuals
+T143	PopulationGroup 1646 1657	individuals
+T144	PopulationGroup 1846 1857	individuals
+T145	PopulationGroup 1948 1959	individuals
+T146	PopulationGroup 2365 2376	individuals
+T147	PopulationGroup 2585 2596	individuals
+T148	PopulationGroup 2852 2863	individuals
+T149	PopulationGroup 2951 2962	individuals
+T150	OrganismAttribute 969 972	sex
+T151	DiseaseOrSyndrome 908 933	mild cognitive impairment
+T152	Finding 1607 1625	cognitively normal
+T153	Finding 1909 1927	cognitively normal
+T154	Finding 2326 2344	cognitively normal
+T155	Finding 2546 2564	cognitively normal
+T156	Finding 2912 2930	cognitively normal
+T157	DiseaseOrSyndrome 490 501	pathologies
+T158	DiseaseOrSyndrome 3246 3261	tau pathologies
+T159	HealthCareActivity 713 722	prognosis
+T160	HealthCareActivity 3411 3430	cognitive prognosis
+T161	Finding 2020 2030	increasing
+T162	Finding 2628 2638	increasing
+T163	Finding 2993 3003	increasing
+T164	BiologicallyActiveSubstance 2092 2120	insulin receptor substrate-1
+T165	BiologicallyActiveSubstance 2745 2773	insulin receptor substrate-1
+T166	AminoAcidPeptideOrProtein 31 38	protein
+T167	AminoAcidPeptideOrProtein 3057 3078	phosphorylated tau181
+T168	BiologicallyActiveSubstance 3057 3078	phosphorylated tau181
+T169	AminoAcidPeptideOrProtein 3127 3135	tyrosine
+T170	CellOrMolecularDysfunction 3266 3293	impaired insulin signalling
+T171	AminoAcidPeptideOrProtein 2732 2741	serine312
+T172	AminoAcidPeptideOrProtein 2789 2797	tyrosine
+T173	AminoAcidPeptideOrProtein 2421 2442	phosphorylated tau181
+T174	BiologicallyActiveSubstance 2421 2442	phosphorylated tau181
+T175	ClinicalAttribute 2393 2442	ratio of alpha-synuclein to phosphorylated tau181
+T176	ClinicalAttribute 2679 2797	ratio of insulin receptor substrate-1 phosphorylated serine312 to insulin receptor substrate-1 phosphorylated tyrosine
+T177	BiologicallyActiveSubstance 2688 2716	insulin receptor substrate-1
+T178	AminoAcidPeptideOrProtein 1740 1748	Tyrosine
+T179	AminoAcidPeptideOrProtein 1764 1792	insulin receptor substrate-1
+T180	BiologicallyActiveSubstance 1764 1792	insulin receptor substrate-1
+T181	AminoAcidPeptideOrProtein 1422 1438	Amyloid-beta(42)
+T182	BiologicallyActiveSubstance 1422 1438	Amyloid-beta(42)
+T183	AminoAcidPeptideOrProtein 1490 1494	T181
+T184	CellFunction 256 274	insulin signalling
+T185	CellFunction 521 539	insulin signalling

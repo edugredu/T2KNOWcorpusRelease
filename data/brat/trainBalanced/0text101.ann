@@ -1,0 +1,48 @@
+T0	Finding 17 27	increasing
+T1	PopulationGroup 28 46	elderly population
+T2	DiseaseOrSyndrome 83 102	Parkinson?s disease
+T3	DiseaseOrSyndrome 104 106	PD
+T4	DiseaseOrSyndrome 134 153	Alzheimer?s disease
+T5	DiseaseOrSyndrome 155 157	AD
+T6	DiseaseOrSyndrome 160 189	Amyotrophic lateral sclerosis
+T7	DiseaseOrSyndrome 191 194	ALS
+T8	DiseaseOrSyndrome 200 218	Multiple sclerosis
+T9	DiseaseOrSyndrome 220 222	MS
+T10	PopulationGroup 305 323	elderly population
+T11	TemporalConcept 346 350	year
+T12	HealthCareActivity 389 409	therapeutic remedies
+T13	BiologicFunction 475 480	aging
+T14	CellFunction 475 480	aging
+T15	PathologicFunction 499 525	pathophysiological changes
+T16	HealthCareActivity 652 673	therapeutic potential
+T17	CellFunction 856 873	cellular pathways
+T18	PathologicFunction 882 894	progressions
+T19	ExperimentalModelOfDisease 957 970	animal models
+T20	SignOrSymptom 256 270	health problem
+T21	Chemical 600 622	Polyphenolic compounds
+T22	PharmacologicSubstance 600 622	Polyphenolic compounds
+T23	AnatomicalAbnormality 898 926	age-associated brain changes
+T24	BodyPartOrganOrOrganComponent 481 486	brain
+T25	BodyPartOrganOrOrganComponent 913 918	brain
+T26	Finding 745 753	evidence
+T27	Chemical 631 640	flavonols
+T28	Chemical 808 817	flavonols
+T29	Chemical 1052 1061	flavonols
+T30	PharmacologicSubstance 631 640	flavonols
+T31	PharmacologicSubstance 808 817	flavonols
+T32	PharmacologicSubstance 1052 1061	flavonols
+T33	DiseaseOrSyndrome 129 131	HD
+T34	DiseaseOrSyndrome 109 127	Huntington disease
+T35	DiseaseOrSyndrome 571 598	neurodegenerative disorders
+T36	DiseaseOrSyndrome 48 74	neurodegenerative diseases
+T37	DiseaseOrSyndrome 1082 1108	neurodegenerative diseases
+T38	Finding 773 795	neuroprotective effect
+T39	Finding 1001 1023	neuroprotective effect
+T40	TemporalConcept 432 437	onset
+T41	ResearchActivity 737 743	review
+T42	HealthCareActivity 737 743	review
+T43	Finding 543 554	risk factor
+T44	HealthCareActivity 700 709	treatment
+T45	HealthCareActivity 1069 1078	treatment
+T46	ResearchActivity 700 709	treatment
+T47	ResearchActivity 1069 1078	treatment

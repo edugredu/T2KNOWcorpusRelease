@@ -1,0 +1,45 @@
+T0	Finding 104 117	neuronal loss
+T1	AminoAcidPeptideOrProtein 448 451	p53
+T2	BiologicallyActiveSubstance 448 451	p53
+T3	AminoAcidPeptideOrProtein 704 707	p53
+T4	BiologicallyActiveSubstance 704 707	p53
+T5	AminoAcidPeptideOrProtein 825 828	p53
+T6	BiologicallyActiveSubstance 825 828	p53
+T7	BiomedicalOccupationOrDiscipline 856 867	CNS regions
+T8	AminoAcidPeptideOrProtein 1013 1016	p53
+T9	BiologicallyActiveSubstance 1013 1016	p53
+T10	AminoAcidPeptideOrProtein 1133 1136	p53
+T11	BiologicallyActiveSubstance 1133 1136	p53
+T12	TemporalConcept 239 245	states
+T13	CellFunction 499 516	cellular pathways
+T14	CellFunction 528 537	apoptosis
+T15	PathologicFunction 805 813	aberrant
+T16	BiologicFunction 412 422	conception
+T17	PharmacologicSubstance 1100 1121	synthetic medications
+T18	TemporalConcept 569 579	occurrence
+T19	AminoAcidPeptideOrProtein 458 478	transcription factor
+T20	BiologicallyActiveSubstance 458 478	transcription factor
+T21	Finding 301 309	etiology
+T22	PathologicFunction 384 396	pathogenesis
+T23	PathologicFunction 715 727	pathogenesis
+T24	Finding 1058 1067	hallmarks
+T25	Substance 1021 1030	molecules
+T26	Cell 104 112	neuronal
+T27	HealthCareActivity 232 238	health
+T28	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T29	CellOrMolecularDysfunction 276 293	neurodegeneration
+T30	TemporalConcept 92 103	progressive
+T31	OrganismAttribute 53 56	age
+T32	BodyPartOrganOrOrganComponent 856 859	CNS
+T33	BiologicFunction 935 944	attention
+T34	DiseaseOrSyndrome 604 630	neurodegenerative diseases
+T35	DiseaseOrSyndrome 201 221	Huntington's disease
+T36	DiseaseOrSyndrome 176 195	Parkinson's disease
+T37	DiseaseOrSyndrome 155 174	Alzheimer's disease
+T38	ResearchActivity 649 655	review
+T39	HealthCareActivity 649 655	review
+T40	ResearchActivity 660 668	research
+T41	DiseaseOrSyndrome 53 74	age-related disorders
+T42	Finding 814 821	changes
+T43	PharmacologicSubstance 1088 1095;1110 1121	Natural medications
+T44	CellFunction 1137 1147	expression

@@ -1,0 +1,79 @@
+T0	ClinicalAttribute 0 17	Molecular markers
+T1	PathologicFunction 194 207	dysfunctional
+T2	PopulationGroup 626 634	carriers
+T3	BiologicFunction 791 804	concentration
+T4	ResearchActivity 1141 1149	measures
+T5	AminoAcidPeptideOrProtein 1198 1223	amyloid precursor protein
+T6	Finding 1358 1375	Total Motor Score
+T7	ClinicalAttribute 1511 1524	disease state
+T8	BiologicallyActiveSubstance 1000 1020	lysosomal hydrolases
+T9	CellComponent 159 173	endo-lysosomal
+T10	CellComponent 573 587	endo-lysosomal
+T11	ResearchActivity 496 551	parallel reaction monitoring mass spectrometry analysis
+T12	Finding 1325 1350	Total Functional Capacity
+T13	MolecularSequence 716 719	CAG
+T14	ResearchActivity 1682 1692	validation
+T15	HealthCareActivity 1319 1324	UHDRS
+T16	HealthCareActivity 1352 1357	UHDRS
+T17	ClinicalAttribute 1161 1169	severity
+T18	ClinicalAttribute 1613 1630	clinical severity
+T19	Finding 1161 1169	severity
+T20	CellFunction 1022 1038	binding/transfer
+T21	CellComponent 976 986	components
+T22	BodyPartOrganOrOrganComponent 1052 1072	innate immune system
+T23	HealthCareActivity 304 328	therapeutic intervention
+T24	ClinicalAttribute 1153 1169	disease severity
+T25	PathologicFunction 251 263	pathogenesis
+T26	BiologicFunction 1174 1183	cognition
+T27	Finding 1153 1169	disease severity
+T28	HealthCareActivity 1377 1405	Symbol Digit Modalities Test
+T29	ResearchActivity 1704 1716	longitudinal
+T30	Finding 764 787	significant differences
+T31	ResearchActivity 1248 1260	correlations
+T32	Finding 899 924	no significant difference
+T33	AminoAcidPeptideOrProtein 1198 1205	amyloid
+T34	BiologicallyActiveSubstance 1198 1205	amyloid
+T35	CellOrMolecularDysfunction 617 625	mutation
+T36	ClinicalAttribute 932 945	disease stage
+T37	TemporalConcept 932 945	disease stage
+T38	HealthCareActivity 1276 1317	Unified Huntington's Disease Rating Scale
+T39	HealthCareActivity 1666 1677	exploration
+T40	CellFunction 159 190	endo-lysosomal/autophagy system
+T41	AminoAcidPeptideOrProtein 353 361	proteins
+T42	AminoAcidPeptideOrProtein 588 596	proteins
+T43	AminoAcidPeptideOrProtein 736 744	proteins
+T44	AminoAcidPeptideOrProtein 1039 1047	proteins
+T45	AminoAcidPeptideOrProtein 1084 1092	proteins
+T46	AminoAcidPeptideOrProtein 1111 1119	proteins
+T47	AminoAcidPeptideOrProtein 1472 1480	proteins
+T48	AminoAcidPeptideOrProtein 1574 1582	proteins
+T49	ResearchActivity 1666 1677	exploration
+T50	OrganismAttribute 708 711	age
+T51	BodyPartOrganOrOrganComponent 1073 1083	peripheral
+T52	ResearchActivity 146 153	in vivo
+T53	OrganismAttribute 642 649	healthy
+T54	ResearchActivity 860 888	principal component analysis
+T55	PopulationGroup 642 658	healthy controls
+T56	DiseaseOrSyndrome 404 430	neurodegenerative diseases
+T57	DiseaseOrSyndrome 120 140	Huntington's disease
+T58	DiseaseOrSyndrome 1544 1564	Huntington's disease
+T59	DiseaseOrSyndrome 142 144	HD
+T60	DiseaseOrSyndrome 211 213	HD
+T61	DiseaseOrSyndrome 479 481	HD
+T62	DiseaseOrSyndrome 614 616	HD
+T63	Substance 1717 1724	samples
+T64	BodyPartOrganOrOrganComponent 1717 1724	samples
+T65	ClinicalAttribute 384 394	biomarkers
+T66	ClinicalAttribute 1529 1539	biomarkers
+T67	BodyPartOrganOrOrganComponent 52 55	CSF
+T68	BodyPartOrganOrOrganComponent 604 607	CSF
+T69	BodyPartOrganOrOrganComponent 1525 1528	CSF
+T70	PopulationGroup 829 837	controls
+T71	BodyPartOrganOrOrganComponent 31 50	cerebrospinal fluid
+T72	PatientOrDisabledGroup 813 824	HD patients
+T73	BiologicFunction 104 116	pathobiology
+T74	CellComponent 338 352	endo-lysosomal
+T75	ResearchActivity 553 559	PRM-MS
+T76	ResearchActivity 666 691	generalised linear models
+T77	HealthCareActivity 1410 1429	Stroop Word Reading
+T78	CellComponent 1457 1471	endo-lysosomal

@@ -1,0 +1,5 @@
+T0	DiseaseOrSyndrome 139 165	neurodegenerative diseases
+T1	HealthCareActivity 33 52	antiviral therapies
+T2	CellFunction 71 86	neuroprotective
+T3	Virus 22 32	SARS-CoV-2
+T4	Finding 71 97	neuroprotective properties

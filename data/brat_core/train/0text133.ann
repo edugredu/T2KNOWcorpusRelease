@@ -1,0 +1,95 @@
+T0	DiseaseOrSyndrome 0 6	Apathy
+T1	ResearchActivity 339 346	methods
+T2	HealthCareActivity 352 380	individual registration card
+T3	CellFunction 537 551	motor activity
+T4	BiologicFunction 537 551	motor activity
+T5	BiologicFunction 693 712	cognitive functions
+T6	HealthCareRelatedOrganization 755 769	hospital scale
+T7	DiseaseOrSyndrome 1012 1018	Apathy
+T8	SignOrSymptom 1233 1253	motor manifestations
+T9	Finding 1393 1403	drowsiness
+T10	DiseaseOrSyndrome 1393 1403	drowsiness
+T11	PharmacologicSubstance 1522 1540	dopaminergic drugs
+T12	NucleicAcidNucleosideOrNucleotide 1813 1814	U
+T13	PathologicFunction 2011 2031	pathological process
+T14	HealthCareActivity 2076 2092	targeted therapy
+T15	DiseaseOrSyndrome 174 192	Huntington disease
+T16	DiseaseOrSyndrome 300 318	Huntington disease
+T17	PatientOrDisabledGroup 1570 1586	patients with HD
+T18	ResearchActivity 423 439	demographic data
+T19	HealthCareActivity 685 690	UHDRS
+T20	ClinicalAttribute 1221 1229	severity
+T21	Finding 1221 1229	severity
+T22	DiseaseOrSyndrome 797 807	depression
+T23	DiseaseOrSyndrome 816 826	depression
+T24	DiseaseOrSyndrome 901 911	depression
+T25	DiseaseOrSyndrome 1329 1339	depression
+T26	HealthCareActivity 511 525	questionnaires
+T27	ClinicalAttribute 441 458	clinical features
+T28	ClinicalAttribute 229 245	clinical profile
+T29	DiseaseOrSyndrome 152 169	Parkinson disease
+T30	DiseaseOrSyndrome 273 290	Parkinson disease
+T31	TemporalConcept 26 34	frequent
+T32	BodyPartOrganOrOrganComponent 1990 2003	brain regions
+T33	DiseaseOrSyndrome 249 255	apathy
+T34	DiseaseOrSyndrome 838 844	apathy
+T35	DiseaseOrSyndrome 846 852	apathy
+T36	DiseaseOrSyndrome 1190 1196	apathy
+T37	DiseaseOrSyndrome 1305 1311	apathy
+T38	DiseaseOrSyndrome 1588 1594	apathy
+T39	DiseaseOrSyndrome 1669 1675	apathy
+T40	DiseaseOrSyndrome 1711 1717	apathy
+T41	DiseaseOrSyndrome 1792 1798	apathy
+T42	DiseaseOrSyndrome 1868 1874	apathy
+T43	HealthCareActivity 1023 1032	diagnosed
+T44	HealthCareActivity 714 718	MoCA
+T45	SignOrSymptom 745 753	symptoms
+T46	SignOrSymptom 69 87	non-motor symptoms
+T47	DiseaseOrSyndrome 882 890	dementia
+T48	DiseaseOrSyndrome 726 733	anxiety
+T49	DiseaseOrSyndrome 785 792	anxiety
+T50	DiseaseOrSyndrome 1361 1368	anxiety
+T51	HealthCareActivity 1615 1631	disease duration
+T52	TemporalConcept 1461 1469	duration
+T53	ResearchActivity 942 949	Results
+T54	PatientOrDisabledGroup 868 876	Patients
+T55	PatientOrDisabledGroup 1255 1263	Patients
+T56	TemporalConcept 1615 1631	disease duration
+T57	DiseaseOrSyndrome 1743 1763	cognitive impairment
+T58	TemporalConcept 1855 1864	frequency
+T59	ResearchActivity 1932 1953	clinical correlations
+T60	HealthCareActivity 641 682	Unified Huntington's Disease Rating Scale
+T61	Finding 1965 1976	involvement
+T62	TemporalConcept 1643 1648	years
+T63	TemporalConcept 1688 1693	years
+T64	Finding 894 900	severe
+T65	Finding 1322 1328	severe
+T66	DiseaseOrSyndrome 108 134	neurodegenerative diseases
+T67	DiseaseOrSyndrome 1068 1094	neurodegenerative diseases
+T68	PatientOrDisabledGroup 259 267	patients
+T69	PatientOrDisabledGroup 974 982	patients
+T70	PatientOrDisabledGroup 1054 1062	patients
+T71	PatientOrDisabledGroup 1111 1119	patients
+T72	PatientOrDisabledGroup 1144 1152	patients
+T73	PatientOrDisabledGroup 1181 1189	patients
+T74	PatientOrDisabledGroup 1652 1660	patients
+T75	PatientOrDisabledGroup 1697 1705	patients
+T76	PatientOrDisabledGroup 1888 1896	patients
+T77	DiseaseOrSyndrome 320 322	HD
+T78	DiseaseOrSyndrome 1008 1010	HD
+T79	DiseaseOrSyndrome 1158 1160	HD
+T80	DiseaseOrSyndrome 1909 1911	HD
+T81	DiseaseOrSyndrome 292 294	PD
+T82	DiseaseOrSyndrome 993 995	PD
+T83	DiseaseOrSyndrome 1125 1127	PD
+T84	DiseaseOrSyndrome 1269 1271	PD
+T85	DiseaseOrSyndrome 1902 1904	PD
+T86	ResearchActivity 935 940	study
+T87	ResearchActivity 955 960	study
+T88	ResearchActivity 1290 1301	correlation
+T89	ResearchActivity 1436 1447	correlation
+T90	ResearchActivity 2056 2064	research
+T91	PatientOrDisabledGroup 404 411	patient
+T92	HealthCareActivity 553 623	The Movement Disorder Society-Unified Parkinson's Disease Rating Scale
+T93	HealthCareActivity 626 635	MDS-UPDRS
+T94	HealthCareActivity 809 835	Beck's depression scale-II

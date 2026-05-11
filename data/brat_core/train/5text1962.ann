@@ -1,0 +1,10 @@
+T0	DiseaseOrSyndrome 82 101	Alzheimer's disease
+T1	Finding 113 121	presence
+T2	AnatomicalAbnormality 23 38	amyloid plaques
+T3	HealthCareActivity 173 176	PET
+T4	TemporalConcept 66 78	early stages
+T5	PathologicFunction 23 38	amyloid plaques
+T6	ResearchActivity 0 8	Research
+T7	HealthCareActivity 177 182	scans
+T8	HealthCareActivity 144 167	neuroimaging techniques
+T9	Finding 46 58	crucial role

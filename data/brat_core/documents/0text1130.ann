@@ -1,0 +1,82 @@
+T0	GeneOrGenome 774 779	TGFBI
+T1	NucleicAcidNucleosideOrNucleotide 781 789	miR-1246
+T2	BiologicallyActiveSubstance 781 789	miR-1246
+T3	AminoAcidPeptideOrProtein 791 794	MET
+T4	GeneOrGenome 791 794	MET
+T5	GeneOrGenome 796 800	GPC1
+T6	GeneOrGenome 805 809	AGO2
+T7	GeneOrGenome 866 870	ACE2
+T8	GeneOrGenome 880 885	PCSK9
+T9	AminoAcidPeptideOrProtein 880 885	PCSK9
+T10	CellFunction 1042 1059	lactate secretion
+T11	AminoAcidPeptideOrProtein 1070 1079	cetuximab
+T12	BiologicFunction 1080 1090	resistance
+T13	Chemical 1123 1131	glycogen
+T14	DiseaseOrSyndrome 1282 1296	human diseases
+T15	DiseaseOrSyndrome 745 752	cancers
+T16	BiologicallyActiveSubstance 754 772	glycolytic enzymes
+T17	ResearchActivity 279 292	investigation
+T18	Finding 1095 1103	decrease
+T19	Organism 1274 1278	host
+T20	CellComponent 543 565	extracellular vesicles
+T21	CellComponent 970 992	extracellular vesicles
+T22	DiseaseOrSyndrome 812 831	Alzheimer's disease
+T23	ResearchActivity 1146 1151	study
+T24	ResearchActivity 353 362	discovery
+T25	HealthCareActivity 342 348	report
+T26	ResearchActivity 342 348	report
+T27	ClinicalAttribute 1233 1243	biomarkers
+T28	Eukaryote 1282 1287	human
+T29	AminoAcidPeptideOrProtein 833 836	APP
+T30	GeneOrGenome 833 836	APP
+T31	BiologicallyActiveSubstance 833 836	APP
+T32	CellComponent 212 234	Extracellular vesicles
+T33	CellFunction 327 332	cargo
+T34	CellFunction 718 723	cargo
+T35	ResearchActivity 1248 1267	therapeutic targets
+T36	ClinicalAttribute 1221 1243	circulating biomarkers
+T37	Finding 296 303	sources
+T38	CellFunction 1050 1059	secretion
+T39	BiologicFunction 1050 1059	secretion
+T40	CellComponent 53 80	extracellular nanoparticles
+T41	CellComponent 377 390	extracellular
+T42	ResearchActivity 515 522	in vivo
+T43	ResearchActivity 1132 1139	in vivo
+T44	Chemical 1112 1118	lipids
+T45	DiseaseOrSyndrome 842 864	cardiovascular disease
+T46	CellComponent 537 565	small extracellular vesicles
+T47	CellComponent 639 667	small extracellular vesicles
+T48	CellComponent 964 992	small extracellular vesicles
+T49	NucleicAcidNucleosideOrNucleotide 596 599	RNA
+T50	NucleicAcidNucleosideOrNucleotide 918 921	RNA
+T51	AminoAcidPeptideOrProtein 584 591	protein
+T52	BiologicFunction 508 514	uptake
+T53	CellFunction 508 514	uptake
+T54	AminoAcidPeptideOrProtein 872 875	ACE
+T55	BiologicallyActiveSubstance 872 875	ACE
+T56	Finding 143 185	potential prognostic and therapeutic value
+T57	Substance 239 260	exomere nanoparticles
+T58	Substance 391 403	nanoparticle
+T59	CellComponent 570 578	exomeres
+T60	CellComponent 423 433	Supermeres
+T61	CellComponent 412 421	supermere
+T62	CellComponent 468 476	exomeres
+T63	CellComponent 615 625	supermeres
+T64	CellComponent 672 680	exomeres
+T65	CellComponent 682 692	Supermeres
+T66	DiseaseOrSyndrome 736 752	multiple cancers
+T67	BiologicallyActiveSubstance 774 779	TGFBI
+T68	AminoAcidPeptideOrProtein 774 779	TGFBI
+T69	BiologicallyActiveSubstance 791 794	MET
+T70	BiologicallyActiveSubstance 796 800	GPC1
+T71	AminoAcidPeptideOrProtein 796 800	GPC1
+T72	AminoAcidPeptideOrProtein 866 870	ACE2
+T73	BiologicallyActiveSubstance 866 870	ACE2
+T74	BiologicallyActiveSubstance 880 885	PCSK9
+T75	CellComponent 997 1005	exomeres
+T76	CellComponent 904 917	extracellular
+T77	CellComponent 941 951	supermeres
+T78	DiseaseOrSyndrome 1007 1013	Cancer
+T79	CellComponent 1022 1032	supermeres
+T80	BiologicallyActiveSubstance 1070 1079	cetuximab
+T81	PharmacologicSubstance 1070 1079	cetuximab

@@ -1,0 +1,9 @@
+T0	CellFunction 62 77	neuroprotective
+T1	AminoAcidPeptideOrProtein 14 22	proteins
+T2	PathologicFunction 120 137	neuroinflammation
+T3	DiseaseOrSyndrome 141 169	neurodegenerative conditions
+T4	CellOrMolecularDysfunction 99 115	oxidative stress
+T5	PharmacologicSubstance 62 84	neuroprotective agents
+T6	AminoAcidPeptideOrProtein 27 35	peptides
+T7	Chemical 78 84	agents
+T8	Organism 0 5	Yeast

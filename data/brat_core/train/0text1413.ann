@@ -1,0 +1,94 @@
+T0	HealthCareActivity 109 136	Corneal confocal microscopy
+T1	HealthCareActivity 138 141	CCM
+T2	DiseaseOrSyndrome 183 211	clinically isolated syndrome
+T3	SignOrSymptom 249 272	neurological disability
+T4	BodyPartOrganOrOrganComponent 294 301	corneal
+T5	DiseaseOrSyndrome 339 354	retinal atrophy
+T6	HealthCareActivity 523 526	CCM
+T7	HealthCareActivity 531 559	optical coherence tomography
+T8	HealthCareActivity 801 825	radiological assessments
+T9	HealthCareActivity 859 868	follow-up
+T10	TemporalConcept 859 868	follow-up
+T11	HealthCareActivity 1377 1386	follow-up
+T12	TemporalConcept 1377 1386	follow-up
+T13	HealthCareActivity 1614 1623	Follow-up
+T14	TemporalConcept 1614 1623	Follow-up
+T15	Finding 1713 1720	history
+T16	BodyPartOrganOrOrganComponent 1745 1752	corneal
+T17	BodyPartOrganOrOrganComponent 1757 1764	retinal
+T18	Finding 1840 1854	active disease
+T19	HealthCareActivity 1856 1859	CCM
+T20	TemporalConcept 319 323	time
+T21	TemporalConcept 850 855	years
+T22	Finding 1408 1428	significant decrease
+T23	OrganismAttribute 883 890	healthy
+T24	DiseaseOrSyndrome 104 106	MS
+T25	DiseaseOrSyndrome 228 230	MS
+T26	DiseaseOrSyndrome 407 409	MS
+T27	DiseaseOrSyndrome 494 496	MS
+T28	DiseaseOrSyndrome 1809 1811	MS
+T29	DiseaseOrSyndrome 1912 1914	MS
+T30	ClinicalAttribute 1016 1030	RNFL thickness
+T31	PopulationGroup 973 981	controls
+T32	PopulationGroup 1124 1132	controls
+T33	OrganismAttribute 870 873	Age
+T34	PatientOrDisabledGroup 169 177	patients
+T35	PatientOrDisabledGroup 940 948	patients
+T36	PatientOrDisabledGroup 1091 1099	patients
+T37	PatientOrDisabledGroup 1658 1666	patients
+T38	PatientOrDisabledGroup 1795 1803	patients
+T39	DiseaseOrSyndrome 84 102	multiple sclerosis
+T40	PatientOrDisabledGroup 419 427	Patients
+T41	TemporalConcept 74 80	course
+T42	InjuryOrPoisoning 1686 1693	lesions
+T43	PathologicFunction 36 47	axonal loss
+T44	PathologicFunction 154 165	axonal loss
+T45	PathologicFunction 302 313	axonal loss
+T46	PathologicFunction 1765 1776	axonal loss
+T47	PathologicFunction 1897 1908	axonal loss
+T48	TemporalConcept 433 442	relapsing
+T49	DiseaseOrSyndrome 472 496	secondary progressive MS
+T50	HealthCareActivity 1876 1883	imaging
+T51	PopulationGroup 883 899	healthy controls
+T52	ClinicalAttribute 1876 1893	imaging biomarker
+T53	PathologicFunction 377 403	radiological abnormalities
+T54	PathologicFunction 360 372;390 403	neurological abnormalities
+T55	DiseaseOrSyndrome 454 458	RRMS
+T56	DiseaseOrSyndrome 498 502	SPMS
+T57	ClinicalAttribute 561 588	Corneal nerve fibre density
+T58	ClinicalAttribute 610 638	corneal nerve branch density
+T59	ClinicalAttribute 662 688	corneal nerve fibre length
+T60	ClinicalAttribute 709 734;747 756	retinal nerve fibre layer thickness
+T61	DiseaseOrSyndrome 954 958	RRMS
+T62	ClinicalAttribute 995 999	CNFD
+T63	ClinicalAttribute 1059 1063	CNBD
+T64	DiseaseOrSyndrome 1105 1109	SPMS
+T65	ClinicalAttribute 1134 1138	CNFD
+T66	ClinicalAttribute 1152 1156	CNFL
+T67	ClinicalAttribute 1172 1186	RNFL thickness
+T68	DiseaseOrSyndrome 1227 1231	RRMS
+T69	ClinicalAttribute 1233 1237	CNBD
+T70	ClinicalAttribute 590 594	CNFD
+T71	ClinicalAttribute 640 644	CNBD
+T72	ClinicalAttribute 690 694	CNFL
+T73	BodyPartOrganOrOrganComponent 736 740	RNFL
+T74	BodyPartOrganOrOrganComponent 709 734	retinal nerve fibre layer
+T75	ClinicalAttribute 1432 1436	CNFD
+T76	ClinicalAttribute 1449 1453	CNBD
+T77	ClinicalAttribute 1467 1471	CNFL
+T78	DiseaseOrSyndrome 1508 1512	RRMS
+T79	ClinicalAttribute 1517 1521	CNFD
+T80	ClinicalAttribute 1537 1541	CNBD
+T81	DiseaseOrSyndrome 1557 1561	SPMS
+T82	ClinicalAttribute 1570 1574	CNBD
+T83	DiseaseOrSyndrome 1589 1593	SPMS
+T84	DiseaseOrSyndrome 1608 1612	RRMS
+T85	PathologicFunction 1624 1642	corneal nerve loss
+T86	DiseaseOrSyndrome 1698 1712	optic neuritis
+T87	BodyPartOrganOrOrganComponent 1488 1492	RNFL
+T88	DiseaseOrSyndrome 1333 1337	SPMS
+T89	ResearchActivity 1254 1302;1311 1316	area under the receiver operating characteristic curve
+T90	ResearchActivity 1304 1309	AUROC
+T91	ClinicalAttribute 1339 1343	CNFD
+T92	ResearchActivity 1360 1365	AUROC
+T93	HealthCareActivity 784 796;814 825	neurological assessments

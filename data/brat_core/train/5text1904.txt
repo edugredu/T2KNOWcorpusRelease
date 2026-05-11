@@ -1,0 +1,1 @@
+Virtual reality combined with machine learning algorithms is used to simulate scenarios and assess memory and spatial navigation abilities in individuals at risk of Alzheimer's disease.

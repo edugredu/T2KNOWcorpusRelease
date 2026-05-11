@@ -1,0 +1,6 @@
+T0	ClinicalAttribute 38 48	biomarkers
+T1	ResearchActivity 4 13	discovery
+T2	Substance 23 31	biofluid
+T3	PopulationGroup 128 139	individuals
+T4	DiseaseOrSyndrome 145 163	multiple sclerosis
+T5	HealthCareActivity 81 97	disease activity

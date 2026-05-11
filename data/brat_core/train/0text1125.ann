@@ -1,0 +1,80 @@
+T0	CellFunction 279 297	paracrine activity
+T1	Chemical 549 568	lipopolysaccharide-
+T2	NucleicAcidNucleosideOrNucleotide 988 996	MicroRNA
+T3	BiologicallyActiveSubstance 988 996	MicroRNA
+T4	ResearchActivity 1005 1014	profiling
+T5	CellFunction 1165 1178	overexpressed
+T6	Finding 1431 1458	immune regulatory potential
+T7	CellFunction 98 117	neuronal cell death
+T8	DiseaseOrSyndrome 912 947	anxiety-like behavioral dysfunction
+T9	CellFunction 1238 1255	signaling pathway
+T10	AminoAcidPeptideOrProtein 1232 1236	TLR4
+T11	GeneOrGenome 1232 1236	TLR4
+T12	BiologicallyActiveSubstance 1232 1236	TLR4
+T13	DiseaseOrSyndrome 240 261	inflammatory diseases
+T14	BiologicallyActiveSubstance 1210 1230	toll-like receptor-4
+T15	NucleicAcidNucleosideOrNucleotide 998 1003	miRNA
+T16	NucleicAcidNucleosideOrNucleotide 1092 1097	miRNA
+T17	BiologicallyActiveSubstance 998 1003	miRNA
+T18	BiologicallyActiveSubstance 1092 1097	miRNA
+T19	HealthCareActivity 226 235	therapies
+T20	DiseaseOrSyndrome 912 919	anxiety
+T21	PathologicFunction 871 884	demyelination
+T22	BiologicFunction 424 445	neurological recovery
+T23	HealthCareActivity 424 445	neurological recovery
+T24	PathologicFunction 0 12	Inflammation
+T25	CellComponent 655 677	extracellular vesicles
+T26	DiseaseOrSyndrome 77 96	Alzheimer's disease
+T27	CellComponent 679 682	EVs
+T28	CellComponent 760 763	EVs
+T29	CellComponent 961 964	EVs
+T30	CellComponent 1083 1086	EVs
+T31	CellComponent 1413 1416	EVs
+T32	Cell 776 781	cells
+T33	Cell 981 986	cells
+T34	PathologicFunction 1473 1491	neuro-inflammation
+T35	AminoAcidPeptideOrProtein 851 858	amyloid
+T36	BiologicallyActiveSubstance 851 858	amyloid
+T37	BiologicFunction 37 48	development
+T38	CellFunction 37 48	development
+T39	CellFunction 1028 1040	upregulation
+T40	NucleicAcidNucleosideOrNucleotide 1056 1062	miRNAs
+T41	NucleicAcidNucleosideOrNucleotide 1179 1185	miRNAs
+T42	NucleicAcidNucleosideOrNucleotide 1401 1407	miRNAs
+T43	BiologicallyActiveSubstance 1056 1062	miRNAs
+T44	BiologicallyActiveSubstance 1179 1185	miRNAs
+T45	BiologicallyActiveSubstance 1401 1407	miRNAs
+T46	ResearchActivity 1127 1148	KEGG pathway analysis
+T47	Cell 594 603	microglia
+T48	Cell 815 824	microglia
+T49	Cell 1355 1374	activated microglia
+T50	Cell 829 838	astrocyte
+T51	OrganismAttribute 318 325	ability
+T52	Finding 627 651	immunomodulatory effects
+T53	TemporalConcept 503 508	first
+T54	BiologicFunction 804 814	inhibiting
+T55	Cell 193 203	Stem cells
+T56	Cell 1327 1331	MSCs
+T57	Cell 1303 1325	mesenchymal stem cells
+T58	Cell 516 526	stem cells
+T59	Cell 719 729	stem cells
+T60	Cell 405 414	stem cell
+T61	Cell 1073 1082	stem cell
+T62	DiseaseOrSyndrome 886 897	memory loss
+T63	SignOrSymptom 886 897	memory loss
+T64	CellFunction 170 191	microglial activation
+T65	AminoAcidPeptideOrProtein 572 583	amyloidbeta
+T66	DiseaseOrSyndrome 52 72	age-related diseases
+T67	AminoAcidPeptideOrProtein 135 156	amyloidbeta oligomers
+T68	Finding 344 368	inflammatory environment
+T69	BiologicallyActiveSubstance 536 545	secretome
+T70	ResearchActivity 509 515	primed
+T71	ResearchActivity 698 704	primed
+T72	ResearchActivity 709 718	nonprimed
+T73	ResearchActivity 769 775	primed
+T74	ResearchActivity 970 980	non-primed
+T75	AminoAcidPeptideOrProtein 1210 1230	toll-like receptor-4
+T76	ResearchActivity 1295 1302	priming
+T77	BiologicallyActiveSubstance 1342 1351	secretome
+T78	CellFunction 1390 1407	release of miRNAs
+T79	PathologicFunction 851 869	amyloid deposition

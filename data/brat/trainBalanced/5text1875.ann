@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 83 108	neurodegenerative disease
+T1	Organism 42 56	gut microbiota
+T2	Bacterium 0 19	Helicobacter pylori
+T3	BodyPartOrganOrOrganComponent 42 45	gut
+T4	Finding 109 123	susceptibility
+T5	TemporalConcept 128 139	progression
+T6	PathologicFunction 128 139	progression

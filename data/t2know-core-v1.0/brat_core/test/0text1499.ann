@@ -1,0 +1,79 @@
+T0	AminoAcidPeptideOrProtein 0 15	Cholecystokinin
+T1	BiologicallyActiveSubstance 0 15	Cholecystokinin
+T2	PharmacologicSubstance 0 15	Cholecystokinin
+T3	AminoAcidPeptideOrProtein 17 20	CCK
+T4	PharmacologicSubstance 17 20	CCK
+T5	BiologicallyActiveSubstance 17 20	CCK
+T6	AminoAcidPeptideOrProtein 107 110	CCK
+T7	BiologicallyActiveSubstance 107 110	CCK
+T8	PharmacologicSubstance 107 110	CCK
+T9	BiologicFunction 152 158	memory
+T10	IndividualBehavior 215 224	integrity
+T11	BodyPartOrganOrOrganComponent 321 340	Cerebrospinal fluid
+T12	AminoAcidPeptideOrProtein 347 350	CCK
+T13	PharmacologicSubstance 347 350	CCK
+T14	BiologicallyActiveSubstance 347 350	CCK
+T15	AminoAcidPeptideOrProtein 514 517	CCK
+T16	BiologicallyActiveSubstance 514 517	CCK
+T17	PharmacologicSubstance 514 517	CCK
+T18	AminoAcidPeptideOrProtein 600 603	CCK
+T19	BiologicallyActiveSubstance 600 603	CCK
+T20	PharmacologicSubstance 600 603	CCK
+T21	BodyPartOrganOrOrganComponent 765 791	posterior cingulate cortex
+T22	BodyPartOrganOrOrganComponent 793 814	parahippocampal gyrus
+T23	BodyPartOrganOrOrganComponent 820 844	medial prefrontal cortex
+T24	AminoAcidPeptideOrProtein 850 853	CCK
+T25	BiologicallyActiveSubstance 850 853	CCK
+T26	PharmacologicSubstance 850 853	CCK
+T27	AminoAcidPeptideOrProtein 997 1000	CCK
+T28	BiologicallyActiveSubstance 997 1000	CCK
+T29	PharmacologicSubstance 997 1000	CCK
+T30	AminoAcidPeptideOrProtein 1044 1047	CCK
+T31	BiologicallyActiveSubstance 1044 1047	CCK
+T32	PharmacologicSubstance 1044 1047	CCK
+T33	BodyPartOrganOrOrganComponent 94 105	hippocampus
+T34	Finding 621 641	decreased likelihood
+T35	Finding 246 262	normal cognition
+T36	BodyPartOrganOrOrganComponent 528 539	gray matter
+T37	BodyPartOrganOrOrganComponent 727 738	gray matter
+T38	DiseaseOrSyndrome 397 416	Alzheimer's Disease
+T39	BodyPartOrganOrOrganComponent 71 84	brain regions
+T40	AminoAcidPeptideOrProtein 900 903	tau
+T41	DiseaseOrSyndrome 295 314	Alzheimer's disease
+T42	ClinicalAttribute 548 558	biomarkers
+T43	DiseaseOrSyndrome 316 318	AD
+T44	DiseaseOrSyndrome 545 547	AD
+T45	DiseaseOrSyndrome 681 683	AD
+T46	DiseaseOrSyndrome 1094 1096	AD
+T47	BiologicFunction 253 262	cognition
+T48	BiologicFunction 1005 1014	cognition
+T49	BodyPartOrganOrOrganComponent 342 345	CSF
+T50	BodyPartOrganOrOrganComponent 541 544	CSF
+T51	BodyPartOrganOrOrganComponent 846 849	CSF
+T52	BodyPartOrganOrOrganComponent 890 893	CSF
+T53	PathologicFunction 1097 1106	pathology
+T54	BiomedicalOccupationOrDiscipline 1097 1106	pathology
+T55	ClinicalAttribute 184 190	marker
+T56	Substance 335 340	fluid
+T57	PopulationGroup 228 240	participants
+T58	DiseaseOrSyndrome 269 289	cognitive impairment
+T59	DiseaseOrSyndrome 657 677	cognitive impairment
+T60	PopulationGroup 379 387	subjects
+T61	BiologicallyActiveSubstance 900 903	tau
+T62	BiologicallyActiveSubstance 922 931	p-tau-181
+T63	AminoAcidPeptideOrProtein 954 965	A beta 1-42
+T64	DiseaseOrSyndrome 264 289	mild cognitive impairment
+T65	DiseaseOrSyndrome 652 677	mild cognitive impairment
+T66	BiologicallyActiveSubstance 27 42	satiety hormone
+T67	Finding 208 224	neural integrity
+T68	ClinicalAttribute 347 357	CCK levels
+T69	HealthCareRelatedOrganization 397 440	Alzheimer's Disease Neuroimaging Initiative
+T70	ResearchActivity 452 472	voxelwise regression
+T71	ResearchActivity 442 448;462 472	Linear regression
+T72	ClinicalAttribute 564 582	cognitive outcomes
+T73	ClinicalAttribute 967 977	Tau levels
+T74	ClinicalAttribute 1044 1054	CCK levels
+T75	BiologicallyActiveSubstance 954 965	A beta 1-42
+T76	AminoAcidPeptideOrProtein 922 931	p-tau-181
+T77	ClinicalAttribute 727 745	gray matter volume
+T78	BiologicFunction 703 709	memory

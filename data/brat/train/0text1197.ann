@@ -1,0 +1,123 @@
+T0	CellOrMolecularDysfunction 92 108	Oxidative stress
+T1	BiologicFunction 113 135	inflammatory cytokines
+T2	CellFunction 305 323	gene polymorphisms
+T3	GeneOrGenome 394 400	FOXO3A
+T4	AminoAcidPeptideOrProtein 394 400	FOXO3A
+T5	BiologicallyActiveSubstance 402 407	SIRT3
+T6	AminoAcidPeptideOrProtein 402 407	SIRT3
+T7	GeneOrGenome 409 413	GLO1
+T8	GeneOrGenome 419 423	SOD2
+T9	AminoAcidPeptideOrProtein 461 471	IL-1 alpha
+T10	HealthCareActivity 516 545	mini-mental state examination
+T11	GeneOrGenome 881 887	allele
+T12	AminoAcidPeptideOrProtein 1020 1030	IL-1 alpha
+T13	CellFunction 1117 1130	polymorphisms
+T14	AminoAcidPeptideOrProtein 1138 1148	IL-1 alpha
+T15	GeneOrGenome 1153 1163	BDNF genes
+T16	ClinicalAttribute 1391 1405	susceptibility
+T17	DiseaseOrSyndrome 254 257	MCI
+T18	OrganismAttribute 718 728	homozygous
+T19	GeneOrGenome 1271 1284	gene variants
+T20	BodyPartOrganOrOrganComponent 580 585	Serum
+T21	PatientOrDisabledGroup 692 700	Patients
+T22	OrganismAttribute 1376 1382	gender
+T23	PathologicFunction 1305 1311	stress
+T24	AminoAcidPeptideOrProtein 461 465	IL-1
+T25	AminoAcidPeptideOrProtein 473 477	IL-1
+T26	AminoAcidPeptideOrProtein 891 901	IL-1 alpha
+T27	AminoAcidPeptideOrProtein 1020 1024	IL-1
+T28	AminoAcidPeptideOrProtein 1138 1142	IL-1
+T29	BiologicallyActiveSubstance 461 465	IL-1
+T30	BiologicallyActiveSubstance 473 477	IL-1
+T31	BiologicallyActiveSubstance 891 901	IL-1 alpha
+T32	BiologicallyActiveSubstance 1020 1024	IL-1
+T33	BiologicallyActiveSubstance 1138 1142	IL-1
+T34	AminoAcidPeptideOrProtein 473 482	IL-1 beta
+T35	BiologicallyActiveSubstance 473 482	IL-1 beta
+T36	PharmacologicSubstance 473 482	IL-1 beta
+T37	DiseaseOrSyndrome 66 85	Alzheimer's disease
+T38	DiseaseOrSyndrome 87 89	AD
+T39	DiseaseOrSyndrome 166 168	AD
+T40	DiseaseOrSyndrome 220 222	AD
+T41	DiseaseOrSyndrome 618 620	AD
+T42	DiseaseOrSyndrome 916 918	AD
+T43	DiseaseOrSyndrome 1113 1115	AD
+T44	DiseaseOrSyndrome 1409 1411	AD
+T45	PatientOrDisabledGroup 259 267	patients
+T46	PatientOrDisabledGroup 1235 1243	patients
+T47	ResearchActivity 183 188	study
+T48	PopulationGroup 789 797	controls
+T49	BodyPartOrganOrOrganComponent 211 216	serum
+T50	BodyPartOrganOrOrganComponent 1078 1083	serum
+T51	BodyPartOrganOrOrganComponent 1200 1205	serum
+T52	Finding 169 173	risk
+T53	CellOrMolecularDysfunction 362 378	oxidative stress
+T54	CellOrMolecularDysfunction 1295 1311	oxidative stress
+T55	Finding 227 231	mild
+T56	DiseaseOrSyndrome 232 252	cognitive impairment
+T57	AminoAcidPeptideOrProtein 35 39	BDNF
+T58	AminoAcidPeptideOrProtein 190 194	BDNF
+T59	AminoAcidPeptideOrProtein 327 331	BDNF
+T60	AminoAcidPeptideOrProtein 586 590	BDNF
+T61	AminoAcidPeptideOrProtein 770 774	BDNF
+T62	AminoAcidPeptideOrProtein 827 831	BDNF
+T63	AminoAcidPeptideOrProtein 1094 1098	BDNF
+T64	AminoAcidPeptideOrProtein 1153 1157	BDNF
+T65	AminoAcidPeptideOrProtein 1206 1210	BDNF
+T66	BiologicallyActiveSubstance 35 39	BDNF
+T67	BiologicallyActiveSubstance 190 194	BDNF
+T68	BiologicallyActiveSubstance 327 331	BDNF
+T69	BiologicallyActiveSubstance 586 590	BDNF
+T70	BiologicallyActiveSubstance 770 774	BDNF
+T71	BiologicallyActiveSubstance 827 831	BDNF
+T72	BiologicallyActiveSubstance 1094 1098	BDNF
+T73	BiologicallyActiveSubstance 1153 1157	BDNF
+T74	BiologicallyActiveSubstance 1206 1210	BDNF
+T75	GeneOrGenome 35 39	BDNF
+T76	GeneOrGenome 190 194	BDNF
+T77	GeneOrGenome 327 331	BDNF
+T78	GeneOrGenome 586 590	BDNF
+T79	GeneOrGenome 770 774	BDNF
+T80	GeneOrGenome 827 831	BDNF
+T81	GeneOrGenome 1094 1098	BDNF
+T82	GeneOrGenome 1153 1157	BDNF
+T83	GeneOrGenome 1206 1210	BDNF
+T84	OrganismAttribute 1043 1048	males
+T85	Finding 505 511	status
+T86	AminoAcidPeptideOrProtein 500 504	APOE
+T87	GeneOrGenome 500 504	APOE
+T88	OrganismAttribute 664 670	female
+T89	OrganismAttribute 980 986	female
+T90	OrganismAttribute 1228 1234	female
+T91	DiseaseOrSyndrome 227 252	mild cognitive impairment
+T92	AminoAcidPeptideOrProtein 126 135	cytokines
+T93	BiologicallyActiveSubstance 126 135	cytokines
+T94	AminoAcidPeptideOrProtein 0 33	Brain-derived neurotrophic factor
+T95	BiologicallyActiveSubstance 0 33	Brain-derived neurotrophic factor
+T96	Finding 1254 1261	effects
+T97	Finding 856 864	presence
+T98	GeneOrGenome 305 309	gene
+T99	CellOrMolecularDysfunction 874 880	mutant
+T100	AminoAcidPeptideOrProtein 409 413	GLO1
+T101	BiologicallyActiveSubstance 409 413	GLO1
+T102	AminoAcidPeptideOrProtein 419 423	SOD2
+T103	BiologicallyActiveSubstance 419 423	SOD2
+T104	AminoAcidPeptideOrProtein 333 341	Val66Met
+T105	NucleicAcidNucleosideOrNucleotide 346 351	C270T
+T106	AminoAcidPeptideOrProtein 488 493	IL-38
+T107	BiologicallyActiveSubstance 488 493	IL-38
+T108	BiologicallyActiveSubstance 500 504	APOE
+T109	HealthCareActivity 547 551	MMSE
+T110	Finding 47 62	protective role
+T111	BiologicallyActiveSubstance 394 400	FOXO3A
+T112	GeneOrGenome 402 407	SIRT3
+T113	GeneOrGenome 433 459	interleukin-1 family genes
+T114	BiologicallyActiveSubstance 461 471	IL-1 alpha
+T115	PharmacologicSubstance 461 471	IL-1 alpha
+T116	ClinicalAttribute 580 590	Serum BDNF
+T117	PharmacologicSubstance 1020 1030	IL-1 alpha
+T118	BiologicallyActiveSubstance 1020 1030	IL-1 alpha
+T119	PharmacologicSubstance 891 901	IL-1 alpha
+T120	ClinicalAttribute 1078 1098	serum levels of BDNF
+T121	BiologicallyActiveSubstance 1138 1148	IL-1 alpha
+T122	ClinicalAttribute 1200 1210	serum BDNF

@@ -1,0 +1,60 @@
+T0	DiseaseOrSyndrome 6 19	heart disease
+T1	DiseaseOrSyndrome 57 80	cerebrovascular disease
+T2	Chemical 201 217	hydrogen sulfide
+T3	BiologicallyActiveSubstance 227 245	signaling molecule
+T4	CellFunction 227 245	signaling molecule
+T5	DiseaseOrSyndrome 299 321	cardiovascular disease
+T6	Chemical 526 536	indicators
+T7	DiseaseOrSyndrome 540 561	microvascular disease
+T8	BiologicFunction 656 665	Cognition
+T9	DiseaseOrSyndrome 670 691	microvascular disease
+T10	Chemical 746 753	sulfide
+T11	Chemical 772 781	indicator
+T12	Chemical 893 902	indicator
+T13	DiseaseOrSyndrome 906 927	microvascular disease
+T14	Finding 46 55	mortality
+T15	PathologicFunction 959 971	dysregulated
+T16	DiseaseOrSyndrome 402 423	cognitive dysfunction
+T17	DiseaseOrSyndrome 836 857	cognitive dysfunction
+T18	Chemical 201 209	hydrogen
+T19	BiologicallyActiveSubstance 362 373	metabolites
+T20	BiologicallyActiveSubstance 494 505	metabolites
+T21	BiologicallyActiveSubstance 604 615	metabolites
+T22	BiologicFunction 268 279	homeostasis
+T23	ClinicalAttribute 997 1016	potential biomarker
+T24	BodyPartOrganOrOrganComponent 862 874	white matter
+T25	DiseaseOrSyndrome 133 152	Alzheimer's disease
+T26	BodyPartOrganOrOrganComponent 343 349	plasma
+T27	BodyPartOrganOrOrganComponent 483 489	plasma
+T28	BodyPartOrganOrOrganComponent 739 745	plasma
+T29	OrganismAttribute 101 104	age
+T30	ClinicalAttribute 286 295	biomarker
+T31	DiseaseOrSyndrome 975 983	dementia
+T32	PopulationGroup 646 654	controls
+T33	HealthCareActivity 510 513	MRI
+T34	BodyPartOrganOrOrganComponent 259 267	vascular
+T35	BodyPartOrganOrOrganComponent 389 397	vascular
+T36	HealthCareActivity 1021 1030	diagnosis
+T37	DiseaseOrSyndrome 133 174	Alzheimer's disease and related dementias
+T38	InjuryOrPoisoning 875 881	lesion
+T39	Finding 815 827	relationship
+T40	DiseaseOrSyndrome 176 180	ADRD
+T41	InjuryOrPoisoning 219 222	H2S
+T42	InjuryOrPoisoning 201 217	hydrogen sulfide
+T43	Chemical 350 353	H2S
+T44	InjuryOrPoisoning 350 353	H2S
+T45	Chemical 219 222	H2S
+T46	DiseaseOrSyndrome 427 431	ADRD
+T47	DiseaseOrSyndrome 565 569	ADRD
+T48	DiseaseOrSyndrome 785 789	ADRD
+T49	DiseaseOrSyndrome 634 638	ADRD
+T50	ClinicalAttribute 721 731	H2S levels
+T51	ResearchActivity 441 471	analytical biochemical methods
+T52	Chemical 490 493	H2S
+T53	InjuryOrPoisoning 490 493	H2S
+T54	ClinicalAttribute 483 493	plasma H2S
+T55	ClinicalAttribute 343 353	plasma H2S
+T56	ClinicalAttribute 862 888	white matter lesion volume
+T57	Finding 862 881	white matter lesion
+T58	Chemical 952 955	H2S
+T59	InjuryOrPoisoning 952 955	H2S

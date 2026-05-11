@@ -1,0 +1,63 @@
+T0	DiseaseOrSyndrome 196 234	relapsing-remitting multiple sclerosis
+T1	DiseaseOrSyndrome 236 240	RRMS
+T2	BodyPartOrganOrOrganComponent 332 348	choriocapillaris
+T3	DiseaseOrSyndrome 399 403	RRMS
+T4	HealthCareActivity 459 499	Optical Coherence Tomography Angiography
+T5	HealthCareActivity 501 506	OCT-A
+T6	Finding 537 544	history
+T7	DiseaseOrSyndrome 548 562	optic neuritis
+T8	DiseaseOrSyndrome 695 699	RRMS
+T9	DiseaseOrSyndrome 855 859	RRMS
+T10	DiseaseOrSyndrome 1082 1086	RRMS
+T11	HealthCareActivity 1295 1300	OCT-A
+T12	TemporalConcept 108 114	recent
+T13	TemporalConcept 115 120	onset
+T14	OrganismAttribute 428 435	healthy
+T15	DiseaseOrSyndrome 1343 1345	MS
+T16	Finding 1267 1276	reduction
+T17	NaturalPhenomenonOrProcess 1267 1276	reduction
+T18	PopulationGroup 813 821	controls
+T19	HealthCareActivity 601 617	disease duration
+T20	PatientOrDisabledGroup 94 102	patients
+T21	PatientOrDisabledGroup 242 250	patients
+T22	PatientOrDisabledGroup 404 412	patients
+T23	PatientOrDisabledGroup 621 629	patients
+T24	PatientOrDisabledGroup 661 669	patients
+T25	PatientOrDisabledGroup 731 739	patients
+T26	PatientOrDisabledGroup 860 868	patients
+T27	PatientOrDisabledGroup 1087 1095	patients
+T28	PatientOrDisabledGroup 1177 1185	patients
+T29	DiseaseOrSyndrome 124 142	multiple sclerosis
+T30	DiseaseOrSyndrome 216 234	multiple sclerosis
+T31	HealthCareActivity 23 45	retinal vessel density
+T32	HealthCareActivity 1252 1266	vessel density
+T33	TemporalConcept 196 205	relapsing
+T34	PathologicFunction 1387 1404	disease pathology
+T35	PopulationGroup 428 444	healthy controls
+T36	ClinicalAttribute 1374 1383	biomarker
+T37	BodyPartOrganOrOrganComponent 54 90	macular and in peripapillary regions
+T38	HealthCareActivity 273 275	VD
+T39	BodyPartOrganOrOrganComponent 279 307	superficial capillary plexus
+T40	BodyPartOrganOrOrganComponent 309 330	deep capillary plexus
+T41	BodyPartOrganOrOrganComponent 353 390	radial peripapillary capillary plexus
+T42	DiseaseOrSyndrome 394 397	IDE
+T43	PopulationGroup 446 449	HCs
+T44	DiseaseOrSyndrome 147 174	initial demyelinating event
+T45	DiseaseOrSyndrome 176 179	IDE
+T46	Finding 509 525	Clinical history
+T47	HealthCareActivity 564 596	Expanded Disability Status scale
+T48	DiseaseOrSyndrome 679 682	IDE
+T49	PopulationGroup 708 711	HCs
+T50	DiseaseOrSyndrome 727 730	IDE
+T51	HealthCareActivity 755 757	VD
+T52	BodyPartOrganOrOrganComponent 761 798	radial peripapillary capillary plexus
+T53	HealthCareActivity 887 889	VD
+T54	BodyPartOrganOrOrganComponent 898 926	superficial capillary plexus
+T55	BodyPartOrganOrOrganComponent 931 968	radial peripapillary capillary plexus
+T56	PopulationGroup 983 986	HCs
+T57	HealthCareActivity 1115 1117	VD
+T58	BodyPartOrganOrOrganComponent 1121 1158	radial peripapillary capillary plexus
+T59	DiseaseOrSyndrome 1173 1176	IDE
+T60	BodyPartOrganOrOrganComponent 1231 1251	Peripapillary region
+T61	HealthCareActivity 47 49	VD
+T62	TemporalConcept 609 617	duration

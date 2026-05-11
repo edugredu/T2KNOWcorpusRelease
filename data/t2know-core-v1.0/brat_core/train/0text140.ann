@@ -1,0 +1,35 @@
+T0	ResearchActivity 37 76	high-throughput sequencing technologies
+T1	CellFunction 143 169	gene expression regulation
+T2	ResearchActivity 143 169	gene expression regulation
+T3	ResearchActivity 171 178	Editing
+T4	CellFunction 171 178	Editing
+T5	GeneOrGenome 183 192	epigenome
+T6	MolecularSequence 197 213	epitranscriptome
+T7	NucleicAcidNucleosideOrNucleotide 238 248	transcript
+T8	NucleicAcidNucleosideOrNucleotide 292 296	mRNA
+T9	NucleicAcidNucleosideOrNucleotide 315 330	non-coding RNAs
+T10	BiologicallyActiveSubstance 315 330	non-coding RNAs
+T11	CellFunction 370 391	expression regulation
+T12	NucleicAcidNucleosideOrNucleotide 477 488	nucleotides
+T13	BiologicFunction 816 828	deregulation
+T14	CellOrMolecularDysfunction 816 828	deregulation
+T15	HealthCareActivity 896 906	evaluation
+T16	ResearchActivity 896 906	evaluation
+T17	DiseaseOrSyndrome 696 716	Huntington's disease
+T18	DiseaseOrSyndrome 641 660	Parkinson's disease
+T19	DiseaseOrSyndrome 583 610	neurodegenerative disorders
+T20	HealthCareActivity 944 965	therapeutic potential
+T21	DiseaseOrSyndrome 620 639	Alzheimer's disease
+T22	DiseaseOrSyndrome 662 691	amyotrophic lateral sclerosis
+T23	BodyPartOrganOrOrganComponent 770 792	central nervous system
+T24	HealthCareActivity 984 994	treatments
+T25	ResearchActivity 984 994	treatments
+T26	Finding 1033 1040	no cure
+T27	CellOrMolecularDysfunction 843 864	neuronal degeneration
+T28	NucleicAcidNucleosideOrNucleotide 873 876	RNA
+T29	NucleicAcidNucleosideOrNucleotide 428 447	Long-noncoding RNAs
+T30	BiologicallyActiveSubstance 428 447	Long-noncoding RNAs
+T31	CellFunction 516 537	epigenetic regulators
+T32	BiologicallyActiveSubstance 718 737	Long-noncoding RNAs
+T33	NucleicAcidNucleosideOrNucleotide 718 737	Long-noncoding RNAs
+T34	CellFunction 873 890	RNA modifications

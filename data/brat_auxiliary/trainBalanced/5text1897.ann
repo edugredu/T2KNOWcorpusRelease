@@ -1,0 +1,9 @@
+T0	BodyPartOrganOrOrganComponent 137 142	brain
+T1	DiseaseOrSyndrome 57 76	Alzheimer's disease
+T2	ResearchActivity 77 85	research
+T3	ResearchActivity 103 111	datasets
+T4	HealthCareActivity 143 150	imaging
+T5	ResearchActivity 125 133	patterns
+T6	MachineActivity 0 27	Machine learning algorithms
+T7	HealthCareActivity 151 156	scans
+T8	MachineActivity 0 16	Machine learning

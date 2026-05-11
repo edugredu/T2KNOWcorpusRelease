@@ -1,0 +1,5 @@
+T0	DiseaseOrSyndrome 128 155	neurodegenerative disorders
+T1	ClinicalAttribute 13 23	biomarkers
+T2	PopulationGroup 92 103	individuals
+T3	MachineActivity 43 46	ASR
+T4	BiologicFunction 0 6	Speech

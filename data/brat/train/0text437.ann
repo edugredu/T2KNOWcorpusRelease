@@ -1,0 +1,40 @@
+T0	AminoAcidPeptideOrProtein 0 13	Neurotrophins
+T1	BiologicallyActiveSubstance 0 13	Neurotrophins
+T2	AminoAcidPeptideOrProtein 23 56	brain-derived neurotrophic factor
+T3	BiologicallyActiveSubstance 23 56	brain-derived neurotrophic factor
+T4	AminoAcidPeptideOrProtein 58 62	BDNF
+T5	BiologicallyActiveSubstance 58 62	BDNF
+T6	CellFunction 83 100	neuronal survival
+T7	BiologicFunction 105 111	growth
+T8	CellFunction 117 135	signaling cascades
+T9	AminoAcidPeptideOrProtein 149 153	BDNF
+T10	BiologicallyActiveSubstance 149 153	BDNF
+T11	BiologicallyActiveSubstance 162 170	receptor
+T12	BiologicFunction 248 267	learning and memory
+T13	Finding 279 286	Changes
+T14	AminoAcidPeptideOrProtein 290 294	BDNF
+T15	BiologicallyActiveSubstance 290 294	BDNF
+T16	CellFunction 306 324	signaling pathways
+T17	DiseaseOrSyndrome 395 414	Alzheimer's disease
+T18	DiseaseOrSyndrome 416 435	Parkinson's disease
+T19	SignOrSymptom 493 501	symptoms
+T20	TemporalConcept 506 512	course
+T21	AminoAcidPeptideOrProtein 596 600	BDNF
+T22	BiologicallyActiveSubstance 596 600	BDNF
+T23	AminoAcidPeptideOrProtein 716 720	BDNF
+T24	BiologicallyActiveSubstance 716 720	BDNF
+T25	TemporalConcept 559 566	current
+T26	DiseaseOrSyndrome 441 461	Huntington's disease
+T27	DiseaseOrSyndrome 357 383	neurodegenerative diseases
+T28	DiseaseOrSyndrome 612 638	neurodegenerative diseases
+T29	DiseaseOrSyndrome 810 836	neurodegenerative diseases
+T30	ResearchActivity 537 543	review
+T31	HealthCareActivity 537 543	review
+T32	CellFunction 197 216	synaptic plasticity
+T33	BiologicFunction 197 216	synaptic plasticity
+T34	HealthCareActivity 721 730	treatment
+T35	HealthCareActivity 797 806	treatment
+T36	ResearchActivity 721 730	treatment
+T37	ResearchActivity 797 806	treatment
+T38	BiologicFunction 757 761	hope
+T39	CellFunction 666 685	molecular mechanism

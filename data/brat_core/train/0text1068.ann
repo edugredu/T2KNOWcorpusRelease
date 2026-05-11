@@ -1,0 +1,42 @@
+T0	Finding 47 56	mediators
+T1	BiomedicalOccupationOrDiscipline 196 207	oncological
+T2	SignOrSymptom 196 207	oncological
+T3	DiseaseOrSyndrome 227 246	infectious diseases
+T4	CellFunction 343 352	transport
+T5	ManufacturedObject 343 352	transport
+T6	ResearchActivity 417 427	enrichment
+T8	Chemical 446 455	ceramides
+T10	AminoAcidPeptideOrProtein 469 495	neutral sphingomyelinase 2
+T11	BiologicallyActiveSubstance 469 495	neutral sphingomyelinase 2
+T12	GeneOrGenome 497 504	nSMase2
+T13	AminoAcidPeptideOrProtein 497 504	nSMase2
+T14	BiologicallyActiveSubstance 497 504	nSMase2
+T15	BiologicFunction 507 517	Inhibition
+T16	CellFunction 507 517	Inhibition
+T17	GeneOrGenome 521 528	nSMase2
+T18	AminoAcidPeptideOrProtein 521 528	nSMase2
+T19	BiologicallyActiveSubstance 521 528	nSMase2
+T20	CellComponent 0 22	Extracellular vesicles
+T21	BiologicFunction 579 589	inhibiting
+T23	CellFunction 60 87	intercellular communication
+T28	CellFunction 593 603	biogenesis
+T29	HealthCareActivity 907 919	therapeutics
+T32	HealthCareActivity 554 574	therapeutic strategy
+T33	ResearchActivity 741 747	review
+T34	HealthCareActivity 741 747	review
+T35	CellFunction 262 269	pathway
+T36	CellFunction 391 398	pathway
+T37	ResearchActivity 815 824	discovery
+T38	CellComponent 24 27	EVs
+T39	CellComponent 285 288	EVs
+T40	CellComponent 773 776	EVs
+T41	CellComponent 590 592	EV
+T42	CellFunction 156 161	cargo
+T43	ResearchActivity 728 734	models
+T22	CellComponent 431 445	lipid membrane
+T9	CellComponent 302 329;361 370	endosomal sorting complexes machinery
+T24	CellComponent 354 359	ESCRT
+T7	Finding 829 837	efficacy
+T25	AminoAcidPeptideOrProtein 841 848	nSMase2
+T26	BiologicallyActiveSubstance 841 848	nSMase2
+T27	BiologicallyActiveSubstance 849 859	inhibitors

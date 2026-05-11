@@ -1,0 +1,5 @@
+T0	DiseaseOrSyndrome 107 133	neurodegenerative diseases
+T1	AnatomicalAbnormality 27 42	amyloid plaques
+T2	HealthCareActivity 138 145	testing
+T3	HealthCareActivity 156 181	therapeutic interventions
+T4	ResearchActivity 0 13	Animal models

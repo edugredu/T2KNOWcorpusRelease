@@ -1,0 +1,7 @@
+T0	HealthCareActivity 110 122	gene therapy
+T1	DiseaseOrSyndrome 84 109	neurodegenerative disease
+T2	BiologicFunction 4 19	immune response
+T3	NucleicAcidNucleosideOrNucleotide 34 41	vectors
+T4	Finding 72 80	efficacy
+T5	TemporalConcept 62 71	long-term
+T6	Virus 23 33	Adenovirus

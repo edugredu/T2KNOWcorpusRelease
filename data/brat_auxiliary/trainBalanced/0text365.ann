@@ -1,0 +1,52 @@
+T0	CellFunction 0 31	Posttranslational modifications
+T1	CellFunction 241 254	cell division
+T2	CellFunction 256 273	DNA damage repair
+T3	CellFunction 275 300	mitochondrial homeostasis
+T4	BiologicFunction 306 322	stress responses
+T5	CellFunction 306 322	stress responses
+T6	Finding 447 451	risk
+T7	Cell 713 717	cell
+T8	BiologicFunction 847 861	ageing process
+T9	Finding 1025 1035	connection
+T10	Finding 1105 1117	significance
+T11	CellFunction 1130 1134	SUMO
+T12	CellFunction 1173 1177	SUMO
+T13	AminoAcidPeptideOrProtein 1178 1185	isoform
+T14	CellFunction 945 962	neuronal function
+T15	TemporalConcept 324 332	Recently
+T16	Cell 945 953	neuronal
+T17	TemporalConcept 393 408	life expectancy
+T18	BiologicFunction 353 362	attention
+T19	TemporalConcept 996 1002	latest
+T20	ResearchActivity 574 580	burden
+T21	ResearchActivity 366 380	drug discovery
+T22	ResearchActivity 773 787	drug discovery
+T23	Finding 724 730	normal
+T24	CellFunction 61 79	cellular processes
+T25	HealthCareActivity 822 829	reports
+T26	ResearchActivity 822 829	reports
+T27	CellFunction 104 115	SUMOylation
+T28	CellFunction 885 896	SUMOylation
+T29	CellFunction 909 920	SUMOylation
+T30	CellFunction 1044 1055	SUMOylation
+T31	ResearchActivity 972 978	review
+T32	HealthCareActivity 972 978	review
+T33	DiseaseOrSyndrome 1060 1086	neurodegenerative diseases
+T34	OrganismAttribute 467 470	age
+T35	OrganismAttribute 627 630	age
+T36	AminoAcidPeptideOrProtein 1142 1150	proteins
+T37	ResearchActivity 371 380	discovery
+T38	ResearchActivity 778 787	discovery
+T39	Finding 1186 1197	specificity
+T40	PopulationGroup 428 439	individuals
+T41	HealthCareActivity 612 622	treatments
+T42	ResearchActivity 612 622	treatments
+T43	TemporalConcept 393 397	life
+T44	TemporalConcept 523 527	life
+T45	PharmacologicSubstance 366 370	drug
+T46	PharmacologicSubstance 773 777	drug
+T47	Finding 85 100	regulatory role
+T48	AminoAcidPeptideOrProtein 175 189	target protein
+T49	AminoAcidPeptideOrProtein 137 169	small ubiquitin-related modifier
+T50	BiologicallyActiveSubstance 137 169	small ubiquitin-related modifier
+T51	PopulationGroup 584 591	society

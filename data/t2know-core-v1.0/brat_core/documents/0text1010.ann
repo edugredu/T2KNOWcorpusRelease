@@ -1,0 +1,89 @@
+T0	Cell 218 240	Mesenchymal stem cells
+T1	Cell 242 246	MSCs
+T2	Cell 252 277	multipotent stromal cells
+T3	CellComponent 438 460	extracellular vesicles
+T4	CellComponent 462 465	EVs
+T5	Cell 480 484	MSCs
+T6	Organism 610 614	host
+T7	Cell 621 625	MSCs
+T8	CellComponent 685 688	EVs
+T9	Cell 716 720	MSCs
+T10	CellComponent 776 785	small EVs
+T11	CellComponent 847 856	small EVs
+T12	PopulationGroup 903 911	familial
+T13	TemporalConcept 972 978	4 days
+T14	AminoAcidPeptideOrProtein 1206 1237	glial fibrillary acidic protein
+T15	BiologicallyActiveSubstance 1206 1237	glial fibrillary acidic protein
+T16	GeneOrGenome 1206 1237	glial fibrillary acidic protein
+T17	AminoAcidPeptideOrProtein 1239 1243	GFAP
+T18	BiologicallyActiveSubstance 1239 1243	GFAP
+T19	GeneOrGenome 1239 1243	GFAP
+T20	PharmacologicSubstance 1381 1387	saline
+T21	BodyPartOrganOrOrganComponent 1533 1544	hippocampus
+T22	BiologicFunction 1583 1597	colocalization
+T23	AminoAcidPeptideOrProtein 1606 1610	GFAP
+T24	BiologicallyActiveSubstance 1606 1610	GFAP
+T25	GeneOrGenome 1606 1610	GFAP
+T26	AnatomicalAbnormality 1615 1629	A beta plaques
+T27	PharmacologicSubstance 1684 1690	saline
+T28	CellComponent 1778 1781	EVs
+T29	ResearchActivity 735 770	three-dimensional (3D) cell culture
+T30	BodyPartOrganOrOrganComponent 1647 1652	brain
+T31	ResearchActivity 1266 1270	data
+T32	ResearchActivity 1727 1731	data
+T33	DiseaseOrSyndrome 21 23	AD
+T34	DiseaseOrSyndrome 214 216	AD
+T35	DiseaseOrSyndrome 1796 1798	AD
+T36	HealthCareActivity 321 342	therapeutic potential
+T37	HealthCareActivity 178 187	treatment
+T38	HealthCareActivity 1318 1327	treatment
+T39	ResearchActivity 178 187	treatment
+T40	ResearchActivity 1318 1327	treatment
+T41	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T42	Eukaryote 997 1001	mice
+T43	ExperimentalModelOfDisease 1454 1464	5XFAD mice
+T44	ManufacturedObject 1469 1476	NT mice
+T45	Eukaryote 1563 1567	mice
+T46	Eukaryote 1667 1671	mice
+T47	DiseaseOrSyndrome 44 70	neurodegenerative disorder
+T48	Eukaryote 615 620	human
+T49	Eukaryote 690 695	human
+T50	ResearchActivity 140 154	disease burden
+T51	PathologicFunction 1799 1811	pathogenesis
+T52	CellFunction 932 941	mutations
+T53	CellOrMolecularDysfunction 932 941	mutations
+T54	DiseaseOrSyndrome 199 208	suffering
+T55	TemporalConcept 428 436	Recently
+T56	BiologicFunction 1085 1104	learning and memory
+T57	PopulationGroup 105 111	people
+T58	PopulationGroup 192 198	people
+T59	HealthCareActivity 508 529	therapeutic candidate
+T60	HealthCareActivity 1360 1375	cognitive tests
+T61	Cell 681 684	MSC
+T62	Cell 1766 1769	MSC
+T63	Cell 615 625	human MSCs
+T64	TemporalConcept 983 991	4 months
+T65	ResearchActivity 1118 1138	immunohistochemistry
+T66	ResearchActivity 1045 1062	behavioral assays
+T67	AminoAcidPeptideOrProtein 1194 1200	A beta
+T68	AnatomicalAbnormality 1507 1520	A beta plaque
+T69	HealthCareActivity 353 376	administration of cells
+T70	Finding 555 602	immunoprotective and immunomodulatory abilities
+T71	Finding 658 677	therapeutic effects
+T72	BodyPartOrganOrOrganComponent 696 707	bone-marrow
+T73	ResearchActivity 807 839	differential ultracentrifugation
+T74	DiseaseOrSyndrome 901 931	5 familial Alzheimer's disease
+T75	ResearchActivity 1156 1168	brain slices
+T76	AminoAcidPeptideOrProtein 1180 1192	amyloid beta
+T77	ExperimentalModelOfDisease 1285 1295	5XFAD mice
+T78	Cell 1310 1314	hMSC
+T79	CellComponent 1315 1317	EV
+T80	ResearchActivity 1360 1375	cognitive tests
+T81	ExperimentalModelOfDisease 1396 1406	5XFAD mice
+T82	CellComponent 1443 1445	EV
+T83	CellComponent 1552 1554	EV
+T84	CellComponent 1656 1658	EV
+T85	HealthCareActivity 1745 1762	IN administration
+T86	Finding 1413 1434	no significant change
+T87	Finding 1501 1525	lower A beta plaque load
+T88	ExperimentalModelOfDisease 894 899;943 947	5XFAD mice

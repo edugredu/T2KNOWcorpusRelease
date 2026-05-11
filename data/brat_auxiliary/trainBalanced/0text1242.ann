@@ -1,0 +1,118 @@
+T0	CellFunction 550 622	miR-202-3p/beta-catenin/glioma-associated oncogene homolog 1 (Gli1) axis
+T1	NucleicAcidNucleosideOrNucleotide 757 774	bromodeoxyuridine
+T2	AminoAcidPeptideOrProtein 1043 1055	beta-catenin
+T3	BiologicallyActiveSubstance 1043 1055	beta-catenin
+T4	PharmacologicSubstance 1121 1127	IL-1Ra
+T5	AminoAcidPeptideOrProtein 1148 1160	beta-catenin
+T6	BiologicallyActiveSubstance 1148 1160	beta-catenin
+T7	NucleicAcidNucleosideOrNucleotide 1184 1189	siRNA
+T8	PharmacologicSubstance 1184 1189	siRNA
+T9	ResearchActivity 1211 1223	transfection
+T10	PathologicFunction 1258 1269	suppression
+T11	BiologicFunction 1258 1269	suppression
+T12	NaturalPhenomenonOrProcess 1258 1269	suppression
+T13	ResearchActivity 1368 1380	Transfection
+T14	AminoAcidPeptideOrProtein 1430 1442	beta-catenin
+T15	BiologicallyActiveSubstance 1430 1442	beta-catenin
+T16	CellFunction 1650 1684	miR-202-3p/ beta-catenin/Gli1 axis
+T17	Chemical 1171 1177	XAV939
+T18	Chemical 1327 1333	XAV939
+T19	PharmacologicSubstance 1171 1177	XAV939
+T20	PharmacologicSubstance 1327 1333	XAV939
+T21	ExperimentalModelOfDisease 128 169	experimental autoimmune encephalomyelitis
+T22	AminoAcidPeptideOrProtein 315 324	IL-1 beta
+T23	AminoAcidPeptideOrProtein 428 437	IL-1 beta
+T24	AminoAcidPeptideOrProtein 645 654	IL-1 beta
+T25	AminoAcidPeptideOrProtein 945 954	IL-1 beta
+T26	AminoAcidPeptideOrProtein 1100 1109	IL-1 beta
+T27	AminoAcidPeptideOrProtein 1240 1249	IL-1 beta
+T28	AminoAcidPeptideOrProtein 1507 1516	IL-1 beta
+T29	BiologicallyActiveSubstance 315 324	IL-1 beta
+T30	BiologicallyActiveSubstance 428 437	IL-1 beta
+T31	BiologicallyActiveSubstance 645 654	IL-1 beta
+T32	BiologicallyActiveSubstance 945 954	IL-1 beta
+T33	BiologicallyActiveSubstance 1100 1109	IL-1 beta
+T34	BiologicallyActiveSubstance 1240 1249	IL-1 beta
+T35	BiologicallyActiveSubstance 1507 1516	IL-1 beta
+T36	PharmacologicSubstance 315 324	IL-1 beta
+T37	PharmacologicSubstance 428 437	IL-1 beta
+T38	PharmacologicSubstance 945 954	IL-1 beta
+T39	PharmacologicSubstance 1100 1109	IL-1 beta
+T40	PharmacologicSubstance 1240 1249	IL-1 beta
+T41	PharmacologicSubstance 1507 1516	IL-1 beta
+T42	AminoAcidPeptideOrProtein 877 915	oligodendrocyte transcription factor 2
+T43	BiologicallyActiveSubstance 877 915	oligodendrocyte transcription factor 2
+T44	BiologicallyActiveSubstance 1110 1119	inhibitor
+T45	BiologicallyActiveSubstance 1161 1170	inhibitor
+T46	PharmacologicSubstance 1110 1119	inhibitor
+T47	PharmacologicSubstance 1161 1170	inhibitor
+T48	Chemical 1110 1119	inhibitor
+T49	Chemical 1161 1170	inhibitor
+T50	Finding 745 753	decrease
+T51	Cell 521 525	OPCs
+T52	Cell 721 725	OPCs
+T53	Cell 1569 1573	OPCs
+T54	Cell 1273 1276	OPC
+T55	DiseaseOrSyndrome 73 95	demyelinating diseases
+T56	Cell 488 519	oligodendrocyte precursor cells
+T57	DiseaseOrSyndrome 105 123	multiple sclerosis
+T58	DiseaseOrSyndrome 1728 1746	multiple sclerosis
+T59	CellFunction 469 484	differentiation
+T60	CellFunction 702 717	differentiation
+T61	CellFunction 1295 1310	differentiation
+T62	CellFunction 1550 1565	differentiation
+T63	CellFunction 451 464	proliferation
+T64	CellFunction 684 697	proliferation
+T65	CellFunction 1277 1290	proliferation
+T66	CellFunction 1532 1545	proliferation
+T67	AminoAcidPeptideOrProtein 815 835	myelin basic protein
+T68	BiologicallyActiveSubstance 815 835	myelin basic protein
+T69	CellFunction 1021 1039	protein expression
+T70	HealthCareActivity 1129 1138	Treatment
+T71	HealthCareActivity 1312 1321	Treatment
+T72	ResearchActivity 1129 1138	Treatment
+T73	ResearchActivity 1312 1321	Treatment
+T74	PathologicFunction 4 16	inflammatory
+T75	DiseaseOrSyndrome 212 231	Alzheimer's disease
+T76	ResearchActivity 386 391	study
+T77	ResearchActivity 1500 1505	study
+T78	BodyPartOrganOrOrganComponent 175 180	brain
+T79	Cell 845 850	cells
+T80	Cell 925 930	cells
+T81	CellFunction 978 988	expression
+T82	CellFunction 1348 1358	expression
+T83	CellFunction 1416 1426	expression
+T84	Finding 964 973	decreased
+T85	Finding 1334 1343	decreased
+T86	Cell 246 254	cellular
+T87	CellFunction 328 339	myelination
+T88	CellFunction 259 279	molecular mechanisms
+T89	Finding 304 311	effects
+T90	DiseaseOrSyndrome 181 202	degenerative diseases
+T91	AminoAcidPeptideOrProtein 17 49	cytokine interleukin (IL)-1 beta
+T92	BiologicallyActiveSubstance 17 49	cytokine interleukin (IL)-1 beta
+T93	Finding 1706 1724	therapeutic target
+T94	AminoAcidPeptideOrProtein 574 610	glioma-associated oncogene homolog 1
+T95	BiologicallyActiveSubstance 574 610	glioma-associated oncogene homolog 1
+T96	AminoAcidPeptideOrProtein 612 616	Gli1
+T97	BiologicallyActiveSubstance 612 616	Gli1
+T98	BiologicallyActiveSubstance 550 560	miR-202-3p
+T99	NucleicAcidNucleosideOrNucleotide 550 560	miR-202-3p
+T100	AminoAcidPeptideOrProtein 561 573	beta-catenin
+T101	BiologicallyActiveSubstance 561 573	beta-catenin
+T102	InjuryOrPoisoning 295 303	damaging
+T103	BiologicallyActiveSubstance 992 1002	miR-202-3p
+T104	NucleicAcidNucleosideOrNucleotide 992 1002	miR-202-3p
+T105	BiologicallyActiveSubstance 1060 1064	Gli1
+T106	AminoAcidPeptideOrProtein 1060 1064	Gli1
+T107	AminoAcidPeptideOrProtein 1179 1183	Gli1
+T108	BiologicallyActiveSubstance 1179 1183	Gli1
+T109	BiologicallyActiveSubstance 1194 1204	miR-202-3p
+T110	NucleicAcidNucleosideOrNucleotide 1194 1204	miR-202-3p
+T111	AminoAcidPeptideOrProtein 1362 1366	Gli1
+T112	BiologicallyActiveSubstance 1362 1366	Gli1
+T113	BiologicallyActiveSubstance 1384 1394	miR-202-3p
+T114	NucleicAcidNucleosideOrNucleotide 1384 1394	miR-202-3p
+T115	BiologicallyActiveSubstance 1447 1451	Gli1
+T116	AminoAcidPeptideOrProtein 1447 1451	Gli1
+T117	CellFunction 1600 1633	miR-202-3p/beta-catenin/Gli1 axis

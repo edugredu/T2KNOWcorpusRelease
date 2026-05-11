@@ -1,0 +1,69 @@
+T0	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T1	BiologicFunction 129 147	mental functioning
+T2	BodyPartOrganOrOrganComponent 166 191	peripheral nervous system
+T3	HealthCareActivity 197 207	prevention
+T4	BiomedicalOccupationOrDiscipline 262 275	public health
+T5	HealthCareActivity 262 275	public health
+T6	BiologicFunction 344 367	physiological functions
+T7	BiologicFunction 392 420	regulating circadian rhythms
+T8	BiologicFunction 403 420	circadian rhythms
+T9	Chemical 431 444	free radicals
+T10	CellFunction 485 514	suppressing neuroinflammation
+T11	Finding 516 535	Cumulative evidence
+T12	BiologicFunction 606 646	regulating pathophysiological mechanisms
+T13	PathologicFunction 617 635	pathophysiological
+T14	CellFunction 651 669	signaling pathways
+T15	ResearchActivity 681 697	melatonin levels
+T16	Finding 702 711	decreased
+T17	Finding 794 803	knowledge
+T18	BiologicFunction 848 868	biological functions
+T19	DiseaseOrSyndrome 920 939	Alzheimer's disease
+T20	DiseaseOrSyndrome 941 960	Parkinson's disease
+T21	DiseaseOrSyndrome 984 1013	amyotrophic lateral sclerosis
+T22	DiseaseOrSyndrome 1015 1032	vascular dementia
+T23	DiseaseOrSyndrome 1037 1055	multiple sclerosis
+T24	HealthCareActivity 1252 1271	therapeutic options
+T25	CellFunction 457 479	biomolecular oxidation
+T26	BiologicallyActiveSubstance 316 330	pineal hormone
+T27	CellFunction 422 444	clearing free radicals
+T28	CellFunction 446 479	inhibiting biomolecular oxidation
+T29	CellFunction 581 602	neuroprotective roles
+T30	BiologicFunction 1203 1226	regulation of melatonin
+T31	CellFunction 823 843	molecular mechanisms
+T32	BodyPartOrganOrOrganComponent 375 380	brain
+T33	BodyPartOrganOrOrganComponent 1234 1239	brain
+T34	TemporalConcept 786 793	current
+T35	BiologicFunction 63 68	death
+T36	PathologicFunction 63 68	death
+T37	DiseaseOrSyndrome 962 982	Huntington's disease
+T38	BiologicallyActiveSubstance 551 560	melatonin
+T39	BiologicallyActiveSubstance 681 690	melatonin
+T40	BiologicallyActiveSubstance 872 881	melatonin
+T41	BiologicallyActiveSubstance 1101 1110	melatonin
+T42	BiologicallyActiveSubstance 1217 1226	melatonin
+T43	PharmacologicSubstance 551 560	melatonin
+T44	PharmacologicSubstance 681 690	melatonin
+T45	PharmacologicSubstance 872 881	melatonin
+T46	PharmacologicSubstance 1101 1110	melatonin
+T47	PharmacologicSubstance 1217 1226	melatonin
+T48	Chemical 303 312	Melatonin
+T49	BiologicallyActiveSubstance 303 312	Melatonin
+T50	PharmacologicSubstance 303 312	Melatonin
+T51	DiseaseOrSyndrome 211 238	neurodegenerative disorders
+T52	DiseaseOrSyndrome 1114 1141	neurodegenerative disorders
+T53	DiseaseOrSyndrome 729 755	neurodegenerative diseases
+T54	DiseaseOrSyndrome 885 911	neurodegenerative diseases
+T55	DiseaseOrSyndrome 1301 1327	neurodegenerative diseases
+T56	PathologicFunction 497 514	neuroinflammation
+T57	PatientOrDisabledGroup 715 723	patients
+T58	ClinicalAttribute 90 125	progressive impairments in movement
+T59	ResearchActivity 765 771	review
+T60	HealthCareActivity 765 771	review
+T61	HealthCareActivity 1280 1289	treatment
+T62	ResearchActivity 1280 1289	treatment
+T63	HealthCareActivity 1077 1097	clinical application
+T64	Chemical 551 560	melatonin
+T65	Chemical 681 690	melatonin
+T66	Chemical 872 881	melatonin
+T67	Chemical 1101 1110	melatonin
+T68	Chemical 1217 1226	melatonin

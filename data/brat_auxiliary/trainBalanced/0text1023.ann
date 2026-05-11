@@ -1,0 +1,55 @@
+T0	GeneOrGenome 42 82	apolipoprotein E (APOE) epsilon 4 allele
+T1	AminoAcidPeptideOrProtein 188 202	APOE epsilon 4
+T2	AminoAcidPeptideOrProtein 219 234	apolipoproteins
+T3	CellFunction 240 262	antioxidant activities
+T4	AminoAcidPeptideOrProtein 441 458	Apolipoproteins E
+T5	BiologicallyActiveSubstance 441 458	Apolipoproteins E
+T6	AminoAcidPeptideOrProtein 441 456;467 468	Apolipoproteins D
+T7	ResearchActivity 543 557	immunoblotting
+T8	ResearchActivity 592 610	spectrofluorimetry
+T9	AminoAcidPeptideOrProtein 651 667	apolipoprotein D
+T10	BiologicallyActiveSubstance 651 667	apolipoprotein D
+T11	AminoAcidPeptideOrProtein 790 804	APOE epsilon 4
+T12	AminoAcidPeptideOrProtein 953 967	APOE epsilon 4
+T13	ClinicalAttribute 721 742	cognitive performance
+T14	CellFunction 931 936	redox
+T15	CellFunction 473 493	antioxidant response
+T16	PharmacologicSubstance 626 637	antioxidant
+T17	CellFunction 473 484	antioxidant
+T18	CellFunction 626 637	antioxidant
+T19	PopulationGroup 819 827	controls
+T20	ResearchActivity 743 755	correlations
+T21	PatientOrDisabledGroup 353 405	cognitively impaired-not demented (CIND) individuals
+T22	PathologicFunction 849 860	progression
+T23	TemporalConcept 849 860	progression
+T24	CellComponent 295 329	circulating extracellular vesicles
+T25	DiseaseOrSyndrome 126 145	Alzheimer's disease
+T26	DiseaseOrSyndrome 147 149	AD
+T27	DiseaseOrSyndrome 419 421	AD
+T28	DiseaseOrSyndrome 428 430	AD
+T29	DiseaseOrSyndrome 864 866	AD
+T30	DiseaseOrSyndrome 972 974	AD
+T31	DiseaseOrSyndrome 1032 1040	early AD
+T32	ClinicalAttribute 274 291	oxidative markers
+T33	ClinicalAttribute 494 501	markers
+T34	ClinicalAttribute 1004 1028	cEVs oxidative signature
+T35	ResearchActivity 697 716	regression analysis
+T36	TemporalConcept 975 980	onset
+T37	CellOrMolecularDysfunction 87 103	oxidative stress
+T38	BodyPartOrganOrOrganComponent 341 347	plasma
+T39	BodyPartOrganOrOrganComponent 530 536	plasma
+T40	HealthCareActivity 1041 1050	diagnosis
+T41	ResearchActivity 612 619	Results
+T42	Finding 805 813	carriers
+T43	TemporalConcept 869 874	years
+T44	Finding 151 155	risk
+T45	BiologicallyActiveSubstance 188 202	APOE epsilon 4
+T46	CellComponent 331 335	cEVs
+T47	AminoAcidPeptideOrProtein 441 456;460 461	Apolipoproteins J
+T48	CellComponent 521 525	cEVs
+T49	ResearchActivity 559 586	electrochemical examination
+T50	CellComponent 678 682	cEVs
+T51	DiseaseOrSyndrome 785 789	CIND
+T52	TemporalConcept 875 880	later
+T53	PathologicFunction 918 944	pathological redox linkage
+T54	Finding 638 646	capacity

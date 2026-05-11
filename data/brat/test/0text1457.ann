@@ -1,0 +1,96 @@
+T0	HealthCareActivity 415 428	brain imaging
+T1	ResearchActivity 728 756	Structural equation modeling
+T2	Cell 0 10	Astrocytes
+T3	PathologicFunction 1121 1142	reactive astrogliosis
+T4	AminoAcidPeptideOrProtein 165 196	glial fibrillary acidic protein
+T5	BiologicallyActiveSubstance 165 196	glial fibrillary acidic protein
+T6	AminoAcidPeptideOrProtein 198 202	GFAP
+T7	AminoAcidPeptideOrProtein 496 500	GFAP
+T8	AminoAcidPeptideOrProtein 550 554	GFAP
+T9	AminoAcidPeptideOrProtein 775 779	GFAP
+T10	BiologicallyActiveSubstance 198 202	GFAP
+T11	BiologicallyActiveSubstance 496 500	GFAP
+T12	BiologicallyActiveSubstance 550 554	GFAP
+T13	BiologicallyActiveSubstance 775 779	GFAP
+T14	GeneOrGenome 198 202	GFAP
+T15	GeneOrGenome 496 500	GFAP
+T16	GeneOrGenome 550 554	GFAP
+T17	GeneOrGenome 775 779	GFAP
+T18	CellFunction 30 39	molecular
+T19	Cell 970 979	astrocyte
+T20	AminoAcidPeptideOrProtein 208 234	chitinase-3-like protein 1
+T21	BiologicallyActiveSubstance 208 234	chitinase-3-like protein 1
+T22	AminoAcidPeptideOrProtein 236 242	YKL-40
+T23	AminoAcidPeptideOrProtein 505 511	YKL-40
+T24	AminoAcidPeptideOrProtein 649 655	YKL-40
+T25	AminoAcidPeptideOrProtein 784 790	YKL-40
+T26	BiologicallyActiveSubstance 236 242	YKL-40
+T27	BiologicallyActiveSubstance 505 511	YKL-40
+T28	BiologicallyActiveSubstance 649 655	YKL-40
+T29	BiologicallyActiveSubstance 784 790	YKL-40
+T30	BiologicFunction 344 349	aging
+T31	CellFunction 344 349	aging
+T32	Finding 1143 1156	heterogeneity
+T33	AminoAcidPeptideOrProtein 288 291	tau
+T34	AminoAcidPeptideOrProtein 460 463	tau
+T35	AminoAcidPeptideOrProtein 611 614	tau
+T36	AminoAcidPeptideOrProtein 693 696	tau
+T37	AminoAcidPeptideOrProtein 825 828	tau
+T38	AminoAcidPeptideOrProtein 1033 1036	tau
+T39	DiseaseOrSyndrome 67 86	Alzheimer's disease
+T40	BodyPartOrganOrOrganComponent 160 163	CSF
+T41	BodyPartOrganOrOrganComponent 492 495	CSF
+T42	BodyPartOrganOrOrganComponent 546 549	CSF
+T43	BodyPartOrganOrOrganComponent 645 648	CSF
+T44	BodyPartOrganOrOrganComponent 771 774	CSF
+T45	BiologicallyActiveSubstance 288 291	tau
+T46	BiologicallyActiveSubstance 460 463	tau
+T47	BiologicallyActiveSubstance 611 614	tau
+T48	BiologicallyActiveSubstance 693 696	tau
+T49	BiologicallyActiveSubstance 825 828	tau
+T50	BiologicallyActiveSubstance 1033 1036	tau
+T51	DiseaseOrSyndrome 88 90	AD
+T52	DiseaseOrSyndrome 354 356	AD
+T53	DiseaseOrSyndrome 1161 1163	AD
+T54	ClinicalAttribute 980 989	biomarker
+T55	BodyPartOrganOrOrganComponent 139 158	cerebrospinal fluid
+T56	PatientOrDisabledGroup 92 100	patients
+T57	BodyPartOrganOrOrganComponent 58 63	brain
+T58	BodyPartOrganOrOrganComponent 256 261	brain
+T59	BodyPartOrganOrOrganComponent 1016 1021	brain
+T60	PopulationGroup 321 332	individuals
+T61	OrganismAttribute 40 50	phenotypes
+T62	AminoAcidPeptideOrProtein 262 269	amyloid
+T63	BiologicallyActiveSubstance 262 269	amyloid
+T64	DiseaseOrSyndrome 902 922	cognitive impairment
+T65	AminoAcidPeptideOrProtein 262 274	amyloid-beta
+T66	PathologicFunction 1164 1175	progression
+T67	TemporalConcept 1164 1175	progression
+T68	Finding 803 810	effects
+T69	BiologicFunction 1079 1092	understanding
+T70	HealthCareActivity 410 413	PET
+T71	HealthCareActivity 599 602	PET
+T72	HealthCareActivity 615 618	PET
+T73	HealthCareActivity 697 700	PET
+T74	HealthCareActivity 716 719	PET
+T75	AminoAcidPeptideOrProtein 276 282	A beta
+T76	AminoAcidPeptideOrProtein 433 439	A beta
+T77	AminoAcidPeptideOrProtein 592 598	A beta
+T78	AminoAcidPeptideOrProtein 709 715	A beta
+T79	AminoAcidPeptideOrProtein 814 820	A beta
+T80	AminoAcidPeptideOrProtein 1022 1028	A beta
+T81	PathologicFunction 847 866	hippocampal atrophy
+T82	DiseaseOrSyndrome 859 866	atrophy
+T83	Finding 1037 1049	accumulation
+T84	HealthCareActivity 380 408	positron emission tomography
+T85	ResearchActivity 720 726	burden
+T86	DiseaseOrSyndrome 288 303	tau pathologies
+T87	ClinicalAttribute 357 374	clinical spectrum
+T88	Chemical 441 454	[F-18]AZD4694
+T89	Chemical 465 479	[F-18]MK-6240)
+T90	ClinicalAttribute 492 500	CSF GFAP
+T91	ClinicalAttribute 492 495;505 511	CSF YKL-40
+T92	ClinicalAttribute 546 561	CSF GFAP levels
+T93	ClinicalAttribute 645 662	CSF YKL-40 levels
+T94	ClinicalAttribute 771 779	CSF GFAP
+T95	ClinicalAttribute 771 774;784 790	CSF YKL-40

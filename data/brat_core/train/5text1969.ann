@@ -1,0 +1,10 @@
+T0	HealthCareActivity 101 110	diagnosis
+T1	HealthCareActivity 0 26	Medical imaging procedures
+T2	HealthCareActivity 75 80	scans
+T3	NaturalPhenomenonOrProcess 61 67	X-rays
+T4	NaturalPhenomenonOrProcess 36 54	ionizing radiation
+T5	NaturalPhenomenonOrProcess 45 54	radiation
+T6	HealthCareActivity 72 80	CT scans
+T7	ResearchActivity 115 124	treatment
+T8	HealthCareActivity 115 124	treatment
+T9	Finding 178 193	potential risks

@@ -1,0 +1,67 @@
+T0	DiseaseOrSyndrome 44 79	inherited neurodegenerative disease
+T1	BodyPartOrganOrOrganComponent 123 143	regions of the brain
+T2	Finding 149 167	progressive manner
+T3	DiseaseOrSyndrome 192 210	behavioral changes
+T4	SignOrSymptom 215 237	uncontrolled movements
+T5	Cell 290 306	striatal neurons
+T6	ResearchActivity 317 329	publications
+T7	TemporalConcept 446 460	juvenile onset
+T8	DiseaseOrSyndrome 446 460	juvenile onset
+T9	AminoAcidPeptideOrProtein 582 588	nestin
+T10	GeneOrGenome 582 588	nestin
+T11	CellFunction 589 599	expressing
+T12	Cell 600 616	progenitor cells
+T13	TemporalConcept 623 627	days
+T14	CellFunction 631 646	differentiation
+T15	OrganismAttribute 714 723	phenotype
+T16	OrganismAttribute 747 757	phenotypic
+T17	Finding 737 766	potential phenotypic reversal
+T18	CellFunction 777 792	Differentiation
+T19	ResearchActivity 834 850	characterization
+T20	ResearchActivity 863 882	immunocytochemistry
+T21	TemporalConcept 966 971	delay
+T22	CellFunction 979 994	differentiation
+T23	Cell 1075 1097	progenitor populations
+T24	CellFunction 1142 1175	canonical Notch signaling pathway
+T25	NucleicAcidNucleosideOrNucleotide 1197 1227	HTT antisense oligonucleotides
+T26	NucleicAcidNucleosideOrNucleotide 1229 1233	ASOs
+T27	Chemical 1229 1233	ASOs
+T28	BiologicallyActiveSubstance 1229 1233	ASOs
+T29	ResearchActivity 1266 1270	data
+T30	DiseaseOrSyndrome 1316 1335	developmental delay
+T31	Cell 491 521	iPSC-derived striatal cultures
+T32	DiseaseOrSyndrome 462 465	JHD
+T33	DiseaseOrSyndrome 487 490	JHD
+T34	BiologicFunction 816 829	striatal fate
+T35	ResearchActivity 887 915	stereological quantification
+T36	DiseaseOrSyndrome 1002 1005	JHD
+T37	DiseaseOrSyndrome 1062 1065	JHD
+T38	DiseaseOrSyndrome 1339 1342	JHD
+T39	Finding 181 210	experience behavioral changes
+T40	TemporalConcept 308 316	Previous
+T41	Cell 375 405	induced pluripotent stem cells
+T42	CellOrMolecularDysfunction 687 723	altered neurodevelopmental phenotype
+T43	Cell 1006 1034	neural progenitor population
+T44	PathologicFunction 104 111	atrophy
+T45	PathologicFunction 279 286	atrophy
+T46	DiseaseOrSyndrome 104 111	atrophy
+T47	DiseaseOrSyndrome 279 286	atrophy
+T48	BodyPartOrganOrOrganComponent 138 143	brain
+T49	DiseaseOrSyndrome 34 36	HD
+T50	DiseaseOrSyndrome 357 359	HD
+T51	DiseaseOrSyndrome 12 32	Huntington's disease
+T52	Cell 407 412	iPSCs
+T53	Cell 796 807	human iPSCs
+T54	BiologicFunction 534 550	neurodevelopment
+T55	PatientOrDisabledGroup 169 180	HD patients
+T56	PatientOrDisabledGroup 427 438	HD patients
+T57	Finding 1045 1054	reduction
+T58	NaturalPhenomenonOrProcess 1045 1054	reduction
+T59	BodyPartOrganOrOrganComponent 360 368	striatum
+T60	ResearchActivity 936 941	study
+T61	HealthCareActivity 1182 1191	treatment
+T62	ResearchActivity 1182 1191	treatment
+T63	ResearchActivity 491 521	iPSC-derived striatal cultures
+T64	HealthCareActivity 1197 1227	HTT antisense oligonucleotides
+T65	CellOrMolecularDysfunction 1066 1097	aberrant progenitor populations
+T66	ExperimentalModelOfDisease 343 368	models of the HD striatum

@@ -1,0 +1,9 @@
+T0	Cell 110 128	non-dividing cells
+T1	PathologicFunction 45 55	pathogenic
+T2	Virus 17 24	viruses
+T3	Virus 56 63	viruses
+T4	Virus 26 29	AAV
+T5	Virus 32 36	AAVs
+T6	Virus 0 24	Adeno-associated viruses
+T7	PathologicFunction 85 91	infect
+T8	Cell 123 128;97 105	cells dividing

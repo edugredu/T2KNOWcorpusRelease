@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 124 151	neurodegenerative disorders
+T1	DiseaseOrSyndrome 163 181	multiple sclerosis
+T2	ResearchActivity 0 7	Studies
+T3	BodyPartOrganOrOrganComponent 53 64	vasculature
+T4	BodyPartOrganOrOrganComponent 45 52	retinal
+T5	HealthCareActivity 83 94	angiography

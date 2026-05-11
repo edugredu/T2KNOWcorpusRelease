@@ -1,0 +1,98 @@
+T0	AminoAcidPeptideOrProtein 55 57	Lf
+T1	ClinicalAttribute 33 53;59 65	salivary lactoferrin levels
+T3	DiseaseOrSyndrome 166 169	sAD
+T4	AminoAcidPeptideOrProtein 204 206	Lf
+T6	DiseaseOrSyndrome 256 259	sAD
+T7	BiologicFunction 271 288	systemic immunity
+T8	DiseaseOrSyndrome 362 365	sAD
+T9	BodyPartOrganOrOrganComponent 377 381	skin
+T10	ClinicalAttribute 399 423	immunological capacities
+T11	DiseaseOrSyndrome 485 488	sAD
+T12	AnatomicalAbnormality 538 554	amyloid deposits
+T13	BodyPartOrganOrOrganComponent 639 647	skeletal
+T14	BiologicFunction 796 804	immunity
+T15	DiseaseOrSyndrome 817 820	sAD
+T16	AminoAcidPeptideOrProtein 846 848	Lf
+T17	BiologicallyActiveSubstance 846 848	Lf
+T19	PharmacologicSubstance 863 878	anti-infectious
+T20	AminoAcidPeptideOrProtein 989 991	Lf
+T21	BiologicallyActiveSubstance 989 991	Lf
+T23	DiseaseOrSyndrome 1055 1058	sAD
+T24	DiseaseOrSyndrome 1135 1138	sAD
+T25	DiseaseOrSyndrome 1150 1167	systemic disorder
+T26	DiseaseOrSyndrome 1172 1181	disorders
+T27	Finding 1200 1213;1235 1246	immunological alterations
+T28	Finding 1218 1246	low inflammatory alterations
+T29	BiologicFunction 1268 1276	immunity
+T30	DiseaseOrSyndrome 1292 1295	sAD
+T31	DiseaseOrSyndrome 1340 1343	sAD
+T32	AminoAcidPeptideOrProtein 1428 1430	Lf
+T33	BiologicallyActiveSubstance 1428 1430	Lf
+T35	DiseaseOrSyndrome 1440 1443	sAD
+T36	AminoAcidPeptideOrProtein 1564 1566	Lf
+T37	BiologicallyActiveSubstance 1564 1566	Lf
+T39	DiseaseOrSyndrome 1576 1579	sAD
+T40	DiseaseOrSyndrome 1825 1828	sAD
+T41	Finding 1981 1984	low
+T42	BiologicFunction 2067 2083	immunosenescence
+T43	ResearchActivity 1467 1477	validation
+T44	Cell 632 638	neuron
+T45	HealthCareActivity 1370 1380	challenges
+T46	HealthCareActivity 909 915	health
+T47	DiseaseOrSyndrome 127 130	MCI
+T48	SignOrSymptom 1296 1310	manifestations
+T49	HealthCareActivity 428 436	reviewed
+T50	Cell 383 393	blood cell
+T51	ResearchActivity 428 436	reviewed
+T52	TemporalConcept 726 732	origin
+T53	TemporalConcept 1686 1692	origin
+T54	BodyPartOrganOrOrganComponent 33 41	salivary
+T55	BodyPartOrganOrOrganComponent 1555 1563	salivary
+T56	BodyPartOrganOrOrganComponent 1892 1904	hypothalamus
+T57	PopulationGroup 1500 1510	population
+T58	TemporalConcept 136 144	sporadic
+T59	CellFunction 234 248	downregulation
+T60	TemporalConcept 437 444	briefly
+T61	AminoAcidPeptideOrProtein 507 510	tau
+T62	AminoAcidPeptideOrProtein 529 532	tau
+T63	AminoAcidPeptideOrProtein 620 623	tau
+T64	DiseaseOrSyndrome 145 156	Alzheimer's
+T65	Finding 1701 1710	reduction
+T66	NaturalPhenomenonOrProcess 1701 1710	reduction
+T67	BodyPartOrganOrOrganComponent 577 582	brain
+T68	BodyPartOrganOrOrganComponent 1344 1349	brain
+T69	CellOrMolecularDysfunction 1938 1955	neurodegeneration
+T70	ResearchActivity 1487 1495;1517 1524	clinical studies
+T71	DiseaseOrSyndrome 136 164	sporadic Alzheimer's disease
+T72	PatientOrDisabledGroup 81 89	patients
+T73	CellFunction 1097 1105	pathways
+T74	ClinicalAttribute 1444 1453	biomarker
+T75	PathologicFunction 1985 2002	neuroinflammation
+T76	BodyPartOrganOrOrganComponent 982 988	saliva
+T77	TemporalConcept 1120 1125	first
+T78	InjuryOrPoisoning 1877 1884	lesions
+T79	HealthCareActivity 1411 1420	challenge
+T80	DiseaseOrSyndrome 105 125	cognitive impairment
+T81	AminoAcidPeptideOrProtein 490 497	amyloid
+T82	AminoAcidPeptideOrProtein 538 545	amyloid
+T83	BiologicallyActiveSubstance 490 497	amyloid
+T84	BiologicallyActiveSubstance 538 545	amyloid
+T85	BiologicallyActiveSubstance 507 510	tau
+T86	BiologicallyActiveSubstance 529 532	tau
+T87	BiologicallyActiveSubstance 620 623	tau
+T88	TemporalConcept 2035 2039	life
+T89	PopulationGroup 2058 2065	elderly
+T90	DiseaseOrSyndrome 100 125	mild cognitive impairment
+T91	PathologicFunction 454 472	pathophysiological
+T92	BiologicallyActiveSubstance 204 206	Lf
+T93	BiologicallyActiveSubstance 42 53	lactoferrin
+T94	AminoAcidPeptideOrProtein 42 53	lactoferrin
+T96	BiologicallyActiveSubstance 55 57	Lf
+T97	ResearchActivity 683 700	systemic theories
+T98	Finding 775 791	low inflammatory
+T99	PathologicFunction 1014 1040	immunological disturbances
+T100	Finding 1600 1632	immunological modulation actions
+T101	PathologicFunction 2007 2018	dysimmunity
+T102	BodyPartOrganOrOrganComponent 1909 1936	autonomic vegetative system
+T103	Finding 883 905	immunomodulatory roles
+T2	ClinicalAttribute 1555 1566	salivary Lf

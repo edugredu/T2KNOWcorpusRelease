@@ -1,0 +1,125 @@
+T0	Organism 137 155	Korean Red Ginseng
+T1	Organism 157 160	KRG
+T2	PathologicFunction 313 323	effects of
+T3	ResearchActivity 439 447	cultures
+T4	Organism 523 526	KRG
+T5	Chemical 560 570	inhibitors
+T6	PharmacologicSubstance 560 570	inhibitors
+T7	BiologicallyActiveSubstance 560 570	inhibitors
+T8	BiologicallyActiveSubstance 640 643	Rb1
+T9	AminoAcidPeptideOrProtein 640 643	Rb1
+T10	GeneOrGenome 640 643	Rb1
+T11	HealthCareActivity 677 688	oral gavage
+T12	ResearchActivity 846 850	qPCR
+T13	ResearchActivity 852 864	western blot
+T14	Chemical 953 960	saponin
+T15	AminoAcidPeptideOrProtein 1019 1022	AKT
+T16	BiologicallyActiveSubstance 1019 1022	AKT
+T17	AminoAcidPeptideOrProtein 1027 1057	extracellular regulated kinase
+T18	AminoAcidPeptideOrProtein 1059 1062	ERK
+T19	Organism 1075 1078	KRG
+T20	Substance 1079 1086	extract
+T21	Chemical 1092 1099	saponin
+T22	Organism 1166 1169	KRG
+T23	Substance 1170 1177	extract
+T24	Chemical 1186 1193	saponin
+T25	Chemical 1275 1287	ginsenosides
+T26	BiologicallyActiveSubstance 1296 1299	Rb1
+T27	AminoAcidPeptideOrProtein 1296 1299	Rb1
+T28	GeneOrGenome 1296 1299	Rb1
+T29	BiologicallyActiveSubstance 1361 1364	Rb1
+T30	AminoAcidPeptideOrProtein 1361 1364	Rb1
+T31	GeneOrGenome 1361 1364	Rb1
+T32	Organism 1444 1447	KRG
+T33	BiologicFunction 1473 1479	deaths
+T34	Finding 1473 1479	deaths
+T35	Chemical 1546 1553	saponin
+T36	Chemical 1645 1657	ginsenosides
+T37	BiologicallyActiveSubstance 1659 1662	Rb1
+T38	AminoAcidPeptideOrProtein 1659 1662	Rb1
+T39	GeneOrGenome 1659 1662	Rb1
+T40	Organism 1806 1809	KRG
+T41	BiologicallyActiveSubstance 1814 1817	Rb1
+T42	AminoAcidPeptideOrProtein 1814 1817	Rb1
+T43	GeneOrGenome 1814 1817	Rb1
+T44	PopulationGroup 694 699	adult
+T45	PopulationGroup 1409 1414	adult
+T46	ResearchActivity 1341 1349	in vitro
+T47	DiseaseOrSyndrome 113 135	neurological disorders
+T48	ResearchActivity 869 888	immunocytochemistry
+T49	CellOrMolecularDysfunction 1139 1155	oxidative stress
+T50	CellOrMolecularDysfunction 1486 1502	oxidative stress
+T51	CellComponent 574 587	mitochondrial
+T52	Cell 1126 1130	OPCs
+T53	Cell 434 437	OPC
+T54	Cell 738 741	OPC
+T55	Cell 924 927	OPC
+T56	Cell 1469 1472	OPC
+T57	Cell 266 268	OL
+T58	Cell 380 382	OL
+T59	Cell 415 417	OL
+T60	Cell 1324 1326	OL
+T61	Cell 1593 1595	OL
+T62	CellFunction 742 755	proliferation
+T63	CellFunction 928 941	proliferation
+T64	CellFunction 1531 1544	proliferation
+T65	CellFunction 647 658	myelination
+T66	CellFunction 817 828	myelination
+T67	CellFunction 1739 1750	myelination
+T68	CellFunction 1389 1405	myelin formation
+T69	Cell 249 264	oligodendrocyte
+T70	CellFunction 1027 1057;1064 1073	extracellular regulated kinase signaling
+T75	CellComponent 1327 1335	membrane
+T76	CellComponent 1596 1604	membrane
+T77	CellComponent 1698 1706	membrane
+T78	BodyPartOrganOrOrganComponent 711 721	forebrains
+T79	PopulationGroup 467 475	neonatal
+T80	TemporalConcept 467 475	neonatal
+T81	NucleicAcidNucleosideOrNucleotide 773 777	BrdU
+T82	PharmacologicSubstance 773 777	BrdU
+T83	CellFunction 71 87	action potential
+T84	BiologicFunction 88 98	conduction
+T85	NaturalPhenomenonOrProcess 88 98	conduction
+T86	PharmacologicSubstance 1240 1251	antioxidant
+T87	CellFunction 1240 1251	antioxidant
+T88	Finding 1194 1217	significantly increased
+T89	Finding 1300 1323	significantly increased
+T90	Finding 1365 1388	significantly increased
+T91	OrganismAttribute 700 704	male
+T92	BodyPartOrganOrOrganComponent 1421 1426	brain
+T93	Cell 380 396	OL-lineage cells
+T94	Eukaryote 476 481	mouse
+T95	Eukaryote 1415 1420	mouse
+T96	Eukaryote 705 709	mice
+T97	ResearchActivity 890 897	Results
+T98	ResearchActivity 620 627	in vivo
+T99	ResearchActivity 1751 1758	in vivo
+T100	BodyPartOrganOrOrganComponent 29 35	myelin
+T101	BodyPartOrganOrOrganComponent 1822 1828	myelin
+T102	TemporalConcept 669 673	days
+T103	CellFunction 797 812	differentiation
+T104	CellFunction 970 985	differentiation
+T105	CellFunction 1573 1588	differentiation
+T106	BiologicFunction 350 361	development
+T107	CellFunction 350 361	development
+T108	OrganismAttribute 1336 1340	size
+T109	OrganismAttribute 1605 1609	size
+T110	OrganismAttribute 1707 1711	size
+T111	PathologicFunction 12 35	Abnormalities of myelin
+T112	Finding 175 195	therapeutic efficacy
+T113	Organism 324 327	KRG
+T114	Cell 407 432	Primary OL precursor cell
+T115	BodyPartOrganOrOrganComponent 482 488	cortex
+T116	CellFunction 574 614	mitochondrial respiratory chain activity
+T117	ResearchActivity 677 688	oral gavage
+T118	Chemical 903 914	non-saponin
+T119	BiologicallyActiveSubstance 1059 1062	ERK
+T120	Chemical 1104 1115	non-saponin
+T121	BiologicallyActiveSubstance 1252 1258	enzyme
+T122	Chemical 1361 1364	Rb1
+T123	Chemical 1296 1299	Rb1
+T124	Chemical 1659 1662	Rb1
+T125	Chemical 1814 1817	Rb1
+T126	DiseaseOrSyndrome 1822 1846	myelin-related disorders
+T127	BiologicallyActiveSubstance 1027 1057	extracellular regulated kinase
+T128	Chemical 640 643	Rb1

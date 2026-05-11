@@ -1,0 +1,4 @@
+T0	DiseaseOrSyndrome 107 133	neurodegenerative diseases
+T1	HealthCareActivity 0 31	Fundus autofluorescence imaging
+T2	BodyPartOrganOrOrganComponent 52 59	retinal
+T3	AnatomicalAbnormality 53 73	etinal abnormalities

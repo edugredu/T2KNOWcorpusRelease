@@ -1,0 +1,51 @@
+T0	DiseaseOrSyndrome 102 115	Down syndrome
+T1	DiseaseOrSyndrome 117 119	DS
+T2	Eukaryote 249 255	murine
+T3	DiseaseOrSyndrome 266 268	DS
+T4	OrganismAttribute 273 280	diploid
+T5	Cell 273 280	diploid
+T6	CellComponent 483 496	microvesicles
+T7	DiseaseOrSyndrome 817 819	DS
+T8	ResearchActivity 857 892	selective isolation of mitovesicles
+T9	BiomedicalOccupationOrDiscipline 978 985	biology
+T10	BiologicFunction 943 963	biological processes
+T11	CellComponent 402 414	mitochondria
+T12	CellComponent 542 554	mitochondria
+T13	CellComponent 657 669	mitochondria
+T14	CellComponent 770 782	mitochondria
+T15	CellComponent 990 1002	mitochondria
+T16	CellOrMolecularDysfunction 0 25	Mitochondrial dysfunction
+T17	PathologicFunction 784 795	dysfunction
+T18	AminoAcidPeptideOrProtein 416 424	proteins
+T19	CellComponent 206 228	extracellular vesicles
+T20	DiseaseOrSyndrome 125 144	Alzheimer's disease
+T21	CellComponent 230 233	EVs
+T22	CellComponent 361 381	double-membraned EVs
+T23	CellComponent 563 566	EVs
+T24	DiseaseOrSyndrome 146 148	AD
+T25	CellComponent 460 462	EV
+T26	CellComponent 975 977	EV
+T27	ResearchActivity 932 939	in vivo
+T28	CellComponent 501 509	exosomes
+T29	BiologicFunction 825 836	development
+T30	CellFunction 825 836	development
+T31	ResearchActivity 842 848	method
+T32	HealthCareActivity 842 848	method
+T33	BodyPartOrganOrOrganComponent 601 606	brain
+T34	Eukaryote 260 265	human
+T35	PopulationGroup 347 357	population
+T36	BiologicFunction 56 61	aging
+T37	CellFunction 56 61	aging
+T38	BodyPartOrganOrOrganComponent 273 295	diploid control brains
+T39	PathologicFunction 735 763	pathophysiological processes
+T40	ResearchActivity 915 931	characterization
+T41	NaturalPhenomenonOrProcess 1003 1011	dynamics
+T42	CellFunction 710 715	cargo
+T43	ResearchActivity 1058 1068	strategies
+T44	DiseaseOrSyndrome 66 93	neurodegenerative disorders
+T45	Finding 44 52	hallmark
+T46	BiologicFunction 978 985	biology
+T47	HealthCareActivity 1020 1068	innovative therapeutic and diagnostic strategies
+T48	CellComponent 615 627	mitovesicles
+T49	ResearchActivity 159 202	high-resolution density gradient separation
+T50	CellComponent 567 579	mitovesicles

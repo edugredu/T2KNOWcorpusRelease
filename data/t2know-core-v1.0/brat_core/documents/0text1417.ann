@@ -1,0 +1,84 @@
+T0	BiologicFunction 43 71	pathophysiological processes
+T1	HealthCareRelatedOrganization 562 570	hospital
+T2	Cell 1004 1012	platelet
+T3	HealthCareActivity 1740 1751	evaluations
+T4	HealthCareActivity 436 464	disease-modifying treatments
+T5	PathologicFunction 104 116	degenerative
+T6	DiseaseOrSyndrome 31 33	MS
+T7	DiseaseOrSyndrome 238 240	MS
+T8	DiseaseOrSyndrome 533 535	MS
+T9	DiseaseOrSyndrome 1144 1146	MS
+T10	DiseaseOrSyndrome 11 29	Multiple sclerosis
+T11	PathologicFunction 43 61	pathophysiological
+T12	PopulationGroup 646 656	volunteers
+T13	OrganismAttribute 626 629	sex
+T14	Finding 1617 1649	high sensitivity and specificity
+T15	ResearchActivity 1316 1329	cutoff values
+T16	ResearchActivity 1659 1671	cutoff value
+T17	InjuryOrPoisoning 159 173	active lesions
+T18	InjuryOrPoisoning 709 723	active lesions
+T19	InjuryOrPoisoning 784 798	active lesions
+T20	InjuryOrPoisoning 1283 1297	active lesions
+T21	InjuryOrPoisoning 1375 1389	active lesions
+T22	BodyPartOrganOrOrganComponent 254 259	serum
+T23	BodyPartOrganOrOrganComponent 484 489	serum
+T24	PatientOrDisabledGroup 241 249	patients
+T25	PatientOrDisabledGroup 536 544	patients
+T26	PatientOrDisabledGroup 696 704	patients
+T27	PatientOrDisabledGroup 758 766	patients
+T28	PatientOrDisabledGroup 1147 1155	patients
+T29	OrganismAttribute 638 645	healthy
+T30	TemporalConcept 356 362	period
+T31	TemporalConcept 420 426	period
+T32	TemporalConcept 1605 1611	period
+T33	ClinicalAttribute 291 314	inflammatory biomarkers
+T34	ResearchActivity 680 685	study
+T35	Finding 1363 1371	presence
+T36	PopulationGroup 1168 1181	control group
+T37	ResearchActivity 1052 1059	Results
+T38	OrganismAttribute 617 620	age
+T39	TemporalConcept 229 234	phase
+T40	HealthCareActivity 392 401	follow-up
+T41	TemporalConcept 392 401	follow-up
+T42	Finding 138 150	relationship
+T43	PopulationGroup 1235 1240	group
+T44	PopulationGroup 1269 1274	group
+T45	HealthCareActivity 177 203	magnetic resonance imaging
+T46	HealthCareActivity 727 753	magnetic resonance imaging
+T47	PathologicFunction 77 89	inflammatory
+T48	PathologicFunction 216 228	inflammatory
+T49	PathologicFunction 343 355	inflammatory
+T50	TemporalConcept 579 591	January 2016
+T51	TemporalConcept 596 609	November 2021
+T52	Cell 800 810	Neutrophil
+T53	Cell 811 821	lymphocyte
+T54	ClinicalAttribute 800 827	Neutrophil/lymphocyte ratio
+T55	ClinicalAttribute 835 860	platelet/lymphocyte ratio
+T56	ClinicalAttribute 872 897	monocyte/lymphocyte ratio
+T57	Cell 835 843	platelet
+T58	Cell 844 854	lymphocyte
+T59	Cell 872 880	monocyte
+T60	Cell 881 891	lymphocyte
+T61	ResearchActivity 930 964	systemic immune inflammatory index
+T62	Cell 1015 1025	neutrophil
+T63	Cell 1026 1036	lymphocyte
+T64	ClinicalAttribute 925 928;966 971	SII value
+T65	ResearchActivity 1078 1088	SII values
+T66	Chemical 1246 1256	gadolonium
+T67	PharmacologicSubstance 1246 1256	gadolonium
+T68	PathologicFunction 1592 1604	inflammatory
+T69	ResearchActivity 1771 1774	SII
+T70	ResearchActivity 1681 1684	SII
+T71	ClinicalAttribute 1205 1208	SII
+T72	ClinicalAttribute 1060 1063	NLR
+T73	ClinicalAttribute 1065 1068	MLR
+T74	ClinicalAttribute 1070 1073	PLR
+T75	ClinicalAttribute 1187 1190	NLR
+T76	ClinicalAttribute 1192 1195	MLR
+T77	ClinicalAttribute 1197 1200	PLR
+T78	ClinicalAttribute 1430 1433	NLR
+T79	ClinicalAttribute 1435 1438	MLR
+T80	ClinicalAttribute 1439 1442	PLR
+T81	ClinicalAttribute 1447 1450	SII
+T82	ClinicalAttribute 1689 1692	PLR
+T83	ClinicalAttribute 1804 1807	PLR

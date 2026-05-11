@@ -1,0 +1,7 @@
+T0	BodyPartOrganOrOrganComponent 50 55	brain
+T1	DiseaseOrSyndrome 81 100	Alzheimer's disease
+T2	DiseaseOrSyndrome 111 137	neurodegenerative disorder
+T3	Substance 33 42	molecules
+T4	Finding 4 16	accumulation
+T5	AminoAcidPeptideOrProtein 20 32	beta-amyloid
+T6	Finding 61 77	hallmark feature

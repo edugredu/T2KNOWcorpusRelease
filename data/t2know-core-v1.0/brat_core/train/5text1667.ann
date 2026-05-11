@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 115 141	neurodegenerative diseases
+T1	BodyPartOrganOrOrganComponent 180 185	brain
+T2	HealthCareActivity 186 192	health
+T3	Finding 32 40	presence
+T4	Finding 97 111	increased risk
+T5	EnvironmentalEffectOfHumans 0 13	Air pollution
+T6	Substance 44 67	fine particulate matter

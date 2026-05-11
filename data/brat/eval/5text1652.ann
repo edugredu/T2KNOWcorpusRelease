@@ -1,0 +1,12 @@
+T0	Cell 171 176	cells
+T1	EmbryonicStructure 148 159	radial glia
+T2	BiologicFunction 56 67	maintenance
+T3	Cell 160 176	progenitor cells
+T4	IndividualBehavior 87 96	integrity
+T5	EmbryonicStructure 98 109	neural tube
+T6	AminoAcidPeptideOrProtein 0 4	CDH2
+T7	BiologicallyActiveSubstance 0 4	CDH2
+T8	GeneOrGenome 0 4	CDH2
+T9	EmbryonicStructure 71 86	neuroepithelial
+T10	BiologicFunction 119 130	neurulation
+T11	BiologicFunction 98 117	neural tube closure

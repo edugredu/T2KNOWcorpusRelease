@@ -1,0 +1,107 @@
+T0	Chemical 136 144	Catalpol
+T1	CellFunction 303 327	NOTCH1 signaling pathway
+T2	Chemical 426 434	catalpol
+T3	Chemical 518 526	catalpol
+T4	Chemical 573 581	catalpol
+T5	OrganismAttribute 628 639	body weight
+T6	ResearchActivity 723 747	Luxol fast blue staining
+T7	Chemical 749 752	LFB
+T8	Chemical 809 817	catalpol
+T9	CellComponent 832 842	myelinated
+T10	Chemical 941 949	catalpol
+T11	AminoAcidPeptideOrProtein 977 983	CNPase
+T12	Chemical 1057 1065	catalpol
+T13	AminoAcidPeptideOrProtein 1150 1157	JAGGED1
+T14	GeneOrGenome 1159 1165	NOTCH1
+T15	AminoAcidPeptideOrProtein 1159 1165	NOTCH1
+T16	GeneOrGenome 1174 1178	RBPJ
+T17	GeneOrGenome 1180 1184	HES5
+T18	GeneOrGenome 1190 1194	HES1
+T19	Chemical 1235 1243	catalpol
+T20	CellFunction 1304 1328	NOTCH1 signaling pathway
+T21	Chemical 1363 1371	catalpol
+T22	Chemical 1528 1536	catalpol
+T23	Chemical 695 698	CPZ
+T24	Finding 852 860	improved
+T25	AminoAcidPeptideOrProtein 988 991	MBP
+T26	BiologicallyActiveSubstance 988 991	MBP
+T27	GeneOrGenome 988 991	MBP
+T28	Cell 66 70	OPCs
+T29	Cell 1276 1280	OPCs
+T30	Cell 353 356	OPC
+T31	Cell 444 447	OPC
+T32	Cell 1022 1025	OPC
+T33	Cell 1384 1387	OPC
+T34	Cell 33 64	oligodendrocyte precursor cells
+T35	DiseaseOrSyndrome 116 134	multiple sclerosis
+T36	DiseaseOrSyndrome 1557 1575	multiple sclerosis
+T37	BodyPartOrganOrOrganComponent 861 867	myelin
+T38	PathologicFunction 909 921	demyelinated
+T39	CellFunction 310 319	signaling
+T40	CellFunction 1311 1320	signaling
+T41	CellFunction 14 29	differentiation
+T42	CellFunction 375 390	differentiation
+T43	CellFunction 448 463	differentiation
+T44	CellFunction 1026 1041	differentiation
+T45	CellFunction 1257 1272	differentiation
+T46	CellFunction 1388 1403	differentiation
+T47	Cell 1286 1289	OLs
+T48	CellFunction 444 463	OPC differentiation
+T49	CellFunction 1022 1041	OPC differentiation
+T50	CellFunction 1384 1403	OPC differentiation
+T51	CellFunction 357 370	proliferation
+T52	Cell 49 64	precursor cells
+T53	Cell 33 58	oligodendrocyte precursor
+T54	BodyPartOrganOrOrganComponent 890 905	corpus callosum
+T55	Chemical 684 693	cuprizone
+T56	ResearchActivity 400 405	study
+T57	ResearchActivity 1469 1474	study
+T58	Eukaryote 674 678	mice
+T59	Eukaryote 922 926	mice
+T60	HealthCareActivity 1544 1553	treatment
+T61	ResearchActivity 1544 1553	treatment
+T62	ResearchActivity 275 282	studies
+T63	TemporalConcept 268 274	Recent
+T64	CellFunction 963 973	expression
+T65	CellFunction 1084 1094	expression
+T66	ResearchActivity 1225 1233	in vitro
+T67	ResearchActivity 771 790	electron microscopy
+T68	ResearchActivity 464 471	in vivo
+T69	BodyPartOrganOrOrganComponent 628 632	body
+T70	Substance 1131 1140	molecules
+T71	ResearchActivity 758 790	transmission electron microscopy
+T72	ResearchActivity 792 795	TEM
+T73	CellFunction 320 327	pathway
+T74	CellFunction 1321 1328	pathway
+T75	CellFunction 1448 1462	NOTCH1 pathway
+T76	BiologicFunction 616 624	recovery
+T77	HealthCareActivity 616 624	recovery
+T78	TemporalConcept 616 624	recovery
+T79	CellFunction 99 112	remyelination
+T80	CellFunction 174 187	remyelination
+T81	CellFunction 1408 1421	remyelination
+T82	PathologicFunction 708 721	demyelination
+T83	CellFunction 1066 1079	downregulated
+T84	Finding 214 221	effects
+T85	ResearchActivity 1343 1347	data
+T86	CellFunction 310 327	signaling pathway
+T87	CellFunction 1098 1122	NOTCH1 signaling pathway
+T88	CellFunction 1311 1328	signaling pathway
+T89	CellFunction 198 213	neuroprotective
+T90	Finding 198 221	neuroprotective effects
+T91	HealthCareActivity 582 596	administration
+T92	BiologicFunction 644 657	motor balance
+T93	BiologicallyActiveSubstance 977 983	CNPase
+T94	BiologicallyActiveSubstance 1159 1165	NOTCH1
+T95	BiologicallyActiveSubstance 1150 1157	JAGGED1
+T96	AminoAcidPeptideOrProtein 1167 1172	NICD1
+T97	BiologicallyActiveSubstance 1167 1172	NICD1
+T98	BiologicallyActiveSubstance 1174 1178	RBPJ
+T99	AminoAcidPeptideOrProtein 1174 1178	RBPJ
+T100	AminoAcidPeptideOrProtein 1180 1184	HES5
+T101	BiologicallyActiveSubstance 1180 1184	HES5
+T102	BiologicallyActiveSubstance 1190 1194	HES1
+T103	AminoAcidPeptideOrProtein 1190 1194	HES1
+T104	Chemical 723 738	Luxol fast blue
+T105	Finding 499 514	regulatory role
+T106	CellFunction 539 561	biomolecular processes

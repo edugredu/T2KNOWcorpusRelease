@@ -1,0 +1,123 @@
+T0	EnvironmentalEffectOfHumans 116 129	air pollution
+T1	Substance 279 282	PMs
+T2	Cell 409 413	mOLs
+T3	Substance 438 457	ultrafine urban PMs
+T4	Cell 528 532	mOLs
+T5	ResearchActivity 858 876	animal experiments
+T6	Substance 916 926	suspension
+T7	ResearchActivity 1076 1086	MTT assays
+T8	Cell 1135 1139	mOLs
+T9	Cell 1312 1316	mOLs
+T10	Chemical 1365 1368	DHE
+T11	ResearchActivity 1365 1377	DHE staining
+T12	Cell 1433 1437	mOLs
+T13	Cell 1542 1546	mOLs
+T14	BodyPartOrganOrOrganComponent 1663 1686	cerebellar white matter
+T15	Cell 2022 2026	mOLs
+T16	Cell 487 498	brain cells
+T17	Cell 798 809	brain cells
+T18	Cell 1205 1221	cortical neurons
+T19	ResearchActivity 584 595	experiments
+T20	ResearchActivity 865 876	experiments
+T21	Cell 1477 1487	brain cell
+T22	Cell 1592 1602	brain cell
+T23	AminoAcidPeptideOrProtein 1846 1849	NG2
+T24	BiologicallyActiveSubstance 1846 1849	NG2
+T25	GeneOrGenome 1846 1849	NG2
+T26	Eukaryote 833 852	Sprague-Dawley rats
+T27	PopulationGroup 1767 1780	control group
+T28	BiologicallyActiveSubstance 720 743	reactive oxygen species
+T29	Chemical 720 743	reactive oxygen species
+T30	BiologicallyActiveSubstance 745 748	ROS
+T31	BiologicallyActiveSubstance 1407 1410	ROS
+T32	Chemical 745 748	ROS
+T33	Chemical 1407 1410	ROS
+T34	Cell 287 303	oligodendrocytes
+T35	Cell 391 407	oligodendrocytes
+T36	Cell 0 16	Oligodendrocytes
+T37	Cell 374 378	OPCs
+T38	Cell 519 523	OPCs
+T39	Cell 1126 1130	OPCs
+T40	Cell 1303 1307	OPCs
+T41	Cell 1424 1428	OPCs
+T42	Cell 1533 1537	OPCs
+T43	Cell 1865 1869	OPCs
+T44	Cell 2013 2017	OPCs
+T45	DiseaseOrSyndrome 137 159	demyelinating diseases
+T46	Cell 341 372	oligodendrocyte precursor cells
+T47	PathologicFunction 137 150	demyelinating
+T48	DiseaseOrSyndrome 168 186	multiple sclerosis
+T49	BodyPartOrganOrOrganComponent 18 24	myelin
+T50	Cell 384 407	mature oligodendrocytes
+T51	BodyPartOrganOrOrganComponent 1022 1034	white matter
+T52	BodyPartOrganOrOrganComponent 1674 1686	white matter
+T53	BodyPartOrganOrOrganComponent 1042 1052	cerebellum
+T54	BodyPartOrganOrOrganComponent 1663 1673	cerebellar
+T55	TemporalConcept 384 390	mature
+T56	Cell 357 372	precursor cells
+T57	Cell 341 366	oligodendrocyte precursor
+T58	TemporalConcept 891 895	week
+T59	InjuryOrPoisoning 236 244	toxicity
+T60	PopulationGroup 824 832	neonatal
+T61	TemporalConcept 824 832	neonatal
+T62	ResearchActivity 1275 1280	study
+T63	BodyPartOrganOrOrganComponent 46 51	brain
+T64	BodyPartOrganOrOrganComponent 546 551	brain
+T65	BodyPartOrganOrOrganComponent 1993 1998	brain
+T66	PopulationGroup 1708 1713	group
+T67	PopulationGroup 1775 1780	group
+T68	ResearchActivity 1080 1086	assays
+T69	ResearchActivity 1350 1360	DCF assays
+T70	Cell 33 38	cells
+T71	Cell 985 990	cells
+T72	Cell 1009 1014	cells
+T73	Cell 1650 1655	cells
+T74	Cell 1836 1841	cells
+T75	Eukaryote 1070 1074	mice
+T76	TemporalConcept 89 95	Recent
+T77	PharmacologicSubstance 765 776	antioxidant
+T78	CellFunction 765 776	antioxidant
+T79	CellOrMolecularDysfunction 71 87	oxidative stress
+T80	CellOrMolecularDysfunction 1951 1967	oxidative stress
+T81	Finding 2067 2075	capacity
+T82	ResearchActivity 575 583	in vitro
+T83	Eukaryote 540 545	mouse
+T84	CellFunction 690 698	survival
+T85	Cell 1214 1221	neurons
+T86	BodyPartOrganOrOrganComponent 1205 1213	cortical
+T87	Cell 1190 1200	astrocytes
+T88	BiologicFunction 627 641	concentrations
+T89	CellFunction 2080 2093	remyelination
+T90	PathologicFunction 2036 2049	demyelination
+T91	PopulationGroup 513 518	adult
+T92	PopulationGroup 1859 1864	adult
+T93	PopulationGroup 2007 2012	adult
+T94	Cell 1483 1493	cell types
+T95	Cell 1598 1608	cell types
+T96	BiologicFunction 1335 1348	concentration
+T97	Substance 248 277	ultrafine particulate matters
+T98	Substance 459 465	uf-UPs
+T99	InjuryOrPoisoning 503 509	damage
+T100	Substance 563 569	uf-UPs
+T101	Substance 670 676	uf-UPs
+T102	TemporalConcept 699 704	rates
+T103	CellFunction 759 787	total antioxidant capacities
+T104	Substance 910 915	uf-UP
+T105	InjuryOrPoisoning 977 984	damaged
+T106	InjuryOrPoisoning 1001 1008	damaged
+T107	Substance 1056 1061	uf-UP
+T108	ResearchActivity 1091 1107	Hoechst staining
+T109	Substance 1164 1169	uf-UP
+T110	InjuryOrPoisoning 1178 1184	damage
+T111	Substance 1251 1257	uf-UPs
+T112	Substance 1329 1334	uf-UP
+T113	InjuryOrPoisoning 1293 1299	Damage
+T114	Chemical 1621 1634	Fluoro-Jade B
+T115	Chemical 1636 1639	FJB
+T116	Substance 1694 1699	uf-UP
+T117	ResearchActivity 1789 1807	immunofluorescence
+T118	Chemical 1823 1826	FJB
+T119	Cell 1903 1907	mOLs
+T120	AminoAcidPeptideOrProtein 1874 1893	carbon anhydrase II
+T121	BiologicallyActiveSubstance 1874 1893	carbon anhydrase II
+T122	Substance 1979 1985	uf-UPs

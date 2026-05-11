@@ -1,0 +1,7 @@
+T0	CellFunction 82 101	synaptic plasticity
+T1	BiologicFunction 82 101	synaptic plasticity
+T2	DiseaseOrSyndrome 135 163	neurodegenerative conditions
+T3	BiologicFunction 113 131	cognitive function
+T4	CellFunction 68 77	signaling
+T5	BiologicallyActiveSubstance 51 67	neurotransmitter
+T6	InjuryOrPoisoning 17 41	environmental pollutants

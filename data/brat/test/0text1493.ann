@@ -1,0 +1,37 @@
+T0	ResearchActivity 202 221	statistical methods
+T1	Finding 952 974	sources of variability
+T2	ResearchActivity 910 916	method
+T3	HealthCareActivity 910 916	method
+T4	AminoAcidPeptideOrProtein 776 781	P-tau
+T5	ResearchActivity 139 146	studies
+T6	DiseaseOrSyndrome 119 138	Alzheimer's disease
+T7	ClinicalAttribute 317 327	biomarkers
+T8	ClinicalAttribute 614 624	biomarkers
+T9	ClinicalAttribute 1010 1020	biomarkers
+T10	ClinicalAttribute 60 69	biomarker
+T11	ClinicalAttribute 334 343	biomarker
+T12	ResearchActivity 895 903	analysis
+T13	BodyPartOrganOrOrganComponent 55 58	CSF
+T14	BodyPartOrganOrOrganComponent 246 249	CSF
+T15	BodyPartOrganOrOrganComponent 517 520	CSF
+T16	BodyPartOrganOrOrganComponent 861 864	CSF
+T17	BodyPartOrganOrOrganComponent 988 991	CSF
+T18	AminoAcidPeptideOrProtein 649 668	neurofilament light
+T19	BiologicallyActiveSubstance 649 668	neurofilament light
+T20	Substance 48 53	fluid
+T21	ResearchActivity 545 552	Results
+T22	PopulationGroup 267 279	participants
+T23	BodyPartOrganOrOrganComponent 34 53	cerebrospinal fluid
+T24	Finding 13 30	Batch differences
+T25	Finding 178 195	batch differences
+T26	Finding 352 369	Batch differences
+T27	Finding 588 605	batch differences
+T28	BiologicallyActiveSubstance 776 781	P-tau
+T29	ResearchActivity 467 492	Generalized linear models
+T30	ResearchActivity 713 730	conversion models
+T31	ResearchActivity 106 114	analyses
+T32	ResearchActivity 390 407	Bland-Altman plot
+T33	ResearchActivity 409 422	paired t test
+T34	ResearchActivity 424 442	Pitman-Morgan test
+T35	ResearchActivity 448 465	linear regression
+T36	ResearchActivity 818 842	Between-batch conversion

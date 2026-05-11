@@ -1,0 +1,74 @@
+T0	SignOrSymptom 110 141	involuntary choreatic movements
+T1	DiseaseOrSyndrome 170 194	psychiatric disturbances
+T2	DiseaseOrSyndrome 216 225	dysphagia
+T3	DiseaseOrSyndrome 230 250	aspiration pneumonia
+T4	DiseaseOrSyndrome 313 322	dysphagia
+T5	TemporalConcept 343 351	revision
+T6	HealthCareActivity 343 351	revision
+T7	HealthCareActivity 422 432	assessment
+T8	DiseaseOrSyndrome 450 459	dysphagia
+T9	ResearchActivity 583 606	cross-sectional studies
+T10	ResearchActivity 610 622	case reports
+T11	ResearchActivity 626 637	case series
+T12	ResearchActivity 641 658	open-label trials
+T13	ResearchActivity 684 711	randomized controlled trial
+T14	DiseaseOrSyndrome 745 754	dysphagia
+T15	TemporalConcept 783 794	early stage
+T16	ClinicalAttribute 836 852	clinical markers
+T17	TemporalConcept 860 866	Timing
+T18	DiseaseOrSyndrome 871 880	dysphagia
+T19	BiologicFunction 940 950	swallowing
+T20	BiologicFunction 1010 1020	swallowing
+T21	HealthCareActivity 1024 1040	videofluoroscopy
+T22	HealthCareActivity 1090 1098	diagnose
+T23	DiseaseOrSyndrome 1099 1108	dysphagia
+T24	HealthCareActivity 1130 1155	Clinical assessment tools
+T25	BiologicFunction 1222 1232	swallowing
+T26	HealthCareActivity 1324 1349	rehabilitative treatments
+T27	DiseaseOrSyndrome 1353 1362	dysphagia
+T28	BiologicFunction 1445 1455	swallowing
+T29	HealthCareActivity 1480 1503	compensatory strategies
+T30	HealthCareActivity 1577 1602	rehabilitative strategies
+T31	BiologicFunction 1614 1633	swallowing function
+T32	DiseaseOrSyndrome 1668 1677	dysphagia
+T33	ResearchActivity 359 369	literature
+T34	ResearchActivity 1396 1406	literature
+T35	TemporalConcept 1543 1550	To date
+T36	HealthCareRelatedOrganization 526 532	PubMed
+T37	BiologicFunction 275 280	death
+T38	PathologicFunction 275 280	death
+T39	PharmacologicSubstance 1428 1441	tetrabenazine
+T40	Chemical 1428 1441	tetrabenazine
+T41	ResearchActivity 467 484	Literature search
+T42	CellFunction 275 280	death
+T43	BiomedicalOccupationOrDiscipline 1304 1319	pharmacological
+T44	HealthCareRelatedOrganization 537 543	EMBASE
+T45	HealthCareActivity 323 333	management
+T46	HealthCareActivity 437 446	treatment
+T47	ResearchActivity 437 446	treatment
+T48	ResearchActivity 557 564	studies
+T49	ResearchActivity 726 733	studies
+T50	BodyPartOrganOrOrganComponent 70 92	central nervous system
+T51	TemporalConcept 500 505	years
+T52	PatientOrDisabledGroup 1112 1120	patients
+T53	PatientOrDisabledGroup 1637 1645	patients
+T54	DiseaseOrSyndrome 0 20	Huntington's disease
+T55	DiseaseOrSyndrome 22 24	HD
+T56	DiseaseOrSyndrome 201 203	HD
+T57	DiseaseOrSyndrome 337 339	HD
+T58	DiseaseOrSyndrome 463 465	HD
+T59	DiseaseOrSyndrome 1126 1128	HD
+T60	DiseaseOrSyndrome 1366 1368	HD
+T61	DiseaseOrSyndrome 1651 1653	HD
+T62	DiseaseOrSyndrome 1681 1683	HD
+T63	ResearchActivity 662 676	pre-post study
+T64	DiseaseOrSyndrome 36 62	neurodegenerative disorder
+T65	TemporalConcept 31 35	rare
+T66	PatientOrDisabledGroup 1160 1167	patient
+T67	HealthCareActivity 1044 1058	videoendoscopy
+T68	HealthCareActivity 983 1006	Instrumental assessment
+T69	HealthCareActivity 1265 1288	instrumental assessment
+T70	ResearchActivity 398 414	state of the art
+T71	HealthCareActivity 881 894	re-assessment
+T72	Finding 1177 1184	outcome
+T73	HealthCareActivity 1233 1244	examination

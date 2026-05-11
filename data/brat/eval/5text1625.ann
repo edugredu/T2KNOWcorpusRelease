@@ -1,0 +1,11 @@
+T0	BodyPartOrganOrOrganComponent 69 74	brain
+T1	DiseaseOrSyndrome 78 80	AD
+T2	DiseaseOrSyndrome 156 158	AD
+T3	BodyPartOrganOrOrganComponent 58 63	blood
+T4	PatientOrDisabledGroup 81 89	patients
+T5	PopulationGroup 174 182	controls
+T6	BodyPartOrganOrOrganComponent 53 56	CSF
+T7	Finding 4 12	presence
+T8	TemporalConcept 130 138	frequent
+T9	Bacterium 16 27	spirochetes
+T10	PathologicFunction 96 111	neural invasion

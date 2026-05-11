@@ -1,0 +1,115 @@
+T0	NaturalPhenomenonOrProcess 0 10	Background
+T1	Chemical 64 77	teriflunomide
+T2	Chemical 79 81	TF
+T3	Chemical 141 143	TF
+T4	Chemical 252 254	TF
+T5	Chemical 525 535	zymosterol
+T6	Chemical 595 597	TF
+T7	BodyPartOrganOrOrganComponent 615 621	orally
+T8	Chemical 758 771	metronidazole
+T9	Chemical 863 865	TF
+T10	Chemical 1036 1038	TF
+T11	Chemical 1143 1153	zymosterol
+T12	Chemical 1184 1186	TF
+T13	Chemical 1295 1297	TF
+T14	Chemical 1453 1463	zymosterol
+T15	BiologicallyActiveSubstance 1082 1091	inhibitor
+T16	PharmacologicSubstance 1082 1091	inhibitor
+T17	Chemical 1082 1091	inhibitor
+T18	ResearchActivity 360 368	cultures
+T19	ResearchActivity 576 584	cultures
+T20	ResearchActivity 831 839	cultures
+T21	Cell 1346 1362	oligodendrocytes
+T22	Cell 1480 1496	oligodendrocytes
+T23	Cell 462 466	OPCs
+T24	Cell 987 991	OPCs
+T25	Cell 290 293	OPC
+T26	Cell 890 893	OPC
+T27	PathologicFunction 208 221	demyelinating
+T28	DiseaseOrSyndrome 1596 1614	multiple sclerosis
+T29	PathologicFunction 742 754	demyelinated
+T30	PathologicFunction 790 802	demyelinated
+T31	PathologicFunction 1162 1174	demyelinated
+T32	PathologicFunction 1269 1281	demyelinated
+T33	Cell 1216 1239	mature oligodendrocytes
+T34	BodyPartOrganOrOrganComponent 1282 1293	spinal cord
+T35	CellFunction 313 328	differentiation
+T36	CellFunction 928 943	differentiation
+T37	CellFunction 1009 1024	differentiation
+T38	CellFunction 1311 1326	differentiation
+T39	BiologicFunction 1200 1212	regeneration
+T40	Chemical 806 818	lysolecithin
+T41	PharmacologicSubstance 806 818	lysolecithin
+T42	ResearchActivity 166 173	culture
+T43	CellFunction 295 308	proliferation
+T44	CellFunction 894 907	proliferation
+T45	Cell 258 288	oligodendrocyte precursor cell
+T46	AminoAcidPeptideOrProtein 662 682	myelin basic protein
+T47	BiologicallyActiveSubstance 662 682	myelin basic protein
+T48	HealthCareActivity 1200 1212	regeneration
+T49	Cell 993 1008	Oligodendrocyte
+T50	Cell 354 359	glial
+T51	PopulationGroup 382 390	neonatal
+T52	TemporalConcept 382 390	neonatal
+T53	CellFunction 1505 1518	myelin repair
+T54	PatientOrDisabledGroup 1582 1590	patients
+T55	BodyPartOrganOrOrganComponent 1501 1504	CNS
+T56	ResearchActivity 820 827	Results
+T57	Finding 1127 1139	accumulation
+T58	Finding 1464 1476	accumulation
+T59	Eukaryote 391 395	mice
+T60	Eukaryote 785 789	mice
+T61	Cell 284 288	cell
+T62	Cell 436 440	cell
+T63	ResearchActivity 222 228	models
+T64	Finding 131 137	effect
+T65	Finding 242 248	effect
+T66	Finding 948 954	effect
+T67	Finding 1522 1550	beneficial off-target effect
+T68	ResearchActivity 342 350	in vitro
+T69	Eukaryote 1263 1268	mouse
+T70	ResearchActivity 195 202	in vivo
+T71	Finding 1391 1414	significantly increased
+T72	Cell 147 162	oligodendrocyte
+T73	NaturalPhenomenonOrProcess 413 425	fluorescence
+T74	Finding 42 45	low
+T75	Finding 841 844	low
+T76	BiologicFunction 46 60	concentrations
+T77	BiologicFunction 845 859	concentrations
+T78	CellFunction 97 110	remyelination
+T79	CellFunction 181 194	remyelination
+T80	CellFunction 627 640	remyelination
+T81	CellFunction 1415 1428	remyelination
+T82	PopulationGroup 456 461	adult
+T83	PopulationGroup 779 784	adult
+T84	PopulationGroup 981 986	adult
+T85	ResearchActivity 586 593	In vivo
+T86	PharmacologicSubstance 64 77	teriflunomide
+T87	PharmacologicSubstance 79 81	TF
+T88	PharmacologicSubstance 141 143	TF
+T89	ExperimentalModelOfDisease 208 228	demyelinating models
+T90	PharmacologicSubstance 252 254	TF
+T91	ResearchActivity 413 448	fluorescence-activated cell sorting
+T92	Chemical 486 509	8,9-unsaturated sterols
+T93	Chemical 510 520	lanosterol
+T94	BiologicallyActiveSubstance 510 520	lanosterol
+T95	PharmacologicSubstance 595 597	TF
+T96	PharmacologicSubstance 555 557	TF
+T97	Chemical 555 557	TF
+T98	Chemical 683 686	GFP
+T99	AminoAcidPeptideOrProtein 683 686	GFP
+T100	AminoAcidPeptideOrProtein 687 701	nitroreductase
+T101	BiologicallyActiveSubstance 687 701	nitroreductase
+T102	Eukaryote 727 741	Xenopus laevis
+T103	ResearchActivity 702 741	(Mbp:GFP-NTR) transgenic Xenopus laevis
+T104	PharmacologicSubstance 758 771	metronidazole
+T105	PharmacologicSubstance 863 865	TF
+T106	PharmacologicSubstance 1295 1297	TF
+T107	PharmacologicSubstance 1036 1038	TF
+T108	AminoAcidPeptideOrProtein 1060 1081	oxidosqualene cyclase
+T109	BiologicallyActiveSubstance 1060 1081	oxidosqualene cyclase
+T110	PharmacologicSubstance 1092 1102	Ro 48-8071
+T111	PharmacologicSubstance 1184 1186	TF
+T112	Eukaryote 1175 1182	tadpole
+T113	Chemical 1441 1443	TF
+T114	PharmacologicSubstance 1441 1443	TF

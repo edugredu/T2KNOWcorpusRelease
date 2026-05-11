@@ -1,0 +1,50 @@
+T0	BodyPartOrganOrOrganComponent 153 164	spinal cord
+T1	CellFunction 431 449	epigenetic changes
+T2	CellFunction 584 595	ferroptosis
+T3	Chemical 635 640	lipid
+T4	ResearchActivity 635 640	lipid
+T5	CellComponent 635 640	lipid
+T6	CellFunction 669 690	programmed cell death
+T7	Finding 709 720	explanation
+T8	TemporalConcept 729 739	occurrence
+T9	CellFunction 860 871	ferroptosis
+T10	CellFunction 948 959	ferroptosis
+T11	CellFunction 1066 1077	ferroptosis
+T12	CellFunction 635 653	lipid peroxidation
+T13	DiseaseOrSyndrome 218 238	Huntington's disease
+T14	DiseaseOrSyndrome 197 216	Parkinson's disease
+T15	BodyPartOrganOrOrganComponent 140 145	brain
+T16	DiseaseOrSyndrome 314 340	neurodegenerative diseases
+T17	DiseaseOrSyndrome 480 506	neurodegenerative diseases
+T18	DiseaseOrSyndrome 759 785	neurodegenerative diseases
+T19	DiseaseOrSyndrome 983 1009	neurodegenerative diseases
+T20	DiseaseOrSyndrome 1081 1107	neurodegenerative diseases
+T21	PathologicFunction 744 755	progression
+T22	PathologicFunction 1213 1224	progression
+T23	TemporalConcept 744 755	progression
+T24	TemporalConcept 1213 1224	progression
+T25	Finding 548 569	accumulating evidence
+T26	TemporalConcept 73 80	chronic
+T27	DiseaseOrSyndrome 176 195	Alzheimer's disease
+T28	DiseaseOrSyndrome 240 269	amyotrophic lateral sclerosis
+T29	TemporalConcept 887 894	current
+T30	PathologicFunction 408 425	neuroinflammation
+T31	ResearchActivity 895 903	research
+T32	ResearchActivity 807 815	overview
+T33	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T34	PathologicFunction 298 310	pathogenesis
+T35	PathologicFunction 464 476	pathogenesis
+T36	PathologicFunction 967 979	pathogenesis
+T37	DiseaseOrSyndrome 274 292	multiple sclerosis
+T38	CellOrMolecularDysfunction 381 406	mitochondrial dysfunction
+T39	BiologicFunction 685 690	death
+T40	PathologicFunction 685 690	death
+T41	PharmacologicSubstance 616 620	iron
+T42	Chemical 616 620	iron
+T43	BiologicallyActiveSubstance 616 620	iron
+T44	TemporalConcept 538 546	Recently
+T45	CellOrMolecularDysfunction 81 114	progressive neuronal degeneration
+T46	CellFunction 685 690	death
+T47	HealthCareActivity 1146 1176	novel therapeutic technologies
+T48	CellOrMolecularDysfunction 119 132	synaptic loss
+T49	ResearchActivity 1013 1040	comprehensive understanding

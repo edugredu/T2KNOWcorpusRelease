@@ -1,0 +1,127 @@
+T0	PathologicFunction 0 19	Synaptic disruption
+T1	Cell 356 359	CCs
+T2	BodyPartOrganOrOrganComponent 411 437	sympathetic nervous system
+T3	Cell 508 521;537 542	noradrenergic cells
+T4	CellFunction 608 623	Bulk exocytosis
+T5	NaturalPhenomenonOrProcess 637 645	kinetics
+T6	CellOrMolecularDysfunction 817 835	mutated huntingtin
+T7	CellFunction 839 852	overexpressed
+T8	Cell 856 859	CCs
+T9	NaturalPhenomenonOrProcess 934 942	kinetics
+T10	CellComponent 950 972	exocytotic fusion pore
+T11	CellComponent 974 978	pore
+T12	PharmacologicSubstance 1149 1153	Ca2+
+T13	Chemical 1149 1153	Ca2+
+T14	Cell 1235 1238	CCs
+T15	CellFunction 1249 1280	secretory single-vesicle spikes
+T16	CellFunction 1295 1302	release
+T17	CellFunction 1319 1329	exocytosis
+T18	CellComponent 1445 1456	fusion pore
+T19	CellFunction 1477 1486	secretion
+T20	Finding 1582 1591	decreases
+T21	CellFunction 1592 1602	exocytosis
+T22	BodyPartOrganOrOrganComponent 1640 1647	adrenal
+T23	Cell 1648 1651	CCs
+T24	CellFunction 1807 1824	fusion exocytosis
+T25	CellFunction 1838 1853	vesicle docking
+T26	Finding 1858 1869	controlling
+T27	CellComponent 1870 1881	fusion pore
+T28	CellFunction 1870 1895	fusion pore stabilization
+T29	BiologicFunction 2087 2118	stress fight-or-flight response
+T30	Cell 2253 2256	CCs
+T31	ResearchActivity 703 715	mouse models
+T32	ExperimentalModelOfDisease 769 810	R6/1 mouse models of Huntington's disease
+T33	Finding 873 882	decreased
+T34	Finding 1027 1036	decreased
+T35	Finding 1053 1062	decreased
+T36	AminoAcidPeptideOrProtein 1347 1350	APP
+T37	GeneOrGenome 1347 1350	APP
+T38	BiologicallyActiveSubstance 1347 1350	APP
+T39	AminoAcidPeptideOrProtein 1351 1354	PS1
+T40	DiseaseOrSyndrome 2131 2140	suffering
+T41	BiologicFunction 2278 2295	stress adaptation
+T42	NaturalPhenomenonOrProcess 1154 1163	clearance
+T43	AminoAcidPeptideOrProtein 1172 1176	SOD1
+T44	GeneOrGenome 1172 1176	SOD1
+T45	BiologicallyActiveSubstance 1172 1176	SOD1
+T46	BiologicallyActiveSubstance 32 48	neurotransmitter
+T47	Chemical 1063 1076	acetylcholine
+T48	PharmacologicSubstance 1063 1076	acetylcholine
+T49	BiologicallyActiveSubstance 1063 1076	acetylcholine
+T50	TemporalConcept 1303 1307	rate
+T51	AminoAcidPeptideOrProtein 1523 1532	synuclein
+T52	BiologicallyActiveSubstance 1523 1532	synuclein
+T53	AminoAcidPeptideOrProtein 1517 1532	alpha-synuclein
+T54	BiologicallyActiveSubstance 1517 1532	alpha-synuclein
+T55	DiseaseOrSyndrome 142 146	NDDs
+T56	DiseaseOrSyndrome 746 750	NDDs
+T57	DiseaseOrSyndrome 2009 2013	NDDs
+T58	ResearchActivity 1183 1194	mouse model
+T59	ResearchActivity 1355 1366	mouse model
+T60	PathologicFunction 2307 2326	disease progression
+T61	CellOrMolecularDysfunction 727 735	mutation
+T62	OrganismAttribute 918 922	size
+T63	AminoAcidPeptideOrProtein 2225 2249	mutated disease proteins
+T64	Cell 320 354	adrenal medullary chromaffin cells
+T65	Cell 526 542	adrenergic cells
+T66	DiseaseOrSyndrome 1391 1393	AD
+T67	Finding 176 184	evidence
+T68	ResearchActivity 304 311	studies
+T69	BodyPartOrganOrOrganComponent 2041 2051	peripheral
+T70	TemporalConcept 169 174	years
+T71	GeneOrGenome 1699 1703	HAP1
+T72	GeneOrGenome 1789 1793	HAP1
+T73	PathologicFunction 2315 2326	progression
+T74	TemporalConcept 2315 2326	progression
+T75	AminoAcidPeptideOrProtein 1699 1703	HAP1
+T76	AminoAcidPeptideOrProtein 1789 1793	HAP1
+T77	BiologicallyActiveSubstance 1699 1703	HAP1
+T78	BiologicallyActiveSubstance 1789 1793	HAP1
+T79	DiseaseOrSyndrome 114 140	neurodegenerative diseases
+T80	PatientOrDisabledGroup 81 89	patients
+T81	PatientOrDisabledGroup 2122 2130	patients
+T82	DiseaseOrSyndrome 1762 1782	Huntington's disease
+T83	DiseaseOrSyndrome 1557 1576	Parkinson's disease
+T84	DiseaseOrSyndrome 812 814	HD
+T85	DiseaseOrSyndrome 1784 1786	HD
+T86	DiseaseOrSyndrome 1578 1580	PD
+T87	DiseaseOrSyndrome 1229 1232	ALS
+T88	DiseaseOrSyndrome 1198 1227	amyotrophic lateral sclerosis
+T89	DiseaseOrSyndrome 1370 1389	Alzheimer's disease
+T90	ResearchActivity 291 297	review
+T91	HealthCareActivity 291 297	review
+T92	AminoAcidPeptideOrProtein 1724 1734	huntingtin
+T93	GeneOrGenome 1724 1734	huntingtin
+T94	BodyPartOrganOrOrganComponent 71 77	brains
+T95	ResearchActivity 104 110	models
+T96	PatientOrDisabledGroup 2350 2357	patient
+T97	Eukaryote 97 103	murine
+T98	CellOrMolecularDysfunction 24 56	altered neurotransmitter release
+T99	ExperimentalModelOfDisease 97 140	murine models of neurodegenerative diseases
+T100	BodyPartOrganOrOrganComponent 221 241	sympathoadrenal axis
+T101	CellFunction 455 473	exocytotic release
+T102	BiologicallyActiveSubstance 483 497	catecholamines
+T103	PharmacologicSubstance 483 497	catecholamines
+T104	BiologicFunction 575 606	stress fight-or-flight response
+T105	CellFunction 649 681	single-vesicle exocytotic events
+T106	AminoAcidPeptideOrProtein 817 835	mutated huntingtin
+T107	CellFunction 883 900	quantal secretion
+T108	CellFunction 974 988	pore expansion
+T109	CellFunction 974 978;994 1001	pore closure
+T110	CellFunction 1037 1051	sodium current
+T111	Chemical 1037 1043	sodium
+T112	BiologicallyActiveSubstance 1037 1043	sodium
+T113	CellFunction 1084 1101	action potentials
+T114	Chemical 1119 1123	Ca2+
+T115	BiologicallyActiveSubstance 1119 1123	Ca2+
+T116	ExperimentalModelOfDisease 1172 1227	SOD1(G93A) mouse model of amyotrophic lateral sclerosis
+T117	ExperimentalModelOfDisease 1347 1389	APP/PS1 mouse model of Alzheimer's disease
+T118	CellFunction 1616 1636	fusion pore dilation
+T119	AminoAcidPeptideOrProtein 1666 1697	Huntington-associated protein 1
+T120	BiologicallyActiveSubstance 1666 1697	Huntington-associated protein 1
+T121	BiologicallyActiveSubstance 1724 1734	huntingtin
+T122	BodyPartOrganOrOrganComponent 2052 2072	sympathoadrenal axis
+T123	IndividualBehavior 2358 2366	autonomy
+T124	Finding 2167 2178	alterations
+T125	CellFunction 2211 2221	expression
+T126	CellOrMolecularDysfunction 2225 2249	mutated disease proteins

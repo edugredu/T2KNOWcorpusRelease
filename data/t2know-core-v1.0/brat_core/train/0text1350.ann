@@ -1,0 +1,91 @@
+T0	DiseaseOrSyndrome 0 28	Pelizaeus-Merzbacher disease
+T1	DiseaseOrSyndrome 40 63	X-linked leukodystrophy
+T2	GeneOrGenome 91 100	PLP1 gene
+T3	TemporalConcept 153 166	Disease onset
+T4	Finding 280 295	hypomyelination
+T5	HealthCareActivity 346 366	cell transplantation
+T6	IndividualBehavior 467 474	failure
+T7	TemporalConcept 559 564	early
+T8	GeneOrGenome 609 618	PLP1 gene
+T9	GeneOrGenome 669 673	PLP1
+T10	CellFunction 674 685	duplication
+T11	DiseaseOrSyndrome 721 749	Pelizaeus-Merzbacher disease
+T12	HealthCareActivity 807 814	autopsy
+T13	Substance 815 823	material
+T14	CellOrMolecularDysfunction 880 899	duplication of PLP1
+T15	GeneOrGenome 895 899	PLP1
+T16	PathologicFunction 999 1013	dysmyelination
+T17	GeneOrGenome 1078 1082	Plp1
+T18	AminoAcidPeptideOrProtein 1205 1208	PLP
+T19	GeneOrGenome 1205 1208	PLP
+T20	CellFunction 1205 1223	PLP overexpression
+T21	ResearchActivity 1454 1463	wild-type
+T22	TemporalConcept 1519 1526	newborn
+T23	CellOrMolecularDysfunction 1527 1534	mutants
+T24	GeneOrGenome 1770 1774	PLP1
+T25	CellOrMolecularDysfunction 1770 1800	PLP1 gene duplication mutation
+T26	HealthCareActivity 1861 1886	stem cell transplantation
+T27	DiseaseOrSyndrome 1903 1919	leukodystrophies
+T28	CellComponent 1033 1039	axonal
+T29	CellComponent 1264 1270	axonal
+T30	HealthCareActivity 1690 1704	cell therapies
+T31	BodyPartOrganOrOrganComponent 128 131	CNS
+T32	BodyPartOrganOrOrganComponent 276 279	CNS
+T33	BodyPartOrganOrOrganComponent 376 379	CNS
+T34	CellComponent 1747 1752	axons
+T35	TemporalConcept 565 578	disease onset
+T36	CellFunction 74 83	mutations
+T37	CellOrMolecularDysfunction 74 83	mutations
+T38	CellOrMolecularDysfunction 586 601	point mutations
+T39	Cell 135 151	oligodendrocytes
+T40	Cell 1294 1310	oligodendrocytes
+T41	Finding 181 190	mortality
+T42	ResearchActivity 1344 1363	electron microscopy
+T43	HealthCareActivity 1138 1150	transplanted
+T44	HealthCareActivity 1483 1495	transplanted
+T45	CellFunction 492 503	myelination
+T46	CellFunction 1248 1259	myelination
+T47	CellFunction 1723 1734	myelination
+T48	CellFunction 1948 1959	myelination
+T49	Finding 1716 1722	normal
+T50	Finding 1926 1932	normal
+T51	CellOrMolecularDysfunction 1033 1052	axonal degeneration
+T52	ResearchActivity 1403 1417	immunostaining
+T53	BiologicFunction 478 491	developmental
+T54	BiologicFunction 1234 1247	developmental
+T55	BiologicFunction 1934 1947	developmental
+T56	TemporalConcept 478 491	developmental
+T57	TemporalConcept 1234 1247	developmental
+T58	TemporalConcept 1934 1947	developmental
+T59	Cell 1151 1168	neural stem cells
+T60	TemporalConcept 514 522	recently
+T61	SignOrSymptom 168 176	symptoms
+T62	PathologicFunction 1040 1052	degeneration
+T63	PatientOrDisabledGroup 545 553	patients
+T64	PatientOrDisabledGroup 653 661	patients
+T65	PatientOrDisabledGroup 866 874	patients
+T66	PatientOrDisabledGroup 1756 1764	patients
+T67	ExperimentalModelOfDisease 1078 1105	Plp1 transgenic mouse model
+T68	Cell 1678 1694	neural stem cell
+T69	ResearchActivity 1644 1648	data
+T70	HealthCareActivity 328 337	treatment
+T71	ResearchActivity 328 337	treatment
+T72	PathologicFunction 755 764	pathology
+T73	PathologicFunction 950 959	pathology
+T74	BiomedicalOccupationOrDiscipline 755 764	pathology
+T75	BiomedicalOccupationOrDiscipline 950 959	pathology
+T76	CellFunction 111 120	expressed
+T77	PathologicFunction 1015 1028	demyelination
+T78	HealthCareActivity 645 648	MRI
+T79	BodyPartOrganOrOrganComponent 391 397	myelin
+T80	BodyPartOrganOrOrganComponent 635 641	myelin
+T81	BodyPartOrganOrOrganComponent 1180 1186	myelin
+T82	BodyPartOrganOrOrganComponent 1595 1601	myelin
+T83	BodyPartOrganOrOrganComponent 1505 1511	brains
+T84	CellOrMolecularDysfunction 244 252	mutation
+T85	CellOrMolecularDysfunction 669 694	PLP1 duplication mutation
+T86	ResearchActivity 417 430	animal models
+T87	PopulationGroup 858 865	elderly
+T88	TemporalConcept 940 949	end-stage
+T89	BiologicallyActiveSubstance 1205 1208	PLP
+T90	Cell 1464 1481	neural precursors

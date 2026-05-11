@@ -1,0 +1,134 @@
+T0	AminoAcidPeptideOrProtein 401 416	isoforms of tau
+T1	AminoAcidPeptideOrProtein 554 562	isoforms
+T2	NucleicAcidNucleosideOrNucleotide 554 562	isoforms
+T3	DiseaseOrSyndrome 953 964	tauopathies
+T4	DiseaseOrSyndrome 1131 1157	mild cognitive impairments
+T5	Finding 2214 2221	improve
+T6	Finding 67 76	decreased
+T7	DiseaseOrSyndrome 919 941	neurological disorders
+T8	AminoAcidPeptideOrProtein 77 97	amyloid-beta peptide
+T9	TemporalConcept 655 661	latest
+T10	DiseaseOrSyndrome 1136 1157	cognitive impairments
+T11	HealthCareActivity 2406 2430	therapeutic applications
+T12	CellFunction 1468 1483	phosphorylation
+T13	CellFunction 1560 1575	phosphorylation
+T14	HealthCareActivity 1222 1233	PET imaging
+T15	BiologicFunction 1885 1899	concentrations
+T16	HealthCareActivity 602 611	challenge
+T17	ResearchActivity 662 692	quantitative mass spectrometry
+T18	BodyPartOrganOrOrganComponent 493 509	brain parenchyma
+T19	Chemical 1218 1221	PiB
+T20	Chemical 1937 1940	PiB
+T21	Chemical 2328 2331	PiB
+T22	BodyPartOrganOrOrganComponent 11 30	Cerebrospinal fluid
+T23	CellFunction 386 400	phosphorylated
+T24	Finding 991 997	normal
+T25	Finding 1094 1100	normal
+T26	HealthCareActivity 1226 1233	imaging
+T27	ResearchActivity 675 692	mass spectrometry
+T28	DiseaseOrSyndrome 253 279	neurodegenerative diseases
+T29	DiseaseOrSyndrome 1365 1391	neurodegenerative diseases
+T30	ClinicalAttribute 129 154	phosphorylated tau levels
+T31	PathologicFunction 720 729	sensitive
+T32	TemporalConcept 830 835	first
+T33	TemporalConcept 1258 1263	first
+T34	TemporalConcept 184 193	currently
+T35	PopulationGroup 1396 1412	control subjects
+T36	PopulationGroup 1627 1643	control subjects
+T37	Finding 2191 2198	finding
+T38	PopulationGroup 991 1006	normal controls
+T39	AminoAcidPeptideOrProtein 413 416	tau
+T40	AminoAcidPeptideOrProtein 2474 2477	tau
+T41	DiseaseOrSyndrome 223 242	Alzheimer's disease
+T42	DiseaseOrSyndrome 333 352	Alzheimer's disease
+T43	DiseaseOrSyndrome 866 885	Alzheimer's disease
+T44	DiseaseOrSyndrome 1315 1334	Alzheimer's disease
+T45	DiseaseOrSyndrome 1527 1546	Alzheimer's disease
+T46	DiseaseOrSyndrome 2165 2184	Alzheimer's disease
+T47	DiseaseOrSyndrome 2239 2258	Alzheimer's disease
+T48	BiologicallyActiveSubstance 413 416	tau
+T49	BiologicallyActiveSubstance 2474 2477	tau
+T50	DiseaseOrSyndrome 1162 1164	AD
+T51	ClinicalAttribute 31 40	biomarker
+T52	ClinicalAttribute 763 772	biomarker
+T53	BodyPartOrganOrOrganComponent 743 762	cerebrospinal fluid
+T54	BodyPartOrganOrOrganComponent 1725 1744	cerebrospinal fluid
+T55	BodyPartOrganOrOrganComponent 2017 2036	cerebrospinal fluid
+T56	PatientOrDisabledGroup 513 521	patients
+T57	PatientOrDisabledGroup 886 894	patients
+T58	PatientOrDisabledGroup 899 907	patients
+T59	PatientOrDisabledGroup 1117 1125	patients
+T60	PatientOrDisabledGroup 1335 1343	patients
+T61	PatientOrDisabledGroup 1513 1521	patients
+T62	PatientOrDisabledGroup 1780 1788	patients
+T63	AminoAcidPeptideOrProtein 780 807	phosphorylated tau isoforms
+T64	BiologicallyActiveSubstance 780 807	phosphorylated tau isoforms
+T65	PathologicFunction 2474 2487	tau pathology
+T66	ResearchActivity 2336 2340	data
+T67	PopulationGroup 1101 1112	individuals
+T68	Finding 1028 1036	validity
+T69	AminoAcidPeptideOrProtein 1194 1201	amyloid
+T70	AminoAcidPeptideOrProtein 1763 1770	amyloid
+T71	AminoAcidPeptideOrProtein 2462 2469	amyloid
+T72	BiologicallyActiveSubstance 1194 1201	amyloid
+T73	BiologicallyActiveSubstance 1763 1770	amyloid
+T74	BiologicallyActiveSubstance 2462 2469	amyloid
+T75	HealthCareActivity 2226 2235	diagnosis
+T76	ClinicalAttribute 2097 2107	biomarkers
+T77	ResearchActivity 636 641	study
+T78	Finding 1439 1450	sensitivity
+T79	Finding 1796 1807	sensitivity
+T80	Finding 1423 1434	specificity
+T81	Finding 1814 1825	specificity
+T82	ManufacturedObject 1681 1685	case
+T83	PopulationGroup 1396 1403	control
+T84	PopulationGroup 1627 1634	control
+T85	ResearchActivity 1855 1857	CI
+T86	ResearchActivity 1243 1250	Results
+T87	Finding 979 997	cognitively normal
+T88	Finding 1082 1100	cognitively normal
+T89	HealthCareActivity 1222 1225	PET
+T90	HealthCareActivity 1941 1944	PET
+T91	HealthCareActivity 2332 2335	PET
+T92	Finding 1202 1208	status
+T93	PopulationGroup 1404 1412	subjects
+T94	PopulationGroup 1635 1643	subjects
+T95	HealthCareActivity 535 544	detection
+T96	HealthCareActivity 730 739	detection
+T97	Finding 1131 1135	mild
+T98	PopulationGroup 847 853	cohort
+T99	PopulationGroup 1064 1070	cohort
+T100	PopulationGroup 1264 1270	cohort
+T101	PopulationGroup 1698 1704	cohort
+T102	ResearchActivity 1844 1847	AUC
+T103	ResearchActivity 41 49	profiles
+T104	ResearchActivity 2275 2287	correlations
+T105	ResearchActivity 836 844	analyzed
+T106	BiologicallyActiveSubstance 809 814	pT181
+T107	AminoAcidPeptideOrProtein 809 814	pT181
+T108	AminoAcidPeptideOrProtein 819 824	pT217
+T109	BiologicallyActiveSubstance 819 824	pT217
+T110	AminoAcidPeptideOrProtein 158 171	threonine 181
+T111	AminoAcidPeptideOrProtein 173 178	pT181
+T112	BiologicallyActiveSubstance 173 178	pT181
+T113	ClinicalAttribute 77 104	amyloid-beta peptide levels
+T114	Substance 566 583	biological fluids
+T115	AminoAcidPeptideOrProtein 1456 1461	pT181
+T116	BiologicallyActiveSubstance 1456 1461	pT181
+T117	AminoAcidPeptideOrProtein 1272 1277	pT217
+T118	BiologicallyActiveSubstance 1272 1277	pT217
+T119	AminoAcidPeptideOrProtein 1286 1291	pT181
+T120	BiologicallyActiveSubstance 1286 1291	pT181
+T121	AminoAcidPeptideOrProtein 1555 1559	T181
+T122	AminoAcidPeptideOrProtein 1719 1724	pT217
+T123	BiologicallyActiveSubstance 1719 1724	pT217
+T124	ClinicalAttribute 1719 1751	pT217 cerebrospinal fluid levels
+T125	AminoAcidPeptideOrProtein 1879 1884	pT217
+T126	BiologicallyActiveSubstance 1879 1884	pT217
+T127	AminoAcidPeptideOrProtein 2070 2075	pT181
+T128	BiologicallyActiveSubstance 2070 2075	pT181
+T129	ClinicalAttribute 2017 2049	cerebrospinal fluid pT217 levels
+T130	AminoAcidPeptideOrProtein 2311 2316	pT217
+T131	BiologicallyActiveSubstance 2311 2316	pT217
+T132	AminoAcidPeptideOrProtein 2364 2369	pT217
+T133	BiologicallyActiveSubstance 2364 2369	pT217

@@ -1,0 +1,115 @@
+T0	PathologicFunction 99 108	Sensitive
+T1	Finding 173 179	detect
+T2	ResearchActivity 1034 1050	characterization
+T3	CellOrMolecularDysfunction 180 200	neuronal dysfunction
+T4	TemporalConcept 831 838	to date
+T5	BiologicFunction 1545 1555	conduction
+T6	NaturalPhenomenonOrProcess 1545 1555	conduction
+T7	ResearchActivity 1880 1905	logistic regression model
+T8	TemporalConcept 834 838	date
+T9	HealthCareActivity 339 361	magnetoencephalography
+T10	HealthCareActivity 1193 1242	Resting-state source-space magnetoencephalography
+T11	Finding 508 516	coupling
+T12	ResearchActivity 640 650	theta band
+T13	ResearchActivity 1686 1696	theta band
+T14	ClinicalAttribute 1157 1172	novel biomarker
+T15	Finding 1714 1731	group differences
+T16	ResearchActivity 1805 1808	ROC
+T17	OrganismAttribute 667 674	ability
+T18	DiseaseOrSyndrome 585 613	subjective cognitive decline
+T19	DiseaseOrSyndrome 1276 1304	subjective cognitive decline
+T20	DiseaseOrSyndrome 1306 1309	SCD
+T21	DiseaseOrSyndrome 1851 1854	SCD
+T22	NaturalPhenomenonOrProcess 1132 1139	entropy
+T23	NaturalPhenomenonOrProcess 1413 1420	entropy
+T24	NaturalPhenomenonOrProcess 1504 1511	entropy
+T25	NaturalPhenomenonOrProcess 1697 1704	entropy
+T26	BodyPartOrganOrOrganComponent 1486 1491	joint
+T27	Finding 1441 1453	interactions
+T28	Finding 67 74	finding
+T29	Finding 1579 1588	reduction
+T30	NaturalPhenomenonOrProcess 1579 1588	reduction
+T31	BodyPartOrganOrOrganComponent 1755 1768	brain regions
+T32	DiseaseOrSyndrome 78 97	Alzheimer's disease
+T33	DiseaseOrSyndrome 260 279	Alzheimer's disease
+T34	DiseaseOrSyndrome 811 830	Alzheimer's disease
+T35	DiseaseOrSyndrome 959 978	Alzheimer's disease
+T36	DiseaseOrSyndrome 980 982	AD
+T37	DiseaseOrSyndrome 1189 1191	AD
+T38	DiseaseOrSyndrome 2231 2233	AD
+T39	ClinicalAttribute 767 795	neurophysiological biomarker
+T40	ClinicalAttribute 1163 1172	biomarker
+T41	ClinicalAttribute 2205 2214	biomarker
+T42	ResearchActivity 362 366	data
+T43	ResearchActivity 993 1000	studies
+T44	ResearchActivity 2268 2275	studies
+T45	DiseaseOrSyndrome 224 244	cognitive impairment
+T46	DiseaseOrSyndrome 1337 1357	cognitive impairment
+T47	ClinicalAttribute 123 133	biomarkers
+T48	ClinicalAttribute 934 954	promising biomarkers
+T49	DiseaseOrSyndrome 246 249	MCI
+T50	DiseaseOrSyndrome 618 621	MCI
+T51	DiseaseOrSyndrome 1359 1362	MCI
+T52	DiseaseOrSyndrome 1618 1621	MCI
+T53	DiseaseOrSyndrome 1840 1843	MCI
+T54	Finding 527 550	significant differences
+T55	Finding 1720 1731	differences
+T56	Finding 316 327	variability
+T57	Finding 471 482	variability
+T58	Finding 886 904	signal variability
+T59	Finding 2077 2088	performance
+T60	DiseaseOrSyndrome 596 613	cognitive decline
+T61	DiseaseOrSyndrome 1287 1304	cognitive decline
+T62	Finding 851 859	evidence
+T63	TemporalConcept 1177 1182	early
+T64	TemporalConcept 2219 2224	early
+T65	PopulationGroup 109 116	network
+T66	PopulationGroup 295 302	network
+T67	PopulationGroup 1101 1108	network
+T68	CellFunction 109 116	network
+T69	CellFunction 295 302	network
+T70	CellFunction 1101 1108	network
+T71	ResearchActivity 1770 1803;1810 1818	Receiver operating characteristic analysis
+T72	ResearchActivity 2033 2039	models
+T73	DiseaseOrSyndrome 219 244	mild cognitive impairment
+T74	DiseaseOrSyndrome 1332 1357	mild cognitive impairment
+T75	PopulationGroup 1714 1719	group
+T76	PopulationGroup 571 579	subjects
+T77	PopulationGroup 1262 1270	subjects
+T78	PopulationGroup 1318 1326	subjects
+T79	PopulationGroup 1622 1630	subjects
+T80	PopulationGroup 1855 1863	subjects
+T81	Finding 219 223	mild
+T82	Finding 1332 1336	mild
+T83	ClinicalAttribute 2195 2214	potential biomarker
+T84	BiologicFunction 1602 1614	connectivity
+T85	HealthCareActivity 656 666	diagnostic
+T86	TemporalConcept 251 256	stage
+T87	TemporalConcept 1183 1188	stage
+T88	TemporalConcept 2225 2230	stage
+T89	ClinicalAttribute 251 256	stage
+T90	ClinicalAttribute 1183 1188	stage
+T91	ClinicalAttribute 2225 2230	stage
+T92	ClinicalAttribute 372 406	inverted joint permutation entropy
+T93	PathologicFunction 15 44	Functional network disruption
+T94	TemporalConcept 206 217	predementia
+T95	ResearchActivity 328 335	measure
+T96	HealthCareActivity 328 335	measure
+T97	ClinicalAttribute 408 416	JPE(inv)
+T98	ClinicalAttribute 554 562	JPE(inv)
+T99	ClinicalAttribute 682 690	JPE(inv)
+T100	ClinicalAttribute 738 749	theta power
+T101	TemporalConcept 799 810	predementia
+T102	TemporalConcept 985 992	Earlier
+T103	ClinicalAttribute 1101 1139	network version of permutation entropy
+T104	ClinicalAttribute 1917 1925	JPE(inv)
+T105	ClinicalAttribute 2015 2026	theta power
+T106	ClinicalAttribute 2144 2155	theta power
+T107	ClinicalAttribute 2092 2106	theta JPE(inv)
+T108	ClinicalAttribute 2171 2179	JPE(inv)
+T109	ResearchActivity 1401 1420	permutation entropy
+T110	ClinicalAttribute 1477 1511	inverted joint permutation entropy
+T111	ClinicalAttribute 1513 1521	JPE(inv)
+T112	ClinicalAttribute 1561 1569	JPE(inv)
+T113	ResearchActivity 1638 1658	theta and alpha band
+T114	ResearchActivity 1660 1668	Local PE

@@ -1,0 +1,66 @@
+T0	ResearchActivity 550 558	Analysis
+T1	PathologicFunction 828 835	effects
+T2	Substance 840 846	sample
+T3	BodyPartOrganOrOrganComponent 840 846	sample
+T4	Substance 895 901	sample
+T5	BodyPartOrganOrOrganComponent 895 901	sample
+T6	CellOrMolecularDysfunction 993 1012	abnormal A beta(42)
+T7	Finding 1075 1083	presence
+T8	Finding 194 201	finding
+T9	Finding 67 78	differences
+T10	Finding 287 298	differences
+T11	DiseaseOrSyndrome 106 125	Alzheimer's disease
+T12	ClinicalAttribute 617 627	biomarkers
+T13	PathologicFunction 1090 1099	pathology
+T14	BiomedicalOccupationOrDiscipline 1090 1099	pathology
+T15	ResearchActivity 672 679	Results
+T16	ResearchActivity 23 30	studies
+T17	ResearchActivity 213 220	studies
+T18	DiseaseOrSyndrome 127 129	AD
+T19	DiseaseOrSyndrome 380 382	AD
+T20	DiseaseOrSyndrome 711 713	AD
+T21	DiseaseOrSyndrome 878 880	AD
+T22	DiseaseOrSyndrome 1087 1089	AD
+T23	DiseaseOrSyndrome 1159 1161	AD
+T24	ClinicalAttribute 83 92	biomarker
+T25	ClinicalAttribute 357 366	biomarker
+T26	ClinicalAttribute 714 723	biomarker
+T27	ClinicalAttribute 881 890	biomarker
+T28	ResearchActivity 562 579	covariance models
+T29	ResearchActivity 428 525	German Center for Neurodegenerative Diseases Longitudinal Cognitive Impairment and Dementia study
+T30	ResearchActivity 1057 1062	model
+T31	BodyPartOrganOrOrganComponent 337 356	cerebrospinal fluid
+T32	BodyPartOrganOrOrganComponent 597 616	cerebrospinal fluid
+T33	TemporalConcept 1129 1146	preclinical stage
+T34	TemporalConcept 1141 1146	stage
+T35	TemporalConcept 1148 1153	stage
+T36	ClinicalAttribute 1141 1146	stage
+T37	ClinicalAttribute 1148 1153	stage
+T38	DiseaseOrSyndrome 134 162	subjective cognitive decline
+T39	PopulationGroup 311 319	subjects
+T40	PopulationGroup 979 987	subjects
+T41	HealthCareRelatedOrganization 1202 1225	Alzheimer's Association
+T42	PopulationGroup 396 404	European
+T43	Substance 351 356	fluid
+T44	BiologicallyActiveSubstance 725 736	A beta(422)
+T45	AminoAcidPeptideOrProtein 740 750	A beta(42)
+T46	BodyPartOrganOrOrganComponent 268 279	gray matter
+T47	BodyPartOrganOrOrganComponent 787 790	MTL
+T48	BodyPartOrganOrOrganComponent 940 943	MTL
+T49	BodyPartOrganOrOrganComponent 1176 1179	MTL
+T50	TemporalConcept 14 22	Previous
+T51	Finding 93 101	evidence
+T52	Finding 367 375	evidence
+T53	ClinicalAttribute 54 66	brain volume
+T54	BiologicFunction 405 411	memory
+T55	ClinicalAttribute 268 286	gray matter volume
+T56	DiseaseOrSyndrome 164 167	SCD
+T57	DiseaseOrSyndrome 209 212	SCD
+T58	DiseaseOrSyndrome 307 310	SCD
+T59	BiologicallyActiveSubstance 740 750	A beta(42)
+T60	BodyPartOrganOrOrganComponent 760 785	left medial temporal lobe
+T61	Finding 850 869	interaction effects
+T62	ClinicalAttribute 940 950	MTL volume
+T63	DiseaseOrSyndrome 975 978	SCD
+T64	DiseaseOrSyndrome 1101 1104	SCD
+T65	ClinicalAttribute 1176 1187	MTL volumes

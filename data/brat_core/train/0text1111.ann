@@ -1,0 +1,84 @@
+T0	Substance 69 77	solution
+T1	BiologicFunction 142 159	skin regeneration
+T2	BiologicFunction 269 282	wound healing
+T3	HealthCareActivity 563 572	reporting
+T4	BiologicFunction 841 856	healing process
+T5	Cell 871 882	cell source
+T6	ExperimentalModelOfDisease 908 921	disease model
+T7	HealthCareActivity 964 971	regimen
+T8	ResearchActivity 1127 1147	genetic manipulation
+T9	HealthCareActivity 1217 1227	Evaluation
+T10	ResearchActivity 1217 1227	Evaluation
+T11	PathologicFunction 1241 1256	adverse effects
+T12	HealthCareActivity 1445 1454	reporting
+T13	BiologicFunction 1548 1561	wound healing
+T14	HealthCareActivity 1703 1712	reporting
+T15	ResearchActivity 1764 1779	standardization
+T16	ResearchActivity 1785 1798	risk analysis
+T17	ResearchActivity 176 193	systematic review
+T18	ResearchActivity 665 682	systematic review
+T19	BiologicFunction 287 304	skin regeneration
+T20	BiologicFunction 743 760	skin regeneration
+T21	BiologicFunction 1566 1583	skin regeneration
+T22	HealthCareActivity 101 126	therapeutic interventions
+T23	HealthCareActivity 1628 1638	evaluation
+T24	ResearchActivity 1628 1638	evaluation
+T25	HealthCareActivity 720 733	interventions
+T26	ResearchActivity 720 733	interventions
+T27	Finding 1344 1356	Risk of bias
+T28	HealthCareActivity 176 193	systematic review
+T29	HealthCareActivity 665 682	systematic review
+T30	BiologicFunction 1088 1103	preconditioning
+T31	BiologicFunction 1279 1288	attention
+T32	CellComponent 6 28	extracellular vesicles
+T33	CellComponent 927 929	EV
+T34	Finding 211 219	evidence
+T35	Finding 1642 1650	evidence
+T36	ResearchActivity 1816 1824	research
+T37	Cell 1071 1083	source cells
+T38	ResearchActivity 326 333	studies
+T39	ResearchActivity 483 490	studies
+T40	ResearchActivity 1005 1012	studies
+T41	ResearchActivity 1311 1318	studies
+T42	ResearchActivity 1417 1424	studies
+T43	HealthCareActivity 1862 1879	clinical practice
+T44	TemporalConcept 85 92	current
+T45	HealthCareActivity 1513 1520	therapy
+T46	OrganismAttribute 983 987	size
+T47	Finding 234 254	therapeutic efficacy
+T48	HealthCareActivity 1194 1215	therapeutic potential
+T49	ResearchActivity 308 321	animal models
+T50	ResearchActivity 790 803	animal models
+T51	TemporalConcept 1806 1812	stages
+T52	BodyPartOrganOrOrganComponent 287 291	skin
+T53	BodyPartOrganOrOrganComponent 743 747	skin
+T54	CellFunction 1847 1858	translation
+T55	ResearchActivity 687 700	meta-analysis
+T56	HealthCareRelatedOrganization 381 387	PubMed
+T57	HealthCareRelatedOrganization 353 367	Web of Science
+T58	CellComponent 30 34	sEVs
+T59	CellComponent 1030 1034	sEVs
+T60	CellComponent 230 233	sEV
+T61	CellComponent 716 719	sEV
+T62	CellComponent 1190 1193	sEV
+T63	CellComponent 1509 1512	sEV
+T64	CellComponent 0 28	Small extracellular vesicles
+T65	HealthCareActivity 259 265	safety
+T66	ResearchActivity 1105 1125	nanoparticle loading
+T67	ResearchActivity 1153 1178	biomaterial incorporation
+T68	Substance 1153 1164	biomaterial
+T69	ResearchActivity 1014 1034	Modification of sEVs
+T70	ExperimentalModelOfDisease 764 772;790 803	diabetic animal models
+T71	ExperimentalModelOfDisease 777 803	non-diabetic animal models
+T72	ResearchActivity 884 903	production protocol
+T73	ResearchActivity 622 631	MISEV2018
+T74	ResearchActivity 636 649	ISCT criteria
+T75	HealthCareRelatedOrganization 369 375	Scopus
+T76	ResearchActivity 425 443	inclusion criteria
+T77	ResearchActivity 510 528	inclusion criteria
+T78	ResearchActivity 550 561	methodology
+T79	ResearchActivity 600 610	guidelines
+T80	ResearchActivity 938 955	isolation methods
+T81	InjuryOrPoisoning 977 982	wound
+T82	ResearchActivity 1376 1393	SYRCLE's ROB tool
+T83	ResearchActivity 1473 1483	guidelines

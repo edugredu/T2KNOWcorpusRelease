@@ -1,0 +1,98 @@
+T0	CellComponent 42 45	pEV
+T1	DiseaseOrSyndrome 209 229	Alzheimer's diseases
+T2	ResearchActivity 314 332	case-control study
+T3	CellComponent 485 488	pEV
+T4	ResearchActivity 800 803	IHC
+T5	ResearchActivity 800 812	IHC staining
+T6	Finding 804 812	staining
+T7	CellComponent 955 958	pEV
+T8	AminoAcidPeptideOrProtein 1087 1103	gamma-secretases
+T9	BodyPartOrganOrOrganComponent 1225 1239	choroid plexus
+T10	BodyPartOrganOrOrganComponent 1241 1243	CP
+T11	AminoAcidPeptideOrProtein 1435 1444	proteases
+T12	Chemical 1449 1459	Hyaluronan
+T13	BodyPartOrganOrOrganComponent 1491 1493	CP
+T14	CellComponent 1713 1716	pEV
+T15	AnatomicalAbnormality 189 195	plaque
+T16	TemporalConcept 1735 1743	duration
+T17	ResearchActivity 1144 1152	In vitro
+T18	BiologicFunction 474 481	content
+T19	BodyPartOrganOrOrganComponent 1626 1630	axis
+T20	BiologicallyActiveSubstance 1368 1377	inhibitor
+T21	PharmacologicSubstance 1368 1377	inhibitor
+T22	Chemical 1368 1377	inhibitor
+T23	ResearchActivity 1507 1535	animal injection experiments
+T24	ResearchActivity 506 519	assay systems
+T25	PopulationGroup 425 432	control
+T26	PopulationGroup 846 852	cohort
+T27	CellComponent 18 40	extracellular vesicles
+T28	DiseaseOrSyndrome 231 233	AD
+T29	DiseaseOrSyndrome 273 275	AD
+T30	DiseaseOrSyndrome 368 370	AD
+T31	DiseaseOrSyndrome 678 680	AD
+T32	DiseaseOrSyndrome 856 858	AD
+T33	DiseaseOrSyndrome 998 1000	AD
+T34	DiseaseOrSyndrome 1052 1054	AD
+T35	DiseaseOrSyndrome 1199 1201	AD
+T36	CellComponent 654 656	EV
+T37	CellComponent 1164 1166	EV
+T38	CellComponent 1465 1467	EV
+T39	OrganismAttribute 417 424	healthy
+T40	PatientOrDisabledGroup 354 362	patients
+T41	PatientOrDisabledGroup 859 867	patients
+T42	PatientOrDisabledGroup 1001 1009	patients
+T43	ResearchActivity 698 720	multi antigen analysis
+T44	PopulationGroup 880 888	controls
+T45	PathologicFunction 276 285	pathology
+T46	BiomedicalOccupationOrDiscipline 276 285	pathology
+T47	BodyPartOrganOrOrganComponent 1350 1355	brain
+T48	BodyPartOrganOrOrganComponent 1661 1666	brain
+T49	Eukaryote 816 821	human
+T50	Eukaryote 1344 1349	human
+T51	Substance 1356 1363	samples
+T52	BodyPartOrganOrOrganComponent 1356 1363	samples
+T53	AminoAcidPeptideOrProtein 147 150	APP
+T54	AminoAcidPeptideOrProtein 1120 1123	APP
+T55	GeneOrGenome 147 150	APP
+T56	GeneOrGenome 1120 1123	APP
+T57	BiologicallyActiveSubstance 147 150	APP
+T58	BiologicallyActiveSubstance 1120 1123	APP
+T59	Eukaryote 602 606	mice
+T60	Cell 1754 1758	cell
+T61	BodyPartOrganOrOrganComponent 570 582	brain tissue
+T62	BodyPartOrganOrOrganComponent 730 742	brain tissue
+T63	BodyPartOrganOrOrganComponent 822 834	brain tissue
+T64	DiseaseOrSyndrome 897 923	neurodegenerative diseases
+T65	ResearchActivity 461 469	analyzed
+T66	BodyPartOrganOrOrganComponent 1643 1652	periphery
+T67	ResearchActivity 1468 1476	in vitro
+T68	AminoAcidPeptideOrProtein 169 175	A beta
+T69	AminoAcidPeptideOrProtein 120 145	amyloid-precursor-protein
+T70	BodyPartOrganOrOrganComponent 11 17	Plasma
+T71	Cell 1130 1142	target cells
+T72	CellComponent 261 269	vesicles
+T73	HealthCareActivity 1612 1625	communication
+T74	CellFunction 1612 1625	communication
+T75	Cell 1287 1306	hippocampal neurons
+T76	Eukaryote 1257 1264	animals
+T77	BiologicFunction 1717 1730	concentration
+T78	CellFunction 152 160	cleavage
+T79	CellComponent 152 160	cleavage
+T80	Eukaryote 594 600	animal
+T81	Eukaryote 1507 1513	animal
+T82	DiseaseOrSyndrome 381 402	neurological diseases
+T83	AminoAcidPeptideOrProtein 95 111	active proteases
+T84	BiologicallyActiveSubstance 95 111	active proteases
+T85	PathologicFunction 189 205	plaque formation
+T86	AminoAcidPeptideOrProtein 152 168	cleavage product
+T87	ResearchActivity 635 642	ex vivo
+T88	ResearchActivity 608 629	injection experiments
+T89	CellComponent 681 684	pEV
+T90	HealthCareActivity 800 803	IHC
+T91	CellComponent 1055 1058	pEV
+T92	AminoAcidPeptideOrProtein 1381 1407	hyaluronic-acid-synthetase
+T93	BiologicallyActiveSubstance 1381 1407	hyaluronic-acid-synthetase
+T94	BiologicallyActiveSubstance 1569 1577	protease
+T95	CellComponent 1589 1592	pEV
+T96	CellComponent 1202 1205	pEV
+T97	BiologicallyActiveSubstance 1028 1050	inflammatory effectors

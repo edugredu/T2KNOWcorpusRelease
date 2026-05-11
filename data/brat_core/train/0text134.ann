@@ -1,0 +1,43 @@
+T0	OrganismAttribute 106 122	mental abilities
+T1	Eukaryote 282 287	worms
+T2	Eukaryote 289 300	fruit flies
+T3	Eukaryote 321 326	sheep
+T4	Eukaryote 331 338	monkeys
+T5	BiomedicalOccupationOrDiscipline 524 542	biomedical science
+T6	ResearchActivity 665 676	description
+T7	MolecularSequence 230 241	CAG triplet
+T8	CellFunction 149 167	autosomal dominant
+T9	BiologicFunction 381 394	understanding
+T10	TemporalConcept 718 725	to date
+T11	CellFunction 159 167	dominant
+T12	Organism 510 519	organisms
+T13	Eukaryote 311 314	rat
+T14	PathologicFunction 432 458	progression of the disease
+T15	Eukaryote 460 470	Drosophila
+T16	Eukaryote 734 744	Drosophila
+T17	Finding 551 559	low cost
+T18	DiseaseOrSyndrome 149 176	autosomal dominant disorder
+T19	TemporalConcept 721 725	date
+T20	BiologicFunction 560 571	maintenance
+T21	Eukaryote 302 306	mice
+T22	ResearchActivity 504 509	model
+T23	ResearchActivity 750 755	model
+T24	CellFunction 403 411	pathways
+T25	TemporalConcept 31 42	progressive
+T26	HealthCareActivity 691 698	studies
+T27	ResearchActivity 691 698	studies
+T28	ResearchActivity 255 268	animal models
+T29	TemporalConcept 579 588	life span
+T30	PatientOrDisabledGroup 130 138	patients
+T31	DiseaseOrSyndrome 0 20	Huntington's disease
+T32	DiseaseOrSyndrome 22 24	HD
+T33	DiseaseOrSyndrome 680 682	HD
+T34	DiseaseOrSyndrome 715 717	HD
+T35	ResearchActivity 641 647	review
+T36	HealthCareActivity 641 647	review
+T37	DiseaseOrSyndrome 43 69	neurodegenerative disorder
+T38	OrganismAttribute 113 122;93 101	abilities physical
+T39	CellOrMolecularDysfunction 205 241	expansion of a repeating CAG triplet
+T40	Eukaryote 316 319	pig
+T41	Finding 573 588	short life span
+T42	ResearchActivity 614 627	genetic tools

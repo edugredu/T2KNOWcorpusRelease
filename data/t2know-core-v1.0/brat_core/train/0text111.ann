@@ -1,0 +1,56 @@
+T0	PopulationGroup 233 252	patients' relatives
+T1	TemporalConcept 488 496	annually
+T2	TemporalConcept 507 514	8 years
+T3	ResearchActivity 567 583	demographic data
+T4	Finding 900 931	no evidence for any discrepancy
+T5	PopulationGroup 1113 1122	patients'
+T6	Finding 1140 1151	discrepancy
+T7	BiologicFunction 1400 1410	adaptation
+T8	Finding 1400 1424	adaptation to the burden
+T9	DiseaseOrSyndrome 31 70	neurodegenerative, progressive disorder
+T10	HealthCareActivity 180 190	Caregivers
+T11	PatientOrDisabledGroup 194 220	individuals affected by HD
+T12	BiologicFunction 312 330	caregivers' burden
+T13	ClinicalAttribute 396 439	clinical patients-related burdening factors
+T14	PopulationGroup 455 478	caregiver-patient pairs
+T15	ResearchActivity 682 696	disease burden
+T16	ResearchActivity 698 700	DB
+T17	BiologicFunction 784 802	Caregivers' burden
+T18	HealthCareActivity 868 892	Longitudinal observation
+T19	TemporalConcept 984 1006	biological progression
+T20	ResearchActivity 1019 1021	DB
+T21	BiologicFunction 1030 1048	caregivers' burden
+T22	ResearchActivity 1030 1060	caregivers' burden progression
+T23	BiologicFunction 1246 1264	caregivers' burden
+T24	BiologicFunction 1290 1308	caregivers' burden
+T25	DiseaseOrSyndrome 1123 1133	dependence
+T26	HealthCareActivity 1386 1396	care tasks
+T27	Finding 1370 1396	overloaded with care tasks
+T28	TemporalConcept 940 960	clinical progression
+T29	TemporalConcept 1328 1348	clinical progression
+T30	BiologicFunction 1356 1366	conception
+T31	DiseaseOrSyndrome 22 24	HD
+T32	DiseaseOrSyndrome 218 220	HD
+T33	GeneOrGenome 104 112	HTT gene
+T34	DiseaseOrSyndrome 0 20	Huntington's disease
+T35	CellOrMolecularDysfunction 88 96	mutation
+T36	CellFunction 160 178	mutation extension
+T37	PatientOrDisabledGroup 557 565	patients
+T38	PathologicFunction 118 129	progression
+T39	TemporalConcept 118 129	progression
+T40	ResearchActivity 287 292	study
+T41	ResearchActivity 536 541	study
+T42	ResearchActivity 1196 1201	study
+T43	HealthCareActivity 600 641	Unified Huntington's Disease Rating Scale
+T44	HealthCareActivity 643 648	UHDRS
+T45	HealthCareActivity 973 978	UHDRS
+T46	HealthCareActivity 778 781	CBI
+T47	HealthCareActivity 815 818	CBI
+T48	HealthCareActivity 1073 1076	CBI
+T49	BiologicFunction 750 766	Caregiver Burden
+T50	HealthCareActivity 455 464	caregiver
+T51	HealthCareActivity 750 776	Caregiver Burden Inventory
+T52	PopulationGroup 243 252	relatives
+T53	HealthCareActivity 722 732	caregivers
+T54	HealthCareActivity 1078 1088	Caregivers
+T55	BiologicallyActiveSubstance 381 391;432 439	biological factors

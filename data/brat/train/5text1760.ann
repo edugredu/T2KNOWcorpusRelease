@@ -1,0 +1,7 @@
+T0	CellOrMolecularDysfunction 127 144	neurodegeneration
+T1	BodyPartOrganOrOrganComponent 34 53	blood-brain barrier
+T2	IndividualBehavior 54 63	integrity
+T3	Finding 19 30	alterations
+T4	Organism 0 9	Microbial
+T5	InjuryOrPoisoning 92 109	neurotoxic agents
+T6	Finding 54 63	integrity

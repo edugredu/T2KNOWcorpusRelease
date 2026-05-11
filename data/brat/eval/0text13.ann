@@ -1,0 +1,67 @@
+T0	Cell 127 138	nerve cells
+T1	CellFunction 279 294	cell quiescence
+T2	Finding 348 361	no treatments
+T3	NucleicAcidNucleosideOrNucleotide 613 639	antisense oligonucleotides
+T4	PharmacologicSubstance 613 639	antisense oligonucleotides
+T5	BiologicallyActiveSubstance 613 639	antisense oligonucleotides
+T6	ResearchActivity 671 678	methods
+T7	ResearchActivity 796 803	methods
+T8	CellFunction 980 998	chaperone-mediated
+T9	CellFunction 310 320	cell death
+T10	CellOrMolecularDysfunction 140 144	mHTT
+T11	AminoAcidPeptideOrProtein 110 114	mHTT
+T12	AminoAcidPeptideOrProtein 140 144	mHTT
+T13	AminoAcidPeptideOrProtein 689 693	mHTT
+T14	AminoAcidPeptideOrProtein 971 975	mHTT
+T15	CellOrMolecularDysfunction 110 114	mHTT
+T16	CellOrMolecularDysfunction 140 160	mHTT self-aggregates
+T17	CellOrMolecularDysfunction 689 693	mHTT
+T18	CellOrMolecularDysfunction 971 975	mHTT
+T19	CellOrMolecularDysfunction 72 108	aggregation of the mutant huntingtin
+T20	CellComponent 191 208	insoluble fibrils
+T21	TemporalConcept 1129 1135	origin
+T22	BiologicFunction 315 320	death
+T23	PathologicFunction 315 320	death
+T24	CellFunction 245 263	cellular functions
+T25	CellFunction 315 320	death
+T26	NucleicAcidNucleosideOrNucleotide 579 583	mRNA
+T27	AminoAcidPeptideOrProtein 743 753	proteasome
+T28	BiologicallyActiveSubstance 743 753	proteasome
+T29	AminoAcidPeptideOrProtein 733 742	ubiquitin
+T30	BiologicallyActiveSubstance 733 742	ubiquitin
+T31	TemporalConcept 332 341	currently
+T32	CellFunction 761 788	autophagy-lysosomal systems
+T33	CellFunction 892 901	autophagy
+T34	CellFunction 999 1008	autophagy
+T35	NaturalPhenomenonOrProcess 713 724	degradation
+T36	Finding 562 571	knowledge
+T37	Finding 1047 1056	knowledge
+T38	HealthCareActivity 351 361	treatments
+T39	ResearchActivity 351 361	treatments
+T40	GeneOrGenome 409 412	HTT
+T41	AminoAcidPeptideOrProtein 409 412	HTT
+T42	BiologicallyActiveSubstance 409 412	HTT
+T43	DiseaseOrSyndrome 490 516	neurodegenerative diseases
+T44	DiseaseOrSyndrome 1095 1121	neurodegenerative diseases
+T45	DiseaseOrSyndrome 0 20	Huntington's disease
+T46	DiseaseOrSyndrome 22 24	HD
+T47	DiseaseOrSyndrome 376 378	HD
+T48	DiseaseOrSyndrome 477 479	HD
+T49	DiseaseOrSyndrome 1082 1084	HD
+T50	TemporalConcept 545 552	current
+T51	ResearchActivity 523 529	review
+T52	HealthCareActivity 523 529	review
+T53	AminoAcidPeptideOrProtein 116 123;91 108	protein mutant huntingtin
+T54	DiseaseOrSyndrome 31 57	neurodegenerative disorder
+T55	ResearchActivity 584 604	targeting approaches
+T56	HealthCareActivity 584 604	targeting approaches
+T57	CellFunction 644 655	RNAi system
+T58	CellComponent 858 871	autophagosome
+T59	Chemical 816 845	proteolysis-targeting chimera
+T60	Chemical 847 856	Trim-Away
+T61	CellFunction 816 827	proteolysis
+T62	Chemical 858 890	autophagosome-tethering compound
+T63	Chemical 892 919	autophagy-targeting chimera
+T64	Chemical 921 947	lysosome-targeting chimera
+T65	CellOrMolecularDysfunction 116 123;91 108	protein mutant huntingtin
+T66	AminoAcidPeptideOrProtein 169 186	soluble oligomers

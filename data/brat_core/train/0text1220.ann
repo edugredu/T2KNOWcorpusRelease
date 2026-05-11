@@ -1,0 +1,103 @@
+T0	AminoAcidPeptideOrProtein 451 455	Mtor
+T1	GeneOrGenome 451 455	Mtor
+T2	Finding 709 718	unchanged
+T3	AminoAcidPeptideOrProtein 844 848	Mtor
+T4	GeneOrGenome 844 848	Mtor
+T5	Chemical 963 986	lysophosphatidylcholine
+T6	BiologicFunction 1256 1274	metabolic function
+T7	TemporalConcept 812 817	delay
+T8	AminoAcidPeptideOrProtein 221 225	mTOR
+T9	AminoAcidPeptideOrProtein 334 338	mTOR
+T10	AminoAcidPeptideOrProtein 686 690	mTOR
+T11	AminoAcidPeptideOrProtein 899 903	mTOR
+T12	AminoAcidPeptideOrProtein 1057 1061	mTOR
+T13	AminoAcidPeptideOrProtein 1226 1230	mTOR
+T14	AminoAcidPeptideOrProtein 1372 1376	mTOR
+T15	GeneOrGenome 221 225	mTOR
+T16	GeneOrGenome 334 338	mTOR
+T17	GeneOrGenome 686 690	mTOR
+T18	GeneOrGenome 899 903	mTOR
+T19	GeneOrGenome 1057 1061	mTOR
+T20	GeneOrGenome 1226 1230	mTOR
+T21	GeneOrGenome 1372 1376	mTOR
+T22	BiologicallyActiveSubstance 221 225	mTOR
+T23	BiologicallyActiveSubstance 334 338	mTOR
+T24	BiologicallyActiveSubstance 686 690	mTOR
+T25	BiologicallyActiveSubstance 899 903	mTOR
+T26	BiologicallyActiveSubstance 1057 1061	mTOR
+T27	BiologicallyActiveSubstance 1226 1230	mTOR
+T28	BiologicallyActiveSubstance 1372 1376	mTOR
+T29	CellOrMolecularDysfunction 93 114	neuronal degeneration
+T30	TemporalConcept 780 790	late-stage
+T31	Cell 500 504	OPCs
+T32	Cell 700 704	OPCs
+T33	Cell 871 875	OPCs
+T34	Cell 907 911	OPCs
+T35	Cell 1390 1394	OPCs
+T36	DiseaseOrSyndrome 3 25	demyelinating diseases
+T37	Cell 467 498	oligodendrocyte precursor cells
+T38	PathologicFunction 3 16	demyelinating
+T39	DiseaseOrSyndrome 35 53	multiple sclerosis
+T40	BodyPartOrganOrOrganComponent 71 77	myelin
+T41	BodyPartOrganOrOrganComponent 742 748	myelin
+T42	BodyPartOrganOrOrganComponent 821 827	myelin
+T43	InjuryOrPoisoning 987 994	lesions
+T44	PathologicFunction 1462 1474	demyelinated
+T45	BodyPartOrganOrOrganComponent 1009 1020	spinal cord
+T46	CellFunction 210 219;227 236	rapamycin signaling
+T47	CellFunction 334 348	mTOR signaling
+T48	CellFunction 1057 1071	mTOR signaling
+T49	CellFunction 1372 1386	mTOR signaling
+T50	BiologicFunction 244 257	developmental
+T51	TemporalConcept 244 257	developmental
+T52	CellFunction 1305 1320	differentiation
+T53	Cell 572 575	OLs
+T54	Cell 1290 1293	OLs
+T55	Cell 386 388	OL
+T56	Cell 719 721	OL
+T57	NucleicAcidNucleosideOrNucleotide 1137 1144	promote
+T58	Eukaryote 1286 1289	rat
+T59	TemporalConcept 614 619	early
+T60	PathologicFunction 102 114	degeneration
+T61	Finding 929 939	efficiency
+T62	Finding 1159 1169	efficiency
+T63	BodyPartOrganOrOrganComponent 1024 1039	corpus callosum
+T64	Chemical 640 649	cuprizone
+T65	Chemical 1124 1133	cuprizone
+T66	Chemical 1198 1207	cuprizone
+T67	Chemical 1452 1461	cuprizone
+T68	BodyPartOrganOrOrganComponent 750 756	Myelin
+T69	BodyPartOrganOrOrganComponent 130 133	CNS
+T70	BodyPartOrganOrOrganComponent 1481 1486	brain
+T71	Eukaryote 539 543	mice
+T72	Eukaryote 673 677	mice
+T73	Cell 93 101	neuronal
+T74	PathologicFunction 1108 1120	dysregulated
+T75	PatientOrDisabledGroup 141 148	patient
+T76	ResearchActivity 283 290	studies
+T77	Finding 916 925	no effect
+T78	CellFunction 1212 1222	inhibition
+T79	OrganismAttribute 528 532	male
+T80	Cell 369 384;390 397	oligodendrocyte lineage
+T81	CellFunction 1100 1107	pathway
+T82	CellFunction 405 418	remyelination
+T83	CellFunction 592 605	remyelination
+T84	CellFunction 620 633	remyelination
+T85	CellFunction 943 956	remyelination
+T86	CellFunction 1145 1158	remyelination
+T87	CellFunction 258 269	myelination
+T88	PathologicFunction 658 671	demyelination
+T89	PopulationGroup 461 466	adult
+T90	PopulationGroup 533 538	adult
+T91	PopulationGroup 694 699	adult
+T92	PopulationGroup 865 870	adult
+T93	PopulationGroup 1475 1480	adult
+T94	BiologicFunction 791 797	repair
+T95	HealthCareActivity 791 797	repair
+T96	ResearchActivity 512 524	Ng2-Cre(ERT)
+T97	ResearchActivity 1278 1293	primary rat OLs
+T98	CellOrMolecularDysfunction 1423 1444	metabolic dysfunction
+T99	BiologicallyActiveSubstance 451 455	Mtor
+T100	PathologicFunction 55 77	primary loss of myelin
+T101	ClinicalAttribute 750 766	Myelin thickness
+T102	BiologicallyActiveSubstance 844 848	Mtor

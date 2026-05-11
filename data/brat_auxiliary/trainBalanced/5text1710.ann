@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 161 187	neurodegenerative diseases
+T1	CellFunction 44 65	anterograde transport
+T2	NucleicAcidNucleosideOrNucleotide 21 28	vectors
+T3	BodyPartOrganOrOrganComponent 103 116	brain regions
+T4	Virus 0 20	Herpes Simplex Virus
+T5	Virus 0 6	Herpes
+T6	Finding 127 157	potential therapeutic benefits

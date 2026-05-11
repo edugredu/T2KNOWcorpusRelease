@@ -1,0 +1,41 @@
+T0	Cell 0 5	Cells
+T1	CellFunction 98 118	cellular homeostasis
+T2	AminoAcidPeptideOrProtein 197 217	molecular chaperones
+T3	CellFunction 249 269	ubiquitin-proteasome
+T4	CellComponent 390 420	intracellular inclusion bodies
+T5	GeneOrGenome 550 573	autophagy-related genes
+T6	CellOrMolecularDysfunction 729 748	pathogenic proteins
+T7	AminoAcidPeptideOrProtein 758 770	amyloid beta
+T8	AminoAcidPeptideOrProtein 775 790	alpha-synuclein
+T9	BiologicallyActiveSubstance 775 790	alpha-synuclein
+T10	CellFunction 815 832	autophagy pathway
+T11	DiseaseOrSyndrome 691 711	Huntington's disease
+T12	ResearchActivity 843 849	review
+T13	HealthCareActivity 843 849	review
+T14	DiseaseOrSyndrome 666 685	Parkinson's disease
+T15	DiseaseOrSyndrome 483 509	neurodegenerative diseases
+T16	DiseaseOrSyndrome 609 635	neurodegenerative diseases
+T17	DiseaseOrSyndrome 955 981	neurodegenerative diseases
+T18	TemporalConcept 854 860	recent
+T19	HealthCareActivity 1046 1055	treatment
+T20	ResearchActivity 1046 1055	treatment
+T21	DiseaseOrSyndrome 645 664	Alzheimer's disease
+T22	CellComponent 75 85	organelles
+T23	PathologicFunction 939 951	pathogenesis
+T24	CellFunction 273 298	autophagy-lysosome system
+T25	CellFunction 550 559	autophagy
+T26	CellFunction 994 1003	autophagy
+T27	CellFunction 524 541	genetic mutations
+T28	NaturalPhenomenonOrProcess 225 236	degradation
+T29	Finding 861 869	advances
+T30	Finding 300 321	Accumulating evidence
+T31	Finding 891 903	relationship
+T32	AminoAcidPeptideOrProtein 207 217	chaperones
+T33	BiologicallyActiveSubstance 207 217	chaperones
+T34	CellOrMolecularDysfunction 912 930	autophagic defects
+T35	Finding 466 474	hallmark
+T36	CellOrMolecularDysfunction 435 453	misfolded proteins
+T37	HealthCareActivity 994 1013	autophagy induction
+T38	CellOrMolecularDysfunction 336 354	impaired autophagy
+T39	CellFunction 170 192	conformational folding
+T40	CellFunction 31 70	quality-control mechanisms for proteins

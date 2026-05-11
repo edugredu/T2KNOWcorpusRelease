@@ -1,0 +1,89 @@
+T0	BiologicFunction 47 60	eye movements
+T1	DiseaseOrSyndrome 162 178	reading problems
+T2	HealthCareActivity 567 591	neurological examination
+T3	Finding 1065 1071	errors
+T4	HealthCareActivity 1078 1086	fixation
+T5	BiologicFunction 1078 1086	fixation
+T6	ResearchActivity 1078 1086	fixation
+T7	Finding 1091 1098	saccade
+T8	Finding 1114 1121	saccade
+T9	TemporalConcept 1334 1342	duration
+T10	PathologicFunction 135 157	abnormal eye movements
+T11	PopulationGroup 192 199	persons
+T12	PopulationGroup 396 403	persons
+T13	PopulationGroup 409 416	persons
+T14	PopulationGroup 1551 1558	persons
+T15	Finding 813 819	normal
+T16	DiseaseOrSyndrome 526 534	demented
+T17	DiseaseOrSyndrome 756 764	demented
+T18	Finding 135 143	abnormal
+T19	SignOrSymptom 225 242	clinical symptoms
+T20	SignOrSymptom 1595 1612	clinical symptoms
+T21	HealthCareActivity 841 845	MMSE
+T22	HealthCareActivity 946 950	MMSE
+T23	HealthCareActivity 656 679	neuropsychological test
+T24	HealthCareActivity 689 697	CERAD-NB
+T25	HealthCareActivity 820 825	CERAD
+T26	HealthCareActivity 921 926	CERAD
+T27	Finding 1401 1413	error scores
+T28	DiseaseOrSyndrome 83 102	Alzheimer's disease
+T29	DiseaseOrSyndrome 104 106	AD
+T30	DiseaseOrSyndrome 211 213	AD
+T31	DiseaseOrSyndrome 476 478	AD
+T32	DiseaseOrSyndrome 549 551	AD
+T33	DiseaseOrSyndrome 1230 1232	AD
+T34	DiseaseOrSyndrome 1421 1423	AD
+T35	OrganismAttribute 388 395	healthy
+T36	HealthCareActivity 461 470	diagnosed
+T37	Finding 934 939	score
+T38	PopulationGroup 505 517	participants
+T39	PopulationGroup 765 777	participants
+T40	HealthCareActivity 450 457	testing
+T41	DiseaseOrSyndrome 870 890	cognitive impairment
+T42	DiseaseOrSyndrome 636 655	Alzheimer's Disease
+T43	DiseaseOrSyndrome 108 116	dementia
+T44	DiseaseOrSyndrome 892 895	MCI
+T45	DiseaseOrSyndrome 1221 1224	MCI
+T46	DiseaseOrSyndrome 1574 1577	MCI
+T47	TemporalConcept 1033 1037	time
+T48	PopulationGroup 804 811	control
+T49	PopulationGroup 1202 1209	control
+T50	ResearchActivity 1148 1155	Results
+T51	PopulationGroup 956 962	groups
+T52	PopulationGroup 1233 1239	groups
+T53	PopulationGroup 1479 1485	groups
+T54	HealthCareActivity 440 457	cognitive testing
+T55	TemporalConcept 1578 1583	early
+T56	HealthCareActivity 706 730	Clinical Dementia Rating
+T57	HealthCareActivity 286 313;319 327	computer-based eye-tracking analysis
+T58	ResearchActivity 1511 1519	analysis
+T59	DiseaseOrSyndrome 865 890	mild cognitive impairment
+T60	PopulationGroup 1424 1429	group
+T61	OrganismAttribute 376 395	cognitively healthy
+T62	HealthCareActivity 732 735	CDR
+T63	HealthCareActivity 122 131	detection
+T64	Finding 471 475	mild
+T65	Finding 544 548	mild
+T66	Finding 865 869	mild
+T67	BiologicFunction 927 933	memory
+T68	ResearchActivity 1138 1146	analyzed
+T69	ResearchActivity 348 352	test
+T70	ResearchActivity 675 679	test
+T71	ResearchActivity 1530 1534	test
+T72	HealthCareActivity 331 342;348 352	King-Devick test
+T73	HealthCareActivity 675 679	test
+T74	HealthCareActivity 968 983	KD reading test
+T75	HealthCareActivity 1051 1063	reading test
+T76	HealthCareActivity 1530 1534	test
+T77	TemporalConcept 1099 1108	durations
+T78	PathologicFunction 12 43	Wide-ranging functional defects
+T79	Finding 203 207	risk
+T80	HealthCareActivity 597 687	Consortium to Establish a Registry for Alzheimer's Disease neuropsychological test battery
+T81	HealthCareActivity 1004 1021	computer-based ET
+T82	Finding 1166 1189	significant differences
+T83	Finding 1262 1269	saccade
+T84	HealthCareActivity 1398 1400	KD
+T85	HealthCareActivity 1499 1510	Computed ET
+T86	HealthCareActivity 1527 1529	KD
+T87	HealthCareActivity 1650 1652	ET
+T88	HealthCareRelatedOrganization 1671 1705	primary health care memory clinics

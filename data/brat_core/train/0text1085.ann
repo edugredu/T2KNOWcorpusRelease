@@ -1,0 +1,71 @@
+T0	BiomedicalOccupationOrDiscipline 0 12	Pathological
+T1	AnatomicalAbnormality 136 152	neuritic plaques
+T2	AnatomicalAbnormality 154 157	NPs
+T3	AnatomicalAbnormality 229 232	NPs
+T4	BodyPartOrganOrOrganComponent 447 457	prefrontal
+T5	AminoAcidPeptideOrProtein 659 667	isoforms
+T6	NucleicAcidNucleosideOrNucleotide 659 667	isoforms
+T7	CellOrMolecularDysfunction 830 833	NFT
+T8	AminoAcidPeptideOrProtein 553 566	tau oligomers
+T9	AminoAcidPeptideOrProtein 578 591	tau oligomers
+T10	CellOrMolecularDysfunction 876 889	synaptic loss
+T11	CellOrMolecularDysfunction 1035 1048	synaptic loss
+T12	PathologicFunction 994 1006	degenerative
+T13	TemporalConcept 435 446	post mortem
+T14	ResearchActivity 893 909	cultured neurons
+T15	CellComponent 595 617	extracellular vesicles
+T16	DiseaseOrSyndrome 43 62	Alzheimer's disease
+T17	DiseaseOrSyndrome 64 66	AD
+T18	PatientOrDisabledGroup 29 37	patients
+T19	BodyPartOrganOrOrganComponent 876 884	synaptic
+T20	BodyPartOrganOrOrganComponent 1035 1043	synaptic
+T21	CellFunction 538 552	phosphorylated
+T22	AminoAcidPeptideOrProtein 13 16	tau
+T23	AminoAcidPeptideOrProtein 197 200	tau
+T24	AminoAcidPeptideOrProtein 278 281	tau
+T25	AminoAcidPeptideOrProtein 418 421	tau
+T26	AminoAcidPeptideOrProtein 553 556	tau
+T27	AminoAcidPeptideOrProtein 578 581	tau
+T28	AminoAcidPeptideOrProtein 732 735	tau
+T29	AminoAcidPeptideOrProtein 806 809	tau
+T30	AminoAcidPeptideOrProtein 927 930	tau
+T31	BiologicallyActiveSubstance 13 16	tau
+T32	BiologicallyActiveSubstance 197 200	tau
+T33	BiologicallyActiveSubstance 278 281	tau
+T34	BiologicallyActiveSubstance 418 421	tau
+T35	BiologicallyActiveSubstance 553 556	tau
+T36	BiologicallyActiveSubstance 578 581	tau
+T37	BiologicallyActiveSubstance 732 735	tau
+T38	BiologicallyActiveSubstance 806 809	tau
+T39	BiologicallyActiveSubstance 927 930	tau
+T40	InjuryOrPoisoning 351 356	toxic
+T41	ResearchActivity 405 413	analyzed
+T42	AminoAcidPeptideOrProtein 17 25	proteins
+T43	AminoAcidPeptideOrProtein 736 744	proteins
+T44	AminoAcidPeptideOrProtein 538 556	phosphorylated tau
+T45	BiologicallyActiveSubstance 538 556	phosphorylated tau
+T46	BodyPartOrganOrOrganComponent 313 319	tissue
+T47	BodyPartOrganOrOrganComponent 386 392	tissue
+T48	Cell 902 909	neurons
+T49	PopulationGroup 777 785	subjects
+T50	PopulationGroup 834 842	subjects
+T51	BodyPartOrganOrOrganComponent 458 466	cortical
+T52	DiseaseOrSyndrome 1053 1070	cognitive decline
+T53	ResearchActivity 893 901	cultured
+T54	Finding 673 697	differentially expressed
+T55	CellFunction 688 697	expressed
+T56	BodyPartOrganOrOrganComponent 467 473	brains
+T57	BodyPartOrganOrOrganComponent 960 967	tissues
+T58	CellOrMolecularDysfunction 101 124	neurofibrillary tangles
+T59	CellComponent 101 116	neurofibrillary
+T60	OrganismAttribute 201 208	species
+T61	OrganismAttribute 282 289	species
+T62	OrganismAttribute 422 429	species
+T63	OrganismAttribute 931 938	species
+T64	CellOrMolecularDysfunction 126 130	NFTs
+T65	CellOrMolecularDysfunction 220 224	NFTs
+T66	CellFunction 810 826	seeding activity
+T67	CellOrMolecularDysfunction 297 300	NFT
+T68	AnatomicalAbnormality 371 373	NP
+T69	CellOrMolecularDysfunction 759 762	NFT
+T70	CellOrMolecularDysfunction 944 947	NFT

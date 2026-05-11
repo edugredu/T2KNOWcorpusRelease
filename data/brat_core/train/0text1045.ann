@@ -1,0 +1,54 @@
+T0	ResearchActivity 272 291	ultracentrifugation
+T1	PopulationGroup 293 301	Cohort 1
+T2	PopulationGroup 320 328	Cohort 2
+T3	ResearchActivity 531 564	enzyme-linked immunosorbent assay
+T4	PopulationGroup 576 585	Cohorts 3
+T5	DiseaseOrSyndrome 794 802	Increase
+T6	PopulationGroup 926 934	Cohort 4
+T7	ClinicalAttribute 981 1000	potential biomarker
+T8	DiseaseOrSyndrome 68 87	Alzheimer's disease
+T9	CellComponent 36 39	EVs
+T10	CellComponent 187 190	EVs
+T11	CellComponent 251 254	EVs
+T12	CellComponent 423 426	EVs
+T13	CellComponent 759 762	EVs
+T14	DiseaseOrSyndrome 89 91	AD
+T15	DiseaseOrSyndrome 236 238	AD
+T16	DiseaseOrSyndrome 383 385	AD
+T17	DiseaseOrSyndrome 672 674	AD
+T18	DiseaseOrSyndrome 752 754	AD
+T19	DiseaseOrSyndrome 820 822	AD
+T20	DiseaseOrSyndrome 1066 1068	AD
+T21	PatientOrDisabledGroup 386 394	patients
+T22	PatientOrDisabledGroup 658 666	patients
+T23	ResearchActivity 505 512	Results
+T24	PopulationGroup 357 365	controls
+T25	PopulationGroup 607 615	controls
+T26	PopulationGroup 835 856	non-demented controls
+T27	BodyPartOrganOrOrganComponent 182 185	CSF
+T28	BodyPartOrganOrOrganComponent 755 758	CSF
+T29	PathologicFunction 93 102	pathology
+T30	BiomedicalOccupationOrDiscipline 93 102	pathology
+T31	ClinicalAttribute 991 1000	biomarker
+T32	BodyPartOrganOrOrganComponent 161 180	cerebrospinal fluid
+T33	AminoAcidPeptideOrProtein 149 157	proteome
+T34	BiologicallyActiveSubstance 149 157	proteome
+T35	AminoAcidPeptideOrProtein 203 211	proteins
+T36	AminoAcidPeptideOrProtein 740 748	proteins
+T37	CellOrMolecularDysfunction 339 356	neurodegenerative
+T38	CellComponent 12 34	Extracellular vesicles
+T39	CellFunction 216 224	pathways
+T40	Finding 715 739	differentially expressed
+T41	CellFunction 730 739	expressed
+T42	AminoAcidPeptideOrProtein 306 318	Vn96 peptide
+T43	ResearchActivity 566 571	ELISA
+T44	ResearchActivity 874 879	ELISA
+T45	BodyPartOrganOrOrganComponent 247 250	CSF
+T46	ResearchActivity 445 503	untargeted quantitative mass spectrometry-based proteomics
+T47	PopulationGroup 634 641	Cohort3
+T48	PopulationGroup 643 650	Cohort4
+T49	BiologicFunction 775 792	immune-regulation
+T50	PopulationGroup 905 913	Cohort 3
+T51	ClinicalAttribute 806 816	C1q levels
+T52	CellComponent 956 959	EVs
+T53	BiologicFunction 1045 1062	immune-regulation

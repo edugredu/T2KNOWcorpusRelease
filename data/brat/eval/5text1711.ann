@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 154 180	neurodegenerative diseases
+T1	Finding 81 104	neuroprotective effects
+T2	DiseaseOrSyndrome 133 150	cognitive decline
+T3	OrganismAttribute 113 120	ability
+T4	Organism 0 13	Ginkgo biloba
+T5	PharmacologicSubstance 29 44	herbal medicine
+T6	BiomedicalOccupationOrDiscipline 17 44	traditional herbal medicine

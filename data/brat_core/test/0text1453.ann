@@ -1,0 +1,80 @@
+T0	DiseaseOrSyndrome 108 129	Cognitive dysfunction
+T1	DiseaseOrSyndrome 398 418	Alzheimer's Dementia
+T2	ManufacturedObject 437 444	battery
+T3	Finding 630 639	high risk
+T4	TemporalConcept 879 887	episodic
+T5	TemporalConcept 70 77	decades
+T6	SignOrSymptom 594 608	clinical signs
+T7	TemporalConcept 208 218	late-stage
+T8	PopulationGroup 578 585	persons
+T9	PathologicFunction 118 129	dysfunction
+T10	Finding 557 574	cognitive changes
+T11	TemporalConcept 250 259	currently
+T12	ResearchActivity 426 433	project
+T13	TemporalConcept 996 1007	preliminary
+T14	BiologicFunction 888 901	verbal memory
+T15	DiseaseOrSyndrome 410 418	Dementia
+T16	ResearchActivity 641 649	Analysis
+T17	AminoAcidPeptideOrProtein 911 914	tau
+T18	AminoAcidPeptideOrProtein 1175 1178	tau
+T19	AminoAcidPeptideOrProtein 1379 1382	tau
+T20	DiseaseOrSyndrome 15 34	Alzheimer's disease
+T21	BiologicallyActiveSubstance 911 914	tau
+T22	BiologicallyActiveSubstance 1175 1178	tau
+T23	BiologicallyActiveSubstance 1379 1382	tau
+T24	DiseaseOrSyndrome 36 38	AD
+T25	DiseaseOrSyndrome 174 176	AD
+T26	DiseaseOrSyndrome 612 614	AD
+T27	ClinicalAttribute 820 829	biomarker
+T28	ClinicalAttribute 1091 1100	biomarker
+T29	PopulationGroup 674 686	participants
+T30	ResearchActivity 1270 1278	research
+T31	AminoAcidPeptideOrProtein 922 929	amyloid
+T32	BiologicallyActiveSubstance 922 929	amyloid
+T33	DiseaseOrSyndrome 98 106	dementia
+T34	DiseaseOrSyndrome 722 730	dementia
+T35	HealthCareActivity 161 170	diagnosis
+T36	ClinicalAttribute 40 50	biomarkers
+T37	AminoAcidPeptideOrProtein 922 934	amyloid-beta
+T38	Finding 1052 1063	performance
+T39	TemporalConcept 78 84	before
+T40	BiologicFunction 1319 1328	cognition
+T41	Finding 1298 1310	relationship
+T42	HealthCareActivity 291 306	cognitive tests
+T43	HealthCareActivity 448 463	cognitive tests
+T44	ResearchActivity 291 306	cognitive tests
+T45	ResearchActivity 448 463	cognitive tests
+T46	TemporalConcept 89 94	onset
+T47	Finding 1042 1063	cognitive performance
+T48	AminoAcidPeptideOrProtein 1377 1382	p-tau
+T49	BiologicallyActiveSubstance 1377 1382	p-tau
+T50	ResearchActivity 301 306	tests
+T51	ResearchActivity 458 463	tests
+T52	HealthCareActivity 301 306	tests
+T53	HealthCareActivity 458 463	tests
+T54	AminoAcidPeptideOrProtein 936 942	A beta
+T55	AminoAcidPeptideOrProtein 1247 1253	A beta
+T56	AminoAcidPeptideOrProtein 1343 1349	A beta
+T57	BiologicFunction 895 901	memory
+T58	ResearchActivity 1030 1038	profiles
+T59	HealthCareActivity 152 170	clinical diagnosis
+T60	PopulationGroup 375 383	European
+T61	TemporalConcept 213 218	stage
+T62	TemporalConcept 353 358	stage
+T63	ClinicalAttribute 213 218	stage
+T64	ClinicalAttribute 353 358	stage
+T65	TemporalConcept 341 358	preclinical stage
+T66	CellFunction 275 282	signals
+T67	Finding 630 634	high
+T68	ResearchActivity 375 418	European Prevention of Alzheimer's Dementia
+T69	ResearchActivity 420 424	EPAD
+T70	ResearchActivity 487 522	EPAD Neuropsychological Examination
+T71	ResearchActivity 524 527	ENE
+T72	ResearchActivity 750 780	EPAD Longitudinal Cohort Study
+T73	ResearchActivity 879 906	episodic verbal memory task
+T74	ResearchActivity 966 988	central executive task
+T75	ResearchActivity 1119 1135	hippocampal task
+T76	ResearchActivity 1185 1207	frontal executive task
+T77	ClinicalAttribute 1333 1349	levels of A beta
+T78	ClinicalAttribute 1165 1178	levels of tau
+T79	ClinicalAttribute 1237 1253	levels of A beta

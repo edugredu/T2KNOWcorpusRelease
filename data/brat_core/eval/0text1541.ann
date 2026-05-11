@@ -1,0 +1,59 @@
+T0	SignOrSymptom 483 486	NPS
+T1	PopulationGroup 633 639	person
+T2	DiseaseOrSyndrome 1157 1166	delusions
+T3	DiseaseOrSyndrome 1171 1185	hallucinations
+T4	SignOrSymptom 1228 1237	agitation
+T5	ResearchActivity 1514 1529	research agenda
+T6	ResearchActivity 1554 1569	epidemiological
+T7	DiseaseOrSyndrome 1730 1754	neurocognitive disorders
+T8	BiomedicalOccupationOrDiscipline 1586 1594	genetics
+T9	CellFunction 1586 1594	genetics
+T10	SignOrSymptom 12 30	Psychotic symptoms
+T11	DiseaseOrSyndrome 348 357	psychosis
+T12	DiseaseOrSyndrome 521 530	psychosis
+T13	DiseaseOrSyndrome 571 580	psychosis
+T14	DiseaseOrSyndrome 1481 1490	psychosis
+T15	DiseaseOrSyndrome 1717 1726	psychosis
+T16	ResearchActivity 253 270	clinical research
+T17	ResearchActivity 801 810	databases
+T18	HealthCareRelatedOrganization 766 772	PubMed
+T19	ResearchActivity 914 920	review
+T20	HealthCareActivity 914 920	review
+T21	Finding 179 188	mortality
+T22	CellFunction 1133 1148	differentiation
+T23	DiseaseOrSyndrome 82 109	neurodegenerative disorders
+T24	TemporalConcept 1195 1202	overlap
+T25	DiseaseOrSyndrome 599 608	dementias
+T26	SignOrSymptom 1280 1288	symptoms
+T27	DiseaseOrSyndrome 1216 1226	conditions
+T28	BiologicFunction 275 283	practice
+T29	ResearchActivity 644 660	on-line meetings
+T30	DiseaseOrSyndrome 45 64	Alzheimer's disease
+T31	DiseaseOrSyndrome 66 68	AD
+T32	DiseaseOrSyndrome 361 363	AD
+T33	DiseaseOrSyndrome 584 586	AD
+T34	DiseaseOrSyndrome 1494 1496	AD
+T35	ClinicalAttribute 1571 1580	biomarker
+T36	TemporalConcept 729 736	current
+T37	ResearchActivity 309 317	research
+T38	ResearchActivity 737 745	research
+T39	ResearchActivity 1366 1374	research
+T40	ResearchActivity 1595 1603	research
+T41	Finding 664 672	priority
+T42	HealthCareActivity 335 344	diagnosis
+T43	ClinicalAttribute 1386 1396	biomarkers
+T44	PathologicFunction 153 164	progression
+T45	TemporalConcept 153 164	progression
+T46	PathologicFunction 145 164	disease progression
+T47	ResearchActivity 848 855	Results
+T48	OrganismAttribute 1452 1462	phenotypic
+T49	HealthCareActivity 976 1030	Diagnostic and Statistical Manual for Mental Disorders
+T50	HealthCareRelatedOrganization 378 445	International Society to Advance Alzheimer's Research and Treatment
+T51	HealthCareRelatedOrganization 447 454	ISTAART
+T52	SignOrSymptom 456 481	Neuropsychiatric Symptoms
+T53	HealthCareRelatedOrganization 774 781	Medline
+T54	TemporalConcept 1305 1316;1331 1337	preclinical phases
+T55	TemporalConcept 1321 1337	prodromal phases
+T56	ResearchActivity 1463 1477	classification
+T57	HealthCareRelatedOrganization 1662 1703	International Psychogeriatric Association
+T58	HealthCareActivity 253 261;275 283	clinical practice

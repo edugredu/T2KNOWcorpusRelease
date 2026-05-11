@@ -1,0 +1,9 @@
+T0	DiseaseOrSyndrome 115 135	Huntington's disease
+T1	HealthCareActivity 147 162	early diagnosis
+T2	ClinicalAttribute 88 98	biomarkers
+T3	ClinicalAttribute 76 83	markers
+T4	HealthCareActivity 68 75	genetic
+T5	MachineActivity 0 23	Machine learning models
+T6	MachineActivity 0 16	Machine learning
+T7	MachineActivity 33 36	NLP
+T8	HealthCareActivity 167 200	personalized treatment approaches

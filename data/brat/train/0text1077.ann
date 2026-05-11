@@ -1,0 +1,72 @@
+T0	Cell 147 157	Stem cells
+T1	CellComponent 300 312	cell surface
+T2	DiseaseOrSyndrome 533 547	brain diseases
+T3	HealthCareActivity 569 586	stem cell therapy
+T4	CellFunction 843 859	biocompatibility
+T5	ResearchActivity 861 875	immunogenicity
+T6	Chemical 902 916	small chemical
+T7	Chemical 921 935	macromolecules
+T8	ResearchActivity 997 1007	strategies
+T9	DiseaseOrSyndrome 1106 1120	brain diseases
+T10	Finding 1251 1271	insufficient payload
+T11	BiologicFunction 1288 1298	strategies
+T12	HealthCareActivity 425 437	cell therapy
+T13	Substance 343 352	molecules
+T14	NucleicAcidNucleosideOrNucleotide 374 383	microRNAs
+T15	BiologicallyActiveSubstance 374 383	microRNAs
+T16	Finding 1470 1478	advances
+T17	Cell 190 194	MSCs
+T18	Cell 166 188	mesenchymal stem cells
+T19	NaturalPhenomenonOrProcess 1218 1227	clearance
+T20	TemporalConcept 95 100	acute
+T21	InjuryOrPoisoning 675 697	traumatic brain injury
+T22	ResearchActivity 499 507	profiles
+T23	ResearchActivity 831 839	profiles
+T24	HealthCareActivity 1137 1157	clinical application
+T25	HealthCareActivity 1486 1506	clinical application
+T26	DiseaseOrSyndrome 667 673	stroke
+T27	CellComponent 243 261	membrane fragments
+T28	BiologicFunction 471 486	biodistribution
+T29	Finding 609 618	evidences
+T30	TemporalConcept 1182 1191	half-life
+T31	ResearchActivity 492 507	safety profiles
+T32	HealthCareActivity 1326 1341	EV therapeutics
+T33	HealthCareActivity 1510 1525	EV therapeutics
+T34	HealthCareActivity 492 498	safety
+T35	HealthCareActivity 881 887	safety
+T36	ResearchActivity 593 599	review
+T37	HealthCareActivity 593 599	review
+T38	DiseaseOrSyndrome 764 782	Parkinson' disease
+T39	DiseaseOrSyndrome 119 145	neurodegenerative diseases
+T40	AminoAcidPeptideOrProtein 361 369	proteins
+T41	BodyPartOrganOrOrganComponent 101 106	brain
+T42	BodyPartOrganOrOrganComponent 685 690	brain
+T43	BodyPartOrganOrOrganComponent 716 721	brain
+T44	CellComponent 204 226	extracellular vesicles
+T45	DiseaseOrSyndrome 740 759	Alzheimer's disease
+T46	CellComponent 228 231	EVs
+T47	CellComponent 660 663	EVs
+T48	CellComponent 815 818	EVs
+T49	CellComponent 973 976	EVs
+T50	CellComponent 1035 1038	EVs
+T51	HealthCareActivity 1352 1364	EV therapies
+T52	CellComponent 393 395	EV
+T53	CellComponent 1326 1328	EV
+T54	CellComponent 1352 1354	EV
+T55	CellComponent 1510 1512	EV
+T56	HealthCareActivity 1093 1102	treatment
+T57	ResearchActivity 1093 1102	treatment
+T58	Cell 1060 1070	stem cells
+T60	PathologicFunction 703 715	degenerative
+T61	HealthCareActivity 0 23	Stem cell-based therapy
+T62	HealthCareActivity 393 409	EV-based therapy
+T63	TemporalConcept 1187 1191	life
+T64	DiseaseOrSyndrome 95 114	acute brain insults
+T65	HealthCareActivity 331 352	therapeutic molecules
+T66	Cell 642 651	stem cell
+T67	DiseaseOrSyndrome 703 730	degenerative brain diseases
+T68	Cell 797 806	stem cell
+T69	BiologicFunction 997 1007	strategies
+T70	ResearchActivity 1288 1298	strategies
+T71	Finding 1314 1322	efficacy
+T72	HealthCareRelatedOrganization 1396 1418	regulatory authorities

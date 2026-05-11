@@ -1,0 +1,55 @@
+T0	DiseaseOrSyndrome 24 44	neurological disease
+T1	CellComponent 52 57	axons
+T2	CellFunction 120 131	myelination
+T3	CellFunction 181 194	remyelination
+T4	Cell 340 370	oligodendrocyte precursor cell
+T5	BiologicFunction 388 414	oligodendrocyte generation
+T6	CellComponent 419 432	myelin sheath
+T7	BodyPartOrganOrOrganComponent 451 459	forelimb
+T8	BodyPartOrganOrOrganComponent 460 472	motor cortex
+T9	BiologicFunction 527 544	hyperexcitability
+T10	HealthCareActivity 571 594	behavioral intervention
+T11	CellFunction 618 631	remyelination
+T12	CellFunction 650 663	remyelination
+T13	CellFunction 756 769	remyelination
+T14	CellComponent 781 786	axons
+T15	Cell 816 832	oligodendrocytes
+T16	CellComponent 849 863	myelin sheaths
+T17	Cell 936 959	mature oligodendrocytes
+T18	TemporalConcept 1163 1168	timed
+T19	BiologicFunction 1169 1183	motor learning
+T20	BiologicFunction 1193 1201	recovery
+T21	HealthCareActivity 1193 1201	recovery
+T22	CellFunction 1241 1254	remyelination
+T23	Cell 1278 1294	oligodendrocytes
+T24	TemporalConcept 1306 1311	timed
+T25	BiologicFunction 1312 1326	motor learning
+T26	CellFunction 1336 1349	remyelination
+T27	BodyPartOrganOrOrganComponent 1357 1369	motor cortex
+T28	Cell 1418 1441	mature oligodendrocytes
+T29	BodyPartOrganOrOrganComponent 1458 1464	myelin
+T30	CellComponent 1458 1464	myelin
+T31	Cell 1477 1500	mature oligodendrocytes
+T32	HealthCareActivity 1519 1542	remyelinating therapies
+T33	CellFunction 340 386	oligodendrocyte precursor cell differentiation
+T34	PathologicFunction 83 95	degeneration
+T35	Cell 511 518	neurons
+T36	BiologicFunction 240 248	learning
+T37	BiologicFunction 546 554	learning
+T38	BiologicFunction 716 724	learning
+T39	HealthCareActivity 221 227	report
+T40	ResearchActivity 221 227	report
+T41	PathologicFunction 496 509	demyelination
+T42	PathologicFunction 1038 1051	demyelination
+T43	HealthCareActivity 1086 1111	therapeutic interventions
+T44	InjuryOrPoisoning 205 211	injury
+T45	InjuryOrPoisoning 1207 1227	demyelinating injury
+T46	BiologicFunction 1383 1401	oligodendrogenesis
+T47	BiologicFunction 736 754	oligodendrogenesis
+T48	BiologicFunction 294 312	oligodendrogenesis
+T49	CellOrMolecularDysfunction 0 20	Oligodendrocyte loss
+T50	ResearchActivity 251 270	forelimb reach task
+T51	CellFunction 1000 1027	myelin pattern preservation
+T52	CellFunction 915 932	sheath generation
+T53	CellFunction 419 443	myelin sheath remodeling
+T54	CellFunction 673 681;697 705	neuronal function

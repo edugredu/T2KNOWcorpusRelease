@@ -1,0 +1,95 @@
+T0	CellFunction 7 17	metabolism
+T1	CellFunction 46 57	endocytosis
+T2	AminoAcidPeptideOrProtein 180 186	dynein
+T3	BiologicallyActiveSubstance 180 186	dynein
+T4	AminoAcidPeptideOrProtein 192 200	dynactin
+T5	BiologicallyActiveSubstance 192 200	dynactin
+T6	CellFunction 280 290	metabolism
+T7	BiologicFunction 280 290	metabolism
+T8	CellComponent 305 318	intracellular
+T9	CellComponent 546 559	intracellular
+T10	AminoAcidPeptideOrProtein 695 720	autophagy-related protein
+T11	ResearchActivity 821 833	experimental
+T12	CellComponent 847 860	autophagosome
+T13	CellComponent 912 925	intracellular
+T14	CellComponent 947 960	extracellular
+T15	CellFunction 1022 1043;1049 1058	extracellular vesicle secretion
+T16	CellFunction 1060 1064	RNAi
+T17	CellComponent 1108 1121	intracellular
+T18	CellComponent 1126 1139	extracellular
+T19	CellComponent 1191 1204	autophagosome
+T20	CellComponent 1251 1264	intracellular
+T21	AminoAcidPeptideOrProtein 1296 1302	dynein
+T22	BiologicallyActiveSubstance 1296 1302	dynein
+T23	ResearchActivity 1303 1312	knockdown
+T24	CellFunction 1605 1612	carrier
+T25	ManufacturedObject 1605 1612	carrier
+T26	CellComponent 1022 1043	extracellular vesicle
+T27	CellFunction 625 634	autophagy
+T28	CellFunction 695 704	autophagy
+T29	AminoAcidPeptideOrProtein 1535 1550	amyloid plaques
+T30	CellComponent 1358 1387	intraluminal membrane vesicle
+T31	CellOrMolecularDysfunction 753 777	amyloid plaque formation
+T32	Finding 590 611	Accumulating evidence
+T33	CellFunction 1173 1187	downregulation
+T34	TemporalConcept 1317 1321	aged
+T35	ResearchActivity 1060 1070	RNAi study
+T36	OrganismAttribute 1717 1720	age
+T37	AminoAcidPeptideOrProtein 1500 1508	proteins
+T38	CellFunction 221 260	endosomal/lysosomal trafficking pathway
+T39	BiologicFunction 144 149	aging
+T40	CellFunction 144 149	aging
+T41	Finding 1009 1018	reduction
+T42	NaturalPhenomenonOrProcess 1009 1018	reduction
+T43	Finding 319 331	accumulation
+T44	Finding 1272 1284	accumulation
+T45	BodyPartOrganOrOrganComponent 25 30	brain
+T46	BodyPartOrganOrOrganComponent 1626 1631	brain
+T47	ResearchActivity 351 358	studies
+T48	DiseaseOrSyndrome 378 397	Alzheimer's disease
+T49	CellComponent 1671 1674	EVs
+T50	DiseaseOrSyndrome 399 401	AD
+T51	DiseaseOrSyndrome 660 662	AD
+T52	Cell 874 887	Neuro2a cells
+T53	CellComponent 1045 1047	EV
+T54	CellComponent 1086 1088	EV
+T55	CellComponent 1224 1226	EV
+T56	CellComponent 1355 1357	EV
+T57	CellComponent 1486 1488	EV
+T58	CellComponent 1580 1582	EV
+T59	PathologicFunction 663 672	pathology
+T60	PathologicFunction 1738 1747	pathology
+T61	BiomedicalOccupationOrDiscipline 663 672	pathology
+T62	BiomedicalOccupationOrDiscipline 1738 1747	pathology
+T63	ClinicalAttribute 1493 1499	marker
+T64	BodyPartOrganOrOrganComponent 799 805	brains
+T65	AminoAcidPeptideOrProtein 0 6	A beta
+T66	AminoAcidPeptideOrProtein 273 279	A beta
+T67	AminoAcidPeptideOrProtein 335 341	A beta
+T68	AminoAcidPeptideOrProtein 434 440	A beta
+T69	AminoAcidPeptideOrProtein 464 470	A beta
+T70	AminoAcidPeptideOrProtein 926 932	A beta
+T71	AminoAcidPeptideOrProtein 972 978	A beta
+T72	AminoAcidPeptideOrProtein 1140 1146	A beta
+T73	AminoAcidPeptideOrProtein 1265 1271	A beta
+T74	AminoAcidPeptideOrProtein 1616 1622	A beta
+T75	AminoAcidPeptideOrProtein 1731 1737	A beta
+T76	BiologicFunction 7 17	metabolism
+T77	CellFunction 75 116	intracellular membrane trafficking system
+T78	Finding 418 430	accumulation
+T79	CellOrMolecularDysfunction 450 482	extracellular A beta depositions
+T80	Finding 563 588	extracellular depositions
+T81	Eukaryote 781 798	cynomolgus monkey
+T82	CellFunction 1086 1098	EV secretion
+T83	ClinicalAttribute 1140 1153	A beta levels
+T84	NucleicAcidNucleosideOrNucleotide 1159 1164	siRNA
+T85	BiologicallyActiveSubstance 1159 1164	siRNA
+T86	CellFunction 1224 1236	EV secretion
+T87	Eukaryote 1322 1340	cynomolgus monkeys
+T88	BodyPartOrganOrOrganComponent 1423 1447	temporal lobe parenchyma
+T89	CellComponent 1489 1492	ILV
+T90	Finding 1605 1612	carrier
+T91	PathologicFunction 1636 1667	abnormal accumulation of A beta
+T92	CellComponent 1675 1679	ILVs
+T93	CellComponent 1389 1392	ILV
+T94	CellComponent 404 417	intraneuronal

@@ -1,0 +1,77 @@
+T0	ResearchActivity 64 85	expression signatures
+T1	DiseaseOrSyndrome 797 813	bipolar disorder
+T2	DiseaseOrSyndrome 830 853	coronary artery disease
+T3	DiseaseOrSyndrome 877 914	chronic obstructive pulmonary disease
+T4	Finding 998 1009	independent
+T5	CellFunction 59 74	gene expression
+T6	CellFunction 497 512	gene expression
+T7	DiseaseOrSyndrome 855 875	rheumatoid arthritis
+T8	BiologicFunction 1618 1631	developmental
+T9	TemporalConcept 1618 1631	developmental
+T10	DiseaseOrSyndrome 815 828	schizophrenia
+T11	DiseaseOrSyndrome 766 795	amyotrophic lateral sclerosis
+T12	Finding 1673 1681	improved
+T13	OrganismAttribute 1715 1728	heterogeneous
+T14	ResearchActivity 513 522	signature
+T15	DiseaseOrSyndrome 395 404	disorders
+T16	DiseaseOrSyndrome 1578 1587	disorders
+T17	DiseaseOrSyndrome 746 764	multiple sclerosis
+T18	PopulationGroup 1735 1745	population
+T19	BiologicFunction 1729 1734	aging
+T20	CellFunction 1729 1734	aging
+T21	OrganismAttribute 1682 1689	ability
+T22	TemporalConcept 596 601	first
+T23	DiseaseOrSyndrome 105 124	Alzheimer's disease
+T24	DiseaseOrSyndrome 126 128	AD
+T25	DiseaseOrSyndrome 182 184	AD
+T26	DiseaseOrSyndrome 485 487	AD
+T27	DiseaseOrSyndrome 611 613	AD
+T28	DiseaseOrSyndrome 672 674	AD
+T29	DiseaseOrSyndrome 1035 1037	AD
+T30	DiseaseOrSyndrome 1075 1077	AD
+T31	DiseaseOrSyndrome 1705 1707	AD
+T32	ClinicalAttribute 91 100	biomarker
+T33	PopulationGroup 702 710	controls
+T34	PopulationGroup 1052 1060	controls
+T35	OrganismAttribute 189 196	healthy
+T36	OrganismAttribute 622 629	healthy
+T37	OrganismAttribute 1085 1092	healthy
+T38	DiseaseOrSyndrome 725 744	Parkinson's disease
+T39	PopulationGroup 197 205	controls
+T40	PopulationGroup 630 638	controls
+T41	BiologicFunction 433 444	development
+T42	CellFunction 433 444	development
+T43	Finding 1137 1148	sensitivity
+T44	Finding 1348 1359	sensitivity
+T45	Finding 1783 1794	sensitivity
+T46	Finding 1177 1188	specificity
+T47	Finding 1388 1399	specificity
+T48	ResearchActivity 469 478	discovery
+T49	Finding 1651 1657	result
+T50	BodyPartOrganOrOrganComponent 45 50	blood
+T51	PopulationGroup 1093 1100	control
+T52	ResearchActivity 1154 1156	CI
+T53	ResearchActivity 1194 1196	CI
+T54	ResearchActivity 1226 1228	CI
+T55	ResearchActivity 1261 1263	CI
+T56	ResearchActivity 1365 1367	CI
+T57	ResearchActivity 1405 1407	CI
+T58	ResearchActivity 1437 1439	CI
+T59	ResearchActivity 1473 1475	CI
+T60	ResearchActivity 1062 1069	Results
+T61	TemporalConcept 1508 1513	early
+T62	ResearchActivity 1597 1617	classification model
+T63	ResearchActivity 1101 1107	models
+T64	ResearchActivity 1295 1315	mixed control models
+T65	ResearchActivity 1661 1667	models
+T66	PopulationGroup 940 948	subjects
+T67	OrganismAttribute 920 939	cognitively healthy
+T68	PopulationGroup 1010 1016	cohort
+T69	ResearchActivity 1802 1806	test
+T70	HealthCareActivity 1802 1806	test
+T71	ClinicalAttribute 267 274	markers
+T72	MachineActivity 546 575	XGBoost classification models
+T73	MachineActivity 145 175	training classification models
+T74	SignOrSymptom 287 294	illness
+T75	ResearchActivity 412 432	classification model
+T76	ResearchActivity 955 976	classification models

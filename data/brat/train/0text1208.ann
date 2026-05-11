@@ -1,0 +1,84 @@
+T0	BiologicFunction 39 60	cognitive development
+T1	TemporalConcept 161 170	permanent
+T2	CellFunction 354 365	endocytosis
+T3	BiologicallyActiveSubstance 393 403	metabolite
+T4	AminoAcidPeptideOrProtein 540 585	platelet-derived growth factor receptor-alpha
+T5	CellFunction 591 602	endocytosis
+T6	BodyPartOrganOrOrganComponent 614 618	oral
+T7	Finding 629 638	lactating
+T8	BodyPartOrganOrOrganComponent 704 715	breast milk
+T9	BiologicallyActiveSubstance 823 828	toxin
+T10	BodyPartOrganOrOrganComponent 864 868	oral
+T11	BodyPartOrganOrOrganComponent 1195 1199	oral
+T12	CellFunction 267 278	cell growth
+T13	BiologicFunction 486 504	oligodendrogenesis
+T14	DiseaseOrSyndrome 68 90	demyelinating diseases
+T15	DiseaseOrSyndrome 1233 1255	demyelinating diseases
+T16	DiseaseOrSyndrome 96 114	multiple sclerosis
+T17	BodyPartOrganOrOrganComponent 916 922	myelin
+T18	BodyPartOrganOrOrganComponent 1164 1170	myelin
+T19	TemporalConcept 379 383	rate
+T20	CellFunction 339 348	signaling
+T21	CellFunction 283 298	differentiation
+T22	BiologicallyActiveSubstance 208 230	cell surface receptors
+T23	AminoAcidPeptideOrProtein 208 230	cell surface receptors
+T24	CellComponent 177 183	axonal
+T25	Cell 510 525	precursor cells
+T26	HealthCareActivity 1004 1011	imaging
+T27	Chemical 830 839	cuprizone
+T28	CellFunction 916 929	myelin repair
+T29	CellFunction 1164 1177	myelin repair
+T30	TemporalConcept 674 681	newborn
+T31	CellFunction 0 11	Myelination
+T32	PatientOrDisabledGroup 937 945	patients
+T33	HealthCareActivity 436 442	report
+T34	ResearchActivity 436 442	report
+T35	Eukaryote 639 643	mice
+T36	Eukaryote 813 817	mice
+T37	Cell 586 590	cell
+T38	BodyPartOrganOrOrganComponent 958 963	serum
+T39	CellFunction 691 700	secretion
+T40	BiologicFunction 691 700	secretion
+T41	BiologicFunction 529 539	inhibiting
+T42	CellComponent 208 220	cell surface
+T43	CellFunction 138 151	remyelination
+T44	CellFunction 651 670	primary myelination
+T45	CellFunction 783 802	primary myelination
+T46	CellFunction 1140 1159	primary myelination
+T47	DiseaseOrSyndrome 116 118	MS
+T48	DiseaseOrSyndrome 934 936	MS
+T49	DiseaseOrSyndrome 1261 1263	MS
+T50	PathologicFunction 849 862	demyelination
+T51	PathologicFunction 1024 1037	demyelination
+T52	PopulationGroup 807 812	adult
+T53	AminoAcidPeptideOrProtein 221 230	receptors
+T54	BiologicallyActiveSubstance 221 230	receptors
+T55	ResearchActivity 1070 1074	data
+T56	BiologicallyActiveSubstance 540 585	platelet-derived growth factor receptor-alpha
+T57	BiologicFunction 923 929	repair
+T58	BiologicFunction 1171 1177	repair
+T59	HealthCareActivity 923 929	repair
+T60	HealthCareActivity 1171 1177	repair
+T61	CellFunction 1214 1229	neuroprotective
+T62	CellOrMolecularDysfunction 127 151	failure of remyelination
+T63	Cell 171 176	neuro
+T64	InjuryOrPoisoning 184 190	damage
+T65	Chemical 245 254	N-glycans
+T66	AminoAcidPeptideOrProtein 314 326	glycoprotein
+T67	BiologicallyActiveSubstance 314 326	glycoprotein
+T68	CellFunction 314 337	glycoprotein clustering
+T69	Chemical 367 373	GlcNAc
+T70	CellFunction 408 426	N-glycan branching
+T71	Chemical 448 454	GlcNAc
+T72	CellFunction 459 477	N-glycan branching
+T73	Chemical 619 625	GlcNAc
+T74	Eukaryote 682 686	pups
+T75	ResearchActivity 725 745	genetically blocking
+T76	CellFunction 746 764	N-glycan branching
+T77	Chemical 869 875	GlcNAc
+T78	InjuryOrPoisoning 898 904	damage
+T79	Chemical 964 970	GlcNAc
+T80	InjuryOrPoisoning 1058 1064	damage
+T81	Chemical 1200 1206	GlcNAc
+T82	CellFunction 1084 1102	N-glycan branching
+T83	Chemical 1107 1113	GlcNAc

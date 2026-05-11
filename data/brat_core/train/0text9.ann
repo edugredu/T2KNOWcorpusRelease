@@ -1,0 +1,51 @@
+T0	ResearchActivity 7 38	genome-wide association studies
+T1	Chemical 140 149	modifiers
+T2	GeneOrGenome 223 239	DNA repair genes
+T3	ResearchActivity 356 379	therapeutic development
+T4	ResearchActivity 454 469	cancer research
+T5	DiseaseOrSyndrome 584 593	universal
+T6	CellOrMolecularDysfunction 605 625	oxidative DNA damage
+T7	CellFunction 860 886	DNA damage repair pathways
+T8	GeneOrGenome 1060 1103	ataxia telangiectasia-mutated (ATM) complex
+T9	CellFunction 1105 1120	mismatch repair
+T10	AminoAcidPeptideOrProtein 1126 1153	poly ADP-ribose polymerases
+T11	BiologicallyActiveSubstance 1126 1153	poly ADP-ribose polymerases
+T12	AminoAcidPeptideOrProtein 1155 1160	PARPs
+T13	GeneOrGenome 1155 1160	PARPs
+T14	BiologicallyActiveSubstance 1155 1160	PARPs
+T15	TemporalConcept 0 6	Recent
+T16	AminoAcidPeptideOrProtein 508 521	polyglutamine
+T17	Finding 1026 1036	identified
+T18	BodyPartOrganOrOrganComponent 1047 1052	nodes
+T19	BiologicFunction 724 729	aging
+T20	CellFunction 724 729	aging
+T21	ClinicalAttribute 170 186	disease severity
+T22	TemporalConcept 160 165	onset
+T23	TemporalConcept 273 278	onset
+T24	TemporalConcept 651 656	onset
+T25	ResearchActivity 437 450	investigation
+T26	Finding 170 186	disease severity
+T27	BiologicallyActiveSubstance 685 708	reactive oxygen species
+T28	Chemical 685 708	reactive oxygen species
+T29	AminoAcidPeptideOrProtein 530 538	proteins
+T30	CellOrMolecularDysfunction 801 818	neurodegeneration
+T31	CellFunction 396 404	pathways
+T32	OrganismAttribute 153 156	age
+T33	OrganismAttribute 269 272	age
+T34	OrganismAttribute 647 650	age
+T35	BiologicallyActiveSubstance 710 713	ROS
+T36	Chemical 710 713	ROS
+T37	Finding 204 212	evidence
+T38	Eukaryote 718 723	human
+T39	CellFunction 108 125	DNA damage repair
+T40	CellFunction 542 559	DNA damage repair
+T41	DiseaseOrSyndrome 279 305	neurodegenerative diseases
+T42	DiseaseOrSyndrome 903 929	neurodegenerative diseases
+T43	DiseaseOrSyndrome 42 62	Huntington's disease
+T44	DiseaseOrSyndrome 64 66	HD
+T45	DiseaseOrSyndrome 383 385	HD
+T46	DiseaseOrSyndrome 890 892	HD
+T47	HealthCareActivity 953 960	therapy
+T48	OrganismAttribute 743 746	age
+T49	AminoAcidPeptideOrProtein 1060 1103	ataxia telangiectasia-mutated (ATM) complex
+T50	BiologicallyActiveSubstance 1060 1103	ataxia telangiectasia-mutated (ATM) complex

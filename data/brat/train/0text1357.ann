@@ -1,0 +1,48 @@
+T0	Cell 316 327	Glial cells
+T1	CellFunction 635 670	demyelination-remyelination process
+T2	Cell 253 265	immune cells
+T3	Eukaryote 914 920	rodent
+T4	TemporalConcept 198 204	course
+T5	DiseaseOrSyndrome 208 226	multiple sclerosis
+T6	DiseaseOrSyndrome 499 517	multiple sclerosis
+T7	DiseaseOrSyndrome 885 903	multiple sclerosis
+T8	BodyPartOrganOrOrganComponent 83 89	myelin
+T9	DiseaseOrSyndrome 25 43	autoimmune disease
+T10	InjuryOrPoisoning 728 734	lesion
+T11	Cell 356 385	oligodendrocyte lineage cells
+T12	Cell 587 616	oligodendrocyte lineage cells
+T13	Substance 1063 1071	molecule
+T14	Cell 587 610	oligodendrocyte lineage
+T15	Cell 690 695	glial
+T16	Cell 821 826	glial
+T17	Cell 958 963	glial
+T18	BodyPartOrganOrOrganComponent 104 126	central nervous system
+T19	Cell 550 561	glial cells
+T20	Cell 1053 1057	cell
+T21	ResearchActivity 935 941	models
+T22	ResearchActivity 803 809	review
+T23	HealthCareActivity 803 809	review
+T24	ResearchActivity 1081 1100	therapeutic targets
+T25	Finding 414 423	mediators
+T26	Cell 290 299	microglia
+T27	Cell 329 338	microglia
+T28	PathologicFunction 483 495	pathogenesis
+T29	CellOrMolecularDysfunction 840 857	neurodegeneration
+T30	BodyPartOrganOrOrganComponent 151 170	blood-brain barrier
+T31	CellFunction 980 999	molecular crosstalk
+T32	Cell 304 314	astrocytes
+T33	Cell 340 350	astrocytes
+T34	BodyPartOrganOrOrganComponent 57 70	immune system
+T35	CellFunction 649 662	remyelination
+T36	CellFunction 761 774	remyelination
+T37	CellFunction 1112 1125	remyelination
+T38	CellComponent 83 96	myelin sheath
+T39	PathologicFunction 921 934	demyelination
+T40	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T41	PathologicFunction 427 444	neuroinflammation
+T42	PathologicFunction 171 182	dysfunction
+T43	BiologicFunction 779 796	neuroregeneration
+T44	BiologicFunction 1130 1147	neuroregeneration
+T45	PathologicFunction 635 648	demyelination
+T46	Finding 735 746	environment
+T47	ExperimentalModelOfDisease 914 941	rodent demyelination models

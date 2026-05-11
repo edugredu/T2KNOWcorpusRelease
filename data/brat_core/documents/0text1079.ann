@@ -1,0 +1,160 @@
+T0	AminoAcidPeptideOrProtein 12 16	aFGF
+T1	GeneOrGenome 12 16	aFGF
+T2	TemporalConcept 258 268	persistent
+T3	AminoAcidPeptideOrProtein 397 401	aFGF
+T4	GeneOrGenome 397 401	aFGF
+T5	AminoAcidPeptideOrProtein 485 489	aFGF
+T6	GeneOrGenome 485 489	aFGF
+T7	HealthCareActivity 490 501	stimulation
+T8	NaturalPhenomenonOrProcess 490 501	stimulation
+T9	AminoAcidPeptideOrProtein 595 599	aFGF
+T10	GeneOrGenome 595 599	aFGF
+T11	HealthCareActivity 669 681	treated with
+T12	AminoAcidPeptideOrProtein 693 697	aFGF
+T13	GeneOrGenome 693 697	aFGF
+T14	BodyPartOrganOrOrganComponent 914 921	synapse
+T15	AminoAcidPeptideOrProtein 1050 1054	aFGF
+T16	GeneOrGenome 1050 1054	aFGF
+T17	NaturalPhenomenonOrProcess 1269 1279	stimulated
+T18	AminoAcidPeptideOrProtein 1283 1287	aFGF
+T19	GeneOrGenome 1283 1287	aFGF
+T20	CellComponent 1370 1377	neurite
+T21	HealthCareActivity 1444 1469	intranasal administration
+T22	HealthCareActivity 1602 1604	AP
+T23	AminoAcidPeptideOrProtein 1727 1731	aFGF
+T24	GeneOrGenome 1727 1731	aFGF
+T25	HealthCareActivity 1732 1743	stimulation
+T26	NaturalPhenomenonOrProcess 1732 1743	stimulation
+T27	TemporalConcept 1744 1752	modified
+T28	CellFunction 1848 1863	down-regulation
+T29	BiologicFunction 1848 1863	down-regulation
+T30	DiseaseOrSyndrome 2000 2009	Alzheimer
+T31	GeneOrGenome 2036 2071;2077 2081	brain-derived neurotrophic factor ( gene
+T32	AminoAcidPeptideOrProtein 2220 2244	Asparagine endopeptidase
+T33	GeneOrGenome 2246 2249	AEP
+T34	BodyPartOrganOrOrganComponent 2286 2290	axis
+T35	AminoAcidPeptideOrProtein 2378 2382	aFGF
+T36	GeneOrGenome 2378 2382	aFGF
+T37	NucleicAcidNucleosideOrNucleotide 1966 1976	miR-206-3p
+T38	NucleicAcidNucleosideOrNucleotide 2110 2120	miR-206-3p
+T39	NucleicAcidNucleosideOrNucleotide 2154 2174	miR-206-3p antagomir
+T40	NucleicAcidNucleosideOrNucleotide 2270 2280	miR-206-3p
+T41	NucleicAcidNucleosideOrNucleotide 2431 2441	miR-206-3p
+T42	BiologicallyActiveSubstance 1966 1976	miR-206-3p
+T43	BiologicallyActiveSubstance 2110 2120	miR-206-3p
+T44	BiologicallyActiveSubstance 2154 2174	miR-206-3p antagomir
+T45	CellComponent 153 175	Extracellular vesicles
+T46	Cell 1416 1423	neurons
+T47	ResearchActivity 1424 1432	in vitro
+T48	CellOrMolecularDysfunction 322 342	neuronal dysfunction
+T49	CellFunction 1531 1550	synaptic plasticity
+T50	BiologicFunction 1531 1550	synaptic plasticity
+T51	Cell 216 222	neuron
+T52	Substance 1015 1024	molecules
+T53	BiologicFunction 1378 1384	growth
+T54	AminoAcidPeptideOrProtein 1590 1593	APP
+T55	GeneOrGenome 1590 1593	APP
+T56	BiologicallyActiveSubstance 1590 1593	APP
+T57	AminoAcidPeptideOrProtein 1594 1597	PS1
+T58	Cell 141 151	astrocytes
+T59	Cell 269 288	reactive astrocytes
+T60	Cell 366 376	astrocytes
+T61	CellOrMolecularDysfunction 649 667	damaged astrocytes
+T62	Cell 1796 1806	astrocytes
+T63	OrganismAttribute 2010 2019	phenotype
+T64	ResearchActivity 881 887	burden
+T65	ResearchActivity 1576 1582	burden
+T66	ResearchActivity 2307 2313	burden
+T67	Cell 206 215	astrocyte
+T68	Cell 435 444	astrocyte
+T69	CellFunction 1325 1340	neuroprotection
+T70	Finding 1696 1702	normal
+T71	AminoAcidPeptideOrProtein 2071 2075	BDNF
+T72	AminoAcidPeptideOrProtein 2281 2285	BDNF
+T73	BiologicallyActiveSubstance 2071 2075	BDNF
+T74	BiologicallyActiveSubstance 2281 2285	BDNF
+T75	PathologicFunction 535 546	progression
+T76	TemporalConcept 535 546	progression
+T77	Finding 1389 1398	reduction
+T78	NaturalPhenomenonOrProcess 1389 1398	reduction
+T79	CellFunction 1115 1125	inhibition
+T80	BodyPartOrganOrOrganComponent 817 822	brain
+T81	BodyPartOrganOrOrganComponent 895 900	brain
+T82	BodyPartOrganOrOrganComponent 1567 1572	brain
+T83	BodyPartOrganOrOrganComponent 1605 1610	brain
+T84	BodyPartOrganOrOrganComponent 2324 2329	brain
+T85	HealthCareActivity 1244 1253	diagnosis
+T86	HealthCareActivity 2491 2500	diagnosis
+T87	DiseaseOrSyndrome 74 93	Alzheimer's disease
+T88	CellComponent 177 180	EVs
+T89	CellComponent 453 456	EVs
+T90	CellComponent 1768 1771	EVs
+T91	DiseaseOrSyndrome 95 97	AD
+T92	DiseaseOrSyndrome 532 534	AD
+T93	DiseaseOrSyndrome 761 763	AD
+T94	DiseaseOrSyndrome 1241 1243	AD
+T95	DiseaseOrSyndrome 1344 1346	AD
+T96	DiseaseOrSyndrome 1665 1667	AD
+T97	DiseaseOrSyndrome 1940 1942	AD
+T98	DiseaseOrSyndrome 2023 2025	AD
+T99	DiseaseOrSyndrome 2178 2180	AD
+T100	DiseaseOrSyndrome 2321 2323	AD
+T101	DiseaseOrSyndrome 2488 2490	AD
+T102	NucleicAcidNucleosideOrNucleotide 956 962	miRNAs
+T103	BiologicallyActiveSubstance 956 962	miRNAs
+T104	BodyPartOrganOrOrganComponent 1930 1936	plasma
+T105	PatientOrDisabledGroup 99 107	patients
+T106	PatientOrDisabledGroup 1952 1960	patients
+T107	ClinicalAttribute 1217 1226	biomarker
+T108	ClinicalAttribute 2474 2483	biomarker
+T109	Eukaryote 764 768	mice
+T110	Eukaryote 1620 1624	mice
+T111	Eukaryote 1943 1947	mice
+T112	Eukaryote 2026 2030	mice
+T113	Eukaryote 2181 2185	mice
+T114	BodyPartOrganOrOrganComponent 28 33	serum
+T115	PathologicFunction 1347 1356	pathology
+T116	BiomedicalOccupationOrDiscipline 1347 1356	pathology
+T117	TemporalConcept 297 304	chronic
+T118	ResearchActivity 1255 1262	Results
+T119	PathologicFunction 297 317	chronic inflammation
+T120	BodyPartOrganOrOrganComponent 38 57	cerebrospinal fluid
+T121	OrganismAttribute 788 795	ability
+T122	PathologicFunction 305 317	inflammation
+T123	Finding 1643 1661	beneficial effects
+T124	BiologicallyActiveSubstance 12 16	aFGF
+T125	ClinicalAttribute 12 33	aFGF content in serum
+T126	CellFunction 127 151	activation of astrocytes
+T127	CellFunction 206 237	astrocyte-neuron communications
+T128	CellFunction 352 376	activation of astrocytes
+T129	BiologicallyActiveSubstance 397 401	aFGF
+T130	CellComponent 458 462	AEVs
+T131	BiologicallyActiveSubstance 485 489	aFGF
+T132	BiologicallyActiveSubstance 595 599	aFGF
+T133	CellComponent 625 629	AEVs
+T134	BiologicallyActiveSubstance 693 697	aFGF
+T135	HealthCareActivity 732 757	intranasally administered
+T136	ResearchActivity 732 757	intranasally administered
+T137	CellComponent 799 803	AEVs
+T138	DiseaseOrSyndrome 835 862	cognitive behavior deficits
+T139	CellComponent 975 979	AEVs
+T140	BiologicallyActiveSubstance 1050 1054	aFGF
+T141	Finding 1081 1099	protective effects
+T142	DiseaseOrSyndrome 1129 1149	cognitive deficiency
+T143	NucleicAcidNucleosideOrNucleotide 1103 1114	mi R-206-3p
+T144	BiologicallyActiveSubstance 1103 1114	mi R-206-3p
+T145	CellComponent 1264 1268	AEVs
+T146	BiologicallyActiveSubstance 1283 1287	aFGF
+T147	CellFunction 1370 1384	neurite growth
+T148	DiseaseOrSyndrome 1493 1520	cognitive behavior deficits
+T149	NucleicAcidNucleosideOrNucleotide 1867 1877	miR-206-3p
+T150	BiologicallyActiveSubstance 1867 1877	miR-206-3p
+T151	ClinicalAttribute 1883 1900;1923 1936	mi R-206-3p level in the plasma
+T152	GeneOrGenome 2071 2075	BDNF
+T153	BiologicallyActiveSubstance 2270 2280	miR-206-3p
+T154	BiologicallyActiveSubstance 2220 2244	Asparagine endopeptidase
+T155	BiologicallyActiveSubstance 2246 2249	AEP
+T156	BiologicallyActiveSubstance 2431 2441	miR-206-3p
+T157	BiologicallyActiveSubstance 2378 2382	aFGF
+T158	CellComponent 2406 2410	AEVs
+T159	Finding 2505 2523	therapeutic target

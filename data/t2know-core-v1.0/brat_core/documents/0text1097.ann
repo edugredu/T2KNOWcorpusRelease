@@ -1,0 +1,144 @@
+T0	NucleicAcidNucleosideOrNucleotide 29 43	non-coding RNA
+T1	AminoAcidPeptideOrProtein 29 43	non-coding RNA
+T2	CellComponent 198 201	SEV
+T3	CellComponent 407 410	SEV
+T4	CellComponent 742 745	SEV
+T5	CellComponent 797 800	SEV
+T6	AminoAcidPeptideOrProtein 925 930	L1CAM
+T7	GeneOrGenome 925 930	L1CAM
+T8	ResearchActivity 932 946	RNA sequencing
+T9	CellComponent 1052 1055	SEV
+T10	ResearchActivity 1222 1225	FDR
+T11	CellComponent 1373 1376	SEV
+T12	BiologicallyActiveSubstance 1550 1576	TAR DNA-binding protein 43
+T13	AminoAcidPeptideOrProtein 1631 1635	FOXO
+T14	CellComponent 1742 1745	SEV
+T15	CellComponent 1907 1910	SEV
+T16	NucleicAcidNucleosideOrNucleotide 0 9	MicroRNAs
+T17	BiologicallyActiveSubstance 0 9	MicroRNAs
+T18	PopulationGroup 618 622	race
+T19	PopulationGroup 623 632	ethnicity
+T20	PopulationGroup 618 632	race/ethnicity
+T21	BodyPartOrganOrOrganComponent 225 244	extracellular space
+T22	TemporalConcept 1717 1723	Lastly
+T23	PopulationGroup 1105 1113	controls
+T24	PopulationGroup 1195 1203	controls
+T25	PopulationGroup 1446 1454	controls
+T26	PopulationGroup 564 576	participants
+T27	PopulationGroup 660 672	participants
+T28	PopulationGroup 1003 1015	participants
+T29	PopulationGroup 1359 1371	participants
+T30	CellComponent 174 196	extracellular vesicles
+T31	DiseaseOrSyndrome 467 486	Alzheimer's disease
+T32	DiseaseOrSyndrome 488 490	AD
+T33	DiseaseOrSyndrome 542 544	AD
+T34	DiseaseOrSyndrome 978 980	AD
+T35	DiseaseOrSyndrome 1118 1120	AD
+T36	DiseaseOrSyndrome 1348 1350	AD
+T37	OrganismAttribute 497 504	healthy
+T38	OrganismAttribute 550 557	healthy
+T39	OrganismAttribute 989 996	healthy
+T40	OrganismAttribute 1097 1104	healthy
+T41	OrganismAttribute 1187 1194	healthy
+T42	OrganismAttribute 1438 1445	healthy
+T43	DiseaseOrSyndrome 451 459	dementia
+T44	ClinicalAttribute 909 923	surface marker
+T45	ResearchActivity 1595 1611	pathway analysis
+T46	ResearchActivity 1699 1715	pathway analysis
+T47	ResearchActivity 1037 1042	study
+T48	BodyPartOrganOrOrganComponent 756 762	plasma
+T49	BodyPartOrganOrOrganComponent 1327 1333	plasma
+T50	BodyPartOrganOrOrganComponent 1793 1799	plasma
+T51	BodyPartOrganOrOrganComponent 1843 1849	plasma
+T52	BodyPartOrganOrOrganComponent 319 324	brain
+T53	NucleicAcidNucleosideOrNucleotide 11 17	miRNAs
+T54	NucleicAcidNucleosideOrNucleotide 144 150	miRNAs
+T55	NucleicAcidNucleosideOrNucleotide 746 752	miRNAs
+T56	BiologicallyActiveSubstance 11 17	miRNAs
+T57	BiologicallyActiveSubstance 144 150	miRNAs
+T58	BiologicallyActiveSubstance 746 752	miRNAs
+T59	PopulationGroup 1339 1344	group
+T60	Substance 1876 1884	biofluid
+T61	Substance 714 721	samples
+T62	Substance 1834 1841	samples
+T63	BodyPartOrganOrOrganComponent 714 721	samples
+T64	BodyPartOrganOrOrganComponent 1834 1841	samples
+T65	BodyPartOrganOrOrganComponent 694 713	cerebrospinal fluid
+T66	BodyPartOrganOrOrganComponent 767 786	cerebrospinal fluid
+T67	BodyPartOrganOrOrganComponent 1295 1314	cerebrospinal fluid
+T68	BodyPartOrganOrOrganComponent 1804 1823	cerebrospinal fluid
+T69	Cell 398 406	neuronal
+T70	Cell 733 741	neuronal
+T71	Cell 900 908	neuronal
+T72	Cell 1898 1906	neuronal
+T73	CellFunction 76 91	gene expression
+T74	CellFunction 81 91	expression
+T75	CellFunction 111 121	expression
+T76	CellFunction 417 427	expression
+T77	CellFunction 1277 1287	expression
+T78	NucleicAcidNucleosideOrNucleotide 411 416	miRNA
+T79	NucleicAcidNucleosideOrNucleotide 1056 1066	miRNA-181c
+T80	NucleicAcidNucleosideOrNucleotide 1122 1131	miRNA-122
+T81	NucleicAcidNucleosideOrNucleotide 1136 1146	miRNA-3591
+T82	NucleicAcidNucleosideOrNucleotide 1237 1248	miRNA-21-5p
+T83	NucleicAcidNucleosideOrNucleotide 1377 1387	miRNA-181c
+T84	NucleicAcidNucleosideOrNucleotide 1746 1751	miRNA
+T85	NucleicAcidNucleosideOrNucleotide 1911 1916	miRNA
+T86	BiologicallyActiveSubstance 411 416	miRNA
+T87	BiologicallyActiveSubstance 1056 1066	miRNA-181c
+T88	BiologicallyActiveSubstance 1122 1131	miRNA-122
+T89	BiologicallyActiveSubstance 1136 1146	miRNA-3591
+T90	BiologicallyActiveSubstance 1237 1248	miRNA-21-5p
+T91	BiologicallyActiveSubstance 1377 1387	miRNA-181c
+T92	BiologicallyActiveSubstance 1746 1751	miRNA
+T93	BiologicallyActiveSubstance 1911 1916	miRNA
+T94	Finding 1672 1681	mediators
+T95	OrganismAttribute 604 607	age
+T96	Cell 260 269	microglia
+T97	Finding 383 394	differences
+T98	BodyPartOrganOrOrganComponent 313 332	blood-brain barrier
+T99	Cell 248 255	neurons
+T100	AminoAcidPeptideOrProtein 889 890	R
+T101	BodyPartOrganOrOrganComponent 512 518	Plasma
+T102	Substance 1818 1823	fluid
+T103	OrganismAttribute 609 612	sex
+T104	CellFunction 1640 1654	Hippo pathways
+T105	ResearchActivity 821 853	differential ultracentrifugation
+T106	Finding 1756 1780	differentially expressed
+T107	CellFunction 1071 1084	downregulated
+T108	CellFunction 1152 1165	downregulated
+T109	CellFunction 1405 1418	downregulated
+T110	Finding 1475 1482	effects
+T111	BiologicFunction 505 510	aging
+T112	BiologicFunction 558 563	aging
+T113	BiologicFunction 997 1002	aging
+T114	CellFunction 505 510	aging
+T115	CellFunction 558 563	aging
+T116	CellFunction 997 1002	aging
+T117	AminoAcidPeptideOrProtein 1578 1584	TDP-43
+T118	BiologicallyActiveSubstance 1578 1584	TDP-43
+T119	CellFunction 1554 1565	DNA-binding
+T120	DiseaseOrSyndrome 436 459	frontotemporal dementia
+T121	DiseaseOrSyndrome 461 464	FTD
+T122	DiseaseOrSyndrome 537 540	FTD
+T123	DiseaseOrSyndrome 965 968	FTD
+T124	DiseaseOrSyndrome 1047 1050	FTD
+T125	DiseaseOrSyndrome 1208 1211	FTD
+T126	DiseaseOrSyndrome 1355 1358	FTD
+T127	DiseaseOrSyndrome 1422 1425	FTD
+T128	DiseaseOrSyndrome 1685 1688	FTD
+T129	BiologicallyActiveSubstance 788 796	Neuronal
+T130	Cell 1491 1501	microglial
+T131	PathologicFunction 1511 1528	neuroinflammation
+T132	GeneOrGenome 76 80	gene
+T133	CellComponent 168 196	small extracellular vesicles
+T134	NucleicAcidNucleosideOrNucleotide 40 43	RNA
+T135	NucleicAcidNucleosideOrNucleotide 932 935	RNA
+T136	NucleicAcidNucleosideOrNucleotide 1554 1557	DNA
+T137	AminoAcidPeptideOrProtein 1550 1576	TAR DNA-binding protein 43
+T138	BiologicallyActiveSubstance 925 930	L1CAM
+T139	BiologicallyActiveSubstance 858 866	antibody
+T140	AminoAcidPeptideOrProtein 858 866	antibody
+T141	ManufacturedObject 878 887	Dynabeads
+T142	ResearchActivity 858 887	antibody conjugated Dynabeads
+T143	CellFunction 1631 1635;1646 1654	FOXO pathways

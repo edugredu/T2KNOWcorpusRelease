@@ -1,0 +1,81 @@
+T0	BodyPartOrganOrOrganComponent 150 160	astrocytic
+T1	Finding 180 184	high
+T2	GeneOrGenome 313 322	wild type
+T3	ResearchActivity 313 322	wild type
+T4	GeneOrGenome 324 326	WT
+T5	ResearchActivity 324 326	WT
+T6	CellComponent 609 613	NEVs
+T7	BodyPartOrganOrOrganComponent 618 633	cerebral cortex
+T8	CellComponent 837 840	NEV
+T9	CellComponent 1183 1187	NEVs
+T10	Finding 403 416	relationships
+T11	ExperimentalModelOfDisease 348 353	5xFAD
+T12	ExperimentalModelOfDisease 774 779	5xFAD
+T13	Finding 1048 1056	moderate
+T14	ResearchActivity 574 586	correlations
+T15	ResearchActivity 873 885	correlations
+T16	ResearchActivity 1064 1076	correlations
+T17	ClinicalAttribute 1157 1167	Biomarkers
+T18	AminoAcidPeptideOrProtein 219 227	proteins
+T19	CellComponent 21 43	extracellular vesicles
+T20	DiseaseOrSyndrome 54 73	Alzheimer's disease
+T21	CellComponent 161 164	EVs
+T22	DiseaseOrSyndrome 75 77	AD
+T23	DiseaseOrSyndrome 231 233	AD
+T24	ExperimentalModelOfDisease 334 341	2xTg-AD
+T25	ExperimentalModelOfDisease 453 465	3xTg-AD mice
+T26	DiseaseOrSyndrome 1240 1242	AD
+T27	CellComponent 216 218	EV
+T28	AminoAcidPeptideOrProtein 111 118	amyloid
+T29	BiologicallyActiveSubstance 111 118	amyloid
+T30	AminoAcidPeptideOrProtein 120 126	A beta
+T31	AminoAcidPeptideOrProtein 814 823	A beta 42
+T32	AminoAcidPeptideOrProtein 841 850	A beta 42
+T33	AminoAcidPeptideOrProtein 891 900	A beta 42
+T34	AminoAcidPeptideOrProtein 106 118	beta-amyloid
+T35	PatientOrDisabledGroup 79 87	patients
+T36	BiologicallyActiveSubstance 98 101	Tau
+T37	BiologicallyActiveSubstance 483 486	Tau
+T38	BiologicallyActiveSubstance 502 510	p181-Tau
+T39	BiologicallyActiveSubstance 651 660	total Tau
+T40	BiologicallyActiveSubstance 690 698	p181-Tau
+T41	AminoAcidPeptideOrProtein 98 101	Tau
+T42	AminoAcidPeptideOrProtein 483 486	Tau
+T43	AminoAcidPeptideOrProtein 502 510	p181-Tau
+T44	AminoAcidPeptideOrProtein 651 660	total Tau
+T45	AminoAcidPeptideOrProtein 690 698	p181-Tau
+T46	Cell 12 20	neuronal
+T47	BodyPartOrganOrOrganComponent 422 434	brain tissue
+T48	BodyPartOrganOrOrganComponent 1211 1216	brain
+T49	ClinicalAttribute 234 244	biomarkers
+T50	ClinicalAttribute 595 605	biomarkers
+T51	Eukaryote 536 543	WT mice
+T52	Eukaryote 798 802	mice
+T53	Eukaryote 1018 1022	mice
+T54	DiseaseOrSyndrome 1310 1332	neurological disorders
+T55	BodyPartOrganOrOrganComponent 283 289	plasma
+T56	ClinicalAttribute 393 402	biomarker
+T57	CellComponent 166 170	AEVs
+T58	CellComponent 273 277	AEVs
+T59	CellComponent 1192 1196	AEVs
+T60	Eukaryote 1243 1248	mouse
+T61	PharmacologicSubstance 1097 1098	r
+T62	PharmacologicSubstance 1135 1136	r
+T63	BodyPartOrganOrOrganComponent 638 649	hippocampus
+T64	BodyPartOrganOrOrganComponent 729 740	hippocampus
+T65	BodyPartOrganOrOrganComponent 936 947	hippocampus
+T66	BodyPartOrganOrOrganComponent 1122 1133	hippocampus
+T67	HealthCareActivity 1292 1305	liquid biopsy
+T68	BodyPartOrganOrOrganComponent 662 668	cortex
+T69	BodyPartOrganOrOrganComponent 700 706	cortex
+T70	BodyPartOrganOrOrganComponent 904 910	cortex
+T71	BodyPartOrganOrOrganComponent 1089 1095	cortex
+T72	CellComponent 45 49	NEVs
+T73	CellComponent 264 268	NEVs
+T74	ExperimentalModelOfDisease 367 379	3xTg-AD mice
+T75	CellComponent 443 447	NEVs
+T76	CellComponent 764 768	NEVs
+T77	ResearchActivity 1249 1255	models
+T78	CellComponent 971 974	AEV
+T79	ExperimentalModelOfDisease 995 1002	3xTg-AD
+T80	CellComponent 1036 1039	AEV

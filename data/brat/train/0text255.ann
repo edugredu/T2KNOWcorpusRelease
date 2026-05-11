@@ -1,0 +1,67 @@
+T0	PopulationGroup 120 128	triplets
+T1	PopulationGroup 468 475	Italian
+T2	GeneOrGenome 603 609	allele
+T3	PopulationGroup 676 690	No significant
+T4	HealthCareActivity 818 824	visits
+T5	GeneOrGenome 847 853	allele
+T6	GeneOrGenome 938 944	allele
+T7	BodyPartOrganOrOrganComponent 983 996	basal ganglia
+T8	PopulationGroup 1098 1105	Italian
+T9	BodyPartOrganOrOrganComponent 1143 1150	quarter
+T10	TemporalConcept 545 557	age of onset
+T11	MolecularSequence 90 93	CAG
+T12	CellFunction 32 50	autosomal dominant
+T13	TemporalConcept 230 243	disease onset
+T14	TemporalConcept 757 770	disease onset
+T15	TemporalConcept 1339 1352	disease onset
+T16	CellFunction 42 50	dominant
+T17	ClinicalAttribute 776 796	clinical performance
+T18	PopulationGroup 369 379	population
+T19	Finding 654 668	family history
+T20	ClinicalAttribute 1178 1195	clinical features
+T21	TemporalConcept 1118 1126	frequent
+T22	TemporalConcept 155 169	clinical onset
+T23	SignOrSymptom 745 753	symptoms
+T24	TemporalConcept 412 417	onset
+T25	TemporalConcept 1048 1053	onset
+T26	HealthCareActivity 808 817	follow-up
+T27	TemporalConcept 808 817	follow-up
+T28	PopulationGroup 476 482	cohort
+T29	PopulationGroup 1106 1112	cohort
+T30	ResearchActivity 438 446	analyzed
+T31	GeneOrGenome 1328 1335	alleles
+T32	Finding 691 702	differences
+T33	ResearchActivity 580 586	length
+T34	PopulationGroup 1215 1223	subjects
+T35	OrganismAttribute 729 735	gender
+T36	OrganismAttribute 254 257	age
+T37	HealthCareActivity 1263 1270	studies
+T38	Finding 900 908	evidence
+T39	ResearchActivity 1263 1270	studies
+T40	TemporalConcept 264 269	years
+T41	ResearchActivity 1242 1253	sample size
+T42	Substance 1242 1248	sample
+T43	BodyPartOrganOrOrganComponent 1242 1248	sample
+T44	PatientOrDisabledGroup 418 426	patients
+T45	PatientOrDisabledGroup 638 646	patients
+T46	PatientOrDisabledGroup 881 889	patients
+T47	PatientOrDisabledGroup 1081 1089	patients
+T48	DiseaseOrSyndrome 0 20	Huntington's disease
+T49	DiseaseOrSyndrome 22 24	HD
+T50	DiseaseOrSyndrome 194 215	Late-onset form of HD
+T51	DiseaseOrSyndrome 355 368	Late-onset HD
+T52	DiseaseOrSyndrome 672 674	HD
+T53	DiseaseOrSyndrome 1057 1059	HD
+T54	ResearchActivity 294 299	study
+T55	ResearchActivity 390 400	comparison
+T56	PatientOrDisabledGroup 490 501	HD patients
+T57	DiseaseOrSyndrome 51 77	neurodegenerative disorder
+T58	CellOrMolecularDysfunction 90 103	CAG expansion
+T59	DiseaseOrSyndrome 381 385	LoHD
+T60	DiseaseOrSyndrome 428 432	CoHD
+T61	DiseaseOrSyndrome 524 528	LoHD
+T62	DiseaseOrSyndrome 633 637	LoHD
+T63	DiseaseOrSyndrome 876 880	LoHD
+T64	DiseaseOrSyndrome 1076 1080	LoHD
+T65	DiseaseOrSyndrome 1210 1214	CoHD
+T66	Finding 322 351	clinical-demographic features

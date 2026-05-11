@@ -1,0 +1,84 @@
+T0	SignOrSymptom 112 120	dystonia
+T1	DiseaseOrSyndrome 133 170	cognitive or psychiatric disturbances
+T2	AminoAcidPeptideOrProtein 268 283	mutated protein
+T3	CellOrMolecularDysfunction 268 283	mutated protein
+T4	BiologicFunction 295 304	attention
+T5	Finding 324 336	relationship
+T6	PathologicFunction 382 394	pathogenesis
+T7	AminoAcidPeptideOrProtein 457 478	transcription factors
+T8	BiologicallyActiveSubstance 457 478	transcription factors
+T9	PathologicFunction 480 492	dysregulated
+T10	Finding 652 660	severity
+T11	PathologicFunction 711 723	pathogenesis
+T12	Finding 869 893	differentially expressed
+T13	NucleicAcidNucleosideOrNucleotide 894 902	microRNA
+T14	BiologicallyActiveSubstance 894 902	microRNA
+T15	NucleicAcidNucleosideOrNucleotide 935 955	long non-coding RNAs
+T16	BiologicallyActiveSubstance 935 955	long non-coding RNAs
+T17	NucleicAcidNucleosideOrNucleotide 1023 1031	microRNA
+T18	BiologicallyActiveSubstance 1023 1031	microRNA
+T19	NucleicAcidNucleosideOrNucleotide 1053 1061	microRNA
+T20	BiologicallyActiveSubstance 1053 1061	microRNA
+T21	NucleicAcidNucleosideOrNucleotide 1162 1182	long non-coding RNAs
+T22	BiologicallyActiveSubstance 1162 1182	long non-coding RNAs
+T23	NucleicAcidNucleosideOrNucleotide 1194 1224	X-inactive specific transcript
+T24	NucleicAcidNucleosideOrNucleotide 1261 1267	miRNAs
+T25	NucleicAcidNucleosideOrNucleotide 1288 1303	hsa-miR-196a-5p
+T26	GeneOrGenome 1372 1411	brain-derived neurotrophic factor genes
+T27	ResearchActivity 1430 1449	Gene Ontology terms
+T28	ResearchActivity 1460 1479	enrichment pathways
+T29	BiologicallyActiveSubstance 1529 1544	hsa-miR-196a-5p
+T30	BiologicallyActiveSubstance 1604 1619	hsa-miR-196a-5p
+T31	NucleicAcidNucleosideOrNucleotide 1697 1717	long non-coding RNAs
+T32	BiologicallyActiveSubstance 1697 1717	long non-coding RNAs
+T33	GeneOrGenome 1718 1748	X-inactive specific transcript
+T34	GeneOrGenome 1803 1811	homeobox
+T35	AminoAcidPeptideOrProtein 1803 1811	homeobox
+T36	AminoAcidPeptideOrProtein 1815 1848	brain-derived neurotrophic factor
+T37	BiologicallyActiveSubstance 1815 1848	brain-derived neurotrophic factor
+T38	PathologicFunction 1880 1892	pathogenesis
+T39	NucleicAcidNucleosideOrNucleotide 1269 1283	hsa-miR-10b-5p
+T40	BiologicallyActiveSubstance 1585 1599	hsa-miR-10b-5p
+T41	CellFunction 27 45	autosomal dominant
+T42	DiseaseOrSyndrome 122 128	chorea
+T43	SignOrSymptom 122 128	chorea
+T44	CellComponent 239 251	chromosome 4
+T45	DiseaseOrSyndrome 0 20	Huntington's disease
+T46	DiseaseOrSyndrome 359 379	Huntington's disease
+T47	DiseaseOrSyndrome 399 419	Huntington's disease
+T48	DiseaseOrSyndrome 613 633	Huntington's disease
+T49	DiseaseOrSyndrome 727 747	Huntington's disease
+T50	DiseaseOrSyndrome 1671 1691	Huntington's disease
+T51	DiseaseOrSyndrome 1896 1916	Huntington's disease
+T52	NucleicAcidNucleosideOrNucleotide 345 354	microRNAs
+T53	NucleicAcidNucleosideOrNucleotide 421 430	microRNAs
+T54	NucleicAcidNucleosideOrNucleotide 493 502	microRNAs
+T55	NucleicAcidNucleosideOrNucleotide 694 703	microRNAs
+T56	BiologicallyActiveSubstance 345 354	microRNAs
+T57	BiologicallyActiveSubstance 421 430	microRNAs
+T58	BiologicallyActiveSubstance 493 502	microRNAs
+T59	BiologicallyActiveSubstance 694 703	microRNAs
+T60	PathologicFunction 636 647	progression
+T61	TemporalConcept 636 647	progression
+T62	ResearchActivity 667 672	study
+T63	DiseaseOrSyndrome 46 82	hereditary neurodegenerative disease
+T64	ResearchActivity 756 779	bioinformatics analysis
+T65	GeneOrGenome 1750 1776	taurine upregulated gene 1
+T66	ResearchActivity 808 840	Gene Expression Omnibus database
+T67	CellOrMolecularDysfunction 197 221	Huntington gene mutation
+T68	MolecularSequence 530 601	Cytosine deoxynucleotide-Adenine ribonucleotides-Guanine ribonucleotide
+T69	BiologicallyActiveSubstance 1106 1122	(hsa)-miR-144-3p
+T70	NucleicAcidNucleosideOrNucleotide 1106 1122	(hsa)-miR-144-3p
+T71	Eukaryote 1093 1105	Homo sapiens
+T72	GeneOrGenome 1229 1255	taurine upregulated gene 1
+T73	BiologicallyActiveSubstance 1261 1267	miRNAs
+T74	BiologicallyActiveSubstance 1269 1283	hsa-miR-10b-5p
+T75	BiologicallyActiveSubstance 1288 1303	hsa-miR-196a-5p
+T76	NucleicAcidNucleosideOrNucleotide 1529 1544	hsa-miR-196a-5p
+T77	NucleicAcidNucleosideOrNucleotide 1549 1568	hsa-microRNA-10b-5p
+T78	BiologicallyActiveSubstance 1549 1568	hsa-microRNA-10b-5p
+T79	NucleicAcidNucleosideOrNucleotide 1585 1599	hsa-miR-10b-5p
+T80	NucleicAcidNucleosideOrNucleotide 1604 1619	hsa-miR-196a-5p
+T81	Finding 1625 1667	significantly and differentially expressed
+T82	ResearchActivity 794 798	data
+T83	GeneOrGenome 1351 1367;1406 1411	class I homeobox genes

@@ -1,0 +1,75 @@
+T0	ResearchActivity 263 275	Longitudinal
+T1	Finding 806 820	hypometabolism
+T2	DiseaseOrSyndrome 987 1002	memory deficits
+T3	Finding 1019 1033	hypometabolism
+T4	TemporalConcept 772 779	6 years
+T5	PopulationGroup 112 120	familial
+T6	PopulationGroup 187 195	familial
+T7	TemporalConcept 581 588	8 years
+T8	DiseaseOrSyndrome 112 140	familial Alzheimer's disease
+T9	DiseaseOrSyndrome 1004 1017	brain atrophy
+T10	ResearchActivity 341 368	linear mixed-effects models
+T11	BodyPartOrganOrOrganComponent 498 517	Cerebrospinal fluid
+T12	Finding 862 868	normal
+T13	Finding 568 576	abnormal
+T14	Finding 660 668	abnormal
+T15	TemporalConcept 314 320	stages
+T16	Finding 973 985	tau increase
+T17	Finding 994 1002	deficits
+T18	AminoAcidPeptideOrProtein 73 76	tau
+T19	AminoAcidPeptideOrProtein 742 745	tau
+T20	AminoAcidPeptideOrProtein 973 976	tau
+T21	DiseaseOrSyndrome 121 140	Alzheimer's disease
+T22	BodyPartOrganOrOrganComponent 519 522	CSF
+T23	BodyPartOrganOrOrganComponent 736 739	CSF
+T24	BodyPartOrganOrOrganComponent 967 970	CSF
+T25	BiologicallyActiveSubstance 73 76	tau
+T26	BiologicallyActiveSubstance 742 745	tau
+T27	BiologicallyActiveSubstance 973 976	tau
+T28	DiseaseOrSyndrome 142 144	AD
+T29	DiseaseOrSyndrome 196 198	AD
+T30	DiseaseOrSyndrome 250 252	AD
+T31	DiseaseOrSyndrome 476 487	sporadic AD
+T32	DiseaseOrSyndrome 921 923	AD
+T33	ClinicalAttribute 450 459	biomarker
+T34	PathologicFunction 73 86	tau pathology
+T35	DiseaseOrSyndrome 597 605	dementia
+T36	DiseaseOrSyndrome 689 697	dementia
+T37	DiseaseOrSyndrome 872 880	dementia
+T38	ClinicalAttribute 287 297	biomarkers
+T39	BiologicallyActiveSubstance 740 745	t-tau
+T40	BiologicallyActiveSubstance 971 976	t-tau
+T41	AminoAcidPeptideOrProtein 740 745	t-tau
+T42	AminoAcidPeptideOrProtein 971 976	t-tau
+T43	TemporalConcept 590 596	before
+T44	TemporalConcept 682 688	before
+T45	ResearchActivity 489 496	Results
+T46	DiseaseOrSyndrome 1039 1056	cognitive decline
+T47	TemporalConcept 561 566	years
+T48	TemporalConcept 583 588	years
+T49	TemporalConcept 653 658	years
+T50	TemporalConcept 675 680	years
+T51	TemporalConcept 729 734	years
+T52	TemporalConcept 753 758	years
+T53	TemporalConcept 774 779	years
+T54	TemporalConcept 799 804	years
+T55	TemporalConcept 831 836	years
+T56	BiologicFunction 838 847	cognition
+T57	Finding 354 361	effects
+T58	ResearchActivity 388 394	models
+T59	TemporalConcept 174 182	sporadic
+T60	TemporalConcept 241 249	sporadic
+T61	TemporalConcept 476 484	sporadic
+T62	TemporalConcept 912 920	sporadic
+T63	AminoAcidPeptideOrProtein 28 34	A beta
+T64	AminoAcidPeptideOrProtein 524 530	A beta
+T65	AminoAcidPeptideOrProtein 611 617	A beta
+T66	AminoAcidPeptideOrProtein 934 940	A beta
+T67	CellOrMolecularDysfunction 91 108	neurodegeneration
+T68	BodyPartOrganOrOrganComponent 781 792	hippocampus
+T69	Finding 941 953	accumulation
+T70	BiologicFunction 760 766	memory
+T71	BiologicFunction 987 993	memory
+T72	PathologicFunction 354 361	effects
+T73	Finding 51 61	identified
+T74	AminoAcidPeptideOrProtein 14 26	Amyloid beta

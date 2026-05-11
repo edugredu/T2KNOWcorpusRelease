@@ -1,0 +1,80 @@
+T0	Cell 27 44	multipotent cells
+T1	BodyPartOrganOrOrganComponent 1260 1272	subarachnoid
+T2	PathologicFunction 1277 1301	intracerebral hemorrhage
+T3	DiseaseOrSyndrome 1331 1352	cognitive impairments
+T4	PathologicFunction 866 878	dysfunctions
+T5	CellFunction 384 397	differentiate
+T6	Cell 27 38	multipotent
+T7	CellComponent 603 617	small vesicles
+T8	CellOrMolecularDysfunction 311 331	neuronal dysfunction
+T9	HealthCareActivity 245 262	stem cell therapy
+T10	HealthCareActivity 250 262	cell therapy
+T11	InjuryOrPoisoning 1303 1325	traumatic brain injury
+T12	DiseaseOrSyndrome 1252 1258	stroke
+T13	Cell 403 417	neuronal cells
+T14	Cell 0 22	Mesenchymal stem cells
+T15	CellComponent 772 794	extracellular vesicles
+T16	CellComponent 1157 1179	extracellular vesicles
+T17	DiseaseOrSyndrome 195 214	Alzheimer's disease
+T18	DiseaseOrSyndrome 1364 1383	Alzheimer's disease
+T19	BodyPartOrganOrOrganComponent 429 434	brain
+T20	BodyPartOrganOrOrganComponent 1313 1318	brain
+T21	Cell 915 920	cells
+T22	CellComponent 563 585	Extracellular vesicles
+T23	Cell 311 319	neuronal
+T24	Cell 857 865	neuronal
+T25	ResearchActivity 798 804	models
+T26	ResearchActivity 1242 1248	models
+T27	ResearchActivity 1115 1121	review
+T28	HealthCareActivity 1115 1121	review
+T29	TemporalConcept 738 743	years
+T30	AminoAcidPeptideOrProtein 697 705	proteins
+T31	DiseaseOrSyndrome 808 830	neurological disorders
+T32	DiseaseOrSyndrome 1065 1087	neurological disorders
+T33	TemporalConcept 731 743	recent years
+T34	PharmacologicSubstance 149 154	drugs
+T35	HealthCareActivity 255 262	therapy
+T36	Substance 676 685	molecules
+T37	Cell 12 22	stem cells
+T38	Cell 351 361	stem cells
+T39	Cell 502 512	stem cells
+T40	Cell 644 654	stem cells
+T41	Cell 978 988	stem cells
+T42	Cell 1228 1238	stem cells
+T43	Finding 129 136	effects
+T44	Finding 554 561	effects
+T45	Finding 1137 1144	effects
+T46	Finding 542 561	therapeutic effects
+T47	ClinicalAttribute 96 123	immunomodulatory properties
+T48	Cell 339 361	mesenchymal stem cells
+T49	Cell 490 512	mesenchymal stem cells
+T50	Cell 632 654	mesenchymal stem cells
+T51	Cell 966 988	mesenchymal stem cells
+T52	Cell 1216 1238	mesenchymal stem cells
+T53	PathologicFunction 320 331	dysfunction
+T54	CellComponent 590 598	exosomes
+T55	CellComponent 763 771	exosomes
+T56	CellComponent 1148 1156	exosomes
+T57	DiseaseOrSyndrome 159 186	neurodegenerative disorders
+T58	Cell 233 254	mesenchymal stem cell
+T59	CellComponent 884 892	exosomal
+T60	CellComponent 1184 1192	exosomal
+T61	HealthCareActivity 441 456	transplantation
+T62	BiologicFunction 58 75	anti-inflammatory
+T63	PharmacologicSubstance 58 75	anti-inflammatory
+T64	CellFunction 77 91	anti-apoptotic
+T65	NucleicAcidNucleosideOrNucleotide 707 712	mRNAs
+T66	NucleicAcidNucleosideOrNucleotide 717 726	microRNAs
+T67	NucleicAcidNucleosideOrNucleotide 943 952	microRNAs
+T68	NucleicAcidNucleosideOrNucleotide 1193 1202	microRNAs
+T69	BiologicallyActiveSubstance 717 726	microRNAs
+T70	BiologicallyActiveSubstance 943 952	microRNAs
+T71	BiologicallyActiveSubstance 1193 1202	microRNAs
+T72	BiologicallyActiveSubstance 707 712	mRNAs
+T73	PharmacologicSubstance 96 112	immunomodulatory
+T74	BiologicFunction 96 112	immunomodulatory
+T75	HealthCareActivity 96 112	immunomodulatory
+T76	BiologicallyActiveSubstance 458 475	paracrine factors
+T77	ExperimentalModelOfDisease 798 830	models of neurological disorders
+T78	CellFunction 884 901	exosomal transfer
+T79	Finding 1028 1053	neuropathological changes

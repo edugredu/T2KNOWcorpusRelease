@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 90 117	neurodegenerative disorders
+T1	HealthCareActivity 9 18	therapies
+T2	Substance 42 51	molecules
+T3	HealthCareActivity 162 172	treatments
+T4	ResearchActivity 162 172	treatments
+T5	CellFunction 68 86	molecular pathways
+T6	BiologicFunction 128 132	hope
+T7	DiseaseOrSyndrome 183 205	devastating conditions

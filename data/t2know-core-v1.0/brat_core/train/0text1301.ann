@@ -1,0 +1,75 @@
+T0	Cell 0 32	Oligodendrocyte progenitor cells
+T1	AminoAcidPeptideOrProtein 471 477	BoNT/A
+T2	AminoAcidPeptideOrProtein 526 532	BoNT/A
+T3	GeneOrGenome 541 548	SNAP-25
+T4	AminoAcidPeptideOrProtein 541 548	SNAP-25
+T5	BiologicallyActiveSubstance 541 548	SNAP-25
+T6	BodyPartOrganOrOrganComponent 556 559	CA1
+T7	AminoAcidPeptideOrProtein 643 649	BoNT/A
+T8	AminoAcidPeptideOrProtein 783 789	BoNT/A
+T9	CellFunction 615 632	neurotransmission
+T10	AminoAcidPeptideOrProtein 765 768	NG2
+T11	BiologicallyActiveSubstance 765 768	NG2
+T12	GeneOrGenome 765 768	NG2
+T13	Finding 703 712	shrinkage
+T14	TemporalConcept 907 916	frequency
+T15	Finding 813 821	decrease
+T16	Finding 867 875	decrease
+T17	BiologicFunction 229 237	learning
+T18	BiologicFunction 349 357	behavior
+T19	IndividualBehavior 349 357	behavior
+T20	ResearchActivity 349 357	behavior
+T21	Cell 71 87	oligodendrocytes
+T22	Cell 34 38	OPCs
+T23	Cell 239 243	OPCs
+T24	Cell 674 677	OPC
+T25	Cell 754 757	OPC
+T26	Cell 839 842	OPC
+T27	Cell 996 999	OPC
+T28	Cell 16 32	progenitor cells
+T29	Cell 0 15	Oligodendrocyte
+T30	CellFunction 160 177	neuronal activity
+T31	DiseaseOrSyndrome 1174 1192	Multiple Sclerosis
+T32	DiseaseOrSyndrome 1197 1216	Alzheimer's disease
+T33	ClinicalAttribute 758 764	marker
+T34	BodyPartOrganOrOrganComponent 430 438	synaptic
+T35	BodyPartOrganOrOrganComponent 118 121	CNS
+T36	Cell 105 110	cells
+T37	Eukaryote 509 513	mice
+T38	Cell 160 168	neuronal
+T39	Cell 298 306	neuronal
+T40	OrganismAttribute 1143 1146	age
+T41	BodyPartOrganOrOrganComponent 488 499	hippocampus
+T42	BodyPartOrganOrOrganComponent 571 582	hippocampus
+T43	DiseaseOrSyndrome 1155 1172	cognitive decline
+T44	CellFunction 133 144	myelination
+T45	PopulationGroup 382 387	adult
+T46	PopulationGroup 503 508	adult
+T47	PopulationGroup 990 995	adult
+T48	ResearchActivity 924 928	data
+T49	HealthCareActivity 413 422	injection
+T50	PopulationGroup 206 213	network
+T51	CellFunction 206 213	network
+T52	BodyPartOrganOrOrganComponent 265 273	synapses
+T53	PathologicFunction 1053 1071	pathophysiological
+T54	CellFunction 93 104	myelinating
+T55	TemporalConcept 123 127	Life
+T56	BiologicFunction 199 224	neural network plasticity
+T57	InjuryOrPoisoning 447 469	botulinum neurotoxin A
+T58	AminoAcidPeptideOrProtein 447 469	botulinum neurotoxin A
+T59	PharmacologicSubstance 447 469	botulinum neurotoxin A
+T60	CellFunction 307 324	synaptic activity
+T61	BiologicallyActiveSubstance 439 446	blocker
+T62	PharmacologicSubstance 471 477	BoNT/A
+T63	InjuryOrPoisoning 471 477	BoNT/A
+T64	InjuryOrPoisoning 526 532	BoNT/A
+T65	PharmacologicSubstance 526 532	BoNT/A
+T66	PharmacologicSubstance 643 649	BoNT/A
+T67	InjuryOrPoisoning 643 649	BoNT/A
+T68	InjuryOrPoisoning 783 789	BoNT/A
+T69	PharmacologicSubstance 783 789	BoNT/A
+T70	CellComponent 839 852	OPC processes
+T71	CellFunction 943 960	synaptic activity
+T72	CellFunction 1012 1030	cellular integrity
+T73	Finding 1099 1112	dysregulation
+T74	CellFunction 1116 1133	synaptic activity

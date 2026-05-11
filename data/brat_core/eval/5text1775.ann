@@ -1,0 +1,8 @@
+T0	BiomedicalOccupationOrDiscipline 114 135	regenerative medicine
+T1	Cell 18 26	cellular
+T2	CellFunction 31 51	molecular mechanisms
+T3	EmbryonicStructure 63 74	neural tube
+T4	DiseaseOrSyndrome 159 187	neurodevelopmental disorders
+T5	BiologicFunction 0 13	Understanding
+T6	BiologicFunction 75 86	development
+T7	HealthCareActivity 114 146	regenerative medicine approaches

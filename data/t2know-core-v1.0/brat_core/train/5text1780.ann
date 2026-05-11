@@ -1,0 +1,5 @@
+T0	BiologicFunction 35 47	neurogenesis
+T1	Cell 75 92	neural stem cells
+T2	CellFunction 173 182	migration
+T3	CellFunction 144 168	neuronal differentiation
+T4	EmbryonicStructure 0 11	Radial glia

@@ -1,0 +1,67 @@
+T0	BiologicFunction 257 280	developmental processes
+T1	ResearchActivity 425 432	In vivo
+T2	DiseaseOrSyndrome 433 444	conditional
+T3	CellFunction 445 457	inactivation
+T4	GeneOrGenome 498 505	METTl14
+T5	Finding 560 575	hypomyelination
+T6	GeneOrGenome 651 658	Mettl14
+T7	GeneOrGenome 806 813	Mettl14
+T8	GeneOrGenome 1066 1076	regulatory
+T9	CellFunction 1035 1046	methylation
+T10	BodyPartOrganOrOrganComponent 556 559	CNS
+T11	BodyPartOrganOrOrganComponent 1117 1120	CNS
+T12	Finding 518 527	decreased
+T13	CellFunction 4 24	molecular mechanisms
+T14	Eukaryote 208 217	mammalian
+T15	Cell 586 616	oligodendrocyte precursor cell
+T16	Cell 618 621	OPC
+T17	Cell 744 747	OPC
+T18	Cell 586 611	oligodendrocyte precursor
+T19	CellFunction 1121 1132	myelination
+T20	Cell 528 543	oligodendrocyte
+T21	Cell 689 704	oligodendrocyte
+T22	Cell 752 767	oligodendrocyte
+T23	Cell 1085 1100	oligodendrocyte
+T24	BiologicFunction 41 51	maturation
+T25	BiologicFunction 705 715	maturation
+T28	Finding 635 641	normal
+T29	MolecularSequence 768 782	transcriptomes
+T30	Cell 55 78	oligodendrocyte lineage
+T31	Cell 308 331	oligodendrocyte lineage
+T32	Cell 817 840	oligodendrocyte lineage
+T33	NucleicAcidNucleosideOrNucleotide 218 222	mRNA
+T34	NucleicAcidNucleosideOrNucleotide 412 423	transcripts
+T35	NucleicAcidNucleosideOrNucleotide 886 897	transcripts
+T36	PathologicFunction 332 343	progression
+T37	TemporalConcept 332 343	progression
+T38	ResearchActivity 110 117	studies
+T39	NucleicAcidNucleosideOrNucleotide 188 191	RNA
+T40	NucleicAcidNucleosideOrNucleotide 882 885	RNA
+T41	NucleicAcidNucleosideOrNucleotide 1031 1034	RNA
+T42	Cell 79 84	cells
+T43	Cell 841 846	cells
+T44	BiologicFunction 1101 1112	development
+T45	CellFunction 1101 1112	development
+T46	CellOrMolecularDysfunction 854 871	aberrant splicing
+T47	NucleicAcidNucleosideOrNucleotide 134 153	N-6-methyladenosine
+T48	NucleicAcidNucleosideOrNucleotide 155 160	m(6)A
+T49	BiologicallyActiveSubstance 134 153	N-6-methyladenosine
+T50	BiologicallyActiveSubstance 155 160	m(6)A
+T51	CellFunction 188 204	RNA modification
+T52	NucleicAcidNucleosideOrNucleotide 381 386	m(6)A
+T53	BiologicallyActiveSubstance 381 386	m(6)A
+T54	CellFunction 381 399	m(6)A modification
+T55	BiologicallyActiveSubstance 474 479	m(6)A
+T56	NucleicAcidNucleosideOrNucleotide 474 479	m(6)A
+T57	AminoAcidPeptideOrProtein 498 505	METTl14
+T58	BiologicallyActiveSubstance 498 505	METTl14
+T59	AminoAcidPeptideOrProtein 651 658	Mettl14
+T60	BiologicallyActiveSubstance 651 658	Mettl14
+T61	CellOrMolecularDysfunction 651 667	Mettl14 ablation
+T62	AminoAcidPeptideOrProtein 961 976	neurofascin 155
+T63	BiologicallyActiveSubstance 961 976	neurofascin 155
+T64	AminoAcidPeptideOrProtein 978 983	NF155
+T65	BiologicallyActiveSubstance 978 983	NF155
+T66	CellOrMolecularDysfunction 798 813	loss of Mettl14
+T67	AminoAcidPeptideOrProtein 806 813	Mettl14
+T68	BiologicallyActiveSubstance 806 813	Mettl14

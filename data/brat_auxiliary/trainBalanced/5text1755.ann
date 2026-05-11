@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 124 150	neurodegenerative diseases
+T1	Organism 50 64	gut microbiota
+T2	BodyPartOrganOrOrganComponent 50 53	gut
+T3	Finding 106 120	increased risk
+T4	Finding 31 42	alterations
+T5	Organism 0 9	Microbial
+T6	PathologicFunction 10 19	dysbiosis

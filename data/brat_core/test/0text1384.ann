@@ -1,0 +1,90 @@
+T0	Cell 87 103	oligodendrocytes
+T1	AminoAcidPeptideOrProtein 108 128	soluble amyloid beta
+T2	CellFunction 141 149	survival
+T3	Cell 153 169	oligodendrocytes
+T4	Cell 205 237	oligodendrocyte progenitor cells
+T5	Cell 239 243	OPCs
+T6	PathologicFunction 254 271	amyloid pathology
+T7	PathologicFunction 421 438	pathological form
+T8	CellFunction 673 681	survival
+T9	Finding 687 694	weaning
+T10	DiseaseOrSyndrome 701 712	hyperactive
+T11	AminoAcidPeptideOrProtein 747 762	amyloid plaques
+T12	BiologicFunction 798 812	spatial memory
+T13	Finding 822 828	intact
+T14	TemporalConcept 839 850	time course
+T15	BodyPartOrganOrOrganComponent 852 863	Hippocampal
+T18	CellComponent 1012 1020	membrane
+T21	Chemical 1061 1068	kainate
+T22	Finding 1094 1100	normal
+T23	AminoAcidPeptideOrProtein 1114 1118	P100
+T24	GeneOrGenome 1114 1118	P100
+T25	Cell 1148 1152	OPCs
+T26	AminoAcidPeptideOrProtein 1156 1160	GABA
+T27	ResearchActivity 1156 1160	GABA
+T28	CellComponent 1268 1277	paranodes
+T29	BodyPartOrganOrOrganComponent 1294 1300	myelin
+T30	CellComponent 1294 1300	myelin
+T31	CellComponent 1313 1330	hippocampal axons
+T32	PopulationGroup 1334 1345	young adult
+T33	PopulationGroup 1461 1476	young adulthood
+T34	BodyPartOrganOrOrganComponent 1499 1510	hippocampus
+T35	BodyPartOrganOrOrganComponent 1512 1529	entorhinal cortex
+T36	BodyPartOrganOrOrganComponent 1535 1542	fimbria
+T37	Cell 1613 1629	oligodendrocytes
+T38	Cell 1673 1688	oligodendrocyte
+T39	HealthCareActivity 1733 1749	cell replacement
+T40	ResearchActivity 1733 1749	cell replacement
+T41	PathologicFunction 1581 1590	pathology
+T42	BiomedicalOccupationOrDiscipline 1581 1590	pathology
+T43	Cell 1703 1708	cells
+T44	OrganismAttribute 728 731	age
+T45	OrganismAttribute 778 781	age
+T46	DiseaseOrSyndrome 3 22	Alzheimer's disease
+T47	DiseaseOrSyndrome 554 582	familial Alzheimer's disease
+T48	BodyPartOrganOrOrganComponent 1136 1147	hippocampal
+T49	Eukaryote 392 407	transgenic mice
+T50	Eukaryote 926 930	mice
+T51	Eukaryote 1204 1208	mice
+T52	Eukaryote 1573 1577	mice
+T53	ResearchActivity 321 388	histological, electrophysiological, and behavioral characterization
+T54	Cell 1136 1147	hippocampal
+T55	CellFunction 408 418	expressing
+T56	TemporalConcept 839 843	time
+T57	BiologicFunction 78 83	death
+T58	PathologicFunction 78 83	death
+T59	TemporalConcept 844 850	course
+T60	CellOrMolecularDysfunction 496 518	single point mutations
+T61	BodyPartOrganOrOrganComponent 1233 1249	nodes of Ranvier
+T62	ResearchActivity 170 178	in vitro
+T63	CellFunction 78 83	death
+T64	PathologicFunction 844 850	course
+T65	TemporalConcept 716 724	2 months
+T66	TemporalConcept 768 774	months
+T67	AminoAcidPeptideOrProtein 473 476	APP
+T68	AminoAcidPeptideOrProtein 590 593	APP
+T69	AminoAcidPeptideOrProtein 904 907	APP
+T70	AminoAcidPeptideOrProtein 1182 1185	APP
+T71	GeneOrGenome 473 476	APP
+T72	GeneOrGenome 590 593	APP
+T73	GeneOrGenome 904 907	APP
+T74	GeneOrGenome 1182 1185	APP
+T75	BiologicallyActiveSubstance 473 476	APP
+T76	BiologicallyActiveSubstance 590 593	APP
+T77	BiologicallyActiveSubstance 904 907	APP
+T78	BiologicallyActiveSubstance 1182 1185	APP
+T79	BiologicFunction 1428 1446	oligodendrogenesis
+T80	CellOrMolecularDysfunction 24 48	amyloid plaque formation
+T81	AminoAcidPeptideOrProtein 442 472	humanamyloid precursor protein
+T82	AminoAcidPeptideOrProtein 584 589	PDGFB
+T83	GeneOrGenome 584 589	PDGFB
+T84	BiologicallyActiveSubstance 584 589	PDGFB
+T85	ExperimentalModelOfDisease 617 625	J20 mice
+T86	ExperimentalModelOfDisease 627 659	PDGFB-APP(Sw.Ind)transgenic mice
+T87	ExperimentalModelOfDisease 1345 1377	PDGFB-APP(Sw.Ind)transgenic mice
+T88	Eukaryote 1392 1412	wildtype littermates
+T89	ExperimentalModelOfDisease 1545 1577	PDGFB-APP(Sw.Ind)transgenic mice
+T90	ExperimentalModelOfDisease 584 600;621 625	PDGFB-APP(Sw.Ind mice
+T91	ExperimentalModelOfDisease 890 929	P60-P180PDGFB-APP(Sw.Ind)transgenic mic
+T92	ExperimentalModelOfDisease 1176 1208	PDGFB-APP(Sw.Ind)transgenic mice
+T16	Cell 864 867	OPC

@@ -1,0 +1,55 @@
+T0	BodyPartOrganOrOrganComponent 14 21	Retinal
+T1	HealthCareActivity 444 488	spectral domain optical coherence tomography
+T2	AnatomicalAbnormality 798 823	parietal cortical atrophy
+T3	ClinicalAttribute 725 742	macular thickness
+T4	HealthCareActivity 46 74	optical coherence tomography
+T5	HealthCareActivity 942 970	optical coherence tomography
+T6	DiseaseOrSyndrome 124 143	Alzheimer's disease
+T7	BodyPartOrganOrOrganComponent 1134 1137	CSF
+T8	TemporalConcept 668 678	late-onset
+T9	ResearchActivity 551 558	Results
+T10	PopulationGroup 971 977	cohort
+T11	AminoAcidPeptideOrProtein 307 314	amyloid
+T12	AminoAcidPeptideOrProtein 358 365	amyloid
+T13	AminoAcidPeptideOrProtein 983 990	amyloid
+T14	BiologicallyActiveSubstance 307 314	amyloid
+T15	BiologicallyActiveSubstance 358 365	amyloid
+T16	BiologicallyActiveSubstance 983 990	amyloid
+T17	DiseaseOrSyndrome 145 147	AD
+T18	DiseaseOrSyndrome 212 214	AD
+T19	DiseaseOrSyndrome 322 324	AD
+T20	DiseaseOrSyndrome 679 681	AD
+T21	DiseaseOrSyndrome 880 882	AD
+T22	DiseaseOrSyndrome 998 1000	AD
+T23	DiseaseOrSyndrome 1061 1063	AD
+T24	DiseaseOrSyndrome 1205 1207	AD
+T25	ClinicalAttribute 98 119	noninvasive biomarker
+T26	ClinicalAttribute 1208 1217	biomarker
+T27	PopulationGroup 227 239	participants
+T28	ResearchActivity 910 915	study
+T29	PopulationGroup 375 383	controls
+T30	PopulationGroup 610 618	controls
+T31	PopulationGroup 1069 1077	controls
+T32	Finding 253 281	ophthalmological confounders
+T33	PopulationGroup 389 397	subjects
+T34	HealthCareActivity 1116 1128	neuroimaging
+T35	DiseaseOrSyndrome 535 549	ocular disease
+T36	Finding 338 356	cognitively normal
+T37	PatientOrDisabledGroup 322 330	AD cases
+T38	PatientOrDisabledGroup 880 888	AD cases
+T39	PatientOrDisabledGroup 998 1006	AD cases
+T40	PathologicFunction 763 770	atrophy
+T41	DiseaseOrSyndrome 763 770	atrophy
+T42	HealthCareActivity 827 853	magnetic resonance imaging
+T43	BodyPartOrganOrOrganComponent 754 762	cortical
+T44	BodyPartOrganOrOrganComponent 807 815	cortical
+T45	HealthCareActivity 496 523	ophthalmological assessment
+T46	ResearchActivity 641 649	analyses
+T47	HealthCareActivity 1186 1198	measurements
+T48	ClinicalAttribute 14 31	Retinal thickness
+T49	ClinicalAttribute 172 189	retinal thickness
+T50	ClinicalAttribute 408 425	retinal thickness
+T51	ClinicalAttribute 560 577	Retinal thickness
+T52	TemporalConcept 654 659	early
+T53	ClinicalAttribute 1021 1038	retinal thickness
+T54	ClinicalAttribute 1168 1185	retinal thickness

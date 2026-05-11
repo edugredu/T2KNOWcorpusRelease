@@ -1,0 +1,107 @@
+T0	Chemical 52 61	glycoside
+T1	Cell 74 83	monocytes
+T2	Finding 1020 1027	attacks
+T3	DiseaseOrSyndrome 1020 1027	attacks
+T4	DiseaseOrSyndrome 1258 1261	PMS
+T5	DiseaseOrSyndrome 557 579	relapsing-remitting MS
+T6	TemporalConcept 934 943	relapsing
+T7	DiseaseOrSyndrome 587 601	progressive MS
+T8	DiseaseOrSyndrome 1371 1385	progressive MS
+T9	TemporalConcept 992 1008	disease duration
+T10	HealthCareActivity 445 464	disability measures
+T11	BodyPartOrganOrOrganComponent 215 218	CNS
+T12	DiseaseOrSyndrome 256 258	MS
+T13	DiseaseOrSyndrome 413 415	MS
+T14	DiseaseOrSyndrome 541 543	MS
+T15	DiseaseOrSyndrome 830 832	MS
+T16	DiseaseOrSyndrome 236 254	multiple sclerosis
+T17	GeneOrGenome 39 45	CHI3L1
+T18	GeneOrGenome 261 267	CHI3L1
+T19	GeneOrGenome 389 395	CHI3L1
+T20	GeneOrGenome 802 808	CHI3L1
+T21	GeneOrGenome 857 863	CHI3L1
+T22	GeneOrGenome 1058 1064	CHI3L1
+T23	GeneOrGenome 1103 1109	CHI3L1
+T24	GeneOrGenome 1345 1351	CHI3L1
+T25	GeneOrGenome 1426 1432	CHI3L1
+T26	AminoAcidPeptideOrProtein 39 45	CHI3L1
+T27	AminoAcidPeptideOrProtein 261 267	CHI3L1
+T28	AminoAcidPeptideOrProtein 389 395	CHI3L1
+T29	AminoAcidPeptideOrProtein 802 808	CHI3L1
+T30	AminoAcidPeptideOrProtein 857 863	CHI3L1
+T31	AminoAcidPeptideOrProtein 1058 1064	CHI3L1
+T32	AminoAcidPeptideOrProtein 1103 1109	CHI3L1
+T33	AminoAcidPeptideOrProtein 1345 1351	CHI3L1
+T34	AminoAcidPeptideOrProtein 1426 1432	CHI3L1
+T35	ClinicalAttribute 311 327	disease severity
+T36	Finding 311 327	disease severity
+T37	PathologicFunction 219 231	inflammation
+T38	OrganismAttribute 627 630	sex
+T39	HealthCareActivity 1138 1142	MMSE
+T40	Cell 100 120	activated astrocytes
+T41	InjuryOrPoisoning 142 162	inflammatory lesions
+T42	InjuryOrPoisoning 1163 1170	lesions
+T43	DiseaseOrSyndrome 1249 1253	RRMS
+T44	DiseaseOrSyndrome 1396 1400	RRMS
+T45	Finding 445 455	disability
+T46	Finding 726 736	disability
+T47	Finding 1458 1468	disability
+T48	HealthCareActivity 1035 1039	EDSS
+T49	Finding 1117 1122	worse
+T50	BodyPartOrganOrOrganComponent 376 379	CSF
+T51	BodyPartOrganOrOrganComponent 789 792	CSF
+T52	BodyPartOrganOrOrganComponent 844 847	CSF
+T53	BodyPartOrganOrOrganComponent 1045 1048	CSF
+T54	BodyPartOrganOrOrganComponent 1099 1102	CSF
+T55	BodyPartOrganOrOrganComponent 1413 1416	CSF
+T56	ClinicalAttribute 490 499	biomarker
+T57	ClinicalAttribute 1311 1320	biomarker
+T58	PopulationGroup 869 877	controls
+T59	TemporalConcept 893 904	progressive
+T60	PatientOrDisabledGroup 399 407	patients
+T61	PatientOrDisabledGroup 544 552	patients
+T62	PatientOrDisabledGroup 1235 1243	patients
+T63	PatientOrDisabledGroup 1262 1270	patients
+T64	OrganismAttribute 639 646	healthy
+T65	PopulationGroup 647 655	controls
+T66	BodyPartOrganOrOrganComponent 1181 1186	brain
+T67	Cell 85 94	microglia
+T68	HealthCareActivity 695 714	clinical assessment
+T69	HealthCareActivity 760 783	radiological assessment
+T70	PathologicFunction 343 354	progression
+T71	PathologicFunction 512 523	progression
+T72	PathologicFunction 1332 1343	progression
+T73	TemporalConcept 343 354	progression
+T74	TemporalConcept 512 523	progression
+T75	TemporalConcept 1332 1343	progression
+T76	Finding 1123 1134	performance
+T77	PathologicFunction 504 523	disease progression
+T78	PathologicFunction 1324 1343	disease progression
+T79	OrganismAttribute 619 622	age
+T80	HealthCareActivity 1174 1180	T2 MRI
+T81	PatientOrDisabledGroup 879 887	Patients
+T82	PatientOrDisabledGroup 1066 1074	Patients
+T83	ResearchActivity 971 983	correlations
+T84	Finding 1408 1412	high
+T85	AminoAcidPeptideOrProtein 10 37	Chitinase -3-like 1-protein
+T86	BiologicallyActiveSubstance 10 37	Chitinase -3-like 1-protein
+T87	BiologicallyActiveSubstance 39 45	CHI3L1
+T88	CellFunction 183 202	astrocytic response
+T89	BiologicallyActiveSubstance 261 267	CHI3L1
+T90	BiologicallyActiveSubstance 389 395	CHI3L1
+T91	BiologicallyActiveSubstance 802 808	CHI3L1
+T92	ClinicalAttribute 789 808	CSF level of CHI3L1
+T93	ClinicalAttribute 376 395	CSF level of CHI3L1
+T94	ClinicalAttribute 844 863	CSF level of CHI3L1
+T95	BiologicallyActiveSubstance 857 863	CHI3L1
+T96	ClinicalAttribute 1045 1064	CSF level of CHI3L1
+T97	BiologicallyActiveSubstance 1103 1109	CHI3L1
+T98	HealthCareActivity 1147 1153	BICAMS
+T99	ResearchActivity 1190 1203	cut off value
+T100	AminoAcidPeptideOrProtein 1281 1287	CHI3L1
+T101	BiologicallyActiveSubstance 1281 1287	CHI3L1
+T102	GeneOrGenome 1281 1287	CHI3L1
+T103	BiologicallyActiveSubstance 1345 1351	CHI3L1
+T104	ClinicalAttribute 1413 1432	CSF level of CHI3L1
+T105	BiologicallyActiveSubstance 1426 1432	CHI3L1
+T106	BiologicallyActiveSubstance 1058 1064	CHI3L1

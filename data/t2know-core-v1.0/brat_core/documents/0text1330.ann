@@ -1,0 +1,65 @@
+T0	PopulationGroup 251 263	young adults
+T1	BiologicFunction 308 314	ageing
+T2	PopulationGroup 397 404	neonate
+T3	TemporalConcept 406 411	young
+T4	PopulationGroup 515 523	neonates
+T5	CellFunction 635 660	oxidative phosphorylation
+T6	PathologicFunction 662 684	inflammatory responses
+T7	CellFunction 689 720	actin cytoskeletal organization
+T8	AminoAcidPeptideOrProtein 801 820	cell cycle proteins
+T9	BiologicFunction 866 872	ageing
+T10	OrganismAttribute 940 944	ages
+T11	BiologicFunction 1029 1035	ageing
+T12	ResearchActivity 836 847	experiments
+T13	Chemical 749 760	cholesterol
+T14	BiologicallyActiveSubstance 749 760	cholesterol
+T15	AminoAcidPeptideOrProtein 775 796	transcription factors
+T16	BiologicallyActiveSubstance 775 796	transcription factors
+T17	TemporalConcept 416 420	aged
+T18	TemporalConcept 1060 1064	aged
+T19	Eukaryote 428 432	rats
+T20	PopulationGroup 257 263	adults
+T21	Cell 142 158	oligodendrocytes
+T22	Cell 94 98	OPCs
+T23	Cell 356 360	OPCs
+T24	Cell 505 509	OPCs
+T25	Cell 922 926	OPCs
+T26	Cell 1065 1069	OPCs
+T27	Cell 873 876	OPC
+T28	CellFunction 104 117	differentiate
+T29	BodyPartOrganOrOrganComponent 127 133	myelin
+T30	BodyPartOrganOrOrganComponent 578 584	myelin
+T31	Cell 60 92	oligodendrocyte progenitor cells
+T32	Cell 76 92	progenitor cells
+T33	Finding 269 279	efficiency
+T34	Finding 1004 1014	efficiency
+T35	PathologicFunction 662 674	inflammatory
+T36	CellComponent 695 707	cytoskeletal
+T37	ResearchActivity 334 352	proteomic analysis
+T38	BodyPartOrganOrOrganComponent 10 32	central nervous system
+T39	BodyPartOrganOrOrganComponent 34 37	CNS
+T40	DiseaseOrSyndrome 1079 1105	neurodegenerative diseases
+T41	TemporalConcept 860 865	first
+T42	ResearchActivity 952 959	studies
+T43	AminoAcidPeptideOrProtein 877 885	proteome
+T44	BiologicallyActiveSubstance 877 885	proteome
+T45	OrganismAttribute 736 739	age
+T46	AminoAcidPeptideOrProtein 459 467	proteins
+T47	AminoAcidPeptideOrProtein 596 604	proteins
+T48	AminoAcidPeptideOrProtein 610 618	proteins
+T49	AminoAcidPeptideOrProtein 812 820	proteins
+T50	Finding 821 830	decreased
+T51	OrganismAttribute 421 427	female
+T52	CellFunction 192 205	remyelination
+T53	CellFunction 216 229	remyelination
+T54	CellFunction 990 1003	remyelination
+T55	PathologicFunction 39 52	demyelination
+T56	PopulationGroup 54 59	adult
+T57	PopulationGroup 544 549	adult
+T58	CellFunction 472 481	expressed
+T59	BodyPartOrganOrOrganComponent 387 393	brains
+T60	CellFunction 645 660	phosphorylation
+T61	AminoAcidPeptideOrProtein 689 694	actin
+T62	CellFunction 801 811	cell cycle
+T63	BiologicallyActiveSubstance 801 820	cell cycle proteins
+T64	CellFunction 749 773	cholesterol-biosynthesis

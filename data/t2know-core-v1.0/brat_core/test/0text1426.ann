@@ -1,0 +1,171 @@
+T0	DiseaseOrSyndrome 94 123	monogenic Alzheimer's disease
+T1	BodyPartOrganOrOrganComponent 125 131	Plasma
+T2	TemporalConcept 164 170	before
+T3	CellOrMolecularDysfunction 518 545	neurofibrillary tau tangles
+T4	CellComponent 518 533	neurofibrillary
+T5	CellFunction 547 563	glial activation
+T6	TemporalConcept 828 834	timing
+T7	PopulationGroup 884 892	carriers
+T8	PopulationGroup 993 1001	carriers
+T9	PopulationGroup 1042 1049	Swedish
+T10	BodyPartOrganOrOrganComponent 1202 1208	Plasma
+T11	ResearchActivity 1370 1398	single-molecule array method
+T12	BodyPartOrganOrOrganComponent 1424 1430	Plasma
+T13	PopulationGroup 1645 1653	carriers
+T14	BodyPartOrganOrOrganComponent 1907 1913	Plasma
+T15	ResearchActivity 2447 2457	validation
+T16	BodyPartOrganOrOrganComponent 647 650	CNS
+T17	CellFunction 1060 1078	autosomal dominant
+T18	CellFunction 1209 1223	phosphorylated
+T19	AminoAcidPeptideOrProtein 1100 1103	APP
+T20	AminoAcidPeptideOrProtein 1119 1122	APP
+T21	GeneOrGenome 1100 1103	APP
+T22	GeneOrGenome 1119 1122	APP
+T23	BiologicallyActiveSubstance 1100 1103	APP
+T24	BiologicallyActiveSubstance 1119 1122	APP
+T25	AminoAcidPeptideOrProtein 1295 1326	glial fibrillary acidic protein
+T26	BiologicallyActiveSubstance 1295 1326	glial fibrillary acidic protein
+T27	GeneOrGenome 1295 1326	glial fibrillary acidic protein
+T28	AminoAcidPeptideOrProtein 132 136	GFAP
+T29	AminoAcidPeptideOrProtein 229 233	GFAP
+T30	AminoAcidPeptideOrProtein 1328 1332	GFAP
+T31	AminoAcidPeptideOrProtein 1601 1605	GFAP
+T32	AminoAcidPeptideOrProtein 1772 1776	GFAP
+T33	AminoAcidPeptideOrProtein 2019 2023	GFAP
+T34	AminoAcidPeptideOrProtein 2195 2199	GFAP
+T35	AminoAcidPeptideOrProtein 2288 2292	GFAP
+T36	BiologicallyActiveSubstance 132 136	GFAP
+T37	BiologicallyActiveSubstance 229 233	GFAP
+T38	BiologicallyActiveSubstance 1328 1332	GFAP
+T39	BiologicallyActiveSubstance 1601 1605	GFAP
+T40	BiologicallyActiveSubstance 1772 1776	GFAP
+T41	BiologicallyActiveSubstance 2019 2023	GFAP
+T42	BiologicallyActiveSubstance 2195 2199	GFAP
+T43	BiologicallyActiveSubstance 2288 2292	GFAP
+T44	GeneOrGenome 132 136	GFAP
+T45	GeneOrGenome 229 233	GFAP
+T46	GeneOrGenome 1328 1332	GFAP
+T47	GeneOrGenome 1601 1605	GFAP
+T48	GeneOrGenome 1772 1776	GFAP
+T49	GeneOrGenome 2019 2023	GFAP
+T50	GeneOrGenome 2195 2199	GFAP
+T51	GeneOrGenome 2288 2292	GFAP
+T52	CellFunction 931 939	dominant
+T53	CellFunction 1070 1078	dominant
+T54	Finding 839 850	performance
+T55	ClinicalAttribute 391 403	non-invasive
+T56	PathologicFunction 617 639	pathological processes
+T57	Finding 1844 1860	increased levels
+T58	ResearchActivity 1392 1398	method
+T59	CellFunction 293 308	phosphorylation
+T60	Cell 547 552	glial
+T61	Cell 1295 1300	glial
+T62	HealthCareActivity 1392 1398	method
+T63	Finding 395 403	invasive
+T64	GeneOrGenome 1135 1140	PSEN1
+T65	AminoAcidPeptideOrProtein 1135 1140	PSEN1
+T66	BiologicallyActiveSubstance 1135 1140	PSEN1
+T67	AminoAcidPeptideOrProtein 508 516	peptides
+T68	AminoAcidPeptideOrProtein 289 292	tau
+T69	AminoAcidPeptideOrProtein 534 537	tau
+T70	AminoAcidPeptideOrProtein 1224 1227	tau
+T71	AminoAcidPeptideOrProtein 1246 1249	tau
+T72	AminoAcidPeptideOrProtein 1253 1256	tau
+T73	AminoAcidPeptideOrProtein 1974 1977	tau
+T74	DiseaseOrSyndrome 940 951	Alzheimer's
+T75	TemporalConcept 158 163	years
+T76	TemporalConcept 1794 1799	years
+T77	CellOrMolecularDysfunction 2349 2372	accumulation of tangles
+T78	CellOrMolecularDysfunction 313 330	neurodegeneration
+T79	CellOrMolecularDysfunction 568 585	neurodegeneration
+T80	CellOrMolecularDysfunction 2377 2394	neurodegeneration
+T81	DiseaseOrSyndrome 104 123	Alzheimer's disease
+T82	DiseaseOrSyndrome 247 266	Alzheimer's disease
+T83	DiseaseOrSyndrome 362 381	Alzheimer's disease
+T84	DiseaseOrSyndrome 425 444	Alzheimer's disease
+T85	DiseaseOrSyndrome 921 959	autosomal dominant Alzheimer's disease
+T86	DiseaseOrSyndrome 1079 1098	Alzheimer's disease
+T87	DiseaseOrSyndrome 1474 1493	Alzheimer's disease
+T88	DiseaseOrSyndrome 2083 2122	Alzheimer's disease-related pathologies
+T89	DiseaseOrSyndrome 2307 2326	Alzheimer's disease
+T90	ClinicalAttribute 33 43	biomarkers
+T91	ClinicalAttribute 348 358	biomarkers
+T92	ClinicalAttribute 724 734	biomarkers
+T93	ClinicalAttribute 861 871	biomarkers
+T94	ClinicalAttribute 1431 1441	biomarkers
+T95	ClinicalAttribute 1499 1509	biomarkers
+T96	ClinicalAttribute 2052 2062	biomarkers
+T97	BodyPartOrganOrOrganComponent 26 32	plasma
+T98	BodyPartOrganOrOrganComponent 341 347	plasma
+T99	BodyPartOrganOrOrganComponent 717 723	plasma
+T100	BodyPartOrganOrOrganComponent 854 860	plasma
+T101	BodyPartOrganOrOrganComponent 1576 1582	plasma
+T102	BodyPartOrganOrOrganComponent 2002 2008	plasma
+T103	BodyPartOrganOrOrganComponent 2188 2194	plasma
+T104	BodyPartOrganOrOrganComponent 2281 2287	plasma
+T105	PatientOrDisabledGroup 80 88	patients
+T106	AminoAcidPeptideOrProtein 495 507	amyloid-beta
+T107	BodyPartOrganOrOrganComponent 1517 1520	CSF
+T108	BodyPartOrganOrOrganComponent 1985 1988	CSF
+T109	AminoAcidPeptideOrProtein 1259 1278	neurofilament light
+T110	BiologicallyActiveSubstance 208 211	NfL
+T111	BiologicallyActiveSubstance 1286 1289	NfL
+T112	BiologicallyActiveSubstance 1593 1596	NfL
+T113	BiologicallyActiveSubstance 1877 1880	NfL
+T114	BiologicallyActiveSubstance 2028 2031	NfL
+T115	BiologicallyActiveSubstance 2251 2254	NfL
+T116	BiologicallyActiveSubstance 1259 1278	neurofilament light
+T117	AminoAcidPeptideOrProtein 208 211	NfL
+T118	AminoAcidPeptideOrProtein 1286 1289	NfL
+T119	AminoAcidPeptideOrProtein 1593 1596	NfL
+T120	AminoAcidPeptideOrProtein 1877 1880	NfL
+T121	AminoAcidPeptideOrProtein 2028 2031	NfL
+T122	AminoAcidPeptideOrProtein 2251 2254	NfL
+T123	TemporalConcept 1900 1905	onset
+T124	PathologicFunction 259 276	disease pathology
+T125	PathologicFunction 2319 2336	disease pathology
+T126	AminoAcidPeptideOrProtein 1259 1284	neurofilament light chain
+T127	BiologicallyActiveSubstance 1259 1284	neurofilament light chain
+T128	TemporalConcept 1727 1732	phase
+T129	ResearchActivity 1522 1529	Results
+T130	PopulationGroup 70 76	cohort
+T131	PopulationGroup 1050 1056	cohort
+T132	PopulationGroup 2134 2160	presymptomatic individuals
+T133	ResearchActivity 1167 1200	explorative longitudinal analyses
+T134	ResearchActivity 1539 1560	longitudinal analyses
+T135	TemporalConcept 171 184	symptom onset
+T136	TemporalConcept 1817 1830	symptom onset
+T137	AminoAcidPeptideOrProtein 495 502	amyloid
+T138	BiologicallyActiveSubstance 495 502	amyloid
+T139	CellOrMolecularDysfunction 875 883	mutation
+T140	CellOrMolecularDysfunction 984 992	mutation
+T141	CellOrMolecularDysfunction 1636 1644	mutation
+T142	SignOrSymptom 171 178	symptom
+T143	SignOrSymptom 1817 1824	symptom
+T144	BiologicallyActiveSubstance 289 292	tau
+T145	BiologicallyActiveSubstance 534 537	tau
+T146	BiologicallyActiveSubstance 1224 1227	tau
+T147	BiologicallyActiveSubstance 1246 1249	tau
+T148	BiologicallyActiveSubstance 1253 1256	tau
+T149	BiologicallyActiveSubstance 1974 1977	tau
+T150	OrganismAttribute 2503 2507	size
+T151	AminoAcidPeptideOrProtein 195 203	P-tau181
+T152	BiologicallyActiveSubstance 195 203	P-tau181
+T153	CellOrMolecularDysfunction 479 516	accumulation of amyloid-beta peptides
+T154	PopulationGroup 905 917	non-carriers
+T155	PopulationGroup 1015 1027	non-carriers
+T156	BiologicallyActiveSubstance 1229 1237	P-tau181
+T157	AminoAcidPeptideOrProtein 1229 1237	P-tau181
+T158	AminoAcidPeptideOrProtein 1583 1591	P-tau181
+T159	BiologicallyActiveSubstance 1583 1591	P-tau181
+T160	PopulationGroup 1666 1678	non-carriers
+T161	AminoAcidPeptideOrProtein 1864 1872	P-tau181
+T162	BiologicallyActiveSubstance 1864 1872	P-tau181
+T163	AminoAcidPeptideOrProtein 1914 1922	P-tau181
+T164	BiologicallyActiveSubstance 1914 1922	P-tau181
+T165	AminoAcidPeptideOrProtein 1959 1967	P-tau181
+T166	BiologicallyActiveSubstance 1959 1967	P-tau181
+T167	AminoAcidPeptideOrProtein 2009 2017	P-tau181
+T168	BiologicallyActiveSubstance 2009 2017	P-tau181
+T169	AminoAcidPeptideOrProtein 2238 2246	P-tau181
+T170	BiologicallyActiveSubstance 2238 2246	P-tau181

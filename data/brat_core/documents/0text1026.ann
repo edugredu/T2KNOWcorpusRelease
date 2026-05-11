@@ -1,0 +1,72 @@
+T0	NaturalPhenomenonOrProcess 289 301	decelerating
+T1	NaturalPhenomenonOrProcess 430 444	biodegradation
+T2	BiologicFunction 457 472	immune response
+T3	InjuryOrPoisoning 478 491	neurotoxicity
+T4	Cell 493 514	Mesenchymal stem cell
+T5	CellFunction 664 680	biocompatibility
+T6	NucleicAcidNucleosideOrNucleotide 775 789	noncoding RNAs
+T7	ResearchActivity 891 902	engineering
+T8	BiologicFunction 947 962	preconditioning
+T9	TemporalConcept 1297 1305	progress
+T10	Chemical 801 807	lipids
+T11	Substance 386 405	synthetic molecules
+T12	CellFunction 570 597	intercellular communication
+T13	HealthCareActivity 1408 1429	clinical applications
+T14	Cell 547 550	MSC
+T15	Cell 917 920	MSC
+T16	Cell 1278 1281	MSC
+T17	Cell 1461 1464	MSC
+T18	HealthCareActivity 1369 1379	challenges
+T19	Finding 1077 1096	therapeutic effects
+T20	PharmacologicSubstance 368 373	drugs
+T21	NaturalPhenomenonOrProcess 446 455	clearance
+T22	CellFunction 1161 1176	neuroprotection
+T23	PopulationGroup 21 31	population
+T24	HealthCareActivity 636 648	therapeutics
+T25	HealthCareActivity 1325 1337	therapeutics
+T26	BiologicallyActiveSubstance 825 844	bioactive compounds
+T27	HealthCareActivity 724 730	safety
+T28	ResearchActivity 1220 1226	review
+T29	HealthCareActivity 1220 1226	review
+T30	PathologicFunction 317 328	progression
+T31	TemporalConcept 317 328	progression
+T32	AminoAcidPeptideOrProtein 791 799	proteins
+T33	BiologicFunction 32 37	aging
+T34	CellFunction 32 37	aging
+T35	Finding 1134 1146	accumulation
+T36	CellComponent 523 545	extracellular vesicles
+T37	DiseaseOrSyndrome 53 72	Alzheimer's disease
+T38	CellComponent 551 554	EVs
+T39	CellComponent 921 924	EVs
+T40	CellComponent 1282 1285	EVs
+T41	CellComponent 1465 1468	EVs
+T42	DiseaseOrSyndrome 74 76	AD
+T43	DiseaseOrSyndrome 187 189	AD
+T44	DiseaseOrSyndrome 314 316	AD
+T45	DiseaseOrSyndrome 356 358	AD
+T46	DiseaseOrSyndrome 633 635	AD
+T47	DiseaseOrSyndrome 1052 1054	AD
+T48	DiseaseOrSyndrome 1322 1324	AD
+T49	DiseaseOrSyndrome 1495 1497	AD
+T50	PatientOrDisabledGroup 78 86	patients
+T51	Cell 858 863	cells
+T52	CellComponent 1015 1017	EV
+T53	HealthCareActivity 268 277	treatment
+T54	HealthCareActivity 1055 1064	treatment
+T55	ResearchActivity 268 277	treatment
+T56	ResearchActivity 1055 1064	treatment
+T57	PopulationGroup 160 166	people
+T58	PopulationGroup 230 236	people
+T59	OrganismAttribute 740 747	ability
+T60	HealthCareActivity 1498 1505	therapy
+T61	TemporalConcept 120 127	current
+T62	PharmacologicSubstance 964 968	drug
+T63	NucleicAcidNucleosideOrNucleotide 809 813	DNAs
+T64	Finding 682 693	versatility
+T65	NucleicAcidNucleosideOrNucleotide 761 770;785 789	messenger RNAs
+T66	ResearchActivity 1004 1029	artificial EV fabrication
+T67	CellFunction 978 998	surface modification
+T68	ResearchActivity 964 976	drug loading
+T69	CellOrMolecularDysfunction 1117 1146	abnormal protein accumulation
+T70	Finding 1181 1205	immunomodulatory effects
+T71	PharmacologicSubstance 1450 1468	engineered MSC-EVs

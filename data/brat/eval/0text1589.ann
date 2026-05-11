@@ -1,0 +1,66 @@
+T0	HealthCareActivity 31 41	counseling
+T1	Finding 204 217	heterogeneity
+T2	BiologicFunction 221 229	practice
+T3	DiseaseOrSyndrome 487 495	syndrome
+T4	HealthCareActivity 603 624	diagnostic evaluation
+T5	IndividualBehavior 840 850	Disclosure
+T6	HealthCareActivity 1089 1097	sampling
+T7	BiologicFunction 1239 1271	autonomous and informed decision
+T8	HealthCareActivity 1431 1437	advice
+T9	HealthCareActivity 1493 1499	Advice
+T10	BiomedicalOccupationOrDiscipline 1724 1738	evidence-based
+T11	ResearchActivity 418 426	meetings
+T12	TemporalConcept 1779 1785	future
+T13	ClinicalAttribute 247 255	guidance
+T14	HealthCareActivity 1348 1357	Follow-up
+T15	TemporalConcept 1348 1357	Follow-up
+T16	ClinicalAttribute 1156 1166	biomarkers
+T17	ClinicalAttribute 1336 1346	biomarkers
+T18	PatientOrDisabledGroup 112 120	patients
+T19	PatientOrDisabledGroup 1387 1395	patients
+T20	PatientOrDisabledGroup 1622 1630	patients
+T21	ResearchActivity 586 593	Results
+T22	ResearchActivity 181 188	studies
+T23	ResearchActivity 1690 1697	studies
+T24	ClinicalAttribute 1024 1033	biomarker
+T25	DiseaseOrSyndrome 367 375	dementia
+T26	DiseaseOrSyndrome 727 735	dementia
+T27	DiseaseOrSyndrome 958 966	dementia
+T28	DiseaseOrSyndrome 1116 1124	dementia
+T29	BodyPartOrganOrOrganComponent 1417 1422	brain
+T30	HealthCareActivity 496 505	diagnosis
+T31	HealthCareActivity 902 916	follow-up plan
+T32	TemporalConcept 902 911	follow-up
+T33	DiseaseOrSyndrome 153 156	MCI
+T34	DiseaseOrSyndrome 509 512	MCI
+T35	DiseaseOrSyndrome 947 950	MCI
+T36	DiseaseOrSyndrome 1401 1404	MCI
+T37	DiseaseOrSyndrome 1636 1639	MCI
+T38	DiseaseOrSyndrome 131 151	cognitive impairment
+T39	DiseaseOrSyndrome 126 151	mild cognitive impairment
+T40	PopulationGroup 288 296	European
+T41	PopulationGroup 318 326	European
+T42	DiseaseOrSyndrome 327 346	Alzheimer's Disease
+T43	HealthCareActivity 54 72	diagnostic process
+T44	HealthCareActivity 1600 1618	diagnostic process
+T45	HealthCareActivity 614 624	evaluation
+T46	ResearchActivity 614 624	evaluation
+T47	HealthCareActivity 1451 1460	treatment
+T48	ResearchActivity 1451 1460	treatment
+T49	TemporalConcept 172 180	Previous
+T50	PatientOrDisabledGroup 652 659	patient
+T51	Finding 1724 1732	evidence
+T52	OrganismAttribute 1423 1430	healthy
+T53	HealthCareActivity 260 270	clinicians
+T54	HealthCareActivity 1563 1573	clinicians
+T55	HealthCareActivity 86 108	postdiagnostic support
+T56	HealthCareRelatedOrganization 288 317	European Academy of Neurology
+T57	HealthCareRelatedOrganization 318 357	European Alzheimer's Disease Consortium
+T58	HealthCareActivity 514 556	pre- and postbiomarker sampling counseling
+T59	HealthCareActivity 562 584	postdiagnostic support
+T60	Finding 784 797	right to know
+T61	Finding 809 825	wish not to know
+T62	HealthCareActivity 968 991	Prebiomarker counseling
+T63	HealthCareActivity 1061 1085	postbiomarker counseling
+T64	HealthCareActivity 1024 1042	biomarker sampling
+T65	HealthCareActivity 1273 1297	Postbiomarker counseling

@@ -1,0 +1,96 @@
+T0	TemporalConcept 149 154	month
+T1	Cell 248 252	NSCs
+T2	CellFunction 335 346	myelinating
+T3	Chemical 486 499	retinoic acid
+T4	BiologicallyActiveSubstance 556 562	RALDH2
+T5	AminoAcidPeptideOrProtein 556 562	RALDH2
+T6	CellOrMolecularDysfunction 695 703	deletion
+T7	BiologicallyActiveSubstance 707 713	Raldh2
+T8	AminoAcidPeptideOrProtein 707 713	Raldh2
+T9	NaturalPhenomenonOrProcess 802 812	reductions
+T10	HealthCareActivity 802 812	reductions
+T11	DiseaseOrSyndrome 816 819	NSC
+T12	GeneOrGenome 851 867	sonic hedgehog (
+T13	GeneOrGenome 899 903	Gli1
+T14	AminoAcidPeptideOrProtein 899 903	Gli1
+T15	Chemical 1070 1072	RA
+T16	PharmacologicSubstance 1070 1072	RA
+T17	InjuryOrPoisoning 1070 1072	RA
+T18	Cell 1195 1199	NSCs
+T19	BodyPartOrganOrOrganComponent 1273 1284	subcallosal
+T20	BodyPartOrganOrOrganComponent 294 297	SVZ
+T21	BodyPartOrganOrOrganComponent 911 914	SVZ
+T22	BodyPartOrganOrOrganComponent 1243 1246	SVZ
+T23	BodyPartOrganOrOrganComponent 1285 1288	SVZ
+T24	Cell 335 350	myelinating OLs
+T25	BodyPartOrganOrOrganComponent 632 643	subcortical
+T26	Cell 109 113	OPCs
+T27	Cell 174 178	OPCs
+T28	Cell 580 583	OPC
+T29	Cell 722 725	OPC
+T30	Cell 775 778	OPC
+T31	Cell 1086 1089	OPC
+T32	CellFunction 309 322	differentiate
+T33	CellFunction 851 865;872 881	sonic hedgehog signaling
+T34	CellFunction 52 67	differentiation
+T35	CellFunction 599 614	differentiation
+T36	CellFunction 738 753	differentiation
+T37	CellFunction 1105 1120	differentiation
+T38	BodyPartOrganOrOrganComponent 644 656	white matter
+T39	Cell 127 130	OLs
+T40	Cell 347 350	OLs
+T41	Cell 88 90	OL
+T42	TemporalConcept 120 126	mature
+T43	Cell 92 107	precursor cells
+T44	DiseaseOrSyndrome 683 694	conditional
+T45	BodyPartOrganOrOrganComponent 214 216	CC
+T46	BodyPartOrganOrOrganComponent 953 955	CC
+T47	BodyPartOrganOrOrganComponent 1128 1130	CC
+T48	BodyPartOrganOrOrganComponent 197 212	corpus callosum
+T49	TemporalConcept 158 167	postnatal
+T50	TemporalConcept 622 631	postnatal
+T51	TemporalConcept 1263 1272	postnatal
+T52	BiologicFunction 1070 1082	RA synthesis
+T53	BodyPartOrganOrOrganComponent 261 292	subcallosal subventricular zone
+T54	Cell 229 246	neural stem cells
+T55	CellFunction 0 11	Myelination
+T56	Cell 984 990	neuron
+T57	ResearchActivity 437 442	study
+T58	BodyPartOrganOrOrganComponent 19 22	CNS
+T59	BiologicFunction 1150 1161	development
+T60	CellFunction 1150 1161	development
+T61	CellFunction 365 372	signals
+T62	TemporalConcept 143 148	first
+T63	CellFunction 468 478	expression
+T64	CellFunction 833 843	expression
+T65	CellFunction 935 945	expression
+T66	TemporalConcept 168 172	life
+T67	CellFunction 820 828	survival
+T68	BodyPartOrganOrOrganComponent 975 983	cortical
+T69	OrganismAttribute 670 676	female
+T70	OrganismAttribute 661 665	male
+T71	Cell 71 86	oligodendrocyte
+T72	Cell 1171 1181	cell types
+T73	TemporalConcept 584 594	generation
+T74	AminoAcidPeptideOrProtein 930 934	GFAP
+T75	BiologicallyActiveSubstance 930 934	GFAP
+T76	GeneOrGenome 930 934	GFAP
+T77	AminoAcidPeptideOrProtein 882 898	effector protein
+T78	BiologicallyActiveSubstance 899 903	Gli1
+T79	AminoAcidPeptideOrProtein 1053 1059	RALDH2
+T80	BiologicallyActiveSubstance 1053 1059	RALDH2
+T81	Chemical 501 503	RA
+T82	PharmacologicSubstance 501 503	RA
+T83	InjuryOrPoisoning 501 503	RA
+T84	PharmacologicSubstance 486 499	retinoic acid
+T85	InjuryOrPoisoning 486 499	retinoic acid
+T86	AminoAcidPeptideOrProtein 486 554	retinoic acid (RA)-synthesizing enzyme retinaldehyde dehydrogenase 2
+T87	BiologicallyActiveSubstance 486 554	retinoic acid (RA)-synthesizing enzyme retinaldehyde dehydrogenase 2
+T88	TemporalConcept 677 681	pups
+T89	GeneOrGenome 707 713	Raldh2
+T90	GeneOrGenome 556 562	RALDH2
+T91	GeneOrGenome 1053 1059	RALDH2
+T92	EmbryonicStructure 1207 1233	embryonic ventricular zone
+T93	AminoAcidPeptideOrProtein 867 870	SHH
+T94	GeneOrGenome 867 870	SHH
+T95	BiologicallyActiveSubstance 867 870	SHH

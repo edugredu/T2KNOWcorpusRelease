@@ -1,0 +1,49 @@
+T0	BodyPartOrganOrOrganComponent 152 165	blood vessels
+T1	BodyPartOrganOrOrganComponent 236 247	vasculature
+T2	BiologicFunction 396 406	detachment
+T3	PathologicFunction 396 406	detachment
+T4	Finding 396 406	detachment
+T5	BodyPartOrganOrOrganComponent 552 559	vessels
+T6	Cell 587 599	perivascular
+T7	BodyPartOrganOrOrganComponent 703 714	vasculature
+T8	BiologicFunction 777 787	detachment
+T9	PathologicFunction 777 787	detachment
+T10	Finding 777 787	detachment
+T11	BodyPartOrganOrOrganComponent 793 800	vessels
+T12	BodyPartOrganOrOrganComponent 896 909	blood vessels
+T13	Cell 936 948	perivascular
+T14	Chemical 184 193	substrate
+T15	Cell 833 842	Astrocyte
+T16	CellComponent 358 363	axons
+T17	Cell 33 37	OPCs
+T18	Cell 693 697	OPCs
+T19	Cell 886 890	OPCs
+T20	Cell 215 218	OPC
+T21	Cell 583 586	OPC
+T22	Cell 773 776	OPC
+T23	Cell 995 998	OPC
+T24	BiologicFunction 1041 1051	maturation
+T25	BiologicFunction 502 515	developmental
+T26	TemporalConcept 502 515	developmental
+T27	CellFunction 816 831	differentiation
+T28	CellFunction 999 1014	differentiation
+T29	BiologicallyActiveSubstance 1052 1062	inhibitory
+T30	CellFunction 995 1014	OPC differentiation
+T31	CellFunction 76 85	migration
+T32	CellFunction 198 207	migration
+T33	CellFunction 600 609	migration
+T34	CellFunction 949 958	migration
+T35	Cell 16 31	precursor cells
+T36	HealthCareActivity 631 643	live imaging
+T37	Cell 0 31	Oligodendrocyte precursor cells
+T38	Cell 0 15	Oligodendrocyte
+T39	ResearchActivity 611 618	Ex vivo
+T40	BodyPartOrganOrOrganComponent 104 107	CNS
+T41	Cell 655 664	astrocyte
+T42	ResearchActivity 623 630	in vivo
+T43	CellFunction 336 347	myelination
+T44	AminoAcidPeptideOrProtein 851 865	semaphorins 3a
+T45	BiologicallyActiveSubstance 851 865	semaphorins 3a
+T46	AminoAcidPeptideOrProtein 851 862;870 872	semaphorins 6a
+T47	BiologicallyActiveSubstance 851 862;870 872	semaphorins 6a
+T48	BodyPartOrganOrOrganComponent 1063 1081	endo-thelial niche

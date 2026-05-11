@@ -1,0 +1,30 @@
+T0	Cell 81 99	non-neuronal cells
+T1	Cell 154 172	non-neuronal cells
+T2	Cell 557 575	non-neuronal cells
+T3	DiseaseOrSyndrome 640 667	neurodegenerative disorders
+T4	Finding 498 505;530 538	genetic evidence
+T5	Cell 72 79	neurons
+T6	Cell 85 93	neuronal
+T7	Cell 158 166	neuronal
+T8	Cell 561 569	neuronal
+T9	PathologicFunction 464 475	dysfunction
+T10	Cell 139 143	glia
+T11	DiseaseOrSyndrome 700 723	frontotemporal dementia
+T12	Cell 85 99	neuronal cells
+T13	Cell 158 172	neuronal cells
+T14	Cell 561 575	neuronal cells
+T15	ResearchActivity 491 497	review
+T16	HealthCareActivity 491 497	review
+T17	DiseaseOrSyndrome 30 56	neurodegenerative diseases
+T18	DiseaseOrSyndrome 366 392	neurodegenerative diseases
+T19	Finding 517 538	experimental evidence
+T20	ResearchActivity 18 26	research
+T21	ResearchActivity 284 292	research
+T22	DiseaseOrSyndrome 756 776	Huntington's disease
+T23	DiseaseOrSyndrome 802 821	Parkinson's disease
+T24	DiseaseOrSyndrome 725 754	amyotrophic lateral sclerosis
+T25	DiseaseOrSyndrome 679 698	Alzheimer's disease
+T26	PathologicFunction 206 218	pathogenesis
+T27	PathologicFunction 615 627	pathogenesis
+T28	DiseaseOrSyndrome 715 723	dementia
+T29	DiseaseOrSyndrome 778 796	multiple sclerosis

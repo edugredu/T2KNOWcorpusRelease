@@ -1,0 +1,4 @@
+# API response caches from source-licence audit runs.
+# These are large working artefacts and may contain third-party abstract text.
+# The audit results are in provenance/reports/source_license_audit_v6.tsv.
+provenance/cache/

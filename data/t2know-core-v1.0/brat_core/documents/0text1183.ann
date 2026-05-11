@@ -1,0 +1,85 @@
+T0	BodyPartOrganOrOrganComponent 349 367	connective tissues
+T1	DiseaseOrSyndrome 672 694	chronic osteoarthritis
+T2	BodyPartOrganOrOrganComponent 752 770	connective tissues
+T3	BodyPartOrganOrOrganComponent 800 814	neural tissues
+T4	CellFunction 825 842	cell organization
+T5	BiologicFunction 952 959	healing
+T6	BodyPartOrganOrOrganComponent 1043 1057	neural tissues
+T7	InjuryOrPoisoning 1096 1102	trauma
+T8	HealthCareActivity 1351 1367	cellular therapy
+T9	TemporalConcept 119 126	decades
+T10	Cell 27 43	progenitor cells
+T11	Cell 1607 1628	stem/progenitor cells
+T12	BiologicFunction 1027 1039	regeneration
+T13	BiologicFunction 1393 1405	regeneration
+T14	HealthCareActivity 1027 1039	regeneration
+T15	HealthCareActivity 1393 1405	regeneration
+T16	Finding 1027 1039	regeneration
+T17	Finding 1393 1405	regeneration
+T18	Cell 49 52	NPC
+T19	Cell 607 610	NPC
+T20	Cell 1200 1203	NPC
+T21	HealthCareActivity 1721 1737	cell replacement
+T22	ResearchActivity 1721 1737	cell replacement
+T23	PopulationGroup 216 222	adults
+T24	TemporalConcept 1320 1328	progress
+T25	TemporalConcept 1846 1855	long-term
+T26	TemporalConcept 1970 1979	long-term
+T27	Finding 1910 1920	controlled
+T28	CellComponent 1579 1601	extracellular vesicles
+T29	DiseaseOrSyndrome 545 564	Alzheimer's disease
+T30	PatientOrDisabledGroup 2003 2011	patients
+T31	DiseaseOrSyndrome 566 585	Parkinson's disease
+T32	BodyPartOrganOrOrganComponent 339 344	brain
+T33	BodyPartOrganOrOrganComponent 454 459	brain
+T34	BodyPartOrganOrOrganComponent 1435 1440	brain
+T35	Cell 1672 1677	cells
+T36	ResearchActivity 96 114	preclinical models
+T37	ResearchActivity 1120 1126	review
+T38	HealthCareActivity 1120 1126	review
+T39	HealthCareActivity 659 668	treatment
+T40	ResearchActivity 659 668	treatment
+T41	ResearchActivity 916 923	studies
+T42	ResearchActivity 985 992	studies
+T43	BodyPartOrganOrOrganComponent 934 951	connective tissue
+T44	Finding 1161 1172	differences
+T45	ResearchActivity 239 247	in vitro
+T46	HealthCareActivity 1360 1367	therapy
+T47	Cell 1351 1359	cellular
+T48	Cell 1808 1816	cellular
+T49	Cell 1939 1947	cellular
+T50	PopulationGroup 730 741	individuals
+T51	Cell 168 171	MSC
+T52	Cell 396 399	MSC
+T53	Cell 648 651	MSC
+T54	Cell 965 968	MSC
+T55	Cell 1208 1211	MSC
+T56	PopulationGroup 90 95	adult
+T57	BodyPartOrganOrOrganComponent 80 86	brains
+T58	Cell 268 278	cell types
+T59	BodyPartOrganOrOrganComponent 203 210	tissues
+T60	BodyPartOrganOrOrganComponent 1692 1699	tissues
+T61	BiologicFunction 321 327	repair
+T62	BiologicFunction 435 441	repair
+T63	BiologicFunction 1016 1022	repair
+T64	BiologicFunction 1382 1388	repair
+T65	BiologicFunction 1681 1687	repair
+T66	BiologicFunction 1817 1823	repair
+T67	HealthCareActivity 321 327	repair
+T68	HealthCareActivity 435 441	repair
+T69	HealthCareActivity 1016 1022	repair
+T70	HealthCareActivity 1382 1388	repair
+T71	HealthCareActivity 1681 1687	repair
+T72	HealthCareActivity 1817 1823	repair
+T73	TemporalConcept 498 505	chronic
+T74	TemporalConcept 672 679	chronic
+T75	Cell 45 48	NSC
+T76	Cell 136 166	mesenchymal stem/stromal cells
+T77	Cell 0 23;38 43	Pluripotent neural stem cells
+T78	DiseaseOrSyndrome 506 536	neural degenerative conditions
+T79	Cell 603 606	NSC
+T80	HealthCareActivity 952 959	healing
+T81	Cell 1196 1199	NSC
+T82	DiseaseOrSyndrome 1886 1901	neural diseases
+T83	DiseaseOrSyndrome 2019 2034	neural diseases
+T84	Finding 2071 2081	etiologies

@@ -1,0 +1,58 @@
+T0	BiologicFunction 23 31	immunity
+T1	Chemical 66 73	tracers
+T2	PopulationGroup 280 288	European
+T3	NaturalPhenomenonOrProcess 416 423	ICEBERG
+T4	BiologicFunction 470 478	immunity
+T5	BiologicFunction 600 608	Immunity
+T6	AminoAcidPeptideOrProtein 748 752	APOE
+T7	BiologicallyActiveSubstance 748 752	APOE
+T8	OrganismAttribute 753 761	genotype
+T9	BiologicFunction 804 812	Immunity
+T10	CellFunction 845 854	molecular
+T11	CellOrMolecularDysfunction 859 877	cellular pathology
+T12	ResearchActivity 932 937	Assay
+T13	ResearchActivity 938 953	standardization
+T14	BiologicFunction 1101 1117	immune responses
+T15	DiseaseOrSyndrome 903 930	neurodegenerative disorders
+T16	HealthCareActivity 1045 1066	clinical applications
+T17	ResearchActivity 958 972	stratification
+T18	ResearchActivity 329 346	project AETIONOMY
+T19	ResearchActivity 122 127	study
+T20	OrganismAttribute 977 980	age
+T21	AminoAcidPeptideOrProtein 692 704	tau isoforms
+T22	BiologicFunction 736 741	aging
+T23	CellFunction 736 741	aging
+T24	DiseaseOrSyndrome 222 241	Parkinson's disease
+T25	DiseaseOrSyndrome 243 245	PD
+T26	HealthCareActivity 890 899	diagnosis
+T27	CellOrMolecularDysfunction 98 115	neurodegeneration
+T28	CellOrMolecularDysfunction 1121 1138	neurodegeneration
+T29	ResearchActivity 389 396	studies
+T30	ResearchActivity 1070 1090	intervention studies
+T31	DiseaseOrSyndrome 193 212	Alzheimer's disease
+T32	ClinicalAttribute 32 42	biomarkers
+T33	ClinicalAttribute 479 489	biomarkers
+T34	DiseaseOrSyndrome 214 216	AD
+T35	ClinicalAttribute 813 822	biomarker
+T36	ResearchActivity 523 527	data
+T37	PathologicFunction 77 94	neuroinflammation
+T38	BodyPartOrganOrOrganComponent 177 180	CSF
+T39	BodyPartOrganOrOrganComponent 493 496	CSF
+T40	BodyPartOrganOrOrganComponent 833 836	CSF
+T41	ResearchActivity 498 505	Results
+T42	ResearchActivity 591 598	Results
+T43	PopulationGroup 546 552	cohort
+T44	BodyPartOrganOrOrganComponent 156 175	cerebrospinal fluid
+T45	OrganismAttribute 743 746	sex
+T46	PopulationGroup 247 255	subjects
+T47	PopulationGroup 560 568	subjects
+T48	AminoAcidPeptideOrProtein 720 727	amyloid
+T49	BiologicallyActiveSubstance 720 727	amyloid
+T50	BiologicallyActiveSubstance 692 704	tau isoforms
+T51	HealthCareRelatedOrganization 280 321	European, Innovative Medicines Initiative
+T52	ClinicalAttribute 600 616	Immunity markers
+T53	ResearchActivity 405 414	AETIONOMY
+T54	ResearchActivity 416 423	ICEBERG
+T55	ResearchActivity 429 436	IDIBAPS
+T56	ClinicalAttribute 720 734	amyloid levels
+T57	ClinicalAttribute 669 704	pathological levels of tau isoforms

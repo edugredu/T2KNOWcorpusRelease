@@ -1,0 +1,78 @@
+T0	BodyPartOrganOrOrganComponent 126 131	nerve
+T1	Cell 475 486	fibroblasts
+T2	ResearchActivity 591 611	molecular signatures
+T3	Chemical 661 674	valproic acid
+T4	Chemical 711 717	Y27632
+T5	Chemical 719 725	SU9516
+T6	Chemical 731 740	forskolin
+T7	Chemical 742 745	FSK
+T8	Chemical 895 901	Y27632
+T9	Chemical 903 909	SU9516
+T10	Chemical 915 918	FSK
+T11	BiomedicalOccupationOrDiscipline 1247 1268	regenerative medicine
+T12	Chemical 695 710	small molecules
+T13	Chemical 878 893	small molecules
+T14	Chemical 1021 1036	small molecules
+T15	CellFunction 151 166	neuroprotection
+T16	HealthCareActivity 789 810	remyelination therapy
+T17	Cell 217 233	oligodendrocytes
+T18	Cell 623 639	oligodendrocytes
+T19	Cell 0 16	Oligodendrocytes
+T20	DiseaseOrSyndrome 243 265	demyelinating diseases
+T21	DiseaseOrSyndrome 308 330	demyelinating diseases
+T22	DiseaseOrSyndrome 1220 1242	demyelinating diseases
+T23	PathologicFunction 243 256	demyelinating
+T24	PathologicFunction 308 321	demyelinating
+T25	DiseaseOrSyndrome 274 292	multiple sclerosis
+T26	PathologicFunction 848 860	demyelinated
+T27	PathologicFunction 952 964	demyelinated
+T28	BodyPartOrganOrOrganComponent 965 980	corpus callosum
+T29	Chemical 830 839	cuprizone
+T30	TemporalConcept 1084 1089	weeks
+T31	NaturalPhenomenonOrProcess 1105 1110	light
+T32	CellOrMolecularDysfunction 209 233	loss of oligodendrocytes
+T33	BodyPartOrganOrOrganComponent 48 70	central nervous system
+T34	ResearchActivity 417 422	study
+T35	BodyPartOrganOrOrganComponent 72 75	CNS
+T36	BiologicFunction 336 347	development
+T37	BiologicFunction 762 773	development
+T38	BiologicFunction 1189 1200	development
+T39	CellFunction 336 347	development
+T40	CellFunction 762 773	development
+T41	CellFunction 1189 1200	development
+T42	BodyPartOrganOrOrganComponent 994 999	brain
+T43	Eukaryote 469 474	human
+T44	Cell 558 563	cells
+T45	CellFunction 132 139	signals
+T46	Cell 21 32	glial cells
+T47	Cell 779 783	cell
+T48	HealthCareActivity 646 655	treatment
+T49	HealthCareActivity 1206 1215	treatment
+T50	ResearchActivity 646 655	treatment
+T51	ResearchActivity 1206 1215	treatment
+T52	OrganismAttribute 1063 1072	phenotype
+T53	ResearchActivity 442 450	in vitro
+T54	Finding 110 122	transmission
+T55	ResearchActivity 1115 1134	electron microscopy
+T56	Cell 170 188	myelinated neurons
+T57	HealthCareActivity 353 360	therapy
+T58	HealthCareActivity 803 810	therapy
+T59	ResearchActivity 811 818	in vivo
+T60	Cell 492 526	induced oligodendrocyte-like cells
+T61	Substance 701 710	molecules
+T62	Substance 884 893	molecules
+T63	Substance 1027 1036	molecules
+T64	CellFunction 375 388	remyelination
+T65	CellFunction 789 802	remyelination
+T66	DiseaseOrSyndrome 294 296	MS
+T67	PathologicFunction 1049 1062	demyelination
+T68	ResearchActivity 861 872	mouse model
+T69	TemporalConcept 540 544	days
+T70	PathologicFunction 194 205	dysfunction
+T71	ResearchActivity 451 457	method
+T72	HealthCareActivity 451 457	method
+T73	Cell 528 533	iOLCs
+T74	ClinicalAttribute 574 586	morphologies
+T75	ExperimentalModelOfDisease 830 872	cuprizone-induced demyelinated mouse model
+T76	Eukaryote 988 993	mouse
+T77	ResearchActivity 1105 1110;1124 1134	light microscopy

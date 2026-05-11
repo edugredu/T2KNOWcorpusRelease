@@ -1,0 +1,27 @@
+T0	NucleicAcidNucleosideOrNucleotide 104 110	ncRNAs
+T1	NucleicAcidNucleosideOrNucleotide 160 173	circular RNAs
+T2	DiseaseOrSyndrome 208 229	Alzheimer's disease's
+T3	NucleicAcidNucleosideOrNucleotide 288 294	ncRNAs
+T4	NucleicAcidNucleosideOrNucleotide 517 545	extracellular vehicle ncRNAs
+T5	HealthCareActivity 680 689	diagnosis
+T6	OrganismAttribute 26 29	age
+T7	HealthCareActivity 694 703	treatment
+T8	ResearchActivity 694 703	treatment
+T9	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T10	DiseaseOrSyndrome 447 466	Alzheimer's disease
+T11	DiseaseOrSyndrome 549 568	Alzheimer's disease
+T12	DiseaseOrSyndrome 638 657	Alzheimer's disease
+T13	DiseaseOrSyndrome 40 65	neurodegenerative disease
+T14	ClinicalAttribute 424 443	potential biomarker
+T15	PathologicFunction 230 242	pathogenesis
+T16	PathologicFunction 664 676	pathogenesis
+T17	NucleicAcidNucleosideOrNucleotide 123 132	microRNAs
+T18	BiologicallyActiveSubstance 123 132	microRNAs
+T19	BiologicFunction 473 484	perspective
+T20	TemporalConcept 67 75	Recently
+T21	NucleicAcidNucleosideOrNucleotide 134 154	long non-coding RNAs
+T22	BiologicallyActiveSubstance 134 154	long non-coding RNAs
+T23	NucleicAcidNucleosideOrNucleotide 87 102	non-coding RNAs
+T24	CellFunction 326 353	intercellular communication
+T25	NucleicAcidNucleosideOrNucleotide 369 399	extracellular vesicular ncRNAs
+T26	NucleicAcidNucleosideOrNucleotide 604 634	extracellular vesicular ncRNAs

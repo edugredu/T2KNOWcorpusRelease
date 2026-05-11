@@ -1,0 +1,34 @@
+T0	CellFunction 0 19	DNA mismatch repair
+T1	CellFunction 21 24	MMR
+T2	CellOrMolecularDysfunction 89 111	DNA replication errors
+T3	CellOrMolecularDysfunction 120 146	chromosomal rearrangements
+T4	CellFunction 233 236	MMR
+T5	CellFunction 496 499	MMR
+T6	CellFunction 608 611	MMR
+T7	CellFunction 723 726	MMR
+T8	MolecularSequence 730 733	CAG
+T9	CellOrMolecularDysfunction 615 635	CAG repeat expansion
+T10	CellFunction 275 284	mutations
+T11	CellOrMolecularDysfunction 275 284	mutations
+T12	CellFunction 165 182	cellular response
+T13	CellOrMolecularDysfunction 200 210	DNA damage
+T14	NucleicAcidNucleosideOrNucleotide 200 203	DNA
+T15	GeneOrGenome 48 54	genome
+T16	BiologicallyActiveSubstance 528 535	enzymes
+T17	HealthCareActivity 784 808	therapeutic intervention
+T18	MolecularSequence 615 625	CAG repeat
+T19	CellFunction 67 74	pathway
+T20	CellFunction 544 551	pathway
+T21	Finding 483 492	knowledge
+T22	Finding 573 581	evidence
+T23	DiseaseOrSyndrome 358 378	Huntington's disease
+T24	DiseaseOrSyndrome 380 382	HD
+T25	DiseaseOrSyndrome 812 814	HD
+T26	TemporalConcept 454 461	current
+T27	ResearchActivity 431 437	review
+T28	ResearchActivity 504 510	review
+T29	HealthCareActivity 431 437	review
+T30	HealthCareActivity 504 510	review
+T31	DiseaseOrSyndrome 394 421	neurodegenerative disorders
+T32	CellOrMolecularDysfunction 322 354	somatic triplet repeat expansion
+T33	CellOrMolecularDysfunction 730 743	CAG expansion

@@ -1,0 +1,85 @@
+T0	AminoAcidPeptideOrProtein 12 23	Natalizumab
+T1	HealthCareActivity 351 360	follow-up
+T2	TemporalConcept 351 360	follow-up
+T3	AminoAcidPeptideOrProtein 427 438	natalizumab
+T4	TemporalConcept 439 449	initiation
+T5	TemporalConcept 470 471	M
+T6	HealthCareActivity 482 491	follow-up
+T7	TemporalConcept 482 491	follow-up
+T8	ResearchActivity 600 607	Results
+T9	Finding 677 687	disability
+T10	HealthCareActivity 821 830	follow-up
+T11	TemporalConcept 821 830	follow-up
+T12	HealthCareActivity 960 969	follow-up
+T13	TemporalConcept 960 969	follow-up
+T14	HealthCareActivity 1272 1281	follow-up
+T15	TemporalConcept 1272 1281	follow-up
+T16	ClinicalAttribute 1310 1331	sCNTN1 concentrations
+T17	Finding 1363 1373	disability
+T18	AminoAcidPeptideOrProtein 1393 1404	natalizumab
+T19	ResearchActivity 142 147	study
+T20	PathologicFunction 88 99	progression
+T21	PathologicFunction 208 219	progression
+T22	PathologicFunction 941 952	progression
+T23	PathologicFunction 1253 1264	progression
+T24	PathologicFunction 1374 1385	progression
+T25	TemporalConcept 88 99	progression
+T26	TemporalConcept 208 219	progression
+T27	TemporalConcept 941 952	progression
+T28	TemporalConcept 1253 1264	progression
+T29	TemporalConcept 1374 1385	progression
+T30	TemporalConcept 462 468	months
+T31	TemporalConcept 366 371	years
+T32	TemporalConcept 504 509	years
+T33	PathologicFunction 80 99	disease progression
+T34	PathologicFunction 200 219	disease progression
+T35	Finding 1131 1139	decrease
+T36	HealthCareActivity 24 33	treatment
+T37	HealthCareActivity 1405 1414	treatment
+T38	ResearchActivity 24 33	treatment
+T39	ResearchActivity 1405 1414	treatment
+T40	OrganismAttribute 531 538	healthy
+T41	DiseaseOrSyndrome 123 125	MS
+T42	DiseaseOrSyndrome 243 265	relapsing-remitting MS
+T43	DiseaseOrSyndrome 580 582	MS
+T44	BodyPartOrganOrOrganComponent 1437 1442	blood
+T45	PatientOrDisabledGroup 273 281	patients
+T46	PatientOrDisabledGroup 329 337	patients
+T47	PatientOrDisabledGroup 583 591	patients
+T48	PatientOrDisabledGroup 630 638	patients
+T49	PatientOrDisabledGroup 925 933	patients
+T50	DiseaseOrSyndrome 103 121	multiple sclerosis
+T51	ResearchActivity 1206 1225	confidence interval
+T52	PathologicFunction 59 71	inflammation
+T53	ResearchActivity 45 50	model
+T54	TemporalConcept 1353 1362	long-term
+T55	TemporalConcept 243 252	relapsing
+T56	DiseaseOrSyndrome 568 582	progressive MS
+T57	TemporalConcept 568 579	progressive
+T58	TemporalConcept 644 655	progressive
+T59	PopulationGroup 531 547	healthy controls
+T60	ClinicalAttribute 186 195	biomarker
+T61	ClinicalAttribute 1449 1469	prognostic biomarker
+T62	PharmacologicSubstance 12 23	Natalizumab
+T63	BiologicallyActiveSubstance 12 23	Natalizumab
+T64	ClinicalAttribute 148 165	serum contactin-1
+T65	AminoAcidPeptideOrProtein 154 165	contactin-1
+T66	DiseaseOrSyndrome 267 271	RRMS
+T67	PharmacologicSubstance 304 315	natalizumab
+T68	BiologicallyActiveSubstance 304 315	natalizumab
+T69	AminoAcidPeptideOrProtein 304 315	natalizumab
+T70	DiseaseOrSyndrome 324 328	RRMS
+T71	BiologicallyActiveSubstance 427 438	natalizumab
+T72	PharmacologicSubstance 427 438	natalizumab
+T73	ClinicalAttribute 737 750	sCNTN1 levels
+T74	DiseaseOrSyndrome 763 767	RRMS
+T75	ClinicalAttribute 1010 1023	sCNTN1 levels
+T76	ClinicalAttribute 1152 1158	sCNTN1
+T77	PharmacologicSubstance 1393 1404	natalizumab
+T78	BiologicallyActiveSubstance 1393 1404	natalizumab
+T79	DiseaseOrSyndrome 1474 1478	RRMS
+T80	ClinicalAttribute 167 173	sCNTN1
+T81	PharmacologicSubstance 223 234	natalizumab
+T82	BiologicallyActiveSubstance 223 234	natalizumab
+T83	AminoAcidPeptideOrProtein 223 234	natalizumab
+T84	HealthCareActivity 701 705	EDSS

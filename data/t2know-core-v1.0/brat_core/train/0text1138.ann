@@ -1,0 +1,153 @@
+T0	AminoAcidPeptideOrProtein 42 58	apolipoprotein E
+T1	GeneOrGenome 42 58;66 70	apolipoprotein E gene
+T2	BiologicallyActiveSubstance 42 58	apolipoprotein E
+T3	GeneOrGenome 336 350	APOE epsilon 2
+T4	CellFunction 495 510	gene regulation
+T5	Substance 673 682	materials
+T6	ResearchActivity 1415 1429	RNA sequencing
+T7	ClinicalAttribute 2440 2454	disease stages
+T8	AminoAcidPeptideOrProtein 267 278	amino acids
+T9	GeneOrGenome 156 176	APOE isoform alleles
+T10	TemporalConcept 1063 1073	late-stage
+T11	TemporalConcept 2107 2117	late-stage
+T12	CellComponent 598 631	lipid bilayer-delimited particles
+T13	TemporalConcept 1063 1067	late
+T14	TemporalConcept 2107 2111	late
+T15	Finding 431 445	increased risk
+T16	Finding 1602 1612	morphology
+T17	ResearchActivity 2002 2014	publications
+T18	PopulationGroup 1798 1808	individual
+T19	OrganismAttribute 1798 1808	individual
+T20	CellComponent 589 592	EVs
+T21	CellComponent 785 788	EVs
+T22	CellComponent 1477 1480	EVs
+T23	CellComponent 1675 1678	EVs
+T24	CellComponent 1867 1870	EVs
+T25	DiseaseOrSyndrome 139 141	AD
+T26	DiseaseOrSyndrome 373 375	AD
+T27	DiseaseOrSyndrome 450 452	AD
+T28	DiseaseOrSyndrome 514 516	AD
+T29	DiseaseOrSyndrome 751 753	AD
+T30	DiseaseOrSyndrome 916 918	AD
+T31	DiseaseOrSyndrome 967 969	AD
+T32	DiseaseOrSyndrome 1074 1076	AD
+T33	DiseaseOrSyndrome 2074 2076	AD
+T34	DiseaseOrSyndrome 2118 2120	AD
+T35	DiseaseOrSyndrome 2329 2331	AD
+T36	CellComponent 899 901	EV
+T37	CellComponent 1344 1346	EV
+T38	CellComponent 2287 2289	EV
+T39	PatientOrDisabledGroup 953 961	patients
+T40	PatientOrDisabledGroup 1108 1116	patients
+T41	PatientOrDisabledGroup 2093 2101	patients
+T42	ResearchActivity 1434 1452	proteomic analysis
+T43	ResearchActivity 1966 1988	Bioinformatic analysis
+T44	ResearchActivity 2129 2134	study
+T45	ResearchActivity 1501 1508	Results
+T46	BiologicFunction 453 464	development
+T47	CellFunction 453 464	development
+T48	NucleicAcidNucleosideOrNucleotide 1825 1831	miRNAs
+T49	BiologicallyActiveSubstance 1825 1831	miRNAs
+T50	NucleicAcidNucleosideOrNucleotide 1836 1841	tRNAs
+T51	BiologicallyActiveSubstance 1836 1841	tRNAs
+T52	PathologicFunction 2332 2343	progression
+T53	TemporalConcept 2332 2343	progression
+T54	Cell 644 649	cells
+T55	CellComponent 565 587	Extracellular vesicles
+T56	ResearchActivity 1658 1666	profiles
+T57	ResearchActivity 2208 2216	profiles
+T58	Finding 94 98	risk
+T59	Finding 441 445	risk
+T60	Finding 1923 1927	risk
+T61	TemporalConcept 2432 2439	earlier
+T62	AminoAcidPeptideOrProtein 234 242	proteins
+T63	AminoAcidPeptideOrProtein 1847 1855	proteins
+T64	BodyPartOrganOrOrganComponent 822 828	tissue
+T65	BodyPartOrganOrOrganComponent 1493 1499	tissue
+T66	BodyPartOrganOrOrganComponent 1691 1697	tissue
+T67	Finding 1550 1561	differences
+T68	Finding 1783 1794	differences
+T69	Finding 2156 2167	differences
+T70	Finding 2379 2390	differences
+T71	CellComponent 790 795	bdEVs
+T72	CellComponent 927 932	bdEVs
+T73	CellComponent 1052 1057	bdEVs
+T74	CellComponent 1565 1569	bdEV
+T75	OrganismAttribute 990 999	genotypes
+T76	OrganismAttribute 1127 1136	genotypes
+T77	OrganismAttribute 1524 1533	genotypes
+T78	OrganismAttribute 1755 1764	genotypes
+T79	OrganismAttribute 2230 2239	genotypes
+T80	PathologicFunction 517 529	pathogenesis
+T81	Finding 2147 2155	moderate
+T82	Cell 841 849	cellular
+T83	BodyPartOrganOrOrganComponent 771 776	Brain
+T84	AminoAcidPeptideOrProtein 60 64	APOE
+T85	AminoAcidPeptideOrProtein 487 491	APOE
+T86	AminoAcidPeptideOrProtein 877 881	APOE
+T87	AminoAcidPeptideOrProtein 985 989	APOE
+T88	AminoAcidPeptideOrProtein 1122 1126	APOE
+T89	AminoAcidPeptideOrProtein 1519 1523	APOE
+T90	AminoAcidPeptideOrProtein 1750 1754	APOE
+T91	AminoAcidPeptideOrProtein 2225 2229	APOE
+T92	GeneOrGenome 60 64	APOE
+T93	BiologicallyActiveSubstance 877 881	APOE
+T94	BiologicallyActiveSubstance 985 989	APOE
+T95	BiologicallyActiveSubstance 1122 1126	APOE
+T96	BiologicallyActiveSubstance 1519 1523	APOE
+T97	BiologicallyActiveSubstance 1750 1754	APOE
+T98	BiologicallyActiveSubstance 2225 2229	APOE
+T99	BiologicallyActiveSubstance 60 64	APOE
+T100	BiologicallyActiveSubstance 487 491	APOE
+T101	GeneOrGenome 877 881	APOE
+T102	GeneOrGenome 985 989	APOE
+T103	GeneOrGenome 1122 1126	APOE
+T104	GeneOrGenome 1519 1523	APOE
+T105	GeneOrGenome 1750 1754	APOE
+T106	GeneOrGenome 2225 2229	APOE
+T107	OrganismAttribute 882 890	genotype
+T108	OrganismAttribute 2362 2370	genotype
+T109	TemporalConcept 111 119	sporadic
+T110	PathologicFunction 754 769	pathophysiology
+T111	BiomedicalOccupationOrDiscipline 754 769	pathophysiology
+T112	Finding 94 106	risk factors
+T113	Substance 2061 2070	molecules
+T114	Substance 2301 2310	molecules
+T115	Chemical 1576 1584	particle
+T116	Chemical 622 631	particles
+T117	Chemical 598 603	lipid
+T118	CellFunction 695 722	intercellular communication
+T119	HealthCareActivity 709 722	communication
+T120	CellFunction 709 722	communication
+T121	TemporalConcept 1091 1097	stages
+T122	DiseaseOrSyndrome 120 137	Alzheimer disease
+T123	CellComponent 902 912	components
+T124	BodyPartOrganOrOrganComponent 919 925	brains
+T125	BodyPartOrganOrOrganComponent 1077 1083	brains
+T126	CellFunction 298 313	binding partner
+T127	Finding 314 326	interactions
+T128	BiologicFunction 1585 1598	concentration
+T129	ResearchActivity 1379 1405	multiomic characterization
+T130	GeneOrGenome 495 499	gene
+T131	NucleicAcidNucleosideOrNucleotide 1013 1022	small RNA
+T132	NucleicAcidNucleosideOrNucleotide 1409 1418	small RNA
+T133	NucleicAcidNucleosideOrNucleotide 1636 1645	small RNA
+T134	NucleicAcidNucleosideOrNucleotide 2186 2195	small RNA
+T135	BiologicallyActiveSubstance 1013 1022	small RNA
+T136	BiologicallyActiveSubstance 1409 1418	small RNA
+T137	BiologicallyActiveSubstance 1636 1645	small RNA
+T138	BiologicallyActiveSubstance 2186 2195	small RNA
+T139	NucleicAcidNucleosideOrNucleotide 1809 1813	RNAs
+T140	AminoAcidPeptideOrProtein 1027 1034	protein
+T141	AminoAcidPeptideOrProtein 1650 1657	protein
+T142	AminoAcidPeptideOrProtein 2200 2207	protein
+T143	ResearchActivity 1035 1042	profile
+T144	GeneOrGenome 156 160;178 187	APOE epsilon 2
+T145	GeneOrGenome 156 160;189 198	APOE epsilon 3
+T146	GeneOrGenome 156 160;204 213	APOE epsilon 4
+T147	GeneOrGenome 388 397	epsilon 3
+T148	GeneOrGenome 399 408	epsilon 4
+T149	GeneOrGenome 487 491	APOE
+T150	ResearchActivity 1259 1267	protocol
+T151	ResearchActivity 1275 1314	10,000g pelleted extracellular fraction
+T152	ResearchActivity 1344 1355	EV fraction

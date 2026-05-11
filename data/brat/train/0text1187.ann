@@ -1,0 +1,94 @@
+T0	DiseaseOrSyndrome 108 126	cognitive deficits
+T1	ClinicalAttribute 565 578	vulnerability
+T2	HealthCareActivity 1279 1298	stem cell therapies
+T3	HealthCareActivity 1611 1630	stem cell therapies
+T4	HealthCareActivity 1284 1298	cell therapies
+T5	HealthCareActivity 1616 1630	cell therapies
+T6	HealthCareActivity 759 779	therapeutic approach
+T7	PharmacologicSubstance 192 214	palliative medications
+T8	TemporalConcept 781 790	Currently
+T9	BiologicFunction 592 604	regeneration
+T10	HealthCareActivity 592 604	regeneration
+T11	HealthCareRelatedOrganization 1385 1399	Google Scholar
+T12	CellOrMolecularDysfunction 383 396	synaptic loss
+T13	TemporalConcept 1434 1441	ongoing
+T14	TemporalConcept 524 530	course
+T15	HealthCareActivity 307 324	stem cell therapy
+T16	NaturalPhenomenonOrProcess 468 478	plasticity
+T17	CellFunction 468 478	plasticity
+T18	DiseaseOrSyndrome 12 31	Alzheimer's disease
+T19	DiseaseOrSyndrome 33 35	AD
+T20	DiseaseOrSyndrome 167 169	AD
+T21	DiseaseOrSyndrome 295 297	AD
+T22	DiseaseOrSyndrome 534 536	AD
+T23	DiseaseOrSyndrome 582 584	AD
+T24	DiseaseOrSyndrome 926 928	AD
+T25	DiseaseOrSyndrome 986 988	AD
+T26	DiseaseOrSyndrome 1303 1305	AD
+T27	DiseaseOrSyndrome 1698 1700	AD
+T28	PatientOrDisabledGroup 1701 1709	patients
+T29	BodyPartOrganOrOrganComponent 383 391	synaptic
+T30	ResearchActivity 1412 1419	Results
+T31	Finding 333 341	evidence
+T32	Eukaryote 1254 1259	human
+T33	HealthCareActivity 913 922	diagnosis
+T34	Cell 805 809	cell
+T35	Cell 842 846	cell
+T36	Cell 1106 1110	cell
+T37	Cell 370 378	neuronal
+T38	Cell 556 564	neuronal
+T39	Cell 635 643	neuronal
+T40	DiseaseOrSyndrome 1574 1600	neurodegenerative diseases
+T41	ResearchActivity 1320 1341	Peer-reviewed reports
+T42	ResearchActivity 946 952	review
+T43	HealthCareActivity 946 952	review
+T44	TemporalConcept 326 332	Recent
+T45	CellOrMolecularDysfunction 42 59	neurodegenerative
+T46	TemporalConcept 141 148	current
+T47	TemporalConcept 1093 1100	current
+T48	BiologicFunction 491 502	maintenance
+T49	Finding 993 999	normal
+T50	ResearchActivity 226 237	researchers
+T51	HealthCareActivity 1550 1560	diagnosing
+T52	PathologicFunction 1006 1021	pathophysiology
+T53	BiomedicalOccupationOrDiscipline 1006 1021	pathophysiology
+T54	DiseaseOrSyndrome 92 103	memory loss
+T55	SignOrSymptom 92 103	memory loss
+T56	BiologicFunction 415 427	neurogenesis
+T57	Cell 716 726	stem cells
+T58	Cell 1459 1469	stem cells
+T59	HealthCareActivity 149 158	therapies
+T60	HealthCareActivity 816 825	therapies
+T61	HealthCareActivity 1289 1298	therapies
+T62	HealthCareActivity 1621 1630	therapies
+T63	ResearchActivity 1655 1668	animal models
+T64	PopulationGroup 409 414	adult
+T65	BiologicFunction 1000 1005	aging
+T66	CellFunction 1000 1005	aging
+T67	CellComponent 737 744	cargoes
+T68	CellComponent 861 869	exosomes
+T69	CellComponent 1499 1507	exosomes
+T70	ResearchActivity 1208 1214	method
+T71	HealthCareActivity 1208 1214	method
+T72	Cell 800 809	stem cell
+T73	Cell 837 846	stem cell
+T74	Cell 1101 1110	stem cell
+T75	Cell 1279 1288	stem cell
+T76	Cell 1611 1620	stem cell
+T77	HealthCareRelatedOrganization 1373 1379	PubMed
+T78	HealthCareActivity 907 922	early diagnosis
+T79	ResearchActivity 967 977	comparison
+T80	PopulationGroup 483 490	network
+T81	CellFunction 483 490	network
+T82	CellFunction 737 744	cargoes
+T83	ResearchActivity 1028 1038	discussion
+T84	BiologicFunction 685 691	repair
+T85	HealthCareActivity 685 691	repair
+T86	ResearchActivity 1260 1275	clinical trials
+T87	ResearchActivity 1442 1457	clinical trials
+T88	ResearchActivity 1679 1694	clinical trials
+T89	CellFunction 644 652	networks
+T90	HealthCareActivity 268 290	therapeutic approaches
+T91	PathologicFunction 401 408;415 427	altered neurogenesis
+T92	HealthCareActivity 1117 1154	therapeutic and diagnostic approaches
+T93	HealthCareRelatedOrganization 1365 1371	Embase

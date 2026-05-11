@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 119 146	neurodegenerative disorders
+T1	PathologicFunction 75 92	neuroinflammatory
+T2	Finding 93 102	responses
+T3	Virus 0 20	Herpes Simplex Virus
+T4	Virus 0 6	Herpes
+T5	HealthCareActivity 27 45	vaccine strategies

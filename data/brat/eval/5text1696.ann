@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 112 137	neurodegenerative disease
+T1	PathologicFunction 41 58	neuroinflammation
+T2	Chemical 12 17	water
+T3	CellFunction 63 79	glial activation
+T4	EnvironmentalEffectOfHumans 12 27	water pollution
+T5	ExperimentalModelOfDisease 112 144	neurodegenerative disease models

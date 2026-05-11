@@ -1,0 +1,133 @@
+T0	AminoAcidPeptideOrProtein 0 10	Antibodies
+T1	BiologicallyActiveSubstance 0 10	Antibodies
+T2	HealthCareActivity 344 371	Immunohistochemistry assays
+T3	AminoAcidPeptideOrProtein 423 426	IgM
+T4	PharmacologicSubstance 423 426	IgM
+T5	BiologicallyActiveSubstance 423 426	IgM
+T6	AminoAcidPeptideOrProtein 446 451	Olig2
+T7	GeneOrGenome 446 451	Olig2
+T8	GeneOrGenome 461 463	NF
+T9	AminoAcidPeptideOrProtein 461 463	NF
+T10	BiologicallyActiveSubstance 465 478	neurofilament
+T11	GeneOrGenome 465 478	neurofilament
+T12	AminoAcidPeptideOrProtein 465 478	neurofilament
+T13	ResearchActivity 494 499	TUNEL
+T14	AminoAcidPeptideOrProtein 725 735	antibodies
+T15	BiologicallyActiveSubstance 725 735	antibodies
+T16	ResearchActivity 768 773	TUNEL
+T17	AminoAcidPeptideOrProtein 890 893	IgM
+T18	PharmacologicSubstance 890 893	IgM
+T19	BiologicallyActiveSubstance 890 893	IgM
+T20	AminoAcidPeptideOrProtein 1048 1058	antibodies
+T21	BiologicallyActiveSubstance 1048 1058	antibodies
+T22	Cell 1143 1150	B cells
+T23	Cell 1155 1167	plasma cells
+T24	BodyPartOrganOrOrganComponent 1187 1195	meninges
+T25	Cell 1225 1232	B cells
+T26	Cell 1237 1249	plasma cells
+T27	AminoAcidPeptideOrProtein 1286 1296	antibodies
+T28	BiologicallyActiveSubstance 1286 1296	antibodies
+T29	Cell 1362 1375	B lymphocytes
+T30	AminoAcidPeptideOrProtein 1410 1420	Antibodies
+T31	BiologicallyActiveSubstance 1410 1420	Antibodies
+T32	CellOrMolecularDysfunction 1480 1496	Oxidative stress
+T33	DiseaseOrSyndrome 1003 1006	ALS
+T34	DiseaseOrSyndrome 1534 1537	ALS
+T35	Finding 36 45	hallmarks
+T36	PatientOrDisabledGroup 276 284	MS cases
+T37	AminoAcidPeptideOrProtein 415 418	IgG
+T38	AminoAcidPeptideOrProtein 867 870	IgG
+T39	AminoAcidPeptideOrProtein 903 906	IgG
+T40	BiologicallyActiveSubstance 415 418	IgG
+T41	BiologicallyActiveSubstance 867 870	IgG
+T42	BiologicallyActiveSubstance 903 906	IgG
+T43	PharmacologicSubstance 415 418	IgG
+T44	PharmacologicSubstance 867 870	IgG
+T45	PharmacologicSubstance 903 906	IgG
+T46	CellComponent 454 459	axons
+T47	CellComponent 653 658	axons
+T48	Cell 428 444	oligodendrocytes
+T49	Cell 632 648	oligodendrocytes
+T50	DiseaseOrSyndrome 49 67	multiple sclerosis
+T51	InjuryOrPoisoning 73 80	lesions
+T52	InjuryOrPoisoning 666 673	lesions
+T53	InjuryOrPoisoning 1175 1182	lesions
+T54	InjuryOrPoisoning 1326 1333	lesions
+T55	InjuryOrPoisoning 1401 1408	lesions
+T56	BodyPartOrganOrOrganComponent 832 844	white matter
+T57	CellComponent 505 511	axonal
+T58	CellComponent 955 961	axonal
+T59	CellComponent 1075 1081	axonal
+T60	CellComponent 1459 1465	axonal
+T61	CellComponent 1517 1523	axonal
+T62	PatientOrDisabledGroup 146 154	patients
+T63	PatientOrDisabledGroup 609 617	patients
+T64	PatientOrDisabledGroup 1095 1103	patients
+T65	PatientOrDisabledGroup 1108 1116	patients
+T66	BodyPartOrganOrOrganComponent 1155 1161	plasma
+T67	BodyPartOrganOrOrganComponent 1237 1243	plasma
+T68	PopulationGroup 302 310	controls
+T69	PopulationGroup 579 587	controls
+T70	PopulationGroup 1201 1209	controls
+T71	BiologicFunction 1383 1394	development
+T72	CellFunction 1383 1394	development
+T73	ResearchActivity 365 371	assays
+T74	Substance 260 267	samples
+T75	Substance 593 600	samples
+T76	BodyPartOrganOrOrganComponent 260 267	samples
+T77	BodyPartOrganOrOrganComponent 593 600	samples
+T78	AminoAcidPeptideOrProtein 520 523	APP
+T79	AminoAcidPeptideOrProtein 777 780	APP
+T80	AminoAcidPeptideOrProtein 926 929	APP
+T81	GeneOrGenome 520 523	APP
+T82	GeneOrGenome 777 780	APP
+T83	GeneOrGenome 926 929	APP
+T84	BiologicallyActiveSubstance 520 523	APP
+T85	BiologicallyActiveSubstance 777 780	APP
+T86	BiologicallyActiveSubstance 926 929	APP
+T87	Cell 806 811	cells
+T88	Finding 180 191	specificity
+T89	DiseaseOrSyndrome 221 247	neurodegenerative diseases
+T90	CellOrMolecularDysfunction 15 31	oxidative stress
+T91	AminoAcidPeptideOrProtein 525 532	amyloid
+T92	BiologicallyActiveSubstance 525 532	amyloid
+T93	DiseaseOrSyndrome 249 251	ND
+T94	DiseaseOrSyndrome 293 295	ND
+T95	DiseaseOrSyndrome 1092 1094	ND
+T96	DiseaseOrSyndrome 972 1001	amyotrophic lateral sclerosis
+T97	Chemical 392 407	oxidized lipids
+T98	Finding 815 821	normal
+T99	Cell 484 492	cellular
+T100	Cell 1063 1071	cellular
+T101	BodyPartOrganOrOrganComponent 254 259	Brain
+T102	Cell 1439 1454	oligodendrocyte
+T103	DiseaseOrSyndrome 69 71	MS
+T104	DiseaseOrSyndrome 143 145	MS
+T105	DiseaseOrSyndrome 203 205	MS
+T106	DiseaseOrSyndrome 276 278	MS
+T107	DiseaseOrSyndrome 606 608	MS
+T108	DiseaseOrSyndrome 1105 1107	MS
+T109	DiseaseOrSyndrome 1398 1400	MS
+T110	DiseaseOrSyndrome 1476 1478	MS
+T111	AminoAcidPeptideOrProtein 525 550	amyloid precursor protein
+T112	BiologicallyActiveSubstance 525 550	amyloid precursor protein
+T113	Cell 1364 1375	lymphocytes
+T114	Finding 1274 1282	presence
+T115	AminoAcidPeptideOrProtein 543 550	protein
+T116	DiseaseOrSyndrome 320 341	neurological diseases
+T117	BiologicallyActiveSubstance 446 451	Olig2
+T118	BiologicallyActiveSubstance 461 463	NF
+T119	InjuryOrPoisoning 512 518	damage
+T120	Chemical 625 628	EO6
+T121	Chemical 409 412	EO6
+T122	Chemical 717 720	EO6
+T123	Chemical 760 763	EO6
+T124	ResearchActivity 791 796	TUNEL
+T125	PharmacologicSubstance 885 888	IgM
+T126	BiologicallyActiveSubstance 885 888	IgM
+T127	AminoAcidPeptideOrProtein 885 888	IgM
+T128	Chemical 931 934	EO6
+T129	InjuryOrPoisoning 962 968	damage
+T130	InjuryOrPoisoning 1082 1088	damage
+T131	InjuryOrPoisoning 1466 1472	damage
+T132	InjuryOrPoisoning 1524 1530	damage

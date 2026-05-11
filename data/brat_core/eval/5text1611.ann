@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 178 180	MS
+T1	PathologicFunction 135 147	inflammation
+T2	BodyPartOrganOrOrganComponent 93 112	blood-brain barrier
+T3	PathologicFunction 152 165	demyelination
+T4	Virus 0 3	EBV
+T5	Cell 39 51	immune cells
+T6	Cell 59 66	B cells

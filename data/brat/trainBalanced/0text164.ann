@@ -1,0 +1,142 @@
+T0	Chemical 0 12	Gangliosides
+T1	ResearchActivity 170 190	Clinical development
+T2	DiseaseOrSyndrome 284 287	BSE
+T3	Finding 288 294	crisis
+T4	Chemical 333 345	gangliosides
+T5	ResearchActivity 379 391	pre-clinical
+T6	BiologicFunction 495 514	Clinical experience
+T7	Chemical 532 566	monosialo-tetrahexosyl-ganglioside
+T8	Chemical 568 571	GM1
+T9	ResearchActivity 640 644	RCTs
+T10	Chemical 770 773	GM1
+T11	CellFunction 863 869	ERK1/2
+T12	Finding 903 909	stress
+T13	ResearchActivity 973 977	RCTs
+T14	Chemical 1018 1021	GM1
+T15	InjuryOrPoisoning 1089 1092	SCI
+T16	DiseaseOrSyndrome 1095 1123	disturbance of consciousness
+T17	BodyPartOrganOrOrganComponent 1130 1142	subarachnoid
+T18	PathologicFunction 1143 1153	hemorrhage
+T19	Finding 1143 1153	hemorrhage
+T20	InjuryOrPoisoning 1158 1181	craniocerebral injuries
+T21	InjuryOrPoisoning 1196 1207	head trauma
+T22	ResearchActivity 1242 1246	RCTs
+T23	Chemical 1268 1271	GM1
+T24	Chemical 1478 1490	gangliosides
+T25	PharmacologicSubstance 1478 1490	gangliosides
+T26	Chemical 1563 1566	GM1
+T27	Chemical 1773 1776	GM1
+T28	Finding 1833 1847	susceptibility
+T29	Chemical 1890 1893	GM1
+T30	Chemical 2128 2131	GM1
+T31	Chemical 2225 2228	GM1
+T32	AminoAcidPeptideOrProtein 1570 1582	amyloid beta
+T33	HealthCareActivity 442 463	therapeutic potential
+T34	TemporalConcept 2184 2191	to date
+T35	CellComponent 917 938	endoplasmic reticulum
+T36	CellFunction 1851 1860	apoptosis
+T37	TemporalConcept 1051 1056	acute
+T38	BodyPartOrganOrOrganComponent 1069 1080	spinal cord
+T39	CellFunction 699 707	survival
+T40	CellFunction 1904 1912	survival
+T41	DiseaseOrSyndrome 593 599	stroke
+T42	CellComponent 17 41	cell membrane components
+T43	CellFunction 870 885	phosphorylation
+T44	InjuryOrPoisoning 1069 1087	spinal cord injury
+T45	HealthCareActivity 761 768	placebo
+T46	HealthCareActivity 1026 1033	placebo
+T47	HealthCareActivity 1290 1297	placebo
+T48	ResearchActivity 2229 2246	clinical research
+T49	TemporalConcept 323 331	Nowadays
+T50	ResearchActivity 610 638	randomized controlled trials
+T51	HealthCareActivity 2156 2162	safety
+T52	TemporalConcept 2187 2191	date
+T53	Finding 890 899	reduction
+T54	NaturalPhenomenonOrProcess 890 899	reduction
+T55	OrganismAttribute 1976 1986	phenotypes
+T56	TemporalConcept 1632 1640	recently
+T57	SignOrSymptom 1311 1325	motor symptoms
+T58	ResearchActivity 1719 1734	clinical trials
+T59	ResearchActivity 2106 2121	clinical trials
+T60	TemporalConcept 1330 1339	long-term
+T61	TemporalConcept 1061 1068	chronic
+T62	BiologicFunction 1004 1012	recovery
+T63	HealthCareActivity 1004 1012	recovery
+T64	TemporalConcept 1004 1012	recovery
+T65	DiseaseOrSyndrome 827 835	diabetes
+T66	SignOrSymptom 1376 1383	symptom
+T67	Cell 1799 1804	cells
+T68	Cell 1919 1924	cells
+T69	HealthCareActivity 580 589	treatment
+T70	HealthCareActivity 1875 1884	treatment
+T71	ResearchActivity 580 589	treatment
+T72	ResearchActivity 1875 1884	treatment
+T73	DiseaseOrSyndrome 1461 1463	AD
+T74	Finding 957 965	evidence
+T75	Finding 1256 1264	evidence
+T76	ResearchActivity 1525 1532	studies
+T77	BodyPartOrganOrOrganComponent 66 88	central nervous system
+T78	BodyPartOrganOrOrganComponent 90 93	CNS
+T79	ResearchActivity 1925 1933	in vitro
+T80	ResearchActivity 1677 1684	in vivo
+T81	PathologicFunction 1384 1395	progression
+T82	TemporalConcept 1384 1395	progression
+T83	ResearchActivity 396 409	clinical data
+T84	ResearchActivity 2201 2205	data
+T85	DiseaseOrSyndrome 238 264	neurodegenerative diseases
+T86	DiseaseOrSyndrome 467 493	neurodegenerative diseases
+T87	PatientOrDisabledGroup 664 672	patients
+T88	PatientOrDisabledGroup 836 844	patients
+T89	PatientOrDisabledGroup 1037 1045	patients
+T90	DiseaseOrSyndrome 1689 1709	Huntington's disease
+T91	DiseaseOrSyndrome 1212 1231	Parkinson's disease
+T92	DiseaseOrSyndrome 1711 1713	HD
+T93	DiseaseOrSyndrome 1796 1798	HD
+T94	DiseaseOrSyndrome 1916 1918	HD
+T95	DiseaseOrSyndrome 2005 2007	HD
+T96	DiseaseOrSyndrome 1233 1235	PD
+T97	TemporalConcept 2193 2200	current
+T98	HealthCareActivity 206 225	replacement therapy
+T99	DiseaseOrSyndrome 1440 1459	Alzheimer's disease
+T100	ResearchActivity 2008 2014	models
+T101	Chemical 194 205	ganglioside
+T102	PharmacologicSubstance 0 12	Gangliosides
+T103	PharmacologicSubstance 194 205	ganglioside
+T104	PharmacologicSubstance 333 345	gangliosides
+T105	Finding 2286 2304	unmet medical need
+T106	InjuryOrPoisoning 1603 1614	toxic forms
+T107	TemporalConcept 316 321	1990s
+T108	Eukaryote 359 365	bovine
+T109	Finding 682 695	no difference
+T110	BiologicFunction 699 707	survival
+T111	Finding 735 756	neurological outcomes
+T112	InjuryOrPoisoning 797 823	ischemic neuronal injuries
+T113	PathologicFunction 903 909	stress
+T114	Finding 1408 1435	disease-modifying potential
+T115	CellFunction 1570 1597	amyloid beta polymerization
+T116	Finding 1661 1676	protective role
+T117	PathologicFunction 1963 1986	pathological phenotypes
+T118	Eukaryote 1998 2004	murine
+T119	ExperimentalModelOfDisease 1998 2014	murine HD models
+T120	ExperimentalModelOfDisease 1916 1924	HD cells
+T121	Finding 2021 2028	effects
+T122	BiologicallyActiveSubstance 1890 1893	GM1
+T123	BiologicallyActiveSubstance 2128 2131	GM1
+T124	BiologicallyActiveSubstance 1773 1776	GM1
+T125	BiologicallyActiveSubstance 1563 1566	GM1
+T126	BiologicallyActiveSubstance 2225 2228	GM1
+T127	BiologicallyActiveSubstance 1268 1271	GM1
+T128	BiologicallyActiveSubstance 1018 1021	GM1
+T129	BiologicallyActiveSubstance 770 773	GM1
+T130	BiologicallyActiveSubstance 568 571	GM1
+T131	BiologicallyActiveSubstance 532 566	monosialo-tetrahexosyl-ganglioside
+T132	PharmacologicSubstance 532 566	monosialo-tetrahexosyl-ganglioside
+T133	PharmacologicSubstance 770 773	GM1
+T134	PharmacologicSubstance 568 571	GM1
+T135	PharmacologicSubstance 1018 1021	GM1
+T136	PharmacologicSubstance 1563 1566	GM1
+T137	PharmacologicSubstance 1268 1271	GM1
+T138	PharmacologicSubstance 1773 1776	GM1
+T139	PharmacologicSubstance 1890 1893	GM1
+T140	PharmacologicSubstance 2128 2131	GM1
+T141	PharmacologicSubstance 2225 2228	GM1

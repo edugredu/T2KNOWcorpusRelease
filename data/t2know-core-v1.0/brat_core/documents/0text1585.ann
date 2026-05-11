@@ -1,0 +1,89 @@
+T0	BiologicFunction 703 721	cognitive function
+T1	ClinicalAttribute 793 796	BMI
+T2	Finding 799 815	high cholesterol
+T3	Finding 817 836	physical inactivity
+T4	DiseaseOrSyndrome 894 916	cardiovascular disease
+T5	DiseaseOrSyndrome 918 937	atrial fibrillation
+T6	Finding 942 961	white matter lesion
+T7	Finding 1014 1020	scores
+T8	ClinicalAttribute 1159 1162	BMI
+T9	Finding 1173 1193	white matter lesions
+T10	ClinicalAttribute 1364 1367	BMI
+T11	BodyPartOrganOrOrganComponent 1378 1381	WML
+T12	AminoAcidPeptideOrProtein 1387 1390	ROC
+T13	Finding 1446 1452	scores
+T14	Finding 1638 1665	cardiovascular risk factors
+T15	Finding 399 411	risk factors
+T16	Finding 624 636	risk factors
+T17	Finding 1653 1665	risk factors
+T18	Chemical 804 815	cholesterol
+T19	PopulationGroup 1562 1581	healthy individuals
+T20	BiologicallyActiveSubstance 804 815	cholesterol
+T21	Finding 675 689	family history
+T22	Finding 1143 1157	family history
+T23	Finding 1348 1362	family history
+T24	ClinicalAttribute 776 791	body mass index
+T25	CellOrMolecularDysfunction 27 44	Neurodegeneration
+T26	DiseaseOrSyndrome 878 886	diabetes
+T27	OrganismAttribute 1131 1134	Age
+T28	DiseaseOrSyndrome 128 147	Alzheimer's disease
+T29	DiseaseOrSyndrome 1260 1279	Alzheimer's disease
+T30	DiseaseOrSyndrome 1496 1515	Alzheimer's disease
+T31	ClinicalAttribute 1308 1318	biomarkers
+T32	PathologicFunction 1112 1121	pathology
+T33	BiomedicalOccupationOrDiscipline 1112 1121	pathology
+T34	PathologicFunction 1272 1289	disease pathology
+T35	ResearchActivity 1123 1130	Results
+T36	OrganismAttribute 647 650	age
+T37	OrganismAttribute 1411 1414	age
+T38	ResearchActivity 281 303	interventional studies
+T39	DiseaseOrSyndrome 149 151	AD
+T40	DiseaseOrSyndrome 278 280	AD
+T41	DiseaseOrSyndrome 396 398	AD
+T42	DiseaseOrSyndrome 1305 1307	AD
+T43	ClinicalAttribute 341 369	ATN-defined biomarker status
+T44	ClinicalAttribute 551 583	ATN-defined biomarker categories
+T45	ClinicalAttribute 1224 1237	ATN biomarker
+T46	ClinicalAttribute 1516 1525	biomarker
+T47	DiseaseOrSyndrome 183 191	dementia
+T48	DiseaseOrSyndrome 693 701	dementia
+T49	DiseaseOrSyndrome 1682 1690	dementia
+T50	ResearchActivity 1053 1069	ROC curve models
+T51	Finding 169 175	status
+T52	Finding 1526 1532	status
+T53	Finding 1298 1304	normal
+T54	PopulationGroup 192 203	individuals
+T55	PopulationGroup 1570 1581	individuals
+T56	BodyPartOrganOrOrganComponent 423 431	vascular
+T57	BodyPartOrganOrOrganComponent 723 731	vascular
+T58	BodyPartOrganOrOrganComponent 987 995	vascular
+T59	Finding 1150 1157	history
+T60	AminoAcidPeptideOrProtein 668 673	APOE4
+T61	AminoAcidPeptideOrProtein 1136 1141	APOE4
+T62	AminoAcidPeptideOrProtein 1424 1429	APOE4
+T63	BiologicallyActiveSubstance 668 673	APOE4
+T64	BiologicallyActiveSubstance 1136 1141	APOE4
+T65	BiologicallyActiveSubstance 1424 1429	APOE4
+T66	BiomedicalOccupationOrDiscipline 657 666	education
+T67	OrganismAttribute 652 655	sex
+T68	OrganismAttribute 1416 1419	sex
+T69	PopulationGroup 1238 1244	groups
+T70	PopulationGroup 508 520	older adults
+T71	BodyPartOrganOrOrganComponent 776 780	body
+T72	BiologicallyActiveSubstance 23 26	Tau
+T73	AminoAcidPeptideOrProtein 23 26	Tau
+T74	HealthCareActivity 1164 1168	MMSE
+T75	HealthCareActivity 1369 1373	MMSE
+T76	OrganismAttribute 488 507	cognitively healthy
+T77	OrganismAttribute 1562 1569	healthy
+T78	HealthCareActivity 15 60	Amyloid/Tau/Neurodegeneration (ATN) framework
+T79	ResearchActivity 585 616	Multinomial logistic regression
+T80	ClinicalAttribute 751 774	systolic blood pressure
+T81	Finding 746 774	high systolic blood pressure
+T82	PharmacologicSubstance 851 876	blood pressure medication
+T83	ClinicalAttribute 962 974	(WML) volume
+T84	ClinicalAttribute 1173 1193;1200 1206	white matter lesions volume
+T85	Finding 1691 1712	composite risk scores
+T86	HealthCareActivity 165 168	ATN
+T87	HealthCareActivity 1038 1041	ATN
+T88	HealthCareActivity 1484 1487	ATN

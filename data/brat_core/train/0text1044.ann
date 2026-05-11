@@ -1,0 +1,76 @@
+T0	HealthCareActivity 1130 1138	diagnose
+T1	ManufacturedObject 1235 1256	drug delivery systems
+T2	HealthCareActivity 838 856	therapeutic agents
+T3	DiseaseOrSyndrome 357 377	Huntington's disease
+T4	TemporalConcept 954 962	progress
+T5	HealthCareActivity 1343 1364	clinical applications
+T6	Cell 115 126	brain cells
+T7	DiseaseOrSyndrome 280 299	Alzheimer's disease
+T8	CellComponent 24 27	EVs
+T9	CellComponent 168 171	EVs
+T10	CellComponent 486 489	EVs
+T11	CellComponent 680 683	EVs
+T12	CellComponent 725 728	EVs
+T13	CellComponent 777 780	EVs
+T14	CellComponent 992 995	EVs
+T15	CellComponent 1195 1198	EVs
+T16	CellComponent 1368 1371	EVs
+T17	CellComponent 535 537	EV
+T18	CellComponent 1093 1095	EV
+T19	BodyPartOrganOrOrganComponent 426 448	central nervous system
+T20	BodyPartOrganOrOrganComponent 450 453	CNS
+T21	BodyPartOrganOrOrganComponent 469 472	CNS
+T22	BodyPartOrganOrOrganComponent 1010 1013	CNS
+T23	BodyPartOrganOrOrganComponent 1081 1084	CNS
+T24	DiseaseOrSyndrome 301 320	Parkinson's disease
+T25	ResearchActivity 945 953	research
+T26	ResearchActivity 1330 1338	research
+T27	ClinicalAttribute 599 609	biomarkers
+T28	ClinicalAttribute 1116 1126	biomarkers
+T29	Cell 1014 1019	cells
+T30	CellComponent 0 22	Extracellular vesicles
+T31	HealthCareActivity 618 627	diagnosis
+T32	Cell 473 477	cell
+T33	DiseaseOrSyndrome 237 263	neurodegenerative diseases
+T34	HealthCareActivity 1309 1319	challenges
+T35	ResearchActivity 918 924	review
+T36	HealthCareActivity 918 924	review
+T37	HealthCareActivity 892 901	treatment
+T38	ResearchActivity 892 901	treatment
+T39	ResearchActivity 753 772	therapeutic targets
+T40	ResearchActivity 1202 1221	therapeutic targets
+T41	TemporalConcept 1288 1295	current
+T42	PathologicFunction 213 225	pathogenesis
+T43	PathologicFunction 691 703	pathogenesis
+T44	PathologicFunction 1027 1039	pathogenesis
+T45	DiseaseOrSyndrome 322 351	amyotrophic lateral sclerosis
+T46	CellComponent 62 70	vesicles
+T47	ResearchActivity 510 529	immunoprecipitation
+T48	CellFunction 398 414	bioactive cargos
+T49	CellFunction 538 544	cargos
+T50	CellFunction 1096 1102	cargos
+T51	Finding 575 585	identified
+T52	TemporalConcept 938 944	recent
+T53	ClinicalAttribute 589 609	potential biomarkers
+T54	ClinicalAttribute 1106 1126	potential biomarkers
+T55	Finding 786 805	therapeutic effects
+T56	PharmacologicSubstance 860 864	drug
+T57	PharmacologicSubstance 1235 1239	drug
+T58	PathologicFunction 970 988	pathological roles
+T59	DiseaseOrSyndrome 265 268	NDs
+T60	DiseaseOrSyndrome 645 648	NDs
+T61	DiseaseOrSyndrome 707 710	NDs
+T62	DiseaseOrSyndrome 905 908	NDs
+T63	DiseaseOrSyndrome 1043 1046	NDs
+T64	DiseaseOrSyndrome 1139 1142	NDs
+T65	DiseaseOrSyndrome 1269 1272	NDs
+T66	DiseaseOrSyndrome 1382 1385	NDs
+T67	HealthCareActivity 632 641	prognosis
+T68	BiologicFunction 386 394	delivery
+T69	BiologicFunction 865 873	delivery
+T70	BiologicFunction 1240 1248	delivery
+T71	HealthCareActivity 860 873	drug delivery
+T72	HealthCareActivity 1235 1248	drug delivery
+T73	CellComponent 33 52	small bilipid layer
+T74	Finding 140 166	intercellular communicator
+T75	HealthCareActivity 1202 1213;1223 1229	therapeutic agents

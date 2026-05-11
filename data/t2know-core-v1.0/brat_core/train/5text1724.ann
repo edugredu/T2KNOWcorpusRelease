@@ -1,0 +1,7 @@
+T0	BodyPartOrganOrOrganComponent 92 97	brain
+T1	DiseaseOrSyndrome 116 141	neurodegenerative disease
+T2	HealthCareActivity 71 84	drug delivery
+T3	ManufacturedObject 71 84	drug delivery
+T4	HealthCareActivity 134 151	disease treatment
+T5	Organism 11 35	Saccharomyces cerevisiae
+T6	Chemical 44 57	nanoparticles

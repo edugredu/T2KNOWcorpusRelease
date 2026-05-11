@@ -1,0 +1,5 @@
+T0	Cell 7 15	neuronal
+T1	CellFunction 16 25	migration
+T2	BodyPartOrganOrOrganComponent 140 153	brain regions
+T3	BiologicFunction 109 121	connectivity
+T4	EmbryonicStructure 52 71	developmental brain

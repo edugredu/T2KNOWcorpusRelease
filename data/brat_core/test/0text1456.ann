@@ -1,0 +1,102 @@
+T0	HealthCareActivity 1792 1803	examination
+T1	HealthCareActivity 118 134	predict outcomes
+T2	Finding 1782 1791	expensive
+T3	ResearchActivity 260 269	modelling
+T4	ResearchActivity 676 685	modelling
+T5	Finding 728 736	improved
+T6	Finding 1769 1777	invasive
+T7	CellFunction 527 541	phosphorylated
+T8	DiseaseOrSyndrome 138 149	Alzheimer's
+T9	DiseaseOrSyndrome 356 367	Alzheimer's
+T10	DiseaseOrSyndrome 826 837	Alzheimer's
+T11	DiseaseOrSyndrome 1504 1515	Alzheimer's
+T12	ResearchActivity 388 431	Alzheimer's Disease Neuroimaging Initiative
+T13	HealthCareRelatedOrganization 388 431	Alzheimer's Disease Neuroimaging Initiative
+T14	ResearchActivity 1989 2003	clinical trial
+T15	PatientOrDisabledGroup 1895 1902	patient
+T16	Finding 163 185	nonlinear interactions
+T17	Finding 270 292	nonlinear interactions
+T18	Finding 686 708	nonlinear interactions
+T19	Finding 1517 1526;1537 1549	Nonlinear interactions
+T20	Finding 1867 1879	interactions
+T21	HealthCareRelatedOrganization 433 437	ADNI
+T22	ResearchActivity 433 437	ADNI
+T23	ResearchActivity 841 853	linear model
+T24	AminoAcidPeptideOrProtein 1349 1354	P-tau
+T25	BiologicallyActiveSubstance 1349 1354	P-tau
+T26	Finding 1737 1740	low
+T27	AminoAcidPeptideOrProtein 522 525	tau
+T28	AminoAcidPeptideOrProtein 542 545	tau
+T29	AminoAcidPeptideOrProtein 1351 1354	tau
+T30	DiseaseOrSyndrome 52 71	Alzheimer's disease
+T31	BodyPartOrganOrOrganComponent 494 497	CSF
+T32	BiologicallyActiveSubstance 522 525	tau
+T33	BiologicallyActiveSubstance 542 545	tau
+T34	BiologicallyActiveSubstance 1351 1354	tau
+T35	ClinicalAttribute 649 658	biomarker
+T36	ClinicalAttribute 990 999	biomarker
+T37	ClinicalAttribute 1115 1124	biomarker
+T38	ClinicalAttribute 1527 1536	biomarker
+T39	ClinicalAttribute 1903 1912	biomarker
+T40	TemporalConcept 878 889	progressive
+T41	TemporalConcept 1086 1097	progressive
+T42	PatientOrDisabledGroup 1614 1622	patients
+T43	AminoAcidPeptideOrProtein 516 525	total tau
+T44	BiologicallyActiveSubstance 516 525	total tau
+T45	AminoAcidPeptideOrProtein 527 545	phosphorylated tau
+T46	BiologicallyActiveSubstance 527 545	phosphorylated tau
+T47	BodyPartOrganOrOrganComponent 591 596	brain
+T48	ResearchActivity 439 443	data
+T49	AminoAcidPeptideOrProtein 499 514	amyloid-beta 42
+T50	AminoAcidPeptideOrProtein 1328 1335	amyloid
+T51	BiologicallyActiveSubstance 499 514	amyloid-beta 42
+T52	BiologicallyActiveSubstance 1328 1335	amyloid
+T53	DiseaseOrSyndrome 326 346	cognitive impairment
+T54	DiseaseOrSyndrome 388 407	Alzheimer's Disease
+T55	ClinicalAttribute 9 19	biomarkers
+T56	ClinicalAttribute 104 114	biomarkers
+T57	ClinicalAttribute 717 727	biomarkers
+T58	ClinicalAttribute 1447 1457	biomarkers
+T59	ClinicalAttribute 1641 1651	biomarkers
+T60	DiseaseOrSyndrome 348 351	MCI
+T61	DiseaseOrSyndrome 890 893	MCI
+T62	DiseaseOrSyndrome 1098 1101	MCI
+T63	Finding 1051 1062	sensitivity
+T64	Finding 1397 1408	sensitivity
+T65	AminoAcidPeptideOrProtein 1328 1340	amyloid-beta
+T66	PathologicFunction 304 315	progression
+T67	TemporalConcept 304 315	progression
+T68	PopulationGroup 1884 1894	individual
+T69	OrganismAttribute 1884 1894	individual
+T70	Finding 126 134	outcomes
+T71	OrganismAttribute 597 600	age
+T72	TemporalConcept 375 380	years
+T73	ResearchActivity 157 162	model
+T74	ResearchActivity 1290 1295	model
+T75	ResearchActivity 82 100	statistical models
+T76	ResearchActivity 1076 1082	models
+T77	ResearchActivity 1125 1131	models
+T78	ResearchActivity 1142 1148	models
+T79	ResearchActivity 1150 1178	nonlinear interaction models
+T80	ResearchActivity 1242 1268	two-way interaction models
+T81	HealthCareActivity 1341 1344	PET
+T82	DiseaseOrSyndrome 321 346	mild cognitive impairment
+T83	ResearchActivity 2004 2010	design
+T84	HealthCareActivity 2004 2010	design
+T85	OrganismAttribute 484 492	genotype
+T86	AminoAcidPeptideOrProtein 478 483	APOE4
+T87	BiologicallyActiveSubstance 478 483	APOE4
+T88	Finding 321 325	mild
+T89	Finding 812 822	conversion
+T90	Finding 1490 1500	conversion
+T91	ResearchActivity 1417 1420	AUC
+T92	ClinicalAttribute 568 586	hippocampal volume
+T93	ClinicalAttribute 1004 1022	hippocampal volume
+T94	ClinicalAttribute 1377 1395	hippocampal volume
+T95	ClinicalAttribute 1685 1703	hippocampal volume
+T96	ClinicalAttribute 1741 1759	hippocampal volume
+T97	Finding 1707 1711	high
+T98	ResearchActivity 224 242	Gaussian Processes
+T99	Chemical 549 566	18(F)]florbetapir
+T100	ResearchActivity 918 926	variance
+T101	HealthCareActivity 1948 1985	personalised or stratified healthcare

@@ -1,0 +1,72 @@
+T1	Cell 256 271	microglia cells
+T2	GeneOrGenome 310 355	Glycoprotein nonmetastatic melanoma protein B
+T3	BiologicallyActiveSubstance 310 355	Glycoprotein nonmetastatic melanoma protein B
+T4	AminoAcidPeptideOrProtein 310 355	Glycoprotein nonmetastatic melanoma protein B
+T5	GeneOrGenome 357 362	GPNMB
+T6	BiologicallyActiveSubstance 357 362	GPNMB
+T7	AminoAcidPeptideOrProtein 357 362	GPNMB
+T8	AminoAcidPeptideOrProtein 369 395	transmembrane glycoprotein
+T9	TemporalConcept 517 528	post-mortem
+T10	ResearchActivity 688 699	immunoassay
+T11	GeneOrGenome 813 818	GPNMB
+T12	BiologicallyActiveSubstance 813 818	GPNMB
+T13	AminoAcidPeptideOrProtein 813 818	GPNMB
+T14	GeneOrGenome 1051 1056	GPNMB
+T15	BiologicallyActiveSubstance 1051 1056	GPNMB
+T16	AminoAcidPeptideOrProtein 1051 1056	GPNMB
+T17	GeneOrGenome 1268 1273	GPNMB
+T18	BiologicallyActiveSubstance 1268 1273	GPNMB
+T19	AminoAcidPeptideOrProtein 1268 1273	GPNMB
+T20	DiseaseOrSyndrome 1120 1141	neurological diseases
+T21	PathologicFunction 189 206	neuroinflammatory
+T22	TemporalConcept 405 413	recently
+T23	TemporalConcept 134 145	progressive
+T24	ClinicalAttribute 824 843	potential biomarker
+T25	ResearchActivity 649 659	validation
+T26	DiseaseOrSyndrome 11 30	Alzheimer's disease
+T27	PatientOrDisabledGroup 575 583	patients
+T28	BodyPartOrganOrOrganComponent 766 769	CSF
+T29	BodyPartOrganOrOrganComponent 1047 1050	CSF
+T30	BodyPartOrganOrOrganComponent 1197 1200	CSF
+T31	BodyPartOrganOrOrganComponent 1277 1280	CSF
+T32	ResearchActivity 1012 1019	Results
+T33	AminoAcidPeptideOrProtein 960 967	amyloid
+T34	BiologicallyActiveSubstance 960 967	amyloid
+T35	ResearchActivity 1356 1363	studies
+T36	DiseaseOrSyndrome 32 34	AD
+T37	DiseaseOrSyndrome 548 550	AD
+T38	DiseaseOrSyndrome 848 850	AD
+T39	DiseaseOrSyndrome 1094 1096	AD
+T40	DiseaseOrSyndrome 1333 1335	AD
+T41	ClinicalAttribute 834 843	biomarker
+T42	ClinicalAttribute 897 906	biomarker
+T43	ClinicalAttribute 1320 1329	biomarker
+T44	ResearchActivity 605 610	study
+T45	ResearchActivity 1247 1252	study
+T46	BodyPartOrganOrOrganComponent 529 534	brain
+T47	PopulationGroup 1382 1401	control individuals
+T48	PopulationGroup 1100 1108	controls
+T49	AminoAcidPeptideOrProtein 1201 1205	pTau
+T50	HealthCareActivity 926 935	diagnosis
+T51	BiologicallyActiveSubstance 1201 1205	pTau
+T52	HealthCareActivity 942 954	neuroimaging
+T53	Cell 146 152	neuron
+T54	PathologicFunction 455 472	neuroinflammation
+T55	BiologicFunction 1187 1192	aging
+T56	CellFunction 1187 1192	aging
+T57	DiseaseOrSyndrome 555 574	Parkinson's disease
+T58	HealthCareActivity 1309 1319	diagnostic
+T59	PopulationGroup 868 875	cohorts
+T60	HealthCareActivity 968 996	positron emission tomography
+T61	Finding 166 174	evidence
+T62	TemporalConcept 517 521	post
+T63	HealthCareActivity 917 935	clinical diagnosis
+T64	Cell 241 251	astrocytes
+T65	Cell 256 265	microglia
+T66	OrganismAttribute 1374 1381	healthy
+T67	DiseaseOrSyndrome 41 67	neurodegenerative disorder
+T68	ClinicalAttribute 725 764	GPNMB levels in the cerebrospinal fluid
+T69	ClinicalAttribute 1047 1063	CSF GPNMB levels
+T70	ClinicalAttribute 1197 1212	CSF pTau levels
+T71	CellOrMolecularDysfunction 84 129	extracellular amyloid-beta peptide deposition
+T72	CellOrMolecularDysfunction 146 157	neuron loss

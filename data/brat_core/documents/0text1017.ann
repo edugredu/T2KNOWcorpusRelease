@@ -1,0 +1,126 @@
+T0	ResearchActivity 227 238	measurement
+T1	HealthCareActivity 227 238	measurement
+T2	BiomedicalOccupationOrDiscipline 239 251	technologies
+T3	AminoAcidPeptideOrProtein 592 595	Ass
+T4	Chemical 882 897	ganglioside GM1
+T5	AminoAcidPeptideOrProtein 907 930	cholera toxin B subunit
+T6	ManufacturedObject 948 962	magnetic beads
+T7	PopulationGroup 1050 1060	individual
+T8	OrganismAttribute 1050 1060	individual
+T9	AminoAcidPeptideOrProtein 1584 1587	Ass
+T10	Finding 1588 1601	accumulations
+T11	AminoAcidPeptideOrProtein 1704 1707	Ass
+T12	BiologicallyActiveSubstance 1724 1727	Ass
+T13	NaturalPhenomenonOrProcess 546 557	degradation
+T14	Finding 839 845	intact
+T15	PopulationGroup 1529 1541	12-month-old
+T16	PharmacologicSubstance 501 506	agent
+T17	ResearchActivity 672 698	highly sensitive technique
+T18	AminoAcidPeptideOrProtein 1227 1230	APP
+T19	AminoAcidPeptideOrProtein 1251 1254	APP
+T20	AminoAcidPeptideOrProtein 1270 1273	APP
+T21	AminoAcidPeptideOrProtein 1409 1412	APP
+T22	GeneOrGenome 1227 1230	APP
+T23	GeneOrGenome 1251 1254	APP
+T24	GeneOrGenome 1270 1273	APP
+T25	GeneOrGenome 1409 1412	APP
+T26	BiologicallyActiveSubstance 1227 1230	APP
+T27	BiologicallyActiveSubstance 1251 1254	APP
+T28	BiologicallyActiveSubstance 1270 1273	APP
+T29	BiologicallyActiveSubstance 1409 1412	APP
+T30	PathologicFunction 1569 1580	progression
+T31	TemporalConcept 1569 1580	progression
+T32	DiseaseOrSyndrome 47 66	Alzheimer's disease
+T33	CellComponent 295 298	EVs
+T34	CellComponent 458 461	EVs
+T35	CellComponent 578 581	EVs
+T36	CellComponent 722 725	EVs
+T37	CellComponent 846 849	EVs
+T38	CellComponent 859 862	EVs
+T39	CellComponent 1061 1064	EVs
+T40	CellComponent 1176 1179	EVs
+T41	CellComponent 1367 1370	EVs
+T42	CellComponent 1485 1488	EVs
+T43	CellComponent 1690 1693	EVs
+T44	CellComponent 1808 1811	EVs
+T45	DiseaseOrSyndrome 68 70	AD
+T46	DiseaseOrSyndrome 498 500	AD
+T47	DiseaseOrSyndrome 1855 1857	AD
+T48	BodyPartOrganOrOrganComponent 1492 1497	blood
+T49	Cell 359 364	cells
+T50	Cell 1246 1249;1260 1265	N2a cells
+T51	Cell 1413 1422	N2a cells
+T52	CellComponent 623 625	EV
+T53	BodyPartOrganOrOrganComponent 1679 1689	peripheral
+T54	AminoAcidPeptideOrProtein 470 488	amyloid-ss protein
+T55	BiologicallyActiveSubstance 470 488	amyloid-ss protein
+T56	BodyPartOrganOrOrganComponent 1290 1294	sera
+T57	BodyPartOrganOrOrganComponent 1427 1431	sera
+T58	CellFunction 1038 1045	signals
+T59	CellComponent 271 293	Extracellular vesicles
+T60	Finding 596 608	accumulation
+T61	BodyPartOrganOrOrganComponent 616 621	brain
+T62	BodyPartOrganOrOrganComponent 1609 1614	brain
+T63	ClinicalAttribute 195 216	detectable biomarkers
+T64	Eukaryote 1221 1226	human
+T65	ResearchActivity 1274 1289	transgenic mice
+T66	Eukaryote 1542 1546	mice
+T67	Eukaryote 1738 1742	mice
+T68	Cell 530 541	glial cells
+T69	ResearchActivity 747 752	study
+T70	CellFunction 512 521	transport
+T71	ManufacturedObject 512 521	transport
+T72	ResearchActivity 1728 1734	burden
+T73	HealthCareActivity 1858 1867	diagnosis
+T74	ClinicalAttribute 1829 1838	biomarker
+T75	ResearchActivity 1296 1303	Results
+T76	OrganismAttribute 626 639	heterogeneity
+T77	CellComponent 304 331	nanosized membrane vesicles
+T78	ResearchActivity 1795 1804	detection
+T79	NucleicAcidNucleosideOrNucleotide 983 1002	DNA oligonucleotide
+T80	ExperimentalModelOfDisease 1435 1448	AD model mice
+T81	ExperimentalModelOfDisease 1618 1631	AD model mice
+T82	CellFunction 393 416	cell-cell communication
+T83	Finding 165 183	minimally invasive
+T84	HealthCareActivity 1795 1804	detection
+T85	Chemical 1161 1164	GM1
+T86	Chemical 1352 1355	GM1
+T87	Chemical 1712 1715	GM1
+T88	Substance 1385 1405	culture supernatants
+T89	ClinicalAttribute 26 43	preclinical stage
+T90	HealthCareActivity 101 119	early intervention
+T91	Chemical 437 448	ganglioside
+T92	PharmacologicSubstance 437 448	ganglioside
+T93	BiologicallyActiveSubstance 592 595	Ass
+T94	Substance 729 737	biofluid
+T95	ResearchActivity 754 792	immuno-digital invasive cleavage assay
+T96	ResearchActivity 794 799	idICA
+T97	InjuryOrPoisoning 907 930	cholera toxin B subunit
+T98	InjuryOrPoisoning 932 935	CTB
+T99	AminoAcidPeptideOrProtein 932 935	CTB
+T100	BiologicallyActiveSubstance 983 1023	DNA oligonucleotide-labeled Ass antibody
+T101	NaturalPhenomenonOrProcess 1025 1037	Fluorescence
+T102	ResearchActivity 1092 1115	invasive cleavage assay
+T103	ResearchActivity 1117 1120	ICA
+T104	ResearchActivity 1128 1133	idICA
+T105	AminoAcidPeptideOrProtein 1147 1150	Ass
+T106	BiologicallyActiveSubstance 1147 1150	Ass
+T107	Substance 1198 1217	culture supernatant
+T108	ResearchActivity 1308 1313	idICA
+T109	AminoAcidPeptideOrProtein 1338 1341	Ass
+T110	BiologicallyActiveSubstance 1338 1341	Ass
+T111	ResearchActivity 1454 1459	idICA
+T112	BiologicallyActiveSubstance 1584 1587	Ass
+T113	BiologicallyActiveSubstance 1704 1707	Ass
+T114	AminoAcidPeptideOrProtein 1724 1727	Ass
+T115	ResearchActivity 1748 1753	idICA
+T116	Cell 418 424	Neuron
+T117	PharmacologicSubstance 882 897	ganglioside GM1
+T118	BiologicallyActiveSubstance 882 897	ganglioside GM1
+T119	BiologicallyActiveSubstance 1161 1164	GM1
+T120	PharmacologicSubstance 1161 1164	GM1
+T121	PharmacologicSubstance 1352 1355	GM1
+T122	BiologicallyActiveSubstance 1352 1355	GM1
+T123	BiologicallyActiveSubstance 1712 1715	GM1
+T124	PharmacologicSubstance 1712 1715	GM1
+T125	BiologicallyActiveSubstance 437 448	ganglioside

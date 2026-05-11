@@ -1,0 +1,126 @@
+T0	AminoAcidPeptideOrProtein 90 117	Neurofilament light protein
+T1	BiologicallyActiveSubstance 90 117	Neurofilament light protein
+T2	Cell 225 244	Reactive astrocytes
+T3	BodyPartOrganOrOrganComponent 755 761	Plasma
+T4	ResearchActivity 832 837	Simoa
+T5	Finding 888 899	consistency
+T6	PopulationGroup 1049 1056	Chinese
+T7	PopulationGroup 1069 1077	carriers
+T8	ResearchActivity 1102 1112	correlated
+T9	ResearchActivity 1182 1192	correlated
+T10	Finding 1214 1231	Total Motor Score
+T11	Finding 1279 1285	scores
+T12	HealthCareActivity 1366 1395	Problem Behaviors Assessments
+T13	HealthCareActivity 1397 1401	PBAs
+T14	ResearchActivity 1415 1425	correlated
+T15	TemporalConcept 1524 1529	stage
+T16	TemporalConcept 1583 1588	stage
+T17	BodyPartOrganOrOrganComponent 1604 1610	Plasma
+T18	ResearchActivity 1620 1630	correlated
+T19	PopulationGroup 1692 1700	carriers
+T20	BodyPartOrganOrOrganComponent 1702 1708	Plasma
+T21	CellFunction 43 61	autosomal dominant
+T22	AminoAcidPeptideOrProtein 383 414	glial fibrillary acidic protein
+T23	BiologicallyActiveSubstance 383 414	glial fibrillary acidic protein
+T24	AminoAcidPeptideOrProtein 416 420	GFAP
+T25	AminoAcidPeptideOrProtein 770 774	GFAP
+T26	AminoAcidPeptideOrProtein 1014 1018	GFAP
+T27	AminoAcidPeptideOrProtein 1450 1454	GFAP
+T28	AminoAcidPeptideOrProtein 1543 1547	GFAP
+T29	AminoAcidPeptideOrProtein 1611 1615	GFAP
+T30	AminoAcidPeptideOrProtein 1709 1713	GFAP
+T31	BiologicallyActiveSubstance 416 420	GFAP
+T32	BiologicallyActiveSubstance 770 774	GFAP
+T33	BiologicallyActiveSubstance 1014 1018	GFAP
+T34	BiologicallyActiveSubstance 1450 1454	GFAP
+T35	BiologicallyActiveSubstance 1543 1547	GFAP
+T36	BiologicallyActiveSubstance 1611 1615	GFAP
+T37	BiologicallyActiveSubstance 1709 1713	GFAP
+T38	GeneOrGenome 416 420	GFAP
+T39	GeneOrGenome 770 774	GFAP
+T40	GeneOrGenome 1014 1018	GFAP
+T41	GeneOrGenome 1450 1454	GFAP
+T42	GeneOrGenome 1543 1547	GFAP
+T43	GeneOrGenome 1611 1615	GFAP
+T44	GeneOrGenome 1709 1713	GFAP
+T45	ResearchActivity 1198 1212	disease burden
+T46	ResearchActivity 1648 1662	disease burden
+T47	CellFunction 53 61	dominant
+T48	HealthCareActivity 717 722	UHDRS
+T49	ClinicalAttribute 143 160	clinical severity
+T50	ClinicalAttribute 434 451	clinical severity
+T51	ClinicalAttribute 622 639	clinical severity
+T52	ClinicalAttribute 927 944	clinical severity
+T53	PopulationGroup 205 223	Chinese population
+T54	HealthCareActivity 1310 1339	symbol digit modalities tests
+T55	BodyPartOrganOrOrganComponent 986 992	plasma
+T56	BodyPartOrganOrOrganComponent 1431 1437	plasma
+T57	BodyPartOrganOrOrganComponent 1488 1494	plasma
+T58	BodyPartOrganOrOrganComponent 1536 1542	plasma
+T59	BodyPartOrganOrOrganComponent 1636 1642	plasma
+T60	PathologicFunction 263 272	pathology
+T61	BiomedicalOccupationOrDiscipline 263 272	pathology
+T62	ResearchActivity 945 952	Results
+T63	ResearchActivity 745 753	analyzed
+T64	CellOrMolecularDysfunction 496 504	mutation
+T65	CellOrMolecularDysfunction 1060 1068	mutation
+T66	CellOrMolecularDysfunction 1683 1691	mutation
+T67	HealthCareActivity 674 715	Unified Huntington's Disease Rating Scale
+T68	HealthCareActivity 1233 1236	TMS
+T69	HealthCareActivity 1664 1667	TMS
+T70	HealthCareActivity 1269 1272	TFC
+T71	HealthCareActivity 1673 1676	TFC
+T72	Cell 234 244	astrocytes
+T73	PathologicFunction 329 340	progression
+T74	PathologicFunction 1779 1790	progression
+T75	TemporalConcept 329 340	progression
+T76	TemporalConcept 1779 1790	progression
+T77	ResearchActivity 180 184	data
+T78	ResearchActivity 601 617	Demographic data
+T79	PopulationGroup 568 584	healthy controls
+T80	PopulationGroup 968 984	healthy controls
+T81	PopulationGroup 1470 1486	healthy controls
+T82	PatientOrDisabledGroup 455 463	patients
+T83	DiseaseOrSyndrome 11 31	Huntington's disease
+T84	DiseaseOrSyndrome 33 35	HD
+T85	DiseaseOrSyndrome 164 166	HD
+T86	DiseaseOrSyndrome 260 262	HD
+T87	DiseaseOrSyndrome 326 328	HD
+T88	DiseaseOrSyndrome 469 471	HD
+T89	DiseaseOrSyndrome 493 495	HD
+T90	DiseaseOrSyndrome 1057 1059	HD
+T91	DiseaseOrSyndrome 1407 1409	HD
+T92	DiseaseOrSyndrome 1680 1682	HD
+T93	DiseaseOrSyndrome 1776 1778	HD
+T94	ClinicalAttribute 313 322	biomarker
+T95	ClinicalAttribute 1741 1760	sensitive biomarker
+T96	BiologicallyActiveSubstance 119 122	NfL
+T97	BiologicallyActiveSubstance 762 765	NfL
+T98	BiologicallyActiveSubstance 993 996	NfL
+T99	BiologicallyActiveSubstance 1438 1441	NfL
+T100	BiologicallyActiveSubstance 1495 1498	NfL
+T101	BiologicallyActiveSubstance 1643 1646	NfL
+T102	AminoAcidPeptideOrProtein 119 122	NfL
+T103	AminoAcidPeptideOrProtein 762 765	NfL
+T104	AminoAcidPeptideOrProtein 993 996	NfL
+T105	AminoAcidPeptideOrProtein 1438 1441	NfL
+T106	AminoAcidPeptideOrProtein 1495 1498	NfL
+T107	AminoAcidPeptideOrProtein 1643 1646	NfL
+T108	DiseaseOrSyndrome 62 88	neurodegenerative disorder
+T109	ResearchActivity 910 921	correlation
+T110	PopulationGroup 505 513	carriers
+T111	PatientOrDisabledGroup 518 532	premanifest HD
+T112	PatientOrDisabledGroup 534 539	preHD
+T113	PatientOrDisabledGroup 548 559	manifest HD
+T114	BodyPartOrganOrOrganComponent 377 382	blood
+T115	ResearchActivity 799 830;858 868	ultra-sensitive single-molecule technology
+T116	ClinicalAttribute 986 996	plasma NfL
+T117	ClinicalAttribute 1014 1018;986 992	GFAP plasma
+T118	HealthCareActivity 1242 1267	Total Functional Capacity
+T119	HealthCareActivity 1289 1308	Stroop word reading
+T120	ClinicalAttribute 1431 1441	plasma NfL
+T121	ClinicalAttribute 1488 1498	plasma NfL
+T122	ClinicalAttribute 1536 1547	plasma GFAP
+T123	ClinicalAttribute 1604 1615	Plasma GFAP
+T124	ClinicalAttribute 1636 1646	plasma NfL
+T125	ClinicalAttribute 1702 1713	Plasma GFAP

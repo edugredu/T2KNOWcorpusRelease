@@ -1,0 +1,58 @@
+T0	AminoAcidPeptideOrProtein 170 196	ceramide transport protein
+T1	AminoAcidPeptideOrProtein 198 202	CERT
+T2	CellComponent 263 284	endoplasmic reticulum
+T3	CellComponent 298 312	multivesicular
+T4	CellComponent 313 321	endosome
+T5	MolecularSequence 389 398	PH domain
+T6	CellComponent 438 447	endosomes
+T7	MolecularSequence 494 506	START domain
+T8	AminoAcidPeptideOrProtein 510 514	CERT
+T9	AminoAcidPeptideOrProtein 548 562	Tsg101 protein
+T10	CellFunction 659 680	ceramide biosynthesis
+T11	CellFunction 720 734	Overexpression
+T12	CellFunction 738 742	CERT
+T13	Chemical 847 861	sphingomyelins
+T14	AminoAcidPeptideOrProtein 847 861	sphingomyelins
+T15	CellComponent 913 917	CERT
+T16	HealthCareActivity 154 160	report
+T17	ResearchActivity 154 160	report
+T18	Chemical 64 76	sphingolipid
+T19	Chemical 936 948	sphingolipid
+T20	CellComponent 286 288	ER
+T21	CellFunction 753 765	EV secretion
+T22	CellFunction 776 786	inhibition
+T23	CellComponent 17 39	extracellular vesicles
+T24	CellComponent 41 44	EVs
+T25	CellComponent 865 868	EVs
+T26	CellComponent 979 982	EVs
+T27	CellComponent 753 755	EV
+T28	CellComponent 795 797	EV
+T29	CellFunction 4 39	formation of extracellular vesicles
+T30	CellFunction 795 807	EV formation
+T31	CellFunction 215 238	non-vesicular transport
+T32	Chemical 833 842	ceramides
+T33	BiologicFunction 645 655	Inhibition
+T34	CellFunction 645 655	Inhibition
+T35	CellFunction 965 975	biogenesis
+T36	CellFunction 96 103	pathway
+T37	CellFunction 1012 1035	ESCRT-dependent pathway
+T38	Chemical 77 85	ceramide
+T39	Chemical 242 250	ceramide
+T40	Chemical 530 538	ceramide
+T41	Chemical 996 1004	ceramide
+T42	BiologicallyActiveSubstance 77 85	ceramide
+T43	BiologicallyActiveSubstance 242 250	ceramide
+T44	BiologicallyActiveSubstance 530 538	ceramide
+T45	BiologicallyActiveSubstance 996 1004	ceramide
+T46	BiologicallyActiveSubstance 833 842	ceramides
+T47	BiologicallyActiveSubstance 170 196	ceramide transport protein
+T48	BiologicallyActiveSubstance 198 202	CERT
+T49	BiologicallyActiveSubstance 382 386	CERT
+T50	AminoAcidPeptideOrProtein 382 386	CERT
+T51	BiologicallyActiveSubstance 510 514	CERT
+T52	CellComponent 585 633	endosomal sorting complex required for transport
+T53	CellComponent 635 642	ESCRT-I
+T54	CellComponent 689 708	CERT-Tsg101 complex
+T55	Chemical 404 408	PI4P
+T56	AminoAcidPeptideOrProtein 422 434	PI4KII alpha
+T57	BiologicallyActiveSubstance 422 434	PI4KII alpha

@@ -1,0 +1,10 @@
+T0	BiologicFunction 31 44	understanding
+T1	DiseaseOrSyndrome 100 102	MS
+T2	ResearchActivity 8 16	research
+T3	HealthCareActivity 129 161	potential therapeutic strategies
+T4	PathologicFunction 209 235	progression of the disease
+T5	TemporalConcept 0 7	Ongoing
+T6	Virus 78 81	EBV
+T7	BiologicFunction 103 114	development
+T8	CellFunction 103 114	development
+T9	Virus 178 183	virus

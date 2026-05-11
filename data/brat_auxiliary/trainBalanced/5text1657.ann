@@ -1,0 +1,6 @@
+T0	BodyPartOrganOrOrganComponent 81 88	tissues
+T1	BodyPartOrganOrOrganComponent 93 99	organs
+T2	Cell 37 52	cell population
+T3	BiologicFunction 118 139	embryonic development
+T4	EmbryonicStructure 4 16	neural crest
+T5	BiologicFunction 107 139	vertebrate embryonic development

@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 105 132	neurodegenerative disorders
+T1	TemporalConcept 133 141	progress
+T2	BiologicFunction 61 71	adaptation
+T3	MachineActivity 32 42	ASR models
+T4	Finding 75 82	changes
+T5	BiologicFunction 86 101	speech patterns

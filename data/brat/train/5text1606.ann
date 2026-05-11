@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 30 32	MS
+T1	DiseaseOrSyndrome 195 197	MS
+T2	PopulationGroup 76 82	cohort
+T3	TemporalConcept 115 120	young
+T4	TemporalConcept 211 217	period
+T5	PopulationGroup 121 127	adults
+T6	Virus 46 64	Epstein-Barr virus
+T7	Virus 66 69	EBV

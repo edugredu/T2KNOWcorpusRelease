@@ -1,0 +1,100 @@
+T0	CellFunction 21 34	remyelination
+T1	DiseaseOrSyndrome 38 60	demyelinating diseases
+T2	DiseaseOrSyndrome 70 88	multiple sclerosis
+T3	Cell 110 141	oligodendrocyte precursor cells
+T4	Cell 143 147	OPCs
+T5	Cell 171 194	mature oligodendrocytes
+T6	Cell 196 199	OLs
+T7	AminoAcidPeptideOrProtein 339 350	Rho GTPases
+T8	BiologicallyActiveSubstance 339 350	Rho GTPases
+T9	CellComponent 414 428	neuronal axons
+T10	CellComponent 454 467	myelin sheath
+T11	Finding 519 537	protective effects
+T12	CellFunction 254 272	OL differentiation
+T13	CellFunction 277 294	myelin remodeling
+T14	ResearchActivity 327 337	treatments
+T15	HealthCareActivity 327 337	treatments
+T16	Chemical 541 549	catalpol
+T17	InjuryOrPoisoning 553 573	demyelination damage
+T18	AminoAcidPeptideOrProtein 585 620	myelin oligodendrocyte glycoprotein
+T19	BiologicallyActiveSubstance 585 620	myelin oligodendrocyte glycoprotein
+T20	AminoAcidPeptideOrProtein 622 625	MOG
+T21	BiologicallyActiveSubstance 622 625	MOG
+T22	AminoAcidPeptideOrProtein 767 770	MOG
+T23	BiologicallyActiveSubstance 767 770	MOG
+T24	ExperimentalModelOfDisease 779 820	experimental autoimmune encephalomyelitis
+T25	ExperimentalModelOfDisease 822 825	EAE
+T26	ExperimentalModelOfDisease 827 855	mouse model of demyelination
+T27	Chemical 874 882	catalpol
+T28	CellFunction 906 920	OL development
+T29	AminoAcidPeptideOrProtein 952 980	glutathione S-transferase pi
+T30	BiologicallyActiveSubstance 952 980	glutathione S-transferase pi
+T31	AminoAcidPeptideOrProtein 982 988	GST-pi
+T32	BiologicallyActiveSubstance 982 988	GST-pi
+T33	BodyPartOrganOrOrganComponent 1006 1011	brain
+T34	ResearchActivity 1016 1040	Luxol fast blue staining
+T35	AminoAcidPeptideOrProtein 1045 1065	myelin basic protein
+T36	BiologicallyActiveSubstance 1045 1065	myelin basic protein
+T37	GeneOrGenome 1067 1070	MBP
+T38	AminoAcidPeptideOrProtein 1067 1070	MBP
+T39	BiologicallyActiveSubstance 1067 1070	MBP
+T40	CellFunction 1072 1082	expression
+T41	ResearchActivity 1083 1093	assessment
+T42	HealthCareActivity 1083 1093	assessment
+T43	Chemical 1095 1103	catalpol
+T44	CellFunction 1126 1140	MBP expression
+T45	CellFunction 1153 1166	myelin repair
+T46	Chemical 1181 1189	catalpol
+T47	CellFunction 1199 1217	OL differentiation
+T48	CellFunction 1238 1250	upregulation
+T49	AminoAcidPeptideOrProtein 1254 1259	Cdc42
+T50	BiologicallyActiveSubstance 1254 1259	Cdc42
+T51	GeneOrGenome 1254 1259	Cdc42
+T52	AminoAcidPeptideOrProtein 1260 1264	Rac1
+T53	BiologicallyActiveSubstance 1260 1264	Rac1
+T54	GeneOrGenome 1260 1264	Rac1
+T55	ResearchActivity 1291 1298	in vivo
+T56	Chemical 1393 1401	catalpol
+T57	Chemical 1422 1430	catalpol
+T58	DiseaseOrSyndrome 1442 1475	clinical neurological dysfunction
+T59	Cell 1542 1552	Treg cells
+T60	PathologicFunction 1569 1582	demyelination
+T61	ResearchActivity 1597 1602	study
+T62	Chemical 1631 1639	catalpol
+T63	CellFunction 1652 1665	OL generation
+T64	CellFunction 1670 1681	myelination
+T65	CellFunction 1735 1759	GEF-Cdc42/Rac1 signaling
+T66	CellFunction 1760 1770	expression
+T67	CellFunction 1775 1785	activation
+T68	PathologicFunction 1487 1512	inflammatory infiltration
+T69	Chemical 1798 1806	catalpol
+T70	DiseaseOrSyndrome 1868 1890	demyelinating diseases
+T71	PharmacologicSubstance 1822 1826	drug
+T72	AminoAcidPeptideOrProtein 1313 1317	PAK1
+T73	BiologicallyActiveSubstance 1313 1317	PAK1
+T74	GeneOrGenome 1313 1317	PAK1
+T75	AminoAcidPeptideOrProtein 1318 1328	MRCK alpha
+T76	BiologicallyActiveSubstance 1318 1328	MRCK alpha
+T77	AminoAcidPeptideOrProtein 1353 1358	Cdc42
+T78	AminoAcidPeptideOrProtein 1359 1363	Rac1
+T79	BiologicallyActiveSubstance 1353 1358	Cdc42
+T80	BiologicallyActiveSubstance 1359 1363	Rac1
+T81	GeneOrGenome 1353 1358	Cdc42
+T82	GeneOrGenome 1359 1363	Rac1
+T83	TemporalConcept 1610 1615	first
+T84	CellFunction 1265 1275	expression
+T85	CellFunction 1280 1290	activation
+T86	CellFunction 667 699	GEF-Cdc42/Rac1 signaling pathway
+T87	Chemical 750 758	catalpol
+T88	BiologicFunction 399 410	development
+T89	CellFunction 399 410	development
+T90	Finding 732 738	effect
+T91	ResearchActivity 1855 1864	treatment
+T92	HealthCareActivity 1855 1864	treatment
+T93	BiologicFunction 719 731	regeneration
+T94	CellFunction 938 948	expression
+T95	ResearchActivity 481 486	study
+T96	TemporalConcept 473 480	current
+T97	Finding 368 383	important roles
+T98	PathologicFunction 208 221	demyelinating
+T99	AminoAcidPeptideOrProtein 1330 1338	proteins

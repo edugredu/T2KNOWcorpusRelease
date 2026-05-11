@@ -1,0 +1,98 @@
+T0	GeneOrGenome 227 256	apolipoprotein E gene variant
+T1	ResearchActivity 382 394	pre-clinical
+T2	PathologicFunction 440 452	neurotrophic
+T3	GeneOrGenome 669 685	epsilon 4 allele
+T4	PathologicFunction 736 748	neurotrophic
+T5	PathologicFunction 906 918	neurotrophic
+T6	AminoAcidPeptideOrProtein 1011 1020	synuclein
+T7	BiologicallyActiveSubstance 1011 1020	synuclein
+T8	AminoAcidPeptideOrProtein 1005 1020	alpha-synuclein
+T9	BiologicallyActiveSubstance 1005 1020	alpha-synuclein
+T10	PatientOrDisabledGroup 523 543	cognitively impaired
+T11	Finding 1170 1180	alteration
+T12	PopulationGroup 564 576	participants
+T13	PopulationGroup 873 885	participants
+T14	CellComponent 24 46	extracellular vesicles
+T15	DiseaseOrSyndrome 305 324	Alzheimer's disease
+T16	CellComponent 48 51	EVs
+T17	CellComponent 220 223	EVs
+T18	CellComponent 493 496	EVs
+T19	DiseaseOrSyndrome 326 328	AD
+T20	DiseaseOrSyndrome 395 397	AD
+T21	DiseaseOrSyndrome 1064 1066	AD
+T22	DiseaseOrSyndrome 1319 1321	AD
+T23	DiseaseOrSyndrome 548 556	dementia
+T24	ClinicalAttribute 923 943	inflammatory markers
+T25	Cell 83 89	neuron
+T26	BodyPartOrganOrOrganComponent 511 517	plasma
+T27	BodyPartOrganOrOrganComponent 826 832	plasma
+T28	ResearchActivity 887 894	Results
+T29	BodyPartOrganOrOrganComponent 17 22	brain
+T30	BodyPartOrganOrOrganComponent 142 147	brain
+T31	ClinicalAttribute 1299 1314	early biomarker
+T32	PathologicFunction 290 301	progression
+T33	TemporalConcept 290 301	progression
+T34	BodyPartOrganOrOrganComponent 482 492	peripheral
+T35	TemporalConcept 1086 1091	onset
+T36	ResearchActivity 172 179	studies
+T37	Finding 282 286	risk
+T38	AminoAcidPeptideOrProtein 606 610	APOE
+T39	GeneOrGenome 1098 1112	APOE epsilon 4
+T40	TemporalConcept 1069 1074	years
+T41	GeneOrGenome 258 272	APOE epsilon 4
+T42	BiologicallyActiveSubstance 606 610	APOE
+T43	GeneOrGenome 642 656	APOE epsilon 4
+T44	GeneOrGenome 970 984	APOE epsilon 4
+T45	GeneOrGenome 1209 1223	APOE epsilon 4
+T46	DiseaseOrSyndrome 558 562	CIND
+T47	DiseaseOrSyndrome 868 872	CIND
+T48	DiseaseOrSyndrome 1116 1120	CIND
+T49	BodyPartOrganOrOrganComponent 156 165	periphery
+T50	AminoAcidPeptideOrProtein 470 478	proteins
+T51	AminoAcidPeptideOrProtein 771 779	proteins
+T52	CellOrMolecularDysfunction 717 734	neurodegenerative
+T53	Cell 90 94	glia
+T54	CellFunction 120 129	crosstalk
+T55	PathologicFunction 428 438	pathogenic
+T56	PathologicFunction 753 770	neuroinflammatory
+T57	Finding 857 863	normal
+T58	PopulationGroup 1121 1132	individuals
+T59	AminoAcidPeptideOrProtein 258 262	APOE
+T60	AminoAcidPeptideOrProtein 642 646	APOE
+T61	AminoAcidPeptideOrProtein 689 693	APOE
+T62	AminoAcidPeptideOrProtein 970 974	APOE
+T63	AminoAcidPeptideOrProtein 1098 1102	APOE
+T64	BiologicallyActiveSubstance 258 262	APOE
+T65	GeneOrGenome 642 646	APOE
+T66	GeneOrGenome 258 262	APOE
+T67	GeneOrGenome 364 378	APOE epsilon 4
+T68	GeneOrGenome 606 620	APOE epsilon 4
+T69	BiologicallyActiveSubstance 689 693	APOE
+T70	GeneOrGenome 970 974	APOE
+T71	GeneOrGenome 1098 1102	APOE
+T72	CellFunction 193 200	pathway
+T73	CellFunction 1198 1205	pathway
+T74	Finding 845 863	cognitively normal
+T75	Finding 632 640	presence
+T76	CellFunction 1188 1205	endosomal pathway
+T77	PathologicFunction 201 212	dysfunction
+T78	GeneOrGenome 606 610	APOE
+T79	CellComponent 498 502	pEVs
+T80	BiologicallyActiveSubstance 642 646	APOE
+T81	BiologicallyActiveSubstance 227 243	apolipoprotein E
+T82	AminoAcidPeptideOrProtein 227 243	apolipoprotein E
+T83	PathologicFunction 457 469	inflammatory
+T84	Finding 597 604	absence
+T85	CellComponent 799 803	pEVs
+T86	PathologicFunction 923 935	inflammatory
+T87	ClinicalAttribute 906 918;936 943	neurotrophic markers
+T88	CellComponent 960 964	pEVs
+T89	AminoAcidPeptideOrProtein 993 1004	pentraxin-2
+T90	BiologicallyActiveSubstance 993 1004	pentraxin-2
+T91	ClinicalAttribute 993 1026	pentraxin-2/alpha-synuclein ratio
+T92	CellComponent 1039 1043	pEVs
+T93	BiologicallyActiveSubstance 970 974	APOE
+T94	BiologicallyActiveSubstance 1098 1102	APOE
+T95	CellComponent 1236 1240	pEVs
+T96	ClinicalAttribute 1241 1274	pentraxin-2/alpha-synuclein ratio
+T97	Finding 1322 1336	susceptibility

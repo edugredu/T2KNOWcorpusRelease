@@ -1,0 +1,83 @@
+T0	CellFunction 104 121	neural protection
+T1	DiseaseOrSyndrome 275 303	neurodevelopmental disorders
+T2	BodyPartOrganOrOrganComponent 445 456	parenchymal
+T3	AminoAcidPeptideOrProtein 528 558	Hepatoma Derived Growth Factor
+T4	BiologicallyActiveSubstance 528 558	Hepatoma Derived Growth Factor
+T5	HealthCareActivity 867 899	intracerebroventricular infusion
+T6	HealthCareActivity 228 248	therapeutic approach
+T7	BodyPartOrganOrOrganComponent 436 439	SVZ
+T8	BodyPartOrganOrOrganComponent 621 624	SVZ
+T9	BodyPartOrganOrOrganComponent 956 959	SVZ
+T10	BodyPartOrganOrOrganComponent 1056 1059	SVZ
+T11	Cell 186 202	oligodendrocytes
+T12	Cell 329 345	oligodendrocytes
+T13	Cell 816 832	oligodendrocytes
+T14	Cell 0 16	Oligodendrocytes
+T15	Cell 490 494	OPCs
+T16	Cell 774 778	OPCs
+T17	Cell 791 794	OPC
+T18	Cell 977 980	OPC
+T19	Cell 457 488	oligodendrocyte precursor cells
+T20	Cell 402 406	NPCs
+T21	Cell 625 629	NPCs
+T22	Cell 765 769	NPCs
+T23	Cell 960 964	NPCs
+T24	CellFunction 795 810	differentiation
+T25	CellFunction 1109 1124	differentiation
+T26	CellFunction 791 810	OPC differentiation
+T27	CellFunction 743 756	proliferation
+T28	CellFunction 981 994	proliferation
+T29	CellFunction 1075 1088	proliferation
+T30	CellFunction 1410 1423	proliferation
+T31	Cell 1060 1074	precursor cell
+T32	Cell 369 400	neural stem and precursor cells
+T33	Cell 473 488	precursor cells
+T34	Cell 457 482	oligodendrocyte precursor
+T35	Cell 1384 1409	oligodendrocyte precursor
+T36	TemporalConcept 312 321	postnatal
+T37	TemporalConcept 611 620	postnatal
+T38	BodyPartOrganOrOrganComponent 415 434	subventricular zone
+T39	BodyPartOrganOrOrganComponent 1337 1356	subventricular zone
+T40	Cell 1357 1374	neural stem cells
+T41	BodyPartOrganOrOrganComponent 47 69	central nervous system
+T42	BodyPartOrganOrOrganComponent 1231 1253	central nervous system
+T43	BodyPartOrganOrOrganComponent 71 74	CNS
+T44	BodyPartOrganOrOrganComponent 322 327	brain
+T45	Cell 34 39	cells
+T46	CellOrMolecularDysfunction 253 270	neurodegenerative
+T47	ResearchActivity 630 638	in vitro
+T48	ResearchActivity 1424 1432	in vitro
+T49	Eukaryote 604 610	murine
+T50	Cell 1197 1204	neurons
+T51	BiologicFunction 152 161	cognition
+T52	ResearchActivity 1437 1444	in vivo
+T53	Cell 575 590	oligodendrocyte
+T54	Cell 927 942	oligodendrocyte
+T55	Cell 1093 1108	oligodendrocyte
+T56	Cell 1306 1321	oligodendrocyte
+T57	HealthCareActivity 126 139	communication
+T58	CellFunction 126 139	communication
+T59	BiologicFunction 657 669	neurogenesis
+T60	Finding 732 742	increasing
+T61	ResearchActivity 834 841	In vivo
+T62	BiologicFunction 575 598	oligodendrocyte genesis
+T63	BiologicFunction 927 950	oligodendrocyte genesis
+T64	CellFunction 22 33	myelinating
+T65	BiologicFunction 673 689	astrogliogenesis
+T66	AminoAcidPeptideOrProtein 903 907	HDGF
+T67	BiologicallyActiveSubstance 903 907	HDGF
+T68	AminoAcidPeptideOrProtein 560 564	HDGF
+T69	GeneOrGenome 560 564	HDGF
+T70	BiologicallyActiveSubstance 560 564	HDGF
+T71	GeneOrGenome 903 907	HDGF
+T72	GeneOrGenome 1037 1041	HDGF
+T73	BiologicallyActiveSubstance 1037 1041	HDGF
+T74	AminoAcidPeptideOrProtein 1037 1041	HDGF
+T75	AminoAcidPeptideOrProtein 1144 1174	Hepatoma derived growth factor
+T76	BiologicallyActiveSubstance 1144 1174	Hepatoma derived growth factor
+T77	AminoAcidPeptideOrProtein 1176 1180	HDGF
+T78	BiologicallyActiveSubstance 1176 1180	HDGF
+T79	GeneOrGenome 1176 1180	HDGF
+T80	AminoAcidPeptideOrProtein 1289 1293	HDGF
+T81	BiologicallyActiveSubstance 1289 1293	HDGF
+T82	GeneOrGenome 1289 1293	HDGF

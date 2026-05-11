@@ -1,0 +1,96 @@
+T0	BiologicFunction 36 47	development
+T1	CellFunction 36 47	development
+T2	InjuryOrPoisoning 122 135	tissue injury
+T3	GeneOrGenome 237 242	KIF5A
+T4	GeneOrGenome 272 277	KIF5A
+T5	BodyPartOrganOrOrganComponent 302 305	CSF
+T6	MolecularSequence 333 364	single nucleotide polymorphisms
+T7	MolecularSequence 366 370	SNPs
+T8	ResearchActivity 474 507	Enzyme-linked immunosorbent assay
+T9	GeneOrGenome 528 533	KIF5A
+T10	BodyPartOrganOrOrganComponent 537 540	CSF
+T11	DiseaseOrSyndrome 647 675	clinically isolated syndrome
+T12	DiseaseOrSyndrome 677 680	CIS
+T13	BodyPartOrganOrOrganComponent 696 699	CSF
+T14	GeneOrGenome 700 705	KIF5A
+T15	DiseaseOrSyndrome 790 793	CIS
+T16	GeneOrGenome 852 857	KIF5A
+T17	HealthCareActivity 1013 1031	clinical follow-up
+T18	Finding 1153 1160	relapse
+T19	HealthCareActivity 1176 1191	lumbar puncture
+T20	HealthCareActivity 1193 1195	LP
+T21	TemporalConcept 1240 1244	post
+T22	HealthCareActivity 1245 1247	LP
+T23	TemporalConcept 1263 1271	duration
+T24	BodyPartOrganOrOrganComponent 1297 1300	CSF
+T25	GeneOrGenome 1301 1306	KIF5A
+T26	MolecularSequence 1440 1444	SNPs
+T27	ResearchActivity 1277 1282	study
+T28	HealthCareActivity 1230 1239	therapies
+T29	PathologicFunction 991 1002	progression
+T30	TemporalConcept 991 1002	progression
+T31	ResearchActivity 1365 1372	studies
+T32	TemporalConcept 1168 1172	time
+T33	ClinicalAttribute 75 85	biomarkers
+T34	PathologicFunction 983 1002	disease progression
+T35	BodyPartOrganOrOrganComponent 281 300	cerebrospinal fluid
+T36	BodyPartOrganOrOrganComponent 122 128	tissue
+T37	BodyPartOrganOrOrganComponent 99 121	central nervous system
+T38	ResearchActivity 321 329	analysis
+T39	DiseaseOrSyndrome 71 73	MS
+T40	DiseaseOrSyndrome 246 248	MS
+T41	DiseaseOrSyndrome 414 416	MS
+T42	DiseaseOrSyndrome 686 688	MS
+T43	DiseaseOrSyndrome 759 761	MS
+T44	DiseaseOrSyndrome 798 820	relapsing-remitting MS
+T45	DiseaseOrSyndrome 895 897	MS
+T46	DiseaseOrSyndrome 1260 1262	MS
+T47	DiseaseOrSyndrome 1350 1352	MS
+T48	DiseaseOrSyndrome 1422 1424	MS
+T49	TemporalConcept 1008 1012	year
+T50	PatientOrDisabledGroup 955 963	patients
+T51	DiseaseOrSyndrome 51 69	multiple sclerosis
+T52	ClinicalAttribute 898 914	disease severity
+T53	HealthCareActivity 149 158	prognosis
+T54	PopulationGroup 1138 1149	individuals
+T56	Finding 9 28	increasing interest
+T57	DiseaseOrSyndrome 591 628	non-inflammatory neurological disease
+T58	DiseaseOrSyndrome 747 761	progressive MS
+T59	TemporalConcept 747 758	progressive
+T60	HealthCareActivity 1212 1239	disease-modifying therapies
+T61	NucleicAcidNucleosideOrNucleotide 1043 1050	adenine
+T62	BiologicallyActiveSubstance 1043 1050	adenine
+T63	ClinicalAttribute 1326 1346	predictive biomarker
+T64	AminoAcidPeptideOrProtein 203 236	kinesin superfamily motor protein
+T65	BiologicallyActiveSubstance 237 242	KIF5A
+T66	BiologicallyActiveSubstance 272 277	KIF5A
+T67	AminoAcidPeptideOrProtein 237 242	KIF5A
+T68	AminoAcidPeptideOrProtein 272 277	KIF5A
+T69	MolecularSequence 372 382	rs12368653
+T70	MolecularSequence 387 395	rs703842
+T71	CellComponent 446 472	chromosome 12q13-14 region
+T72	GeneOrGenome 432 442	gene locus
+T73	AminoAcidPeptideOrProtein 528 533	KIF5A
+T74	BiologicallyActiveSubstance 528 533	KIF5A
+T75	HealthCareRelatedOrganization 571 579	biobanks
+T76	AminoAcidPeptideOrProtein 700 705	KIF5A
+T77	BiologicallyActiveSubstance 700 705	KIF5A
+T78	DiseaseOrSyndrome 822 826	RRMS
+T79	BiologicallyActiveSubstance 852 857	KIF5A
+T80	AminoAcidPeptideOrProtein 852 857	KIF5A
+T81	HealthCareActivity 895 921	MS disease severity scores
+T82	DiseaseOrSyndrome 950 954	RRMS
+T83	AminoAcidPeptideOrProtein 1301 1306	KIF5A
+T84	BiologicallyActiveSubstance 1301 1306	KIF5A
+T85	Finding 1382 1408	potential prognostic value
+T86	ClinicalAttribute 1422 1444	MS susceptibility SNPs
+T87	GeneOrGenome 1056 1063	alleles
+T88	NucleicAcidNucleosideOrNucleotide 1065 1070	AG/AA
+T89	HealthCareActivity 929 933	MSSS
+T90	PatientOrDisabledGroup 639 644	NINDC
+T91	PopulationGroup 629 637	controls
+T92	PatientOrDisabledGroup 686 694	MS cases
+T93	PatientOrDisabledGroup 782 788	NINDCs
+T94	MolecularSequence 1072 1082	rs12368653
+T95	MolecularSequence 1087 1095	rs703842
+T55	Finding 417 431	susceptibility

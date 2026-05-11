@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 90 110	Huntington's disease
+T1	MachineActivity 12 30	sentiment analysis
+T2	BiologicFunction 168 181	understanding
+T3	PatientOrDisabledGroup 114 122	patients
+T4	PopulationGroup 211 222	individuals
+T5	HealthCareActivity 133 143	caregivers
+T6	Finding 66 86	psychological impact
+T7	MachineActivity 0 3	NLP

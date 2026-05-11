@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 121 147	neurodegenerative diseases
+T1	Organism 8 12	host
+T2	PathologicFunction 82 99	neuroinflammation
+T3	Bacterium 13 21	bacteria
+T4	BodyPartOrganOrOrganComponent 42 45	gut
+T5	Finding 22 34	interactions
+T6	NaturalPhenomenonOrProcess 8 34	host-bacteria interactions

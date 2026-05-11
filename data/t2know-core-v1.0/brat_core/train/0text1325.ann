@@ -1,0 +1,80 @@
+T0	HealthCareActivity 26 38	brain repair
+T1	AminoAcidPeptideOrProtein 1192 1221	extracellular matrix proteins
+T2	Finding 1313 1326	discrepancies
+T3	Finding 1471 1485	considerations
+T4	Eukaryote 1351 1357	humans
+T5	Eukaryote 1457 1463	humans
+T6	Cell 930 943	Schwann cells
+T7	Eukaryote 1365 1372	rodents
+T8	Finding 1389 1401	relationship
+T9	PathologicFunction 1148 1168	chronic inflammation
+T10	DiseaseOrSyndrome 175 193	multiple sclerosis
+T11	BodyPartOrganOrOrganComponent 59 65	myelin
+T12	BodyPartOrganOrOrganComponent 667 673	myelin
+T13	BodyPartOrganOrOrganComponent 1440 1446	myelin
+T14	InjuryOrPoisoning 297 304	lesions
+T15	BodyPartOrganOrOrganComponent 1192 1212	extracellular matrix
+T16	Cell 961 984	mature oligodendrocytes
+T17	Cell 707 739	oligodendrocyte progenitor cells
+T18	BiologicFunction 66 78	regeneration
+T19	BiologicFunction 674 686	regeneration
+T20	Cell 723 739	progenitor cells
+T21	CellFunction 791 804	remyelinating
+T22	HealthCareActivity 600 607	imaging
+T23	Finding 213 223	efficiency
+T24	HealthCareActivity 66 78	regeneration
+T25	HealthCareActivity 674 686	regeneration
+T26	CellFunction 59 78	myelin regeneration
+T27	CellFunction 667 686	myelin regeneration
+T28	BodyPartOrganOrOrganComponent 882 901	subventricular zone
+T29	CellFunction 1440 1453	myelin repair
+T30	BodyPartOrganOrOrganComponent 322 328	Myelin
+T31	PatientOrDisabledGroup 272 280	patients
+T32	BodyPartOrganOrOrganComponent 818 840	central nervous system
+T33	BodyPartOrganOrOrganComponent 842 845	CNS
+T34	BodyPartOrganOrOrganComponent 1042 1045	CNS
+T35	Finding 94 102	evidence
+T36	BiologicFunction 483 494	development
+T37	CellFunction 483 494	development
+T38	Cell 417 422	cells
+T39	Cell 805 810	cells
+T40	Cell 583 587	cell
+T41	PathologicFunction 1156 1168	inflammation
+T42	PatientOrDisabledGroup 313 320	patient
+T43	ResearchActivity 534 540	review
+T44	HealthCareActivity 534 540	review
+T45	AminoAcidPeptideOrProtein 1213 1221	proteins
+T46	Cell 1254 1263	microglia
+T47	ResearchActivity 514 524	strategies
+T48	BiologicFunction 514 524	strategies
+T49	BiologicFunction 396 409	understanding
+T50	Finding 1335 1347	observations
+T51	Cell 1239 1249	astrocytes
+T52	BiologicFunction 372 380	recovery
+T53	HealthCareActivity 372 380	recovery
+T54	TemporalConcept 372 380	recovery
+T55	TemporalConcept 996 1004	recently
+T56	InjuryOrPoisoning 162 168	injury
+T57	CellFunction 120 145	Spontaneous remyelination
+T58	CellFunction 227 240	remyelination
+T59	CellFunction 1046 1059	remyelination
+T60	DiseaseOrSyndrome 195 197	MS
+T61	DiseaseOrSyndrome 269 271	MS
+T62	ResearchActivity 558 571	animal models
+T63	BiologicFunction 1141 1146	aging
+T64	CellFunction 1141 1146	aging
+T65	Cell 644 654	cell types
+T66	ResearchActivity 1417 1436	experimental models
+T67	Cell 854 870	cell populations
+T68	BiologicFunction 32 38	repair
+T69	BiologicFunction 329 335	repair
+T70	BiologicFunction 1125 1131	repair
+T71	BiologicFunction 1447 1453	repair
+T72	HealthCareActivity 329 335	repair
+T73	HealthCareActivity 1125 1131	repair
+T74	HealthCareActivity 1447 1453	repair
+T75	TemporalConcept 1148 1155	chronic
+T76	HealthCareActivity 502 524	therapeutic strategies
+T77	ResearchActivity 583 595;608 615	cell tracing methods
+T78	ResearchActivity 600 615	imaging methods
+T79	Cell 910 928	neural progenitors

@@ -1,0 +1,79 @@
+T0	ClinicalAttribute 274 287	vulnerability
+T1	MachineActivity 292 306	reconstruction
+T2	HealthCareActivity 292 306	reconstruction
+T3	AminoAcidPeptideOrProtein 505 516	connexin 47
+T4	PopulationGroup 666 673	progeny
+T5	HealthCareActivity 1298 1310	cell therapy
+T6	CellFunction 1015 1022	express
+T7	Eukaryote 1149 1156	rodents
+T8	Cell 653 657	iPSC
+T9	Cell 985 989	iPSC
+T10	Cell 998 1014	oligodendrocytes
+T11	Cell 0 16	Oligodendrocytes
+T12	DiseaseOrSyndrome 199 221	demyelinating diseases
+T13	DiseaseOrSyndrome 230 248	multiple sclerosis
+T14	BodyPartOrganOrOrganComponent 138 144	myelin
+T15	InjuryOrPoisoning 1163 1169	lesion
+T16	DiseaseOrSyndrome 1395 1411	myelin disorders
+T17	PharmacologicSubstance 1314 1339	pharmacological compounds
+T18	InjuryOrPoisoning 694 704	disruption
+T19	Cell 78 83	glial
+T20	CellFunction 1083 1094	integration
+T21	MachineActivity 1083 1094	integration
+T22	Cell 940 957	neural precursors
+T23	AminoAcidPeptideOrProtein 561 565	Cx43
+T24	AminoAcidPeptideOrProtein 708 712	Cx43
+T25	AminoAcidPeptideOrProtein 1060 1064	Cx43
+T26	BiologicallyActiveSubstance 561 565	Cx43
+T27	BiologicallyActiveSubstance 708 712	Cx43
+T28	BiologicallyActiveSubstance 1060 1064	Cx43
+T29	AminoAcidPeptideOrProtein 518 522	Cx47
+T30	AminoAcidPeptideOrProtein 713 717	Cx47
+T31	AminoAcidPeptideOrProtein 854 858	Cx47
+T32	AminoAcidPeptideOrProtein 1023 1027	Cx47
+T33	BiologicallyActiveSubstance 518 522	Cx47
+T34	BiologicallyActiveSubstance 713 717	Cx47
+T35	BiologicallyActiveSubstance 854 858	Cx47
+T36	BiologicallyActiveSubstance 1023 1027	Cx47
+T37	BodyPartOrganOrOrganComponent 115 137	central nervous system
+T38	Eukaryote 979 984	human
+T39	Cell 647 651	cell
+T40	CellFunction 453 463	expression
+T41	CellFunction 859 869	expression
+T42	Cell 551 560	astrocyte
+T43	Cell 1050 1059	astrocyte
+T44	Eukaryote 969 974	mouse
+T45	BiologicFunction 100 111	maintenance
+T46	BiologicFunction 84 95	homeostasis
+T47	Cell 734 742	cellular
+T48	Cell 480 495	oligodendrocyte
+T49	Cell 44 54	astrocytes
+T50	Cell 622 651	induced pluripotent stem cell
+T51	OrganismAttribute 821 825	size
+T52	CellFunction 756 783	intercellular communication
+T53	HealthCareActivity 175 188	communication
+T54	HealthCareActivity 770 783	communication
+T55	CellFunction 175 188	communication
+T56	CellFunction 770 783	communication
+T57	CellFunction 358 371	remyelination
+T58	CellFunction 895 908	remyelination
+T59	CellFunction 1252 1265	remyelination
+T60	CellFunction 1380 1391	myelination
+T61	PathologicFunction 344 357	demyelination
+T62	PathologicFunction 420 433	demyelination
+T63	PathologicFunction 794 807	demyelination
+T64	PathologicFunction 831 844	demyelination
+T65	PopulationGroup 338 343	adult
+T66	ResearchActivity 679 683	data
+T67	ResearchActivity 1128 1132	data
+T68	NaturalPhenomenonOrProcess 464 472	dynamics
+T69	Cell 642 651	stem cell
+T70	HealthCareActivity 1187 1202	transplantation
+T71	CellFunction 314 330	panglial network
+T72	CellFunction 1104 1120	panglial network
+T73	BiologicFunction 1170 1176	repair
+T74	HealthCareActivity 1170 1176	repair
+T75	CellOrMolecularDysfunction 146 166	Molecular disruption
+T76	BiologicallyActiveSubstance 505 516	connexin 47
+T77	Cell 659 665	neural
+T78	BodyPartOrganOrOrganComponent 743 755	gap-junction

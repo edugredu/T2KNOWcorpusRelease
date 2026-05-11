@@ -1,0 +1,9 @@
+T0	HealthCareActivity 114 120	health
+T1	Finding 85 89	risk
+T2	BodyPartOrganOrOrganComponent 17 21	skin
+T3	NaturalPhenomenonOrProcess 23 28	light
+T4	Finding 49 56	history
+T5	PopulationGroup 0 6	People
+T6	NaturalPhenomenonOrProcess 93 105	UV radiation
+T7	BodyPartOrganOrOrganComponent 37 41	eyes
+T8	InjuryOrPoisoning 60 68	sunburns

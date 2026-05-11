@@ -1,0 +1,60 @@
+T0	PopulationGroup 190 203	subpopulation
+T1	BodyPartOrganOrOrganComponent 219 228	neocortex
+T2	AminoAcidPeptideOrProtein 532 537	Olig2
+T3	GeneOrGenome 532 537	Olig2
+T4	GeneOrGenome 592 596	Dlx2
+T5	GeneOrGenome 633 637	Dlx2
+T6	Cell 704 721	GABAergic neurons
+T7	CellFunction 739 753	downregulating
+T8	AminoAcidPeptideOrProtein 754 759	Olig2
+T9	GeneOrGenome 754 759	Olig2
+T10	CellFunction 764 776	upregulating
+T11	PopulationGroup 779 786	network
+T12	CellFunction 779 786	network
+T13	CellFunction 1046 1059	reprogramming
+T14	AminoAcidPeptideOrProtein 511 531	transcription factor
+T15	AminoAcidPeptideOrProtein 571 591	transcription factor
+T16	BiologicallyActiveSubstance 511 531	transcription factor
+T17	BiologicallyActiveSubstance 571 591	transcription factor
+T18	Cell 207 211	OPCs
+T19	Cell 663 667	OPCs
+T20	Cell 1065 1069	OPCs
+T21	Cell 495 510	oligodendrocyte
+T22	Cell 69 88	proliferative cells
+T23	BodyPartOrganOrOrganComponent 106 128	central nervous system
+T24	Cell 338 346	neuronal
+T25	Cell 1037 1045	neuronal
+T26	BiologicFunction 981 994	developmental
+T27	TemporalConcept 981 994	developmental
+T28	AminoAcidPeptideOrProtein 924 951	GABAergic synaptic proteins
+T29	TemporalConcept 182 186	life
+T30	Cell 142 170	myelinating oligodendrocytes
+T31	Cell 241 257	progenitor cells
+T32	Cell 360 376	progenitor cells
+T33	Eukaryote 657 662	mouse
+T34	Cell 314 332	inhibitory neurons
+T35	Cell 843 862	OPC-derived neurons
+T36	Eukaryote 96 105	mammalian
+T37	Cell 432 455	oligodendrocyte lineage
+T38	NucleicAcidNucleosideOrNucleotide 808 819	transcripts
+T39	TemporalConcept 831 836	weeks
+T40	TemporalConcept 731 735	days
+T41	TemporalConcept 647 656	postnatal
+T42	ResearchActivity 957 962	study
+T43	Cell 0 31	Oligodendrocyte precursor cells
+T44	Cell 790 807	inhibitory neuron
+T45	CellFunction 883 900	action potentials
+T46	BiologicFunction 394 399	birth
+T47	Cell 33 41	NG2 glia
+T48	EmbryonicStructure 265 295	embryonic ganglionic eminences
+T49	TemporalConcept 394 399	birth
+T50	CellFunction 477 487	expression
+T51	BiologicallyActiveSubstance 532 537	Olig2
+T52	Cell 559 570	interneuron
+T53	BiologicallyActiveSubstance 592 596	Dlx2
+T54	AminoAcidPeptideOrProtein 592 596	Dlx2
+T55	CellOrMolecularDysfunction 616 629	misexpression
+T56	AminoAcidPeptideOrProtein 633 637	Dlx2
+T57	BiologicallyActiveSubstance 633 637	Dlx2
+T58	BiologicallyActiveSubstance 754 759	Olig2
+T59	ResearchActivity 1046 1059	reprogramming

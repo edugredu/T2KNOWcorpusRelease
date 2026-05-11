@@ -1,0 +1,92 @@
+T0	BiologicFunction 88 111	functional connectivity
+T1	HealthCareActivity 413 426	diffusion MRI
+T2	BiologicFunction 431 454	functional connectivity
+T3	HealthCareActivity 499 502	MEG
+T4	BiologicFunction 724 734	Functional
+T5	BiologicFunction 1040 1063	functional connectivity
+T6	BodyPartOrganOrOrganComponent 1341 1346	tract
+T7	BiologicFunction 1712 1735	functional connectivity
+T8	HealthCareActivity 2029 2042	diffusion MRI
+T9	HealthCareActivity 2047 2069	magnetoencephalography
+T10	ResearchActivity 2071 2078	Results
+T11	ResearchActivity 2377 2395	operationalization
+T12	ResearchActivity 2419 2431	longitudinal
+T13	BodyPartOrganOrOrganComponent 693 698	brain
+T14	BodyPartOrganOrOrganComponent 1019 1024	brain
+T15	ResearchActivity 222 227	study
+T16	ResearchActivity 1907 1912	study
+T17	ResearchActivity 504 508	data
+T18	ResearchActivity 2448 2466	network level data
+T19	ResearchActivity 2343 2350	studies
+T20	ClinicalAttribute 1591 1601	biomarkers
+T21	Finding 2307 2318	sensitivity
+T22	Finding 2323 2334	specificity
+T23	DiseaseOrSyndrome 178 198	cognitive impairment
+T24	DiseaseOrSyndrome 1312 1332	cognitive impairment
+T25	DiseaseOrSyndrome 1880 1900	cognitive impairment
+T26	OrganismAttribute 259 266	healthy
+T27	OrganismAttribute 2006 2013	healthy
+T28	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T29	DiseaseOrSyndrome 20 22	MS
+T30	DiseaseOrSyndrome 202 204	MS
+T31	DiseaseOrSyndrome 240 242	MS
+T32	DiseaseOrSyndrome 1097 1099	MS
+T33	DiseaseOrSyndrome 1508 1510	MS
+T34	DiseaseOrSyndrome 1605 1607	MS
+T35	DiseaseOrSyndrome 1668 1670	MS
+T36	DiseaseOrSyndrome 1869 1871	MS
+T37	DiseaseOrSyndrome 1987 1989	MS
+T38	DiseaseOrSyndrome 2135 2137	MS
+T39	HealthCareActivity 423 426	MRI
+T40	HealthCareActivity 2039 2042	MRI
+T41	ResearchActivity 1355 1387	short-range area under the curve
+T42	ResearchActivity 1389 1392	AUC
+T43	ResearchActivity 1414 1428	long-range AUC
+T44	TemporalConcept 636 645	frequency
+T45	ResearchActivity 1537 1545	research
+T46	PopulationGroup 2159 2167	controls
+T47	PatientOrDisabledGroup 243 251	patients
+T48	PatientOrDisabledGroup 1160 1168	patients
+T49	PatientOrDisabledGroup 1990 1998	patients
+T50	PatientOrDisabledGroup 2138 2146	patients
+T51	DiseaseOrSyndrome 1648 1666	multiple sclerosis
+T52	Finding 1229 1246	group differences
+T53	Finding 1235 1246	differences
+T54	PatientOrDisabledGroup 283 291	Patients
+T55	NaturalPhenomenonOrProcess 413 422	diffusion
+T56	NaturalPhenomenonOrProcess 2029 2038	diffusion
+T57	DiseaseOrSyndrome 1624 1644	Cognitive impairment
+T58	PopulationGroup 259 275	healthy controls
+T59	PopulationGroup 2006 2022	healthy controls
+T60	Finding 980 1004	significant correlations
+T61	ResearchActivity 992 1004	correlations
+T62	ClinicalAttribute 164 173	biomarker
+T63	ClinicalAttribute 932 941	biomarker
+T64	ClinicalAttribute 1856 1865	biomarker
+T65	ClinicalAttribute 2275 2284	biomarker
+T66	ResearchActivity 804 816	tract length
+T67	ResearchActivity 1347 1353	length
+T68	PatientOrDisabledGroup 311 331	cognitively impaired
+T69	PatientOrDisabledGroup 340 361	cognitively preserved
+T70	BiologicFunction 368 391	Structural connectivity
+T71	HealthCareActivity 461 497	resting-state magnetoencephalography
+T72	HealthCareActivity 510 541	theta, alpha1, and alpha2 bands
+T73	HealthCareActivity 636 651	frequency bands
+T74	Finding 687 722	whole-brain structural connectivity
+T75	ResearchActivity 851 885	Receiving operating curve analyses
+T76	ResearchActivity 1102 1140	Long-range structure-function coupling
+T77	ResearchActivity 1198 1218	Short-range coupling
+T78	ResearchActivity 1450 1488	Long-range structure-function coupling
+T79	ResearchActivity 1248 1275	Structure-function coupling
+T80	BiologicFunction 1806 1816;1832 1844	structural connectivity
+T81	BiologicFunction 1821 1844	functional connectivity
+T82	ResearchActivity 2235 2254	classifier analyses
+T83	Finding 2089 2097	coupling
+T84	Finding 1953 1980	structure-function coupling
+T85	Finding 1788 1796	coupling
+T86	Finding 1777 1786	interplay
+T87	ResearchActivity 962 972	theta band
+T88	BiologicFunction 1025 1035;1051 1063	structural connectivity
+T89	Finding 544 571	Structure-function coupling
+T90	ResearchActivity 760 793	long-range structural connections
+T91	Finding 904 912	coupling

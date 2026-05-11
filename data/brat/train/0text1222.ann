@@ -1,0 +1,120 @@
+T0	Finding 270 277	improve
+T1	SignOrSymptom 406 425	functional recovery
+T2	PharmacologicSubstance 717 723	oxygen
+T3	Chemical 717 723	oxygen
+T4	Eukaryote 810 814	Mice
+T5	BiomedicalOccupationOrDiscipline 882 896	histopathology
+T6	ClinicalAttribute 882 896	histopathology
+T7	BiomedicalOccupationOrDiscipline 1234 1248	histopathology
+T8	ClinicalAttribute 1234 1248	histopathology
+T9	HealthCareActivity 36 46	prevention
+T10	TemporalConcept 436 450	disease course
+T11	TemporalConcept 1708 1722	disease course
+T12	HealthCareActivity 562 574	immunization
+T13	ExperimentalModelOfDisease 458 499	experimental autoimmune encephalomyelitis
+T14	ExperimentalModelOfDisease 501 504	EAE
+T15	ExperimentalModelOfDisease 532 535	EAE
+T16	ExperimentalModelOfDisease 599 602	EAE
+T17	ExperimentalModelOfDisease 784 787	EAE
+T18	PathologicFunction 128 135	hypoxia
+T19	Finding 158 166	invasive
+T20	Finding 1659 1667	invasive
+T21	Finding 1168 1176	improved
+T22	TemporalConcept 733 741	duration
+T23	ClinicalAttribute 958 986	histopathological correlates
+T24	TemporalConcept 829 833	post
+T25	TemporalConcept 1327 1331	post
+T26	TemporalConcept 1716 1722	course
+T27	PathologicFunction 1054 1066	demyelinated
+T28	PathologicFunction 1449 1467	demyelinated areas
+T29	BodyPartOrganOrOrganComponent 1082 1093	spinal cord
+T30	CellFunction 0 13	Remyelination
+T31	Cell 1403 1433	oligodendrocyte precursor cell
+T32	Cell 1419 1433	precursor cell
+T33	Cell 1403 1428	oligodendrocyte precursor
+T34	CellComponent 1383 1387	axon
+T35	Cell 1552 1563	macrophages
+T36	DiseaseOrSyndrome 70 88	Multiple Sclerosis
+T37	TemporalConcept 109 114	acute
+T38	BodyPartOrganOrOrganComponent 295 298	CNS
+T39	BodyPartOrganOrOrganComponent 1687 1690	CNS
+T40	PopulationGroup 1270 1278	controls
+T41	BodyPartOrganOrOrganComponent 193 209	peripheral nerve
+T42	Eukaryote 578 585;593 597	C57BL/6 mice
+T43	Eukaryote 603 607	mice
+T44	Finding 154 166	non-invasive
+T45	Finding 1655 1667	non-invasive
+T46	Cell 1429 1433	cell
+T47	ResearchActivity 506 511	model
+T48	PathologicFunction 1511 1523	inflammation
+T49	HealthCareActivity 834 843	treatment
+T50	HealthCareActivity 1332 1341	treatment
+T51	ResearchActivity 834 843	treatment
+T52	ResearchActivity 1332 1341	treatment
+T53	Finding 368 376	capacity
+T54	ResearchActivity 1019 1027	analyzed
+T55	Cell 1564 1573	microglia
+T56	PopulationGroup 1594 1599	state
+T57	CellOrMolecularDysfunction 18 35	neurodegeneration
+T58	HealthCareActivity 343 360	repair treatments
+T59	HealthCareActivity 181 188	therapy
+T60	HealthCareActivity 1668 1675	therapy
+T61	BiologicFunction 915 926	maintenance
+T62	OrganismAttribute 586 592	female
+T63	BiologicFunction 417 425	recovery
+T64	BiologicFunction 1210 1218	recovery
+T65	HealthCareActivity 417 425	recovery
+T66	HealthCareActivity 1210 1218	recovery
+T67	TemporalConcept 417 425	recovery
+T68	TemporalConcept 1210 1218	recovery
+T69	Finding 1498 1507	reduction
+T70	NaturalPhenomenonOrProcess 1498 1507	reduction
+T71	CellFunction 228 241	remyelination
+T72	CellFunction 1370 1381	myelination
+T73	DiseaseOrSyndrome 90 92	MS
+T74	DiseaseOrSyndrome 340 342	MS
+T75	DiseaseOrSyndrome 515 517	MS
+T76	DiseaseOrSyndrome 1788 1790	MS
+T77	PathologicFunction 299 312	demyelination
+T78	PathologicFunction 1733 1746	demyelination
+T79	Finding 934 941	effects
+T80	BiomedicalOccupationOrDiscipline 958 975	histopathological
+T81	BiologicFunction 210 216	repair
+T82	BiologicFunction 278 284	repair
+T83	BiologicFunction 388 404	intrinsic repair
+T84	BiologicFunction 999 1005	repair
+T85	BiologicFunction 1587 1593	repair
+T86	BiologicFunction 1691 1697	repair
+T87	HealthCareActivity 210 216	repair
+T88	HealthCareActivity 278 284	repair
+T89	HealthCareActivity 999 1005	repair
+T90	HealthCareActivity 1587 1593	repair
+T91	HealthCareActivity 1691 1697	repair
+T92	Finding 56 66	disability
+T93	TemporalConcept 748 753	daily
+T94	TemporalConcept 1177 1182	daily
+T95	HealthCareActivity 109 135	acute intermittent hypoxia
+T96	HealthCareActivity 137 140	AIH
+T97	HealthCareActivity 260 263	AIH
+T98	HealthCareActivity 362 365	AIH
+T99	HealthCareActivity 624 627	AIH
+T100	Chemical 649 655	oxygen
+T101	BiologicallyActiveSubstance 649 655	oxygen
+T102	PharmacologicSubstance 649 655	oxygen
+T103	PharmacologicSubstance 683 689	oxygen
+T104	Chemical 683 689	oxygen
+T105	BiologicallyActiveSubstance 683 689	oxygen
+T106	BiologicallyActiveSubstance 717 723	oxygen
+T107	TemporalConcept 758 760	7d
+T108	TemporalConcept 862 864	7d
+T109	TemporalConcept 900 903	14d
+T110	HealthCareActivity 930 933	AIH
+T111	Finding 943 954	Alterations
+T112	BodyPartOrganOrOrganComponent 1067 1099	ventral lumbar spinal cord areas
+T113	HealthCareActivity 1110 1113	AIH
+T114	HealthCareActivity 1123 1126	AIH
+T115	HealthCareActivity 1469 1472	AIH
+T116	HealthCareActivity 1640 1643	AIH
+T117	HealthCareActivity 1770 1799	neuroregenerative MS strategy
+T118	AminoAcidPeptideOrProtein 551 561	MOG(35-55)
+T119	BiologicallyActiveSubstance 551 561	MOG(35-55)

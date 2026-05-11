@@ -1,0 +1,59 @@
+T0	HealthCareActivity 141 151	healthcare
+T1	CellFunction 870 881	translation
+T2	HealthCareRelatedOrganization 887 893	clinic
+T3	NucleicAcidNucleosideOrNucleotide 1058 1072	messenger RNAs
+T4	ManufacturedObject 1375 1388	drug delivery
+T5	HealthCareActivity 1375 1388	drug delivery
+T6	ResearchActivity 687 702	quality control
+T7	BiologicFunction 946 954	delivery
+T8	BiologicFunction 1046 1054	delivery
+T9	CellComponent 1015 1036	extracellular vesicle
+T10	ResearchActivity 808 816	in vitro
+T11	HealthCareActivity 1409 1424	early diagnosis
+T12	BiologicFunction 276 286	inhibiting
+T13	BiologicFunction 351 361	inhibiting
+T14	Substance 791 800	molecules
+T15	AminoAcidPeptideOrProtein 324 336	amyloid beta
+T16	NucleicAcidNucleosideOrNucleotide 1077 1086	microRNAs
+T17	BiologicallyActiveSubstance 1077 1086	microRNAs
+T18	Finding 86 112	increasing mortality rates
+T19	PharmacologicSubstance 184 189	drugs
+T20	ResearchActivity 617 636	therapeutic targets
+T21	CellOrMolecularDysfunction 516 532	oxidative stress
+T22	CellOrMolecularDysfunction 716 732	oxidative stress
+T23	NaturalPhenomenonOrProcess 337 346	clearance
+T24	CellOrMolecularDysfunction 534 559	mitochondrial dysfunction
+T25	CellComponent 655 668	mitochondrial
+T26	CellFunction 1146 1164	signaling pathways
+T27	ResearchActivity 131 137	burden
+T28	CellOrMolecularDysfunction 287 311	amyloid plaque formation
+T29	BiologicFunction 669 682	bioenergetics
+T30	PathologicFunction 976 988	side effects
+T31	PathologicFunction 1289 1313	tumorigenic side effects
+T32	Finding 64 84	increasing incidence
+T33	PathologicFunction 752 769	neuroinflammatory
+T34	PathologicFunction 232 243	progression
+T35	TemporalConcept 232 243	progression
+T36	ResearchActivity 446 454	research
+T37	ResearchActivity 908 916	research
+T38	ResearchActivity 1183 1191	research
+T39	HealthCareActivity 1415 1424	diagnosis
+T40	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T41	DiseaseOrSyndrome 21 23	AD
+T42	DiseaseOrSyndrome 211 213	AD
+T43	CellFunction 770 778	pathways
+T44	HealthCareActivity 990 1010	Cell-based therapies
+T45	DiseaseOrSyndrome 50 58	dementia
+T46	HealthCareActivity 198 207	treatment
+T47	ResearchActivity 198 207	treatment
+T48	PathologicFunction 573 590	neuroinflammation
+T49	PathologicFunction 362 394	neurofibrillary tangle pathology
+T50	ResearchActivity 250 265	clinical trials
+T51	TemporalConcept 165 174	currently
+T52	TemporalConcept 565 572	chronic
+T53	PathologicFunction 224 243	disease progression
+T54	ResearchActivity 823 836	animal models
+T55	ResearchActivity 1223 1253	harvesting and culture methods
+T56	BiomedicalOccupationOrDiscipline 1346 1360	nanotechnology
+T57	ResearchActivity 870 893	translation into clinic
+T58	Finding 946 961	delivery routes

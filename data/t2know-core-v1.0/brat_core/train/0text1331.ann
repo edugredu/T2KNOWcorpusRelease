@@ -1,0 +1,74 @@
+T0	BiologicFunction 0 18	Brain regeneration
+T1	DiseaseOrSyndrome 23 36	tumorigenesis
+T2	CellComponent 83 102	chromatin structure
+T3	CellComponent 185 204	chromatin structure
+T4	Cell 242 257	progenitor cell
+T5	NaturalPhenomenonOrProcess 258 268	plasticity
+T6	CellFunction 258 268	plasticity
+T7	Cell 471 492	primitive progenitors
+T8	Substance 544 551	plastic
+T9	DiseaseOrSyndrome 576 587	brain tumor
+T10	CellComponent 628 637	chromatin
+T11	AminoAcidPeptideOrProtein 687 694	histone
+T12	BiologicallyActiveSubstance 687 694	histone
+T13	GeneOrGenome 719 726	genomic
+T14	BiomedicalOccupationOrDiscipline 719 726	genomic
+T15	CellFunction 765 783	fate specification
+T16	DiseaseOrSyndrome 852 871	brain tumorigenesis
+T17	CellFunction 879 900	histone modifications
+T18	NaturalPhenomenonOrProcess 948 958	plasticity
+T19	CellFunction 948 958	plasticity
+T20	AminoAcidPeptideOrProtein 1036 1043	histone
+T21	BiologicallyActiveSubstance 1036 1043	histone
+T22	NaturalPhenomenonOrProcess 1080 1090	plasticity
+T23	CellFunction 1080 1090	plasticity
+T24	Finding 1098 1116	normal development
+T25	DiseaseOrSyndrome 1142 1155	tumorigenesis
+T26	TemporalConcept 599 605	Recent
+T27	TemporalConcept 124 130	states
+T28	BiologicFunction 270 276	growth
+T29	Cell 370 386	oligodendrocytes
+T30	BiologicFunction 6 18	regeneration
+T31	BiologicFunction 1125 1137	regeneration
+T32	HealthCareActivity 6 18	regeneration
+T33	HealthCareActivity 1125 1137	regeneration
+T34	Cell 314 329	precursor cells
+T35	Cell 456 460	OPCs
+T36	Cell 331 334	OPC
+T37	Cell 501 508	pri-OPC
+T38	Cell 512 519	pre-OPC
+T39	Cell 761 764	OPC
+T40	Cell 944 947	OPC
+T41	Cell 1076 1079	OPC
+T42	CellFunction 1118 1137	myelin regeneration
+T43	Cell 298 329	Oligodendrocyte precursor cells
+T44	Cell 363 386	mature oligodendrocytes
+T45	CellComponent 825 839	myelin sheaths
+T46	BiologicFunction 428 454	saltatory nerve conduction
+T53	TemporalConcept 363 369	mature
+T54	BiologicFunction 444 454	conduction
+T55	NaturalPhenomenonOrProcess 444 454	conduction
+T56	BiologicallyActiveSubstance 687 712	histone modifying enzymes
+T57	BiologicallyActiveSubstance 1036 1061	histone modifying enzymes
+T58	ResearchActivity 997 1003	review
+T59	HealthCareActivity 997 1003	review
+T60	BiologicFunction 810 821	maintenance
+T61	CellFunction 656 678	epigenetic homeostasis
+T62	ResearchActivity 606 613	studies
+T63	BiologicFunction 559 572	injury repair
+T64	HealthCareActivity 559 572	injury repair
+T65	BodyPartOrganOrOrganComponent 402 408	myelin
+T66	BodyPartOrganOrOrganComponent 825 831	myelin
+T67	BodyPartOrganOrOrganComponent 1118 1124	myelin
+T68	CellComponent 402 417	myelin sheathes
+T69	CellFunction 281 296	differentiation
+T70	CellFunction 785 808	lineage differentiation
+T71	BiologicFunction 1105 1116	development
+T72	CellFunction 1105 1116	development
+T73	InjuryOrPoisoning 559 565	injury
+T74	NaturalPhenomenonOrProcess 205 213	dynamics
+T75	CellFunction 628 651	chromatin modifications
+T76	DiseaseOrSyndrome 963 987	malignant transformation
+T77	AminoAcidPeptideOrProtein 1036 1061	histone modifying enzymes
+T78	AminoAcidPeptideOrProtein 687 712	histone modifying enzymes
+T79	CellFunction 719 747	genomic regulatory landscape

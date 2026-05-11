@@ -1,0 +1,140 @@
+T0	HealthCareActivity 92 107	health checkups
+T1	BodyPartOrganOrOrganComponent 123 128	Urine
+T2	ResearchActivity 391 401	label-free
+T3	GeneOrGenome 580 597	apolipoprotein C3
+T4	AminoAcidPeptideOrProtein 580 597	apolipoprotein C3
+T5	GeneOrGenome 599 604	ApoC3
+T6	BiologicallyActiveSubstance 599 604	ApoC3
+T7	AminoAcidPeptideOrProtein 599 604	ApoC3
+T8	BiologicallyActiveSubstance 607 651	insulin-like growth factor-binding protein 3
+T9	AminoAcidPeptideOrProtein 607 651	insulin-like growth factor-binding protein 3
+T10	AminoAcidPeptideOrProtein 653 659	Igfbp3
+T11	BiologicallyActiveSubstance 653 659	Igfbp3
+T12	GeneOrGenome 653 659	Igfbp3
+T13	AminoAcidPeptideOrProtein 666 682	apolipoprotein D
+T14	GeneOrGenome 666 682	apolipoprotein D
+T15	BiologicallyActiveSubstance 666 682	apolipoprotein D
+T16	GeneOrGenome 684 688	ApoD
+T17	ResearchActivity 701 735	Enzyme-linked immunosorbent assays
+T18	ResearchActivity 737 743	ELISAs
+T19	Finding 920 931	independent
+T20	GeneOrGenome 1146 1150	ApoD
+T21	AminoAcidPeptideOrProtein 1152 1158	Igfbp3
+T22	BiologicallyActiveSubstance 1152 1158	Igfbp3
+T23	GeneOrGenome 1152 1158	Igfbp3
+T24	GeneOrGenome 1184 1188	ApoD
+T25	AminoAcidPeptideOrProtein 1410 1416	Igfbp3
+T26	BiologicallyActiveSubstance 1410 1416	Igfbp3
+T27	GeneOrGenome 1410 1416	Igfbp3
+T28	GeneOrGenome 1519 1523	ApoD
+T29	GeneOrGenome 1528 1533	ApoC3
+T30	BiologicallyActiveSubstance 1528 1533	ApoC3
+T31	AminoAcidPeptideOrProtein 1528 1533	ApoC3
+T32	GeneOrGenome 1656 1661	ApoC3
+T33	BiologicallyActiveSubstance 1656 1661	ApoC3
+T34	AminoAcidPeptideOrProtein 1656 1661	ApoC3
+T35	GeneOrGenome 1806 1811	ApoC3
+T36	BiologicallyActiveSubstance 1806 1811	ApoC3
+T37	AminoAcidPeptideOrProtein 1806 1811	ApoC3
+T38	GeneOrGenome 1892 1897	ApoC3
+T39	BiologicallyActiveSubstance 1892 1897	ApoC3
+T40	AminoAcidPeptideOrProtein 1892 1897	ApoC3
+T41	Finding 361 370	decreased
+T42	AminoAcidPeptideOrProtein 270 278	proteome
+T43	BiologicallyActiveSubstance 270 278	proteome
+T44	TemporalConcept 84 91	routine
+T45	BiomedicalOccupationOrDiscipline 556 566	proteomics
+T46	BiomedicalOccupationOrDiscipline 846 856	proteomics
+T47	BiomedicalOccupationOrDiscipline 1343 1353	proteomics
+T48	ResearchActivity 556 572	proteomics study
+T49	ResearchActivity 846 862	proteomics study
+T50	ResearchActivity 556 566	proteomics
+T51	ResearchActivity 846 856	proteomics
+T52	ResearchActivity 1343 1353	proteomics
+T53	BodyPartOrganOrOrganComponent 262 269	urinary
+T54	BodyPartOrganOrOrganComponent 461 468	urinary
+T55	BodyPartOrganOrOrganComponent 1128 1135	urinary
+T56	BodyPartOrganOrOrganComponent 1392 1399	urinary
+T57	BodyPartOrganOrOrganComponent 1903 1910	urinary
+T58	PatientOrDisabledGroup 794 801	patient
+T59	ResearchActivity 1865 1870	ELISA
+T60	ClinicalAttribute 14 24	Biomarkers
+T61	PopulationGroup 806 820	control groups
+T62	DiseaseOrSyndrome 28 47	Alzheimer's disease
+T63	DiseaseOrSyndrome 49 51	AD
+T64	DiseaseOrSyndrome 282 284	AD
+T65	DiseaseOrSyndrome 374 376	AD
+T66	DiseaseOrSyndrome 524 526	AD
+T67	DiseaseOrSyndrome 867 869	AD
+T68	DiseaseOrSyndrome 941 943	AD
+T69	DiseaseOrSyndrome 970 972	AD
+T70	DiseaseOrSyndrome 1222 1224	AD
+T71	DiseaseOrSyndrome 1449 1451	AD
+T72	DiseaseOrSyndrome 1703 1705	AD
+T73	DiseaseOrSyndrome 1737 1739	AD
+T74	DiseaseOrSyndrome 1845 1847	AD
+T75	DiseaseOrSyndrome 1925 1927	AD
+T76	ClinicalAttribute 1911 1920	biomarker
+T77	PopulationGroup 877 885	controls
+T78	PopulationGroup 957 965	controls
+T79	PopulationGroup 1016 1024	controls
+T80	PatientOrDisabledGroup 285 293	patients
+T81	PatientOrDisabledGroup 377 385	patients
+T82	PatientOrDisabledGroup 944 952	patients
+T83	Finding 334 357	significantly increased
+T84	ResearchActivity 417 423	method
+T85	HealthCareActivity 417 423	method
+T86	ClinicalAttribute 144 154	biomarkers
+T87	ResearchActivity 437 442	study
+T88	DiseaseOrSyndrome 1003 1006	MCI
+T89	DiseaseOrSyndrome 1452 1455	MCI
+T90	DiseaseOrSyndrome 1706 1709	MCI
+T91	AminoAcidPeptideOrProtein 309 317	proteins
+T92	AminoAcidPeptideOrProtein 479 487	proteins
+T93	PopulationGroup 531 538	control
+T94	PopulationGroup 806 813	control
+T95	PopulationGroup 1247 1254	control
+T96	PopulationGroup 1474 1481	control
+T97	PopulationGroup 1579 1586	control
+T98	PopulationGroup 1779 1786	control
+T99	ResearchActivity 1099 1106	Results
+T100	PopulationGroup 814 820	groups
+T101	ResearchActivity 1594 1611	Combined analysis
+T102	ResearchActivity 1880 1888	analysis
+T103	DiseaseOrSyndrome 976 1001	mild cognitive impairment
+T104	PopulationGroup 932 937	group
+T105	PopulationGroup 1225 1230	group
+T106	PopulationGroup 1255 1260	group
+T107	PopulationGroup 1456 1461	group
+T108	PopulationGroup 1482 1487	group
+T109	PopulationGroup 1587 1592	group
+T110	PopulationGroup 1710 1715	group
+T111	PopulationGroup 1745 1750	group
+T112	PopulationGroup 1787 1792	group
+T113	PopulationGroup 1247 1260	control group
+T114	PopulationGroup 1474 1487	control group
+T115	PopulationGroup 1579 1592	control group
+T116	PopulationGroup 1779 1792	control group
+T117	ClinicalAttribute 1821 1840	potential biomarker
+T118	AminoAcidPeptideOrProtein 607 614	insulin
+T119	BiologicallyActiveSubstance 607 614	insulin
+T120	PharmacologicSubstance 607 614	insulin
+T121	ResearchActivity 821 829	analyzed
+T122	Substance 539 546	samples
+T123	BodyPartOrganOrOrganComponent 539 546	samples
+T124	BiologicallyActiveSubstance 580 597	apolipoprotein C3
+T125	BiologicallyActiveSubstance 684 688	ApoD
+T126	AminoAcidPeptideOrProtein 684 688	ApoD
+T127	BodyPartOrganOrOrganComponent 766 779	urine samples
+T128	BodyPartOrganOrOrganComponent 898 911	urine samples
+T129	HealthCareRelatedOrganization 1035 1089	National Center for Geriatrics and Gerontology Biobank
+T130	ClinicalAttribute 1128 1150	urinary levels of ApoD
+T131	BiologicallyActiveSubstance 1184 1188	ApoD
+T132	AminoAcidPeptideOrProtein 1184 1188	ApoD
+T133	Chemical 1164 1174	creatinine
+T134	BiologicallyActiveSubstance 1164 1174	creatinine
+T135	ClinicalAttribute 1392 1416	urinary levels of Igfbp3
+T136	BodyPartOrganOrOrganComponent 1619 1626	samples
+T137	Substance 1619 1626	samples
+T138	BiologicallyActiveSubstance 1636 1646	creatinine
+T139	Chemical 1636 1646	creatinine

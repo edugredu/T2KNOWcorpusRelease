@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 78 80	HD
+T1	TemporalConcept 107 112	onset
+T2	TemporalConcept 150 157	decades
+T3	Finding 62 73	risk factor
+T4	TemporalConcept 161 165	life
+T5	Finding 4 16	observations
+T6	Finding 40 52	colonization
+T7	Organism 30 39	microbial

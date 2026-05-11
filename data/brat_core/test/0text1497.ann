@@ -1,0 +1,80 @@
+T0	Finding 893 899	status
+T1	Cell 617 624	neurons
+T2	NucleicAcidNucleosideOrNucleotide 294 303	microRNAs
+T3	BiologicallyActiveSubstance 294 303	microRNAs
+T4	CellComponent 63 67	sEVs
+T5	CellComponent 378 382	sEVs
+T6	CellComponent 606 610	sEVs
+T7	CellComponent 1077 1081	sEVs
+T8	TemporalConcept 195 209	simultaneously
+T9	PopulationGroup 316 328	older adults
+T10	DiseaseOrSyndrome 492 495	MCI
+T11	DiseaseOrSyndrome 506 509	MCI
+T12	DiseaseOrSyndrome 537 540	MCI
+T13	DiseaseOrSyndrome 808 811	MCI
+T14	DiseaseOrSyndrome 813 816	MCI
+T15	Cell 649 665	oligodendrocytes
+T16	Cell 667 676	pericytes
+T17	Cell 682 699	endothelial cells
+T18	Cell 587 597	brain cell
+T19	ClinicalAttribute 967 1001	temporal cortical region thickness
+T20	Cell 626 636	astrocytes
+T21	Finding 780 804	differentially expressed
+T22	BodyPartOrganOrOrganComponent 967 991	temporal cortical region
+T23	ClinicalAttribute 1117 1136	molecular biomarker
+T24	Cell 14 24	Brain cell
+T25	CellComponent 232 235	sEV
+T26	CellComponent 767 770	sEV
+T27	Finding 434 450	normal cognition
+T28	Finding 452 454	CN
+T29	Finding 853 855	CN
+T30	Cell 682 693	endothelial
+T31	Finding 434 440	normal
+T32	PathologicFunction 151 162	progression
+T33	TemporalConcept 151 162	progression
+T34	CellComponent 39 61	extracellular vesicles
+T35	DiseaseOrSyndrome 166 185	Alzheimer's disease
+T36	DiseaseOrSyndrome 187 189	AD
+T37	DiseaseOrSyndrome 524 526	AD
+T38	DiseaseOrSyndrome 541 543	AD
+T39	DiseaseOrSyndrome 557 559	AD
+T40	DiseaseOrSyndrome 817 819	AD
+T41	DiseaseOrSyndrome 825 827	AD
+T42	DiseaseOrSyndrome 1141 1143	AD
+T43	NucleicAcidNucleosideOrNucleotide 305 311	miRNAs
+T44	NucleicAcidNucleosideOrNucleotide 741 747	miRNAs
+T45	NucleicAcidNucleosideOrNucleotide 757 763	miRNAs
+T46	BiologicallyActiveSubstance 305 311	miRNAs
+T47	BiologicallyActiveSubstance 741 747	miRNAs
+T48	BiologicallyActiveSubstance 757 763	miRNAs
+T49	BodyPartOrganOrOrganComponent 72 77	blood
+T50	BodyPartOrganOrOrganComponent 1105 1110	blood
+T51	BodyPartOrganOrOrganComponent 254 260	plasma
+T52	BodyPartOrganOrOrganComponent 406 412	plasma
+T53	CellComponent 33 61	small extracellular vesicles
+T54	NucleicAcidNucleosideOrNucleotide 1050 1055	miRNA
+T55	BiologicallyActiveSubstance 1050 1055	miRNA
+T56	ClinicalAttribute 1127 1136	biomarker
+T57	DiseaseOrSyndrome 527 535	dementia
+T58	DiseaseOrSyndrome 560 568	dementia
+T59	DiseaseOrSyndrome 828 836	dementia
+T60	DiseaseOrSyndrome 884 892	dementia
+T61	BiologicFunction 441 450	cognition
+T62	ResearchActivity 931 934	AUC
+T63	TemporalConcept 141 146	onset
+T64	CellFunction 795 804	expressed
+T65	HealthCareActivity 1033 1036	MRI
+T66	HealthCareActivity 1005 1031	magnetic resonance imaging
+T67	HealthCareActivity 1024 1031	imaging
+T68	TemporalConcept 316 321	older
+T69	ManufacturedObject 1005 1031	magnetic resonance imaging
+T70	Cell 638 647	microglia
+T71	PopulationGroup 416 428	participants
+T72	PopulationGroup 322 328	adults
+T73	ResearchActivity 719 727	analyzed
+T74	PopulationGroup 856 861	group
+T75	DiseaseOrSyndrome 342 362	cognitive impairment
+T76	DiseaseOrSyndrome 470 490	cognitive impairment
+T77	ResearchActivity 909 929	area under the curve
+T78	DiseaseOrSyndrome 465 490	mild cognitive impairment
+T79	ResearchActivity 1056 1064	analyses

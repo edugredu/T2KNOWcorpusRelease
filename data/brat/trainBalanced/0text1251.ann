@@ -1,0 +1,92 @@
+T0	DiseaseOrSyndrome 11 31	Vitamin D deficiency
+T1	HealthCareActivity 125 140	supplementation
+T2	Finding 190 201	uncertainty
+T3	BiologicallyActiveSubstance 240 242	D2
+T4	BiologicallyActiveSubstance 334 344	Vitamin D3
+T5	BiologicFunction 508 523	immune response
+T6	BiologicallyActiveSubstance 605 615	vitamin D2
+T7	BiologicallyActiveSubstance 624 634	vitamin D3
+T8	CellFunction 696 711	Gene expression
+T9	BiologicallyActiveSubstance 756 766	vitamin D2
+T10	ManufacturedObject 794 817	Agilent DNA microarrays
+T11	BiologicallyActiveSubstance 1410 1420	Vitamin D2
+T12	GeneOrGenome 1509 1511	D2
+T13	CellFunction 1863 1874	Ras pathway
+T14	BiologicallyActiveSubstance 1910 1920	vitamin D3
+T15	BiologicallyActiveSubstance 1936 1938	D2
+T16	ResearchActivity 1999 2013	Identification
+T17	CellFunction 1313 1328	Differentiation
+T18	TemporalConcept 154 169	clinical course
+T19	AminoAcidPeptideOrProtein 1773 1794	transcription factors
+T20	BiologicallyActiveSubstance 1773 1794	transcription factors
+T21	MolecularSequence 546 559	transcriptome
+T22	MolecularSequence 846 859	transcriptome
+T23	Cell 386 425	primary oligodendrocyte precursor cells
+T24	Finding 21 31	deficiency
+T25	BiologicallyActiveSubstance 115 124	vitamin D
+T26	BiologicallyActiveSubstance 229 238	vitamin D
+T27	BiologicallyActiveSubstance 303 312	vitamin D
+T28	BiologicallyActiveSubstance 1639 1648	vitamin D
+T29	TemporalConcept 163 169	course
+T30	ResearchActivity 1158 1181	hierarchical clustering
+T31	Cell 427 431	OPCs
+T32	Cell 583 591	CG4 OPCs
+T33	Cell 394 425	oligodendrocyte precursor cells
+T34	DiseaseOrSyndrome 65 83	multiple sclerosis
+T35	TemporalConcept 359 363	rate
+T36	CellFunction 367 382	differentiation
+T37	CellFunction 671 686	differentiation
+T38	Cell 1994 1997	OLs
+T39	Cell 2041 2044	OLs
+T40	Cell 410 425	precursor cells
+T41	Cell 394 419	oligodendrocyte precursor
+T42	Eukaryote 579 582	rat
+T43	ResearchActivity 1748 1750	GO
+T44	BiologicallyActiveSubstance 1803 1808	Notch
+T45	AminoAcidPeptideOrProtein 1803 1808	Notch
+T46	CellFunction 1803 1816	Notch pathway
+T47	CellFunction 1132 1145	co-expression
+T48	ResearchActivity 1893 1898	study
+T49	ResearchActivity 1305 1312	Results
+T50	Cell 731 740	CG4 cells
+T51	Cell 1618 1623	cells
+T52	CellFunction 1457 1472	gene expression
+T53	TemporalConcept 662 667	onset
+T54	CellFunction 1135 1145	expression
+T55	CellFunction 1347 1357	expression
+T56	CellFunction 1462 1472	expression
+T57	CellFunction 1529 1539	expression
+T58	CellFunction 1952 1962	expression
+T59	Finding 46 50	risk
+T60	ResearchActivity 533 541	analyzed
+T61	CellFunction 1809 1816	pathway
+T62	CellFunction 464 477	remyelination
+T63	DiseaseOrSyndrome 85 87	MS
+T64	DiseaseOrSyndrome 173 175	MS
+T65	DiseaseOrSyndrome 316 318	MS
+T66	DiseaseOrSyndrome 2104 2106	MS
+T67	ResearchActivity 1242 1269	pathway enrichment analysis
+T68	Finding 292 299	effects
+T69	Finding 1446 1453	effects
+T70	ResearchActivity 860 864	data
+T71	GeneOrGenome 1214 1218	gene
+T72	GeneOrGenome 1457 1461	gene
+T73	NucleicAcidNucleosideOrNucleotide 802 805	DNA
+T74	BiologicallyActiveSubstance 770 772	D3
+T75	ManufacturedObject 903 925	R software environment
+T76	ResearchActivity 1028 1078	Benjamini and Hochberg multiple testing correction
+T77	ResearchActivity 1082 1090	p-values
+T78	ResearchActivity 1008 1013	LIMMA
+T79	ResearchActivity 927 950	Differential expression
+T80	ResearchActivity 963 986	experimental conditions
+T81	ResearchActivity 1280 1303	clusterProfiler package
+T82	TemporalConcept 1387 1391	72 h
+T83	TemporalConcept 1404 1408	24 h
+T84	TemporalConcept 1519 1523	24 h
+T85	BiologicallyActiveSubstance 1425 1427	D3
+T86	ResearchActivity 1733 1746	Gene Ontology
+T87	BiologicallyActiveSubstance 1824 1826	D3
+T88	BiologicallyActiveSubstance 2035 2037	D3
+T89	TemporalConcept 638 642	24 h
+T90	TemporalConcept 647 651	72 h
+T91	BiologicallyActiveSubstance 246 248	D3

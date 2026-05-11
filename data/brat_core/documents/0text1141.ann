@@ -1,0 +1,51 @@
+T0	CellFunction 629 645	lipid metabolism
+T1	BiologicFunction 629 645	lipid metabolism
+T2	CellFunction 949 965	lipid metabolism
+T3	BiologicFunction 949 965	lipid metabolism
+T4	BiologicFunction 989 995	uptake
+T5	CellFunction 989 995	uptake
+T6	AminoAcidPeptideOrProtein 62 80	protein aggregates
+T7	AminoAcidPeptideOrProtein 345 363	protein aggregates
+T8	AminoAcidPeptideOrProtein 490 508	protein aggregates
+T9	ResearchActivity 208 214	search
+T10	Cell 826 830	glia
+T11	Finding 449 457	etiology
+T12	BodyPartOrganOrOrganComponent 524 538	nervous system
+T13	CellOrMolecularDysfunction 53 80	abnormal protein aggregates
+T14	PathologicFunction 565 576	progression
+T15	PathologicFunction 745 756	progression
+T16	PathologicFunction 905 916	progression
+T17	PathologicFunction 1131 1142	progression
+T18	TemporalConcept 565 576	progression
+T19	TemporalConcept 745 756	progression
+T20	TemporalConcept 905 916	progression
+T21	TemporalConcept 1131 1142	progression
+T22	Finding 578 593	Growing evidenc
+T23	ResearchActivity 251 259	research
+T24	CellComponent 667 689	extracellular vesicles
+T25	DiseaseOrSyndrome 139 158	Alzheimer's disease
+T26	CellComponent 691 694	EVs
+T27	DiseaseOrSyndrome 160 162	AD
+T28	DiseaseOrSyndrome 920 922	AD
+T29	CellComponent 967 969	EV
+T30	CellComponent 986 988	EV
+T31	CellFunction 861 869	pathways
+T32	DiseaseOrSyndrome 5 31	neurodegenerative diseases
+T33	DiseaseOrSyndrome 112 138	neurodegenerative diseases
+T34	CellOrMolecularDysfunction 760 777	neurodegeneration
+T35	ResearchActivity 840 846	review
+T36	HealthCareActivity 840 846	review
+T37	Cell 787 794	neurons
+T38	CellFunction 970 980	biogenesis
+T39	PathologicFunction 334 344	pathogenic
+T40	PathologicFunction 1019 1049	pathogenic protein aggregation
+T41	DiseaseOrSyndrome 168 187	Parkinson's disease
+T42	DiseaseOrSyndrome 189 191	PD
+T43	DiseaseOrSyndrome 927 929	PD
+T44	ResearchActivity 1069 1088	therapeutic targets
+T45	PathologicFunction 557 576	disease progression
+T46	PathologicFunction 1123 1142	disease progression
+T47	CellFunction 721 740	protein aggregation
+T48	DiseaseOrSyndrome 1105 1130	neurodegenerative disease
+T49	TemporalConcept 284 296	early stages
+T50	Finding 614 625	alterations

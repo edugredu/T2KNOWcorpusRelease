@@ -1,0 +1,85 @@
+T0	BodyPartOrganOrOrganComponent 135 143	grafting
+T1	HealthCareActivity 135 143	grafting
+T2	TemporalConcept 217 228	early stage
+T3	ResearchActivity 348 373	phase II randomized study
+T4	TemporalConcept 383 389	run-in
+T5	TemporalConcept 439 444	month
+T6	PopulationGroup 462 477	treatment group
+T7	TemporalConcept 495 500	month
+T8	TemporalConcept 576 581	month
+T9	ResearchActivity 677 694	postrandomization
+T10	TemporalConcept 696 701	month
+T11	TemporalConcept 888 893	month
+T12	TemporalConcept 897 902	month
+T13	HealthCareActivity 933 943	transplant
+T14	BodyPartOrganOrOrganComponent 933 943	transplant
+T15	TemporalConcept 1081 1086	month
+T16	HealthCareActivity 1256 1271	transplantation
+T17	HealthCareActivity 1299 1314	transplantation
+T18	PathologicFunction 1337 1351	adverse events
+T19	HealthCareActivity 1426 1446	transplant procedure
+T20	Finding 1448 1459	Improvement
+T21	HealthCareActivity 1463 1473	procedures
+T22	TemporalConcept 1463 1473	procedures
+T23	ResearchActivity 1485 1490	trial
+T24	AminoAcidPeptideOrProtein 1557 1585	antihuman leucocytes antigen
+T25	AminoAcidPeptideOrProtein 1586 1596	antibodies
+T26	BiologicallyActiveSubstance 1586 1596	antibodies
+T27	ResearchActivity 1670 1675	trial
+T28	BiologicFunction 1707 1722	graft rejection
+T29	Finding 1724 1731	Ectopia
+T30	AnatomicalAbnormality 1724 1731	Ectopia
+T31	BodyPartOrganOrOrganComponent 1779 1784	graft
+T32	HealthCareActivity 1779 1784	graft
+T33	Finding 1785 1792	outcome
+T34	HealthCareActivity 1794 1816	Procedural adjustments
+T35	ResearchActivity 1840 1855	surgical safety
+T36	EmbryonicStructure 144 175	human fetal ganglionic eminence
+T37	BodyPartOrganOrOrganComponent 176 191	intrastriatally
+T38	Finding 1635 1651	clinical benefit
+T39	Finding 1505 1514	decreased
+T40	DiseaseOrSyndrome 51 86	inherited neurodegenerative disease
+T41	TemporalConcept 390 396	period
+T42	TemporalConcept 880 886	period
+T43	HealthCareActivity 479 491	transplanted
+T44	HealthCareActivity 112 118	safety
+T45	TemporalConcept 334 341	delayed
+T46	TemporalConcept 1036 1043	delayed
+T47	TemporalConcept 1234 1238	rate
+T48	Finding 1831 1839	improved
+T49	PopulationGroup 521 534	control group
+T50	ResearchActivity 1186 1205	confidence interval
+T51	HealthCareActivity 745 752	imaging
+T52	ResearchActivity 945 952	Results
+T53	TemporalConcept 403 409	months
+T54	TemporalConcept 562 568	months
+T55	TemporalConcept 670 676	months
+T56	PatientOrDisabledGroup 201 209	Patients
+T57	PopulationGroup 472 477	group
+T58	TemporalConcept 1519 1528	frequency
+T59	HealthCareActivity 620 637	total motor score
+T60	HealthCareActivity 831 848	total motor score
+T61	HealthCareActivity 1060 1077	total motor score
+T62	HealthCareActivity 462 471	treatment
+T63	HealthCareActivity 1018 1027	treatment
+T64	ResearchActivity 462 471	treatment
+T65	ResearchActivity 1018 1027	treatment
+T66	Finding 43 49	severe
+T67	Finding 1330 1336	severe
+T68	TemporalConcept 925 929	time
+T69	PatientOrDisabledGroup 411 419	patients
+T70	PatientOrDisabledGroup 970 978	patients
+T71	PatientOrDisabledGroup 1384 1392	patients
+T72	PatientOrDisabledGroup 1611 1619	patients
+T73	DiseaseOrSyndrome 11 31	Huntington's disease
+T74	DiseaseOrSyndrome 61 86	neurodegenerative disease
+T75	HealthCareRelatedOrganization 1882 1935	International Parkinson and Movement Disorder Society
+T76	ResearchActivity 874 879	study
+T77	ResearchActivity 794 804	comparison
+T78	PopulationGroup 1129 1137	controls
+T79	TemporalConcept 37 41	rare
+T80	ResearchActivity 265 330	Multicentric Intracerebral Grafting in Huntington's Disease trial
+T81	TemporalConcept 585 590	month
+T82	TemporalConcept 808 816	pregraft
+T83	TemporalConcept 821 830	postgraft
+T84	HealthCareActivity 1532 1547	surgical events

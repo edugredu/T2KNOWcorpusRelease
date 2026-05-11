@@ -1,0 +1,43 @@
+T0	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T1	BiologicFunction 50 64	brain function
+T2	BodyPartOrganOrOrganComponent 126 138	brain tissue
+T3	PathologicFunction 183 198	pathophysiology
+T4	ClinicalAttribute 274 284	biomarkers
+T5	BodyPartOrganOrOrganComponent 356 359	BBB
+T6	InjuryOrPoisoning 404 417	damaged areas
+T7	HealthCareActivity 472 486	drug treatment
+T8	ResearchActivity 472 486	drug treatment
+T9	CellComponent 488 496	Exosomes
+T10	CellFunction 558 572	cell signaling
+T11	CellFunction 585 620	transmission of genetic information
+T12	Cell 642 647	cells
+T13	BodyPartOrganOrOrganComponent 685 688	BBB
+T14	CellComponent 690 698	exosomes
+T15	BodyPartOrganOrOrganComponent 742 764	central nervous system
+T16	BodyPartOrganOrOrganComponent 766 769	CNS
+T17	ClinicalAttribute 791 801	biomarkers
+T18	ManufacturedObject 829 848	therapeutic carrier
+T19	Substance 860 869	molecules
+T20	BodyPartOrganOrOrganComponent 886 889	CNS
+T21	CellComponent 921 929	exosomes
+T22	PathologicFunction 933 948	pathophysiology
+T23	HealthCareActivity 950 959	diagnosis
+T24	DiseaseOrSyndrome 1022 1041	Alzheimer's Disease
+T25	DiseaseOrSyndrome 1043 1062	Parkinson's Disease
+T26	DiseaseOrSyndrome 1086 1115	Amyotrophic Lateral Sclerosis
+T27	BodyPartOrganOrOrganComponent 335 354	blood-brain barrier
+T28	BodyPartOrganOrOrganComponent 425 430	brain
+T29	PharmacologicSubstance 380 394	drug molecules
+T30	PharmacologicSubstance 472 476	drug
+T31	DiseaseOrSyndrome 1064 1084	Huntington's Disease
+T32	DiseaseOrSyndrome 202 229	neurodegenerative disorders
+T33	DiseaseOrSyndrome 994 1020	neurodegenerative diseases
+T34	HealthCareActivity 961 970	prognosis
+T35	PathologicFunction 73 84	progression
+T36	TemporalConcept 73 84	progression
+T37	ResearchActivity 170 175	study
+T38	HealthCareActivity 302 311	treatment
+T39	HealthCareActivity 976 985	treatment
+T40	ResearchActivity 302 311	treatment
+T41	ResearchActivity 976 985	treatment
+T42	BiologicFunction 585 620	transmission of genetic information

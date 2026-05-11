@@ -1,0 +1,100 @@
+T0	HealthCareActivity 0 9	Diagnosis
+T1	DiseaseOrSyndrome 40 43	NDD
+T2	NucleicAcidNucleosideOrNucleotide 150 156	sncRNA
+T3	NucleicAcidNucleosideOrNucleotide 183 189	sncRNA
+T4	NucleicAcidNucleosideOrNucleotide 378 384	scnRNA
+T5	DiseaseOrSyndrome 463 466	NDD
+T6	DiseaseOrSyndrome 571 574	NDD
+T7	NucleicAcidNucleosideOrNucleotide 582 588	sncRNA
+T8	NucleicAcidNucleosideOrNucleotide 709 715	sncRNA
+T9	NucleicAcidNucleosideOrNucleotide 761 767	sncRNA
+T10	NucleicAcidNucleosideOrNucleotide 1021 1027	sncRNA
+T11	NucleicAcidNucleosideOrNucleotide 1095 1101	sncRNA
+T12	NucleicAcidNucleosideOrNucleotide 1208 1214	sncRNA
+T13	NucleicAcidNucleosideOrNucleotide 1328 1334	sncRNA
+T14	NucleicAcidNucleosideOrNucleotide 1502 1508	sncRNA
+T15	Finding 1760 1767	improve
+T16	NucleicAcidNucleosideOrNucleotide 1792 1798	sncRNA
+T17	NucleicAcidNucleosideOrNucleotide 1827 1833	sncRNA
+T18	Cell 312 321	Astrocyte
+T19	Cell 928 937	Astrocyte
+T20	CellFunction 1466 1475	signaling
+T21	MolecularSequence 1266 1279	transcriptome
+T22	MolecularSequence 1671 1684	transcriptome
+T23	Finding 1592 1603	explanation
+T24	DiseaseOrSyndrome 174 178	NDDs
+T25	DiseaseOrSyndrome 241 245	NDDs
+T26	TemporalConcept 467 473	course
+T27	CellComponent 1252 1265	intracellular
+T28	CellComponent 928 968	Astrocyte Derived Extracellular Vesicles
+T29	BiologicallyActiveSubstance 1466 1485	signaling molecules
+T30	CellComponent 666 688	extracellular vesicles
+T31	CellComponent 838 841	EVs
+T32	CellComponent 690 692	EV
+T33	CellComponent 747 749	EV
+T34	ClinicalAttribute 877 884	markers
+T35	ResearchActivity 1008 1013	study
+T36	ClinicalAttribute 105 115	biomarkers
+T37	ClinicalAttribute 284 294	biomarkers
+T38	Substance 829 836	samples
+T39	BodyPartOrganOrOrganComponent 829 836	samples
+T40	NaturalPhenomenonOrProcess 721 732	degradation
+T41	BodyPartOrganOrOrganComponent 818 828	peripheral
+T42	BodyPartOrganOrOrganComponent 982 992	peripheral
+T43	HealthCareActivity 228 237	diagnosis
+T44	ResearchActivity 1772 1781	detection
+T45	HealthCareActivity 1772 1781	detection
+T46	Cell 617 621	cell
+T47	Cell 855 859	cell
+T48	PathologicFunction 1509 1521	dysregulated
+T49	ResearchActivity 1447 1453	review
+T50	HealthCareActivity 1447 1453	review
+T51	Finding 1552 1556	risk
+T52	Finding 76 89	less invasive
+T53	ClinicalAttribute 869 884	surface markers
+T54	Cell 1076 1085	astrocyte
+T55	Cell 1129 1138	astrocyte
+T56	Cell 1652 1661	astrocyte
+T57	PathologicFunction 478 490	pathogenesis
+T58	CellOrMolecularDysfunction 343 360	neurodegeneration
+T59	CellOrMolecularDysfunction 1560 1577	neurodegeneration
+T60	DiseaseOrSyndrome 13 38	neurodegenerative disease
+T61	Substance 1476 1485	molecules
+T62	Chemical 648 657	particles
+T63	Finding 260 271	performance
+T64	PathologicFunction 322 333	dysfunction
+T65	PathologicFunction 1139 1150	dysfunction
+T66	NucleicAcidNucleosideOrNucleotide 128 148	small non-coding RNA
+T67	BodyPartOrganOrOrganComponent 782 785	BBB
+T68	CellComponent 970 975	ADEVs
+T69	CellComponent 1378 1382	ADEV
+T70	CellComponent 1347 1351	ADEV
+T71	CellComponent 1489 1493	ADEV
+T72	CellComponent 1621 1625	ADEV
+T73	BiologicallyActiveSubstance 378 384	scnRNA
+T74	BiologicallyActiveSubstance 128 148	small non-coding RNA
+T75	BiologicallyActiveSubstance 150 156	sncRNA
+T76	ResearchActivity 1398 1418	separation protocols
+T77	BiologicallyActiveSubstance 183 189	sncRNA
+T78	CellOrMolecularDysfunction 312 333	Astrocyte dysfunction
+T79	ResearchActivity 190 200	signatures
+T80	ResearchActivity 385 395	signatures
+T81	ResearchActivity 523 557	dissection of mechanistic insights
+T82	BiologicallyActiveSubstance 582 588	sncRNA
+T83	BiologicallyActiveSubstance 709 715	sncRNA
+T84	BiologicallyActiveSubstance 761 767	sncRNA
+T85	BiologicallyActiveSubstance 1021 1027	sncRNA
+T86	BiologicallyActiveSubstance 1208 1214	sncRNA
+T87	BiologicallyActiveSubstance 1095 1101	sncRNA
+T88	BiologicallyActiveSubstance 1502 1508	sncRNA
+T89	BiologicallyActiveSubstance 1792 1798	sncRNA
+T90	BiologicallyActiveSubstance 1328 1334	sncRNA
+T91	BiologicallyActiveSubstance 1827 1833	sncRNA
+T92	Substance 993 999	sample
+T93	BodyPartOrganOrOrganComponent 993 999	sample
+T94	CellComponent 1043 1048	ADEVs
+T95	ResearchActivity 1102 1112	signatures
+T96	CellOrMolecularDysfunction 1129 1150	astrocyte dysfunction
+T97	ResearchActivity 1215 1225	signatures
+T98	CellComponent 1229 1233	ADEV
+T99	CellComponent 1814 1818	ADEV

@@ -1,0 +1,9 @@
+T0	BodyPartOrganOrOrganComponent 49 54	brain
+T1	Eukaryote 32 36	mice
+T2	AnatomicalAbnormality 119 134	amyloid plaques
+T3	PathologicFunction 19 28	infection
+T4	Finding 55 67	colonization
+T5	Bacterium 5 18	P. gingivalis
+T6	AminoAcidPeptideOrProtein 96 102	Aβ1-42
+T7	BodyPartOrganOrOrganComponent 0 4	Oral
+T8	BiologicallyActiveSubstance 96 102	Aβ1-42

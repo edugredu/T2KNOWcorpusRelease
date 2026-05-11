@@ -1,0 +1,7 @@
+T0	PopulationGroup 164 174	population
+T1	Bacterium 0 19	Helicobacter pylori
+T2	BodyPartOrganOrOrganComponent 93 100	gastric
+T3	Bacterium 33 56	Gram-negative bacterium
+T4	BodyPartOrganOrOrganComponent 74 81	stomach
+T5	DiseaseOrSyndrome 74 88	stomach ulcers
+T6	DiseaseOrSyndrome 93 108	gastric cancers

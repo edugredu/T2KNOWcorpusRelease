@@ -1,0 +1,67 @@
+T0	BiologicFunction 0 12	Regeneration
+T1	HealthCareActivity 0 12	Regeneration
+T2	ResearchActivity 138 142	labs
+T3	CellFunction 343 375	cholesterol biosynthesis pathway
+T4	ResearchActivity 400 422	high-throughput screen
+T5	GeneOrGenome 850 853	EBP
+T6	GeneOrGenome 1047 1050	EBP
+T7	CellFunction 1120 1128	dominant
+T8	HealthCareActivity 85 105	therapeutic approach
+T9	Chemical 157 172	small molecules
+T10	Chemical 343 354	cholesterol
+T11	Chemical 791 802	cholesterol
+T12	Chemical 1084 1095	cholesterol
+T13	BiologicallyActiveSubstance 343 354	cholesterol
+T14	BiologicallyActiveSubstance 791 802	cholesterol
+T15	BiologicallyActiveSubstance 1084 1095	cholesterol
+T16	DiseaseOrSyndrome 110 128	multiple sclerosis
+T17	BodyPartOrganOrOrganComponent 16 22	myelin
+T18	Cell 592 624	oligodendrocyte progenitor cells
+T19	BiologicallyActiveSubstance 328 335	enzymes
+T20	BiologicallyActiveSubstance 811 818	enzymes
+T21	BiologicallyActiveSubstance 946 973	sterol-metabolizing enzymes
+T22	Cell 608 624	progenitor cells
+T23	HealthCareActivity 416 422	screen
+T24	ResearchActivity 416 422	screen
+T25	Eukaryote 578 581	rat
+T26	Eukaryote 1180 1183	rat
+T27	ResearchActivity 470 478	analysis
+T28	BodyPartOrganOrOrganComponent 30 52	central nervous system
+T29	Eukaryote 571 576	human
+T30	Eukaryote 1173 1178	human
+T31	ResearchActivity 900 905	model
+T32	ResearchActivity 632 639	studies
+T33	ResearchActivity 1058 1065	studies
+T34	Eukaryote 586 591	mouse
+T35	Eukaryote 1188 1193	mouse
+T36	CellFunction 1104 1114	inhibition
+T37	Finding 400 404	high
+T38	Finding 925 942	high druggability
+T39	ResearchActivity 230 237	in vivo
+T40	Cell 186 201	oligodendrocyte
+T41	Cell 540 555	oligodendrocyte
+T42	Cell 1194 1209	oligodendrocyte
+T43	Substance 163 172	molecules
+T44	Substance 276 285	molecules
+T45	Substance 442 451	molecules
+T46	Substance 495 504	molecules
+T47	Substance 727 736	molecules
+T48	CellFunction 368 375	pathway
+T49	CellFunction 803 810	pathway
+T50	CellFunction 1096 1103	pathway
+T51	CellFunction 216 229	remyelination
+T52	CellFunction 768 781	remyelination
+T53	OrganismAttribute 982 989	ability
+T54	TemporalConcept 239 247	Recently
+T55	HealthCareActivity 693 702	screening
+T56	HealthCareActivity 1145 1154	screening
+T57	ResearchActivity 693 702	screening
+T58	ResearchActivity 1145 1154	screening
+T59	BiologicallyActiveSubstance 824 848	emopamil-binding protein
+T60	BiologicallyActiveSubstance 432 451	bioactive molecules
+T61	AminoAcidPeptideOrProtein 824 848	emopamil-binding protein
+T62	AminoAcidPeptideOrProtein 850 853	EBP
+T63	BiologicallyActiveSubstance 850 853	EBP
+T64	Chemical 993 1013	cationic amphiphiles
+T65	AminoAcidPeptideOrProtein 1047 1050	EBP
+T66	BiologicallyActiveSubstance 1047 1050	EBP

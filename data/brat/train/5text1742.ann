@@ -1,0 +1,7 @@
+T0	CellOrMolecularDysfunction 125 142	neurodegeneration
+T1	BiomedicalOccupationOrDiscipline 12 27	systems biology
+T2	BiologicFunction 64 77	understanding
+T3	BiologicFunction 20 27	biology
+T4	CellFunction 93 112	regulatory networks
+T5	Organism 0 5	Yeast
+T6	ResearchActivity 12 38	systems biology approaches

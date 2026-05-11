@@ -1,0 +1,17 @@
+T0	Finding 29 40	performance
+T1	BiologicFunction 44 70	activities of daily living
+T2	TemporalConcept 117 126	long-term
+T3	HealthCareActivity 207 247	pharmacologic and psychiatric treatments
+T4	HealthCareActivity 274 284	management
+T5	SignOrSymptom 288 293	signs
+T6	SignOrSymptom 298 306	symptoms
+T7	HealthCareActivity 388 410	exercise interventions
+T8	Finding 477 496	functional capacity
+T9	Finding 536 551	care dependency
+T10	DiseaseOrSyndrome 189 191	HD
+T11	DiseaseOrSyndrome 252 254	HD
+T12	PatientOrDisabledGroup 150 187	individuals with huntington's disease
+T13	TemporalConcept 355 360	onset
+T14	BiologicFunction 127 146	physical capability
+T15	SignOrSymptom 364 386	clinical manifestation
+T16	BiologicFunction 501 520	neuromotor function

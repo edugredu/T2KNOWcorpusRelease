@@ -1,0 +1,1 @@
+Natural language processing (NLP) techniques are being applied to analyze text data, such as medical records and research papers, to extract valuable insights related to Alzheimer's disease.

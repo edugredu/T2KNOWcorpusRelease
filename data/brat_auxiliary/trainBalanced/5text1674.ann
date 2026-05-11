@@ -1,0 +1,8 @@
+T0	CellOrMolecularDysfunction 135 152	neurodegeneration
+T1	DiseaseOrSyndrome 83 100	cognitive decline
+T2	EnvironmentalEffectOfHumans 65 78	air pollution
+T3	Finding 22 34	relationship
+T4	TemporalConcept 43 52	long-term
+T5	ResearchActivity 0 7	Studies
+T6	InjuryOrPoisoning 53 78	exposure to air pollution
+T7	EnvironmentalEffectOfHumans 69 78	pollution

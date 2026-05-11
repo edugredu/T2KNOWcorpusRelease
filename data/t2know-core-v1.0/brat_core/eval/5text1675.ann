@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 120 145	neurodegenerative disease
+T1	PathologicFunction 146 158	pathogenesis
+T2	Organism 49 63	gut microbiota
+T3	EnvironmentalEffectOfHumans 28 41	air pollution
+T4	BodyPartOrganOrOrganComponent 49 73	gut microbiota-brain axi
+T5	NaturalPhenomenonOrProcess 84 89	light
+T6	EnvironmentalEffectOfHumans 32 41	pollution

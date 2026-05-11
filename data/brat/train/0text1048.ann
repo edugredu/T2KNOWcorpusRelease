@@ -1,0 +1,134 @@
+T0	AminoAcidPeptideOrProtein 315 327	Cerebrolysin
+T1	AminoAcidPeptideOrProtein 329 330	R
+T2	CellOrMolecularDysfunction 329 330	R
+T3	BodyPartOrganOrOrganComponent 329 330	R
+T4	Chemical 333 342	donepezil
+T5	AminoAcidPeptideOrProtein 455 466	neurogranin
+T6	GeneOrGenome 455 466	neurogranin
+T7	GeneOrGenome 472 476	REST
+T8	CellFunction 472 476	REST
+T9	Finding 504 508	mild
+T10	AminoAcidPeptideOrProtein 593 605	Cerebrolysin
+T11	AminoAcidPeptideOrProtein 607 608	R
+T12	CellOrMolecularDysfunction 607 608	R
+T13	BodyPartOrganOrOrganComponent 607 608	R
+T14	Chemical 611 620	donepezil
+T15	ResearchActivity 650 675	randomized clinical trial
+T16	ResearchActivity 677 680	RCT
+T17	ResearchActivity 801 804	RCT
+T18	BiologicFunction 806 815	Cognition
+T19	TemporalConcept 858 869	time points
+T20	AminoAcidPeptideOrProtein 970 981	neurogranin
+T21	GeneOrGenome 970 981	neurogranin
+T22	GeneOrGenome 986 990	REST
+T23	CellFunction 986 990	REST
+T24	AminoAcidPeptideOrProtein 1083 1094	neurogranin
+T25	GeneOrGenome 1083 1094	neurogranin
+T26	GeneOrGenome 1100 1104	REST
+T27	CellFunction 1100 1104	REST
+T28	HealthCareActivity 1342 1361	Combination therapy
+T29	Chemical 1545 1554	donepezil
+T30	HealthCareActivity 1555 1566	monotherapy
+T31	BiomedicalOccupationOrDiscipline 1661 1671	pathologic
+T32	Finding 1481 1490	decreased
+T33	ClinicalAttribute 240 248	severity
+T34	ClinicalAttribute 1123 1131	severity
+T35	ClinicalAttribute 1739 1747	severity
+T36	Finding 240 248	severity
+T37	Finding 1123 1131	severity
+T38	Finding 1739 1747	severity
+T39	BiologicallyActiveSubstance 1284 1293	TNF-alpha
+T40	AminoAcidPeptideOrProtein 1284 1293	TNF-alpha
+T41	ResearchActivity 661 675	clinical trial
+T42	HealthCareActivity 350 369	combination therapy
+T43	HealthCareActivity 625 644	combination therapy
+T44	BiologicFunction 250 259	cognition
+T45	PopulationGroup 1033 1041	controls
+T46	Finding 1013 1021	moderate
+T47	PopulationGroup 543 559	control subjects
+T48	PopulationGroup 551 559	subjects
+T49	PharmacologicSubstance 333 342	donepezil
+T50	PharmacologicSubstance 611 620	donepezil
+T51	AminoAcidPeptideOrProtein 74 82	proteins
+T52	AminoAcidPeptideOrProtein 1685 1693	proteins
+T53	CellComponent 36 58	extracellular vesicles
+T54	DiseaseOrSyndrome 215 234	Alzheimer's disease
+T55	DiseaseOrSyndrome 236 238	AD
+T56	DiseaseOrSyndrome 373 375	AD
+T57	DiseaseOrSyndrome 521 523	AD
+T58	DiseaseOrSyndrome 568 570	AD
+T59	DiseaseOrSyndrome 1022 1024	AD
+T60	DiseaseOrSyndrome 1120 1122	AD
+T61	DiseaseOrSyndrome 1707 1709	AD
+T62	DiseaseOrSyndrome 1736 1738	AD
+T63	DiseaseOrSyndrome 1807 1809	AD
+T64	AminoAcidPeptideOrProtein 408 414	A beta
+T65	AminoAcidPeptideOrProtein 895 901	A beta
+T66	AminoAcidPeptideOrProtein 1162 1168	A beta
+T67	AminoAcidPeptideOrProtein 1375 1381	A beta
+T68	PatientOrDisabledGroup 524 532	patients
+T69	PatientOrDisabledGroup 571 579	patients
+T70	PatientOrDisabledGroup 1515 1523	patients
+T71	ClinicalAttribute 202 209	markers
+T72	ClinicalAttribute 1725 1732	markers
+T73	Cell 19 27	neuronal
+T74	AminoAcidPeptideOrProtein 426 429	tau
+T75	AminoAcidPeptideOrProtein 438 441	tau
+T76	AminoAcidPeptideOrProtein 450 453	tau
+T77	AminoAcidPeptideOrProtein 913 916	tau
+T78	AminoAcidPeptideOrProtein 925 928	tau
+T79	AminoAcidPeptideOrProtein 941 944	tau
+T80	AminoAcidPeptideOrProtein 1078 1081	tau
+T81	AminoAcidPeptideOrProtein 1183 1186	tau
+T82	AminoAcidPeptideOrProtein 1247 1250	tau
+T83	AminoAcidPeptideOrProtein 1444 1447	tau
+T84	AminoAcidPeptideOrProtein 1456 1459	tau
+T85	AminoAcidPeptideOrProtein 1472 1475	tau
+T86	ClinicalAttribute 298 308	biomarkers
+T87	ClinicalAttribute 1710 1720	biomarkers
+T88	BiologicallyActiveSubstance 426 429	tau
+T89	BiologicallyActiveSubstance 438 441	tau
+T90	BiologicallyActiveSubstance 450 453	tau
+T91	BiologicallyActiveSubstance 913 916	tau
+T92	BiologicallyActiveSubstance 925 928	tau
+T93	BiologicallyActiveSubstance 941 944	tau
+T94	BiologicallyActiveSubstance 1078 1081	tau
+T95	BiologicallyActiveSubstance 1183 1186	tau
+T96	BiologicallyActiveSubstance 1247 1250	tau
+T97	BiologicallyActiveSubstance 1444 1447	tau
+T98	BiologicallyActiveSubstance 1456 1459	tau
+T99	BiologicallyActiveSubstance 1472 1475	tau
+T100	BodyPartOrganOrOrganComponent 1676 1684	synaptic
+T101	PharmacologicSubstance 1810 1815	drugs
+T102	HealthCareActivity 362 369	therapy
+T103	HealthCareActivity 637 644	therapy
+T104	HealthCareActivity 1354 1361	therapy
+T105	ResearchActivity 753 758	study
+T106	ResearchActivity 779 784	study
+T107	PathologicFunction 1791 1801	effects of
+T108	BodyPartOrganOrOrganComponent 190 196	plasma
+T109	BodyPartOrganOrOrganComponent 1277 1283	plasma
+T110	DiseaseOrSyndrome 1309 1329	cognitive impairment
+T111	HealthCareActivity 580 592	treated with
+T112	AminoAcidPeptideOrProtein 1220 1224	BDNF
+T113	BiologicallyActiveSubstance 1220 1224	BDNF
+T114	BodyPartOrganOrOrganComponent 1214 1219	serum
+T115	ResearchActivity 871 878	Results
+T116	GeneOrGenome 1220 1224	BDNF
+T117	BodyPartOrganOrOrganComponent 12 18	Plasma
+T118	BodyPartOrganOrOrganComponent 386 392	Plasma
+T119	HealthCareActivity 1776 1786	monitoring
+T120	TemporalConcept 858 862	time
+T121	CellComponent 60 64	NDEV
+T122	CellComponent 197 201	NDEV
+T123	CellComponent 880 884	NDEV
+T124	ClinicalAttribute 880 905	NDEV levels of A beta(42)
+T125	ClinicalAttribute 1067 1081	NDEV total tau
+T126	ClinicalAttribute 1157 1171	NDEV A beta 42
+T127	ClinicalAttribute 1370 1385	NDEV A beta(42)
+T128	ClinicalAttribute 1433 1447	NDEV total tau
+T129	AminoAcidPeptideOrProtein 1494 1506	Cerebrolysin
+T130	PharmacologicSubstance 1494 1506	Cerebrolysin
+T131	PharmacologicSubstance 1545 1554	donepezil
+T132	CellComponent 1638 1642	NDEV
+T133	ClinicalAttribute 386 418	Plasma NDEV levels of A beta(42)

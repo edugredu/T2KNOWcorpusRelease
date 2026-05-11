@@ -1,0 +1,91 @@
+T0	BiomedicalOccupationOrDiscipline 28 40	technologies
+T1	NaturalPhenomenonOrProcess 231 243	fluorescence
+T2	NaturalPhenomenonOrProcess 287 299	fluorescence
+T3	GeneOrGenome 435 439	CD81
+T4	Finding 483 486	low
+T5	GeneOrGenome 487 491	CD81
+T6	Chemical 524 550	culture conditioned medium
+T7	HealthCareActivity 619 634	ultrafiltration
+T8	HealthCareActivity 636 638	UF
+T9	ResearchActivity 644 673	size exclusion chromatography
+T10	ResearchActivity 675 678	SEC
+T11	ResearchActivity 701 733	transmission electron microscopy
+T12	ResearchActivity 735 738	TEM
+T13	ResearchActivity 744 756	Western blot
+T14	ResearchActivity 758 760	WB
+T15	Chemical 796 802	silica
+T16	BiologicFunction 852 866	concentrations
+T17	ManufacturedObject 916 931	particle counts
+T18	BiologicFunction 1098 1112	concentrations
+T19	PopulationGroup 1493 1504	populations
+T20	AminoAcidPeptideOrProtein 1571 1582	tetraspanin
+T21	BiologicallyActiveSubstance 1571 1582	tetraspanin
+T22	NaturalPhenomenonOrProcess 1620 1637	fluorescence mode
+T23	GeneOrGenome 1727 1731	CD81
+T24	ResearchActivity 560 592	differential ultracentrifugation
+T25	Chemical 552 555	CCM
+T26	CellComponent 82 104	extracellular vesicles
+T27	CellComponent 106 109	EVs
+T28	CellComponent 389 392	EVs
+T29	CellComponent 1006 1009	EVs
+T30	CellComponent 1877 1879	EV
+T31	AminoAcidPeptideOrProtein 445 449	CD63
+T32	AminoAcidPeptideOrProtein 498 502	CD63
+T33	AminoAcidPeptideOrProtein 1735 1739	CD63
+T34	ResearchActivity 1172 1180	profiles
+T35	BiologicFunction 1890 1901	development
+T36	CellFunction 1890 1901	development
+T37	ClinicalAttribute 1670 1677	markers
+T38	BiologicallyActiveSubstance 445 449	CD63
+T39	BiologicallyActiveSubstance 498 502	CD63
+T40	BiologicallyActiveSubstance 1735 1739	CD63
+T41	Eukaryote 402 407	human
+T42	ResearchActivity 245 275	nanoparticle tracking analysis
+T43	ResearchActivity 1816 1840	single-particle analysis
+T44	PopulationGroup 1330 1340	population
+T45	ResearchActivity 1770 1775	study
+T46	ResearchActivity 1918 1925	studies
+T47	OrganismAttribute 1167 1171	size
+T48	OrganismAttribute 1488 1492	size
+T49	ResearchActivity 156 215	single-particle interferometric reflectance imaging sensing
+T50	ClinicalAttribute 1880 1889	biomarker
+T51	Finding 1254 1265	sensitivity
+T52	ResearchActivity 217 224	SP-IRIS
+T53	ResearchActivity 301 337	microfluidic resistive pulse sensing
+T54	ResearchActivity 350 380	nanoflow cytometry measurement
+T55	AminoAcidPeptideOrProtein 382 386	NFCM
+T56	ResearchActivity 339 343	MRPS
+T57	ResearchActivity 277 280	NTA
+T58	Cell 408 428	T lymphocyte line H9
+T59	AminoAcidPeptideOrProtein 435 439	CD81
+T60	BiologicallyActiveSubstance 435 439	CD81
+T61	GeneOrGenome 445 449	CD63
+T62	Cell 459 481	promonocytic line U937
+T63	ResearchActivity 594 597	dUC
+T64	ResearchActivity 619 634	ultrafiltration
+T65	Chemical 807 826	polystyrene spheres
+T66	ResearchActivity 885 889	MRPS
+T67	ResearchActivity 894 898	NFCM
+T68	ResearchActivity 1044 1051	SP-IRIS
+T69	ResearchActivity 1126 1133	SP-IRIS
+T70	ResearchActivity 1135 1139	MRPS
+T71	ResearchActivity 1145 1149	NFCM
+T72	ResearchActivity 1410 1417	SP-IRIS
+T73	ResearchActivity 1419 1423	MRPS
+T74	ResearchActivity 1429 1433	NFCM
+T75	ResearchActivity 1600 1616	SP-IRIS platform
+T76	GeneOrGenome 1735 1739	CD63
+T77	ResearchActivity 939 942	NTA
+T78	Chemical 1521 1527	silica
+T79	Chemical 1531 1556	polystyrene nanoparticles
+T80	ResearchActivity 1706 1710	NFCM
+T81	AminoAcidPeptideOrProtein 1727 1731	CD81
+T82	BiologicallyActiveSubstance 1727 1731	CD81
+T83	Chemical 775 794	synthetic particles
+T84	Chemical 1089 1097	particle
+T85	Chemical 1690 1698	particle
+T86	Chemical 1823 1831	particle
+T87	Chemical 115 134	synthetic particles
+T88	ResearchActivity 1315 1318	NTA
+T89	Chemical 1344 1353	particles
+T90	ResearchActivity 1583 1594	phenotyping

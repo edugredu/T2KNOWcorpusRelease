@@ -1,0 +1,221 @@
+T0	Finding 67 73	detect
+T1	TemporalConcept 67 73	detect
+T2	PathologicFunction 113 125	invasiveness
+T3	DiseaseOrSyndrome 503 522	hippocampal atrophy
+T4	PopulationGroup 1027 1039	young adults
+T5	HealthCareActivity 1138 1150	primary care
+T6	HealthCareActivity 1334 1346	primary care
+T7	BiologicFunction 1419 1433	Concentrations
+T8	HealthCareActivity 1924 1933	continuum
+T9	PopulationGroup 1989 2001	young adults
+T10	PopulationGroup 2380 2392	young adults
+T11	PathologicFunction 2723 2747	multiple systems atrophy
+T12	AminoAcidPeptideOrProtein 2862 2872	amyloid 13
+T13	DiseaseOrSyndrome 2964 2983	hippocampal atrophy
+T14	HealthCareActivity 3002 3014	primary care
+T15	PopulationGroup 3078 3090	young adults
+T16	AminoAcidPeptideOrProtein 3237 3247	amyloid 13
+T17	HealthCareActivity 1347 1357	physicians
+T18	BiologicFunction 662 673	prospective
+T19	BiologicFunction 1951 1965	concentrations
+T20	BiologicFunction 2058 2072	concentrations
+T21	BiologicFunction 2167 2181	concentrations
+T22	ResearchActivity 609 614	Assay
+T23	HealthCareActivity 1413 1417	care
+T24	HealthCareActivity 1803 1807	care
+T25	BodyPartOrganOrOrganComponent 2594 2602	vascular
+T26	Finding 830 852	cognitively unimpaired
+T27	Finding 2006 2028	cognitively unimpaired
+T28	Finding 2100 2122	cognitively unimpaired
+T29	Finding 2410 2432	cognitively unimpaired
+T30	Finding 3106 3128	cognitively unimpaired
+T31	DiseaseOrSyndrome 2594 2611	vascular dementia
+T32	BodyPartOrganOrOrganComponent 2296 2302	Plasma
+T33	BodyPartOrganOrOrganComponent 2762 2768	Plasma
+T34	DiseaseOrSyndrome 1105 1132	neurodegenerative disorders
+T35	DiseaseOrSyndrome 2498 2525	neurodegenerative disorders
+T36	DiseaseOrSyndrome 3306 3333	neurodegenerative disorders
+T37	HealthCareRelatedOrganization 1249 1258	community
+T38	BodyPartOrganOrOrganComponent 3202 3207	Blood
+T39	BodyPartOrganOrOrganComponent 3398 3403	Blood
+T40	HealthCareActivity 2802 2810	measured
+T41	PathologicFunction 2907 2918	pathologies
+T42	ResearchActivity 583 594	immunoassay
+T43	ResearchActivity 778 788	validation
+T44	ResearchActivity 1702 1712	validation
+T45	ResearchActivity 1747 1757	validation
+T46	PopulationGroup 853 865	older adults
+T47	PopulationGroup 2029 2041	older adults
+T48	PopulationGroup 2123 2135	older adults
+T49	PopulationGroup 2433 2445	older adults
+T50	PopulationGroup 3129 3141	older adults
+T51	DiseaseOrSyndrome 966 989	frontotemporal dementia
+T52	DiseaseOrSyndrome 2537 2560	frontotemporal dementia
+T53	TemporalConcept 1696 1701	first
+T54	TemporalConcept 2926 2930	year
+T55	ClinicalAttribute 247 286	CSF tau phosphorylated at threonine 181
+T56	ResearchActivity 1597 1623	linear regression analyses
+T57	PathologicFunction 86 103	disease pathology
+T58	PathologicFunction 345 362	disease pathology
+T59	DiseaseOrSyndrome 2660 2681	corticobasal syndrome
+T60	DiseaseOrSyndrome 2626 2656	progressive supranuclear palsy
+T61	DiseaseOrSyndrome 2638 2656	supranuclear palsy
+T62	AminoAcidPeptideOrProtein 52 55	tau
+T63	AminoAcidPeptideOrProtein 2820 2823	tau
+T64	AminoAcidPeptideOrProtein 3229 3232	tau
+T65	DiseaseOrSyndrome 74 93	Alzheimer's disease
+T66	DiseaseOrSyndrome 333 352	Alzheimer's disease
+T67	DiseaseOrSyndrome 439 458	Alzheimer's disease
+T68	DiseaseOrSyndrome 728 747	Alzheimer's disease
+T69	DiseaseOrSyndrome 941 960	Alzheimer's disease
+T70	DiseaseOrSyndrome 1904 1923	Alzheimer's disease
+T71	DiseaseOrSyndrome 2217 2236	Alzheimer's disease
+T72	DiseaseOrSyndrome 2254 2273	Alzheimer's disease
+T73	DiseaseOrSyndrome 2326 2345	Alzheimer's disease
+T74	DiseaseOrSyndrome 3053 3072	Alzheimer's disease
+T75	DiseaseOrSyndrome 3275 3294	Alzheimer's disease
+T76	DiseaseOrSyndrome 3348 3367	Alzheimer's disease
+T77	DiseaseOrSyndrome 3501 3520	Alzheimer's disease
+T78	BodyPartOrganOrOrganComponent 11 14	CSF
+T79	BodyPartOrganOrOrganComponent 1484 1487	CSF
+T80	BiologicallyActiveSubstance 52 55	tau
+T81	BiologicallyActiveSubstance 2820 2823	tau
+T82	BiologicallyActiveSubstance 3229 3232	tau
+T83	ClinicalAttribute 319 328	biomarker
+T84	ClinicalAttribute 425 434	biomarker
+T85	PopulationGroup 764 772	controls
+T86	TemporalConcept 2626 2637	progressive
+T87	PatientOrDisabledGroup 714 722	patients
+T88	PatientOrDisabledGroup 1085 1093	patients
+T89	PatientOrDisabledGroup 1311 1319	patients
+T90	OrganismAttribute 1019 1026	healthy
+T91	ResearchActivity 1565 1585	area under the curve
+T92	DiseaseOrSyndrome 2700 2719	Parkinson's disease
+T93	PopulationGroup 674 681	cohorts
+T94	PopulationGroup 789 796	cohorts
+T95	PopulationGroup 1844 1851	cohorts
+T96	PopulationGroup 2471 2478	cohorts
+T97	PopulationGroup 2584 2591	cohorts
+T98	PopulationGroup 2849 2856	cohorts
+T99	PopulationGroup 2898 2905	cohorts
+T100	HealthCareActivity 3474 3483	screening
+T101	ResearchActivity 3474 3483	screening
+T102	PopulationGroup 890 902	participants
+T103	PopulationGroup 1175 1187	participants
+T104	PopulationGroup 1227 1239	participants
+T105	PopulationGroup 1648 1659	individuals
+T106	PopulationGroup 1823 1834	individuals
+T107	AminoAcidPeptideOrProtein 37 44	amyloid
+T108	AminoAcidPeptideOrProtein 1969 1976	amyloid
+T109	AminoAcidPeptideOrProtein 2080 2090	amyloid 13
+T110	AminoAcidPeptideOrProtein 2189 2199	amyloid 13
+T111	AminoAcidPeptideOrProtein 2360 2370	amyloid 13
+T112	BiologicallyActiveSubstance 37 44	amyloid
+T113	BiologicallyActiveSubstance 1969 1976	amyloid
+T114	BiologicallyActiveSubstance 2080 2090	amyloid 13
+T115	BiologicallyActiveSubstance 2189 2199	amyloid 13
+T116	BiologicallyActiveSubstance 2360 2370	amyloid 13
+T117	BiologicallyActiveSubstance 2862 2872	amyloid 13
+T118	BiologicallyActiveSubstance 3237 3247	amyloid 13
+T119	DiseaseOrSyndrome 981 989	dementia
+T120	DiseaseOrSyndrome 2346 2354	dementia
+T121	DiseaseOrSyndrome 2552 2560	dementia
+T122	DiseaseOrSyndrome 2603 2611	dementia
+T123	HealthCareActivity 1269 1278	diagnosis
+T124	HealthCareActivity 3488 3497	diagnosis
+T125	ClinicalAttribute 23 33	biomarkers
+T126	ClinicalAttribute 1496 1506	biomarkers
+T127	DiseaseOrSyndrome 935 938	MCI
+T128	DiseaseOrSyndrome 2140 2143	MCI
+T129	DiseaseOrSyndrome 2209 2212	MCI
+T130	DiseaseOrSyndrome 3169 3172	MCI
+T131	BodyPartOrganOrOrganComponent 2660 2672	corticobasal
+T132	ResearchActivity 687 696	discovery
+T133	ResearchActivity 1667 1676	discovery
+T134	BodyPartOrganOrOrganComponent 1437 1443	plasma
+T135	BodyPartOrganOrOrganComponent 1853 1859	plasma
+T136	BodyPartOrganOrOrganComponent 3023 3029	plasma
+T137	AminoAcidPeptideOrProtein 288 296	p-tau181
+T138	AminoAcidPeptideOrProtein 397 405	p-tau181
+T139	AminoAcidPeptideOrProtein 599 607	p-tau181
+T140	AminoAcidPeptideOrProtein 1444 1452	p-tau181
+T141	AminoAcidPeptideOrProtein 1860 1868	p-tau181
+T142	AminoAcidPeptideOrProtein 2303 2311	p-tau181
+T143	AminoAcidPeptideOrProtein 2769 2777	p-tau181
+T144	AminoAcidPeptideOrProtein 3030 3038	p-tau181
+T145	AminoAcidPeptideOrProtein 3208 3216	p-tau181
+T146	AminoAcidPeptideOrProtein 3404 3412	p-tau181
+T147	BiologicallyActiveSubstance 288 296	p-tau181
+T148	BiologicallyActiveSubstance 397 405	p-tau181
+T149	BiologicallyActiveSubstance 599 607	p-tau181
+T150	BiologicallyActiveSubstance 1444 1452	p-tau181
+T151	BiologicallyActiveSubstance 1860 1868	p-tau181
+T152	BiologicallyActiveSubstance 2303 2311	p-tau181
+T153	BiologicallyActiveSubstance 2769 2777	p-tau181
+T154	BiologicallyActiveSubstance 3030 3038	p-tau181
+T155	BiologicallyActiveSubstance 3208 3216	p-tau181
+T156	BiologicallyActiveSubstance 3404 3412	p-tau181
+T157	BodyPartOrganOrOrganComponent 391 396	blood
+T158	BodyPartOrganOrOrganComponent 577 582	blood
+T159	Finding 615 626	performance
+T160	PopulationGroup 1219 1226	control
+T161	DiseaseOrSyndrome 481 498	cognitive decline
+T162	DiseaseOrSyndrome 2931 2948	cognitive decline
+T163	PopulationGroup 2144 2150	groups
+T164	PopulationGroup 2237 2243	groups
+T165	PopulationGroup 2287 2293	groups
+T166	OrganismAttribute 752 755	age
+T167	OrganismAttribute 872 875	age
+T168	OrganismAttribute 1046 1049	age
+T169	TemporalConcept 882 887	years
+T170	TemporalConcept 1053 1058	years
+T171	HealthCareActivity 1524 1536	measurements
+T172	DiseaseOrSyndrome 1284 1306	neurological condition
+T173	Finding 467 477	prediction
+T174	HealthCareActivity 19 22	PET
+T175	HealthCareActivity 1492 1495	PET
+T176	HealthCareActivity 2798 2801	PET
+T177	DiseaseOrSyndrome 908 933	mild cognitive impairment
+T178	HealthCareActivity 169 186	detection methods
+T179	ResearchActivity 1511 1523	longitudinal
+T180	PopulationGroup 697 703	cohort
+T181	PopulationGroup 1151 1157	cohort
+T182	PopulationGroup 1677 1683	cohort
+T183	PopulationGroup 1713 1719	cohort
+T184	PopulationGroup 1758 1764	cohort
+T185	PopulationGroup 1808 1814	cohort
+T186	PopulationGroup 3015 3021	cohort
+T187	HealthCareActivity 220 245	clinical diagnostic tools
+T188	ResearchActivity 1587 1590	AUC
+T189	ResearchActivity 2394 2397	AUC
+T190	ResearchActivity 2447 2450	AUC
+T191	ResearchActivity 2562 2565	AUC
+T192	ResearchActivity 2613 2616	AUC
+T193	ResearchActivity 2683 2686	AUC
+T194	ResearchActivity 2749 2752	AUC
+T195	ResearchActivity 2825 2828	AUC
+T196	ResearchActivity 2874 2877	AUC
+T197	ResearchActivity 3092 3095	AUC
+T198	ResearchActivity 3143 3146	AUC
+T199	ResearchActivity 3174 3177	AUC
+T200	ResearchActivity 3465 3469	test
+T201	HealthCareActivity 3465 3469	test
+T202	Finding 127 136	high cost
+T203	ResearchActivity 169 186	detection methods
+T204	ClinicalAttribute 391 405	blood p-tau181
+T205	ResearchActivity 1004 1009	TRIAD
+T206	ResearchActivity 1064 1075	BioFINDER-2
+T207	ResearchActivity 798 803	TRIAD
+T208	ResearchActivity 808 819	BioFINDER-2
+T209	HealthCareRelatedOrganization 1365 1397	Canadian National Health Service
+T210	ResearchActivity 1721 1726	TRIAD
+T211	ResearchActivity 1543 1563	Spearman correlation
+T212	ResearchActivity 1766 1777	BioFINDER-2
+T213	ClinicalAttribute 3202 3216	Blood p-tau181
+T214	PathologicFunction 3248 3259	pathologies
+T215	ClinicalAttribute 3398 3412	Blood p-tau181
+T216	ClinicalAttribute 3023 3038	plasma p-tau181
+T217	ClinicalAttribute 2762 2777	Plasma p-tau181
+T218	ClinicalAttribute 2296 2311	Plasma p-tau181
+T219	ClinicalAttribute 1853 1868	plasma p-tau181
+T220	ClinicalAttribute 1437 1452	plasma p-tau181

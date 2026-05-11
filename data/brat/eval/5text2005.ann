@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 55 57	MS
+T1	ClinicalAttribute 137 144	markers
+T2	ResearchActivity 58 66	research
+T3	Substance 23 31	biofluid
+T4	BodyPartOrganOrOrganComponent 6 11	serum
+T5	BodyPartOrganOrOrganComponent 0 5	Blood
+T6	BodyPartOrganOrOrganComponent 95 108	immune system
+T7	PathologicFunction 124 136	inflammatory

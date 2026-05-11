@@ -1,0 +1,71 @@
+T0	PopulationGroup 221 226	Adult
+T1	BiologicallyActiveSubstance 995 1006	immunogenic
+T2	CellFunction 1037 1047	upregulate
+T3	ExperimentalModelOfDisease 950 979	mouse models of demyelination
+T4	ExperimentalModelOfDisease 1077 1116	inflammatory demyelinating mouse models
+T5	TemporalConcept 583 590	to date
+T6	CellFunction 984 991	express
+T7	CellFunction 1007 1022	transcriptional
+T8	TemporalConcept 30 41	concomitant
+T9	CellFunction 50 65	trophic support
+T10	TemporalConcept 586 590	date
+T11	ResearchActivity 1023 1032	signature
+T12	CellComponent 98 103	axons
+T13	Cell 499 515	oligodendrocytes
+T14	Cell 888 904	oligodendrocytes
+T15	Cell 1336 1352	oligodendrocytes
+T16	Cell 260 264	OPCs
+T17	Cell 448 452	OPCs
+T18	Cell 835 839	OPCs
+T19	Cell 879 883	OPCs
+T20	Cell 1117 1121	OPCs
+T21	Cell 1306 1310	OPCs
+T22	Cell 767 770	OPC
+T23	DiseaseOrSyndrome 298 320	demyelinating diseases
+T24	Cell 227 258	oligodendrocyte precursor cells
+T25	PathologicFunction 1090 1103	demyelinating
+T26	DiseaseOrSyndrome 196 214	multiple sclerosis
+T27	DiseaseOrSyndrome 919 937	multiple sclerosis
+T28	BodyPartOrganOrOrganComponent 1374 1380	myelin
+T29	InjuryOrPoisoning 938 945	lesions
+T30	CellFunction 429 444	differentiation
+T31	CellFunction 771 786	differentiation
+T32	Cell 339 367	myelinating oligodendrocytes
+T33	CellFunction 665 684	OPC differentiation
+T34	CellFunction 767 786	OPC differentiation
+T35	Cell 1235 1250	oligodendroglia
+T36	NaturalPhenomenonOrProcess 80 86	energy
+T37	CellOrMolecularDysfunction 388 407	axonal degeneration
+T38	PathologicFunction 1077 1089	inflammatory
+T39	PathologicFunction 1293 1305	inflammatory
+T40	PathologicFunction 1323 1335	inflammatory
+T41	CellFunction 468 479	integration
+T42	MachineActivity 468 479	integration
+T43	CellFunction 1374 1387	myelin repair
+T44	Finding 1205 1213	evidence
+T45	Eukaryote 913 918	human
+T46	Cell 1171 1184	CD8 + T cells
+T47	Cell 1254 1278	antigen presenting cells
+T48	ResearchActivity 1194 1200	review
+T49	HealthCareActivity 1194 1200	review
+T50	ResearchActivity 848 855	studies
+T51	TemporalConcept 841 847	Recent
+T52	CellOrMolecularDysfunction 133 150	neurodegeneration
+T53	BodyPartOrganOrOrganComponent 609 622	immune system
+T54	AminoAcidPeptideOrProtein 726 748	Inflammatory cytokines
+T55	BiologicallyActiveSubstance 726 748	Inflammatory cytokines
+T56	CellFunction 700 713	remyelination
+T57	HealthCareActivity 563 572	therapies
+T58	DiseaseOrSyndrome 216 218	MS
+T59	PathologicFunction 8 21	demyelination
+T60	PathologicFunction 966 979	demyelination
+T61	TemporalConcept 544 559	next generation
+T62	BiologicFunction 1381 1387	repair
+T63	HealthCareActivity 1381 1387	repair
+T64	DiseaseOrSyndrome 166 187	neurological diseases
+T65	TemporalConcept 0 7	Chronic
+T66	Finding 42 46	loss
+T67	Finding 574 582	Evidence
+T68	GeneOrGenome 1048 1072	antigen presenting genes
+T69	Cell 1312 1317	iOPCs
+T70	Cell 1354 1358	iOLs

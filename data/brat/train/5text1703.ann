@@ -1,0 +1,5 @@
+T0	DiseaseOrSyndrome 90 115	neurodegenerative disease
+T1	PathologicFunction 116 128	pathogenesis
+T2	BiologicFunction 46 63	circadian rhythms
+T3	EnvironmentalEffectOfHumans 0 23	Environmental pollution
+T4	PathologicFunction 32 63	disruption of circadian rhythms

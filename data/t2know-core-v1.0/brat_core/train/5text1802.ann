@@ -1,0 +1,5 @@
+T0	PathologicFunction 40 49	sensitive
+T1	InjuryOrPoisoning 116 126	disruption
+T2	DiseaseOrSyndrome 141 169	neurodevelopmental disorders
+T3	EmbryonicStructure 4 23	developmental brain
+T4	Finding 65 89	environmental influences

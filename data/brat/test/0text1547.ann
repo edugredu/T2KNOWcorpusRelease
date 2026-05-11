@@ -1,0 +1,69 @@
+T0	Finding 387 398	independent
+T1	AminoAcidPeptideOrProtein 629 641	hub proteins
+T2	AminoAcidPeptideOrProtein 862 874	hub proteins
+T3	AminoAcidPeptideOrProtein 133 141	proteome
+T4	AminoAcidPeptideOrProtein 1014 1022	proteome
+T5	BiologicallyActiveSubstance 133 141	proteome
+T6	BiologicallyActiveSubstance 1014 1022	proteome
+T7	PopulationGroup 285 302	Hong Kong Chinese
+T8	ClinicalAttribute 883 896	disease stage
+T9	TemporalConcept 883 896	disease stage
+T10	CellFunction 465 479	phosphorylated
+T11	PathologicFunction 587 599	dysregulated
+T12	TemporalConcept 945 951	stages
+T13	BodyPartOrganOrOrganComponent 13 18	Blood
+T14	TemporalConcept 1121 1128	staging
+T15	Finding 907 920	dysregulation
+T16	AminoAcidPeptideOrProtein 460 463	tau
+T17	AminoAcidPeptideOrProtein 480 483	tau
+T18	DiseaseOrSyndrome 69 88	Alzheimer's disease
+T19	BiologicallyActiveSubstance 460 463	tau
+T20	BiologicallyActiveSubstance 480 483	tau
+T21	DiseaseOrSyndrome 90 92	AD
+T22	DiseaseOrSyndrome 160 162	AD
+T23	DiseaseOrSyndrome 233 235	AD
+T24	DiseaseOrSyndrome 538 540	AD
+T25	DiseaseOrSyndrome 603 605	AD
+T26	DiseaseOrSyndrome 664 666	AD
+T27	DiseaseOrSyndrome 761 772	clinical AD
+T28	DiseaseOrSyndrome 942 944	AD
+T29	DiseaseOrSyndrome 1004 1006	AD
+T30	AminoAcidPeptideOrProtein 465 483	phosphorylated tau
+T31	BiologicallyActiveSubstance 465 483	phosphorylated tau
+T32	ResearchActivity 774 794	area under the curve
+T33	HealthCareActivity 1095 1116	clinical AD screening
+T34	AminoAcidPeptideOrProtein 451 458	amyloid
+T35	BiologicallyActiveSubstance 451 458	amyloid
+T36	ClinicalAttribute 54 64	biomarkers
+T37	ClinicalAttribute 169 179	biomarkers
+T38	ClinicalAttribute 436 446	biomarkers
+T39	ResearchActivity 969 974	study
+T40	BodyPartOrganOrOrganComponent 126 132	plasma
+T41	BodyPartOrganOrOrganComponent 264 270	plasma
+T42	BodyPartOrganOrOrganComponent 429 435	plasma
+T43	BodyPartOrganOrOrganComponent 606 612	plasma
+T44	BodyPartOrganOrOrganComponent 667 673	plasma
+T45	BodyPartOrganOrOrganComponent 1007 1013	plasma
+T46	AminoAcidPeptideOrProtein 19 27	proteins
+T47	AminoAcidPeptideOrProtein 271 279	proteins
+T48	AminoAcidPeptideOrProtein 568 576	proteins
+T49	BodyPartOrganOrOrganComponent 163 168	blood
+T50	BodyPartOrganOrOrganComponent 212 217	blood
+T51	BodyPartOrganOrOrganComponent 1074 1079	blood
+T52	Finding 199 210	performance
+T53	Finding 1061 1072	performance
+T54	ResearchActivity 542 549	Results
+T55	ResearchActivity 419 427	analyses
+T56	CellOrMolecularDysfunction 489 506	neurodegeneration
+T57	PopulationGroup 303 309	cohort
+T58	PopulationGroup 399 405	cohort
+T59	ResearchActivity 224 228	test
+T60	ResearchActivity 1086 1090	test
+T61	HealthCareActivity 224 228	test
+T62	HealthCareActivity 1086 1090	test
+T63	Finding 194 198	high
+T64	Finding 1056 1060	high
+T65	ResearchActivity 313 354	high-throughput proximity extension assay
+T66	ClinicalAttribute 520 534	endophenotypes
+T67	ResearchActivity 674 689	protein profile
+T68	ClinicalAttribute 827 841	endophenotypes

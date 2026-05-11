@@ -1,0 +1,126 @@
+T0	ResearchActivity 110 134	autoreactive lymphocytes
+T1	Cell 110 134	autoreactive lymphocytes
+T2	Finding 290 299	remission
+T3	PopulationGroup 336 349	subpopulation
+T4	Finding 454 463	remission
+T5	ResearchActivity 695 705	co-culture
+T6	Finding 1233 1250	disease remission
+T7	TemporalConcept 1360 1371	acute phase
+T8	PathologicFunction 1360 1371	acute phase
+T9	Cell 1506 1517	progenitors
+T10	AminoAcidPeptideOrProtein 826 835	chemokine
+T11	BiologicallyActiveSubstance 826 835	chemokine
+T12	Cell 1490 1517	oligodendrocyte progenitors
+T13	DiseaseOrSyndrome 29 61	demyelinating autoimmune disease
+T14	ExperimentalModelOfDisease 1375 1416	experimental autoimmune encephalomyelitis
+T15	AnatomicalAbnormality 1219 1225	plaque
+T16	AminoAcidPeptideOrProtein 1585 1588	MBP
+T17	BiologicallyActiveSubstance 1585 1588	MBP
+T18	GeneOrGenome 1585 1588	MBP
+T19	TemporalConcept 1366 1371	phase
+T20	Cell 1738 1754	oligodendrocytes
+T21	Cell 632 636	OPCs
+T22	Cell 709 722	maturing OPCs
+T23	Cell 917 921	OPCs
+T24	Cell 981 994	maturing OPCs
+T25	Cell 1185 1200	maturating OPCs
+T26	Cell 599 630	oligodendrocyte precursor cells
+T27	PathologicFunction 29 42	demyelinating
+T28	BodyPartOrganOrOrganComponent 353 359	myelin
+T29	BodyPartOrganOrOrganComponent 507 513	myelin
+T30	BodyPartOrganOrOrganComponent 728 734	myelin
+T31	BodyPartOrganOrOrganComponent 1016 1022	myelin
+T32	BodyPartOrganOrOrganComponent 1627 1633	myelin
+T33	DiseaseOrSyndrome 43 61	autoimmune disease
+T34	ResearchActivity 698 705	culture
+T35	CellFunction 1099 1112	proliferation
+T36	CellFunction 1205 1218	remyelinating
+T37	AminoAcidPeptideOrProtein 1563 1583	myelin basic protein
+T38	BiologicallyActiveSubstance 1563 1583	myelin basic protein
+T39	TemporalConcept 1345 1350	weeks
+T40	TemporalConcept 1360 1365	acute
+T41	BodyPartOrganOrOrganComponent 415 431	peripheral blood
+T42	PatientOrDisabledGroup 438 446	patients
+T43	BodyPartOrganOrOrganComponent 69 91	central nervous system
+T44	ResearchActivity 309 314	study
+T45	BodyPartOrganOrOrganComponent 93 96	CNS
+T46	BodyPartOrganOrOrganComponent 180 183	CNS
+T47	BodyPartOrganOrOrganComponent 1687 1692	brain
+T48	Cell 1170 1175	cells
+T49	Cell 1436 1441	cells
+T50	Cell 1483 1488	cells
+T51	Eukaryote 1274 1286	C57Bl/6 mice
+T52	Finding 902 908	effect
+T53	Cell 1088 1098	lymphocyte
+T54	ResearchActivity 483 491	in vitro
+T55	CellFunction 845 854	secretion
+T56	BiologicFunction 845 854	secretion
+T57	ResearchActivity 1128 1135	in vivo
+T58	Finding 1549 1559	identified
+T59	AminoAcidPeptideOrProtein 680 689	cytokines
+T60	BiologicallyActiveSubstance 680 689	cytokines
+T61	CellFunction 266 279	remyelination
+T62	CellFunction 1535 1548	remyelination
+T63	CellFunction 1712 1725	remyelination
+T64	DiseaseOrSyndrome 20 22	MS
+T65	DiseaseOrSyndrome 287 289	MS
+T66	DiseaseOrSyndrome 435 437	MS
+T67	DiseaseOrSyndrome 1258 1260	MS
+T68	PathologicFunction 184 197	demyelination
+T69	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T70	ResearchActivity 1317 1337	immunohistochemistry
+T71	ResearchActivity 1261 1272	mouse model
+T72	OrganismAttribute 563 570	ability
+T73	Cell 123 134	lymphocytes
+T74	Cell 148 172	autoreactive lymphocytes
+T75	Cell 386 397	lymphocytes
+T76	Cell 530 541	lymphocytes
+T77	Cell 761 772	lymphocytes
+T78	Cell 943 954	lymphocytes
+T79	Cell 1660 1671	lymphocytes
+T80	Finding 1141 1149	presence
+T81	ResearchActivity 1607 1611	data
+T82	PathologicFunction 653 668	proinflammatory
+T83	PathologicFunction 810 825	proinflammatory
+T84	PathologicFunction 1792 1807	proinflammatory
+T85	AminoAcidPeptideOrProtein 669 679	chemokines
+T86	BiologicallyActiveSubstance 669 679	chemokines
+T87	AminoAcidPeptideOrProtein 514 522	peptides
+T88	AminoAcidPeptideOrProtein 1023 1031	peptides
+T89	AminoAcidPeptideOrProtein 1302 1312	MOG(35-55)
+T90	AminoAcidPeptideOrProtein 369 374	CD49d
+T91	BiologicallyActiveSubstance 369 374	CD49d
+T92	AminoAcidPeptideOrProtein 377 382	CD154
+T93	BiologicallyActiveSubstance 377 382	CD154
+T94	AminoAcidPeptideOrProtein 744 749	CD49d
+T95	AminoAcidPeptideOrProtein 752 757	CD154
+T96	AminoAcidPeptideOrProtein 934 939	CD154
+T97	AminoAcidPeptideOrProtein 926 931	CD49d
+T98	AminoAcidPeptideOrProtein 1050 1054	CD40
+T99	AminoAcidPeptideOrProtein 1055 1060	CD154
+T100	AminoAcidPeptideOrProtein 1071 1076	CD49d
+T101	AminoAcidPeptideOrProtein 1079 1084	CD154
+T102	AminoAcidPeptideOrProtein 1153 1158	CD49d
+T103	AminoAcidPeptideOrProtein 1161 1166	CD154
+T104	ExperimentalModelOfDisease 1258 1272	MS mouse model
+T105	AminoAcidPeptideOrProtein 1418 1423	CD49d
+T106	AminoAcidPeptideOrProtein 1427 1432	CD154
+T107	AminoAcidPeptideOrProtein 1643 1648	CD49d
+T108	AminoAcidPeptideOrProtein 1651 1656	CD154
+T109	BiologicallyActiveSubstance 1643 1648	CD49d
+T110	BiologicallyActiveSubstance 1651 1656	CD154
+T111	BiologicallyActiveSubstance 1418 1423	CD49d
+T112	BiologicallyActiveSubstance 1427 1432	CD154
+T113	BiologicallyActiveSubstance 1153 1158	CD49d
+T114	BiologicallyActiveSubstance 1161 1166	CD154
+T115	BiologicallyActiveSubstance 926 931	CD49d
+T116	BiologicallyActiveSubstance 934 939	CD154
+T117	BiologicallyActiveSubstance 1055 1060	CD154
+T118	BiologicallyActiveSubstance 1050 1054	CD40
+T119	BiologicallyActiveSubstance 1071 1076	CD49d
+T120	BiologicallyActiveSubstance 1079 1084	CD154
+T121	BiologicallyActiveSubstance 752 757	CD154
+T122	BiologicallyActiveSubstance 744 749	CD49d
+T123	AminoAcidPeptideOrProtein 836 844	cytokine
+T124	BiologicallyActiveSubstance 836 844	cytokine
+T125	ResearchActivity 1590 1599	labelling

@@ -1,0 +1,5 @@
+T0	DiseaseOrSyndrome 126 151	neurodegenerative disease
+T1	BiomedicalOccupationOrDiscipline 31 46	systems biology
+T2	CellFunction 95 113	molecular networks
+T3	Organism 0 24	Saccharomyces cerevisiae
+T4	ResearchActivity 31 57	systems biology approaches

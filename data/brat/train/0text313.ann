@@ -1,0 +1,66 @@
+T0	ResearchActivity 5 28	Quantitative estimation
+T1	DiseaseOrSyndrome 68 89	chorea-acanthocytosis
+T2	DiseaseOrSyndrome 91 95	ChAc
+T3	BodyPartOrganOrOrganComponent 207 215	cortical
+T4	BodyPartOrganOrOrganComponent 292 303	hemispheres
+T5	PopulationGroup 313 321	subjects
+T6	DiseaseOrSyndrome 348 352	ChAc
+T7	TemporalConcept 376 385	durations
+T8	ResearchActivity 431 435	data
+T9	ResearchActivity 479 492	control cases
+T10	BodyPartOrganOrOrganComponent 552 555	TE1
+T11	OrganismAttribute 573 579	female
+T12	OrganismAttribute 599 605	female
+T13	ClinicalAttribute 660 675	cortical volume
+T14	Cell 761 769	neurones
+T15	DiseaseOrSyndrome 792 796	ChAc
+T16	DiseaseOrSyndrome 828 832	ChAc
+T17	PopulationGroup 842 850	controls
+T18	DiseaseOrSyndrome 865 869	ChAc
+T19	ResearchActivity 1084 1096	chromophilia
+T20	BodyPartOrganOrOrganComponent 1100 1111	subcortical
+T21	DiseaseOrSyndrome 1129 1133	ChAc
+T22	PathologicFunction 1154 1166	astrogliosis
+T23	Cell 1242 1257	pyramidal cells
+T24	Cell 1279 1287	neurones
+T25	BodyPartOrganOrOrganComponent 1291 1311	layers III, V and VI
+T26	DiseaseOrSyndrome 1324 1328	ChAc
+T27	DiseaseOrSyndrome 1334 1359	neurodegenerative disease
+T28	BodyPartOrganOrOrganComponent 1374 1382	cortical
+T29	PathologicFunction 1406 1417	hypertrophy
+T30	BodyPartOrganOrOrganComponent 1425 1435	peripheral
+T31	CellComponent 1436 1444	neuropil
+T32	Finding 1471 1496	coarse vertical striation
+T33	DiseaseOrSyndrome 1519 1523	ChAc
+T34	Cell 1537 1546	astroglia
+T35	PathologicFunction 1554 1566	pathogenesis
+T36	DiseaseOrSyndrome 466 468	HD
+T37	DiseaseOrSyndrome 580 582	HD
+T38	DiseaseOrSyndrome 811 813	HD
+T39	DiseaseOrSyndrome 835 837	HD
+T40	DiseaseOrSyndrome 874 876	HD
+T41	DiseaseOrSyndrome 444 464	Huntington's disease
+T42	CellOrMolecularDysfunction 1383 1400	neurodegeneration
+T43	PathologicFunction 216 225	pathology
+T44	BodyPartOrganOrOrganComponent 1112 1124	white matter
+T45	CellOrMolecularDysfunction 32 53	cortical neurone loss
+T46	Chemical 236 247	gallocyanin
+T47	ResearchActivity 236 255	gallocyanin-stained
+T48	ResearchActivity 256 270	brain sections
+T49	PathologicFunction 494 520	Pathoarchitectonic changes
+T50	PopulationGroup 561 572	61-year-old
+T51	PopulationGroup 587 598	60-year-old
+T52	PopulationGroup 606 618	control case
+T53	Finding 713 728	close to normal
+T54	CellOrMolecularDysfunction 916 936	laminar neurone loss
+T55	BodyPartOrganOrOrganComponent 952 973	layers III, V and VIa
+T56	BodyPartOrganOrOrganComponent 1038 1061	deep cortical layers VI
+T57	Finding 1069 1078	shrinkage
+T58	BodyPartOrganOrOrganComponent 1021 1034	radial fibres
+T59	ClinicalAttribute 942 948	pallor
+T60	BodyPartOrganOrOrganComponent 1179 1194	laminar borders
+T61	CellOrMolecularDysfunction 1234 1257	loss of pyramidal cells
+T62	BodyPartOrganOrOrganComponent 1261 1271	layer IIIc
+T63	ResearchActivity 152 180	unbiased stereological tools
+T64	PatientOrDisabledGroup 683 693	ChAc cases
+T65	PatientOrDisabledGroup 888 896	HD cases

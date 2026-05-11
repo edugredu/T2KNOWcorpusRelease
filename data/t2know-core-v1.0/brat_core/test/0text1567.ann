@@ -1,0 +1,66 @@
+T0	ManufacturedObject 877 882	plate
+T1	ResearchActivity 1067 1070	CVs
+T2	TemporalConcept 984 990	annual
+T3	ResearchActivity 290 310	longitudinal studies
+T4	ResearchActivity 502 511	discovery
+T5	ResearchActivity 696 705	discovery
+T6	ResearchActivity 1449 1486	multi-plexed technology for discovery
+T7	Substance 1368 1376	analytes
+T8	DiseaseOrSyndrome 9 28	Alzheimer's disease
+T9	BodyPartOrganOrOrganComponent 812 818	plasma
+T10	AminoAcidPeptideOrProtein 72 84	amyloid-beta
+T11	BodyPartOrganOrOrganComponent 55 58	CSF
+T12	PathologicFunction 190 199	pathology
+T13	BiomedicalOccupationOrDiscipline 190 199	pathology
+T14	DiseaseOrSyndrome 30 32	AD
+T15	DiseaseOrSyndrome 187 189	AD
+T16	DiseaseOrSyndrome 709 711	AD
+T17	DiseaseOrSyndrome 1036 1038	AD
+T18	ClinicalAttribute 492 501	biomarker
+T19	ClinicalAttribute 686 695	biomarker
+T20	BodyPartOrganOrOrganComponent 34 53	cerebrospinal fluid
+T21	PopulationGroup 1007 1018	individuals
+T22	PopulationGroup 1347 1358	individuals
+T23	PathologicFunction 240 251	progression
+T24	TemporalConcept 240 251	progression
+T25	AminoAcidPeptideOrProtein 135 143	p-tau181
+T26	BiologicallyActiveSubstance 135 143	p-tau181
+T27	ClinicalAttribute 60 70	biomarkers
+T28	ClinicalAttribute 380 390	biomarkers
+T29	Finding 1327 1338	differences
+T30	Finding 360 366	result
+T31	Finding 1748 1754	result
+T32	ResearchActivity 1095 1100	ANOVA
+T33	ResearchActivity 446 451	study
+T34	ResearchActivity 1574 1579	study
+T35	AminoAcidPeptideOrProtein 1708 1716	proteins
+T36	ResearchActivity 1830 1837	studies
+T37	BodyPartOrganOrOrganComponent 368 373	blood
+T38	BodyPartOrganOrOrganComponent 486 491	blood
+T39	ResearchActivity 1073 1093	analysis of variance
+T40	AminoAcidPeptideOrProtein 92 101	total tau
+T41	BiologicallyActiveSubstance 92 101	total tau
+T42	AminoAcidPeptideOrProtein 115 133	phosphorylated tau
+T43	BiologicallyActiveSubstance 115 133	phosphorylated tau
+T44	ResearchActivity 1623 1638	test correction
+T45	BiologicallyActiveSubstance 103 108	t-tau
+T46	AminoAcidPeptideOrProtein 103 108	t-tau
+T47	Finding 175 183	presence
+T48	TemporalConcept 1197 1201	time
+T49	Finding 916 927	variability
+T50	Finding 730 741	performance
+T51	PathologicFunction 232 251	disease progression
+T52	ResearchActivity 1849 1870	multiplexed technique
+T53	PopulationGroup 844 851	control
+T54	ResearchActivity 1107 1134	variance component analyses
+T55	PopulationGroup 1171 1181	individual
+T56	OrganismAttribute 1171 1181	individual
+T57	HealthCareActivity 333 341	sampling
+T58	OrganismAttribute 1566 1570	size
+T59	ResearchActivity 1696 1707	effect size
+T60	BodyPartOrganOrOrganComponent 324 332	biofluid
+T61	ResearchActivity 524 556	Olink Proximity Extension Assays
+T62	ResearchActivity 750 802	Olink Proteomic multiplex proximity extension assays
+T63	ResearchActivity 1040 1065	Coefficients of variation
+T64	ResearchActivity 1225 1237	Olink assays
+T65	ResearchActivity 1279 1301	experimental variation

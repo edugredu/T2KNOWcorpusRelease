@@ -1,0 +1,6 @@
+T0	CellOrMolecularDysfunction 147 164	neurodegeneration
+T1	BodyPartOrganOrOrganComponent 54 76	central nervous system
+T2	TemporalConcept 99 106	chronic
+T3	OrganismAttribute 4 11	ability
+T4	PathologicFunction 107 124	neuroinflammatory
+T5	Bacterium 15 35	Chlamydia pneumoniae

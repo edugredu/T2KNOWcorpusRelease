@@ -1,0 +1,10 @@
+T0	DiseaseOrSyndrome 67 93	neurodegenerative diseases
+T1	BodyPartOrganOrOrganComponent 185 190	brain
+T2	BiologicFunction 126 139	understanding
+T3	HealthCareActivity 191 197	health
+T4	Organism 140 144	host
+T5	Organism 21 35	gut microbiota
+T6	Bacterium 145 153	bacteria
+T7	BodyPartOrganOrOrganComponent 21 24	gut
+T8	Finding 154 166	interactions
+T9	NaturalPhenomenonOrProcess 140 166	host-bacteria interactions

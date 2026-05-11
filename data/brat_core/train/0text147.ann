@@ -1,0 +1,36 @@
+T0	AminoAcidPeptideOrProtein 0 6	Orexin
+T1	BiologicallyActiveSubstance 0 6	Orexin
+T2	BiologicFunction 51 67	sleep/wake cycle
+T3	BiologicFunction 88 99	sleep cycle
+T4	BiologicFunction 149 158	attention
+T5	BiologicFunction 160 178	energy homeostasis
+T6	BiologicFunction 197 206	cognition
+T7	Finding 240 251	involvement
+T8	AminoAcidPeptideOrProtein 255 261	orexin
+T9	BiologicallyActiveSubstance 255 261	orexin
+T10	DiseaseOrSyndrome 265 275	narcolepsy
+T11	CellOrMolecularDysfunction 329 357	disturbance in orexin system
+T12	DiseaseOrSyndrome 398 409	Alzheimer's
+T13	DiseaseOrSyndrome 411 422	Parkinson's
+T14	DiseaseOrSyndrome 434 455	Huntington's diseases
+T15	DiseaseOrSyndrome 460 489	Amyotrophic lateral sclerosis
+T16	PathologicFunction 491 503	Pathogenesis
+T17	SignOrSymptom 508 525	clinical symptoms
+T18	CellOrMolecularDysfunction 575 598	orexin system imbalance
+T19	HealthCareActivity 633 640	reports
+T20	ResearchActivity 633 640	reports
+T21	AminoAcidPeptideOrProtein 675 681	orexin
+T22	BiologicallyActiveSubstance 675 681	orexin
+T23	AminoAcidPeptideOrProtein 814 820	orexin
+T24	BiologicallyActiveSubstance 814 820	orexin
+T25	TemporalConcept 774 781	current
+T26	DiseaseOrSyndrome 424 432	Epilepsy
+T27	DiseaseOrSyndrome 361 387	neurodegenerative diseases
+T28	DiseaseOrSyndrome 692 718	neurodegenerative diseases
+T29	DiseaseOrSyndrome 830 856	neurodegenerative diseases
+T30	BiologicFunction 180 192	neurogenesis
+T31	BiologicallyActiveSubstance 12 28	neurotransmitter
+T32	ResearchActivity 747 753	review
+T33	HealthCareActivity 747 753	review
+T34	Finding 296 313	growing evidences
+T35	Finding 782 791	evidences

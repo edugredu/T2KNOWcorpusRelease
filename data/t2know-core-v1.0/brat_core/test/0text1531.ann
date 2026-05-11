@@ -1,0 +1,83 @@
+T0	BodyPartOrganOrOrganComponent 94 101	choroid
+T1	BodyPartOrganOrOrganComponent 204 211	choroid
+T2	PopulationGroup 227 236	surrogate
+T3	BodyPartOrganOrOrganComponent 603 610	choroid
+T4	BodyPartOrganOrOrganComponent 652 657	nasal
+T5	BodyPartOrganOrOrganComponent 727 734	choroid
+T6	BodyPartOrganOrOrganComponent 854 861	choroid
+T7	BodyPartOrganOrOrganComponent 1282 1289	choroid
+T8	BodyPartOrganOrOrganComponent 1388 1395	choroid
+T9	BodyPartOrganOrOrganComponent 1739 1746	choroid
+T10	BodyPartOrganOrOrganComponent 1357 1368	optic nerve
+T11	BodyPartOrganOrOrganComponent 1184 1190	vessel
+T12	BodyPartOrganOrOrganComponent 1480 1486	vessel
+T13	ClinicalAttribute 321 340	choroidal thickness
+T14	BodyPartOrganOrOrganComponent 965 971	macula
+T15	BodyPartOrganOrOrganComponent 345 353	vascular
+T16	BodyPartOrganOrOrganComponent 1501 1523	stromal vascular layer
+T17	BodyPartOrganOrOrganComponent 1610 1618	vascular
+T18	HealthCareActivity 31 59	optical coherence tomography
+T19	BodyPartOrganOrOrganComponent 86 93	retinal
+T20	BodyPartOrganOrOrganComponent 595 602	retinal
+T21	BodyPartOrganOrOrganComponent 1274 1281	retinal
+T22	BodyPartOrganOrOrganComponent 1731 1738	retinal
+T23	BodyPartOrganOrOrganComponent 410 417	tissues
+T24	TemporalConcept 14 22	Previous
+T25	ClinicalAttribute 227 243	surrogate marker
+T26	Finding 797 816	thickness reduction
+T27	DiseaseOrSyndrome 145 164	Alzheimer's disease
+T28	DiseaseOrSyndrome 166 168	AD
+T29	DiseaseOrSyndrome 439 441	AD
+T30	DiseaseOrSyndrome 768 770	AD
+T31	DiseaseOrSyndrome 895 897	AD
+T32	DiseaseOrSyndrome 1056 1058	AD
+T33	DiseaseOrSyndrome 1140 1142	AD
+T34	DiseaseOrSyndrome 1632 1634	AD
+T35	DiseaseOrSyndrome 1750 1752	AD
+T36	ClinicalAttribute 117 140	oculovascular biomarker
+T37	ClinicalAttribute 1674 1683	biomarker
+T38	PopulationGroup 498 506	controls
+T39	PopulationGroup 783 791	controls
+T40	PopulationGroup 910 918	controls
+T41	PopulationGroup 1071 1079	controls
+T42	PatientOrDisabledGroup 425 433	patients
+T43	PatientOrDisabledGroup 754 762	patients
+T44	PatientOrDisabledGroup 881 889	patients
+T45	PatientOrDisabledGroup 1042 1050	patients
+T46	ResearchActivity 60 67	studies
+T47	ClinicalAttribute 237 243	marker
+T48	PathologicFunction 1619 1628	pathology
+T49	BiomedicalOccupationOrDiscipline 1619 1628	pathology
+T50	Finding 1255 1266	differences
+T51	ResearchActivity 705 712	Results
+T52	OrganismAttribute 448 451	age
+T53	OrganismAttribute 486 489	age
+T54	OrganismAttribute 513 516	age
+T55	TemporalConcept 467 472	years
+T56	TemporalConcept 533 538	years
+T57	BiologicFunction 1593 1606	understanding
+T58	TemporalConcept 399 409	postmortem
+T59	ResearchActivity 23 30	in vivo
+T60	ClinicalAttribute 1664 1683	potential biomarker
+T61	Finding 368 382	severe disease
+T62	Finding 1567 1581	severe disease
+T63	ResearchActivity 545 553	analyzed
+T64	HealthCareRelatedOrganization 1820 1843	Alzheimer's Association
+T65	ResearchActivity 284 310	histopathological approach
+T66	HealthCareActivity 284 310	histopathological approach
+T67	OrganismAttribute 345 364	vascular morphology
+T68	Finding 184 196	clinical use
+T69	Eukaryote 393 398	Human
+T70	BodyPartOrganOrOrganComponent 662 703	temporal quadrants of the superior retina
+T71	ClinicalAttribute 555 564;588 610	Thickness of the retinal choroid
+T72	ClinicalAttribute 566 570;588 610	area of the retinal choroid
+T73	ClinicalAttribute 576 610	vascularity of the retinal choroid
+T74	BodyPartOrganOrOrganComponent 714 721	Nasally
+T75	ClinicalAttribute 989 1003	choroidal area
+T76	Finding 1116 1136	Choroidal thickening
+T77	ClinicalAttribute 1176 1197	stromal vessel number
+T78	BodyPartOrganOrOrganComponent 1314 1321	nasally
+T79	BodyPartOrganOrOrganComponent 1326 1336	temporally
+T80	BodyPartOrganOrOrganComponent 1424 1446	central macular region
+T81	ClinicalAttribute 1480 1493	vessel number
+T82	ClinicalAttribute 1647 1658	vascularity

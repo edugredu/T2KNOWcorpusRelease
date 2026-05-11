@@ -1,0 +1,54 @@
+T0	NucleicAcidNucleosideOrNucleotide 0 26	Antisense oligonucleotides
+T1	Chemical 0 26	Antisense oligonucleotides
+T2	BiologicallyActiveSubstance 0 26	Antisense oligonucleotides
+T3	ResearchActivity 74 96	discovery of medicines
+T4	Chemical 414 424	nusinersen
+T5	DiseaseOrSyndrome 465 488	spinal muscular atrophy
+T6	Chemical 503 513	nusinersen
+T7	SignOrSymptom 523 539	disease symptoms
+T8	SignOrSymptom 561 572	symptomatic
+T9	ResearchActivity 713 724	discoveries
+T10	Chemical 730 740	nusinersen
+T11	ResearchActivity 803 809	method
+T12	HealthCareActivity 803 809	method
+T13	ResearchActivity 830 842	tolerability
+T14	BodyPartOrganOrOrganComponent 846 859	intrathecally
+T15	BiologicFunction 895 910	biodistribution
+T16	BodyPartOrganOrOrganComponent 914 925	intrathecal
+T17	HealthCareActivity 914 947	intrathecal dosed antisense drugs
+T18	Chemical 987 997	nusinersen
+T19	DiseaseOrSyndrome 260 280	Huntington's disease
+T20	DiseaseOrSyndrome 135 161	neurodegenerative diseases
+T21	DiseaseOrSyndrome 366 392	neurodegenerative diseases
+T22	BiologicFunction 813 821	delivery
+T23	PathologicFunction 611 622	progression
+T24	TemporalConcept 611 622	progression
+T25	HealthCareActivity 216 225	treatment
+T26	HealthCareActivity 452 461	treatment
+T27	HealthCareActivity 1068 1077	treatment
+T28	ResearchActivity 216 225	treatment
+T29	ResearchActivity 452 461	treatment
+T30	ResearchActivity 1068 1077	treatment
+T31	DiseaseOrSyndrome 286 305	Alzheimer's disease
+T32	DiseaseOrSyndrome 229 258	amyotrophic lateral sclerosis
+T33	ResearchActivity 320 328	research
+T34	PharmacologicSubstance 163 178	Antisense drugs
+T35	PharmacologicSubstance 870 885	antisense drugs
+T36	PharmacologicSubstance 932 947	antisense drugs
+T37	PharmacologicSubstance 999 1014	antisense drugs
+T38	DiseaseOrSyndrome 669 692	spinal muscular atrophy
+T39	PatientOrDisabledGroup 573 581	patients
+T40	PatientOrDisabledGroup 693 701	patients
+T41	PharmacologicSubstance 398 412	antisense drug
+T42	TemporalConcept 183 192	currently
+T43	PathologicFunction 611 637	progression of the disease
+T44	TemporalConcept 611 637	progression of the disease
+T45	HealthCareActivity 1039 1059	therapeutic platform
+T46	PharmacologicSubstance 87 96	medicines
+T47	DiseaseOrSyndrome 770 791	neurological diseases
+T48	DiseaseOrSyndrome 1081 1102	neurological diseases
+T49	PharmacologicSubstance 414 424	nusinersen
+T50	PharmacologicSubstance 503 513	nusinersen
+T51	PharmacologicSubstance 730 740	nusinersen
+T52	PharmacologicSubstance 987 997	nusinersen
+T53	HealthCareActivity 45 65	therapeutic platform

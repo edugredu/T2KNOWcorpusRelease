@@ -1,0 +1,5 @@
+T0	Organism 47 64	aquatic organisms
+T1	InjuryOrPoisoning 95 113	neurotoxic effects
+T2	Chemical 28 33	water
+T3	InjuryOrPoisoning 117 137	contaminant exposure
+T4	EnvironmentalEffectOfHumans 28 43	water pollution

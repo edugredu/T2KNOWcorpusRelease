@@ -1,0 +1,78 @@
+T0	Finding 11 24	Impaired gait
+T1	PathologicFunction 195 209	motor deficits
+T2	TemporalConcept 670 676	annual
+T3	HealthCareActivity 687 692	visit
+T4	MachineActivity 892 919	Machine learning algorithms
+T5	ResearchActivity 1042 1049	Results
+T6	ClinicalAttribute 1485 1498	disease stage
+T7	TemporalConcept 1485 1498	disease stage
+T8	Finding 1634 1649	gait impairment
+T9	DiseaseOrSyndrome 86 106	Huntington's disease
+T10	OrganismAttribute 740 743	age
+T11	DiseaseOrSyndrome 108 110	HD
+T12	DiseaseOrSyndrome 152 154	HD
+T13	DiseaseOrSyndrome 587 589	HD
+T14	DiseaseOrSyndrome 684 686	HD
+T15	DiseaseOrSyndrome 721 723	HD
+T16	DiseaseOrSyndrome 1187 1189	HD
+T17	DiseaseOrSyndrome 1269 1271	HD
+T18	DiseaseOrSyndrome 1653 1655	HD
+T19	DiseaseOrSyndrome 1732 1734	HD
+T20	TemporalConcept 1143 1147	time
+T21	TemporalConcept 1324 1328	time
+T22	ResearchActivity 388 396	analysis
+T23	HealthCareActivity 271 281	treatments
+T24	ResearchActivity 271 281	treatments
+T25	PatientOrDisabledGroup 352 363	HD patients
+T26	TemporalConcept 264 270	future
+T27	PopulationGroup 764 772	controls
+T28	OrganismAttribute 749 755	gender
+T29	Finding 242 260	beneficial effects
+T30	PatientOrDisabledGroup 72 80	patients
+T31	PatientOrDisabledGroup 707 715	patients
+T32	PatientOrDisabledGroup 1173 1181	patients
+T33	PatientOrDisabledGroup 1272 1280	patients
+T34	HealthCareActivity 451 492	Unified Huntington's Disease Rating Scale
+T35	ClinicalAttribute 1748 1764	disease severity
+T36	PopulationGroup 730 736	cohort
+T37	PatientOrDisabledGroup 564 572	Patients
+T38	BiologicFunction 900 908	learning
+T39	TemporalConcept 64 68	life
+T40	Finding 53 68	quality of life
+T41	OrganismAttribute 20 24	gait
+T42	OrganismAttribute 133 137	gait
+T43	OrganismAttribute 344 348	gait
+T44	OrganismAttribute 383 387	gait
+T45	OrganismAttribute 412 416	gait
+T46	OrganismAttribute 793 797	gait
+T47	OrganismAttribute 962 966	gait
+T48	OrganismAttribute 982 986	gait
+T49	OrganismAttribute 1076 1089	gait velocity
+T50	OrganismAttribute 1222 1226	gait
+T51	OrganismAttribute 1441 1445	gait
+T52	OrganismAttribute 1540 1544	gait
+T53	OrganismAttribute 1634 1638	gait
+T54	OrganismAttribute 1665 1669	gait
+T55	OrganismAttribute 1724 1728	gait
+T56	SignOrSymptom 578 586	manifest
+T57	ResearchActivity 1376 1388	correlations
+T58	ClinicalAttribute 1612 1629	digital biomarker
+T59	OrganismAttribute 1352 1356	size
+T60	OrganismAttribute 1050 1063	Stride length
+T61	OrganismAttribute 1288 1301	stride length
+T62	HealthCareActivity 494 511	total motor score
+T63	HealthCareActivity 523 548	total functional capacity
+T64	ResearchActivity 677 686	ENROLL-HD
+T65	HealthCareActivity 793 802	gait test
+T66	ResearchActivity 1012 1035	coefficient of variance
+T67	OrganismAttribute 1136 1147	stance time
+T68	OrganismAttribute 1118 1124	stride
+T69	HealthCareActivity 1392 1395	TMS
+T70	HealthCareActivity 1400 1403	TFC
+T71	HealthCareActivity 1510 1513	TFC
+T72	Finding 1708 1728	irregularity of gait
+T73	ClinicalAttribute 982 998	gait variability
+T74	ClinicalAttribute 1665 1681	gait variability
+T75	ClinicalAttribute 1540 1556	gait variability
+T76	ClinicalAttribute 1441 1457	gait variability
+T77	ClinicalAttribute 1222 1238	gait variability

@@ -1,0 +1,5 @@
+T0	BodyPartOrganOrOrganComponent 108 130	central nervous system
+T1	EnvironmentalEffectOfHumans 0 15	Water pollution
+T2	Chemical 0 5	Water
+T3	InjuryOrPoisoning 80 91	neurotoxins
+T4	NaturalPhenomenonOrProcess 48 68	harmful algal blooms

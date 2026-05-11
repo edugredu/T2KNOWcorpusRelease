@@ -1,0 +1,12 @@
+T0	Finding 170 178	evidence
+T1	DiseaseOrSyndrome 116 118	MS
+T2	DiseaseOrSyndrome 143 145	MS
+T3	PathologicFunction 195 204	infection
+T4	PopulationGroup 126 137	individuals
+T5	DiseaseOrSyndrome 96 114	multiple sclerosis
+T6	Virus 0 18	Epstein-Barr virus
+T7	Virus 20 23	EBV
+T8	Virus 37 48	herpesvirus
+T9	Virus 191 194	EBV
+T10	CellFunction 81 92	development
+T11	BiologicFunction 81 92	development

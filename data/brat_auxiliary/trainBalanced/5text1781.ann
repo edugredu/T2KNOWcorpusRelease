@@ -1,0 +1,8 @@
+T0	Cell 29 40	glial cells
+T1	Cell 46 56	astrocytes
+T2	BiologicFunction 135 147	neurogenesis
+T3	Cell 29 34	glial
+T4	BiologicFunction 88 105	brain development
+T5	EmbryonicStructure 22 34	radial glial
+T6	EmbryonicStructure 22 40	radial glial cells
+T7	BiologicFunction 151 162	gliogenesis

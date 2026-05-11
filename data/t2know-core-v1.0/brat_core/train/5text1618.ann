@@ -1,0 +1,6 @@
+T0	BodyPartOrganOrOrganComponent 44 49	brain
+T1	DiseaseOrSyndrome 53 55	AD
+T2	PatientOrDisabledGroup 56 64	patients
+T3	BodyPartOrganOrOrganComponent 36 39	CSF
+T4	Finding 4 12	presence
+T5	Bacterium 16 28	C. pneumonia

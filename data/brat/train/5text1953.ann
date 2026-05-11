@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 8 35	neurodegenerative disorders
+T1	BodyPartOrganOrOrganComponent 117 136	cerebrospinal fluid
+T2	ResearchActivity 137 145	analysis
+T3	BodyPartOrganOrOrganComponent 52 59	retinal
+T4	HealthCareActivity 150 162	neuroimaging
+T5	HealthCareActivity 167 177	diagnostic
+T6	AnatomicalAbnormality 52 73	retinal abnormalities

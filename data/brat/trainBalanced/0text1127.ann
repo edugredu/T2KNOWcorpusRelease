@@ -1,0 +1,148 @@
+T0	AminoAcidPeptideOrProtein 166 176	Neprilysin
+T1	BiologicallyActiveSubstance 166 176	Neprilysin
+T2	AminoAcidPeptideOrProtein 178 181	NEP
+T3	BiologicallyActiveSubstance 178 181	NEP
+T4	CellFunction 195 203	cleavage
+T5	CellComponent 195 203	cleavage
+T6	AminoAcidPeptideOrProtein 349 352	NEP
+T7	BiologicallyActiveSubstance 349 352	NEP
+T8	ResearchActivity 353 370	gene modification
+T9	CellFunction 353 370	gene modification
+T10	AminoAcidPeptideOrProtein 487 490	NEP
+T11	BiologicallyActiveSubstance 487 490	NEP
+T12	HealthCareActivity 678 694	behavioral tests
+T13	BiologicFunction 900 906	memory
+T14	Finding 900 906	memory
+T15	Chemical 1072 1081	Congo red
+T16	AminoAcidPeptideOrProtein 1143 1147	NeuN
+T17	AminoAcidPeptideOrProtein 1153 1156	NEP
+T18	BiologicallyActiveSubstance 1153 1156	NEP
+T19	AminoAcidPeptideOrProtein 1244 1248	NeuN
+T20	AminoAcidPeptideOrProtein 1267 1270	NEP
+T21	GeneOrGenome 1267 1270	NEP
+T22	AminoAcidPeptideOrProtein 1602 1605	NEP
+T23	BiologicallyActiveSubstance 1602 1605	NEP
+T24	BiologicFunction 1767 1785	cognitive function
+T25	AminoAcidPeptideOrProtein 1939 1942	NEP
+T26	BiologicallyActiveSubstance 1939 1942	NEP
+T27	AminoAcidPeptideOrProtein 1994 1997	NEP
+T28	BiologicallyActiveSubstance 1994 1997	NEP
+T29	AminoAcidPeptideOrProtein 2053 2056	NEP
+T30	BiologicallyActiveSubstance 2053 2056	NEP
+T31	AminoAcidPeptideOrProtein 1091 1095	GFAP
+T32	AminoAcidPeptideOrProtein 1250 1254	GFAP
+T33	BiologicallyActiveSubstance 1091 1095	GFAP
+T34	BiologicallyActiveSubstance 1250 1254	GFAP
+T35	GeneOrGenome 1091 1095	GFAP
+T36	GeneOrGenome 1250 1254	GFAP
+T37	BiologicFunction 1849 1861	neurogenesis
+T38	ResearchActivity 133 146	trial results
+T39	HealthCareActivity 586 598	transplanted
+T40	BodyPartOrganOrOrganComponent 586 598	transplanted
+T41	ResearchActivity 124 138	clinical trial
+T42	ResearchActivity 689 694	tests
+T43	HealthCareActivity 689 694	tests
+T44	Finding 283 291	etiology
+T45	Finding 963 988	no significant difference
+T46	Finding 1738 1763	no significant difference
+T47	Finding 1048 1068	significant decrease
+T48	Eukaryote 25 31	animal
+T49	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T50	CellComponent 1440 1443	EVs
+T51	CellComponent 1545 1548	EVs
+T52	CellComponent 1625 1628	EVs
+T53	CellComponent 1714 1717	EVs
+T54	CellComponent 1989 1992	EVs
+T55	CellComponent 2064 2067	EVs
+T56	DiseaseOrSyndrome 21 23	AD
+T57	DiseaseOrSyndrome 295 297	AD
+T58	DiseaseOrSyndrome 2109 2111	AD
+T59	HealthCareActivity 768 777	injection
+T60	HealthCareActivity 936 945	injection
+T61	HealthCareActivity 1209 1218	injection
+T62	HealthCareActivity 1378 1387	injection
+T63	AminoAcidPeptideOrProtein 228 234	A beta
+T64	AminoAcidPeptideOrProtein 755 761	A beta
+T65	CellComponent 1416 1438	Extracellular vesicles
+T66	AminoAcidPeptideOrProtein 214 226	beta-amyloid
+T67	PathologicFunction 269 278	pathology
+T68	BiomedicalOccupationOrDiscipline 269 278	pathology
+T69	Finding 747 753	normal
+T70	Eukaryote 505 510	human
+T71	PopulationGroup 946 951	group
+T72	PopulationGroup 1219 1224	group
+T73	PopulationGroup 1331 1336	group
+T74	PopulationGroup 1355 1360	group
+T75	Cell 850 857	hUC-MSC
+T76	Cell 1020 1027	hUC-MSC
+T77	Cell 1165 1172	hUC-MSC
+T78	Cell 1327 1330	MSC
+T79	Cell 1516 1523	hUC-MSC
+T80	Cell 1798 1805	hUC-MSC
+T81	Finding 94 113	therapeutic effects
+T82	Finding 384 403	therapeutic effects
+T83	HealthCareActivity 2112 2121	treatment
+T84	ResearchActivity 2112 2121	treatment
+T85	ResearchActivity 32 39	studies
+T86	Cell 83 87	MSCs
+T87	Cell 339 343	MSCs
+T88	Cell 558 566	hUC-MSCs
+T89	Cell 785 793	hUC-MSCs
+T90	Cell 812 820	hUC-MSCs
+T91	Cell 1565 1573	hUC-MSCs
+T92	Cell 1638 1646	hUC-MSCs
+T93	Cell 1654 1662	hUC-MSCs
+T94	Cell 1827 1835	hUC-MSCs
+T95	Cell 1913 1921	hUC-MSCs
+T96	Cell 2012 2016	MSCs
+T97	Cell 59 81	mesenchymal stem cells
+T98	Cell 534 556	mesenchymal stem cells
+T99	Cell 1389 1399	stem cells
+T100	Cell 1368 1377	stem cell
+T101	Cell 1695 1704	stem cell
+T102	AminoAcidPeptideOrProtein 1137 1141	BDNF
+T103	AminoAcidPeptideOrProtein 1238 1242	BDNF
+T104	BiologicallyActiveSubstance 1137 1141	BDNF
+T105	BiologicallyActiveSubstance 1238 1242	BDNF
+T106	GeneOrGenome 1137 1141	BDNF
+T107	GeneOrGenome 1238 1242	BDNF
+T108	HealthCareActivity 2022 2029	release
+T109	ResearchActivity 2022 2029	release
+T110	Finding 663 674	differences
+T111	BiologicallyActiveSubstance 204 210	enzyme
+T112	BodyPartOrganOrOrganComponent 1474 1485	hippocampus
+T113	BodyPartOrganOrOrganComponent 1950 1961	hippocampus
+T114	HealthCareActivity 320 335	transplantation
+T115	ExperimentalModelOfDisease 410 425	AD animal model
+T116	PathologicFunction 454 469	pathomechanisms
+T117	BodyPartOrganOrOrganComponent 511 525	umbilical cord
+T118	ExperimentalModelOfDisease 607 645	A beta(1-42)-injected AD animal models
+T119	ResearchActivity 699 725	immunohistochemical assays
+T120	AminoAcidPeptideOrProtein 799 802	NEP
+T121	BiologicallyActiveSubstance 799 802	NEP
+T122	AminoAcidPeptideOrProtein 837 840	NEP
+T123	BiologicallyActiveSubstance 837 840	NEP
+T124	AminoAcidPeptideOrProtein 1007 1010	NEP
+T125	BiologicallyActiveSubstance 1007 1010	NEP
+T126	AminoAcidPeptideOrProtein 1101 1106	Iba-1
+T127	BiologicallyActiveSubstance 1101 1106	Iba-1
+T128	Finding 1113 1133	significant increase
+T129	AminoAcidPeptideOrProtein 1256 1261	Iba-1
+T130	BiologicallyActiveSubstance 1256 1261	Iba-1
+T131	AminoAcidPeptideOrProtein 1503 1506	NEP
+T132	BiologicallyActiveSubstance 1503 1506	NEP
+T133	AminoAcidPeptideOrProtein 1552 1555	NEP
+T134	BiologicallyActiveSubstance 1552 1555	NEP
+T135	ExperimentalModelOfDisease 1670 1686	AD animal models
+T136	AminoAcidPeptideOrProtein 1814 1817	NEP
+T137	BiologicallyActiveSubstance 1814 1817	NEP
+T138	Finding 1866 1894	anti-inflammation properties
+T139	AminoAcidPeptideOrProtein 1974 1977	NEP
+T140	BiologicallyActiveSubstance 1974 1977	NEP
+T141	Finding 2077 2105	promising therapeutic option
+T142	AminoAcidPeptideOrProtein 1310 1313	NEP
+T143	BiologicallyActiveSubstance 1310 1313	NEP
+T144	BiologicallyActiveSubstance 1083 1089	BACE-1
+T145	GeneOrGenome 1083 1089	BACE-1
+T146	AminoAcidPeptideOrProtein 1083 1089	BACE-1
+T147	Cell 505 556	human umbilical cord-derived mesenchymal stem cells

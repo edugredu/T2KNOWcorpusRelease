@@ -1,0 +1,78 @@
+T0	MachineActivity 14 30	Machine learning
+T1	CellFunction 76 85	metabolic
+T2	DiseaseOrSyndrome 100 117	Alzheimer Disease
+T3	MachineActivity 383 396	Deep Learning
+T4	MachineActivity 398 400	DL
+T5	ResearchActivity 546 569	Nested Cross Validation
+T6	ResearchActivity 571 574	NCV
+T7	MachineActivity 604 606	DL
+T8	ResearchActivity 951 956	match
+T9	CellFunction 475 488	differentiate
+T10	Finding 304 306	CN
+T11	Finding 497 499	CN
+T12	DiseaseOrSyndrome 1228 1255	neurodegenerative disorders
+T13	ResearchActivity 716 726	comparison
+T14	MachineActivity 443 456	Random Forest
+T15	MachineActivity 458 460	RF
+T16	MachineActivity 683 685	RF
+T17	AminoAcidPeptideOrProtein 755 758	tau
+T18	AminoAcidPeptideOrProtein 765 768	tau
+T19	BodyPartOrganOrOrganComponent 222 225	CSF
+T20	BodyPartOrganOrOrganComponent 728 731	CSF
+T21	BodyPartOrganOrOrganComponent 988 991	CSF
+T22	BiologicallyActiveSubstance 755 758	tau
+T23	BiologicallyActiveSubstance 765 768	tau
+T24	DiseaseOrSyndrome 119 121	AD
+T25	DiseaseOrSyndrome 202 204	AD
+T26	DiseaseOrSyndrome 328 330	AD
+T27	DiseaseOrSyndrome 489 491	AD
+T28	DiseaseOrSyndrome 985 987	AD
+T29	DiseaseOrSyndrome 1157 1159	AD
+T30	DiseaseOrSyndrome 1202 1204	AD
+T31	PopulationGroup 1165 1173	controls
+T32	PopulationGroup 1064 1071	cohorts
+T33	ResearchActivity 598 602	data
+T34	ResearchActivity 1041 1048	studies
+T35	AminoAcidPeptideOrProtein 744 751	amyloid
+T36	BiologicallyActiveSubstance 744 751	amyloid
+T37	DiseaseOrSyndrome 336 344	dementia
+T38	ClinicalAttribute 226 236	biomarkers
+T39	ClinicalAttribute 992 1002	biomarkers
+T40	ResearchActivity 252 257	study
+T41	ResearchActivity 892 897	study
+T42	BodyPartOrganOrOrganComponent 355 361	plasma
+T43	BodyPartOrganOrOrganComponent 910 916	plasma
+T44	BodyPartOrganOrOrganComponent 182 187	blood
+T45	BodyPartOrganOrOrganComponent 1126 1131	blood
+T46	BiologicallyActiveSubstance 763 768	t-tau
+T47	AminoAcidPeptideOrProtein 763 768	t-tau
+T48	Finding 152 163	performance
+T49	ResearchActivity 577 584	Results
+T50	OrganismAttribute 784 787	age
+T51	Finding 284 302	cognitively normal
+T52	ResearchActivity 507 513	models
+T53	MachineActivity 32 34	ML
+T54	AminoAcidPeptideOrProtein 753 758	p-tau
+T55	BiologicallyActiveSubstance 753 758	p-tau
+T56	PopulationGroup 308 314	people
+T57	PopulationGroup 1025 1031	cohort
+T58	ResearchActivity 620 623	AUC
+T59	ResearchActivity 826 829	AUC
+T60	ResearchActivity 961 964	AUC
+T61	OrganismAttribute 792 798	gender
+T62	BiologicallyActiveSubstance 167 178	metabolites
+T63	BiologicallyActiveSubstance 362 373	metabolites
+T64	BiologicallyActiveSubstance 917 928	metabolites
+T65	BiologicallyActiveSubstance 1132 1143	metabolites
+T66	DiseaseOrSyndrome 328 344	AD-type dementia
+T67	ResearchActivity 143 147	test
+T68	ResearchActivity 593 597	test
+T69	HealthCareActivity 143 147	test
+T70	HealthCareActivity 593 597	test
+T71	HealthCareRelatedOrganization 1323 1346	Alzheimer's Association
+T72	BodyPartOrganOrOrganComponent 267 274	samples
+T73	Substance 267 274	samples
+T74	MachineActivity 403 428	Extreme Gradient Boosting
+T75	MachineActivity 430 437	XGBoost
+T76	MachineActivity 645 652	XGBoost
+T77	MachineActivity 814 821	XGBoost

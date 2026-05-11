@@ -1,0 +1,56 @@
+T0	DiseaseOrSyndrome 239 248	disabling
+T1	BodyPartOrganOrOrganComponent 488 510	neural stem cell niche
+T2	CellFunction 585 608	carriers of information
+T3	PopulationGroup 630 642	neighbouring
+T4	CellComponent 668 676	vesicles
+T5	BiologicFunction 809 818	affecting
+T6	CellFunction 819 836	neural plasticity
+T7	BiologicFunction 826 836	plasticity
+T8	BiologicFunction 841 860	cognitive functions
+T9	CellFunction 956 987	carriers of bioactive molecules
+T10	ClinicalAttribute 1064 1074	detectable
+T11	Substance 1078 1095	biological fluids
+T12	TemporalConcept 519 530	last decade
+T13	Cell 472 483	glial cells
+T14	Finding 1172 1193	therapeutic potential
+T15	CellFunction 297 317	molecular mechanisms
+T16	PathologicFunction 882 905	pathological conditions
+T17	ExperimentalModelOfDisease 1227 1295	experimental models of neurodegeneration-dependent cognitive decline
+T18	CellComponent 567 575	exosomes
+T19	CellComponent 944 952	exosomes
+T20	DiseaseOrSyndrome 0 27	Neurodegenerative disorders
+T21	Cell 755 772	neural stem cells
+T22	DiseaseOrSyndrome 170 191	Huntington's diseases
+T23	PathologicFunction 1016 1028	pathogenesis
+T24	DiseaseOrSyndrome 358 366	dementia
+T25	DiseaseOrSyndrome 1113 1121	dementia
+T26	TemporalConcept 333 338	onset
+T27	Cell 790 799	microglia
+T28	SignOrSymptom 249 256	symptom
+T29	DiseaseOrSyndrome 198 215	cognitive decline
+T30	DiseaseOrSyndrome 1278 1295	cognitive decline
+T31	DiseaseOrSyndrome 140 151	Alzheimer's
+T32	CellOrMolecularDysfunction 1250 1267	neurodegeneration
+T33	Cell 655 660	cells
+T34	Cell 724 735	brain cells
+T35	Cell 463 470	neurons
+T36	Cell 746 753	neurons
+T37	Finding 1143 1164	experimental evidence
+T38	Cell 774 784	astrocytes
+T39	BiologicFunction 537 546	attention
+T40	Cell 1197 1206	stem cell
+T41	ResearchActivity 109 115	burden
+T42	PathologicFunction 343 354	progression
+T43	TemporalConcept 343 354	progression
+T44	ResearchActivity 923 927	data
+T45	ResearchActivity 916 922	review
+T46	HealthCareActivity 916 922	review
+T47	ClinicalAttribute 1099 1109	biomarkers
+T48	DiseaseOrSyndrome 1032 1059	neurodegenerative disorders
+T49	Finding 65 75	disability
+T50	DiseaseOrSyndrome 153 164	Parkinson's
+T51	Finding 265 291	personal and social levels
+T52	BiologicallyActiveSubstance 408 425	secretory factors
+T53	Cell 488 504	neural stem cell
+T54	BiologicallyActiveSubstance 968 987	bioactive molecules
+T55	CellComponent 1215 1223	vesicles

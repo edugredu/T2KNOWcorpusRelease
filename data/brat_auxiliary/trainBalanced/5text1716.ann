@@ -1,0 +1,10 @@
+T0	DiseaseOrSyndrome 117 136	Alzheimer's disease
+T1	AminoAcidPeptideOrProtein 43 55	amyloid-beta
+T2	ResearchActivity 137 145	research
+T3	CellFunction 56 66	metabolism
+T4	BiologicFunction 56 66	metabolism
+T5	AminoAcidPeptideOrProtein 71 82	tau protein
+T6	CellFunction 83 98	phosphorylation
+T7	BiologicallyActiveSubstance 71 82	tau protein
+T8	Organism 17 30	Ginkgo biloba
+T9	BiologicallyActiveSubstance 43 55	amyloid-beta

@@ -1,0 +1,61 @@
+T0	ResearchActivity 433 440	Studies
+T1	Finding 170 179	shrinkage
+T2	Cell 498 509	multipotent
+T3	Finding 346 361	quality of life
+T4	CellComponent 617 639	extracellular vesicles
+T5	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T6	CellComponent 641 644	EVs
+T7	DiseaseOrSyndrome 21 23	AD
+T8	DiseaseOrSyndrome 429 431	AD
+T9	DiseaseOrSyndrome 754 756	AD
+T10	DiseaseOrSyndrome 819 821	AD
+T11	DiseaseOrSyndrome 106 114	dementia
+T12	ResearchActivity 807 818;822 830	preclinical research
+T13	PopulationGroup 489 494	group
+T14	PathologicFunction 589 600	progression
+T15	TemporalConcept 589 600	progression
+T16	ResearchActivity 834 849	transgenic mice
+T17	Cell 149 157	neuronal
+T18	BodyPartOrganOrOrganComponent 183 195	brain tissue
+T19	ResearchActivity 757 763	models
+T20	PatientOrDisabledGroup 336 343	patient
+T21	ResearchActivity 770 776	review
+T22	HealthCareActivity 770 776	review
+T23	HealthCareActivity 303 312	treatment
+T24	ResearchActivity 303 312	treatment
+T25	Finding 911 918	sources
+T26	TemporalConcept 295 302	current
+T27	TemporalConcept 357 361	life
+T28	BiologicFunction 163 168	death
+T29	BiologicFunction 279 284	death
+T30	PathologicFunction 163 168	death
+T31	PathologicFunction 279 284	death
+T32	CellFunction 163 168	death
+T33	CellFunction 279 284	death
+T34	TemporalConcept 201 212	progressive
+T35	HealthCareActivity 890 897	therapy
+T36	DiseaseOrSyndrome 30 55	neurodegenerative disease
+T37	PathologicFunction 581 600	disease progression
+T38	CellFunction 158 168	cell death
+T39	TemporalConcept 607 615	recently
+T40	Cell 880 883	MSC
+T41	Cell 469 479	stem cells
+T42	Cell 510 520	stem cells
+T43	Cell 481 485	MSCs
+T44	Cell 675 679	MSCs
+T45	Finding 743 750	effects
+T46	OrganismAttribute 530 537	ability
+T47	Cell 457 479	mesenchymal stem cells
+T48	CellFunction 149 168	neuronal cell death
+T49	BiologicFunction 551 568	neuroregeneration
+T50	ResearchActivity 861 876	clinical trials
+T51	PathologicFunction 408 425	disease pathology
+T52	PharmacologicSubstance 706 722	immunomodulatory
+T53	BiologicFunction 706 722	immunomodulatory
+T54	HealthCareActivity 706 722	immunomodulatory
+T55	CellFunction 727 742	neuroprotective
+T56	Finding 727 750	neuroprotective effects
+T57	Finding 213 256	cognitive, motor, and behavioral impairment
+T58	AminoAcidPeptideOrProtein 651 659	cytokine
+T59	BiologicallyActiveSubstance 651 659	cytokine
+T60	ExperimentalModelOfDisease 754 763	AD models

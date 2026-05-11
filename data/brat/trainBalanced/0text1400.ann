@@ -1,0 +1,111 @@
+T0	IndividualBehavior 22 28	caring
+T1	DiseaseOrSyndrome 47 65	Multiple Sclerosis
+T2	Finding 76 84	improved
+T3	HealthCareActivity 111 129	disease management
+T4	AminoAcidPeptideOrProtein 201 207	CXCL13
+T5	GeneOrGenome 201 207	CXCL13
+T6	ResearchActivity 201 213	CXCL13 index
+T7	AminoAcidPeptideOrProtein 231 248	oligoclonal bands
+T8	BiologicallyActiveSubstance 231 248	oligoclonal bands
+T9	AminoAcidPeptideOrProtein 250 254	OCBs
+T10	ResearchActivity 250 254	OCBs
+T11	BodyPartOrganOrOrganComponent 260 263	CSF
+T12	AminoAcidPeptideOrProtein 264 283	neurofilament light
+T13	ResearchActivity 485 514	Matched serum and CSF samples
+T14	BodyPartOrganOrOrganComponent 493 498	serum
+T15	BodyPartOrganOrOrganComponent 503 506	CSF
+T16	BodyPartOrganOrOrganComponent 602 605	CSF
+T17	BodyPartOrganOrOrganComponent 610 615	serum
+T18	AminoAcidPeptideOrProtein 616 622	CXCL13
+T19	GeneOrGenome 616 622	CXCL13
+T20	BiologicallyActiveSubstance 616 622	CXCL13
+T21	BodyPartOrganOrOrganComponent 627 630	CSF
+T22	BiologicallyActiveSubstance 631 634	NfL
+T23	ResearchActivity 664 669	ELISA
+T24	AminoAcidPeptideOrProtein 685 691	CXCL13
+T25	GeneOrGenome 685 691	CXCL13
+T26	BiologicallyActiveSubstance 685 691	CXCL13
+T27	BodyPartOrganOrOrganComponent 814 817	CSF
+T28	HealthCareActivity 859 874	lumbar puncture
+T29	AminoAcidPeptideOrProtein 890 896	CXCL13
+T30	GeneOrGenome 890 896	CXCL13
+T31	HealthCareActivity 890 905	CXCL13 measures
+T32	BiologicallyActiveSubstance 890 896	CXCL13
+T33	HealthCareActivity 907 919	CXCL13 index
+T34	AminoAcidPeptideOrProtein 1176 1188	CXCL13 index
+T35	GeneOrGenome 1176 1188	CXCL13 index
+T36	HealthCareActivity 1176 1188	CXCL13 index
+T37	AminoAcidPeptideOrProtein 1207 1211	OCBs
+T38	ResearchActivity 1207 1211	OCBs
+T39	BodyPartOrganOrOrganComponent 1216 1219	CSF
+T40	BiologicallyActiveSubstance 1220 1223	NfL
+T41	HealthCareActivity 1361 1373	CXCL13 index
+T42	BodyPartOrganOrOrganComponent 1378 1381	CSF
+T43	AminoAcidPeptideOrProtein 1489 1495	CXCL13
+T44	GeneOrGenome 1489 1495	CXCL13
+T45	ResearchActivity 1489 1501	CXCL13 index
+T46	HealthCareActivity 803 812	diagnosis
+T47	ResearchActivity 692 696	data
+T48	ClinicalAttribute 85 95	biomarkers
+T49	Finding 1227 1238	sensitivity
+T50	Finding 1402 1413	sensitivity
+T51	Finding 1240 1251	specificity
+T52	DiseaseOrSyndrome 67 69	MS
+T53	DiseaseOrSyndrome 433 455	relapsing-remitting MS
+T54	DiseaseOrSyndrome 473 475	MS
+T55	DiseaseOrSyndrome 589 591	MS
+T56	DiseaseOrSyndrome 973 975	MS
+T57	DiseaseOrSyndrome 1090 1092	MS
+T58	DiseaseOrSyndrome 1328 1330	MS
+T59	DiseaseOrSyndrome 1460 1462	MS
+T60	DiseaseOrSyndrome 1587 1589	MS
+T61	ResearchActivity 986 989	AUC
+T62	TemporalConcept 356 362	future
+T63	TemporalConcept 946 952	future
+T64	TemporalConcept 1301 1307	future
+T65	PatientOrDisabledGroup 33 41	patients
+T66	PatientOrDisabledGroup 573 581	patients
+T67	PatientOrDisabledGroup 592 600	patients
+T68	PatientOrDisabledGroup 976 984	patients
+T69	PatientOrDisabledGroup 1093 1101	patients
+T70	PatientOrDisabledGroup 1132 1140	patients
+T71	PatientOrDisabledGroup 1331 1339	patients
+T72	PatientOrDisabledGroup 1463 1471	patients
+T73	PatientOrDisabledGroup 1573 1581	patients
+T74	ResearchActivity 217 227	comparison
+T75	HealthCareActivity 814 826	CSF profiles
+T76	TemporalConcept 433 442	relapsing
+T77	DiseaseOrSyndrome 461 475	progressive MS
+T78	TemporalConcept 461 472	progressive
+T79	HealthCareActivity 119 129	management
+T80	ClinicalAttribute 191 200	biomarker
+T81	ClinicalAttribute 335 344	biomarker
+T82	ClinicalAttribute 1528 1548	prognostic biomarker
+T83	HealthCareActivity 11 21	Clinicians
+T84	Finding 157 173	predictive value
+T85	BiologicallyActiveSubstance 250 254	OCBs
+T86	BiologicallyActiveSubstance 201 207	CXCL13
+T87	BiologicallyActiveSubstance 264 283	neurofilament light
+T88	BiologicallyActiveSubstance 285 288	NfL
+T89	HealthCareActivity 260 303	CSF neurofilament light (NfL) concentration
+T90	DiseaseOrSyndrome 537 572	non-inflammatory neurologic disease
+T91	AminoAcidPeptideOrProtein 631 634	NfL
+T92	ResearchActivity 652 659	Luminex
+T93	ResearchActivity 719 735	CSF/serum ratios
+T94	HealthCareActivity 749 775	Electronic medical records
+T95	HealthCareActivity 832 848	disease activity
+T96	HealthCareActivity 953 969	disease activity
+T97	HealthCareActivity 1308 1324	disease activity
+T98	HealthCareActivity 1440 1456	disease activity
+T99	HealthCareActivity 1553 1569	disease activity
+T100	BiologicallyActiveSubstance 1489 1495	CXCL13
+T101	Finding 1418 1435	predictive values
+T102	AminoAcidPeptideOrProtein 1220 1223	NfL
+T103	AminoAcidPeptideOrProtein 1382 1385	NfL
+T104	BiologicallyActiveSubstance 1382 1385	NfL
+T105	HealthCareActivity 1378 1392	CSF NfL status
+T106	Finding 1158 1174	single predictor
+T107	HealthCareActivity 1021 1040	CXCL13 index values
+T108	BiologicallyActiveSubstance 1207 1211	OCBs
+T109	HealthCareActivity 363 379	disease activity
+T110	AminoAcidPeptideOrProtein 285 288	NfL

@@ -1,0 +1,182 @@
+T0	HealthCareActivity 460 467	autopsy
+T1	HealthCareActivity 550 557	autopsy
+T2	AminoAcidPeptideOrProtein 613 623	collection
+T3	HealthCareActivity 628 635	autopsy
+T4	HealthCareActivity 757 764	autopsy
+T5	HealthCareActivity 904 911	autopsy
+T6	AminoAcidPeptideOrProtein 922 932	collection
+T7	HealthCareActivity 1068 1075	autopsy
+T8	HealthCareActivity 1369 1376	autopsy
+T9	HealthCareActivity 1615 1622	autopsy
+T10	HealthCareActivity 2460 2467	autopsy
+T11	HealthCareActivity 2552 2559	autopsy
+T12	HealthCareActivity 2882 2889	autopsy
+T13	Finding 1950 1964	no differences
+T14	TemporalConcept 1301 1307	Lastly
+T15	Finding 338 344	normal
+T16	Finding 2262 2268	normal
+T17	Finding 2394 2400	normal
+T18	ResearchActivity 976 1019	Alzheimer's Disease Neuroimaging Initiative
+T19	HealthCareRelatedOrganization 976 1019	Alzheimer's Disease Neuroimaging Initiative
+T20	Finding 79 87	abnormal
+T21	Finding 2293 2301	abnormal
+T22	Finding 2382 2390	abnormal
+T23	Finding 2719 2727	abnormal
+T24	ResearchActivity 2616 2633	clinical settings
+T25	ResearchActivity 2931 2948	clinical settings
+T26	TemporalConcept 235 243	Previous
+T27	Finding 79 94	abnormal levels
+T28	ResearchActivity 166 173	cutoffs
+T29	DiseaseOrSyndrome 694 702	Dementia
+T30	DiseaseOrSyndrome 841 849	Dementia
+T31	HealthCareRelatedOrganization 1021 1025	ADNI
+T32	HealthCareRelatedOrganization 1463 1467	ADNI
+T33	HealthCareRelatedOrganization 1825 1829	ADNI
+T34	HealthCareRelatedOrganization 2352 2356	ADNI
+T35	ResearchActivity 1021 1025	ADNI
+T36	ResearchActivity 1463 1467	ADNI
+T37	ResearchActivity 1825 1829	ADNI
+T38	ResearchActivity 2352 2356	ADNI
+T39	BiologicFunction 798 803	death
+T40	BiologicFunction 936 941	death
+T41	BiologicFunction 1100 1105	death
+T42	BiologicFunction 1429 1434	death
+T43	PathologicFunction 798 803	death
+T44	PathologicFunction 936 941	death
+T45	PathologicFunction 1100 1105	death
+T46	PathologicFunction 1429 1434	death
+T47	CellFunction 798 803	death
+T48	CellFunction 936 941	death
+T49	CellFunction 1100 1105	death
+T50	CellFunction 1429 1434	death
+T51	AminoAcidPeptideOrProtein 119 122	tau
+T52	AminoAcidPeptideOrProtein 351 354	tau
+T53	AminoAcidPeptideOrProtein 1195 1198	tau
+T54	AminoAcidPeptideOrProtein 1893 1896	tau
+T55	AminoAcidPeptideOrProtein 2271 2274	tau
+T56	AminoAcidPeptideOrProtein 2403 2406	tau
+T57	AminoAcidPeptideOrProtein 2744 2747	tau
+T58	DiseaseOrSyndrome 29 48	Alzheimer's disease
+T59	DiseaseOrSyndrome 313 332	Alzheimer's disease
+T60	DiseaseOrSyndrome 521 540	Alzheimer's disease
+T61	DiseaseOrSyndrome 734 753	Alzheimer's disease
+T62	DiseaseOrSyndrome 881 900	Alzheimer's disease
+T63	DiseaseOrSyndrome 1045 1064	Alzheimer's disease
+T64	DiseaseOrSyndrome 1267 1286	Alzheimer's disease
+T65	DiseaseOrSyndrome 1592 1611	Alzheimer's disease
+T66	DiseaseOrSyndrome 1695 1714	Alzheimer's disease
+T67	DiseaseOrSyndrome 1994 2013	Alzheimer's disease
+T68	DiseaseOrSyndrome 2086 2105	Alzheimer's disease
+T69	DiseaseOrSyndrome 2223 2242	Alzheimer's disease
+T70	DiseaseOrSyndrome 2437 2456	Alzheimer's disease
+T71	DiseaseOrSyndrome 2529 2548	Alzheimer's disease
+T72	DiseaseOrSyndrome 2664 2683	Alzheimer's disease
+T73	DiseaseOrSyndrome 2859 2878	Alzheimer's disease
+T74	BodyPartOrganOrOrganComponent 55 58	CSF
+T75	BodyPartOrganOrOrganComponent 345 348	CSF
+T76	BodyPartOrganOrOrganComponent 503 506	CSF
+T77	BodyPartOrganOrOrganComponent 609 612	CSF
+T78	BodyPartOrganOrOrganComponent 779 782	CSF
+T79	BodyPartOrganOrOrganComponent 918 921	CSF
+T80	BodyPartOrganOrOrganComponent 1082 1085	CSF
+T81	BodyPartOrganOrOrganComponent 1172 1175	CSF
+T82	BodyPartOrganOrOrganComponent 1223 1226	CSF
+T83	BodyPartOrganOrOrganComponent 1401 1404	CSF
+T84	BodyPartOrganOrOrganComponent 1494 1497	CSF
+T85	BodyPartOrganOrOrganComponent 1887 1890	CSF
+T86	BodyPartOrganOrOrganComponent 2137 2140	CSF
+T87	BodyPartOrganOrOrganComponent 2690 2693	CSF
+T88	BiologicallyActiveSubstance 119 122	tau
+T89	BiologicallyActiveSubstance 351 354	tau
+T90	BiologicallyActiveSubstance 1195 1198	tau
+T91	BiologicallyActiveSubstance 1893 1896	tau
+T92	BiologicallyActiveSubstance 2271 2274	tau
+T93	BiologicallyActiveSubstance 2403 2406	tau
+T94	BiologicallyActiveSubstance 2744 2747	tau
+T95	BiomedicalOccupationOrDiscipline 2014 2028	neuropathology
+T96	PathologicFunction 2014 2028	neuropathology
+T97	PopulationGroup 468 475	cohorts
+T98	PopulationGroup 667 674	cohorts
+T99	PopulationGroup 278 289	individuals
+T100	PopulationGroup 575 586	individuals
+T101	PopulationGroup 1468 1479	individuals
+T102	PopulationGroup 1547 1558	individuals
+T103	PopulationGroup 1576 1587	individuals
+T104	PopulationGroup 2051 2062	individuals
+T105	PopulationGroup 2111 2122	individuals
+T106	PopulationGroup 2243 2254	individuals
+T107	PopulationGroup 2327 2338	individuals
+T108	PopulationGroup 2357 2368	individuals
+T109	PopulationGroup 2513 2524	individuals
+T110	PopulationGroup 2843 2854	individuals
+T111	ResearchActivity 2603 2611	research
+T112	ResearchActivity 2918 2926	research
+T113	ResearchActivity 244 251	studies
+T114	ResearchActivity 381 388	studies
+T115	AminoAcidPeptideOrProtein 103 110	amyloid
+T116	AminoAcidPeptideOrProtein 2728 2735	amyloid
+T117	BiologicallyActiveSubstance 103 110	amyloid
+T118	BiologicallyActiveSubstance 2728 2735	amyloid
+T119	DiseaseOrSyndrome 976 995	Alzheimer's Disease
+T120	HealthCareActivity 1377 1386	diagnosis
+T121	ClinicalAttribute 59 69	biomarkers
+T122	ClinicalAttribute 137 147	biomarkers
+T123	ClinicalAttribute 2694 2704	biomarkers
+T124	Finding 1726 1737	sensitivity
+T125	Finding 1742 1753	specificity
+T126	Finding 1211 1219	accuracy
+T127	Finding 1658 1666	accuracy
+T128	Finding 1716 1724	accuracy
+T129	PathologicFunction 224 233	pathology
+T130	BiomedicalOccupationOrDiscipline 224 233	pathology
+T131	Finding 201 209	presence
+T132	TemporalConcept 766 770	time
+T133	TemporalConcept 913 917	time
+T134	TemporalConcept 1077 1081	time
+T135	TemporalConcept 2419 2423	time
+T136	HealthCareActivity 2200 2209	follow-up
+T137	TemporalConcept 2200 2209	follow-up
+T138	TemporalConcept 816 821	years
+T139	TemporalConcept 954 959	years
+T140	TemporalConcept 1118 1123	years
+T141	HealthCareActivity 1498 1510	measurements
+T142	HealthCareActivity 2141 2153	measurements
+T143	AminoAcidPeptideOrProtein 349 354	p-tau
+T144	AminoAcidPeptideOrProtein 1193 1198	p-tau
+T145	AminoAcidPeptideOrProtein 1891 1896	p-tau
+T146	AminoAcidPeptideOrProtein 2269 2274	p-tau
+T147	AminoAcidPeptideOrProtein 2401 2406	p-tau
+T148	BiologicallyActiveSubstance 349 354	p-tau
+T149	BiologicallyActiveSubstance 1193 1198	p-tau
+T150	BiologicallyActiveSubstance 1891 1896	p-tau
+T151	BiologicallyActiveSubstance 2269 2274	p-tau
+T152	BiologicallyActiveSubstance 2401 2406	p-tau
+T153	Finding 1632 1638	status
+T154	Finding 2186 2192	status
+T155	Finding 2275 2281	status
+T156	Finding 2407 2413	status
+T157	AminoAcidPeptideOrProtein 1176 1182	A beta
+T158	AminoAcidPeptideOrProtein 2173 2185	A beta(1-42)
+T159	ResearchActivity 362 369	in vivo
+T160	Substance 414 420	sample
+T161	BodyPartOrganOrOrganComponent 414 420	sample
+T162	PopulationGroup 1830 1836	cohort
+T163	PopulationGroup 2792 2798	cohort
+T164	ResearchActivity 1136 1144	profiles
+T165	ResearchActivity 1230 1238	profiles
+T166	ResearchActivity 1355 1363	profiles
+T167	ClinicalAttribute 1126 1135	Biomarker
+T168	ClinicalAttribute 345 361	CSF p-tau levels
+T169	ClinicalAttribute 1195 1205	tau levels
+T170	Finding 213 220	absence
+T171	HealthCareActivity 295 302	autopsy
+T172	PatientOrDisabledGroup 684 709	Amsterdam Dementia Cohort
+T173	PatientOrDisabledGroup 833 856	Antwerp Dementia Cohort
+T174	HealthCareActivity 1249 1256	autopsy
+T175	ResearchActivity 1498 1510	measurements
+T176	AminoAcidPeptideOrProtein 1624 1631	Amyloid
+T177	HealthCareActivity 1677 1684	autopsy
+T178	ClinicalAttribute 1887 1896	CSF p-tau
+T179	HealthCareActivity 2068 2075	autopsy
+T180	ResearchActivity 2141 2153	measurements
+T181	BiologicallyActiveSubstance 2173 2185	A beta(1-42)

@@ -1,0 +1,73 @@
+T0	AminoAcidPeptideOrProtein 0 13	Ceruloplasmin
+T1	BiologicallyActiveSubstance 0 13	Ceruloplasmin
+T2	GeneOrGenome 0 13	Ceruloplasmin
+T3	AminoAcidPeptideOrProtein 15 17	Cp
+T4	BiologicallyActiveSubstance 15 17	Cp
+T5	GeneOrGenome 15 17	Cp
+T6	AminoAcidPeptideOrProtein 49 60	ferroxidase
+T7	BiologicallyActiveSubstance 49 60	ferroxidase
+T8	CellFunction 99 130	mobilisation and export of iron
+T9	CellFunction 161 172	bind copper
+T10	DiseaseOrSyndrome 228 246	aceruloplasminemia
+T11	SignOrSymptom 286 307	neurological symptoms
+T12	AminoAcidPeptideOrProtein 360 362	Cp
+T13	BiologicallyActiveSubstance 360 362	Cp
+T14	GeneOrGenome 360 362	Cp
+T15	AminoAcidPeptideOrProtein 421 429	proteome
+T16	BodyPartOrganOrOrganComponent 433 443	forebrains
+T17	Eukaryote 523 537	wild-type mice
+T18	CellFunction 653 685	post-translational modifications
+T19	AminoAcidPeptideOrProtein 731 744	glycoproteins
+T20	BiologicallyActiveSubstance 731 744	glycoproteins
+T21	AminoAcidPeptideOrProtein 749 764	phosphoproteins
+T22	Cell 810 841	oligodendrocyte precursor cells
+T23	CellFunction 953 972	synaptic signalling
+T24	CellFunction 977 1001	cellular mRNA processing
+T25	DiseaseOrSyndrome 1084 1092	diabetes
+T26	ResearchActivity 1094 1112	Iron concentration
+T27	PharmacologicSubstance 1221 1225	Iron
+T28	Chemical 1221 1225	Iron
+T29	CellFunction 1387 1408	synthesis of proteins
+T30	Chemical 1413 1419	lipids
+T31	ResearchActivity 1426 1452	proteomic characterisation
+T32	Cell 136 141	cells
+T33	BodyPartOrganOrOrganComponent 415 420	brain
+T34	BodyPartOrganOrOrganComponent 394 397	CNS
+T35	BodyPartOrganOrOrganComponent 1527 1530	CNS
+T36	BodyPartOrganOrOrganComponent 1160 1165	blood
+T37	Finding 1463 1472	knowledge
+T38	ExperimentalModelOfDisease 1202 1219	Cp-deficient mice
+T39	ExperimentalModelOfDisease 1591 1608	Cp-deficient mice
+T40	BodyPartOrganOrOrganComponent 370 392	central nervous system
+T41	DiseaseOrSyndrome 1054 1079	neurodegenerative disease
+T42	Cell 798 805	neurons
+T43	CellComponent 931 951	neuronal projections
+T44	BiologicallyActiveSubstance 1233 1241	cofactor
+T45	PharmacologicSubstance 166 172	copper
+T46	Chemical 166 172	copper
+T47	PharmacologicSubstance 126 130	iron
+T48	PharmacologicSubstance 1296 1300	iron
+T49	Chemical 126 130	iron
+T50	Chemical 1296 1300	iron
+T51	BiologicallyActiveSubstance 166 172	copper
+T52	BiologicallyActiveSubstance 126 130	iron
+T53	BiologicallyActiveSubstance 1296 1300	iron
+T54	Eukaryote 184 190	humans
+T55	DiseaseOrSyndrome 192 205	Cp deficiency
+T56	DiseaseOrSyndrome 843 856	Cp deficiency
+T57	DiseaseOrSyndrome 1346 1359	Cp deficiency
+T58	Finding 1285 1313	Changes in iron availability
+T59	CellFunction 687 691	PTMs
+T60	CellFunction 1568 1581	glycosylation
+T61	CellFunction 1318 1327	oxidation
+T62	CellFunction 1548 1563	phosphorylation
+T63	BiologicallyActiveSubstance 24 43	multicopper oxidase
+T64	AminoAcidPeptideOrProtein 24 43	multicopper oxidase
+T65	BiologicallyActiveSubstance 749 764	phosphoproteins
+T66	PopulationGroup 1183 1200	3- to 5-month-old
+T67	TemporalConcept 1174 1181	younger
+T68	ResearchActivity 1117 1139	transferrin saturation
+T69	BiologicallyActiveSubstance 1221 1225	Iron
+T70	AminoAcidPeptideOrProtein 1531 1539	proteome
+T71	BiologicallyActiveSubstance 1531 1539	proteome
+T72	ExperimentalModelOfDisease 449 518;533 537	asymptomatic 4-6-month-old Cp-deficient (B6N(Cg)-Cp-tm1b(KOMP)Wtsi/J) mice

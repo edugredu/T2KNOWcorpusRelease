@@ -1,0 +1,1 @@
+Data from wearable devices, such as smartwatches, are analyzed using machine learning to track changes in daily activities, sleep patterns, and mobility, providing valuable data for Alzheimer's research.

@@ -1,0 +1,5 @@
+T0	DiseaseOrSyndrome 126 153	neurodegenerative disorders
+T1	PathologicFunction 56 68	inflammation
+T2	PathologicFunction 87 104	neuroinflammatory
+T3	Bacterium 17 36	Helicobacter pylori
+T4	PathologicFunction 47 68	systemic inflammation

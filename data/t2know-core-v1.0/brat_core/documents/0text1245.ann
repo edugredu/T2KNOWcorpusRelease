@@ -1,0 +1,96 @@
+T0	BodyPartOrganOrOrganComponent 4 24	extracellular matrix
+T1	BodyPartOrganOrOrganComponent 26 29	ECM
+T2	SignOrSymptom 52 60	rigidity
+T3	AminoAcidPeptideOrProtein 156 169	proteoglycans
+T4	BiologicallyActiveSubstance 156 169	proteoglycans
+T5	BodyPartOrganOrOrganComponent 293 296	ECM
+T6	BiologicFunction 417 427	remodeling
+T7	BodyPartOrganOrOrganComponent 435 438	ECM
+T8	AminoAcidPeptideOrProtein 522 526	MMPs
+T9	BiologicallyActiveSubstance 522 526	MMPs
+T10	BodyPartOrganOrOrganComponent 637 640	ECM
+T11	BiologicFunction 641 651	remodeling
+T12	Finding 785 806	inflammatory response
+T13	CellFunction 862 875	Remyelination
+T14	DiseaseOrSyndrome 1000 1015	chronic disease
+T15	BodyPartOrganOrOrganComponent 1065 1068	ECM
+T16	PathologicFunction 1056 1079	abnormal ECM remodeling
+T17	BodyPartOrganOrOrganComponent 1108 1111	ECM
+T18	BiologicFunction 1112 1122	remodeling
+T19	ResearchActivity 1126 1138	experimental
+T20	BodyPartOrganOrOrganComponent 1230 1233	ECM
+T21	BodyPartOrganOrOrganComponent 1252 1255	ECM
+T22	BodyPartOrganOrOrganComponent 1294 1304	parenchyma
+T23	PathologicFunction 1308 1320	demyelinated
+T24	BodyPartOrganOrOrganComponent 1407 1410	ECM
+T25	BiologicFunction 1411 1421	remodeling
+T26	Finding 1604 1612	abnormal
+T27	BodyPartOrganOrOrganComponent 1613 1616	ECM
+T28	BiologicFunction 1617 1627	remodeling
+T29	BiologicFunction 1521 1529	behavior
+T30	IndividualBehavior 1521 1529	behavior
+T31	ResearchActivity 1521 1529	behavior
+T32	BodyPartOrganOrOrganComponent 398 401	CNS
+T33	BodyPartOrganOrOrganComponent 773 776	CNS
+T34	CellComponent 855 860	axons
+T35	CellComponent 879 892	denuded axons
+T36	HealthCareActivity 1705 1727	therapeutic strategies
+T37	TemporalConcept 448 457	transient
+T38	AminoAcidPeptideOrProtein 495 520	matrix metalloproteinases
+T39	AminoAcidPeptideOrProtein 502 520	metalloproteinases
+T40	BiologicallyActiveSubstance 502 520	metalloproteinases
+T41	BiologicallyActiveSubstance 495 520	matrix metalloproteinases
+T42	AminoAcidPeptideOrProtein 1272 1275	MMP
+T43	BiologicallyActiveSubstance 1272 1275	MMP
+T44	CellFunction 1174 1187	remyelination
+T45	CellFunction 1346 1359	remyelination
+T46	CellFunction 1534 1547	remyelination
+T47	CellFunction 1739 1752	remyelination
+T48	BiologicFunction 951 963	regeneration
+T49	CellComponent 826 840	myelin sheaths
+T50	Cell 1505 1520	oligodendrocyte
+T51	AminoAcidPeptideOrProtein 138 151	glycoproteins
+T52	BiologicallyActiveSubstance 138 151	glycoproteins
+T53	CellOrMolecularDysfunction 1643 1664	remyelination failure
+T54	CellComponent 1234 1244	components
+T55	DiseaseOrSyndrome 906 934	neuropathological conditions
+T56	ResearchActivity 1037 1043	review
+T57	ResearchActivity 1570 1576	review
+T58	HealthCareActivity 1037 1043	review
+T59	HealthCareActivity 1570 1576	review
+T60	PathologicFunction 1016 1027	progression
+T61	TemporalConcept 1016 1027	progression
+T62	AminoAcidPeptideOrProtein 473 481	proteins
+T63	BiologicFunction 359 370	homeostasis
+T64	BodyPartOrganOrOrganComponent 282 287	brain
+T65	PathologicFunction 683 695	pathogenesis
+T66	DiseaseOrSyndrome 726 765	neurodegenerative demyelinating disease
+T67	Cell 83 88	cells
+T68	DiseaseOrSyndrome 719 721	MS
+T69	DiseaseOrSyndrome 938 940	MS
+T70	DiseaseOrSyndrome 1083 1085	MS
+T71	DiseaseOrSyndrome 1321 1323	MS
+T72	DiseaseOrSyndrome 1451 1453	MS
+T73	DiseaseOrSyndrome 1668 1670	MS
+T74	DiseaseOrSyndrome 699 717	multiple sclerosis
+T75	PathologicFunction 1139 1152	demyelination
+T76	TemporalConcept 1000 1007	chronic
+T77	InjuryOrPoisoning 1086 1093	lesions
+T78	InjuryOrPoisoning 1324 1331	lesions
+T79	InjuryOrPoisoning 1454 1461	lesions
+T80	InjuryOrPoisoning 1671 1678	lesions
+T81	BiologicFunction 616 624	recovery
+T82	HealthCareActivity 616 624	recovery
+T83	TemporalConcept 616 624	recovery
+T84	BodyPartOrganOrOrganComponent 826 832	myelin
+T85	BodyPartOrganOrOrganComponent 1438 1450	white matter
+T86	TemporalConcept 983 987	time
+T87	PathologicFunction 1008 1027	disease progression
+T88	BodyPartOrganOrOrganComponent 374 396	central nervous system
+T89	InjuryOrPoisoning 587 593	injury
+T90	Finding 1392 1403	differences
+T91	ResearchActivity 1153 1159	models
+T92	NaturalPhenomenonOrProcess 52 60	rigidity
+T93	BodyPartOrganOrOrganComponent 469 472	ECM
+T94	CellFunction 568 581	cell behavior
+T95	PathologicFunction 626 651	Failure of ECM remodeling

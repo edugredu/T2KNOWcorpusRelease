@@ -1,0 +1,70 @@
+T0	Finding 328 346	psychosocial harms
+T1	Substance 441 450	materials
+T2	Substance 737 745	material
+T3	Substance 792 801	materials
+T4	ResearchActivity 806 813	clarity
+T5	IndividualBehavior 1088 1097	curiosity
+T6	PopulationGroup 1106 1112	family
+T7	Substance 1430 1439	materials
+T8	ResearchActivity 1458 1472	clinical study
+T9	Substance 1681 1690	materials
+T10	BiologicFunction 1125 1133	planning
+T11	Finding 12 30	Cognitively normal
+T12	Finding 32 34	CN
+T13	Finding 567 569	CN
+T14	Finding 762 764	CN
+T15	Finding 1566 1568	CN
+T16	Finding 1660 1662	CN
+T17	HealthCareRelatedOrganization 865 874	community
+T18	HealthCareActivity 166 178	neuroimaging
+T19	BiologicFunction 938 943	aging
+T20	CellFunction 938 943	aging
+T21	PopulationGroup 36 48	older adults
+T22	PopulationGroup 570 582	older adults
+T23	PopulationGroup 765 777	older adults
+T24	PopulationGroup 884 896	older adults
+T25	PopulationGroup 1569 1581	older adults
+T26	PopulationGroup 1663 1675	older adults
+T27	TemporalConcept 483 487	year
+T28	DiseaseOrSyndrome 66 85	Alzheimer's disease
+T29	DiseaseOrSyndrome 87 89	AD
+T30	DiseaseOrSyndrome 227 229	AD
+T31	DiseaseOrSyndrome 240 242	AD
+T32	DiseaseOrSyndrome 516 518	AD
+T33	DiseaseOrSyndrome 1029 1031	AD
+T34	DiseaseOrSyndrome 1590 1592	AD
+T35	PopulationGroup 847 859	participants
+T36	ResearchActivity 91 99	research
+T37	ResearchActivity 127 143	research results
+T38	ResearchActivity 243 259	research results
+T39	ResearchActivity 537 553	research results
+T40	ResearchActivity 598 606	research
+T41	ResearchActivity 668 684	research results
+T42	ResearchActivity 1373 1389	research results
+T43	ResearchActivity 1534 1550	research results
+T44	ResearchActivity 1593 1601	research
+T45	BiologicFunction 704 715	development
+T46	BiologicFunction 746 757	development
+T47	CellFunction 704 715	development
+T48	CellFunction 746 757	development
+T49	DiseaseOrSyndrome 230 238	dementia
+T50	DiseaseOrSyndrome 519 527	dementia
+T51	DiseaseOrSyndrome 1032 1040	dementia
+T52	ResearchActivity 914 934	longitudinal studies
+T53	Finding 617 623	result
+T54	ResearchActivity 962 969	Results
+T55	PopulationGroup 971 983	Participants
+T56	PopulationGroup 1245 1257	Participants
+T57	Finding 1487 1521	psychosocial and cognitive effects
+T58	HealthCareActivity 1302 1308	report
+T59	ResearchActivity 1302 1308	report
+T60	HealthCareActivity 613 616	MRI
+T61	TemporalConcept 1118 1124	future
+T62	PopulationGroup 1556 1562	cohort
+T63	HealthCareActivity 1072 1078	health
+T64	BodyPartOrganOrOrganComponent 607 612	brain
+T65	Finding 818 831	acceptability
+T66	Finding 208 212	risk
+T67	Finding 1010 1014	risk
+T68	Finding 1200 1204	risk
+T69	Finding 1640 1644	risk

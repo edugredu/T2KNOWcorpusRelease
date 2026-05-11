@@ -1,0 +1,27 @@
+T0	AminoAcidPeptideOrProtein 0 8	Cysteine
+T1	AminoAcidPeptideOrProtein 14 39	semi-essential amino acid
+T2	BiologicallyActiveSubstance 222 232	coenzyme A
+T3	CellFunction 264 286	metabolism of cysteine
+T4	AminoAcidPeptideOrProtein 278 286	cysteine
+T5	BiologicallyActiveSubstance 278 286	cysteine
+T6	PathologicFunction 290 302	dysregulated
+T7	DiseaseOrSyndrome 335 361	neurodegenerative disorder
+T8	AminoAcidPeptideOrProtein 421 439	protein huntingtin
+T9	BiologicallyActiveSubstance 421 439	protein huntingtin
+T10	CellFunction 471 490	cysteine metabolism
+T11	BiologicFunction 600 620	cysteine homeostasis
+T12	DiseaseOrSyndrome 328 330	HD
+T13	DiseaseOrSyndrome 528 530	HD
+T14	DiseaseOrSyndrome 642 644	HD
+T15	DiseaseOrSyndrome 306 326	Huntington's disease
+T16	CellFunction 96 113	protein synthesis
+T17	ResearchActivity 449 454	study
+T18	Chemical 154 160	sulfur
+T19	BiologicallyActiveSubstance 154 160	sulfur
+T20	PharmacologicSubstance 154 160	sulfur
+T21	AminoAcidPeptideOrProtein 206 217	glutathione
+T22	PharmacologicSubstance 206 217	glutathione
+T23	BiologicallyActiveSubstance 206 217	glutathione
+T24	NucleicAcidNucleosideOrNucleotide 222 232	coenzyme A
+T25	BiologicallyActiveSubstance 0 8	Cysteine
+T26	CellOrMolecularDysfunction 379 413	expansion of polyglutamine repeats

@@ -1,0 +1,50 @@
+T0	ResearchActivity 1006 1035	potential therapeutic targets
+T1	Finding 486 510	progressive degeneration
+T2	AminoAcidPeptideOrProtein 111 124	polyglutamine
+T3	CellFunction 589 610	neuroprotective roles
+T4	BodyPartOrganOrOrganComponent 233 244	spinal cord
+T5	CellFunction 673 694	aggregation formation
+T6	PathologicFunction 498 510	degeneration
+T7	CellOrMolecularDysfunction 452 481	abnormal protein accumulation
+T8	DiseaseOrSyndrome 35 54	Alzheimer's disease
+T9	CellComponent 406 409	EVs
+T10	CellComponent 580 583	EVs
+T11	CellComponent 827 830	EVs
+T12	CellComponent 966 969	EVs
+T13	CellComponent 1104 1106	EV
+T14	DiseaseOrSyndrome 56 75	Parkinson's disease
+T15	BiologicFunction 1089 1100	development
+T16	CellFunction 1089 1100	development
+T17	BodyPartOrganOrOrganComponent 223 228	brain
+T18	ClinicalAttribute 1113 1123	biomarkers
+T19	HealthCareActivity 1136 1147	diagnostics
+T20	DiseaseOrSyndrome 306 332	neurodegenerative diseases
+T21	DiseaseOrSyndrome 834 860	neurodegenerative diseases
+T22	DiseaseOrSyndrome 1053 1079	neurodegenerative diseases
+T23	PatientOrDisabledGroup 514 521	patient
+T24	ResearchActivity 765 771	review
+T25	HealthCareActivity 765 771	review
+T26	HealthCareActivity 1040 1049	treatment
+T27	ResearchActivity 1040 1049	treatment
+T28	ResearchActivity 253 260	studies
+T29	TemporalConcept 246 252	Recent
+T30	ResearchActivity 1016 1035	therapeutic targets
+T31	AminoAcidPeptideOrProtein 281 289	proteins
+T32	TemporalConcept 789 796	current
+T33	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T34	TemporalConcept 486 497	progressive
+T35	DiseaseOrSyndrome 77 106	amyotrophic lateral sclerosis
+T36	BiologicFunction 797 810	understanding
+T37	Finding 437 448	propagation
+T38	PathologicFunction 890 900	pathogenic
+T39	CellFunction 148 159	aggregation
+T40	CellFunction 673 684	aggregation
+T41	ResearchActivity 148 159	aggregation
+T42	ResearchActivity 673 684	aggregation
+T43	BodyPartOrganOrOrganComponent 522 528	brains
+T44	AminoAcidPeptideOrProtein 461 468	protein
+T45	CellFunction 905 920	neuroprotective
+T46	DiseaseOrSyndrome 111 133	polyglutamine diseases
+T47	CellOrMolecularDysfunction 164 219	abnormal accumulation of the disease-causative proteins
+T48	CellComponent 382 404	extracellular vesicles
+T49	CellOrMolecularDysfunction 699 755	aberrant accumulation of the disease-associated proteins

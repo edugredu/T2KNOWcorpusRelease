@@ -1,0 +1,131 @@
+T0	ResearchActivity 110 126	trial enrollment
+T1	ResearchActivity 443 466	Sino Longitudinal Study
+T2	DiseaseOrSyndrome 585 589	aMCI
+T3	DiseaseOrSyndrome 621 624	ADD
+T4	ResearchActivity 805 824	immunoprecipitation
+T5	BiologicallyActiveSubstance 833 852	anti-CD171 antibody
+T6	ResearchActivity 860 872	verification
+T7	ResearchActivity 992 1013	single-molecule array
+T8	BiologicFunction 1015 1029	Concentrations
+T9	HealthCareActivity 1198 1218	cognitive assessment
+T10	ResearchActivity 1395 1415	correlation analysis
+T11	ResearchActivity 1633 1646	normalization
+T12	AminoAcidPeptideOrProtein 1814 1816	NC
+T13	DiseaseOrSyndrome 1850 1854	aMCI
+T14	DiseaseOrSyndrome 1885 1888	ADD
+T15	HealthCareActivity 1918 1927	diagnoses
+T16	DiseaseOrSyndrome 2004 2008	aMCI
+T17	DiseaseOrSyndrome 2021 2024	ADD
+T18	DiseaseOrSyndrome 2245 2249	aMCI
+T19	DiseaseOrSyndrome 2255 2258	ADD
+T20	HealthCareActivity 2359 2369	diagnosing
+T21	CellFunction 910 924	phosphorylated
+T22	HealthCareActivity 677 705	positron emission tomography
+T23	Finding 2195 2209	no differences
+T24	ResearchActivity 470 495	Cognitive Decline project
+T25	ResearchActivity 1451 1458	project
+T26	Finding 1255 1268	relationships
+T27	BiologicFunction 1338 1347	cognition
+T28	BiologicFunction 2151 2160	cognition
+T29	AminoAcidPeptideOrProtein 947 966	neurofilament light
+T30	BiologicallyActiveSubstance 947 966	neurofilament light
+T31	PopulationGroup 337 345	controls
+T32	HealthCareActivity 1223 1249	magnetic resonance imaging
+T33	HealthCareActivity 1188 1197	follow-up
+T34	TemporalConcept 1188 1197	follow-up
+T35	PopulationGroup 513 525	participants
+T36	PopulationGroup 1165 1177	participants
+T37	PopulationGroup 2259 2270	individuals
+T38	ResearchActivity 1314 1326	longitudinal
+T39	ResearchActivity 2127 2139	longitudinal
+T40	PathologicFunction 2517 2524	atrophy
+T41	DiseaseOrSyndrome 2517 2524	atrophy
+T42	PopulationGroup 1435 1443	subjects
+T43	DiseaseOrSyndrome 549 583	amnestic mild cognitive impairment
+T44	BodyPartOrganOrOrganComponent 2443 2451	cortical
+T45	DiseaseOrSyndrome 62 81	Alzheimer's disease
+T46	DiseaseOrSyndrome 83 85	AD
+T47	DiseaseOrSyndrome 608 610	AD
+T48	DiseaseOrSyndrome 2370 2372	AD
+T49	AminoAcidPeptideOrProtein 1294 1301	amyloid
+T50	AminoAcidPeptideOrProtein 2096 2103	amyloid
+T51	AminoAcidPeptideOrProtein 2452 2459	amyloid
+T52	BiologicallyActiveSubstance 1294 1301	amyloid
+T53	BiologicallyActiveSubstance 2096 2103	amyloid
+T54	BiologicallyActiveSubstance 2452 2459	amyloid
+T55	AminoAcidPeptideOrProtein 382 388	A beta
+T56	AminoAcidPeptideOrProtein 397 403	A beta
+T57	AminoAcidPeptideOrProtein 642 648	A beta
+T58	AminoAcidPeptideOrProtein 735 741	A beta
+T59	AminoAcidPeptideOrProtein 754 760	A beta
+T60	AminoAcidPeptideOrProtein 898 904	A beta
+T61	AminoAcidPeptideOrProtein 1491 1497	A beta
+T62	AminoAcidPeptideOrProtein 1532 1538	A beta
+T63	AminoAcidPeptideOrProtein 1594 1600	A beta
+T64	AminoAcidPeptideOrProtein 1670 1680	A beta(42)
+T65	AminoAcidPeptideOrProtein 1769 1775	A beta
+T66	AminoAcidPeptideOrProtein 1806 1812	A beta
+T67	AminoAcidPeptideOrProtein 1929 1935	A beta
+T68	AminoAcidPeptideOrProtein 1945 1951	A beta
+T69	AminoAcidPeptideOrProtein 2051 2057	A beta
+T70	AminoAcidPeptideOrProtein 2220 2226	A beta
+T71	AminoAcidPeptideOrProtein 2338 2348	A beta(42)
+T72	AminoAcidPeptideOrProtein 2406 2412	A beta
+T73	DiseaseOrSyndrome 2484 2501	cognitive decline
+T74	AminoAcidPeptideOrProtein 368 380	beta-amyloid
+T75	PatientOrDisabledGroup 264 272	patients
+T76	PatientOrDisabledGroup 591 599	patients
+T77	PatientOrDisabledGroup 626 634	patients
+T78	DiseaseOrSyndrome 611 619	dementia
+T79	Cell 210 218	neuronal
+T80	Finding 330 336	normal
+T81	AminoAcidPeptideOrProtein 906 909	tau
+T82	BodyPartOrganOrOrganComponent 362 367	brain
+T83	BodyPartOrganOrOrganComponent 1353 1358	brain
+T84	ClinicalAttribute 18 28	biomarkers
+T85	ResearchActivity 1407 1415	analysis
+T86	ResearchActivity 1570 1578	analysis
+T87	PopulationGroup 1780 1785	group
+T88	PopulationGroup 1817 1822	group
+T89	PopulationGroup 1855 1860	group
+T90	PopulationGroup 1889 1894	group
+T91	BiologicallyActiveSubstance 906 909	tau
+T92	TemporalConcept 1612 1619	current
+T93	ResearchActivity 420 425	study
+T94	ResearchActivity 1620 1625	study
+T95	CellComponent 210 248	neuronal-derived extracellular vesicle
+T96	ClinicalAttribute 2220 2233	A beta levels
+T97	BodyPartOrganOrOrganComponent 203 209	plasma
+T98	BodyPartOrganOrOrganComponent 776 782	plasma
+T99	BodyPartOrganOrOrganComponent 1484 1490	plasma
+T100	BodyPartOrganOrOrganComponent 2213 2219	plasma
+T101	BodyPartOrganOrOrganComponent 2327 2333	plasma
+T102	DiseaseOrSyndrome 2381 2401	cognitive impairment
+T103	CellFunction 255 260	cargo
+T104	CellFunction 1276 1281	cargo
+T105	HealthCareActivity 87 96	diagnosis
+T106	ClinicalAttribute 2424 2433	biomarker
+T107	ResearchActivity 1514 1521	Results
+T108	TemporalConcept 132 136	time
+T109	BodyPartOrganOrOrganComponent 636 641	Brain
+T110	CellComponent 250 253	nEV
+T111	CellComponent 783 787	nEVs
+T112	ResearchActivity 1123 1126	ROC
+T113	CellComponent 1650 1654	nEVs
+T114	CellComponent 1272 1275	nEV
+T115	CellComponent 1528 1531	nEV
+T116	BodyPartOrganOrOrganComponent 12 17	Blood
+T117	PathologicFunction 2452 2470	amyloid deposition
+T118	ResearchActivity 1498 1512	quantification
+T119	ClinicalAttribute 2165 2182	entorhinal volume
+T120	CellComponent 2047 2050	nEV
+T121	AminoAcidPeptideOrProtein 928 941	threonine 181
+T122	CellFunction 1039 1045	cargos
+T123	ResearchActivity 1128 1134	curves
+T124	ResearchActivity 1973 1982	ROC curve
+T125	CellComponent 2334 2337	nEV
+T126	ClinicalAttribute 2327 2355	plasma nEV A beta(42) levels
+T127	BiologicallyActiveSubstance 1670 1680	A beta(42)
+T128	PathologicFunction 1294 1312	amyloid deposition
+T129	ClinicalAttribute 1353 1374	brain regional volume
+T130	PathologicFunction 2096 2114	amyloid deposition

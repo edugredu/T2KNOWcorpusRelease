@@ -1,0 +1,215 @@
+T0	Substance 323 335	supernatants
+T1	AminoAcidPeptideOrProtein 520 527	nSMase2
+T2	BiologicallyActiveSubstance 520 527	nSMase2
+T3	AminoAcidPeptideOrProtein 659 666	nSMase2
+T4	BiologicallyActiveSubstance 659 666	nSMase2
+T5	BodyPartOrganOrOrganComponent 843 849	cortex
+T6	GeneOrGenome 952 954	Wt
+T7	AminoAcidPeptideOrProtein 1067 1074	nSMase2
+T8	BiologicallyActiveSubstance 1067 1074	nSMase2
+T9	Finding 1076 1090	Reduced levels
+T10	BiologicallyActiveSubstance 1094 1099	PSD95
+T11	AminoAcidPeptideOrProtein 1094 1099	PSD95
+T12	CellFunction 1126 1138	potentiation
+T13	AminoAcidPeptideOrProtein 1242 1246	IL-8
+T14	BiologicallyActiveSubstance 1242 1246	IL-8
+T15	AminoAcidPeptideOrProtein 1251 1260	TNF alpha
+T16	Substance 1395 1401	liquid
+T17	BiomedicalOccupationOrDiscipline 1533 1548	Pharmacological
+T18	Chemical 1585 1589	PDDC
+T19	BiologicFunction 1664 1676	localization
+T20	ResearchActivity 1664 1676	localization
+T21	CellFunction 1664 1676	localization
+T22	AminoAcidPeptideOrProtein 1777 1784	nSMase2
+T23	BiologicallyActiveSubstance 1777 1784	nSMase2
+T24	HealthCareActivity 1797 1804	release
+T25	ResearchActivity 1797 1804	release
+T26	AminoAcidPeptideOrProtein 1924 1931	nSMase2
+T27	BiologicallyActiveSubstance 1924 1931	nSMase2
+T28	InjuryOrPoisoning 1968 1973	toxic
+T29	AminoAcidPeptideOrProtein 2115 2122	nSMase2
+T30	BiologicallyActiveSubstance 2115 2122	nSMase2
+T31	InjuryOrPoisoning 2293 2298	toxic
+T32	GeneOrGenome 2344 2351	nSMase2
+T33	AminoAcidPeptideOrProtein 2344 2351	nSMase2
+T34	BiologicallyActiveSubstance 2344 2351	nSMase2
+T35	Finding 2376 2387	independent
+T36	CellComponent 0 22	Extracellular vesicles
+T37	BodyPartOrganOrOrganComponent 854 865	hippocampus
+T38	Cell 350 357	neurons
+T39	Cell 1951 1958	neurons
+T40	Cell 2276 2283	neurons
+T41	Cell 672 689	pyramidal neurons
+T42	BiologicFunction 2333 2343	inhibiting
+T43	BiologicFunction 1116 1138	long-term potentiation
+T44	Chemical 468 481	sphingomyelin
+T45	BiologicallyActiveSubstance 468 481	sphingomyelin
+T46	CellFunction 2426 2445	neuronal protection
+T47	AminoAcidPeptideOrProtein 124 127	APP
+T48	AminoAcidPeptideOrProtein 693 696	APP
+T49	AminoAcidPeptideOrProtein 707 710	APP
+T50	AminoAcidPeptideOrProtein 901 904	APP
+T51	AminoAcidPeptideOrProtein 958 961	APP
+T52	AminoAcidPeptideOrProtein 1142 1145	APP
+T53	AminoAcidPeptideOrProtein 1174 1177	APP
+T54	AminoAcidPeptideOrProtein 1264 1267	APP
+T55	AminoAcidPeptideOrProtein 1300 1303	APP
+T56	AminoAcidPeptideOrProtein 1337 1340	APP
+T57	AminoAcidPeptideOrProtein 1449 1452	APP
+T58	AminoAcidPeptideOrProtein 1486 1489	APP
+T59	AminoAcidPeptideOrProtein 1680 1683	APP
+T60	AminoAcidPeptideOrProtein 2198 2201	APP
+T61	GeneOrGenome 124 127	APP
+T62	GeneOrGenome 693 696	APP
+T63	GeneOrGenome 707 710	APP
+T64	GeneOrGenome 901 904	APP
+T65	GeneOrGenome 958 961	APP
+T66	GeneOrGenome 1142 1145	APP
+T67	GeneOrGenome 1174 1177	APP
+T68	GeneOrGenome 1264 1267	APP
+T69	GeneOrGenome 1300 1303	APP
+T70	GeneOrGenome 1337 1340	APP
+T71	GeneOrGenome 1449 1452	APP
+T72	GeneOrGenome 1486 1489	APP
+T73	GeneOrGenome 1680 1683	APP
+T74	GeneOrGenome 2198 2201	APP
+T75	BiologicallyActiveSubstance 124 127	APP
+T76	BiologicallyActiveSubstance 693 696	APP
+T77	BiologicallyActiveSubstance 707 710	APP
+T78	BiologicallyActiveSubstance 901 904	APP
+T79	BiologicallyActiveSubstance 958 961	APP
+T80	BiologicallyActiveSubstance 1142 1145	APP
+T81	BiologicallyActiveSubstance 1174 1177	APP
+T82	BiologicallyActiveSubstance 1264 1267	APP
+T83	BiologicallyActiveSubstance 1300 1303	APP
+T84	BiologicallyActiveSubstance 1337 1340	APP
+T85	BiologicallyActiveSubstance 1449 1452	APP
+T86	BiologicallyActiveSubstance 1486 1489	APP
+T87	BiologicallyActiveSubstance 1680 1683	APP
+T88	BiologicallyActiveSubstance 2198 2201	APP
+T89	AminoAcidPeptideOrProtein 697 700	PS1
+T90	AminoAcidPeptideOrProtein 711 714	PS1
+T91	AminoAcidPeptideOrProtein 905 908	PS1
+T92	AminoAcidPeptideOrProtein 962 965	PS1
+T93	AminoAcidPeptideOrProtein 1146 1149	PS1
+T94	AminoAcidPeptideOrProtein 1178 1181	PS1
+T95	AminoAcidPeptideOrProtein 1268 1271	PS1
+T96	AminoAcidPeptideOrProtein 1304 1307	PS1
+T97	AminoAcidPeptideOrProtein 1341 1344	PS1
+T98	AminoAcidPeptideOrProtein 1453 1456	PS1
+T99	ExperimentalModelOfDisease 693 705	APP/PS1 mice
+T100	ExperimentalModelOfDisease 1142 1154	APP/PS1 mice
+T101	ExperimentalModelOfDisease 1264 1276	APP/PS1 mice
+T102	ExperimentalModelOfDisease 1337 1349	APP/PS1 mice
+T103	ExperimentalModelOfDisease 1449 1461	APP/PS1 mice
+T104	ResearchActivity 95 107	publications
+T105	CellComponent 1395 1431	liquid ordered membrane microdomains
+T106	CellComponent 1614 1650	liquid ordered membrane microdomains
+T107	CellComponent 2216 2252	liquid ordered membrane microdomains
+T108	AminoAcidPeptideOrProtein 1231 1240	IL-1 beta
+T109	BiologicallyActiveSubstance 1231 1240	IL-1 beta
+T110	PharmacologicSubstance 1231 1240	IL-1 beta
+T111	PopulationGroup 588 598	population
+T112	BiomedicalOccupationOrDiscipline 411 426	pharmacological
+T113	CellFunction 561 571	biogenesis
+T114	CellFunction 2358 2368	biogenesis
+T115	Finding 1104 1112	deficits
+T116	BiologicallyActiveSubstance 129 154	amyloid processing enzyme
+T117	BodyPartOrganOrOrganComponent 447 451	body
+T118	GeneOrGenome 1494 1499	BACE1
+T119	GeneOrGenome 1689 1694	BACE1
+T120	GeneOrGenome 2207 2212	BACE1
+T121	AminoAcidPeptideOrProtein 1494 1499	BACE1
+T122	AminoAcidPeptideOrProtein 1689 1694	BACE1
+T123	AminoAcidPeptideOrProtein 2207 2212	BACE1
+T124	BiologicallyActiveSubstance 1494 1499	BACE1
+T125	BiologicallyActiveSubstance 1689 1694	BACE1
+T126	BiologicallyActiveSubstance 2207 2212	BACE1
+T127	OrganismAttribute 791 794	age
+T128	OrganismAttribute 831 834	age
+T129	Finding 363 374	involvement
+T130	Finding 745 754	reduction
+T131	Finding 805 814	reduction
+T132	NaturalPhenomenonOrProcess 745 754	reduction
+T133	NaturalPhenomenonOrProcess 805 814	reduction
+T134	CellFunction 427 437	inhibition
+T135	CellFunction 1549 1559	inhibition
+T136	CellFunction 1763 1773	inhibition
+T137	BodyPartOrganOrOrganComponent 1007 1012	brain
+T138	ResearchActivity 1363 1370	studies
+T139	CellComponent 24 27	EVs
+T140	CellComponent 196 199	EVs
+T141	CellComponent 248 251	EVs
+T142	CellComponent 378 381	EVs
+T143	CellComponent 602 605	EVs
+T144	CellComponent 1831 1834	EVs
+T145	CellComponent 1875 1878	EVs
+T146	BodyPartOrganOrOrganComponent 307 313	plasma
+T147	ResearchActivity 2093 2097	data
+T148	Eukaryote 301 306	human
+T149	CellComponent 2355 2357	EV
+T150	Eukaryote 701 705	mice
+T151	Eukaryote 923 930	Wt mice
+T152	Eukaryote 977 981	mice
+T153	Eukaryote 1193 1197	mice
+T154	Eukaryote 1272 1276	mice
+T155	Eukaryote 1318 1322	mice
+T156	Eukaryote 1345 1349	mice
+T157	Eukaryote 1457 1461	mice
+T158	ResearchActivity 1031 1036	model
+T159	BodyPartOrganOrOrganComponent 315 318	CSF
+T160	CellFunction 1057 1066	expressed
+T161	TemporalConcept 1116 1125	long-term
+T162	TemporalConcept 781 787	months
+T163	TemporalConcept 821 827	months
+T164	AminoAcidPeptideOrProtein 129 136	amyloid
+T165	BiologicallyActiveSubstance 129 136	amyloid
+T166	OrganismAttribute 1387 1391	size
+T167	OrganismAttribute 1602 1606	size
+T168	OrganismAttribute 1823 1827	size
+T169	AminoAcidPeptideOrProtein 78 84	A beta
+T170	AminoAcidPeptideOrProtein 160 175	A beta peptides
+T171	AminoAcidPeptideOrProtein 222 228	A beta
+T172	AminoAcidPeptideOrProtein 283 289	A beta
+T173	AminoAcidPeptideOrProtein 758 764	A beta
+T174	AminoAcidPeptideOrProtein 1725 1736	A beta 1-40
+T175	AminoAcidPeptideOrProtein 1741 1752	A beta 1-42
+T176	AminoAcidPeptideOrProtein 1848 1854	A beta
+T177	AminoAcidPeptideOrProtein 1998 2004	A beta
+T178	AminoAcidPeptideOrProtein 2068 2074	A beta
+T179	AminoAcidPeptideOrProtein 2157 2163	A beta
+T180	AminoAcidPeptideOrProtein 2310 2316	A beta
+T181	CellFunction 2404 2421	A beta production
+T182	AminoAcidPeptideOrProtein 129 155	amyloid processing enzymes
+T183	ResearchActivity 341 357	cultured neurons
+T184	AminoAcidPeptideOrProtein 468 518	sphingomyelin hydrolase neutral sphingomyelinase-2
+T185	BiologicallyActiveSubstance 468 518	sphingomyelin hydrolase neutral sphingomyelinase-2
+T186	ResearchActivity 622 636	Cre-Lox system
+T187	BiologicallyActiveSubstance 711 714	PS1
+T188	BiologicallyActiveSubstance 697 700	PS1
+T189	GeneOrGenome 715 720	SMPD3
+T190	BodyPartOrganOrOrganComponent 867 872	Brain
+T191	BiologicallyActiveSubstance 873 882	ceramides
+T192	Chemical 873 882	ceramides
+T193	BiologicallyActiveSubstance 905 908	PS1
+T194	Chemical 1013 1022	ceramides
+T195	BiologicallyActiveSubstance 1013 1022	ceramides
+T196	Cell 1046 1056	neuronally
+T197	BiologicallyActiveSubstance 1178 1181	PS1
+T198	GeneOrGenome 1182 1187	SMPD3
+T199	GeneOrGenome 966 971	SMPD3
+T200	BiologicallyActiveSubstance 1251 1260	TNF alpha
+T201	CellFunction 1563 1579	nSMase2 activity
+T202	PharmacologicSubstance 1585 1589	PDDC
+T203	CellFunction 2068 2085	A beta deposition
+T204	BiologicFunction 2019 2046	neural network connectivity
+T205	BiologicallyActiveSubstance 1741 1752	A beta 1-42
+T206	BiologicallyActiveSubstance 1725 1736	A beta 1-40
+T207	CellComponent 1519 1531	microdomains
+T208	BiologicallyActiveSubstance 1146 1149	PS1
+T209	BiologicallyActiveSubstance 721 725	Nex1
+T210	AminoAcidPeptideOrProtein 721 725	Nex1
+T211	AminoAcidPeptideOrProtein 972 976	Nex1
+T212	BiologicallyActiveSubstance 972 976	Nex1
+T213	AminoAcidPeptideOrProtein 1188 1192	Nex1
+T214	BiologicallyActiveSubstance 1188 1192	Nex1

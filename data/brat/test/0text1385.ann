@@ -1,0 +1,56 @@
+T0	Finding 4 16	exacerbation
+T1	Finding 83 94	obstruction
+T2	Cell 121 153	oligodendrocyte progenitor cells
+T3	Cell 155 159	OPCs
+T4	CellFunction 216 229	remyelination
+T5	Cell 244 248	OPCs
+T6	BodyPartOrganOrOrganComponent 266 272	myelin
+T7	CellComponent 266 272	myelin
+T8	CellFunction 279 297	protein expression
+T9	Cell 317 321	OPCs
+T10	GeneOrGenome 328 335	library
+T11	Chemical 401 412	pinocembrin
+T12	CellFunction 516 524	survival
+T13	Chemical 606 617	pinocembrin
+T14	DiseaseOrSyndrome 638 660	demyelinating diseases
+T15	Chemical 683 694	pinocembrin
+T16	ExperimentalModelOfDisease 740 781	experimental autoimmune encephalomyelitis
+T17	ExperimentalModelOfDisease 783 786	EAE
+T18	BiologicFunction 805 811	repair
+T19	HealthCareActivity 805 811	repair
+T20	Chemical 891 902	pinocembrin
+T21	Chemical 962 971	rapamycin
+T22	AminoAcidPeptideOrProtein 973 977	mTOR
+T23	GeneOrGenome 973 977	mTOR
+T24	Chemical 1026 1037	pinocembrin
+T25	Cell 1047 1050	OPC
+T26	CellFunction 1071 1084	remyelination
+T27	DiseaseOrSyndrome 1214 1236	demyelinating diseases
+T28	ResearchActivity 621 634	animal models
+T29	PathologicFunction 725 736	progression
+T30	TemporalConcept 725 736	progression
+T31	ResearchActivity 868 875	studies
+T32	DiseaseOrSyndrome 52 54	MS
+T33	PharmacologicSubstance 391 396	drugs
+T34	CellFunction 102 117	differentiation
+T35	CellFunction 440 459	OPC differentiation
+T36	CellFunction 1051 1066	differentiation
+T37	DiseaseOrSyndrome 32 50	multiple sclerosis
+T38	CellFunction 493 511	cell proliferation
+T39	Eukaryote 942 951	mammalian
+T40	ResearchActivity 541 549	in vitro
+T41	CellFunction 1097 1124	phosphorylated mTOR pathway
+T42	PathologicFunction 815 828	demyelination
+T43	Substance 174 201	novel therapeutic compounds
+T44	CellFunction 917 932	phosphorylation
+T45	ResearchActivity 304 321	cultured rat OPCs
+T46	Substance 339 363	small-molecule compounds
+T47	Finding 583 602	therapeutic effects
+T48	Chemical 832 842	lysolectin
+T49	InjuryOrPoisoning 832 858	lysolectin-induced lesions
+T50	BiologicallyActiveSubstance 973 977	mTOR
+T51	GeneOrGenome 942 971	mammalian target of rapamycin
+T52	AminoAcidPeptideOrProtein 942 971	mammalian target of rapamycin
+T53	BiologicallyActiveSubstance 942 971	mammalian target of rapamycin
+T54	Chemical 1176 1201	natural flavonoid product
+T55	CellFunction 440 443;464 474	OPC maturation

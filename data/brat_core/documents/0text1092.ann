@@ -1,0 +1,78 @@
+T0	CellComponent 358 367	ectosomes
+T1	CellComponent 385 393	vesicles
+T2	CellComponent 451 459	vesicles
+T3	DiseaseOrSyndrome 484 498	brain diseases
+T4	Cell 605 617	target cells
+T5	ResearchActivity 605 617	target cells
+T6	PopulationGroup 645 650	state
+T7	CellFunction 714 728	vesicle fusion
+T8	CellFunction 736 745;746 748;755 761	discharge of cargos
+T9	CellComponent 771 780	cytoplasm
+T10	Cell 784 796	target cells
+T11	ResearchActivity 784 796	target cells
+T12	DiseaseOrSyndrome 992 1007	immune diseases
+T13	Finding 1152 1160	reducing
+T14	CellComponent 1336 1344	vesicles
+T15	TemporalConcept 1384 1394	generation
+T16	BodyPartOrganOrOrganComponent 1591 1609	blood-brainbarrier
+T17	CellComponent 1611 1619	vesicles
+T18	Substance 1644 1650	fluids
+T19	BodyPartOrganOrOrganComponent 1644 1650	fluids
+T20	HealthCareActivity 1728 1766	diagnostic and therapeutic innovations
+T21	Cell 14 21	neurons
+T22	Cell 156 163	neurons
+T23	Cell 1468 1475	neurons
+T24	TemporalConcept 1512 1517	delay
+T25	Substance 830 839	molecules
+T26	Cell 26 37	glial cells
+T27	Cell 165 175	astrocytes
+T28	Cell 1480 1490	astrocytes
+T29	TemporalConcept 685 691	origin
+T30	TemporalConcept 1631 1637	origin
+T31	Finding 1142 1148	severe
+T32	CellComponent 561 569	membrane
+T33	CellFunction 238 266	binding of signaling factors
+T34	CellFunction 268 290	direct surface binding
+T35	NucleicAcidNucleosideOrNucleotide 888 899	nucleotides
+T36	CellComponent 345 353	exosomes
+T37	BiologicFunction 1295 1307	developments
+T38	CellFunction 1295 1307	developments
+T39	ResearchActivity 424 430	review
+T40	HealthCareActivity 424 430	review
+T41	DiseaseOrSyndrome 958 984	neurodegenerative diseases
+T42	AminoAcidPeptideOrProtein 1458 1461	tau
+T43	AminoAcidPeptideOrProtein 846 854	proteins
+T44	AminoAcidPeptideOrProtein 1432 1440	proteins
+T45	BodyPartOrganOrOrganComponent 104 109	brain
+T46	BodyPartOrganOrOrganComponent 1360 1365	brain
+T47	BodyPartOrganOrOrganComponent 1800 1805	brain
+T48	CellComponent 317 339	extracellular vesicles
+T49	DiseaseOrSyndrome 1312 1331	Alzheimer's disease
+T50	ClinicalAttribute 1702 1712	biomarkers
+T51	Finding 540 551	specificity
+T52	Finding 655 666	specificity
+T53	NucleicAcidNucleosideOrNucleotide 912 918	miRNAs
+T54	NucleicAcidNucleosideOrNucleotide 1126 1132	miRNAs
+T55	NucleicAcidNucleosideOrNucleotide 1501 1507	miRNAs
+T56	BiologicallyActiveSubstance 912 918	miRNAs
+T57	BiologicallyActiveSubstance 1126 1132	miRNAs
+T58	BiologicallyActiveSubstance 1501 1507	miRNAs
+T59	PatientOrDisabledGroup 1806 1814	patients
+T60	Cell 676 681	cells
+T61	TemporalConcept 1785 1791	future
+T62	TemporalConcept 1228 1237	relapsing
+T63	TemporalConcept 1212 1223	progressive
+T64	DiseaseOrSyndrome 1011 1029	multiple sclerosis
+T65	TemporalConcept 1522 1531	long-term
+T66	Cell 180 189	microglia
+T67	BiologicFunction 1532 1543	development
+T68	CellFunction 1532 1543	development
+T69	Finding 1192 1203	differences
+T70	BiologicallyActiveSubstance 1458 1461	tau
+T71	AminoAcidPeptideOrProtein 1447 1453	A beta
+T72	CellComponent 1096 1110	glial vesicles
+T73	CellFunction 230 237;246 266	release of signaling factors
+T74	CellFunction 306 339	release of extracellular vesicles
+T75	CellFunction 295 305;314 339	generation of extracellular vesicles
+T76	DiseaseOrSyndrome 947 953;976 984	immune diseases
+T77	CellComponent 1174 1181	vesicle

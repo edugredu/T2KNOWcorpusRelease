@@ -1,0 +1,9 @@
+T0	Cell 69 79	cell types
+T1	BiomedicalOccupationOrDiscipline 152 159	biology
+T2	TemporalConcept 164 171	decades
+T3	OrganismAttribute 30 37	ability
+T4	ResearchActivity 95 106	researchers
+T5	Cell 142 151	stem cell
+T6	BiologicFunction 152 159	biology
+T7	BiologicFunction 116 137	embryonic development
+T8	EmbryonicStructure 4 16	neural crest

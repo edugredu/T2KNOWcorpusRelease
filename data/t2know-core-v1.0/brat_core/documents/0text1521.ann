@@ -1,0 +1,62 @@
+T0	AminoAcidPeptideOrProtein 96 143	translocase of the outer membrane (TOM) complex
+T1	BiologicallyActiveSubstance 96 143	translocase of the outer membrane (TOM) complex
+T2	GeneOrGenome 324 329	TOM70
+T3	AminoAcidPeptideOrProtein 346 357	translocase
+T4	BiologicallyActiveSubstance 346 357	translocase
+T5	AminoAcidPeptideOrProtein 373 384	TOM complex
+T6	GeneOrGenome 422 427	TOM70
+T7	BodyPartOrganOrOrganComponent 455 471	peripheral blood
+T8	GeneOrGenome 565 570	TOM70
+T9	DiseaseOrSyndrome 619 622	DLB
+T10	GeneOrGenome 699 704	TOM70
+T11	TemporalConcept 811 826	clinical stages
+T12	GeneOrGenome 874 879	TOM70
+T13	CellOrMolecularDysfunction 0 25	Mitochondrial dysfunction
+T14	CellComponent 166 179	mitochondrial
+T15	DiseaseOrSyndrome 634 640	stroke
+T16	CellFunction 211 233	mitochondrial function
+T17	NucleicAcidNucleosideOrNucleotide 550 554	mRNA
+T18	NucleicAcidNucleosideOrNucleotide 685 689	mRNA
+T19	CellComponent 606 617	Lewy bodies
+T20	PathologicFunction 240 269	pathophysiological conditions
+T21	PathologicFunction 50 62	pathogenesis
+T22	DiseaseOrSyndrome 66 85	Alzheimer's disease
+T23	PatientOrDisabledGroup 574 582	patients
+T24	PatientOrDisabledGroup 743 751	patients
+T25	DiseaseOrSyndrome 87 89	AD
+T26	DiseaseOrSyndrome 292 294	AD
+T27	DiseaseOrSyndrome 588 590	AD
+T28	DiseaseOrSyndrome 757 759	AD
+T29	DiseaseOrSyndrome 915 917	AD
+T30	ClinicalAttribute 901 910	biomarker
+T31	DiseaseOrSyndrome 592 617	dementia with Lewy bodies
+T32	DiseaseOrSyndrome 629 649	post-stroke dementia
+T33	ResearchActivity 401 406	study
+T34	ResearchActivity 661 666	study
+T35	BodyPartOrganOrOrganComponent 544 549	blood
+T36	BodyPartOrganOrOrganComponent 726 739	blood samples
+T37	PopulationGroup 144 152	controls
+T38	BiologicFunction 295 306	development
+T39	CellFunction 295 306	development
+T40	PathologicFunction 796 807	progression
+T41	PathologicFunction 954 965	progression
+T42	TemporalConcept 796 807	progression
+T43	TemporalConcept 954 965	progression
+T44	HealthCareActivity 918 927	diagnosis
+T45	AminoAcidPeptideOrProtein 180 198	precursor proteins
+T46	HealthCareActivity 932 942	monitoring
+T47	TemporalConcept 393 400	current
+T48	PathologicFunction 946 965	disease progression
+T49	BodyPartOrganOrOrganComponent 476 487	hippocampus
+T50	TemporalConcept 629 633	post
+T51	ExperimentalModelOfDisease 495 507	APP/PS1 mice
+T52	AminoAcidPeptideOrProtein 324 329	TOM70
+T53	BiologicallyActiveSubstance 324 329	TOM70
+T54	BiologicallyActiveSubstance 373 384	TOM complex
+T55	AminoAcidPeptideOrProtein 422 427	TOM70
+T56	BiologicallyActiveSubstance 422 427	TOM70
+T57	AminoAcidPeptideOrProtein 565 570	TOM70
+T58	BiologicallyActiveSubstance 565 570	TOM70
+T59	AminoAcidPeptideOrProtein 874 879	TOM70
+T60	BiologicallyActiveSubstance 874 879	TOM70
+T61	DiseaseOrSyndrome 651 654	PSD

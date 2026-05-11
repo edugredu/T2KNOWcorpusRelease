@@ -1,0 +1,76 @@
+T0	Chemical 315 324	dauricine
+T1	Chemical 326 329	DAU
+T2	Chemical 396 399	DAU
+T3	DiseaseOrSyndrome 438 459	cognitive impairments
+T4	NucleicAcidNucleosideOrNucleotide 564 567	ATP
+T5	PharmacologicSubstance 564 567	ATP
+T6	BiologicallyActiveSubstance 564 567	ATP
+T7	BiomedicalOccupationOrDiscipline 575 584	Proteomic
+T8	ResearchActivity 589 610	western blot analyses
+T9	Chemical 625 628	DAU
+T10	GeneOrGenome 735 739	Aco2
+T11	GeneOrGenome 741 747	Ndufs1
+T12	GeneOrGenome 749 754	Cox5a
+T13	AminoAcidPeptideOrProtein 760 764	SDHB
+T14	GeneOrGenome 760 764	SDHB
+T15	BiologicallyActiveSubstance 760 764	SDHB
+T16	AminoAcidPeptideOrProtein 811 815	Syn1
+T17	GeneOrGenome 811 815	Syn1
+T18	GeneOrGenome 820 824	Syn2
+T19	Chemical 857 860	DAU
+T20	CellFunction 875 899	tricarboxylic acid cycle
+T21	Chemical 875 893	tricarboxylic acid
+T22	CellFunction 901 923	synaptic vesicle cycle
+T23	CellFunction 925 935	glycolysis
+T24	CellFunction 941 956	gluconeogenesis
+T25	Chemical 998 1001	DAU
+T26	AnatomicalAbnormality 490 504	A beta plaques
+T27	BiologicFunction 708 725	energy metabolism
+T28	BodyPartOrganOrOrganComponent 552 563	hippocampal
+T29	Cell 552 563	hippocampal
+T30	CellComponent 113 126	intracellular
+T31	BodyPartOrganOrOrganComponent 778 785	synapse
+T32	TemporalConcept 646 654	modified
+T33	CellComponent 694 707	mitochondrial
+T34	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T35	DiseaseOrSyndrome 21 23	AD
+T36	DiseaseOrSyndrome 377 379	AD
+T37	DiseaseOrSyndrome 1047 1049	AD
+T38	ResearchActivity 826 842	Pathway analysis
+T39	ResearchActivity 255 260	study
+T40	ResearchActivity 978 983	study
+T41	HealthCareActivity 629 638	treatment
+T42	HealthCareActivity 1034 1043	treatment
+T43	ResearchActivity 629 638	treatment
+T44	ResearchActivity 1034 1043	treatment
+T45	CellFunction 659 669	expression
+T46	AminoAcidPeptideOrProtein 673 681	proteins
+T47	AminoAcidPeptideOrProtein 794 802	proteins
+T48	AminoAcidPeptideOrProtein 101 107	A beta
+T49	CellFunction 715 725	metabolism
+T50	BiologicFunction 715 725	metabolism
+T51	ExperimentalModelOfDisease 463 475	3xTg-AD mice
+T52	ExperimentalModelOfDisease 960 972	3xTg-AD mice
+T53	AminoAcidPeptideOrProtein 87 99	beta-amyloid
+T54	HealthCareActivity 208 215	therapy
+T55	AminoAcidPeptideOrProtein 162 193	hyperphosphorylated tau protein
+T56	AminoAcidPeptideOrProtein 509 532	hyperphosphorylated tau
+T57	BiologicallyActiveSubstance 162 193	hyperphosphorylated tau protein
+T58	BiologicallyActiveSubstance 509 532	hyperphosphorylated tau
+T59	CellComponent 901 917	synaptic vesicle
+T60	Finding 292 311	therapeutic effects
+T61	PharmacologicSubstance 1021 1025	drug
+T62	CellOrMolecularDysfunction 127 150	neurofibrillary tangles
+T63	AnatomicalAbnormality 45 74	extracellular amyloid plaques
+T64	Chemical 334 372	benzyl tetrahydroisoquinoline alkaloid
+T65	HealthCareActivity 400 414	administration
+T66	ResearchActivity 589 601	western blot
+T67	BiologicallyActiveSubstance 811 815	Syn1
+T68	BiologicallyActiveSubstance 820 824	Syn2
+T69	AminoAcidPeptideOrProtein 741 747	Ndufs1
+T70	AminoAcidPeptideOrProtein 735 739	Aco2
+T71	AminoAcidPeptideOrProtein 749 754	Cox5a
+T72	BiologicallyActiveSubstance 735 739	Aco2
+T73	BiologicallyActiveSubstance 741 747	Ndufs1
+T74	BiologicallyActiveSubstance 749 754	Cox5a
+T75	AminoAcidPeptideOrProtein 820 824	Syn2

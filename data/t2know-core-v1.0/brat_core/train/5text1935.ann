@@ -1,0 +1,15 @@
+T0	Cell 62 67	cells
+T1	Cell 134 144	basal cell
+T2	Cell 160 173	squamous cell
+T3	Finding 83 97	increased risk
+T4	DiseaseOrSyndrome 106 112	cancer
+T5	NucleicAcidNucleosideOrNucleotide 50 53	DNA
+T6	BodyPartOrganOrOrganComponent 57 61	skin
+T7	BodyPartOrganOrOrganComponent 101 105	skin
+T8	InjuryOrPoisoning 39 45	damage
+T9	Finding 10 18	exposure
+T10	NaturalPhenomenonOrProcess 22 34	UV radiation
+T11	TemporalConcept 0 9	Prolonged
+T12	DiseaseOrSyndrome 124 132	melanoma
+T13	DiseaseOrSyndrome 134 154	basal cell carcinoma
+T14	DiseaseOrSyndrome 160 183	squamous cell carcinoma

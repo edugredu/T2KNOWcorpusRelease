@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 158 183	neurodegenerative disease
+T1	Cell 109 126	neural cell types
+T2	Virus 0 24	Adeno Associated Viruses
+T3	ResearchActivity 69 96	genome-editing technologies
+T4	HealthCareActivity 184 193	treatment
+T5	ResearchActivity 184 193	treatment

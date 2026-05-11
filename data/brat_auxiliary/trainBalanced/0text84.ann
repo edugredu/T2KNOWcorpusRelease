@@ -1,0 +1,17 @@
+T0	ResearchActivity 11 19	research
+T1	AminoAcidPeptideOrProtein 27 40	prion protein
+T2	ResearchActivity 83 97	paradigm shift
+T3	Organism 122 139	infectious agents
+T4	DiseaseOrSyndrome 299 310	Alzheimer's
+T5	DiseaseOrSyndrome 315 335	Parkinson's diseases
+T6	BodyPartOrganOrOrganComponent 429 451	central nervous system
+T7	DiseaseOrSyndrome 474 489	prion disorders
+T8	DiseaseOrSyndrome 403 421	monogenic disorder
+T9	TemporalConcept 146 158	recent years
+T10	TemporalConcept 0 7	Decades
+T11	Finding 354 362	evidence
+T12	DiseaseOrSyndrome 379 399	Huntington's disease
+T13	DiseaseOrSyndrome 673 693	Huntington's disease
+T14	DiseaseOrSyndrome 263 290	neurodegenerative disorders
+T15	DiseaseOrSyndrome 626 653	neurodegenerative disorders
+T16	ResearchActivity 190 197	studies

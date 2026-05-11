@@ -1,0 +1,6 @@
+T0	BodyPartOrganOrOrganComponent 120 142	central nervous system
+T1	TemporalConcept 68 73	early
+T2	EmbryonicStructure 15 26	neural tube
+T3	Finding 32 48	critical process
+T4	BiologicFunction 0 26	Closure of the neural tube
+T5	BiologicFunction 74 85	neurulation

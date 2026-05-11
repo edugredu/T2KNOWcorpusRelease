@@ -1,0 +1,123 @@
+T0	DiseaseOrSyndrome 708 724	vascular disease
+T1	DiseaseOrSyndrome 747 768	psychiatric illnesses
+T2	HealthCareActivity 770 782	Measurements
+T3	ResearchActivity 849 851	IP
+T4	ResearchActivity 888 890	LC
+T5	ResearchActivity 918 923	MS/MS
+T6	HealthCareActivity 1032 1060	neuropsychological diagnosis
+T7	ResearchActivity 1418 1435	survival analyses
+T8	HealthCareActivity 2001 2029	neuropsychological diagnosis
+T9	CellFunction 2407 2418	Integration
+T10	MachineActivity 2407 2418	Integration
+T11	AminoAcidPeptideOrProtein 956 974	AZ 284 (R) peptide
+T12	ResearchActivity 2489 2503	stratification
+T13	Finding 726 732	severe
+T14	DiseaseOrSyndrome 733 743	depression
+T15	TemporalConcept 659 663	aged
+T16	PopulationGroup 2477 2488	participant
+T17	HealthCareActivity 1624 1633	detection
+T18	DiseaseOrSyndrome 110 129	Alzheimer's disease
+T19	BodyPartOrganOrOrganComponent 258 264	plasma
+T20	ResearchActivity 1204 1211	Results
+T21	AminoAcidPeptideOrProtein 1066 1073	amyloid
+T22	BiologicallyActiveSubstance 1066 1073	amyloid
+T23	DiseaseOrSyndrome 131 133	AD
+T24	DiseaseOrSyndrome 225 227	AD
+T25	DiseaseOrSyndrome 1592 1594	AD
+T26	DiseaseOrSyndrome 1604 1606	AD
+T27	DiseaseOrSyndrome 1714 1716	AD
+T28	DiseaseOrSyndrome 1998 2000	AD
+T29	DiseaseOrSyndrome 2205 2207	AD
+T30	DiseaseOrSyndrome 2364 2366	AD
+T31	DiseaseOrSyndrome 2393 2395	AD
+T32	ClinicalAttribute 538 547	biomarker
+T33	ClinicalAttribute 2282 2291	biomarker
+T34	PopulationGroup 626 638	participants
+T35	Finding 1510 1516	status
+T36	PopulationGroup 228 239	individuals
+T37	PopulationGroup 278 289	individuals
+T38	PopulationGroup 2311 2322	individuals
+T39	HealthCareActivity 1133 1136	PET
+T40	HealthCareActivity 1410 1413	PET
+T41	HealthCareActivity 1480 1483	PET
+T42	HealthCareActivity 1867 1870	PET
+T43	PathologicFunction 95 106	progression
+T44	TemporalConcept 95 106	progression
+T45	AminoAcidPeptideOrProtein 1126 1132	A beta
+T46	AminoAcidPeptideOrProtein 1403 1409	A beta
+T47	AminoAcidPeptideOrProtein 1473 1479	A beta
+T48	AminoAcidPeptideOrProtein 1860 1866	A beta
+T49	HealthCareActivity 1096 1124	positron emission tomography
+T50	HealthCareActivity 452 461	diagnosis
+T51	HealthCareActivity 2396 2405	diagnosis
+T52	ClinicalAttribute 58 68	biomarkers
+T53	ResearchActivity 19 27	research
+T54	PopulationGroup 609 621	Participants
+T55	ResearchActivity 493 553	Design Retrospective Longitudinal Prognostic biomarker study
+T56	ResearchActivity 563 582	Single-center study
+T57	TemporalConcept 1695 1701	future
+T58	TemporalConcept 486 491	years
+T59	TemporalConcept 670 675	years
+T60	TemporalConcept 2378 2383	years
+T61	TemporalConcept 85 90	onset
+T62	TemporalConcept 2208 2213	onset
+T63	PopulationGroup 363 369	cohort
+T64	PopulationGroup 601 607	cohort
+T65	PopulationGroup 651 657	cohort
+T66	BodyPartOrganOrOrganComponent 46 51	blood
+T67	BodyPartOrganOrOrganComponent 2270 2275	blood
+T68	ResearchActivity 2100 2140	Proportional hazards regression analysis
+T69	ResearchActivity 865 886	liquid chromatography
+T70	ResearchActivity 892 916	tandem mass spectrometry
+T71	ResearchActivity 1801 1821	area under the curve
+T72	ResearchActivity 828 847	immunoprecipitation
+T73	TemporalConcept 1349 1356	initial
+T74	TemporalConcept 472 478	course
+T75	TemporalConcept 1332 1338	months
+T76	HealthCareActivity 787 812	AlzoSure (R) Predict test
+T77	HealthCareActivity 374 384	diagnostic
+T78	HealthCareActivity 1222 1232	diagnostic
+T79	TemporalConcept 1281 1285	time
+T80	TemporalConcept 1302 1306	time
+T81	TemporalConcept 1726 1730	time
+T82	TemporalConcept 1747 1751	time
+T83	TemporalConcept 2035 2039	time
+T84	HealthCareActivity 400 410	assessment
+T85	ResearchActivity 400 410	assessment
+T86	Finding 1248 1259	performance
+T87	Finding 1388 1399	performance
+T88	AminoAcidPeptideOrProtein 1488 1492	APOE
+T89	BiologicallyActiveSubstance 1488 1492	APOE
+T90	ResearchActivity 1823 1826	AUC
+T91	OrganismAttribute 1465 1471	gender
+T92	Finding 1451 1463	risk factors
+T93	SignOrSymptom 1702 1713	symptomatic
+T94	ResearchActivity 1367 1375	analyses
+T95	ResearchActivity 1427 1435	analyses
+T96	HealthCareActivity 1762 1781	prognostic analyses
+T97	CellFunction 1418 1426	survival
+T98	HealthCareActivity 427 445	neuropsychological
+T99	AminoAcidPeptideOrProtein 1083 1095	amyloid beta
+T100	GeneOrGenome 1503 1509	allele
+T101	AminoAcidPeptideOrProtein 1488 1502	APOE epsilon 4
+T102	DiseaseOrSyndrome 698 706	diabetes
+T103	ResearchActivity 2508 2530	interventional studies
+T104	HealthCareActivity 1357 1365	sampling
+T105	TemporalConcept 11 18	Ongoing
+T106	ResearchActivity 311 355	Australian Imaging, Biomarkers and Lifestyle
+T107	ResearchActivity 357 361	AIBL
+T108	ResearchActivity 596 600	AIBL
+T109	ResearchActivity 646 650	AIBL
+T110	AminoAcidPeptideOrProtein 150 188	unfolded conformational variant of p53
+T111	AminoAcidPeptideOrProtein 190 199	U-p53(AZ)
+T112	AminoAcidPeptideOrProtein 989 998	U-p53(AZ)
+T113	AminoAcidPeptideOrProtein 1212 1221	U-p53(AZ)
+T114	AminoAcidPeptideOrProtein 1539 1548	U-p53(AZ)
+T115	AminoAcidPeptideOrProtein 1782 1791	U-p53(AZ)
+T116	AminoAcidPeptideOrProtein 1952 1961	U-p53(AZ)
+T117	AminoAcidPeptideOrProtein 2070 2079	U-p53(AZ)
+T118	AminoAcidPeptideOrProtein 2152 2161	U-p53(AZ)
+T119	ResearchActivity 1871 1875	AUCs
+T120	Finding 2174 2201	major independent predictor
+T121	AminoAcidPeptideOrProtein 2257 2266	U-p53(AZ)
+T122	AminoAcidPeptideOrProtein 2422 2431	U-p53(AZ)

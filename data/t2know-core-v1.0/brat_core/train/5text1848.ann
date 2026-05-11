@@ -1,0 +1,4 @@
+T0	DiseaseOrSyndrome 83 108	neurodegenerative disease
+T1	PathologicFunction 109 121	pathogenesis
+T2	Virus 12 30	Epstein-Barr Virus
+T3	PathologicFunction 44 64	immune dysregulation

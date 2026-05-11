@@ -1,0 +1,99 @@
+T0	ResearchActivity 169 187	proteomic profiles
+T1	GeneOrGenome 476 482	ATP1A3
+T2	GeneOrGenome 484 489	NCAM1
+T3	AminoAcidPeptideOrProtein 484 489	NCAM1
+T4	GeneOrGenome 504 508	LRP1
+T5	GeneOrGenome 510 515	ITGA6
+T6	GeneOrGenome 540 545	ITGAM
+T7	AminoAcidPeptideOrProtein 540 545	ITGAM
+T8	BiologicallyActiveSubstance 540 545	ITGAM
+T9	GeneOrGenome 547 551	LCP1
+T10	AminoAcidPeptideOrProtein 547 551	LCP1
+T11	GeneOrGenome 586 591	LAMP2
+T12	AminoAcidPeptideOrProtein 650 659	integrins
+T13	AminoAcidPeptideOrProtein 664 672	annexins
+T14	ResearchActivity 782 820	protein co-expression network analysis
+T15	AminoAcidPeptideOrProtein 865 874	proteomes
+T16	AminoAcidPeptideOrProtein 1148 1159	hub protein
+T17	Cell 277 294	neural cell types
+T18	Cell 296 314	excitatory neurons
+T19	Cell 456 474	excitatory neurons
+T20	PopulationGroup 1384 1391	cohorts
+T21	DiseaseOrSyndrome 914 939	mild cognitive impairment
+T22	PathologicFunction 1131 1142	progression
+T23	TemporalConcept 1131 1142	progression
+T24	CellComponent 31 53	extracellular vesicles
+T25	DiseaseOrSyndrome 743 762	Alzheimer's disease
+T26	CellComponent 55 58	EVs
+T27	CellComponent 191 194	EVs
+T28	CellComponent 720 723	EVs
+T29	CellComponent 892 895	EVs
+T30	CellComponent 1264 1267	EVs
+T31	CellComponent 1309 1312	EVs
+T32	DiseaseOrSyndrome 764 766	AD
+T33	DiseaseOrSyndrome 945 947	AD
+T34	DiseaseOrSyndrome 1057 1059	AD
+T35	DiseaseOrSyndrome 1128 1130	AD
+T36	DiseaseOrSyndrome 1306 1308	AD
+T37	Cell 328 348	microglia-like cells
+T38	Cell 354 380	oligodendrocyte-like cells
+T39	Cell 518 538	microglia-like cells
+T40	Cell 558 584	oligodendrocyte-like cells
+T41	CellComponent 408 410	EV
+T42	CellComponent 618 620	EV
+T43	CellComponent 1003 1005	EV
+T44	CellComponent 1484 1486	EV
+T45	AminoAcidPeptideOrProtein 1348 1355	amyloid
+T46	BiologicallyActiveSubstance 1348 1355	amyloid
+T47	AminoAcidPeptideOrProtein 1343 1355	beta-amyloid
+T48	PathologicFunction 1060 1069	pathology
+T49	BiomedicalOccupationOrDiscipline 1060 1069	pathology
+T50	ClinicalAttribute 621 627	marker
+T51	ClinicalAttribute 419 426	markers
+T52	ClinicalAttribute 1006 1013	markers
+T53	Cell 389 393	cell
+T54	Cell 1532 1536	cell
+T55	GeneOrGenome 593 597	FTH1
+T56	Cell 701 710	cell-type
+T57	AminoAcidPeptideOrProtein 1360 1363	tau
+T58	BodyPartOrganOrOrganComponent 1292 1297	brain
+T59	BodyPartOrganOrOrganComponent 1337 1342	brain
+T60	TemporalConcept 1465 1471	future
+T61	Cell 328 337	microglia
+T62	Cell 518 527	microglia
+T63	BiologicallyActiveSubstance 1360 1363	tau
+T64	BiologicallyActiveSubstance 593 597	FTH1
+T65	AminoAcidPeptideOrProtein 593 597	FTH1
+T66	Substance 80 89	molecules
+T67	Cell 984 993	astrocyte
+T68	Cell 1245 1254	astrocyte
+T69	DiseaseOrSyndrome 3 29	neurodegenerative diseases
+T70	DiseaseOrSyndrome 1500 1526	neurodegenerative diseases
+T71	Cell 316 326	astrocytes
+T72	Cell 492 502	astrocytes
+T73	ResearchActivity 1403 1408	study
+T74	DiseaseOrSyndrome 1074 1094	cognitive impairment
+T75	Cell 239 268	induced pluripotent stem cell
+T76	PathologicFunction 69 79	pathogenic
+T77	PathologicFunction 123 142	disease progression
+T78	Finding 1372 1383	independent
+T79	AminoAcidPeptideOrProtein 476 482	ATP1A3
+T80	BiologicallyActiveSubstance 476 482	ATP1A3
+T81	BiologicallyActiveSubstance 484 489	NCAM1
+T82	BiologicallyActiveSubstance 504 508	LRP1
+T83	AminoAcidPeptideOrProtein 504 508	LRP1
+T84	AminoAcidPeptideOrProtein 510 515	ITGA6
+T85	BiologicallyActiveSubstance 510 515	ITGA6
+T86	BiologicallyActiveSubstance 547 551	LCP1
+T87	AminoAcidPeptideOrProtein 586 591	LAMP2
+T88	BiologicallyActiveSubstance 586 591	LAMP2
+T89	BiologicallyActiveSubstance 650 659	integrins
+T90	BiologicallyActiveSubstance 664 672	annexins
+T91	ResearchActivity 835 856	cell type assessments
+T92	AminoAcidPeptideOrProtein 1178 1193	integrin-beta 1
+T93	BiologicallyActiveSubstance 1178 1193	integrin-beta 1
+T94	AminoAcidPeptideOrProtein 1195 1200	ITGB1
+T95	BiologicallyActiveSubstance 1195 1200	ITGB1
+T96	GeneOrGenome 1195 1200	ITGB1
+T97	ResearchActivity 1472 1480	analyses
+T98	BodyPartOrganOrOrganComponent 878 883	brain

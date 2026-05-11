@@ -1,0 +1,69 @@
+T0	CellFunction 84 93	transport
+T1	Finding 216 223	sources
+T2	DiseaseOrSyndrome 468 477	dementias
+T3	HealthCareActivity 513 520	monitor
+T4	ManufacturedObject 513 520	monitor
+T5	ResearchActivity 852 869	mass spectrometry
+T6	AminoAcidPeptideOrProtein 894 903	proteomes
+T7	ResearchActivity 926 939	Gene Ontology
+T8	ResearchActivity 941 943	GO
+T9	ResearchActivity 981 989	GO terms
+T10	AminoAcidPeptideOrProtein 1017 1026	proteomes
+T11	GeneOrGenome 1327 1331	AACT
+T12	CellComponent 1383 1390	exosome
+T13	Substance 122 131	molecules
+T14	Finding 322 326	cure
+T15	ResearchActivity 1139 1165	precipitation-based method
+T16	CellFunction 1359 1366	binding
+T17	CellComponent 0 8	Exosomes
+T18	CellComponent 160 168	exosomes
+T19	CellComponent 1007 1015	exosomes
+T20	ResearchActivity 322 326	cure
+T21	TemporalConcept 521 525	rate
+T22	ResearchActivity 696 701	study
+T23	PathologicFunction 537 548	progression
+T24	TemporalConcept 537 548	progression
+T25	AminoAcidPeptideOrProtein 1205 1213	proteins
+T26	AminoAcidPeptideOrProtein 1367 1375	proteins
+T27	HealthCareActivity 347 356	diagnosis
+T28	HealthCareActivity 1659 1668	diagnosis
+T29	CellComponent 19 41	extracellular vesicles
+T30	DiseaseOrSyndrome 265 284	Alzheimer's disease
+T31	CellComponent 43 46	EVs
+T32	CellComponent 703 706	EVs
+T33	DiseaseOrSyndrome 286 288	AD
+T34	DiseaseOrSyndrome 331 333	AD
+T35	DiseaseOrSyndrome 782 784	AD
+T36	DiseaseOrSyndrome 1251 1253	AD
+T37	DiseaseOrSyndrome 1656 1658	AD
+T38	BodyPartOrganOrOrganComponent 146 151	blood
+T39	BodyPartOrganOrOrganComponent 1634 1639	blood
+T40	CellComponent 13 41	small extracellular vesicles
+T41	ClinicalAttribute 206 215	biomarker
+T42	ClinicalAttribute 1283 1292	biomarker
+T43	ClinicalAttribute 1584 1602	exosomal biomarker
+T44	HealthCareActivity 494 503	therapies
+T45	Eukaryote 59 64	human
+T46	ResearchActivity 870 878	analysis
+T47	BodyPartOrganOrOrganComponent 760 765	serum
+T48	PopulationGroup 1453 1460	cohorts
+T49	TemporalConcept 665 670	first
+T50	BodyPartOrganOrOrganComponent 195 205	peripheral
+T51	BodyPartOrganOrOrganComponent 387 397	peripheral
+T52	PathologicFunction 529 548	disease progression
+T53	PopulationGroup 1424 1435	individuals
+T54	AminoAcidPeptideOrProtein 1352 1358	A beta
+T55	Substance 65 74	biofluids
+T56	HealthCareActivity 671 686	clinical screen
+T57	CellComponent 712 719	exosome
+T58	PatientOrDisabledGroup 782 790	AD cases
+T59	PopulationGroup 769 777	Controls
+T60	ResearchActivity 818 838	column-based methods
+T61	ResearchActivity 799 813;825 838	precipitation- based methods
+T62	ResearchActivity 949 970	multivariate analyses
+T63	PopulationGroup 1030 1038	Controls
+T64	AminoAcidPeptideOrProtein 1336 1346	C4BP alpha
+T65	BiologicallyActiveSubstance 1336 1346	C4BP alpha
+T66	GeneOrGenome 1336 1346	C4BP alpha
+T67	AminoAcidPeptideOrProtein 1327 1331	AACT
+T68	ResearchActivity 1467 1492	antibody-based approaches

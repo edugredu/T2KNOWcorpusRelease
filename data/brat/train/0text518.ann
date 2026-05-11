@@ -1,0 +1,67 @@
+T0	DiseaseOrSyndrome 58 64	cancer
+T1	Cell 314 336	peripheral blood cells
+T2	CellComponent 371 378	nuclear
+T3	CellComponent 468 485	nuclear structure
+T4	CellComponent 490 500	chromosome
+T5	CellFunction 490 513	chromosome organization
+T6	Cell 520 531	blood cells
+T7	ResearchActivity 538 572	fluorescence in situ hybridization
+T8	MachineActivity 641 655	image analysis
+T9	Finding 692 702	morphology
+T10	Cell 839 850	blood cells
+T11	HealthCareActivity 868 875	display
+T12	ResearchActivity 868 875	display
+T13	MachineActivity 868 875	display
+T14	OrganismAttribute 886 898	nuclear size
+T15	CellComponent 903 914	filamentary
+T16	OrganismAttribute 915 920	shape
+T17	CellComponent 975 986	filamentary
+T18	CellComponent 1006 1019	chromosome 22
+T19	CellComponent 1089 1102;1107 1108	chromosomes 4 5
+T20	CellComponent 1211 1221	chromosome
+T21	CellFunction 1211 1234	chromosome organization
+T22	PathologicFunction 1306 1327	disrupting mechanisms
+T23	ResearchActivity 1380 1386	survey
+T24	HealthCareActivity 1380 1386	survey
+T25	CellFunction 195 209	neuronal death
+T26	CellComponent 717 728	chromosomes
+T27	CellComponent 735 746	chromosomes
+T28	CellComponent 1089 1100	chromosomes
+T29	CellFunction 238 253	gene expression
+T30	CellFunction 795 810	gene expression
+T31	BiologicFunction 204 209	death
+T32	CellFunction 204 209	death
+T33	CellComponent 706 712	nuclei
+T34	CellFunction 777 791	downregulation
+T35	MachineActivity 624 640	machine learning
+T36	BodyPartOrganOrOrganComponent 1257 1262	blood
+T37	BodyPartOrganOrOrganComponent 1371 1376	blood
+T38	ResearchActivity 818 825	Results
+T39	Finding 1121 1143	detectable differences
+T40	OrganismAttribute 668 672	size
+T41	OrganismAttribute 932 936	size
+T42	BodyPartOrganOrOrganComponent 296 301	brain
+T43	DiseaseOrSyndrome 123 143	Huntington's disease
+T44	DiseaseOrSyndrome 145 147	HD
+T45	DiseaseOrSyndrome 276 278	HD
+T46	DiseaseOrSyndrome 517 519	HD
+T47	DiseaseOrSyndrome 814 816	HD
+T48	DiseaseOrSyndrome 1251 1253	HD
+T49	DiseaseOrSyndrome 1331 1333	HD
+T50	DiseaseOrSyndrome 1387 1389	HD
+T51	PatientOrDisabledGroup 856 867	HD patients
+T52	DiseaseOrSyndrome 94 121	neurodegenerative disorders
+T53	DiseaseOrSyndrome 154 180	neurodegenerative disorder
+T54	ResearchActivity 600 608	cryoFISH
+T55	ResearchActivity 576 598	ultrathin cryosections
+T56	CellComponent 11 36	Cell nuclear architecture
+T57	DiseaseOrSyndrome 69 82	laminopathies
+T58	Finding 227 234	changes
+T59	CellComponent 211 221	Chromosome
+T60	CellOrMolecularDysfunction 383 418	chromosome architecture alterations
+T61	CellComponent 950 963	chromosome 19
+T62	OrganismAttribute 987 992	shape
+T63	CellComponent 1066 1079	chromosome 19
+T64	Finding 1175 1182	changes
+T65	CellComponent 1186 1206	nuclear architecture
+T66	Finding 1032 1061	radially centralized position

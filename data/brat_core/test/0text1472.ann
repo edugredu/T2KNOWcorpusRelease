@@ -1,0 +1,78 @@
+T0	ResearchActivity 424 441	prospective study
+T1	Chemical 451 456	FLAIR
+T2	HealthCareActivity 451 456	FLAIR
+T3	ResearchActivity 814 818	SIRs
+T4	BodyPartOrganOrOrganComponent 933 947	infratentorial
+T5	HealthCareActivity 1168 1181	MPRAGE images
+T6	HealthCareActivity 1316 1322	MPRAGE
+T7	Chemical 1434 1439	FLAIR
+T8	HealthCareActivity 1434 1439	FLAIR
+T9	HealthCareActivity 1527 1540	MPRAGE images
+T10	BodyPartOrganOrOrganComponent 907 918	gray matter
+T11	BodyPartOrganOrOrganComponent 920 931	subcortical
+T12	ResearchActivity 211 216	study
+T13	ResearchActivity 130 137	studies
+T14	ClinicalAttribute 43 53	biomarkers
+T15	ClinicalAttribute 314 324	biomarkers
+T16	ClinicalAttribute 1606 1616	biomarkers
+T17	PatientOrDisabledGroup 81 89	patients
+T18	PatientOrDisabledGroup 346 354	patients
+T19	PatientOrDisabledGroup 393 401	patients
+T20	PatientOrDisabledGroup 1621 1629	patients
+T21	BodyPartOrganOrOrganComponent 609 612	CSF
+T22	DiseaseOrSyndrome 77 79	MS
+T23	DiseaseOrSyndrome 191 193	MS
+T24	DiseaseOrSyndrome 230 232	MS
+T25	DiseaseOrSyndrome 343 345	MS
+T26	DiseaseOrSyndrome 390 392	MS
+T27	DiseaseOrSyndrome 568 570	MS
+T28	DiseaseOrSyndrome 1502 1504	MS
+T29	DiseaseOrSyndrome 57 75	multiple sclerosis
+T30	Substance 602 607	fluid
+T31	HealthCareActivity 39 42	MRI
+T32	HealthCareActivity 310 313	MRI
+T33	HealthCareActivity 1602 1605	MRI
+T34	InjuryOrPoisoning 194 201	lesions
+T35	InjuryOrPoisoning 233 240	lesions
+T36	InjuryOrPoisoning 571 578	lesions
+T37	InjuryOrPoisoning 960 967	lesions
+T38	InjuryOrPoisoning 1015 1022	lesions
+T39	InjuryOrPoisoning 1505 1512	lesions
+T40	InjuryOrPoisoning 26 32	lesion
+T41	HealthCareActivity 258 265	imaging
+T42	BodyPartOrganOrOrganComponent 251 257	myelin
+T43	CellComponent 251 257	myelin
+T44	Finding 1097 1105	moderate
+T45	BodyPartOrganOrOrganComponent 588 607	cerebrospinal fluid
+T46	Finding 329 339	disability
+T47	Finding 866 876	disability
+T48	Finding 1631 1641	disability
+T49	ResearchActivity 1106 1118	correlations
+T50	ResearchActivity 1196 1218	Pearson's correlations
+T51	ResearchActivity 1324 1346	Pearson's correlations
+T52	ResearchActivity 1451 1463	correlations
+T53	HealthCareActivity 857 889	expanded disability status scale
+T54	HealthCareActivity 891 895	EDSS
+T55	HealthCareActivity 1059 1063	EDSS
+T56	HealthCareActivity 1131 1135	EDSS
+T57	HealthCareActivity 1059 1069	EDSS score
+T58	ResearchActivity 153 180	signal intensity variations
+T59	ResearchActivity 182 186	SIVs
+T60	ResearchActivity 222 226	SIVs
+T61	HealthCareActivity 443 449	IR-UTE
+T62	HealthCareActivity 462 478	MPRAGE sequences
+T63	HealthCareActivity 498 508	3T scanner
+T64	ManufacturedObject 498 508	3T scanner
+T65	ResearchActivity 510 529	Regions of interest
+T66	ResearchActivity 618 641	signal intensity ratios
+T67	ResearchActivity 689 712	Variations coefficients
+T68	ResearchActivity 738 757	standard deviations
+T69	ResearchActivity 776 796	absolute differences
+T70	ResearchActivity 531 535	ROIs
+T71	Finding 820 836	Disability grade
+T72	BodyPartOrganOrOrganComponent 898 906	Cortical
+T73	BodyPartOrganOrOrganComponent 953 959	spinal
+T74	HealthCareActivity 1157 1163	IR-UTE
+T75	HealthCareActivity 1222 1228	IR-UTE
+T76	ResearchActivity 1494 1498	SIVs
+T77	HealthCareActivity 1516 1522	IR-UTE

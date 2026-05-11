@@ -1,0 +1,43 @@
+T0	PharmacologicSubstance 96 106	medication
+T1	HealthCareActivity 96 106	medication
+T2	AminoAcidPeptideOrProtein 158 168	aducanumab
+T3	Virus 314 324	SARS-CoV-2
+T4	CellFunction 442 451	viability
+T5	Organism 498 505	microbe
+T6	Virus 641 648	viruses
+T7	Virus 667 677	SARS-CoV-2
+T8	DiseaseOrSyndrome 42 68	neurodegenerative disorder
+T9	HealthCareActivity 829 849	treatment strategies
+T10	Finding 175 202	lack of effective treatment
+T11	PathologicFunction 270 289	disease development
+T12	HealthCareRelatedOrganization 145 148	FDA
+T13	Virus 657 662	HSV-1
+T14	DiseaseOrSyndrome 30 68	progressive neurodegenerative disorder
+T15	ResearchActivity 829 849	treatment strategies
+T16	SignOrSymptom 84 95	symptomatic
+T17	PathologicFunction 540 551	progression
+T18	TemporalConcept 540 551	progression
+T19	Finding 588 596	evidence
+T20	CellComponent 728 750	extracellular vesicles
+T21	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T22	CellComponent 752 755	EVs
+T23	DiseaseOrSyndrome 21 23	AD
+T24	DiseaseOrSyndrome 519 521	AD
+T25	DiseaseOrSyndrome 854 856	AD
+T26	PatientOrDisabledGroup 393 401	patients
+T27	PatientOrDisabledGroup 857 865	patients
+T28	BiologicFunction 278 289	development
+T29	CellFunction 278 289	development
+T30	Finding 713 724	involvement
+T31	TemporalConcept 136 144	recently
+T32	ResearchActivity 562 568	review
+T33	HealthCareActivity 562 568	review
+T34	HealthCareActivity 193 202	treatment
+T35	ResearchActivity 193 202	treatment
+T36	TemporalConcept 522 532	initiation
+T37	TemporalConcept 30 41	progressive
+T38	DiseaseOrSyndrome 459 474	viral infection
+T39	ResearchActivity 763 771	overview
+T40	TemporalConcept 307 313	recent
+T41	BiologicallyActiveSubstance 158 168	aducanumab
+T42	PharmacologicSubstance 158 168	aducanumab

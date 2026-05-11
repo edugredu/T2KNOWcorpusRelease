@@ -1,0 +1,7 @@
+T0	CellOrMolecularDysfunction 153 170	neurodegeneration
+T1	BodyPartOrganOrOrganComponent 78 100	central nervous system
+T2	BodyPartOrganOrOrganComponent 57 70	immune system
+T3	Finding 18 30	interactions
+T4	BiologicFunction 0 13	Understanding
+T5	Finding 104 112	critical
+T6	Organism 39 48	Ramularia

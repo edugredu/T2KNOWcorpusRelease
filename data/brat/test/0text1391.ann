@@ -1,0 +1,69 @@
+T0	InjuryOrPoisoning 36 48	brain injury
+T1	TemporalConcept 519 527	maturity
+T2	HealthCareActivity 649 661	brain repair
+T3	InjuryOrPoisoning 763 775	brain injury
+T4	InjuryOrPoisoning 1205 1217	brain injury
+T5	PathologicFunction 0 13	Demyelination
+T6	HealthCareActivity 940 972	potential therapeutic strategies
+T7	DiseaseOrSyndrome 287 293	stroke
+T8	DiseaseOrSyndrome 1004 1010	stroke
+T9	CellFunction 809 828	molecular mechanism
+T10	PopulationGroup 385 391	adults
+T11	CellComponent 595 600	axons
+T12	Cell 128 144	oligodendrocytes
+T13	Cell 431 447	oligodendrocytes
+T14	Cell 1145 1161	oligodendrocytes
+T15	Cell 350 354	OPCs
+T16	Cell 531 535	OPCs
+T17	PathologicFunction 1231 1244	demyelinating
+T18	BodyPartOrganOrOrganComponent 1134 1140	myelin
+T19	CellFunction 604 615	remyelinate
+T20	Cell 424 447	mature oligodendrocytes
+T21	CellFunction 403 418	differentiation
+T22	CellFunction 499 514	differentiation
+T23	BodyPartOrganOrOrganComponent 261 273	white matter
+T24	TemporalConcept 424 430	mature
+T25	NucleicAcidNucleosideOrNucleotide 735 742	promote
+T26	Cell 333 348	precursor cells
+T27	IndividualBehavior 584 591	failure
+T28	Cell 317 348	Oligodendrocyte precursor cells
+T29	Cell 317 332	Oligodendrocyte
+T30	BodyPartOrganOrOrganComponent 101 107	Myelin
+T31	BodyPartOrganOrOrganComponent 152 174	central nervous system
+T32	BodyPartOrganOrOrganComponent 369 374	brain
+T33	DiseaseOrSyndrome 73 99	neurodegenerative diseases
+T34	ResearchActivity 866 872	review
+T35	HealthCareActivity 866 872	review
+T36	ResearchActivity 705 712	studies
+T37	ResearchActivity 892 899	studies
+T38	ResearchActivity 1173 1192	therapeutic targets
+T39	TemporalConcept 698 703	years
+T40	TemporalConcept 1025 1032	current
+T41	BiologicFunction 196 201	death
+T42	PathologicFunction 196 201	death
+T43	CellFunction 196 201	death
+T44	CellOrMolecularDysfunction 298 315	neurodegeneration
+T45	CellOrMolecularDysfunction 1253 1270	neurodegeneration
+T46	ResearchActivity 962 972	strategies
+T47	BiologicFunction 962 972	strategies
+T48	BiologicFunction 1033 1046	understanding
+T49	TemporalConcept 691 703	recent years
+T50	Finding 378 384	normal
+T51	Cell 797 805	cellular
+T52	Cell 1054 1062	cellular
+T53	Cell 180 195	oligodendrocyte
+T54	TemporalConcept 885 891	recent
+T55	InjuryOrPoisoning 668 674	injury
+T56	CellFunction 471 484	remyelination
+T57	CellFunction 565 578	remyelination
+T58	CellFunction 743 756	remyelination
+T59	CellFunction 977 990	remyelination
+T60	CellFunction 1099 1112	remyelination
+T61	PathologicFunction 210 223	demyelination
+T62	PathologicFunction 914 927	demyelination
+T63	CellFunction 1067 1087	molecular mechanisms
+T64	BiologicFunction 994 999	aging
+T65	CellFunction 994 999	aging
+T66	BiologicFunction 655 661	repair
+T67	HealthCareActivity 655 661	repair
+T68	HealthCareActivity 950 972	therapeutic strategies

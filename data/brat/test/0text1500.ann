@@ -1,0 +1,103 @@
+T0	ResearchActivity 1232 1246	Stratification
+T1	Substance 1333 1339	medium
+T2	Finding 1333 1339	medium
+T3	Finding 1678 1685	Class I
+T4	GeneOrGenome 1678 1685	Class I
+T5	Finding 1120 1136	predictive value
+T6	AminoAcidPeptideOrProtein 478 497	neurofilament light
+T7	AminoAcidPeptideOrProtein 1204 1223	neurofilament light
+T8	BiologicallyActiveSubstance 478 497	neurofilament light
+T9	BiologicallyActiveSubstance 1204 1223	neurofilament light
+T10	CellOrMolecularDysfunction 630 642;652 662	beta-amyloid deposition
+T11	CellOrMolecularDysfunction 671 685	pathologic tau
+T12	CellFunction 437 451	phosphorylated
+T13	DiseaseOrSyndrome 35 52	Alzheimer disease
+T14	Finding 1345 1348	low
+T15	AminoAcidPeptideOrProtein 462 465	tau
+T16	AminoAcidPeptideOrProtein 1196 1199	tau
+T17	BodyPartOrganOrOrganComponent 469 472	CSF
+T18	BiologicallyActiveSubstance 462 465	tau
+T19	BiologicallyActiveSubstance 1196 1199	tau
+T20	DiseaseOrSyndrome 54 56	AD
+T21	DiseaseOrSyndrome 173 175	AD
+T22	DiseaseOrSyndrome 354 356	AD
+T23	DiseaseOrSyndrome 578 580	AD
+T24	DiseaseOrSyndrome 742 744	AD
+T25	DiseaseOrSyndrome 1480 1482	AD
+T26	DiseaseOrSyndrome 1620 1622	AD
+T27	DiseaseOrSyndrome 1742 1744	AD
+T28	DiseaseOrSyndrome 1793 1795	AD
+T29	ClinicalAttribute 1403 1412	biomarker
+T30	PatientOrDisabledGroup 283 291	patients
+T31	PatientOrDisabledGroup 381 389	patients
+T32	PatientOrDisabledGroup 691 699	patients
+T33	PatientOrDisabledGroup 1255 1263	patients
+T34	PatientOrDisabledGroup 1437 1445	patients
+T35	PatientOrDisabledGroup 1587 1595	patients
+T36	AminoAcidPeptideOrProtein 456 465	total tau
+T37	AminoAcidPeptideOrProtein 1190 1199	total tau
+T38	BiologicallyActiveSubstance 456 465	total tau
+T39	BiologicallyActiveSubstance 1190 1199	total tau
+T40	ResearchActivity 776 794	mean subject score
+T41	Finding 1080 1085	score
+T42	PopulationGroup 1757 1768	individuals
+T43	BiologicFunction 158 169	development
+T44	BiologicFunction 1727 1738	development
+T45	CellFunction 158 169	development
+T46	CellFunction 1727 1738	development
+T47	AminoAcidPeptideOrProtein 635 642	amyloid
+T48	BiologicallyActiveSubstance 635 642	amyloid
+T49	DiseaseOrSyndrome 58 66	dementia
+T50	DiseaseOrSyndrome 176 184	dementia
+T51	DiseaseOrSyndrome 1045 1053	dementia
+T52	DiseaseOrSyndrome 1575 1583	dementia
+T53	DiseaseOrSyndrome 1745 1753	dementia
+T54	ClinicalAttribute 616 626	biomarkers
+T55	ClinicalAttribute 1157 1167	biomarkers
+T56	ResearchActivity 1663 1668	study
+T57	DiseaseOrSyndrome 324 327	MCI
+T58	DiseaseOrSyndrome 1451 1454	MCI
+T59	DiseaseOrSyndrome 1601 1604	MCI
+T60	DiseaseOrSyndrome 1774 1777	MCI
+T61	BodyPartOrganOrOrganComponent 507 513	plasma
+T62	TemporalConcept 1553 1557	time
+T63	PopulationGroup 190 200	individual
+T64	OrganismAttribute 190 200	individual
+T65	ResearchActivity 764 771	Results
+T66	PopulationGroup 756 762	groups
+T67	PopulationGroup 1317 1323	groups
+T68	Finding 1686 1694	evidence
+T69	HealthCareActivity 105 118	[F-18]FDG PET
+T70	HealthCareActivity 405 418	[F-18]FDG PET
+T71	HealthCareActivity 420 435	[F-18]AV-45 PET
+T72	HealthCareActivity 1700 1713	[F-18]FDG PET
+T73	DiseaseOrSyndrome 297 322	mild cognitive impairment
+T74	PopulationGroup 845 850	group
+T75	PopulationGroup 881 886	group
+T76	PopulationGroup 966 971	group
+T77	AminoAcidPeptideOrProtein 644 650	A beta
+T78	CellOrMolecularDysfunction 1171 1188	neurodegeneration
+T79	CellOrMolecularDysfunction 1416 1433	neurodegeneration
+T80	ResearchActivity 608 615	in vivo
+T81	Finding 67 77	conversion
+T82	Finding 1031 1041	conversion
+T83	Finding 1349 1365	conversion risks
+T84	Finding 1561 1571	conversion
+T85	AminoAcidPeptideOrProtein 478 503	neurofilament light chain
+T86	AminoAcidPeptideOrProtein 1204 1229	neurofilament light chain
+T87	BiologicallyActiveSubstance 478 503	neurofilament light chain
+T88	BiologicallyActiveSubstance 1204 1229	neurofilament light chain
+T89	Finding 1327 1331	high
+T90	Finding 249 265	prognostic value
+T91	ClinicalAttribute 35 93	Alzheimer disease (AD) dementia conversion-related pattern
+T92	ClinicalAttribute 95 100	ADCRP
+T93	ClinicalAttribute 219 240	ADCRP (subject score)
+T94	HealthCareActivity 543 570	AT(N) classification scheme
+T95	ClinicalAttribute 802 807	ADCRP
+T96	ClinicalAttribute 977 999	subject score of ADCRP
+T97	ClinicalAttribute 1271 1293	subject score of ADCRP
+T98	ClinicalAttribute 186 224	the individual expression of the ADCRP
+T99	ClinicalAttribute 1383 1388	ADCRP
+T100	HealthCareActivity 1814 1829	AT(N) framework
+T101	Finding 1529 1533	risk
+T102	Finding 1649 1657	Evidence

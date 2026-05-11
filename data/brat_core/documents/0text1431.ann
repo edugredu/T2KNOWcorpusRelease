@@ -1,0 +1,84 @@
+T0	DiseaseOrSyndrome 11 46	Juvenile-onset Huntington's disease
+T1	DiseaseOrSyndrome 48 52	JOHD
+T2	Finding 182 189	outcome
+T3	AminoAcidPeptideOrProtein 212 239	Neurofilament light protein
+T4	Finding 298 309	adult-onset
+T5	PopulationGroup 471 479	children
+T6	PopulationGroup 484 496	young adults
+T7	DiseaseOrSyndrome 502 506	JOHD
+T8	DiseaseOrSyndrome 713 717	JOHD
+T9	PopulationGroup 755 763	children
+T10	DiseaseOrSyndrome 867 871	JOHD
+T11	BodyPartOrganOrOrganComponent 922 929	putamen
+T12	PopulationGroup 298 303	adult
+T13	DiseaseOrSyndrome 438 441	JHD
+T14	BodyPartOrganOrOrganComponent 910 917	caudate
+T15	DiseaseOrSyndrome 1179 1188	Parkinson
+T16	ClinicalAttribute 273 293	prognostic biomarker
+T17	BiologicallyActiveSubstance 212 231	Neurofilament light
+T18	AminoAcidPeptideOrProtein 212 231	Neurofilament light
+T19	DiseaseOrSyndrome 26 46	Huntington's disease
+T20	DiseaseOrSyndrome 101 121	Huntington's disease
+T21	BodyPartOrganOrOrganComponent 451 457	Plasma
+T22	PopulationGroup 1054 1074	pediatric population
+T23	ResearchActivity 629 655	ultrasensitive immunoassay
+T24	DiseaseOrSyndrome 123 125	HD
+T25	DiseaseOrSyndrome 310 312	HD
+T26	DiseaseOrSyndrome 426 428	HD
+T27	DiseaseOrSyndrome 508 522	premanifest HD
+T28	DiseaseOrSyndrome 722 736	premanifest HD
+T29	DiseaseOrSyndrome 768 780	pediatric HD
+T30	CellOrMolecularDysfunction 531 539	mutation
+T31	CellOrMolecularDysfunction 737 745	mutation
+T32	CellOrMolecularDysfunction 781 789	mutation
+T33	BiologicallyActiveSubstance 241 244	NfL
+T34	BiologicallyActiveSubstance 604 607	NfL
+T35	BiologicallyActiveSubstance 691 694	NfL
+T36	BiologicallyActiveSubstance 880 883	NfL
+T37	BiologicallyActiveSubstance 970 973	NfL
+T38	AminoAcidPeptideOrProtein 241 244	NfL
+T39	AminoAcidPeptideOrProtein 604 607	NfL
+T40	AminoAcidPeptideOrProtein 691 694	NfL
+T41	AminoAcidPeptideOrProtein 880 883	NfL
+T42	AminoAcidPeptideOrProtein 970 973	NfL
+T43	PopulationGroup 566 574	controls
+T44	PatientOrDisabledGroup 853 861	patients
+T45	ResearchActivity 375 379	data
+T46	ResearchActivity 421 428;442 449	Kids-HD studies
+T47	BodyPartOrganOrOrganComponent 249 255	plasma
+T48	BodyPartOrganOrOrganComponent 597 603	plasma
+T49	BodyPartOrganOrOrganComponent 684 690	plasma
+T50	BodyPartOrganOrOrganComponent 873 879	plasma
+T51	BodyPartOrganOrOrganComponent 963 969	plasma
+T52	ResearchActivity 657 664	Results
+T53	OrganismAttribute 554 557	age
+T54	TemporalConcept 818 823	years
+T55	HealthCareActivity 668 674	report
+T56	ResearchActivity 668 674	report
+T57	ResearchActivity 337 359	retrospective analysis
+T58	TemporalConcept 20 25	onset
+T59	TemporalConcept 843 848	onset
+T60	ResearchActivity 1022 1046	therapeutic trial design
+T61	PopulationGroup 540 548	carriers
+T62	PopulationGroup 790 798	carriers
+T63	HealthCareActivity 137 155	clinical diagnosis
+T64	HealthCareActivity 999 1017	clinical diagnosis
+T65	TemporalConcept 59 63	rare
+T66	BiologicallyActiveSubstance 212 239	Neurofilament light protein
+T67	TemporalConcept 304 309	onset
+T68	Substance 363 370	samples
+T69	BodyPartOrganOrOrganComponent 363 370	samples
+T70	ResearchActivity 433 449	Kids-JHD studies
+T71	Substance 458 465	samples
+T72	BodyPartOrganOrOrganComponent 458 465	samples
+T73	ClinicalAttribute 597 622	plasma NfL concentrations
+T74	DiseaseOrSyndrome 524 529	preHD
+T75	ClinicalAttribute 691 709	NfL concentrations
+T76	PopulationGroup 781 798	mutation carriers
+T77	PopulationGroup 531 548	mutation carriers
+T78	ClinicalAttribute 873 889	plasma NfL level
+T79	ClinicalAttribute 922 937	putamen volumes
+T80	ClinicalAttribute 910 917;930 937	caudate volumes
+T81	ClinicalAttribute 963 987	plasma NfL concentration
+T82	DiseaseOrSyndrome 1098 1116	Movement Disorders
+T83	HealthCareRelatedOrganization 1165 1214	International Parkinson Movement Disorder Society

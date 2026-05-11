@@ -1,0 +1,86 @@
+T0	ResearchActivity 206 209	CTs
+T1	AminoAcidPeptideOrProtein 324 349	purinergic P2X7 receptors
+T2	BiomedicalOccupationOrDiscipline 705 724	medicinal chemistry
+T3	PharmacologicSubstance 748 765	P2X7R antagonists
+T4	BiologicFunction 1176 1191	neuroplasticity
+T5	ResearchActivity 1280 1283	CTs
+T6	Chemical 1298 1307	compounds
+T7	PharmacologicSubstance 1298 1307	compounds
+T8	ResearchActivity 1370 1373	CTs
+T9	CellFunction 1407 1416	initiated
+T10	MolecularSequence 1601 1611	complexity
+T11	CellFunction 1708 1724	P2X7R antagonism
+T12	PathologicFunction 263 280	Neuroinflammation
+T13	HealthCareActivity 224 246	therapeutic strategies
+T14	DiseaseOrSyndrome 887 896	suffering
+T15	HealthCareActivity 1250 1258	reviewed
+T16	ResearchActivity 1250 1258	reviewed
+T17	DiseaseOrSyndrome 1491 1522	central nervous system diseases
+T18	PathologicFunction 293 303	pathogenic
+T19	PharmacologicSubstance 1730 1735	drugs
+T20	HealthCareActivity 1065 1072	testing
+T21	CellFunction 1148 1163	neuroprotection
+T22	CellFunction 1758 1765	pathway
+T23	DiseaseOrSyndrome 28 32	NDDs
+T24	DiseaseOrSyndrome 315 319	NDDs
+T25	DiseaseOrSyndrome 436 440	NDDs
+T26	DiseaseOrSyndrome 1232 1236	NDDs
+T27	DiseaseOrSyndrome 1348 1352	NDDs
+T28	DiseaseOrSyndrome 1667 1671	NDDs
+T29	PathologicFunction 804 821	neuroinflammation
+T30	PathologicFunction 1107 1124	neuroinflammation
+T31	DiseaseOrSyndrome 980 998	multiple sclerosis
+T32	ResearchActivity 189 204	clinical trials
+T33	TemporalConcept 1272 1279	ongoing
+T34	BiologicFunction 1205 1211	repair
+T35	HealthCareActivity 1205 1211	repair
+T36	BodyPartOrganOrOrganComponent 1004 1011	retinal
+T37	PathologicFunction 378 390	inflammation
+T38	PathologicFunction 633 645	inflammation
+T39	Cell 1196 1204	neuronal
+T40	BodyPartOrganOrOrganComponent 850 855	brain
+T41	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T42	Finding 1165 1175	increasing
+T43	DiseaseOrSyndrome 103 105	AD
+T44	DiseaseOrSyndrome 902 904	AD
+T45	HealthCareActivity 516 523	studies
+T46	ResearchActivity 516 523	studies
+T47	ResearchActivity 1057 1064	studies
+T48	BodyPartOrganOrOrganComponent 1491 1513	central nervous system
+T49	ResearchActivity 860 873	animal models
+T50	ResearchActivity 1215 1228	animal models
+T51	PathologicFunction 1012 1024	degeneration
+T52	ResearchActivity 1049 1056	in vivo
+T53	ResearchActivity 58 64	burden
+T54	HealthCareActivity 129 139	treatments
+T55	ResearchActivity 129 139	treatments
+T56	PharmacologicSubstance 419 423	drug
+T57	DiseaseOrSyndrome 1777 1780	NDD
+T58	PatientOrDisabledGroup 878 886	patients
+T59	DiseaseOrSyndrome 958 978	Huntington's disease
+T60	DiseaseOrSyndrome 906 925	Parkinson's disease
+T61	DiseaseOrSyndrome 927 956	amyotrophic lateral sclerosis
+T62	DiseaseOrSyndrome 82 101	Alzheimer's disease
+T63	ResearchActivity 453 459	review
+T64	ResearchActivity 784 790	review
+T65	HealthCareActivity 453 459	review
+T66	HealthCareActivity 784 790	review
+T67	ResearchActivity 163 169	models
+T68	ResearchActivity 669 677	research
+T69	Eukaryote 156 162	murine
+T70	BiologicallyActiveSubstance 324 349	purinergic P2X7 receptors
+T71	BiologicallyActiveSubstance 351 357	P2X7Rs
+T72	AminoAcidPeptideOrProtein 351 357	P2X7Rs
+T73	AminoAcidPeptideOrProtein 826 831	P2X7R
+T74	BiologicallyActiveSubstance 826 831	P2X7R
+T75	PharmacologicSubstance 1126 1140	P2X7R blockers
+T76	PharmacologicSubstance 1461 1479	P2X7Rs antagonists
+T77	PharmacologicSubstance 1379 1396	P2X7R antagonists
+T78	AminoAcidPeptideOrProtein 1615 1621	P2X7Rs
+T79	BiologicallyActiveSubstance 1615 1621	P2X7Rs
+T80	AminoAcidPeptideOrProtein 547 553	P2X7Rs
+T81	BiologicallyActiveSubstance 547 553	P2X7Rs
+T82	ResearchActivity 419 431	drug targets
+T83	HealthCareActivity 1632 1656	pharmacological approach
+T84	AminoAcidPeptideOrProtein 1708 1713	P2X7R
+T85	BiologicallyActiveSubstance 1708 1713	P2X7R

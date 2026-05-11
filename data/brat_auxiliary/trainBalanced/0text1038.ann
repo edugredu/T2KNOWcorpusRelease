@@ -1,0 +1,100 @@
+T0	DiseaseOrSyndrome 12 64	Limbic predominant age related TDP-43 encephalopathy
+T1	DiseaseOrSyndrome 128 141	brain disease
+T2	HealthCareActivity 224 232	diagnose
+T3	DiseaseOrSyndrome 846 873	mild cognitively impairment
+T4	HealthCareActivity 1011 1018	autopsy
+T5	HealthCareActivity 1254 1261	autopsy
+T6	DiseaseOrSyndrome 875 878	MCI
+T7	PopulationGroup 1220 1227	persons
+T8	HealthCareActivity 1501 1516	diagnostic tool
+T9	CellFunction 1380 1387	carrier
+T10	ManufacturedObject 1380 1387	carrier
+T11	CellComponent 327 348	extracellular vesicle
+T12	Finding 1380 1387	carrier
+T13	TemporalConcept 194 198	date
+T14	HealthCareActivity 707 716	diagnoses
+T15	HealthCareActivity 902 911	diagnoses
+T16	PopulationGroup 836 844	controls
+T17	PopulationGroup 807 813	cohort
+T18	CellComponent 585 607	extracellular vesicles
+T19	DiseaseOrSyndrome 154 173	Alzheimer's disease
+T20	CellComponent 350 353	EVs
+T21	CellComponent 1418 1421	EVs
+T22	DiseaseOrSyndrome 175 177	AD
+T23	DiseaseOrSyndrome 453 455	AD
+T24	DiseaseOrSyndrome 885 887	AD
+T25	DiseaseOrSyndrome 1072 1074	AD
+T26	CellComponent 617 619	EV
+T27	CellComponent 1136 1138	EV
+T28	CellComponent 1317 1319	EV
+T29	OrganismAttribute 828 835	healthy
+T30	DiseaseOrSyndrome 888 896	dementia
+T31	BodyPartOrganOrOrganComponent 656 662	plasma
+T32	BodyPartOrganOrOrganComponent 985 991	plasma
+T33	BodyPartOrganOrOrganComponent 1148 1154	plasma
+T34	ResearchActivity 666 674	research
+T35	PathologicFunction 1075 1084	pathology
+T36	BiomedicalOccupationOrDiscipline 1075 1084	pathology
+T37	ClinicalAttribute 274 284	biomarkers
+T38	ClinicalAttribute 438 448	biomarkers
+T39	Finding 1453 1465	accumulation
+T40	Cell 395 406	glial cells
+T41	Cell 382 390	neuronal
+T42	Cell 525 533	neuronal
+T43	DiseaseOrSyndrome 466 492	neurodegenerative diseases
+T44	CellFunction 363 368	cargo
+T45	ResearchActivity 293 300	studies
+T46	TemporalConcept 286 292	Recent
+T47	TemporalConcept 1554 1563	currently
+T48	Cell 543 552	astrocyte
+T49	BiologicFunction 1339 1348	cognition
+T50	PopulationGroup 675 683	subjects
+T51	PopulationGroup 1037 1045	subjects
+T52	PopulationGroup 1537 1545	subjects
+T53	TemporalConcept 191 198	To date
+T54	Finding 1388 1394	status
+T55	AminoAcidPeptideOrProtein 1375 1379	APOE
+T56	GeneOrGenome 1375 1379	APOE
+T57	OrganismAttribute 1366 1369	sex
+T58	BiologicFunction 309 323	concentrations
+T59	BiologicFunction 771 785	concentrations
+T60	TemporalConcept 105 113	recently
+T61	AminoAcidPeptideOrProtein 43 49	TDP-43
+T62	AminoAcidPeptideOrProtein 764 770	TDP-43
+T63	AminoAcidPeptideOrProtein 1107 1113	TDP-43
+T64	AminoAcidPeptideOrProtein 1165 1171	TDP-43
+T65	AminoAcidPeptideOrProtein 1320 1326	TDP-43
+T66	AminoAcidPeptideOrProtein 1446 1452	TDP-43
+T67	BiologicallyActiveSubstance 43 49	TDP-43
+T68	BiologicallyActiveSubstance 764 770	TDP-43
+T69	BiologicallyActiveSubstance 1107 1113	TDP-43
+T70	BiologicallyActiveSubstance 1165 1171	TDP-43
+T71	BiologicallyActiveSubstance 1320 1326	TDP-43
+T72	BiologicallyActiveSubstance 1446 1452	TDP-43
+T73	Cell 566 576	microglial
+T74	AminoAcidPeptideOrProtein 355 362	protein
+T75	ClinicalAttribute 427 448	diagnostic biomarkers
+T76	DiseaseOrSyndrome 12 89	Limbic predominant age related TDP-43 encephalopathy neuropathological change
+T77	DiseaseOrSyndrome 91 98	LATE-NC
+T78	DiseaseOrSyndrome 200 207	LATE-NC
+T79	DiseaseOrSyndrome 923 930	LATE-NC
+T80	DiseaseOrSyndrome 1029 1036	LATE-NC
+T81	DiseaseOrSyndrome 1272 1279	LATE-NC
+T82	DiseaseOrSyndrome 1576 1583	LATE-NC
+T83	TemporalConcept 233 243	antemortem
+T84	AminoAcidPeptideOrProtein 501 507	TDP-43
+T85	BiologicallyActiveSubstance 501 507	TDP-43
+T86	CellComponent 535 540	NDEVs
+T87	CellComponent 554 559	ADEVs
+T88	CellComponent 609 614	MDEVs
+T89	CellComponent 992 997	ADEVs
+T90	CellComponent 1469 1474	ADEVs
+T91	AminoAcidPeptideOrProtein 948 954	TDP-43
+T92	BiologicallyActiveSubstance 948 954	TDP-43
+T93	HealthCareActivity 689 696	autopsy
+T94	DiseaseOrSyndrome 738 742	LATE
+T95	Finding 1063 1071	comorbid
+T96	ClinicalAttribute 1165 1178	TDP-43 levels
+T97	ClinicalAttribute 1320 1333	TDP-43 levels
+T98	BiologicallyActiveSubstance 1375 1379	APOE
+T99	BodyPartOrganOrOrganComponent 1406 1411	Blood

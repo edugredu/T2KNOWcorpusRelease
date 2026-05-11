@@ -1,0 +1,4 @@
+T0	BodyPartOrganOrOrganComponent 84 87	CNS
+T1	DiseaseOrSyndrome 92 94	AD
+T2	Finding 95 99	risk
+T3	Virus 66 76	SARS-CoV-2

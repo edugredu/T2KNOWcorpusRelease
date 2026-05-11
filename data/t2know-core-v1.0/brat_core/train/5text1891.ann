@@ -1,0 +1,9 @@
+T0	DiseaseOrSyndrome 91 116	neurodegenerative disease
+T1	Finding 18 29	alterations
+T2	SignOrSymptom 109 125	disease symptoms
+T3	BiologicallyActiveSubstance 33 49	neurotransmitter
+T4	Bacterium 0 10	Spirochete
+T5	CellFunction 33 60	neurotransmitter metabolism
+T6	CellFunction 33 49;65 72	neurotransmitter release
+T7	PathologicFunction 130 141	progression
+T8	TemporalConcept 130 141	progression

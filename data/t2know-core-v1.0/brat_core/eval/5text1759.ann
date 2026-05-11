@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 136 162	neurodegenerative diseases
+T1	Organism 63 67	host
+T2	Finding 18 30	interactions
+T3	Finding 68 83	genetic factors
+T4	Organism 39 48	microbial
+T5	Organism 39 58	microbial pathogens
+T6	Finding 107 132	individual susceptibility
+T7	ResearchActivity 0 13	Investigating

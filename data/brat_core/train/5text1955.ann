@@ -1,0 +1,9 @@
+T0	DiseaseOrSyndrome 115 141	neurodegenerative diseases
+T1	DiseaseOrSyndrome 147 166	Alzheimer's disease
+T2	TemporalConcept 67 72	onset
+T3	SignOrSymptom 76 94	cognitive symptoms
+T4	PopulationGroup 98 109	individuals
+T5	BodyPartOrganOrOrganComponent 39 45	retina
+T6	TemporalConcept 56 62	before
+T7	ResearchActivity 0 7	Studies
+T8	Finding 24 31	changes

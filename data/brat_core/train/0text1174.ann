@@ -1,0 +1,69 @@
+T0	CellFunction 130 142	polymorphism
+T1	CellComponent 160 172	beta fibrils
+T2	CellComponent 257 263	fibril
+T3	CellFunction 264 276	polymorphism
+T4	Chemical 442 457	Membrane lipids
+T5	TemporalConcept 487 499	early stages
+T6	OrganismAttribute 695 701	charge
+T7	Chemical 747 758	surfactants
+T8	CellComponent 853 879	large unilamellar vesicles
+T9	CellComponent 945 948	LRs
+T10	Chemical 954 999	1,2-dimyristoyl-sn-glycero-3-phosphocholine (
+T11	Chemical 999 1003	DMPC
+T12	CellComponent 1018 1025	vesicle
+T13	Chemical 1079 1095	GM1 gangliosides
+T14	InjuryOrPoisoning 1180 1185	toxic
+T15	CellFunction 1250 1261	aggregation
+T16	ResearchActivity 1250 1261	aggregation
+T17	Chemical 1265 1273	liposome
+T18	PathologicFunction 1333 1342	sensitive
+T19	Chemical 1526 1529	GM1
+T20	CellFunction 1596 1611	oligomerization
+T21	Finding 1642 1652	controlled
+T22	TemporalConcept 1717 1729	early stages
+T23	CellFunction 1755 1767	polymorphism
+T24	TemporalConcept 493 499	stages
+T25	TemporalConcept 1723 1729	stages
+T26	CellComponent 298 305	fibrils
+T27	Chemical 736 742	lipids
+T28	CellComponent 932 943	lipid rafts
+T29	Chemical 1653 1658	lipid
+T30	BiologicFunction 330 336	growth
+T31	BiologicFunction 372 385	understanding
+T32	CellComponent 559 567	membrane
+T33	CellComponent 1286 1294	membrane
+T34	CellComponent 1346 1354	membrane
+T35	CellComponent 1616 1624	membrane
+T36	InjuryOrPoisoning 1786 1794	toxicity
+T37	Finding 8 16	hallmark
+T38	Chemical 1146 1155	liposomes
+T39	Chemical 1460 1469	liposomes
+T40	ResearchActivity 1545 1550	study
+T41	Finding 52 64	accumulation
+T42	BodyPartOrganOrOrganComponent 896 901	brain
+T43	ResearchActivity 780 787	studies
+T44	DiseaseOrSyndrome 20 39	Alzheimer's disease
+T45	DiseaseOrSyndrome 41 43	AD
+T46	DiseaseOrSyndrome 176 178	AD
+T47	DiseaseOrSyndrome 1798 1800	AD
+T48	PathologicFunction 281 290	pathology
+T49	BiomedicalOccupationOrDiscipline 281 290	pathology
+T50	BodyPartOrganOrOrganComponent 179 185	brains
+T51	ResearchActivity 726 732	length
+T52	AminoAcidPeptideOrProtein 110 116	A beta
+T53	AminoAcidPeptideOrProtein 503 509	A beta
+T54	AminoAcidPeptideOrProtein 643 659	A beta oligomers
+T55	AminoAcidPeptideOrProtein 827 833	A beta
+T56	AminoAcidPeptideOrProtein 1733 1739	A beta
+T57	ResearchActivity 793 809	liposomal models
+T58	CellOrMolecularDysfunction 68 108	extracellular aggregates of amyloid-beta
+T59	CellOrMolecularDysfunction 559 578	membrane disruption
+T60	CellFunction 503 521	A beta aggregation
+T61	CellFunction 526 545	oligomer generation
+T62	CellFunction 827 849	A beta oligomerization
+T63	BodyPartOrganOrOrganComponent 890 910	total brain extracts
+T64	BiologicallyActiveSubstance 1079 1095	GM1 gangliosides
+T65	PharmacologicSubstance 1079 1095	GM1 gangliosides
+T66	CellOrMolecularDysfunction 1286 1305	membrane disruption
+T67	Chemical 1447 1450	GM1
+T68	CellOrMolecularDysfunction 1616 1635	membrane disruption

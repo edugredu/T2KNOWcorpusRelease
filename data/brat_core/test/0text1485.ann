@@ -1,0 +1,131 @@
+T0	CellFunction 66 70	DNAm
+T1	CellFunction 133 137	DNAm
+T2	CellFunction 230 234	DNAm
+T3	CellFunction 507 511	DNAm
+T4	CellFunction 701 705	DNAm
+T5	BodyPartOrganOrOrganComponent 818 829	whole blood
+T6	BiologicallyActiveSubstance 915 919	tTau
+T7	CellFunction 1216 1220	DNAm
+T8	PathologicFunction 1236 1256	brain neuropathology
+T9	CellFunction 1380 1384	DNAm
+T10	CellFunction 1545 1549	DNAm
+T11	ClinicalAttribute 1780 1794	disease stages
+T12	CellFunction 1975 1979	DNAm
+T13	CellFunction 2004 2008	DNAm
+T14	GeneOrGenome 2039 2049	HOXA5 gene
+T15	CellFunction 2121 2125	DNAm
+T16	CellFunction 2151 2155	DNAm
+T17	CellFunction 2306 2310	DNAm
+T18	HealthCareActivity 1832 1852	treatment strategies
+T19	BiologicFunction 1886 1906	biological processes
+T20	HealthCareActivity 1818 1825	testing
+T21	ResearchActivity 1637 1642	omics
+T22	GeneOrGenome 1496 1505	epigenome
+T23	SignOrSymptom 382 399	clinical symptoms
+T24	ResearchActivity 1832 1852	treatment strategies
+T25	CellFunction 49 64	DNA methylation
+T26	CellFunction 830 845	DNA methylation
+T27	PathologicFunction 625 637	pathogenesis
+T28	BiomedicalOccupationOrDiscipline 437 451	neuropathology
+T29	BiomedicalOccupationOrDiscipline 531 545	neuropathology
+T30	PathologicFunction 437 451	neuropathology
+T31	PathologicFunction 531 545	neuropathology
+T32	TemporalConcept 2262 2268	future
+T33	TemporalConcept 1225 1235	postmortem
+T34	Finding 138 149	differences
+T35	TemporalConcept 362 368	before
+T36	PathologicFunction 1435 1457	pathological processes
+T37	TemporalConcept 356 361	years
+T38	DiseaseOrSyndrome 99 118	Alzheimer's disease
+T39	ClinicalAttribute 761 771	biomarkers
+T40	ClinicalAttribute 921 931	biomarkers
+T41	ClinicalAttribute 1393 1403	biomarkers
+T42	ClinicalAttribute 1752 1762	biomarkers
+T43	BodyPartOrganOrOrganComponent 743 746	CSF
+T44	BodyPartOrganOrOrganComponent 847 850	CSF
+T45	BodyPartOrganOrOrganComponent 1389 1392	CSF
+T46	BodyPartOrganOrOrganComponent 1465 1468	CSF
+T47	BodyPartOrganOrOrganComponent 1520 1523	CSF
+T48	BodyPartOrganOrOrganComponent 2087 2090	CSF
+T49	PathologicFunction 2103 2116	tau-pathology
+T50	TemporalConcept 373 378	onset
+T51	PopulationGroup 1125 1131	cohort
+T52	ResearchActivity 200 207	studies
+T53	ResearchActivity 2295 2302	studies
+T54	DiseaseOrSyndrome 120 122	AD
+T55	DiseaseOrSyndrome 182 184	AD
+T56	DiseaseOrSyndrome 266 268	AD
+T57	DiseaseOrSyndrome 338 340	AD
+T58	DiseaseOrSyndrome 528 530	AD
+T59	DiseaseOrSyndrome 622 624	AD
+T60	DiseaseOrSyndrome 776 778	AD
+T61	DiseaseOrSyndrome 1063 1065	AD
+T62	DiseaseOrSyndrome 1583 1585	AD
+T63	DiseaseOrSyndrome 1829 1831	AD
+T64	DiseaseOrSyndrome 1958 1960	AD
+T65	DiseaseOrSyndrome 2195 2197	AD
+T66	DiseaseOrSyndrome 2314 2316	AD
+T67	ClinicalAttribute 1524 1533	biomarker
+T68	ClinicalAttribute 2198 2207	biomarker
+T69	ClinicalAttribute 2285 2294	biomarker
+T70	ResearchActivity 784 789	study
+T71	ResearchActivity 2223 2228	study
+T72	BodyPartOrganOrOrganComponent 459 464	brain
+T73	BodyPartOrganOrOrganComponent 1929 1934	brain
+T74	BodyPartOrganOrOrganComponent 2133 2138	brain
+T75	DiseaseOrSyndrome 1704 1718	preclinical AD
+T76	BodyPartOrganOrOrganComponent 722 741	cerebrospinal fluid
+T77	BodyPartOrganOrOrganComponent 173 178	blood
+T78	BodyPartOrganOrOrganComponent 224 229	blood
+T79	BodyPartOrganOrOrganComponent 501 506	blood
+T80	BodyPartOrganOrOrganComponent 695 700	blood
+T81	BodyPartOrganOrOrganComponent 1210 1215	blood
+T82	BodyPartOrganOrOrganComponent 1374 1379	blood
+T83	BodyPartOrganOrOrganComponent 1490 1495	blood
+T84	BodyPartOrganOrOrganComponent 1987 1992	blood
+T85	BodyPartOrganOrOrganComponent 1998 2003	blood
+T86	ResearchActivity 564 577	clinical data
+T87	ResearchActivity 932 936	data
+T88	ResearchActivity 1643 1647	data
+T89	BiologicFunction 1802 1813	development
+T90	CellFunction 1802 1813	development
+T91	AminoAcidPeptideOrProtein 888 897	pTau(181)
+T92	AminoAcidPeptideOrProtein 2070 2079	pTau(181)
+T93	TemporalConcept 1788 1794	stages
+T94	AminoAcidPeptideOrProtein 863 886	phosphorylated tau(181)
+T95	PopulationGroup 272 290	living individuals
+T96	BiologicallyActiveSubstance 863 886	phosphorylated tau(181)
+T97	BiologicallyActiveSubstance 888 897	pTau(181)
+T98	BiologicallyActiveSubstance 2070 2079	pTau(181)
+T99	PopulationGroup 185 193	subjects
+T100	PopulationGroup 959 967	subjects
+T101	PopulationGroup 1020 1028	subjects
+T102	PopulationGroup 1283 1291	subjects
+T103	PopulationGroup 1586 1594	subjects
+T104	PopulationGroup 1679 1687	subjects
+T105	PopulationGroup 1719 1727	subjects
+T106	Finding 1040 1058	cognitively normal
+T107	Finding 1660 1678	cognitively normal
+T108	ClinicalAttribute 1741 1762	diagnostic biomarkers
+T109	PopulationGroup 1271 1276	group
+T110	PathologicFunction 308 326	pathophysiological
+T111	DiseaseOrSyndrome 1074 1093	Alzheimer's Disease
+T112	Finding 1034 1036	CN
+T113	Finding 1576 1578	CN
+T114	ResearchActivity 1074 1117	Alzheimer's Disease Neuroimaging Initiative
+T115	ResearchActivity 674 682	analysis
+T116	ResearchActivity 1868 1876	analysis
+T117	AminoAcidPeptideOrProtein 851 861	A beta(42)
+T118	AminoAcidPeptideOrProtein 904 913	total tau
+T119	BiologicallyActiveSubstance 904 913	total tau
+T120	NucleicAcidNucleosideOrNucleotide 49 52	DNA
+T121	NucleicAcidNucleosideOrNucleotide 830 833	DNA
+T122	Finding 18 26	evidence
+T123	HealthCareActivity 244 262	clinical diagnosis
+T124	HealthCareRelatedOrganization 1074 1117	Alzheimer's Disease Neuroimaging Initiative
+T125	TemporalConcept 1200 1209	premortem
+T126	BiologicallyActiveSubstance 851 861	A beta(42)
+T127	ClinicalAttribute 469 488	clinical phenotypes
+T128	AminoAcidPeptideOrProtein 915 919	tTau
+T129	ResearchActivity 1306 1313	dataset
+T130	NucleicAcidNucleosideOrNucleotide 2020 2024	CpGs

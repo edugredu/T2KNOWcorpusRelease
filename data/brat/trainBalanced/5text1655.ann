@@ -1,0 +1,16 @@
+T0	Cell 152 174	GABAergic interneurons
+T1	Cell 22 33	glial cells
+T2	Cell 98 114	oligodendrocytes
+T3	Cell 116 126	astrocytes
+T4	BodyPartOrganOrOrganComponent 6 14	cortical
+T5	BodyPartOrganOrOrganComponent 89 97	cortical
+T6	TemporalConcept 178 182	late
+T7	Cell 22 27	glial
+T8	Cell 53 70	neural stem cells
+T9	Cell 162 174	interneurons
+T10	BodyPartOrganOrOrganComponent 132 146	olfactory bulb
+T11	EmbryonicStructure 15 27	radial glial
+T12	EmbryonicStructure 35 39	RGCs
+T13	EmbryonicStructure 35 38	RGC
+T14	EmbryonicStructure 15 27	radial glial
+T15	BodyPartOrganOrOrganComponent 148 150	OB

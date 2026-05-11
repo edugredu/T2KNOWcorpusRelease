@@ -1,0 +1,149 @@
+T0	ResearchActivity 0 5	Study
+T1	ResearchActivity 45 77	self-reported clinical diagnosis
+T2	DiseaseOrSyndrome 81 106	obstructive sleep apnea (
+T3	DiseaseOrSyndrome 106 109	OSA
+T4	Finding 228 230	NL
+T5	ResearchActivity 313 331	Longitudinal study
+T6	Finding 496 498	NL
+T7	Chemical 626 637	florbetapir
+T8	Finding 652 661	decreases
+T9	DiseaseOrSyndrome 1007 1010	OSA
+T10	Finding 1024 1026	NL
+T11	Chemical 1095 1106	florbetapir
+T12	Finding 1655 1657	NL
+T13	DiseaseOrSyndrome 1714 1717	OSA
+T14	DiseaseOrSyndrome 1740 1743	OSA
+T15	ResearchActivity 460 468	database
+T16	Finding 1187 1195	decrease
+T17	AminoAcidPeptideOrProtein 187 192	T-tau
+T18	AminoAcidPeptideOrProtein 763 768	T-tau
+T19	AminoAcidPeptideOrProtein 1335 1340	T-tau
+T20	BiologicallyActiveSubstance 187 192	T-tau
+T21	BiologicallyActiveSubstance 763 768	T-tau
+T22	BiologicallyActiveSubstance 1335 1340	T-tau
+T23	Finding 114 134	longitudinal changes
+T24	CellFunction 774 788	phosphorylated
+T25	Finding 220 226	normal
+T26	ResearchActivity 409 452	Alzheimer's Disease Neuroimaging Initiative
+T27	HealthCareRelatedOrganization 409 452	Alzheimer's Disease Neuroimaging Initiative
+T28	TemporalConcept 555 559	rate
+T29	TemporalConcept 935 939	rate
+T30	AminoAcidPeptideOrProtein 176 185	A beta 42
+T31	AminoAcidPeptideOrProtein 669 678	A beta 42
+T32	AminoAcidPeptideOrProtein 1203 1212	A beta 42
+T33	BiologicallyActiveSubstance 176 185	A beta 42
+T34	BiologicallyActiveSubstance 669 678	A beta 42
+T35	BiologicallyActiveSubstance 1203 1212	A beta 42
+T36	ResearchActivity 803 861	Adjusted multilevel mixed effects linear regression models
+T37	HealthCareRelatedOrganization 454 458	ADNI
+T38	ResearchActivity 454 458	ADNI
+T39	HealthCareActivity 1676 1698	clinical interventions
+T40	AminoAcidPeptideOrProtein 198 203	P-tau
+T41	AminoAcidPeptideOrProtein 794 799	P-tau
+T42	AminoAcidPeptideOrProtein 1425 1430	P-tau
+T43	BiologicallyActiveSubstance 198 203	P-tau
+T44	BiologicallyActiveSubstance 794 799	P-tau
+T45	BiologicallyActiveSubstance 1425 1430	P-tau
+T46	AminoAcidPeptideOrProtein 189 192	tau
+T47	AminoAcidPeptideOrProtein 200 203	tau
+T48	AminoAcidPeptideOrProtein 758 761	tau
+T49	AminoAcidPeptideOrProtein 765 768	tau
+T50	AminoAcidPeptideOrProtein 789 792	tau
+T51	AminoAcidPeptideOrProtein 796 799	tau
+T52	AminoAcidPeptideOrProtein 1337 1340	tau
+T53	AminoAcidPeptideOrProtein 1427 1430	tau
+T54	DiseaseOrSyndrome 270 289	Alzheimer's disease
+T55	BodyPartOrganOrOrganComponent 160 163	CSF
+T56	BodyPartOrganOrOrganComponent 665 668	CSF
+T57	BodyPartOrganOrOrganComponent 748 751	CSF
+T58	BodyPartOrganOrOrganComponent 1199 1202	CSF
+T59	BodyPartOrganOrOrganComponent 1331 1334	CSF
+T60	BiologicallyActiveSubstance 189 192	tau
+T61	BiologicallyActiveSubstance 200 203	tau
+T62	BiologicallyActiveSubstance 758 761	tau
+T63	BiologicallyActiveSubstance 765 768	tau
+T64	BiologicallyActiveSubstance 789 792	tau
+T65	BiologicallyActiveSubstance 796 799	tau
+T66	BiologicallyActiveSubstance 1337 1340	tau
+T67	BiologicallyActiveSubstance 1427 1430	tau
+T68	DiseaseOrSyndrome 291 293	AD
+T69	DiseaseOrSyndrome 517 519	AD
+T70	DiseaseOrSyndrome 1624 1626	AD
+T71	DiseaseOrSyndrome 1812 1814	AD
+T72	ClinicalAttribute 943 952	biomarker
+T73	ClinicalAttribute 1579 1588	biomarker
+T74	AminoAcidPeptideOrProtein 752 761	total tau
+T75	BiologicallyActiveSubstance 752 761	total tau
+T76	AminoAcidPeptideOrProtein 774 792	phosphorylated tau
+T77	BiologicallyActiveSubstance 774 792	phosphorylated tau
+T78	ClinicalAttribute 748 761	CSF total tau
+T79	BodyPartOrganOrOrganComponent 138 143	brain
+T80	BodyPartOrganOrOrganComponent 573 578	brain
+T81	HealthCareActivity 1744 1753	treatment
+T82	ResearchActivity 1744 1753	treatment
+T83	PopulationGroup 977 989	participants
+T84	PopulationGroup 1532 1544	participants
+T85	AminoAcidPeptideOrProtein 144 151	amyloid
+T86	AminoAcidPeptideOrProtein 579 586	amyloid
+T87	BiologicallyActiveSubstance 144 151	amyloid
+T88	BiologicallyActiveSubstance 579 586	amyloid
+T89	DiseaseOrSyndrome 1784 1804	cognitive impairment
+T90	DiseaseOrSyndrome 409 428	Alzheimer's Disease
+T91	HealthCareActivity 68 77	diagnosis
+T92	ClinicalAttribute 164 174	biomarkers
+T93	DiseaseOrSyndrome 260 263	MCI
+T94	DiseaseOrSyndrome 504 507	MCI
+T95	DiseaseOrSyndrome 1031 1034	MCI
+T96	DiseaseOrSyndrome 1662 1665	MCI
+T97	TemporalConcept 548 554	annual
+T98	TemporalConcept 1076 1082	annual
+T99	PathologicFunction 1769 1780	progression
+T100	TemporalConcept 1769 1780	progression
+T101	TemporalConcept 352 356	time
+T102	TemporalConcept 1602 1606	time
+T103	ResearchActivity 1127 1129	CI
+T104	ResearchActivity 1236 1238	CI
+T105	ResearchActivity 1273 1275	CI
+T106	ResearchActivity 1356 1358	CI
+T107	ResearchActivity 1390 1392	CI
+T108	ResearchActivity 1447 1449	CI
+T109	ResearchActivity 1481 1483	CI
+T110	ResearchActivity 1012 1019	Results
+T111	Finding 534 542	outcomes
+T112	PopulationGroup 1035 1041	groups
+T113	HealthCareActivity 342 351	follow-up
+T114	TemporalConcept 342 351	follow-up
+T115	PopulationGroup 470 482	Participants
+T116	TemporalConcept 374 379	years
+T117	Finding 208 226	cognitively normal
+T118	PopulationGroup 295 302	elderly
+T119	PopulationGroup 520 527	elderly
+T120	PopulationGroup 1667 1674	elderly
+T121	HealthCareActivity 152 155	PET
+T122	HealthCareActivity 638 641	PET
+T123	DiseaseOrSyndrome 233 258	mild cognitive impairment
+T124	PopulationGroup 1627 1632	group
+T125	PopulationGroup 1048 1056	subjects
+T126	AminoAcidPeptideOrProtein 176 182	A beta
+T127	AminoAcidPeptideOrProtein 669 675	A beta
+T128	AminoAcidPeptideOrProtein 1203 1209	A beta
+T129	ResearchActivity 381 385	Data
+T130	ResearchActivity 600 612	longitudinal
+T131	ResearchActivity 722 734	longitudinal
+T132	ResearchActivity 587 593	burden
+T133	HealthCareActivity 59 77	clinical diagnosis
+T134	ResearchActivity 918 922	test
+T135	ResearchActivity 1732 1736	test
+T136	HealthCareActivity 918 922	test
+T137	HealthCareActivity 1732 1736	test
+T138	BiologicFunction 642 648	uptake
+T139	BiologicFunction 1107 1113	uptake
+T140	CellFunction 642 648	uptake
+T141	CellFunction 1107 1113	uptake
+T142	ClinicalAttribute 665 685	CSF A beta 42 levels
+T143	CellOrMolecularDysfunction 692 715	tau protein aggregation
+T144	Finding 953 959	change
+T145	ClinicalAttribute 1199 1219	CSF A beta 42 levels
+T146	ClinicalAttribute 1331 1340	CSF T-tau
+T147	Finding 1589 1596	changes
+T148	Finding 1546 1571	No significant variations

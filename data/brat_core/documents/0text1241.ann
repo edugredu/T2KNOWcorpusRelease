@@ -1,0 +1,107 @@
+T0	AminoAcidPeptideOrProtein 120 123	GFP
+T1	AminoAcidPeptideOrProtein 466 471	CSPGs
+T2	BiologicallyActiveSubstance 466 471	CSPGs
+T3	Cell 912 923	T helper 17
+T4	InjuryOrPoisoning 1404 1413	cytotoxic
+T5	ResearchActivity 805 813	modeling
+T6	ExperimentalModelOfDisease 749 790	experimental autoimmune encephalomyelitis
+T7	ExperimentalModelOfDisease 792 795	EAE
+T8	ExperimentalModelOfDisease 1180 1183	EAE
+T9	AminoAcidPeptideOrProtein 1011 1014	NG2
+T10	BiologicallyActiveSubstance 1011 1014	NG2
+T11	GeneOrGenome 1011 1014	NG2
+T12	BiologicallyActiveSubstance 51 60	inhibitor
+T13	PharmacologicSubstance 51 60	inhibitor
+T14	Chemical 51 60	inhibitor
+T15	TemporalConcept 1222 1231	frequency
+T16	Cell 128 144	oligodendrocytes
+T17	Cell 205 221	oligodendrocytes
+T18	Cell 651 682	premyelinating oligodendrocytes
+T19	Cell 1071 1087	oligodendrocytes
+T20	Cell 893 897	OPCs
+T21	Cell 1002 1006	OPCs
+T22	Cell 1327 1331	OPCs
+T23	Cell 860 891	oligodendrocyte precursor cells
+T24	DiseaseOrSyndrome 274 292	multiple sclerosis
+T25	BodyPartOrganOrOrganComponent 1088 1094	myelin
+T26	InjuryOrPoisoning 628 635	lesions
+T27	InjuryOrPoisoning 797 804	lesions
+T28	InjuryOrPoisoning 1282 1288	lesion
+T29	AminoAcidPeptideOrProtein 451 464	proteoglycans
+T30	BiologicallyActiveSubstance 451 464	proteoglycans
+T31	CellFunction 249 262	Remyelination
+T32	BiologicallyActiveSubstance 502 512	inhibitory
+T33	Chemical 410 420	inhibitors
+T34	PharmacologicSubstance 410 420	inhibitors
+T35	BiologicallyActiveSubstance 410 420	inhibitors
+T36	ResearchActivity 821 828	culture
+T37	CellOrMolecularDysfunction 249 270	Remyelination failure
+T38	CellFunction 931 943	polarization
+T39	AminoAcidPeptideOrProtein 431 464	chondroitin sulfate proteoglycans
+T40	BiologicallyActiveSubstance 431 464	chondroitin sulfate proteoglycans
+T41	PathologicFunction 313 324	progression
+T42	TemporalConcept 313 324	progression
+T43	Cell 237 247	Th17 cells
+T44	Cell 965 975	Th17 cells
+T45	ResearchActivity 84 99	transgenic mice
+T46	Eukaryote 95 99	mice
+T47	Eukaryote 1033 1037	mice
+T48	ResearchActivity 1256 1264	profiles
+T49	HealthCareActivity 1518 1530	therapeutics
+T50	PathologicFunction 529 541	inflammation
+T51	HealthCareActivity 1160 1169	treatment
+T52	ResearchActivity 1160 1169	treatment
+T53	InjuryOrPoisoning 993 998	toxic
+T54	CellFunction 611 621	expression
+T55	CellFunction 191 201	inhibition
+T56	Finding 594 598	high
+T57	PharmacologicSubstance 1458 1463	drugs
+T58	InjuryOrPoisoning 556 562	injury
+T59	CellFunction 64 77	remyelination
+T60	CellFunction 1361 1374	remyelination
+T61	DiseaseOrSyndrome 294 296	MS
+T62	DiseaseOrSyndrome 625 627	MS
+T63	DiseaseOrSyndrome 814 816	MS
+T64	DiseaseOrSyndrome 1535 1537	MS
+T65	PathologicFunction 374 391	neuroinflammation
+T66	PathologicFunction 1414 1431	neuroinflammation
+T67	CellFunction 712 724	upregulation
+T68	BiologicFunction 354 360	repair
+T69	BiologicFunction 495 501	repair
+T70	BiologicFunction 1490 1496	repair
+T71	HealthCareActivity 354 360	repair
+T72	HealthCareActivity 495 501	repair
+T73	HealthCareActivity 1490 1496	repair
+T74	GeneOrGenome 1022 1026	MAPT
+T75	Finding 328 338	disability
+T76	PharmacologicSubstance 1501 1517	immunomodulatory
+T77	BiologicFunction 1501 1517	immunomodulatory
+T78	HealthCareActivity 1501 1517	immunomodulatory
+T79	AminoAcidPeptideOrProtein 33 44	versican-V1
+T80	BiologicallyActiveSubstance 33 44	versican-V1
+T81	AminoAcidPeptideOrProtein 160 171	versican-V1
+T82	BiologicallyActiveSubstance 160 171	versican-V1
+T83	PathologicFunction 344 360	deficient repair
+T84	AminoAcidPeptideOrProtein 599 610	versican-V1
+T85	BiologicallyActiveSubstance 599 610	versican-V1
+T86	AminoAcidPeptideOrProtein 733 745	CSPG members
+T87	AminoAcidPeptideOrProtein 480 491	CSPG member
+T88	BiologicallyActiveSubstance 480 491	CSPG member
+T89	BiologicallyActiveSubstance 733 745	CSPG members
+T90	AminoAcidPeptideOrProtein 839 850	versican-V1
+T91	BiologicallyActiveSubstance 839 850	versican-V1
+T92	AminoAcidPeptideOrProtein 945 956	Versican-V1
+T93	BiologicallyActiveSubstance 945 956	Versican-V1
+T94	AminoAcidPeptideOrProtein 1201 1212	versican-V1
+T95	BiologicallyActiveSubstance 1201 1212	versican-V1
+T96	AminoAcidPeptideOrProtein 1064 1067	GFP
+T97	Chemical 1064 1067	GFP
+T98	Chemical 1096 1110	difluorosamine
+T99	Chemical 1112 1158	peracetylated,4,4-difluoro-N-acetylglucosamine
+T100	AminoAcidPeptideOrProtein 1249 1252	GFP
+T101	Chemical 1249 1252	GFP
+T102	AminoAcidPeptideOrProtein 1298 1309	versican-V1
+T103	BiologicallyActiveSubstance 1298 1309	versican-V1
+T104	AminoAcidPeptideOrProtein 1444 1448	CSPG
+T105	BiologicallyActiveSubstance 1444 1448	CSPG
+T106	Cell 925 929	Th17

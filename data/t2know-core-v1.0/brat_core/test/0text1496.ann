@@ -1,0 +1,94 @@
+T0	AminoAcidPeptideOrProtein 238 247	cofilin 2
+T1	GeneOrGenome 238 247	cofilin 2
+T2	CellFunction 290 302	upregulation
+T3	Chemical 432 441	donepezil
+T4	CellFunction 460 472	upregulation
+T5	AminoAcidPeptideOrProtein 476 485	cofilin 2
+T6	GeneOrGenome 476 485	cofilin 2
+T7	AminoAcidPeptideOrProtein 534 543	cofilin 2
+T8	GeneOrGenome 534 543	cofilin 2
+T9	AminoAcidPeptideOrProtein 770 779	cofilin 2
+T10	GeneOrGenome 770 779	cofilin 2
+T11	AminoAcidPeptideOrProtein 947 956	cofilin 2
+T12	GeneOrGenome 947 956	cofilin 2
+T13	AminoAcidPeptideOrProtein 1223 1232	cofilin 2
+T14	GeneOrGenome 1223 1232	cofilin 2
+T15	AminoAcidPeptideOrProtein 1504 1513	cofilin 2
+T16	GeneOrGenome 1504 1513	cofilin 2
+T17	HealthCareActivity 126 141	early diagnosis
+T18	AminoAcidPeptideOrProtein 500 503	APP
+T19	GeneOrGenome 500 503	APP
+T20	BiologicallyActiveSubstance 500 503	APP
+T21	AminoAcidPeptideOrProtein 504 507	PS1
+T22	ExperimentalModelOfDisease 500 512	APP/PS1 mice
+T23	DiseaseOrSyndrome 580 583	MCI
+T24	DiseaseOrSyndrome 668 671	MCI
+T25	PharmacologicSubstance 186 199	anti-AD drugs
+T26	ResearchActivity 96 101	study
+T27	ResearchActivity 217 222	study
+T28	HealthCareActivity 132 141	diagnosis
+T29	HealthCareActivity 1549 1558	diagnosis
+T30	DiseaseOrSyndrome 36 55	Alzheimer's disease
+T31	ClinicalAttribute 22 32	biomarkers
+T32	Finding 1034 1045	specificity
+T33	DiseaseOrSyndrome 57 59	AD
+T34	DiseaseOrSyndrome 145 147	AD
+T35	DiseaseOrSyndrome 191 193	AD
+T36	DiseaseOrSyndrome 282 284	AD
+T37	DiseaseOrSyndrome 319 321	AD
+T38	DiseaseOrSyndrome 345 347	AD
+T39	DiseaseOrSyndrome 402 404	AD
+T40	DiseaseOrSyndrome 547 549	AD
+T41	DiseaseOrSyndrome 642 644	AD
+T42	DiseaseOrSyndrome 1188 1190	AD
+T43	DiseaseOrSyndrome 1276 1278	AD
+T44	DiseaseOrSyndrome 1431 1433	AD
+T45	DiseaseOrSyndrome 1567 1569	AD
+T46	PatientOrDisabledGroup 322 330	patients
+T47	PatientOrDisabledGroup 585 593	patients
+T48	ClinicalAttribute 268 277	biomarker
+T49	ClinicalAttribute 1174 1183	biomarker
+T50	ClinicalAttribute 1519 1528	biomarker
+T51	DiseaseOrSyndrome 1300 1308	dementia
+T52	ResearchActivity 851 905	receiver operating characteristic curve (ROC) analysis
+T53	ResearchActivity 1414 1422	analysis
+T54	Eukaryote 508 512	mice
+T55	BodyPartOrganOrOrganComponent 251 256	serum
+T56	BodyPartOrganOrOrganComponent 518 523	serum
+T57	BodyPartOrganOrOrganComponent 1130 1135	serum
+T58	Finding 1014 1025	sensitivity
+T59	ResearchActivity 939 942	AUC
+T60	ResearchActivity 1458 1461	AUC
+T61	PopulationGroup 378 386	controls
+T62	PopulationGroup 632 640	controls
+T63	PopulationGroup 1400 1408	controls
+T64	DiseaseOrSyndrome 558 578	cognitive impairment
+T65	Finding 976 995	diagnostic accuracy
+T66	DiseaseOrSyndrome 1310 1313	VaD
+T67	DiseaseOrSyndrome 1380 1383	VaD
+T68	DiseaseOrSyndrome 1438 1441	VaD
+T69	DiseaseOrSyndrome 1574 1577	VaD
+T70	Chemical 418 427	Memantine
+T71	ResearchActivity 1410 1422	ROC analysis
+T72	ResearchActivity 917 937	area under the curve
+T73	BodyPartOrganOrOrganComponent 1291 1299	vascular
+T74	DiseaseOrSyndrome 1291 1308	vascular dementia
+T75	DiseaseOrSyndrome 791 808	cognitive decline
+T76	ExperimentalModelOfDisease 345 361	AD animal models
+T77	ExperimentalModelOfDisease 402 416	AD cell models
+T78	Eukaryote 348 354	animal
+T79	HealthCareActivity 1536 1558	differential diagnosis
+T80	ClinicalAttribute 1161 1183	non-invasive biomarker
+T81	PharmacologicSubstance 418 427	Memantine
+T82	ClinicalAttribute 262 277	novel biomarker
+T83	DiseaseOrSyndrome 553 578	mild cognitive impairment
+T84	PharmacologicSubstance 432 441	donepezil
+T85	BiologicallyActiveSubstance 238 247	cofilin 2
+T86	BiologicallyActiveSubstance 476 485	cofilin 2
+T87	ClinicalAttribute 518 543	serum levels of cofilin 2
+T88	BiologicallyActiveSubstance 770 779	cofilin 2
+T89	BiologicallyActiveSubstance 947 956	cofilin 2
+T90	Finding 1051 1072	optimal cut-off value
+T91	ClinicalAttribute 1130 1145	serum cofilin 2
+T92	BiologicallyActiveSubstance 1223 1232	cofilin 2
+T93	BiologicallyActiveSubstance 1504 1513	cofilin 2

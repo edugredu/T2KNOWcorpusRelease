@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 142 169	neurodegenerative disorders
+T1	BiologicFunction 130 138	delivery
+T2	OrganismAttribute 4 11	ability
+T3	BodyPartOrganOrOrganComponent 65 84	blood-brain barrier
+T4	GeneOrGenome 125 129	gene
+T5	Virus 15 39	Adeno Associated Viruses

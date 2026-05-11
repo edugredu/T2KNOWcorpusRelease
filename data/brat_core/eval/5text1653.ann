@@ -1,0 +1,9 @@
+T0	Cell 35 45	cell types
+T1	Eukaryote 4 9	human
+T2	BodyPartOrganOrOrganComponent 10 16	cortex
+T3	BodyPartOrganOrOrganComponent 161 167	cortex
+T4	Cell 126 130	glia
+T5	Cell 136 153	neural stem cells
+T6	EmbryonicStructure 119 130	radial glia
+T7	EmbryonicStructure 84 99	neuroepithelium
+T8	TemporalConcept 66 75	initially

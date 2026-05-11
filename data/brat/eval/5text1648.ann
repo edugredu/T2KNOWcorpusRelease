@@ -1,0 +1,12 @@
+T0	ResearchActivity 40 47	studies
+T1	BiomedicalOccupationOrDiscipline 99 106	biology
+T2	DiseaseOrSyndrome 149 151	PD
+T3	BiologicFunction 99 106	biology
+T4	TemporalConcept 8 15	initial
+T5	GeneOrGenome 163 168	genes
+T6	AminoAcidPeptideOrProtein 127 138	α-synuclein
+T7	BiologicallyActiveSubstance 127 138	α-synuclein
+T8	HealthCareActivity 40 47	studies
+T9	PathologicFunction 111 123	pathobiology
+T10	Organism 51 56	yeast
+T11	BiologicFunction 16 26	skepticism

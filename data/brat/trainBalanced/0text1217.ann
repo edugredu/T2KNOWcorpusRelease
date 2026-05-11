@@ -1,0 +1,77 @@
+T0	TemporalConcept 172 192	developmental stages
+T1	BodyPartOrganOrOrganComponent 773 787	immune systems
+T2	BiologicallyActiveSubstance 840 861	immunological factors
+T3	BiologicFunction 1068 1084	immune functions
+T4	PopulationGroup 1131 1137	victim
+T5	DiseaseOrSyndrome 1561 1583	demyelination diseases
+T6	CellFunction 832 839	express
+T7	Cell 1333 1345	immune cells
+T8	PathologicFunction 1352 1375	pathological conditions
+T9	Cell 371 383	cell lineage
+T10	BiologicFunction 910 927	immune activation
+T11	Cell 290 306	oligodendrocytes
+T12	Cell 320 336	oligodendrocytes
+T13	Cell 258 262	OPCs
+T14	Cell 566 570	OPCs
+T15	Cell 225 256	oligodendrocyte precursor cells
+T16	BodyPartOrganOrOrganComponent 390 396	myelin
+T17	Cell 313 336	mature oligodendrocytes
+T18	BiologicFunction 172 185	developmental
+T19	TemporalConcept 172 185	developmental
+T20	Cell 338 341	OLs
+T21	Cell 575 578	OLs
+T22	Cell 31 33	OL
+T23	Cell 144 146	OL
+T24	Cell 749 751	OL
+T25	Cell 810 812	OL
+T26	Cell 1033 1035	OL
+T27	Cell 1094 1096	OL
+T28	Cell 1237 1239	OL
+T29	Cell 1293 1295	OL
+T30	Cell 1511 1513	OL
+T31	TemporalConcept 313 319	mature
+T32	Cell 241 256	precursor cells
+T33	Cell 225 250	oligodendrocyte precursor
+T34	Eukaryote 92 101	mammalian
+T35	Cell 0 15	Oligodendrocyte
+T36	Cell 0 29	Oligodendrocyte lineage cells
+T37	CellFunction 390 406	myelin formation
+T38	Cell 31 47	OL-lineage cells
+T39	Cell 144 160	OL-lineage cells
+T40	Cell 749 765	OL-lineage cells
+T41	Cell 810 826	OL-lineage cells
+T42	Cell 1033 1049	OL-lineage cells
+T43	Cell 1094 1110	OL-lineage cells
+T44	Cell 1237 1253	OL-lineage cells
+T45	Cell 1511 1527	OL-lineage cells
+T46	BiologicFunction 281 289	immature
+T47	Cell 55 70	cell population
+T48	BodyPartOrganOrOrganComponent 102 124	central nervous system
+T49	BodyPartOrganOrOrganComponent 126 129	CNS
+T50	BodyPartOrganOrOrganComponent 1155 1158	CNS
+T51	PharmacologicSubstance 1142 1147	agent
+T52	Cell 507 512	cells
+T53	Cell 1293 1308	OL-lineage cell
+T54	ResearchActivity 433 440	studies
+T55	ResearchActivity 531 538	studies
+T56	ResearchActivity 707 714	studies
+T57	ResearchActivity 1493 1500	studies
+T58	CellFunction 937 947	expression
+T59	PopulationGroup 60 70	population
+T60	BodyPartOrganOrOrganComponent 599 612	immune system
+T61	AminoAcidPeptideOrProtein 870 879	cytokines
+T62	TemporalConcept 700 706	recent
+T63	BiologicallyActiveSubstance 870 879	cytokines
+T64	CellFunction 131 142	myelination
+T65	CellFunction 670 681	myelination
+T66	TemporalConcept 186 192	stages
+T67	Finding 1264 1271	effects
+T68	Finding 1455 1462	effects
+T69	AminoAcidPeptideOrProtein 884 894	chemokines
+T70	BiologicallyActiveSubstance 884 894	chemokines
+T71	Finding 1214 1233	immunologic changes
+T72	Finding 468 497	immunological characteristics
+T73	Finding 634 655	immunological changes
+T74	Finding 1531 1556	immunotherapeutic targets
+T75	DiseaseOrSyndrome 987 1008	pathologic conditions
+T76	Finding 1309 1316	changes

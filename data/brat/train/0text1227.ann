@@ -1,0 +1,93 @@
+T0	BiologicFunction 77 111	central nervous system development
+T1	PathologicFunction 420 432	demyelinated
+T2	AminoAcidPeptideOrProtein 635 660	Matrix metalloproteinases
+T3	AminoAcidPeptideOrProtein 662 666	MMPs
+T4	BiologicallyActiveSubstance 662 666	MMPs
+T5	BodyPartOrganOrOrganComponent 728 748	extracellular matrix
+T6	AminoAcidPeptideOrProtein 799 813	growth factors
+T7	BiologicallyActiveSubstance 815 834	signaling molecules
+T8	AminoAcidPeptideOrProtein 836 845	proteases
+T9	AminoAcidPeptideOrProtein 920 924	MMPs
+T10	BiologicallyActiveSubstance 920 924	MMPs
+T11	Cell 1060 1083	neural progenitor cells
+T12	AminoAcidPeptideOrProtein 1159 1163	MMPs
+T13	BiologicallyActiveSubstance 1159 1163	MMPs
+T14	AminoAcidPeptideOrProtein 1257 1261	MMPs
+T15	BiologicallyActiveSubstance 1257 1261	MMPs
+T16	AminoAcidPeptideOrProtein 1562 1566	MMPs
+T17	BiologicallyActiveSubstance 1562 1566	MMPs
+T18	AminoAcidPeptideOrProtein 1640 1644	MMPs
+T19	BiologicallyActiveSubstance 1640 1644	MMPs
+T20	TemporalConcept 1843 1853	life cycle
+T21	BiologicFunction 1843 1853	life cycle
+T22	BiologicFunction 1048 1056	behavior
+T23	BiologicFunction 1784 1792	behavior
+T24	IndividualBehavior 1048 1056	behavior
+T25	IndividualBehavior 1784 1792	behavior
+T26	ResearchActivity 1048 1056	behavior
+T27	ResearchActivity 1784 1792	behavior
+T28	CellComponent 302 307	axons
+T29	CellComponent 515 520	axons
+T30	Substance 825 834	molecules
+T31	Cell 293 301	neuronal
+T32	BiologicFunction 799 805	growth
+T33	Cell 469 485	oligodendrocytes
+T34	Cell 1101 1117	oligodendrocytes
+T35	Cell 1291 1307	oligodendrocytes
+T36	AminoAcidPeptideOrProtein 642 660	metalloproteinases
+T37	BiologicallyActiveSubstance 642 660	metalloproteinases
+T38	NaturalPhenomenonOrProcess 907 918	degradation
+T39	CellFunction 1509 1522	remyelination
+T40	CellFunction 1570 1583	remyelination
+T41	Cell 147 151	OPCs
+T42	Cell 380 384	OPCs
+T43	Cell 1092 1096	OPCs
+T44	Cell 1271 1275	OPCs
+T45	Cell 537 540	OPC
+T46	Cell 259 282	mature oligodendrocytes
+T47	BodyPartOrganOrOrganComponent 210 221	spinal cord
+T48	Cell 1085 1089	NPCs
+T49	Cell 1265 1269	NPCs
+T50	CellFunction 1171 1182	myelination
+T51	CellFunction 1402 1413	myelination
+T52	CellComponent 365 378	myelin sheath
+T53	InjuryOrPoisoning 984 1004	demyelinating injury
+T54	Cell 4 32	oligodendrocyte lineage cell
+T55	Cell 1655 1670	oligodendrocyte
+T56	Cell 1796 1825	oligodendrocyte lineage cells
+T57	CellFunction 815 824	signaling
+T58	Cell 113 145	oligodendrocyte progenitor cells
+T59	CellOrMolecularDysfunction 1570 1591	remyelination failure
+T60	BiologicFunction 957 974	brain development
+T61	CellFunction 491 502	remyelinate
+T62	CellFunction 240 253	differentiate
+T63	BiologicFunction 1388 1401	developmental
+T64	TemporalConcept 1388 1401	developmental
+T65	PathologicFunction 984 997	demyelinating
+T66	BiologicFunction 54 68	brain function
+T67	BiologicallyActiveSubstance 695 702	enzymes
+T68	ResearchActivity 1127 1133	review
+T69	ResearchActivity 1432 1438	review
+T70	HealthCareActivity 1127 1133	review
+T71	HealthCareActivity 1432 1438	review
+T72	Finding 1539 1547	evidence
+T73	AminoAcidPeptideOrProtein 749 757	proteins
+T74	AminoAcidPeptideOrProtein 856 874	precursor proteins
+T75	BodyPartOrganOrOrganComponent 200 205	brain
+T76	BodyPartOrganOrOrganComponent 1209 1225	developing brain
+T77	DiseaseOrSyndrome 1605 1623	multiple sclerosis
+T78	PathologicFunction 1463 1476	demyelination
+T79	PathologicFunction 1712 1725	demyelination
+T80	CellComponent 325 337	myelin layer
+T81	CellFunction 556 571	differentiation
+T82	BiologicFunction 963 974	development
+T83	BiologicFunction 1691 1702	development
+T84	CellFunction 963 974	development
+T85	CellFunction 1691 1702	development
+T86	BodyPartOrganOrOrganComponent 77 99	central nervous system
+T88	TemporalConcept 1843 1847	life
+T89	BiologicallyActiveSubstance 635 660	Matrix metalloproteinases
+T90	BiologicallyActiveSubstance 775 797	cell surface receptors
+T91	BiologicallyActiveSubstance 836 845	proteases
+T92	AminoAcidPeptideOrProtein 775 797	cell surface receptors
+T93	CellFunction 1350 1383	oligodendrocyte process extension

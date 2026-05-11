@@ -1,0 +1,107 @@
+T0	CellFunction 92 117	adaptive immune responses
+T1	BiologicFunction 92 117	adaptive immune responses
+T2	Finding 206 227	insufficient capacity
+T3	BiologicFunction 396 406	metabolism
+T4	CellFunction 396 406	metabolism
+T5	TemporalConcept 594 603	remitting
+T6	Finding 864 867	low
+T7	HealthCareActivity 901 911	assessment
+T8	ResearchActivity 901 911	assessment
+T9	GeneOrGenome 1341 1344	OBs
+T10	ClinicalAttribute 1486 1504	plasma cholesterol
+T11	Finding 1582 1585	low
+T12	BiologicFunction 1740 1763	humoral immune response
+T13	CellFunction 1740 1763	humoral immune response
+T14	Chemical 0 11	Cholesterol
+T15	Chemical 980 991	Cholesterol
+T16	BodyPartOrganOrOrganComponent 0 11	Cholesterol
+T17	BodyPartOrganOrOrganComponent 980 991	Cholesterol
+T18	TemporalConcept 1696 1710	disease course
+T19	Chemical 288 299	cholesterol
+T20	Chemical 508 519	cholesterol
+T21	Chemical 718 729	cholesterol
+T22	Chemical 1270 1281	cholesterol
+T23	Chemical 1386 1397	cholesterol
+T24	Chemical 1413 1424	cholesterol
+T25	Chemical 1493 1504	cholesterol
+T26	Chemical 1525 1536	cholesterol
+T27	Chemical 1590 1601	cholesterol
+T28	ResearchActivity 1054 1085	enzymatic - colorimetric method
+T29	BiologicallyActiveSubstance 288 299	cholesterol
+T30	BiologicallyActiveSubstance 508 519	cholesterol
+T31	BiologicallyActiveSubstance 718 729	cholesterol
+T32	BiologicallyActiveSubstance 1270 1281	cholesterol
+T33	BiologicallyActiveSubstance 1386 1397	cholesterol
+T34	BiologicallyActiveSubstance 1413 1424	cholesterol
+T35	BiologicallyActiveSubstance 1493 1504	cholesterol
+T36	BiologicallyActiveSubstance 1525 1536	cholesterol
+T37	BiologicallyActiveSubstance 1590 1601	cholesterol
+T38	ClinicalAttribute 741 764	disease characteristics
+T39	BodyPartOrganOrOrganComponent 530 536	plasma
+T40	BodyPartOrganOrOrganComponent 1024 1030	plasma
+T41	BodyPartOrganOrOrganComponent 1255 1261	plasma
+T42	BodyPartOrganOrOrganComponent 1406 1412	plasma
+T43	BodyPartOrganOrOrganComponent 1486 1492	plasma
+T44	BodyPartOrganOrOrganComponent 562 565	CSF
+T45	BodyPartOrganOrOrganComponent 1038 1041	CSF
+T46	BodyPartOrganOrOrganComponent 1215 1218	CSF
+T47	BodyPartOrganOrOrganComponent 1266 1269	CSF
+T48	BodyPartOrganOrOrganComponent 1382 1385	CSF
+T49	BodyPartOrganOrOrganComponent 1521 1524	CSF
+T50	BodyPartOrganOrOrganComponent 1586 1589	CSF
+T51	TemporalConcept 584 593	relapsing
+T52	HealthCareActivity 1124 1140	disease activity
+T53	DiseaseOrSyndrome 608 612	RRMS
+T54	DiseaseOrSyndrome 814 818	RRMS
+T55	PopulationGroup 970 978	controls
+T56	PopulationGroup 1317 1325	controls
+T57	DiseaseOrSyndrome 622 650	clinically isolated syndrome
+T58	DiseaseOrSyndrome 652 655	CIS
+T59	DiseaseOrSyndrome 789 792	CIS
+T60	HealthCareActivity 1144 1170	magnetic resonance imaging
+T61	PatientOrDisabledGroup 1327 1335	Patients
+T62	HealthCareActivity 868 872	EDSS
+T63	HealthCareActivity 1542 1546	EDSS
+T64	Cell 231 262	oligodendrocyte precursor cells
+T65	CellFunction 266 279	differentiate
+T66	DiseaseOrSyndrome 166 184	multiple sclerosis
+T67	Finding 1181 1189	presence
+T68	CellFunction 149 162	remyelination
+T69	PathologicFunction 451 462	progression
+T70	TemporalConcept 451 462	progression
+T71	PatientOrDisabledGroup 570 578	patients
+T72	PatientOrDisabledGroup 775 783	patients
+T73	PatientOrDisabledGroup 800 808	patients
+T74	PatientOrDisabledGroup 851 859	patients
+T75	PatientOrDisabledGroup 1296 1304	patients
+T76	PatientOrDisabledGroup 1450 1458	patients
+T77	PatientOrDisabledGroup 1608 1616	patients
+T78	DiseaseOrSyndrome 186 188	MS
+T79	DiseaseOrSyndrome 584 606	relapsing remitting MS
+T80	DiseaseOrSyndrome 1605 1607	MS
+T81	PathologicFunction 412 425	demyelination
+T82	PathologicFunction 443 462	disease progression
+T83	Chemical 374 379	lipid
+T84	ResearchActivity 323 330	studies
+T85	OrganismAttribute 950 953	age
+T86	OrganismAttribute 1510 1513	age
+T87	Finding 427 437	disability
+T88	PopulationGroup 925 933	subjects
+T89	ResearchActivity 487 492	study
+T90	ResearchActivity 840 845	study
+T91	BodyPartOrganOrOrganComponent 541 560	cerebrospinal fluid
+T92	CellFunction 29 45	myelin formation
+T93	CellComponent 1772 1791	membrane components
+T94	HealthCareActivity 1172 1175	MRI
+T95	ClinicalAttribute 1406 1424	plasma cholesterol
+T96	ClinicalAttribute 1382 1397	CSF cholesterol
+T97	ClinicalAttribute 1521 1536	CSF cholesterol
+T98	Finding 1462 1482	positive correlation
+T99	ClinicalAttribute 1586 1601	CSF cholesterol
+T100	CellOrMolecularDysfunction 141 162	lack of remyelination
+T101	Finding 300 313	insufficiency
+T102	ResearchActivity 374 387	lipid profile
+T103	ClinicalAttribute 508 536	cholesterol levels in plasma
+T104	HealthCareActivity 882 892	medication
+T105	ClinicalAttribute 1107 1122	clinical status
+T106	ResearchActivity 1193 1211	oli-goclonal bands

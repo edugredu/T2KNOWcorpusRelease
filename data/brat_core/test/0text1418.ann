@@ -1,0 +1,52 @@
+T0	ResearchActivity 270 293	hierarchical clustering
+T1	ResearchActivity 437 452	mutation status
+T2	CellOrMolecularDysfunction 437 452	mutation status
+T4	ClinicalAttribute 499 509	Biomarkers
+T5	HealthCareActivity 552 564	neuroimaging
+T6	AminoAcidPeptideOrProtein 586 593	amyloid
+T7	AminoAcidPeptideOrProtein 802 809	amyloid
+T8	BiologicallyActiveSubstance 802 809	amyloid
+T9	ResearchActivity 856 871	mutation status
+T10	CellOrMolecularDysfunction 856 871	mutation status
+T11	TemporalConcept 1089 1096	staging
+T12	ResearchActivity 49 54	study
+T13	PathologicFunction 1128 1139	progression
+T14	TemporalConcept 1128 1139	progression
+T15	CellOrMolecularDysfunction 437 445	mutation
+T16	CellOrMolecularDysfunction 856 864	mutation
+T17	CellOrMolecularDysfunction 716 733	neurodegeneration
+T18	AminoAcidPeptideOrProtein 599 602	tau
+T19	AminoAcidPeptideOrProtein 743 746	tau
+T20	AminoAcidPeptideOrProtein 814 817	tau
+T21	DiseaseOrSyndrome 55 74	Alzheimer's disease
+T22	ClinicalAttribute 30 40	biomarkers
+T23	ClinicalAttribute 322 332	biomarkers
+T24	ClinicalAttribute 388 398	biomarkers
+T25	ClinicalAttribute 617 627	biomarkers
+T26	ClinicalAttribute 761 771	biomarkers
+T27	ClinicalAttribute 890 900	biomarkers
+T28	ClinicalAttribute 1070 1080	biomarkers
+T29	ClinicalAttribute 1100 1110	biomarkers
+T30	TemporalConcept 457 491	estimated years from symptom onset
+T31	PathologicFunction 1120 1139	disease progression
+T32	BodyPartOrganOrOrganComponent 566 585	cerebrospinal fluid
+T33	DiseaseOrSyndrome 76 78	AD
+T34	DiseaseOrSyndrome 336 357	autosomal dominant AD
+T35	CellFunction 631 649	neuronal integrity
+T36	CellFunction 904 922	neuronal integrity
+T38	PathologicFunction 654 666	inflammation
+T39	PathologicFunction 927 939	inflammation
+T40	Finding 423 433	predictors
+T41	Finding 842 852	predictors
+T42	Finding 956 971	weak predictors
+T43	ClinicalAttribute 158 167	biomarker
+T44	ClinicalAttribute 210 219	biomarker
+T45	HealthCareActivity 530 550	clinical assessments
+T46	AminoAcidPeptideOrProtein 735 742	amyloid
+T47	BiologicallyActiveSubstance 586 593	amyloid
+T48	BiologicallyActiveSubstance 599 602	tau
+T49	BiologicallyActiveSubstance 814 817	tau
+T50	BiologicallyActiveSubstance 735 742	amyloid
+T51	BiologicallyActiveSubstance 743 746	tau
+T3	TemporalConcept 493 496	EYO
+T37	TemporalConcept 876 879	EYO

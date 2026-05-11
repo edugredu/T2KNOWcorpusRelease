@@ -1,0 +1,5 @@
+T0	DiseaseOrSyndrome 41 68	neurodegenerative disorders
+T1	Finding 80 92	accumulation
+T2	AnatomicalAbnormality 0 22	Brain stem compression
+T3	CellOrMolecularDysfunction 96 121	abnormal protein deposits
+T4	PathologicFunction 131 151	pathological changes

@@ -1,0 +1,11 @@
+T0	BodyPartOrganOrOrganComponent 131 136	brain
+T1	Eukaryote 125 130	human
+T2	HealthCareActivity 137 143	health
+T3	Finding 52 64	accumulation
+T4	Chemical 20 25	water
+T5	InjuryOrPoisoning 8 35	exposure to water pollution
+T6	Substance 79 89	substances
+T7	EnvironmentalEffectOfHumans 20 35	water pollution
+T8	InjuryOrPoisoning 68 89	neurotoxic substances
+T9	TemporalConcept 0 7	Chronic
+T10	NaturalPhenomenonOrProcess 97 107	food chain

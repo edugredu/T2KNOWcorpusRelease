@@ -1,0 +1,57 @@
+T0	NucleicAcidNucleosideOrNucleotide 102 122	trinucleotide repeat
+T1	CellOrMolecularDysfunction 102 132	trinucleotide repeat expansion
+T2	Cell 216 238	peripheral blood cells
+T3	HealthCareActivity 290 297	monitor
+T4	ManufacturedObject 290 297	monitor
+T5	ResearchActivity 481 503	transcriptome analysis
+T6	ResearchActivity 507 533	next-generation sequencing
+T7	ResearchActivity 535 542	RNA-seq
+T8	Finding 601 614	dysregulation
+T9	BiologicFunction 618 642	immune-related functions
+T10	PathologicFunction 647 668	inflammatory response
+T11	BodyPartOrganOrOrganComponent 672 688	peripheral blood
+T12	GeneOrGenome 744 769	interferon response genes
+T13	GeneOrGenome 771 777	IFITM3
+T14	GeneOrGenome 779 783	IFI6
+T15	GeneOrGenome 788 792	IRF7
+T16	BiologicallyActiveSubstance 788 792	IRF7
+T17	AminoAcidPeptideOrProtein 788 792	IRF7
+T18	BodyPartOrganOrOrganComponent 871 884	blood samples
+T19	DiseaseOrSyndrome 933 949	immune pathology
+T20	CellComponent 32 41	autosomal
+T21	DiseaseOrSyndrome 53 89	inherited neurodegenerative disorder
+T22	CellFunction 350 365	gene expression
+T23	CellFunction 559 574	gene expression
+T24	CellFunction 844 859	gene expression
+T25	MolecularSequence 481 494	transcriptome
+T26	GeneOrGenome 140 155	Huntingtin gene
+T27	PatientOrDisabledGroup 694 702	HD cases
+T28	ResearchActivity 575 584	signature
+T29	BodyPartOrganOrOrganComponent 216 232	peripheral blood
+T30	BodyPartOrganOrOrganComponent 394 399	blood
+T31	BodyPartOrganOrOrganComponent 683 688	blood
+T32	ClinicalAttribute 298 316	treatment response
+T33	PathologicFunction 263 282	disease progression
+T34	HealthCareActivity 160 187	disease-modifying therapies
+T35	HealthCareActivity 298 307	treatment
+T36	ResearchActivity 298 307	treatment
+T37	PopulationGroup 403 414	individuals
+T38	PopulationGroup 890 901	individuals
+T39	PathologicFunction 271 282	progression
+T40	TemporalConcept 271 282	progression
+T41	OrganismAttribute 450 457	healthy
+T42	ResearchActivity 495 503	analysis
+T43	PopulationGroup 450 466	healthy controls
+T44	DiseaseOrSyndrome 0 20	Huntington's disease
+T45	DiseaseOrSyndrome 22 24	HD
+T46	DiseaseOrSyndrome 192 194	HD
+T47	DiseaseOrSyndrome 420 422	HD
+T48	DiseaseOrSyndrome 907 909	HD
+T49	PopulationGroup 707 715	controls
+T50	DiseaseOrSyndrome 63 89	neurodegenerative disorder
+T51	Finding 366 373	changes
+T52	AminoAcidPeptideOrProtein 771 777	IFITM3
+T53	AminoAcidPeptideOrProtein 779 783	IFI6
+T54	BiologicallyActiveSubstance 779 783	IFI6
+T55	BiologicallyActiveSubstance 771 777	IFITM3
+T56	Finding 860 867	changes

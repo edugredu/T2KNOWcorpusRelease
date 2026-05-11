@@ -1,0 +1,8 @@
+T0	Finding 49 53	risk
+T1	Virus 0 10	SARS-CoV-2
+T2	DiseaseOrSyndrome 57 65	COVID-19
+T3	AminoAcidPeptideOrProtein 11 19	vaccines
+T4	BiologicallyActiveSubstance 11 19	vaccines
+T5	PharmacologicSubstance 11 19	vaccines
+T6	PathologicFunction 77 98	neurological sequelae
+T7	PathologicFunction 113 139	neurodegenerative outcomes

@@ -1,0 +1,221 @@
+T0	AminoAcidPeptideOrProtein 683 690	isoform
+T1	Finding 1583 1594	independent
+T2	BodyPartOrganOrOrganComponent 2034 2048	frontotemporal
+T3	DiseaseOrSyndrome 2081 2103	parkinsonian disorders
+T4	TemporalConcept 1614 1625	concomitant
+T5	CellFunction 611 616	binds
+T6	BodyPartOrganOrOrganComponent 3084 3087	CNS
+T7	AminoAcidPeptideOrProtein 299 318	neurofilament light
+T8	AminoAcidPeptideOrProtein 1499 1518	neurofilament light
+T9	AminoAcidPeptideOrProtein 1702 1721	neurofilament light
+T10	AminoAcidPeptideOrProtein 2196 2215	neurofilament light
+T11	AminoAcidPeptideOrProtein 2511 2530	neurofilament light
+T12	BiologicallyActiveSubstance 299 318	neurofilament light
+T13	BiologicallyActiveSubstance 1499 1518	neurofilament light
+T14	BiologicallyActiveSubstance 1702 1721	neurofilament light
+T15	BiologicallyActiveSubstance 2196 2215	neurofilament light
+T16	BiologicallyActiveSubstance 2511 2530	neurofilament light
+T17	AminoAcidPeptideOrProtein 576 593	anti-tau antibody
+T18	AminoAcidPeptideOrProtein 708 716	antibody
+T19	PharmacologicSubstance 576 593	anti-tau antibody
+T20	PharmacologicSubstance 708 716	antibody
+T21	BiologicallyActiveSubstance 576 593	anti-tau antibody
+T22	BiologicallyActiveSubstance 708 716	antibody
+T23	PathologicFunction 2055 2067	degeneration
+T24	HealthCareActivity 549 558	challenge
+T25	Finding 514 521	sources
+T26	TemporalConcept 420 426	Recent
+T27	ManufacturedObject 2837 2843	tracks
+T28	BodyPartOrganOrOrganComponent 2416 2421	Brain
+T29	CellFunction 44 58	phosphorylated
+T30	IndividualBehavior 1565 1577	performances
+T31	DiseaseOrSyndrome 2744 2771	neurodegenerative processes
+T32	BodyPartOrganOrOrganComponent 1639 1645	Plasma
+T33	DiseaseOrSyndrome 1995 2022	neurodegenerative disorders
+T34	BodyPartOrganOrOrganComponent 0 5	Blood
+T35	BodyPartOrganOrOrganComponent 1111 1116	Blood
+T36	DiseaseOrSyndrome 1435 1461	neurodegenerative diseases
+T37	DiseaseOrSyndrome 2265 2291	neurodegenerative diseases
+T38	AnatomicalAbnormality 1793 1807	amyloid plaque
+T39	DiseaseOrSyndrome 1626 1637	pathologies
+T40	ResearchActivity 2981 3000	clinical validation
+T41	HealthCareActivity 143 155	neuroimaging
+T42	DiseaseOrSyndrome 2918 2927	dementias
+T43	BodyPartOrganOrOrganComponent 958 963	serum
+T44	BodyPartOrganOrOrganComponent 1052 1057	serum
+T45	BodyPartOrganOrOrganComponent 1914 1919	serum
+T46	BodyPartOrganOrOrganComponent 2156 2161	serum
+T47	BodyPartOrganOrOrganComponent 2316 2321	serum
+T48	CellComponent 1812 1827	neurofibrillary
+T49	AminoAcidPeptideOrProtein 59 62	tau
+T50	AminoAcidPeptideOrProtein 182 185	tau
+T51	AminoAcidPeptideOrProtein 370 373	tau
+T52	AminoAcidPeptideOrProtein 415 418	tau
+T53	AminoAcidPeptideOrProtein 460 463	tau
+T54	AminoAcidPeptideOrProtein 631 634	tau
+T55	AminoAcidPeptideOrProtein 678 681	tau
+T56	AminoAcidPeptideOrProtein 782 785	tau
+T57	AminoAcidPeptideOrProtein 986 989	tau
+T58	AminoAcidPeptideOrProtein 1072 1075	tau
+T59	AminoAcidPeptideOrProtein 1137 1140	tau
+T60	AminoAcidPeptideOrProtein 1195 1198	tau
+T61	AminoAcidPeptideOrProtein 1221 1224	tau
+T62	AminoAcidPeptideOrProtein 1357 1360	tau
+T63	AminoAcidPeptideOrProtein 1660 1663	tau
+T64	AminoAcidPeptideOrProtein 1934 1937	tau
+T65	AminoAcidPeptideOrProtein 2176 2179	tau
+T66	AminoAcidPeptideOrProtein 2336 2339	tau
+T67	AminoAcidPeptideOrProtein 2430 2433	tau
+T68	AminoAcidPeptideOrProtein 2495 2498	tau
+T69	AminoAcidPeptideOrProtein 2617 2620	tau
+T70	AminoAcidPeptideOrProtein 3025 3028	tau
+T71	AminoAcidPeptideOrProtein 3048 3051	tau
+T72	AminoAcidPeptideOrProtein 3088 3091	tau
+T73	DiseaseOrSyndrome 228 247	Alzheimer's disease
+T74	DiseaseOrSyndrome 338 357	Alzheimer's disease
+T75	DiseaseOrSyndrome 1256 1275	Alzheimer's disease
+T76	DiseaseOrSyndrome 1404 1423	Alzheimer's disease
+T77	DiseaseOrSyndrome 1953 1972	Alzheimer's disease
+T78	DiseaseOrSyndrome 2224 2243	Alzheimer's disease
+T79	DiseaseOrSyndrome 2553 2572	Alzheimer's disease
+T80	DiseaseOrSyndrome 2714 2733	Alzheimer's disease
+T81	DiseaseOrSyndrome 2865 2884	Alzheimer's disease
+T82	BodyPartOrganOrOrganComponent 135 138	CSF
+T83	BodyPartOrganOrOrganComponent 405 408	CSF
+T84	BodyPartOrganOrOrganComponent 879 882	CSF
+T85	BodyPartOrganOrOrganComponent 968 971	CSF
+T86	BodyPartOrganOrOrganComponent 1062 1065	CSF
+T87	BodyPartOrganOrOrganComponent 1185 1188	CSF
+T88	BodyPartOrganOrOrganComponent 1203 1206	CSF
+T89	BodyPartOrganOrOrganComponent 2360 2363	CSF
+T90	BiologicallyActiveSubstance 59 62	tau
+T91	BiologicallyActiveSubstance 182 185	tau
+T92	BiologicallyActiveSubstance 370 373	tau
+T93	BiologicallyActiveSubstance 415 418	tau
+T94	BiologicallyActiveSubstance 460 463	tau
+T95	BiologicallyActiveSubstance 631 634	tau
+T96	BiologicallyActiveSubstance 678 681	tau
+T97	BiologicallyActiveSubstance 782 785	tau
+T98	BiologicallyActiveSubstance 986 989	tau
+T99	BiologicallyActiveSubstance 1072 1075	tau
+T100	BiologicallyActiveSubstance 1137 1140	tau
+T101	BiologicallyActiveSubstance 1195 1198	tau
+T102	BiologicallyActiveSubstance 1221 1224	tau
+T103	BiologicallyActiveSubstance 1357 1360	tau
+T104	BiologicallyActiveSubstance 1660 1663	tau
+T105	BiologicallyActiveSubstance 1934 1937	tau
+T106	BiologicallyActiveSubstance 2176 2179	tau
+T107	BiologicallyActiveSubstance 2336 2339	tau
+T108	BiologicallyActiveSubstance 2430 2433	tau
+T109	BiologicallyActiveSubstance 2495 2498	tau
+T110	BiologicallyActiveSubstance 2617 2620	tau
+T111	BiologicallyActiveSubstance 3025 3028	tau
+T112	BiologicallyActiveSubstance 3048 3051	tau
+T113	BiologicallyActiveSubstance 3088 3091	tau
+T114	ClinicalAttribute 883 892	biomarker
+T115	ClinicalAttribute 1237 1246	biomarker
+T116	ClinicalAttribute 1294 1303	biomarker
+T117	ClinicalAttribute 2455 2464	biomarker
+T118	ClinicalAttribute 2822 2831	biomarker
+T119	PopulationGroup 1313 1321	controls
+T120	AminoAcidPeptideOrProtein 44 62	phosphorylated tau
+T121	BiologicallyActiveSubstance 44 62	phosphorylated tau
+T122	ResearchActivity 1463 1483	area under the curve
+T123	ResearchActivity 1528 1548	area under the curve
+T124	ResearchActivity 2105 2125	area under the curve
+T125	PopulationGroup 824 831	cohorts
+T126	PopulationGroup 904 911	cohorts
+T127	PopulationGroup 930 937	cohorts
+T128	PopulationGroup 1900 1907	cohorts
+T129	PopulationGroup 2300 2307	cohorts
+T130	CellFunction 663 672	expressed
+T131	BodyPartOrganOrOrganComponent 508 513	brain
+T132	BodyPartOrganOrOrganComponent 617 622	brain
+T133	BodyPartOrganOrOrganComponent 768 773	brain
+T134	BodyPartOrganOrOrganComponent 972 977	brain
+T135	BodyPartOrganOrOrganComponent 1123 1128	brain
+T136	BodyPartOrganOrOrganComponent 1207 1212	brain
+T137	BodyPartOrganOrOrganComponent 1343 1348	brain
+T138	BodyPartOrganOrOrganComponent 1646 1651	brain
+T139	BodyPartOrganOrOrganComponent 1920 1925	brain
+T140	BodyPartOrganOrOrganComponent 2162 2167	brain
+T141	BodyPartOrganOrOrganComponent 2322 2327	brain
+T142	BodyPartOrganOrOrganComponent 2603 2608	brain
+T143	BodyPartOrganOrOrganComponent 3011 3016	brain
+T144	PopulationGroup 1276 1288	participants
+T145	ResearchActivity 2789 2797	research
+T146	ResearchActivity 427 434	studies
+T147	AminoAcidPeptideOrProtein 27 34	amyloid
+T148	AminoAcidPeptideOrProtein 174 181	amyloid
+T149	BiologicallyActiveSubstance 27 34	amyloid
+T150	BiologicallyActiveSubstance 174 181	amyloid
+T151	ClinicalAttribute 12 22	biomarkers
+T152	ClinicalAttribute 156 166	biomarkers
+T153	ClinicalAttribute 2375 2391	AT(N) biomarkers
+T154	Finding 2072 2080	atypical
+T155	Finding 2538 2549	specificity
+T156	ClinicalAttribute 292 298	marker
+T157	ResearchActivity 2967 2976	discovery
+T158	BodyPartOrganOrOrganComponent 1336 1342	plasma
+T159	BodyPartOrganOrOrganComponent 2149 2155	plasma
+T160	BodyPartOrganOrOrganComponent 2309 2315	plasma
+T161	BodyPartOrganOrOrganComponent 2368 2374	plasma
+T162	BodyPartOrganOrOrganComponent 2482 2488	plasma
+T163	BodyPartOrganOrOrganComponent 3004 3010	plasma
+T164	BodyPartOrganOrOrganComponent 262 267	blood
+T165	BodyPartOrganOrOrganComponent 448 453	blood
+T166	BodyPartOrganOrOrganComponent 746 751	blood
+T167	BodyPartOrganOrOrganComponent 854 859	blood
+T168	BodyPartOrganOrOrganComponent 2443 2448	blood
+T169	BodyPartOrganOrOrganComponent 2676 2681	blood
+T170	BodyPartOrganOrOrganComponent 2810 2815	blood
+T171	BodyPartOrganOrOrganComponent 3095 3100	blood
+T172	Finding 1602 1610	presence
+T173	Finding 1159 1181	diagnostic performance
+T174	HealthCareActivity 2956 2962	report
+T175	ResearchActivity 2956 2962	report
+T176	AminoAcidPeptideOrProtein 364 373	total-tau
+T177	AminoAcidPeptideOrProtein 409 418	total-tau
+T178	AminoAcidPeptideOrProtein 454 463	total-tau
+T179	AminoAcidPeptideOrProtein 1066 1075	total-tau
+T180	AminoAcidPeptideOrProtein 1189 1198	total-tau
+T181	AminoAcidPeptideOrProtein 2489 2498	total-tau
+T182	AminoAcidPeptideOrProtein 3042 3051	total-tau
+T183	BiologicallyActiveSubstance 364 373	total-tau
+T184	BiologicallyActiveSubstance 409 418	total-tau
+T185	BiologicallyActiveSubstance 454 463	total-tau
+T186	BiologicallyActiveSubstance 1066 1075	total-tau
+T187	BiologicallyActiveSubstance 1189 1198	total-tau
+T188	BiologicallyActiveSubstance 2489 2498	total-tau
+T189	BiologicallyActiveSubstance 3042 3051	total-tau
+T190	CellOrMolecularDysfunction 186 203	neurodegeneration
+T191	CellOrMolecularDysfunction 274 291	neurodegeneration
+T192	CellOrMolecularDysfunction 2578 2595	neurodegeneration
+T193	CellOrMolecularDysfunction 2844 2861	neurodegeneration
+T194	AminoAcidPeptideOrProtein 27 39	amyloid beta
+T195	PopulationGroup 871 877	cohort
+T196	BiologicFunction 2396 2414	cognitive function
+T197	BiologicFunction 916 922	memory
+T198	BiologicFunction 1886 1892	memory
+T199	BodyPartOrganOrOrganComponent 492 502	peripheral
+T200	ClinicalAttribute 204 223	[A/T/(N)] framework
+T201	Finding 73 94	diagnostic accuracies
+T202	ClinicalAttribute 405 418	CSF total-tau
+T203	ClinicalAttribute 448 463	blood total-tau
+T204	ResearchActivity 746 763	blood-based assay
+T205	HealthCareActivity 863 870	autopsy
+T206	HealthCareRelatedOrganization 916 929	memory clinic
+T207	Substance 949 956	samples
+T208	BodyPartOrganOrOrganComponent 949 956	samples
+T209	ClinicalAttribute 1062 1075	CSF total-tau
+T210	ClinicalAttribute 1052 1057;1066 1075	serum total-tau
+T211	ClinicalAttribute 1185 1198	CSF total-tau
+T212	ClinicalAttribute 1336 1360	plasma brain-derived tau
+T213	HealthCareActivity 1386 1393	autopsy
+T214	ClinicalAttribute 1639 1663	Plasma brain-derived tau
+T215	CellOrMolecularDysfunction 1812 1834	neurofibrillary tangle
+T216	ClinicalAttribute 1914 1937	serum brain-derived tau
+T217	ClinicalAttribute 2482 2498	plasma total-tau
+T218	ClinicalAttribute 3004 3028	plasma brain-derived tau
+T219	ClinicalAttribute 968 989	CSF brain-derived tau
+T220	ClinicalAttribute 1203 1224	CSF brain-derived tau

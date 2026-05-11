@@ -1,0 +1,69 @@
+T0	Finding 259 267	marginal
+T1	PharmacologicSubstance 336 344	Blockers
+T2	HealthCareActivity 502 507	steps
+T3	PharmacologicSubstance 520 528	blockers
+T4	CellComponent 985 999	cell cytoplasm
+T5	CellFunction 1334 1343	signaling
+T6	CellFunction 1334 1352	signaling cascades
+T7	InjuryOrPoisoning 632 639	lesions
+T8	CellComponent 645 667	extracellular vesicles
+T9	DiseaseOrSyndrome 453 472	Alzheimer's disease
+T10	DiseaseOrSyndrome 499 501	AD
+T11	PatientOrDisabledGroup 93 101	patients
+T12	ResearchActivity 9 18	discovery
+T13	BiologicFunction 546 557	development
+T14	BiologicFunction 1613 1624	development
+T15	CellFunction 546 557	development
+T16	CellFunction 1613 1624	development
+T17	NucleicAcidNucleosideOrNucleotide 953 959	miRNAs
+T18	BiologicallyActiveSubstance 953 959	miRNAs
+T19	Cell 793 798	cells
+T20	Cell 1137 1142	cells
+T21	Finding 1208 1220	accumulation
+T22	Cell 389 400	glial cells
+T23	OrganismAttribute 1107 1120	heterogeneity
+T24	Finding 1162 1173	specificity
+T25	Cell 1516 1520	cell
+T26	TemporalConcept 159 164	first
+T27	CellFunction 910 915	cargo
+T28	DiseaseOrSyndrome 20 31	Alzheimer's
+T29	Finding 596 602	effect
+T30	DiseaseOrSyndrome 493 501	early AD
+T31	AminoAcidPeptideOrProtein 935 943	proteins
+T32	Finding 593 602	no effect
+T33	CellFunction 821 827	fusion
+T34	AminoAcidPeptideOrProtein 422 428	A beta
+T35	Cell 377 384	neurons
+T36	Finding 402 418	decreased levels
+T37	PharmacologicSubstance 165 170	drugs
+T38	HealthCareActivity 146 153	therapy
+T39	HealthCareActivity 710 717	therapy
+T40	Cell 831 843	target cells
+T41	Cell 1521 1533	target cells
+T42	CellComponent 865 873	vesicles
+T43	CellComponent 1022 1030	vesicles
+T44	DiseaseOrSyndrome 37 62	neurodegenerative disease
+T45	TemporalConcept 1649 1655	future
+T46	Substance 916 925	molecules
+T47	Substance 1303 1312	molecules
+T48	BiologicFunction 1273 1287	concentrations
+T49	TemporalConcept 1444 1450	recent
+T50	Cell 692 702	stem cells
+T51	Finding 230 237	effects
+T52	Finding 284 291	effects
+T53	Finding 718 725	effects
+T54	Finding 767 774	effects
+T55	PharmacologicSubstance 1203 1207	drug
+T56	AminoAcidPeptideOrProtein 438 445	peptide
+T57	Cell 680 702	mesenchymal stem cells
+T58	Cell 1511 1520	stem cell
+T59	BiologicallyActiveSubstance 352 358	enzyme
+T60	BiologicallyActiveSubstance 359 365	BACE-1
+T61	BiologicallyActiveSubstance 513 519	BACE-1
+T62	GeneOrGenome 359 365	BACE-1
+T63	GeneOrGenome 513 519	BACE-1
+T64	AminoAcidPeptideOrProtein 359 365	BACE-1
+T65	AminoAcidPeptideOrProtein 513 519	BACE-1
+T66	ResearchActivity 1187 1198	engineering
+T67	PopulationGroup 109 114	world
+T68	CellFunction 899 925	release of cargo molecules

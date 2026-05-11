@@ -1,0 +1,89 @@
+T0	HealthCareActivity 9 43	mindfulness-based stress reduction
+T1	HealthCareActivity 45 49	MBSR
+T2	HealthCareActivity 256 260	MBSR
+T3	PopulationGroup 307 315	Japanese
+T4	HealthCareActivity 641 645	MBSR
+T5	BiologicallyActiveSubstance 721 750	DNA methyltransferase 3 alpha
+T6	AminoAcidPeptideOrProtein 721 750	DNA methyltransferase 3 alpha
+T7	GeneOrGenome 752 758	DNMT3A
+T8	BiologicallyActiveSubstance 752 758	DNMT3A
+T9	AminoAcidPeptideOrProtein 752 758	DNMT3A
+T10	GeneOrGenome 765 771	DNMT3B
+T11	AminoAcidPeptideOrProtein 765 771	DNMT3B
+T12	HealthCareActivity 810 814	MBSR
+T13	GeneOrGenome 919 925	DNMT3A
+T14	CellOrMolecularDysfunction 919 925	DNMT3A
+T15	AminoAcidPeptideOrProtein 919 925	DNMT3A
+T16	GeneOrGenome 938 944	DNMT3B
+T17	AminoAcidPeptideOrProtein 938 944	DNMT3B
+T18	CellFunction 1128 1143	down-regulating
+T19	GeneOrGenome 1144 1150	Dnmt3a
+T20	AminoAcidPeptideOrProtein 1144 1150	Dnmt3a
+T21	GeneOrGenome 1155 1161	Dnmt3b
+T22	AminoAcidPeptideOrProtein 1155 1161	Dnmt3b
+T23	HealthCareActivity 1214 1218	MBSR
+T24	Finding 890 900	decreasing
+T25	HealthCareActivity 331 360	Montreal Cognitive Assessment
+T26	HealthCareActivity 362 366	MoCA
+T27	HealthCareActivity 672 676	MoCA
+T28	ExperimentalModelOfDisease 1037 1047	5xFAD mice
+T29	BodyPartOrganOrOrganComponent 981 1004	intracerebroventricular
+T30	TemporalConcept 130 134	aged
+T31	CellComponent 443 465	extracellular vesicles
+T32	Cell 428 434	neuron
+T33	ResearchActivity 116 121	study
+T34	ResearchActivity 1194 1199	study
+T35	PopulationGroup 245 250	group
+T36	PopulationGroup 261 266	group
+T37	Substance 398 405	samples
+T38	Substance 499 506	samples
+T39	BodyPartOrganOrOrganComponent 398 405	samples
+T40	BodyPartOrganOrOrganComponent 499 506	samples
+T41	Cell 1288 1296	neuronal
+T42	ResearchActivity 579 606	linear mixed model analysis
+T43	CellFunction 691 701	expression
+T44	CellFunction 864 874	expression
+T45	CellFunction 905 915	expression
+T46	CellFunction 1297 1307	expression
+T47	TemporalConcept 138 143	years
+T48	NucleicAcidNucleosideOrNucleotide 705 719	miRNA(miR)-29c
+T49	BiologicallyActiveSubstance 705 719	miRNA(miR)-29c
+T50	PopulationGroup 123 129	people
+T51	TemporalConcept 648 652	time
+T52	BodyPartOrganOrOrganComponent 1169 1180	hippocampus
+T53	Cell 949 956	neurons
+T54	DiseaseOrSyndrome 1249 1269	cognitive impairment
+T55	DiseaseOrSyndrome 1058 1075	cognitive decline
+T56	Finding 626 633	effects
+T57	BodyPartOrganOrOrganComponent 392 397	blood
+T58	BodyPartOrganOrOrganComponent 493 498	blood
+T59	BiologicFunction 60 78	cognitive function
+T60	BiologicFunction 827 845	cognitive function
+T61	HealthCareActivity 1005 1014	injection
+T62	Finding 849 859	increasing
+T63	Finding 1273 1283	increasing
+T64	TemporalConcept 148 153	older
+T65	PopulationGroup 174 181	elderly
+T66	NucleicAcidNucleosideOrNucleotide 545 550	mRNAs
+T67	NucleicAcidNucleosideOrNucleotide 512 521	microRNAs
+T68	BiologicallyActiveSubstance 512 521	microRNAs
+T69	BiologicallyActiveSubstance 545 550	mRNAs
+T70	CellOrMolecularDysfunction 1088 1101	neuronal loss
+T71	CellOrMolecularDysfunction 1231 1244	neuronal loss
+T72	HealthCareRelatedOrganization 182 193	communities
+T73	HealthCareActivity 240 244	MBSR
+T74	CellComponent 467 472	NDEVs
+T75	CellComponent 428 465	neuron-derived extracellular vesicles
+T76	CellComponent 570 575	NDEVs
+T77	BiologicallyActiveSubstance 765 771	DNMT3B
+T78	CellComponent 775 780	NDEVs
+T79	NucleicAcidNucleosideOrNucleotide 878 885	miR-29c
+T80	BiologicallyActiveSubstance 878 885	miR-29c
+T81	BiologicallyActiveSubstance 938 944	DNMT3B
+T82	BiologicallyActiveSubstance 1018 1025	miR-29c
+T83	NucleicAcidNucleosideOrNucleotide 1018 1025	miR-29c
+T84	BodyPartOrganOrOrganComponent 1109 1123	subiculum area
+T85	BiologicallyActiveSubstance 1144 1150	Dnmt3a
+T86	BiologicallyActiveSubstance 1155 1161	Dnmt3b
+T87	BiologicallyActiveSubstance 1311 1318	miR-29c
+T88	NucleicAcidNucleosideOrNucleotide 1311 1318	miR-29c

@@ -1,0 +1,69 @@
+T0	CellComponent 119 132	lipid bilayer
+T1	AminoAcidPeptideOrProtein 253 274	transporting proteins
+T2	AminoAcidPeptideOrProtein 389 411	amyloidogenic proteins
+T3	BodyPartOrganOrOrganComponent 628 633	tears
+T4	Finding 1011 1019	atypical
+T5	DiseaseOrSyndrome 1020 1042	parkinsonian disorders
+T6	DiseaseOrSyndrome 1321 1343	parkinsonian disorders
+T7	CellOrMolecularDysfunction 370 379	misfolded
+T8	Substance 602 608	fluids
+T9	BodyPartOrganOrOrganComponent 602 608	fluids
+T10	Cell 168 184	eukaryotic cells
+T11	CellComponent 24 27	EVs
+T12	CellComponent 134 137	EVs
+T13	CellComponent 349 352	EVs
+T14	CellComponent 512 515	EVs
+T15	CellComponent 646 649	EVs
+T16	CellComponent 1176 1179	EVs
+T17	CellComponent 1222 1225	EVs
+T18	CellComponent 1281 1284	EVs
+T19	ClinicalAttribute 1132 1139	markers
+T20	BodyPartOrganOrOrganComponent 466 488	central nervous system
+T21	BodyPartOrganOrOrganComponent 490 493	CNS
+T22	BodyPartOrganOrOrganComponent 496 499	CNS
+T23	BodyPartOrganOrOrganComponent 669 672	CNS
+T24	BodyPartOrganOrOrganComponent 1265 1268	CNS
+T25	DiseaseOrSyndrome 987 1006	Parkinson's disease
+T26	ResearchActivity 1250 1258	research
+T27	ClinicalAttribute 707 717	biomarkers
+T28	ClinicalAttribute 934 944	biomarkers
+T29	ClinicalAttribute 1289 1298	biomarker
+T30	CellComponent 0 22	Extracellular vesicles
+T31	BodyPartOrganOrOrganComponent 597 608	body fluids
+T32	BiologicFunction 559 570	bloodstream
+T33	HealthCareActivity 1144 1153	isolation
+T34	BodyPartOrganOrOrganComponent 639 644	urine
+T35	BodyPartOrganOrOrganComponent 620 626	saliva
+T36	Cell 771 775	cell
+T37	Cell 781 785	cell
+T38	TemporalConcept 1208 1214	origin
+T39	DiseaseOrSyndrome 321 347	neurodegenerative diseases
+T40	DiseaseOrSyndrome 722 748	neurodegenerative diseases
+T41	DiseaseOrSyndrome 949 975	neurodegenerative diseases
+T42	HealthCareActivity 1365 1375	challenges
+T43	ResearchActivity 1236 1242	review
+T44	HealthCareActivity 1236 1242	review
+T45	ResearchActivity 1299 1306	studies
+T46	InjuryOrPoisoning 363 368	toxic
+T47	TemporalConcept 833 838	years
+T48	AminoAcidPeptideOrProtein 266 274	proteins
+T49	AminoAcidPeptideOrProtein 403 411	proteins
+T50	ClinicalAttribute 1124 1139	surface markers
+T51	PopulationGroup 786 791	state
+T52	ResearchActivity 1389 1399	strategies
+T53	BiologicFunction 1389 1399	strategies
+T54	BodyPartOrganOrOrganComponent 530 549	blood-brain barrier
+T55	TemporalConcept 826 832	recent
+T56	Chemical 276 282	lipids
+T57	NucleicAcidNucleosideOrNucleotide 288 301	nucleic acids
+T58	BodyPartOrganOrOrganComponent 597 601	body
+T59	Cell 1199 1207	cellular
+T60	Chemical 95 104	particles
+T61	Chemical 119 124	lipid
+T62	CellFunction 222 249	intercellular communication
+T63	TemporalConcept 1243 1249	recent
+T64	Cell 443 458	recipient cells
+T65	CellComponent 50 63	microvesicles
+T66	CellComponent 40 48	exosomes
+T67	Cell 1157 1166	cell type
+T68	ResearchActivity 1144 1153	isolation

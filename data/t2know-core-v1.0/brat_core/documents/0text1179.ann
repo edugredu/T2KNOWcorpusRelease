@@ -1,0 +1,85 @@
+T0	CellFunction 41 63	cholesterol metabolism
+T1	BiologicFunction 437 463	Neural electrical activity
+T2	BiologicFunction 465 494	synaptic plasticity processes
+T3	CellFunction 648 670	cholesterol metabolism
+T4	BiomedicalOccupationOrDiscipline 987 1000	public health
+T5	HealthCareActivity 987 1000	public health
+T6	CellFunction 87 104	neurotransmission
+T7	Cell 0 10	Astrocytes
+T8	Cell 242 252	Astrocytes
+T9	CellFunction 359 381	inflammatory signaling
+T10	AminoAcidPeptideOrProtein 809 830	transcription factors
+T11	BiologicallyActiveSubstance 809 830	transcription factors
+T12	BiologicFunction 418 435	brain homeostasis
+T13	Finding 1001 1008	problem
+T14	BiologicFunction 496 504	learning
+T15	Chemical 41 52	cholesterol
+T16	Chemical 311 322	cholesterol
+T17	Chemical 648 659	cholesterol
+T18	BiologicallyActiveSubstance 41 52	cholesterol
+T19	BiologicallyActiveSubstance 311 322	cholesterol
+T20	BiologicallyActiveSubstance 648 659	cholesterol
+T21	CellFunction 465 484	synaptic plasticity
+T22	BiologicFunction 465 484	synaptic plasticity
+T23	NaturalPhenomenonOrProcess 474 484	plasticity
+T24	CellFunction 474 484	plasticity
+T25	Finding 185 195	morphology
+T26	CellComponent 1164 1186	extracellular vesicles
+T27	DiseaseOrSyndrome 710 729	Alzheimer's disease
+T28	DiseaseOrSyndrome 731 733	AD
+T29	DiseaseOrSyndrome 894 896	AD
+T30	DiseaseOrSyndrome 957 959	AD
+T31	DiseaseOrSyndrome 1095 1097	AD
+T32	Cell 548 554	neuron
+T33	BodyPartOrganOrOrganComponent 465 473	synaptic
+T34	BodyPartOrganOrOrganComponent 305 310	brain
+T35	NucleicAcidNucleosideOrNucleotide 785 804	long non-coding RNA
+T36	CellFunction 197 212	gene expression
+T37	PathologicFunction 694 706	inflammation
+T38	ResearchActivity 575 581	review
+T39	ResearchActivity 1015 1021	review
+T40	HealthCareActivity 575 581	review
+T41	HealthCareActivity 1015 1021	review
+T42	BiologicallyActiveSubstance 785 804	long non-coding RNA
+T43	Cell 538 547	astrocyte
+T44	Cell 1070 1079	astrocyte
+T45	PathologicFunction 878 890	pathogenesis
+T46	CellFunction 53 63	metabolism
+T47	CellFunction 660 670	metabolism
+T48	BiologicFunction 53 63	metabolism
+T49	BiologicFunction 660 670	metabolism
+T50	CellOrMolecularDysfunction 141 158	neurodegeneration
+T51	BodyPartOrganOrOrganComponent 601 611	astrocytic
+T52	BodyPartOrganOrOrganComponent 760 770	astrocytic
+T53	BodyPartOrganOrOrganComponent 904 914	astrocytic
+T54	CellFunction 555 564	crosstalk
+T55	HealthCareActivity 994 1000	health
+T56	Cell 230 240	astrocytes
+T57	Cell 843 853	astrocytes
+T58	Chemical 1107 1112	lipid
+T59	AminoAcidPeptideOrProtein 65 74	glutamate
+T60	AminoAcidPeptideOrProtein 672 681	glutamate
+T61	BiologicallyActiveSubstance 65 74	glutamate
+T62	BiologicallyActiveSubstance 672 681	glutamate
+T63	AminoAcidPeptideOrProtein 1124 1162	engineered G protein-coupled receptors
+T64	BiologicallyActiveSubstance 1124 1162	engineered G protein-coupled receptors
+T65	BiologicFunction 510 516	memory
+T66	Finding 586 597	involvement
+T67	PathologicFunction 1080 1091	dysfunction
+T68	NucleicAcidNucleosideOrNucleotide 801 804	RNA
+T69	BiologicFunction 75 81	uptake
+T70	BiologicFunction 682 688	uptake
+T71	CellFunction 75 81	uptake
+T72	CellFunction 682 688	uptake
+T73	NucleicAcidNucleosideOrNucleotide 285 294	microRNAs
+T74	NucleicAcidNucleosideOrNucleotide 612 621	microRNAs
+T75	NucleicAcidNucleosideOrNucleotide 771 780	microRNAs
+T76	NucleicAcidNucleosideOrNucleotide 915 924	microRNAs
+T77	BiologicallyActiveSubstance 285 294	microRNAs
+T78	BiologicallyActiveSubstance 612 621	microRNAs
+T79	BiologicallyActiveSubstance 771 780	microRNAs
+T80	BiologicallyActiveSubstance 915 924	microRNAs
+T81	HealthCareActivity 1037 1059	therapeutic strategies
+T82	CellFunction 341 354;372 381	glutamatergic signaling
+T83	Substance 1192 1205	nanoparticles
+T84	AminoAcidPeptideOrProtein 1113 1122	nanodiscs

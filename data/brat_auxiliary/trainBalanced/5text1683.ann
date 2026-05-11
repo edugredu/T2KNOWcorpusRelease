@@ -1,0 +1,5 @@
+T0	DiseaseOrSyndrome 138 157	Alzheimer's disease
+T1	CellOrMolecularDysfunction 68 100	tau protein hyperphosphorylation
+T2	Substance 31 44	tobacco smoke
+T3	EnvironmentalEffectOfHumans 39 54	smoke pollution
+T4	PathologicFunction 158 167	pathology

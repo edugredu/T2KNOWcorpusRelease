@@ -1,0 +1,140 @@
+T0	PharmacologicSubstance 43 50	SGLT2is
+T1	Chemical 61 74	empagliflozin
+T2	DiseaseOrSyndrome 99 123	type 2 diabetes mellitus
+T3	Chemical 377 390	empagliflozin
+T4	BiologicFunction 427 443	brain metabolism
+T5	Chemical 492 505	Empagliflozin
+T6	Chemical 547 567	beta-hydroxybutyrate
+T7	TemporalConcept 578 585	periods
+T8	BiologicFunction 696 715	glucose homeostasis
+T9	CellFunction 696 715	glucose homeostasis
+T10	AminoAcidPeptideOrProtein 742 779	insulin-like growth factor-1 receptor
+T11	BiologicallyActiveSubstance 742 779	insulin-like growth factor-1 receptor
+T12	AminoAcidPeptideOrProtein 937 940	AKT
+T13	BiologicallyActiveSubstance 937 940	AKT
+T14	Chemical 1045 1058	empagliflozin
+T15	AminoAcidPeptideOrProtein 1113 1119	IGF-1R
+T16	TemporalConcept 1170 1181	post-mortem
+T17	AminoAcidPeptideOrProtein 1248 1251	IGF
+T18	BiologicallyActiveSubstance 1248 1251	IGF
+T19	HealthCareActivity 1538 1575	brain magnetic resonance spectroscopy
+T20	HealthCareActivity 1577 1580	MRS
+T21	Cell 1673 1682	precursor
+T22	Chemical 1699 1712	empagliflozin
+T23	Chemical 1893 1900	SGLT2is
+T24	CellFunction 1252 1261	signaling
+T25	CellFunction 1352 1369	insulin signaling
+T26	CellFunction 2001 2010	signaling
+T27	BiologicallyActiveSubstance 1627 1654	excitatory neurotransmitter
+T28	AminoAcidPeptideOrProtein 1683 1692	glutamine
+T29	CellFunction 1513 1530	neuronal survival
+T30	PathologicFunction 1768 1796	glutamatergic excitotoxicity
+T31	PathologicFunction 2026 2040	excitotoxicity
+T32	Chemical 88 95	glucose
+T33	PharmacologicSubstance 0 41	Sodium-glucose cotransporter-2 inhibitors
+T34	PharmacologicSubstance 88 95	glucose
+T35	BiologicallyActiveSubstance 88 95	glucose
+T36	Finding 1102 1109	finding
+T37	Finding 1322 1329	finding
+T38	CellFunction 1969 1983	downregulation
+T39	TemporalConcept 464 468	aged
+T40	ResearchActivity 1186 1209	epidemiological studies
+T41	BodyPartOrganOrOrganComponent 372 376	oral
+T42	AminoAcidPeptideOrProtein 526 533	insulin
+T43	AminoAcidPeptideOrProtein 1352 1359	insulin
+T44	AminoAcidPeptideOrProtein 1993 2000	insulin
+T45	BiologicallyActiveSubstance 526 533	insulin
+T46	BiologicallyActiveSubstance 1352 1359	insulin
+T47	BiologicallyActiveSubstance 1993 2000	insulin
+T48	PharmacologicSubstance 526 533	insulin
+T49	PharmacologicSubstance 1352 1359	insulin
+T50	PharmacologicSubstance 1993 2000	insulin
+T51	DiseaseOrSyndrome 171 179	diabetes
+T52	CellComponent 966 988	extracellular vesicles
+T53	DiseaseOrSyndrome 1282 1301	Alzheimer's disease
+T54	DiseaseOrSyndrome 1303 1305	AD
+T55	DiseaseOrSyndrome 1825 1827	AD
+T56	DiseaseOrSyndrome 1912 1914	AD
+T57	CellFunction 727 741	phosphorylated
+T58	CellFunction 791 805	phosphorylated
+T59	CellFunction 830 844	phosphorylated
+T60	CellFunction 902 916	phosphorylated
+T61	PathologicFunction 1828 1837	pathology
+T62	BiomedicalOccupationOrDiscipline 1828 1837	pathology
+T63	BodyPartOrganOrOrganComponent 231 236	brain
+T64	BodyPartOrganOrOrganComponent 82 87	blood
+T65	Cell 1002 1010	neuronal
+T66	TemporalConcept 1011 1017	origin
+T67	TemporalConcept 606 611	first
+T68	TemporalConcept 1039 1044	first
+T69	TemporalConcept 472 477	years
+T70	CellFunction 239 249	metabolism
+T71	CellFunction 433 443	metabolism
+T72	BiologicFunction 239 249	metabolism
+T73	BiologicFunction 433 443	metabolism
+T74	CellComponent 1019 1023	NEVs
+T75	CellComponent 1136 1140	NEVs
+T76	CellComponent 1437 1441	NEVs
+T77	Cell 2014 2021	neurons
+T78	Finding 1595 1604	decreased
+T79	ResearchActivity 298 312	clinical trial
+T80	PathologicFunction 332 342	effects of
+T81	BiologicFunction 1605 1619	concentrations
+T82	Finding 148 156	outcomes
+T83	CellFunction 1394 1411	canonical pathway
+T84	AminoAcidPeptideOrProtein 1655 1664	glutamate
+T85	BiologicallyActiveSubstance 1655 1664	glutamate
+T86	TemporalConcept 406 410	days
+T87	TemporalConcept 640 644	days
+T88	TemporalConcept 1092 1096	days
+T89	Finding 216 223	effects
+T90	Finding 332 339	effects
+T91	Finding 180 188	presence
+T92	CellFunction 1120 1132	upregulation
+T93	CellFunction 1232 1244	upregulation
+T94	BiologicallyActiveSubstance 806 822	insulin receptor
+T95	Finding 681 692	alterations
+T96	TemporalConcept 485 490	older
+T97	TemporalConcept 348 353	daily
+T98	TemporalConcept 648 653	daily
+T99	PharmacologicSubstance 61 74	empagliflozin
+T100	BodyPartOrganOrOrganComponent 136 147	cardiorenal
+T101	PharmacologicSubstance 198 205	SGLT2is
+T102	PharmacologicSubstance 377 390	empagliflozin
+T103	PharmacologicSubstance 492 505	Empagliflozin
+T104	HealthCareActivity 612 626	administration
+T105	HealthCareActivity 654 668	administration
+T106	AminoAcidPeptideOrProtein 781 788	pIGF-1R
+T107	BiologicallyActiveSubstance 781 788	pIGF-1R
+T108	AminoAcidPeptideOrProtein 806 822	insulin receptor
+T109	AminoAcidPeptideOrProtein 824 827	pIR
+T110	BiologicallyActiveSubstance 824 827	pIR
+T111	AminoAcidPeptideOrProtein 857 885	insulin receptor substrate-1
+T112	BiologicallyActiveSubstance 857 885	insulin receptor substrate-1
+T113	AminoAcidPeptideOrProtein 887 895	pY-IRS-1
+T114	BiologicallyActiveSubstance 887 895	pY-IRS-1
+T115	AminoAcidPeptideOrProtein 848 856	tyrosine
+T116	AminoAcidPeptideOrProtein 917 933	protein kinase B
+T117	BiologicallyActiveSubstance 917 933	protein kinase B
+T118	AminoAcidPeptideOrProtein 942 946	pAKT
+T119	BiologicallyActiveSubstance 942 946	pAKT
+T120	PharmacologicSubstance 1045 1058	empagliflozin
+T121	HealthCareActivity 1059 1073	administration
+T122	BiologicallyActiveSubstance 1113 1119	IGF-1R
+T123	CellFunction 1338 1348	activation
+T124	BiologicallyActiveSubstance 1683 1692	glutamine
+T125	HealthCareActivity 1713 1727	administration
+T126	PharmacologicSubstance 1699 1712	empagliflozin
+T127	PharmacologicSubstance 1683 1692	glutamine
+T128	HealthCareActivity 1878 1900	repurposing of SGLT2is
+T129	PharmacologicSubstance 1893 1900	SGLT2is
+T130	AminoAcidPeptideOrProtein 1987 1993	IGF-1/
+T131	BiologicallyActiveSubstance 1987 1992	IGF-1
+T132	AminoAcidPeptideOrProtein 1413 1416	pIR
+T133	AminoAcidPeptideOrProtein 1418 1426	pY-IRS-1
+T134	AminoAcidPeptideOrProtein 1428 1432	pAKT
+T135	BiologicallyActiveSubstance 1413 1416	pIR
+T136	BiologicallyActiveSubstance 1418 1426	pY-IRS-1
+T137	BiologicallyActiveSubstance 1428 1432	pAKT
+T138	PopulationGroup 450 463	non-diabetics
+T139	HealthCareActivity 354 368	administration

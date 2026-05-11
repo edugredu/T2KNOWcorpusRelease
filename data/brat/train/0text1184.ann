@@ -1,0 +1,64 @@
+T0	Finding 335 349	low expression
+T1	AminoAcidPeptideOrProtein 353 393	major histocompatibility complex class I
+T2	BiologicallyActiveSubstance 353 393	major histocompatibility complex class I
+T3	HealthCareActivity 548 560	optimization
+T5	ClinicalAttribute 1020 1038	therapeutic effect
+T6	NaturalPhenomenonOrProcess 1105 1116	stimulating
+T7	NaturalPhenomenonOrProcess 1282 1298	microenvironment
+T8	BodyPartOrganOrOrganComponent 1282 1298	microenvironment
+T9	AminoAcidPeptideOrProtein 1332 1344;1367 1374	neurotrophic factors
+T10	PharmacologicSubstance 1349 1374	anti-inflammatory factors
+T11	ResearchActivity 1422 1442	genetic modification
+T12	HealthCareActivity 1479 1494	transplantation
+T13	BiomedicalOccupationOrDiscipline 475 496	regenerative medicine
+T14	HealthCareActivity 110 132	therapeutic strategies
+T15	BiologicFunction 1349 1366	anti-inflammatory
+T16	PharmacologicSubstance 1349 1366	anti-inflammatory
+T17	Substance 394 403	molecules
+T18	Cell 238 242	MSCs
+T19	Cell 416 420	MSCs
+T20	Cell 721 725	MSCs
+T21	Cell 823 827	MSCs
+T22	Cell 1062 1066	MSCs
+T23	Cell 1178 1182	MSCs
+T24	Cell 1446 1450	MSCs
+T25	HealthCareActivity 847 868	therapeutic potential
+T26	Cell 564 567	MSC
+T27	ResearchActivity 440 451	experiments
+T28	BiologicFunction 261 267	growth
+T29	Cell 214 236	Mesenchymal stem cells
+T30	HealthCareActivity 792 800	reviewed
+T31	ResearchActivity 792 800	reviewed
+T32	DiseaseOrSyndrome 940 978	age-related neurodegenerative diseases
+T33	BiologicFunction 665 674	attention
+T34	PathologicFunction 61 78	brain pathologies
+T35	CellFunction 1260 1268	survival
+T36	AminoAcidPeptideOrProtein 272 292	neurotrophic factors
+T37	BiologicallyActiveSubstance 272 292	neurotrophic factors
+T41	ResearchActivity 503 509	review
+T42	HealthCareActivity 503 509	review
+T43	DiseaseOrSyndrome 952 978	neurodegenerative diseases
+T44	OrganismAttribute 168 171	age
+T45	TemporalConcept 649 654	years
+T46	BodyPartOrganOrOrganComponent 1081 1086	brain
+T47	BodyPartOrganOrOrganComponent 1241 1246	brain
+T48	BodyPartOrganOrOrganComponent 1276 1281	brain
+T49	CellComponent 686 708	extracellular vesicles
+T50	ResearchActivity 528 532	data
+T51	ResearchActivity 801 805	data
+T52	ResearchActivity 990 994	data
+T53	TemporalConcept 521 527	recent
+T54	PathologicFunction 31 48	neuroinflammation
+T55	PathologicFunction 881 898	neuroinflammation
+T56	Cell 226 236	stem cells
+T57	ResearchActivity 456 471	clinical trials
+T58	DiseaseOrSyndrome 195 212	cognitive decline
+T59	PathologicFunction 311 327	immune rejection
+T60	HealthCareActivity 576 596	therapeutic purposes
+T61	ResearchActivity 548 560	optimization
+T63	DiseaseOrSyndrome 907 929	cognitive disfunctions
+T64	HealthCareActivity 1148 1171	therapeutic application
+T65	BiologicallyActiveSubstance 1332 1344;1367 1374	neurotrophic factors
+T66	Finding 1455 1471	pre-conditioning
+T67	AminoAcidPeptideOrProtein 745 786	alpha 7 nicotinic acetylcholine receptors
+T68	BiologicallyActiveSubstance 745 786	alpha 7 nicotinic acetylcholine receptors

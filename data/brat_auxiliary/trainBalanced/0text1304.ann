@@ -1,0 +1,86 @@
+T0	BodyPartOrganOrOrganComponent 117 123	sheath
+T1	NucleicAcidNucleosideOrNucleotide 128 133	lines
+T2	CellFunction 248 273	nerve signal transduction
+T3	InjuryOrPoisoning 536 556	spinal cord injuries
+T4	InjuryOrPoisoning 558 561	SCI
+T5	InjuryOrPoisoning 973 976	SCI
+T6	Cell 1143 1156	somatic cells
+T7	HealthCareActivity 1438 1448	derivation
+T8	BodyPartOrganOrOrganComponent 1452 1467	brain organoids
+T9	Cell 1473 1495	pluripotent stem cells
+T10	HealthCareActivity 1501 1510	protocols
+T11	CellFunction 1168 1181	reprogramming
+T12	CellFunction 1226 1239	reprogramming
+T13	HealthCareActivity 1602 1610	reviewed
+T14	ResearchActivity 1602 1610	reviewed
+T15	TemporalConcept 924 931	to date
+T16	PathologicFunction 372 385	Demyelination
+T17	PathologicFunction 586 599	Demyelination
+T18	Cell 775 808	myelin-producing oligodendrocytes
+T19	CellFunction 1163 1181	cell reprogramming
+T20	CellFunction 1221 1239	cell reprogramming
+T21	ResearchActivity 1334 1350	disease modeling
+T22	BodyPartOrganOrOrganComponent 1458 1467	organoids
+T23	BodyPartOrganOrOrganComponent 1572 1581	organoids
+T24	BiologicFunction 1398 1410	developments
+T25	CellFunction 1398 1410	developments
+T26	TemporalConcept 927 931	date
+T27	CellComponent 143 148	axons
+T28	CellComponent 296 301	axons
+T29	Cell 427 443	oligodendrocytes
+T30	Cell 792 808	oligodendrocytes
+T31	Cell 1032 1048	oligodendrocytes
+T32	Cell 1103 1119	oligodendrocytes
+T33	Cell 1291 1307	oligodendrocytes
+T34	Cell 1544 1560	oligodendrocytes
+T35	Cell 0 16	Oligodendrocytes
+T36	Cell 681 712	oligodendrocyte precursor cells
+T37	BodyPartOrganOrOrganComponent 85 91	myelin
+T38	BodyPartOrganOrOrganComponent 416 422	myelin
+T39	BodyPartOrganOrOrganComponent 775 781	myelin
+T40	BodyPartOrganOrOrganComponent 166 177	spinal cord
+T41	BodyPartOrganOrOrganComponent 536 547	spinal cord
+T42	CellFunction 754 769	differentiation
+T43	CellFunction 720 729	migration
+T44	Cell 697 712	precursor cells
+T45	Cell 681 706	oligodendrocyte precursor
+T46	Finding 234 244	efficiency
+T47	Cell 31 36	glial
+T48	CellComponent 69 77	membrane
+T49	DiseaseOrSyndrome 568 584	leukodystrophies
+T50	DiseaseOrSyndrome 981 997	leukodystrophies
+T51	BodyPartOrganOrOrganComponent 93 99	Myelin
+T52	BodyPartOrganOrOrganComponent 156 161	brain
+T53	Eukaryote 1097 1102	human
+T54	Eukaryote 1285 1290	human
+T55	NaturalPhenomenonOrProcess 318 329	degradation
+T56	Cell 31 42	glial cells
+T57	Cell 1061 1065	cell
+T58	Cell 1355 1359	cell
+T59	Cell 134 142	neuronal
+T60	Cell 351 359	neuronal
+T61	ResearchActivity 1188 1194	review
+T62	HealthCareActivity 1188 1194	review
+T63	TemporalConcept 1391 1397	Recent
+T64	BiologicFunction 365 370	death
+T65	PathologicFunction 365 370	death
+T66	CellFunction 365 370	death
+T67	HealthCareActivity 954 964	treatments
+T68	ResearchActivity 954 964	treatments
+T69	TemporalConcept 617 621	time
+T70	Chemical 58 63	lipid
+T71	CellFunction 360 370	cell death
+T72	DiseaseOrSyndrome 476 499	neurological conditions
+T73	Cell 1485 1495	stem cells
+T74	InjuryOrPoisoning 737 743	injury
+T75	CellFunction 625 638	remyelination
+T76	CellFunction 836 849	remyelination
+T77	CellFunction 1072 1085	remyelination
+T78	CellFunction 1366 1379	remyelination
+T79	HealthCareActivity 1086 1095	therapies
+T80	HealthCareActivity 1380 1389	therapies
+T81	DiseaseOrSyndrome 531 533	MS
+T82	DiseaseOrSyndrome 969 971	MS
+T83	PathologicFunction 880 893	demyelination
+T84	DiseaseOrSyndrome 511 529	Multiple sclerosis
+T85	CellFunction 351 370	neuronal cell death

@@ -1,0 +1,117 @@
+T0	Bacterium 0 19	Helicobacter pylori
+T1	Bacterium 21 23	HP
+T2	Bacterium 30 53	Gram-negative bacterium
+T3	Finding 100 112	Colonization
+T4	Bacterium 116 118	HP
+T5	BodyPartOrganOrOrganComponent 126 140	gastric mucosa
+T6	DiseaseOrSyndrome 157 182	gastrointestinal diseases
+T7	DiseaseOrSyndrome 244 279	idiopathic thrombocytopenic purpura
+T8	Bacterium 376 378	HP
+T9	Bacterium 478 480	HP
+T10	Finding 568 589	immunological changes
+T11	Bacterium 601 603	HP
+T12	Bacterium 691 693	HP
+T13	Bacterium 812 814	HP
+T14	Finding 815 827	colonization
+T15	Finding 838 868	systemic immunological changes
+T16	CellComponent 1110 1124	outer membrane
+T17	Bacterium 1128 1150	Gram-negative bacteria
+T18	Chemical 1165 1183	lipopolysaccharide
+T19	Chemical 1195 1208	peptidoglycan
+T20	BiologicallyActiveSubstance 1195 1208	peptidoglycan
+T21	BodyPartOrganOrOrganComponent 1329 1344	tight junctions
+T22	BodyPartOrganOrOrganComponent 1352 1370	gastric epithelium
+T23	BiologicFunction 1468 1484	immune responses
+T24	BodyPartOrganOrOrganComponent 1521 1536	lymphoid organs
+T25	CellComponent 1600 1607	exosome
+T26	BodyPartOrganOrOrganComponent 1620 1624	sera
+T27	Finding 1692 1700	presence
+T28	DiseaseOrSyndrome 1921 1934	neuroblastoma
+T29	Bacterium 1995 1997	HP
+T30	BodyPartOrganOrOrganComponent 2216 2219	gut
+T31	BodyPartOrganOrOrganComponent 525 528	CNS
+T32	BodyPartOrganOrOrganComponent 711 714	CNS
+T33	BodyPartOrganOrOrganComponent 744 747	CNS
+T34	BodyPartOrganOrOrganComponent 1541 1544	CNS
+T35	BodyPartOrganOrOrganComponent 2252 2255	CNS
+T36	ResearchActivity 727 735	in vitro
+T37	ResearchActivity 1300 1308	in vitro
+T38	ResearchActivity 1765 1773	in vitro
+T39	ResearchActivity 1935 1943	in vitro
+T40	ResearchActivity 2087 2097	literature
+T41	BodyPartOrganOrOrganComponent 1081 1100	extracellular space
+T42	Cell 2054 2064	astrocytes
+T43	PathologicFunction 623 633	pathogenic
+T44	CellFunction 1788 1806	cell proliferation
+T45	CellFunction 1899 1917	cell proliferation
+T46	CellFunction 1846 1855	migration
+T47	Cell 1287 1299	immune cells
+T48	BodyPartOrganOrOrganComponent 1499 1505	organs
+T49	AminoAcidPeptideOrProtein 2002 2017	amyloid plaques
+T50	CellComponent 943 966	outer membrane vesicles
+T51	DiseaseOrSyndrome 284 305	neurological diseases
+T52	DiseaseOrSyndrome 313 334	neurological diseases
+T53	TemporalConcept 1945 1951	Lastly
+T54	NucleicAcidNucleosideOrNucleotide 1210 1213	DNA
+T55	NucleicAcidNucleosideOrNucleotide 1672 1675	DNA
+T56	ResearchActivity 336 359	epidemiological studies
+T57	PathologicFunction 379 388	infection
+T58	PathologicFunction 604 613	infection
+T59	PathologicFunction 694 703	infection
+T60	PathologicFunction 2199 2208	infection
+T61	ResearchActivity 2098 2104	review
+T62	HealthCareActivity 2098 2104	review
+T63	AminoAcidPeptideOrProtein 1185 1193	proteins
+T64	DiseaseOrSyndrome 446 465	Parkinson's disease
+T65	DiseaseOrSyndrome 467 469	PD
+T66	DiseaseOrSyndrome 650 652	PD
+T67	DiseaseOrSyndrome 417 436	Alzheimer's disease
+T68	DiseaseOrSyndrome 438 440	AD
+T69	DiseaseOrSyndrome 643 645	AD
+T70	DiseaseOrSyndrome 2293 2295	AD
+T71	NucleicAcidNucleosideOrNucleotide 1219 1222	RNA
+T72	ResearchActivity 2113 2130	experimental data
+T73	Eukaryote 73 78	human
+T74	Cell 782 792	microglial
+T75	Eukaryote 773 777	mice
+T76	Eukaryote 1642 1646	mice
+T77	PathologicFunction 989 1006	neuroinflammation
+T78	PathologicFunction 2227 2244	neuroinflammation
+T79	CellFunction 782 803	microglial activation
+T80	PopulationGroup 2311 2317	people
+T81	TemporalConcept 2188 2195	chronic
+T82	ResearchActivity 715 722	in vivo
+T83	ResearchActivity 1424 1431	in vivo
+T84	ResearchActivity 2065 2072	in vivo
+T85	CellFunction 1808 1840	inflammatory cytokine production
+T86	Cell 1732 1741	microglia
+T87	Cell 2040 2049	microglia
+T88	BodyPartOrganOrOrganComponent 1404 1423	blood-brain barrier
+T89	BodyPartOrganOrOrganComponent 501 523	central nervous system
+T90	BodyPartOrganOrOrganComponent 79 86	stomach
+T91	DiseaseOrSyndrome 212 234	extra-gastric diseases
+T92	ExperimentalModelOfDisease 761 777	HP-infected mice
+T93	CellComponent 971 975	OMVs
+T94	Bacterium 968 970	HP
+T95	Bacterium 932 934	HP
+T96	CellComponent 1008 1012	OMVs
+T97	CellComponent 1024 1050	spherical bilayer vesicles
+T98	CellComponent 1152 1156	OMVs
+T99	CellComponent 1224 1228	OMVs
+T100	DiseaseOrSyndrome 1372 1381	leaky gut
+T101	CellComponent 1450 1454	OMVs
+T102	CellComponent 1554 1558	OMVs
+T103	BodyPartOrganOrOrganComponent 1569 1589	systemic circulation
+T104	ExperimentalModelOfDisease 1630 1646	HP-infected mice
+T105	Bacterium 1660 1662	HP
+T106	CellComponent 1707 1711	OMVs
+T107	Bacterium 1704 1706	HP
+T108	Bacterium 1757 1759	HP
+T109	CellComponent 1760 1764	OMVs
+T110	Bacterium 1876 1878	HP
+T111	CellComponent 1879 1883	OMVs
+T112	Bacterium 2196 2198	HP
+T113	Bacterium 2299 2301	HP
+T114	ExperimentalModelOfDisease 1967 1980	AD model mice
+T115	CellComponent 2171 2175	OMVs
+T116	Bacterium 761 763	HP

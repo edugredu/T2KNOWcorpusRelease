@@ -1,0 +1,28 @@
+T0	DiseaseOrSyndrome 174 181	burnout
+T1	ResearchActivity 525 536	correlation
+T2	HealthCareActivity 661 679	early intervention
+T3	HealthCareActivity 263 294	Modified Caregiver Strain Index
+T4	HealthCareActivity 296 300	MCSI
+T5	HealthCareActivity 500 504	MCSI
+T6	TemporalConcept 31 35	rare
+T7	HealthCareActivity 427 436	caregiver
+T8	HealthCareActivity 127 137	caregivers
+T9	HealthCareActivity 646 656	caregivers
+T10	BiologicFunction 109 121	independence
+T11	Finding 392 411	functional capacity
+T12	BiologicFunction 226 242	caregiver burden
+T13	BiologicFunction 479 495	caregiver burden
+T14	ResearchActivity 570 575	study
+T15	DiseaseOrSyndrome 36 61	neurodegenerative disease
+T16	ResearchActivity 605 613	research
+T17	Finding 78 88	disability
+T18	PatientOrDisabledGroup 101 108	patient
+T19	PatientOrDisabledGroup 141 152	HD patients
+T20	DiseaseOrSyndrome 0 20	Huntington's disease
+T21	DiseaseOrSyndrome 310 330	Huntington's disease
+T22	DiseaseOrSyndrome 22 24	HD
+T23	Finding 160 169	high risk
+T24	Finding 638 645	at-risk
+T25	HealthCareActivity 310 376	Huntington's disease Quality of Life Battery for Carers Short Form
+T26	HealthCareActivity 378 383	HD-SF
+T27	HealthCareActivity 545 549	MCSI

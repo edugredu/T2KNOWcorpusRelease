@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 124 150	neurodegenerative diseases
+T1	Finding 98 119	therapeutic potential
+T2	ResearchActivity 58 67	discovery
+T3	ResearchActivity 12 37	high-throughput screening
+T4	Chemical 77 92	small molecules
+T5	Organism 0 5	Yeast

@@ -1,0 +1,48 @@
+T0	CellComponent 137 158	intercellular bridges
+T1	BiomedicalOccupationOrDiscipline 235 247	pharmacology
+T2	InjuryOrPoisoning 341 362	neurotoxic aggregates
+T3	AminoAcidPeptideOrProtein 426 431	PrPSc
+T4	AminoAcidPeptideOrProtein 502 511	alpha-syn
+T5	BiologicallyActiveSubstance 502 511	alpha-syn
+T6	CellComponent 571 574	TNT
+T7	InjuryOrPoisoning 676 689	neurotoxicity
+T8	BodyPartOrganOrOrganComponent 734 742	skeleton
+T9	NaturalPhenomenonOrProcess 763 789	physicochemical properties
+T10	AminoAcidPeptideOrProtein 883 892	transport
+T11	BiologicFunction 883 917	transport of pathological proteins
+T12	AminoAcidPeptideOrProtein 543 547	mHTT
+T13	CellOrMolecularDysfunction 543 547	mHTT
+T14	CellOrMolecularDysfunction 434 452	mutant tau protein
+T15	CellOrMolecularDysfunction 524 530	mutant
+T16	CellFunction 20 47	intercellular communication
+T17	TemporalConcept 123 129	states
+T18	PathologicFunction 896 917	pathological proteins
+T19	AminoAcidPeptideOrProtein 896 917	pathological proteins
+T20	AminoAcidPeptideOrProtein 411 416	prion
+T21	AminoAcidPeptideOrProtein 403 424	scrapie prion protein
+T22	TemporalConcept 297 307	infrequent
+T23	DiseaseOrSyndrome 531 541	Huntington
+T24	AminoAcidPeptideOrProtein 441 444	tau
+T25	AminoAcidPeptideOrProtein 491 500	synuclein
+T26	BiologicallyActiveSubstance 491 500	synuclein
+T27	AminoAcidPeptideOrProtein 485 500	alpha-synuclein
+T28	BiologicallyActiveSubstance 485 500	alpha-synuclein
+T29	PathologicFunction 271 283	pathogenesis
+T30	AminoAcidPeptideOrProtein 454 466	amyloid-beta
+T31	AminoAcidPeptideOrProtein 454 461	amyloid
+T32	BiologicallyActiveSubstance 454 461	amyloid
+T33	BiologicallyActiveSubstance 441 444	tau
+T34	AminoAcidPeptideOrProtein 468 474	A beta
+T35	BiologicFunction 79 90	homeostasis
+T36	CellOrMolecularDysfunction 925 942	neurodegeneration
+T37	BiologicFunction 842 851	attention
+T38	DiseaseOrSyndrome 366 392	neurodegenerative diseases
+T39	ResearchActivity 699 705	review
+T40	HealthCareActivity 699 705	review
+T41	DiseaseOrSyndrome 308 335	neurodegenerative disorders
+T42	CellComponent 160 179	tunneling nanotubes
+T43	CellComponent 181 185	TNTs
+T44	Finding 225 255	potential pharmacology targets
+T45	CellFunction 646 672	intercellular transmission
+T46	CellComponent 812 816	TNTs
+T47	CellComponent 871 875	TNTs

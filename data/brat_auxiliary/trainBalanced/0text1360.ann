@@ -1,0 +1,69 @@
+T0	Cell 204 226	glial progenitor cells
+T1	InjuryOrPoisoning 456 463	traumas
+T2	InjuryOrPoisoning 1084 1102	traumatic injuries
+T3	Cell 1409 1420	progenitors
+T4	BiomedicalOccupationOrDiscipline 1312 1333	regenerative medicine
+T5	HealthCareActivity 1653 1661	reviewed
+T6	ResearchActivity 1653 1661	reviewed
+T7	EmbryonicStructure 693 700	embryos
+T8	CellFunction 782 794	self-renewal
+T9	TemporalConcept 563 571	earliest
+T10	Cell 705 725	embryonic stem cells
+T11	HealthCareActivity 1370 1386	clinical setting
+T12	Cell 647 663	oligodendrocytes
+T13	CellFunction 1445 1460	differentiation
+T14	CellComponent 308 314	axonal
+T15	Cell 504 536	glial-restricted precursor cells
+T16	Cell 349 366	glial progenitors
+T17	Cell 572 589	glial progenitors
+T18	Cell 1489 1502	glial lineage
+T19	BodyPartOrganOrOrganComponent 123 145	central nervous system
+T20	BodyPartOrganOrOrganComponent 147 150	CNS
+T21	BodyPartOrganOrOrganComponent 439 442	CNS
+T22	BodyPartOrganOrOrganComponent 1003 1006	CNS
+T23	BodyPartOrganOrOrganComponent 1308 1311	CNS
+T24	BodyPartOrganOrOrganComponent 1436 1439	CNS
+T25	Finding 164 172	evidence
+T26	Cell 1510 1515	cells
+T27	Cell 22 33	glial cells
+T28	HealthCareActivity 851 860	isolation
+T29	HealthCareActivity 1138 1147	isolation
+T30	ResearchActivity 1115 1121	review
+T31	HealthCareActivity 1115 1121	review
+T32	HealthCareActivity 1542 1551	treatment
+T33	ResearchActivity 1542 1551	treatment
+T34	Finding 769 777	capacity
+T35	CellOrMolecularDysfunction 1020 1037	neurodegenerative
+T36	DiseaseOrSyndrome 1567 1584;1599 1610	neurodegenerative pathologies
+T37	Finding 827 836	knowledge
+T38	CellFunction 4 13	crosstalk
+T39	Cell 38 45	neurons
+T40	HealthCareActivity 965 972	therapy
+T41	Finding 100 106	normal
+T42	Cell 269 283	cellular pools
+T43	Cell 622 642	Type I/II astrocytes
+T44	DiseaseOrSyndrome 1230 1253	neurological conditions
+T45	BiologicFunction 236 248	neurogenesis
+T46	CellFunction 319 330	myelination
+T47	HealthCareActivity 1196 1216	cell-based therapies
+T48	ResearchActivity 729 742	animal models
+T49	PopulationGroup 230 235	adult
+T50	DiseaseOrSyndrome 467 478	pathologies
+T51	DiseaseOrSyndrome 1589 1610	traumatic pathologies
+T52	ResearchActivity 862 878	characterization
+T53	ResearchActivity 1149 1165	characterization
+T54	HealthCareActivity 949 964	transplantation
+T55	BiologicFunction 285 302	neuroregeneration
+T56	TemporalConcept 1258 1265	briefly
+T57	BiologicFunction 993 999	repair
+T58	HealthCareActivity 993 999	repair
+T59	Cell 538 542	GRPs
+T60	Cell 665 669	GRPs
+T61	Cell 915 919	GRPs
+T62	DiseaseOrSyndrome 1042 1068	neuropsychiatric disorders
+T63	Cell 1188 1192	GRPs
+T64	Cell 1300 1304	GRPs
+T65	Cell 1400 1404	GRPs
+T66	Cell 902 913	progenitors
+T67	ResearchActivity 1138 1147	isolation
+T68	ResearchActivity 851 860	isolation

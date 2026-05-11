@@ -1,0 +1,71 @@
+T0	AminoAcidPeptideOrProtein 168 180	Prodynorphin
+T1	AminoAcidPeptideOrProtein 182 186	PDYN
+T2	GeneOrGenome 182 186	PDYN
+T3	PopulationGroup 205 218	subpopulation
+T4	AminoAcidPeptideOrProtein 337 341	PDYN
+T5	GeneOrGenome 337 341	PDYN
+T6	BiologicFunction 426 441	pharmacodynamic
+T7	ResearchActivity 426 441	pharmacodynamic
+T8	BiologicFunction 1126 1134	Movement
+T9	CellFunction 1126 1134	Movement
+T10	NaturalPhenomenonOrProcess 1126 1134	Movement
+T11	BodyPartOrganOrOrganComponent 119 127	striatal
+T12	BodyPartOrganOrOrganComponent 222 230	striatal
+T13	Finding 405 415	unmet need
+T14	Finding 319 336	reduced levels of
+T15	AminoAcidPeptideOrProtein 783 790	peptide
+T16	AminoAcidPeptideOrProtein 1021 1028	peptide
+T17	HealthCareRelatedOrganization 1193 1246	International Parkinson and Movement Disorder Society
+T18	NucleicAcidNucleosideOrNucleotide 342 353	transcripts
+T19	Eukaryote 274 280	rodent
+T20	AminoAcidPeptideOrProtein 499 502	htt
+T21	AminoAcidPeptideOrProtein 567 575	peptides
+T22	DiseaseOrSyndrome 1207 1216	Parkinson
+T23	ResearchActivity 983 988	study
+T24	AminoAcidPeptideOrProtein 487 497	huntingtin
+T25	GeneOrGenome 487 497	huntingtin
+T26	ClinicalAttribute 445 455	biomarkers
+T27	ClinicalAttribute 1066 1075	biomarker
+T28	HealthCareActivity 474 486;513 522	experimental therapies
+T29	BodyPartOrganOrOrganComponent 640 643	CSF
+T30	BodyPartOrganOrOrganComponent 1043 1046	CSF
+T31	AminoAcidPeptideOrProtein 580 599;606 611	neurofilament light chain
+T32	BiologicallyActiveSubstance 601 604	NfL
+T33	BiologicallyActiveSubstance 905 908	NfL
+T34	BiologicallyActiveSubstance 1100 1103	NfL
+T35	ResearchActivity 868 878	comparison
+T36	ResearchActivity 1086 1096	comparison
+T37	BiologicallyActiveSubstance 580 599;606 611	neurofilament light chain
+T38	AminoAcidPeptideOrProtein 601 604	NfL
+T39	AminoAcidPeptideOrProtein 905 908	NfL
+T40	AminoAcidPeptideOrProtein 1100 1103	NfL
+T41	PopulationGroup 680 688	controls
+T42	PopulationGroup 882 890	controls
+T43	TemporalConcept 237 247	Postmortem
+T44	BodyPartOrganOrOrganComponent 619 638	cerebrospinal fluid
+T45	PatientOrDisabledGroup 258 269	HD patients
+T46	PatientOrDisabledGroup 650 661	HD patients
+T47	PatientOrDisabledGroup 842 853	HD patients
+T48	DiseaseOrSyndrome 723 750	neurodegenerative disorders
+T49	DiseaseOrSyndrome 937 964	neurodegenerative disorders
+T50	PatientOrDisabledGroup 703 711	patients
+T51	Cell 128 159	medium spiny projection neurons
+T52	DiseaseOrSyndrome 55 81	neurodegenerative disorder
+T53	DiseaseOrSyndrome 12 32	Huntington's disease
+T54	DiseaseOrSyndrome 34 36	HD
+T55	DiseaseOrSyndrome 442 444	HD
+T56	DiseaseOrSyndrome 1080 1082	HD
+T57	BodyPartOrganOrOrganComponent 248 254	brains
+T58	Cell 161 165	MSNs
+T59	Cell 231 235	MSNs
+T60	ResearchActivity 281 287	models
+T61	AminoAcidPeptideOrProtein 362 384	neuropeptide dynorphin
+T62	BiologicallyActiveSubstance 362 384	neuropeptide dynorphin
+T63	AminoAcidPeptideOrProtein 554 558	PDYN
+T64	GeneOrGenome 554 558	PDYN
+T65	AminoAcidPeptideOrProtein 770 774	PDYN
+T66	GeneOrGenome 770 774	PDYN
+T67	ClinicalAttribute 770 797	PDYN-derived peptide levels
+T68	ClinicalAttribute 905 915	NfL levels
+T69	ClinicalAttribute 1008 1035	PDYN-derived peptide levels
+T70	DiseaseOrSyndrome 1126 1144	Movement Disorders

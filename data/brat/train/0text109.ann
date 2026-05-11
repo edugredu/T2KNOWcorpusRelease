@@ -1,0 +1,30 @@
+T0	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T1	Finding 59 76	burden of society
+T2	HealthCareActivity 244 254	treatments
+T3	ResearchActivity 393 411	disease mechanisms
+T4	ClinicalAttribute 422 432	biomarkers
+T5	ResearchActivity 471 488	research priority
+T6	ResearchActivity 535 549	research value
+T7	ResearchActivity 619 627	research
+T8	NucleicAcidNucleosideOrNucleotide 633 640	lncRNAs
+T9	TemporalConcept 652 658	origin
+T10	CellFunction 756 776	functions of lncRNAs
+T11	NucleicAcidNucleosideOrNucleotide 769 776	lncRNAs
+T12	NucleicAcidNucleosideOrNucleotide 836 843	lncRNAs
+T13	ClinicalAttribute 866 876	biomarkers
+T14	HealthCareActivity 317 343	diseasemodifying therapies
+T15	ResearchActivity 437 456	therapeutic targets
+T16	ResearchActivity 559 566	article
+T17	ResearchActivity 880 909	potential therapeutic targets
+T18	ResearchActivity 244 254	treatments
+T19	TemporalConcept 265 281	past few decades
+T20	NucleicAcidNucleosideOrNucleotide 502 508	lncRNA
+T21	CellFunction 660 685	molecular characteristics
+T22	Finding 82 91	morbidity
+T23	Finding 96 105	mortality
+T24	DiseaseOrSyndrome 116 142	neurodegenerative diseases
+T25	DiseaseOrSyndrome 193 219	neurodegenerative diseases
+T26	DiseaseOrSyndrome 365 391	neurodegenerative diseases
+T27	DiseaseOrSyndrome 790 816	neurodegenerative diseases
+T28	HealthCareActivity 352 361	treatment
+T29	ResearchActivity 352 361	treatment

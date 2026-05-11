@@ -1,0 +1,137 @@
+T0	CellFunction 340 364	immune cell infiltration
+T1	CellFunction 736 763	protein-protein interaction
+T2	CellFunction 765 768	PPI
+T3	GeneOrGenome 806 809	hub
+T4	Cell 1212 1223	immune cell
+T5	Chemical 1452 1460	Morphine
+T6	Chemical 1472 1480	Nicotine
+T7	CellComponent 1492 1501	Phagosome
+T8	CellFunction 1507 1529	Synaptic vesicle cycle
+T9	AminoAcidPeptideOrProtein 1609 1622	Synaptophysin
+T10	GeneOrGenome 1609 1622	Synaptophysin
+T11	AminoAcidPeptideOrProtein 1624 1627	SYP
+T12	GeneOrGenome 1624 1627	SYP
+T13	BiologicallyActiveSubstance 1669 1673	RGS4
+T14	AminoAcidPeptideOrProtein 1669 1673	RGS4
+T15	Cell 1799 1819	Natural killer cells
+T16	Cell 1886 1897	fibroblasts
+T17	AminoAcidPeptideOrProtein 1975 1978	SYP
+T18	GeneOrGenome 1975 1978	SYP
+T19	GeneOrGenome 1983 1987	RGS4
+T20	AminoAcidPeptideOrProtein 1983 1987	RGS4
+T21	Finding 2024 2036	infiltration
+T22	Cell 2046 2057	immune cell
+T23	AminoAcidPeptideOrProtein 2092 2095	SYP
+T24	GeneOrGenome 2092 2095	SYP
+T25	GeneOrGenome 2100 2104	RGS4
+T26	AminoAcidPeptideOrProtein 2100 2104	RGS4
+T27	Cell 2154 2165	immune cell
+T28	Cell 1863 1880	endothelial cells
+T29	GeneOrGenome 562 566	DEGs
+T30	GeneOrGenome 668 672	DEGs
+T31	GeneOrGenome 810 814	DEGs
+T32	GeneOrGenome 1282 1286	DEGs
+T33	GeneOrGenome 1387 1391	DEGs
+T34	GeneOrGenome 530 560	Differentially expressed genes
+T35	ResearchActivity 530 560	Differentially expressed genes
+T36	ResearchActivity 562 566	DEGs
+T37	ResearchActivity 668 672	DEGs
+T38	ResearchActivity 810 814	DEGs
+T39	ResearchActivity 1282 1286	DEGs
+T40	ResearchActivity 1387 1391	DEGs
+T41	ResearchActivity 1413 1432	Gene Ontology terms
+T42	ResearchActivity 496 528	Gene Expression Omnibus database
+T43	HealthCareActivity 1292 1300	screened
+T44	ResearchActivity 1292 1300	screened
+T45	CellComponent 141 154	intracellular
+T46	BodyPartOrganOrOrganComponent 1433 1450	GABAergic synapse
+T47	Cell 832 857	infiltrating immune cells
+T48	ResearchActivity 1779 1797	validation dataset
+T49	DiseaseOrSyndrome 19 21	AD
+T50	DiseaseOrSyndrome 237 239	AD
+T51	DiseaseOrSyndrome 312 314	AD
+T52	DiseaseOrSyndrome 390 392	AD
+T53	DiseaseOrSyndrome 657 659	AD
+T54	DiseaseOrSyndrome 1135 1137	AD
+T55	DiseaseOrSyndrome 1271 1273	AD
+T56	DiseaseOrSyndrome 1760 1762	AD
+T57	DiseaseOrSyndrome 1927 1929	AD
+T58	DiseaseOrSyndrome 2142 2144	AD
+T59	DiseaseOrSyndrome 2206 2208	AD
+T60	ClinicalAttribute 289 307	diagnostic markers
+T61	ClinicalAttribute 1138 1145	markers
+T62	ClinicalAttribute 1189 1207	diagnostic markers
+T63	ClinicalAttribute 1737 1755	diagnostic markers
+T64	ClinicalAttribute 2119 2137	diagnostic markers
+T65	ResearchActivity 698 717	enrichment analysis
+T66	ResearchActivity 1060 1068	analysis
+T67	ResearchActivity 257 262	study
+T68	ResearchActivity 1309 1314	study
+T69	BiologicFunction 2209 2220	development
+T70	CellFunction 2209 2220	development
+T71	Eukaryote 423 428	human
+T72	Substance 861 868	samples
+T73	BodyPartOrganOrOrganComponent 861 868	samples
+T74	PathologicFunction 2225 2236	progression
+T75	TemporalConcept 2225 2236	progression
+T76	Cell 1821 1836	B lineage cells
+T77	Cell 1838 1861	monocytic lineage cells
+T78	Finding 85 97	accumulation
+T79	Cell 340 351	immune cell
+T80	Cell 1219 1223	cell
+T81	ResearchActivity 993 1009	prediction model
+T82	TemporalConcept 190 199	currently
+T83	CellFunction 393 403	expression
+T84	CellFunction 1171 1181	expression
+T85	CellFunction 1949 1959	expression
+T86	ResearchActivity 1246 1254	analyzed
+T87	ResearchActivity 404 413	profiling
+T88	BodyPartOrganOrOrganComponent 441 447	tissue
+T89	AminoAcidPeptideOrProtein 115 127	amyloid beta
+T90	PathologicFunction 376 388	pathogenesis
+T91	AminoAcidPeptideOrProtein 129 135	A beta
+T92	CellComponent 101 114	extracellular
+T93	TemporalConcept 28 39	progressive
+T94	AminoAcidPeptideOrProtein 115 122	amyloid
+T95	BiologicallyActiveSubstance 115 122	amyloid
+T96	BodyPartOrganOrOrganComponent 429 440	hippocampus
+T97	CellComponent 1507 1523	Synaptic vesicle
+T98	DiseaseOrSyndrome 40 65	neurodegenerative disease
+T99	ResearchActivity 1049 1052	ROC
+T100	ResearchActivity 1691 1694	ROC
+T101	ResearchActivity 1691 1700	ROC curve
+T102	CellFunction 1368 1381	downregulated
+T103	Finding 1099 1117	diagnostic utility
+T104	DiseaseOrSyndrome 0 17	Alzheimer disease
+T105	Cell 2053 2063	cell types
+T106	ResearchActivity 414 418	data
+T107	ResearchActivity 893 941	Microenvironment Cell Populations-counter method
+T108	HealthCareActivity 935 941	method
+T109	AminoAcidPeptideOrProtein 736 743	protein
+T110	CellOrMolecularDysfunction 155 178	neurofibrillary tangles
+T111	CellComponent 155 170	neurofibrillary
+T112	ResearchActivity 609 637	Human Protein Atlas database
+T113	ResearchActivity 462 469	GSE5281
+T114	ResearchActivity 449 457	GSE48350
+T115	ResearchActivity 590 600	R software
+T116	ResearchActivity 770 777	network
+T117	DiseaseOrSyndrome 1452 1470	Morphine addiction
+T118	PharmacologicSubstance 1452 1460	Morphine
+T119	InjuryOrPoisoning 1477 1478	i
+T120	DiseaseOrSyndrome 1472 1490	Nicotine addiction
+T121	BiologicFunction 1212 1236	immune cell infiltration
+T122	MachineActivity 947 970	random forest algorithm
+T123	ResearchActivity 1014 1047	receiver operating characteristic
+T124	GeneOrGenome 1669 1673	RGS4
+T125	BiologicallyActiveSubstance 1624 1627	SYP
+T126	BiologicallyActiveSubstance 1609 1622	Synaptophysin
+T127	AminoAcidPeptideOrProtein 1633 1667	regulator of G protein signaling 4
+T128	BiologicallyActiveSubstance 1633 1667	regulator of G protein signaling 4
+T129	ResearchActivity 1770 1778	GSE28146
+T130	BiologicallyActiveSubstance 1983 1987	RGS4
+T131	BiologicallyActiveSubstance 1975 1978	SYP
+T132	BiologicallyActiveSubstance 2092 2095	SYP
+T133	BiologicallyActiveSubstance 2100 2104	RGS4
+T134	CellFunction 2154 2178	immune cell infiltration
+T135	GeneOrGenome 1591 1607	diagnostic genes
+T136	GeneOrGenome 1548 1573	disease-related hub genes

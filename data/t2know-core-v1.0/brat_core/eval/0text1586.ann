@@ -1,0 +1,93 @@
+T0	BiomedicalOccupationOrDiscipline 149 166	histopathological
+T1	CellOrMolecularDysfunction 1246 1259	neuronal loss
+T2	BiomedicalOccupationOrDiscipline 1385 1408	histopathological study
+T3	BiologicFunction 1474 1484	expiration
+T4	TemporalConcept 1474 1484	expiration
+T5	ResearchActivity 1498 1505	In vivo
+T6	CellOrMolecularDysfunction 1529 1542	neuronal loss
+T7	CellOrMolecularDysfunction 1144 1159	loss of neurons
+T8	TemporalConcept 12 21	Currently
+T9	PopulationGroup 1231 1244	control group
+T10	DiseaseOrSyndrome 816 830	Preclinical AD
+T11	PopulationGroup 1416 1427	participant
+T12	HealthCareActivity 761 764	CDR
+T13	HealthCareActivity 832 835	CDR
+T14	HealthCareActivity 880 883	CDR
+T15	HealthCareActivity 331 340	detection
+T16	HealthCareActivity 1706 1715	detection
+T17	DiseaseOrSyndrome 103 122	Alzheimer's disease
+T18	ResearchActivity 922 929	Results
+T19	AminoAcidPeptideOrProtein 775 782	amyloid
+T20	BiologicallyActiveSubstance 775 782	amyloid
+T21	DiseaseOrSyndrome 124 126	AD
+T22	DiseaseOrSyndrome 202 204	AD
+T23	DiseaseOrSyndrome 266 268	AD
+T24	DiseaseOrSyndrome 416 418	AD
+T25	DiseaseOrSyndrome 876 878	AD
+T26	DiseaseOrSyndrome 1196 1198	AD
+T27	DiseaseOrSyndrome 1576 1578	AD
+T28	DiseaseOrSyndrome 1703 1705	AD
+T29	ClinicalAttribute 69 78	biomarker
+T30	PopulationGroup 607 619	participants
+T31	PopulationGroup 705 711	groups
+T32	AminoAcidPeptideOrProtein 789 795	A beta
+T33	AminoAcidPeptideOrProtein 841 847	A beta
+T34	AminoAcidPeptideOrProtein 896 902	A beta
+T35	PopulationGroup 713 729	Healthy controls
+T36	HealthCareActivity 65 68	MRI
+T37	HealthCareActivity 389 392	MRI
+T38	HealthCareActivity 471 527	quantitative Gradient Recalled Echo (qGRE) MRI technique
+T39	HealthCareActivity 1622 1625	MRI
+T40	HealthCareActivity 419 428	diagnosis
+T41	ClinicalAttribute 1682 1692	biomarkers
+T42	CellOrMolecularDysfunction 82 99	neurodegeneration
+T43	PopulationGroup 1199 1204	group
+T44	PathologicFunction 36 43	atrophy
+T45	PathologicFunction 378 385	atrophy
+T46	PathologicFunction 1176 1183	atrophy
+T47	PathologicFunction 1649 1656	atrophy
+T48	DiseaseOrSyndrome 36 43	atrophy
+T49	DiseaseOrSyndrome 378 385	atrophy
+T50	DiseaseOrSyndrome 1176 1183	atrophy
+T51	DiseaseOrSyndrome 1649 1656	atrophy
+T52	CellOrMolecularDysfunction 185 198	neuronal loss
+T53	CellOrMolecularDysfunction 344 357	neuronal loss
+T54	CellOrMolecularDysfunction 554 567	neuronal loss
+T55	TemporalConcept 138 148	postmortem
+T56	ResearchActivity 167 174	studies
+T57	HealthCareActivity 1626 1638	measurements
+T58	TemporalConcept 410 415	early
+T59	TemporalConcept 1697 1702	early
+T60	BodyPartOrganOrOrganComponent 293 301	synapses
+T61	ResearchActivity 57 64	in vivo
+T62	ResearchActivity 323 330	in vivo
+T63	ResearchActivity 532 539	in vivo
+T64	ResearchActivity 1442 1449	in vivo
+T65	BodyPartOrganOrOrganComponent 23 35	brain tissue
+T66	BodyPartOrganOrOrganComponent 232 238	tissue
+T67	BodyPartOrganOrOrganComponent 934 952	hippocampal tissue
+T68	BodyPartOrganOrOrganComponent 1642 1648	tissue
+T69	Eukaryote 571 576	human
+T70	Cell 281 288	neurons
+T71	Cell 1019 1026	neurons
+T72	Cell 1098 1105	neurons
+T73	OrganismAttribute 1223 1230	healthy
+T74	BiologicFunction 1587 1596	cognition
+T75	TemporalConcept 1458 1464	months
+T76	TemporalConcept 452 460	recently
+T77	HealthCareActivity 213 223	volumetric
+T78	HealthCareActivity 540 550	evaluation
+T79	ResearchActivity 540 550	evaluation
+T80	BodyPartOrganOrOrganComponent 577 588	hippocampus
+T81	Finding 871 875	mild
+T82	Finding 1191 1195	mild
+T83	AminoAcidPeptideOrProtein 775 787	amyloid beta
+T84	ResearchActivity 1122 1126	Data
+T85	HealthCareActivity 1506 1517	qGRE method
+T86	HealthCareActivity 731 755	Clinical Dementia Rating
+T87	SignOrSymptom 248 262	loss of memory
+T88	HealthCareRelatedOrganization 644 684	Knight Alzheimer Disease Research Center
+T89	HealthCareActivity 954 958	qGRE
+T90	BodyPartOrganOrOrganComponent 1107 1120	Viable Tissue
+T91	ClinicalAttribute 1294 1305	volume loss
+T92	HealthCareActivity 1450 1454	qGRE

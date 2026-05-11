@@ -1,0 +1,53 @@
+T0	ResearchActivity 432 455	cross-sectional studies
+T1	BiologicFunction 519 533	concentrations
+T2	AminoAcidPeptideOrProtein 537 551	beta-synuclein
+T3	AminoAcidPeptideOrProtein 553 568	gamma-synuclein
+T4	AminoAcidPeptideOrProtein 570 581	neurogranin
+T5	BiologicallyActiveSubstance 570 581	neurogranin
+T6	GeneOrGenome 583 625	phosphatidylethanolamine-binding protein 1
+T7	AminoAcidPeptideOrProtein 583 625	phosphatidylethanolamine-binding protein 1
+T8	AminoAcidPeptideOrProtein 729 756	neuronal pentraxin receptor
+T9	GeneOrGenome 729 756	neuronal pentraxin receptor
+T10	ResearchActivity 179 189	validation
+T11	CellOrMolecularDysfunction 870 890	synaptic dysfunction
+T12	CellOrMolecularDysfunction 13 33	Synaptic dysfunction
+T13	PathologicFunction 22 33	dysfunction
+T14	PathologicFunction 879 890	dysfunction
+T15	ResearchActivity 806 812	method
+T16	TemporalConcept 65 73	earliest
+T17	HealthCareActivity 806 812	method
+T18	BiologicallyActiveSubstance 729 756	neuronal pentraxin receptor
+T19	AminoAcidPeptideOrProtein 399 416	synaptic proteins
+T20	AminoAcidPeptideOrProtein 631 646	14-3-3 proteins
+T21	AminoAcidPeptideOrProtein 835 852	synaptic proteins
+T22	AminoAcidPeptideOrProtein 933 941	proteins
+T23	AminoAcidPeptideOrProtein 542 551	synuclein
+T24	AminoAcidPeptideOrProtein 559 568	synuclein
+T25	BiologicallyActiveSubstance 542 551	synuclein
+T26	BiologicallyActiveSubstance 559 568	synuclein
+T27	PathologicFunction 38 50	degeneration
+T28	PathologicFunction 224 236	degeneration
+T29	DiseaseOrSyndrome 84 103	Alzheimer's disease
+T30	ClinicalAttribute 193 203	biomarkers
+T31	ClinicalAttribute 251 272	prognostic biomarkers
+T32	ClinicalAttribute 856 866	biomarkers
+T33	ClinicalAttribute 986 996	biomarkers
+T34	DiseaseOrSyndrome 105 107	AD
+T35	DiseaseOrSyndrome 466 468	AD
+T36	DiseaseOrSyndrome 664 666	AD
+T37	DiseaseOrSyndrome 1001 1003	AD
+T38	PatientOrDisabledGroup 667 675	patients
+T39	BodyPartOrganOrOrganComponent 420 423	CSF
+T40	PopulationGroup 482 490	controls
+T41	PopulationGroup 688 696	controls
+T42	ResearchActivity 293 299	Method
+T43	TemporalConcept 306 311	phase
+T44	ResearchActivity 501 508	Results
+T45	HealthCareActivity 327 373	parallel reaction monitoring mass spectrometry
+T46	DiseaseOrSyndrome 135 152	cognitive decline
+T47	CellOrMolecularDysfunction 215 236	synaptic degeneration
+T48	ResearchActivity 300 322	Solid-phase extraction
+T49	AminoAcidPeptideOrProtein 704 724	neuronal pentraxin-2
+T50	BiologicallyActiveSubstance 704 724	neuronal pentraxin-2
+T51	GeneOrGenome 704 724	neuronal pentraxin-2
+T52	BiologicallyActiveSubstance 631 646	14-3-3 proteins

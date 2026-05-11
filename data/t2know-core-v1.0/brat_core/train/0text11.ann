@@ -1,0 +1,64 @@
+T0	ClinicalAttribute 11 29	Retinal biomarkers
+T1	BiologicFunction 81 90	attention
+T2	TemporalConcept 94 106	recent years
+T3	PopulationGroup 273 281	subjects
+T4	PatientOrDisabledGroup 311 322	HD patients
+T5	PopulationGroup 354 362	controls
+T6	PatientOrDisabledGroup 448 459	HD patients
+T7	BodyPartOrganOrOrganComponent 603 608	pRNFL
+T8	BodyPartOrganOrOrganComponent 611 648	Superficial and deep capillary plexus
+T9	ClinicalAttribute 611 658	Superficial and deep capillary plexus densities
+T10	HealthCareActivity 679 694	OCT angiography
+T11	HealthCareActivity 696 700	OCTA
+T12	PatientOrDisabledGroup 803 814	HD patients
+T13	ClinicalAttribute 846 863	macular thickness
+T14	BodyPartOrganOrOrganComponent 872 904	inner and outer superior sectors
+T15	BodyPartOrganOrOrganComponent 1034 1058	retinal capillary plexus
+T16	TemporalConcept 1099 1115	disease duration
+T17	SignOrSymptom 1148 1165	macular thickness
+T18	PatientOrDisabledGroup 1169 1180	HD patients
+T19	Finding 1195 1224	severity of motor involvement
+T20	HealthCareActivity 1259 1263	OCTA
+T21	BodyPartOrganOrOrganComponent 1311 1316	pRNFL
+T22	BodyPartOrganOrOrganComponent 1321 1336	macular retinal
+T23	BodyPartOrganOrOrganComponent 1383 1407	macular capillary plexus
+T24	BodyPartOrganOrOrganComponent 1459 1465	retina
+T25	Cell 1459 1465	retina
+T26	ClinicalAttribute 1475 1494	potential biomarker
+T27	CellOrMolecularDysfunction 1514 1539	neurodegenerative process
+T28	ClinicalAttribute 540 557	macular thickness
+T29	BodyPartOrganOrOrganComponent 562 601	peripapillary retinal nerve fiber layer
+T30	DiseaseOrSyndrome 540 557	macular thickness
+T31	BodyPartOrganOrOrganComponent 913 934	inferior outer sector
+T32	ResearchActivity 774 777	GEE
+T33	Finding 833 863	reduction in macular thickness
+T34	BodyPartOrganOrOrganComponent 936 951	Inferior pRNFLs
+T35	Finding 971 993	decreased in thickness
+T36	OrganismAttribute 330 336	gender
+T37	CellOrMolecularDysfunction 217 243	retinal structural changes
+T38	ResearchActivity 718 739	inter-eye correlation
+T39	ClinicalAttribute 1034 1066	retinal capillary plexus density
+T40	TemporalConcept 108 114	Recent
+T41	ClinicalAttribute 296 310	motor-manifest
+T42	Finding 1005 1030	no significant difference
+T43	OrganismAttribute 342 345	age
+T44	OrganismAttribute 1091 1094	Age
+T45	DiseaseOrSyndrome 181 183	HD
+T46	DiseaseOrSyndrome 247 249	HD
+T47	DiseaseOrSyndrome 1364 1366	HD
+T48	DiseaseOrSyndrome 1543 1545	HD
+T49	DiseaseOrSyndrome 159 179	Huntington's disease
+T50	DiseaseOrSyndrome 387 407	Huntington's Disease
+T51	HealthCareActivity 1499 1509	monitoring
+T52	DiseaseOrSyndrome 33 60	neurodegenerative disorders
+T53	PatientOrDisabledGroup 1350 1366	patients with HD
+T54	HealthCareActivity 507 513	SD-OCT
+T55	HealthCareActivity 1249 1255	SD-OCT
+T56	HealthCareActivity 461 505	Spectral-domain Optical Coherence Tomography
+T57	ResearchActivity 115 122	studies
+T58	PathologicFunction 137 155	visual dysfunction
+T59	DiseaseOrSyndrome 137 155	visual dysfunction
+T60	HealthCareActivity 379 426	Unified Huntington's Disease Rating Score-Motor
+T61	ResearchActivity 741 772	generalized estimating equation
+T62	Finding 1300 1316;1337 1346	attenuated pRNFL thickness
+T63	Finding 1300 1310;1321 1346	attenuated macular retinal thickness

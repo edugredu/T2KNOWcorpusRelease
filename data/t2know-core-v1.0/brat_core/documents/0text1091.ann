@@ -1,0 +1,72 @@
+T0	ResearchActivity 852 869	mass spectrometry
+T1	ResearchActivity 1082 1093	segregation
+T2	GeneOrGenome 1327 1331	AACT
+T3	AminoAcidPeptideOrProtein 1327 1331	AACT
+T4	Finding 309 326	no effective cure
+T5	TemporalConcept 521 525	rate
+T6	DiseaseOrSyndrome 468 477	dementias
+T7	PopulationGroup 1453 1460	cohorts
+T8	CellComponent 19 41	extracellular vesicles
+T9	DiseaseOrSyndrome 265 284	Alzheimer's disease
+T10	CellComponent 43 46	EVs
+T11	CellComponent 703 706	EVs
+T12	DiseaseOrSyndrome 286 288	AD
+T13	DiseaseOrSyndrome 331 333	AD
+T14	DiseaseOrSyndrome 782 784	AD
+T15	DiseaseOrSyndrome 1251 1253	AD
+T16	DiseaseOrSyndrome 1656 1658	AD
+T17	ResearchActivity 870 878	analysis
+T18	ResearchActivity 696 701	study
+T19	Eukaryote 59 64	human
+T20	ClinicalAttribute 206 215	biomarker
+T21	ClinicalAttribute 1283 1292	biomarker
+T22	ClinicalAttribute 1593 1602	biomarker
+T23	PathologicFunction 537 548	progression
+T24	TemporalConcept 537 548	progression
+T25	BodyPartOrganOrOrganComponent 146 151	blood
+T26	BodyPartOrganOrOrganComponent 1634 1639	blood
+T27	BodyPartOrganOrOrganComponent 195 205	peripheral
+T28	BodyPartOrganOrOrganComponent 387 397	peripheral
+T29	HealthCareActivity 347 356	diagnosis
+T30	HealthCareActivity 1659 1668	diagnosis
+T31	TemporalConcept 665 670	first
+T32	BodyPartOrganOrOrganComponent 760 765	serum
+T33	CellComponent 712 719	exosome
+T34	CellComponent 1383 1390	exosome
+T35	Substance 65 74	biofluids
+T36	Substance 398 407	biofluids
+T37	AminoAcidPeptideOrProtein 894 903	proteomes
+T38	AminoAcidPeptideOrProtein 1017 1026	proteomes
+T39	AminoAcidPeptideOrProtein 1205 1213	proteins
+T40	AminoAcidPeptideOrProtein 1367 1375	proteins
+T41	BiologicallyActiveSubstance 894 903	proteomes
+T42	BiologicallyActiveSubstance 1017 1026	proteomes
+T43	Finding 216 223	sources
+T44	AminoAcidPeptideOrProtein 1352 1358	A beta
+T45	PopulationGroup 1424 1435	individuals
+T46	PathologicFunction 529 548	disease progression
+T47	Substance 122 131	molecules
+T48	ResearchActivity 949 970	multivariate analyses
+T49	HealthCareActivity 494 503	therapies
+T50	CellFunction 1359 1366	binding
+T51	CellComponent 160 168	exosomes
+T52	CellComponent 1007 1015	exosomes
+T53	ResearchActivity 1139 1165	precipitation-based method
+T54	CellComponent 0 8	Exosomes
+T55	CellComponent 1584 1592	exosomal
+T56	CellComponent 13 41	small extracellular vesicles
+T57	HealthCareActivity 513 520	monitor
+T58	ManufacturedObject 513 520	monitor
+T59	ResearchActivity 926 939	Gene Ontology
+T60	ResearchActivity 981 989	GO terms
+T61	ResearchActivity 941 943	GO
+T62	HealthCareActivity 671 686	clinical screen
+T63	PopulationGroup 769 777	Controls
+T64	ResearchActivity 818 838	column-based methods
+T65	ResearchActivity 799 813;825 838	precipitation- based methods
+T66	PopulationGroup 1030 1038	Controls
+T67	PopulationGroup 1238 1246	Controls
+T68	AminoAcidPeptideOrProtein 1336 1346	C4BP alpha
+T69	BiologicallyActiveSubstance 1336 1346	C4BP alpha
+T70	ResearchActivity 1467 1492	antibody-based approaches
+T71	BiologicallyActiveSubstance 1327 1331	AACT

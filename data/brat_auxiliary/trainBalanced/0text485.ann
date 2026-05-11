@@ -1,0 +1,79 @@
+T0	SignOrSymptom 133 154	involuntary movements
+T1	AminoAcidPeptideOrProtein 338 352	polyglutamines
+T2	Chemical 730 739	metformin
+T3	PharmacologicSubstance 755 773	anti-diabetic drug
+T4	Chemical 884 893	Metformin
+T5	BiologicFunction 960 978	insulin signalling
+T6	BiologicFunction 1012 1020	regulate
+T7	CellFunction 1032 1052	chaperone expression
+T8	Chemical 1110 1119	metformin
+T9	Organism 1127 1141	gut microbiome
+T10	BiologicFunction 1150 1169	metabolic processes
+T11	CellFunction 1150 1169	metabolic processes
+T12	Organism 1243 1253	microbiome
+T13	ResearchActivity 1270 1296	pharmacogenomic approaches
+T14	AminoAcidPeptideOrProtein 307 311	mHtt
+T15	AminoAcidPeptideOrProtein 521 525	mHtt
+T16	AminoAcidPeptideOrProtein 694 698	mHtt
+T17	AminoAcidPeptideOrProtein 1085 1089	mHtt
+T18	CellOrMolecularDysfunction 307 311	mHtt
+T19	CellOrMolecularDysfunction 521 525	mHtt
+T20	CellOrMolecularDysfunction 694 698	mHtt
+T21	CellOrMolecularDysfunction 1085 1089	mHtt
+T22	CellOrMolecularDysfunction 288 305	mutant huntingtin
+T23	MolecularSequence 84 95	CAG repeats
+T24	MolecularSequence 267 278	CAG repeats
+T25	Substance 861 870	substance
+T26	Cell 651 661	cell types
+T27	BodyPartOrganOrOrganComponent 511 519	striatum
+T28	BodyPartOrganOrOrganComponent 488 502	frontal cortex
+T29	DiseaseOrSyndrome 0 18	Huntington disease
+T30	Organism 1234 1238	host
+T31	GeneOrGenome 103 111	HTT gene
+T32	CellFunction 540 558	cellular functions
+T33	InjuryOrPoisoning 682 690	toxicity
+T34	InjuryOrPoisoning 1090 1098	toxicity
+T35	PopulationGroup 202 208	People
+T36	BiologicallyActiveSubstance 954 958	AMPK
+T37	AminoAcidPeptideOrProtein 954 958	AMPK
+T38	Finding 1203 1215	interactions
+T39	CellFunction 778 793	neuroprotective
+T40	PatientOrDisabledGroup 113 121	Patients
+T41	DiseaseOrSyndrome 156 173	cognitive decline
+T42	ResearchActivity 1313 1319	design
+T43	HealthCareActivity 1313 1319	design
+T44	Substance 1002 1011	molecules
+T45	CellFunction 1021 1030	autophagy
+T46	HealthCareActivity 708 715	studies
+T47	ResearchActivity 708 715	studies
+T48	HealthCareActivity 622 629	reports
+T49	ResearchActivity 622 629	reports
+T50	PharmacologicSubstance 769 773	drug
+T51	PharmacologicSubstance 899 915	pleiotropic drug
+T52	PharmacologicSubstance 1228 1232	drug
+T53	GeneOrGenome 103 106	HTT
+T54	AminoAcidPeptideOrProtein 103 106	HTT
+T55	CellFunction 589 598	expressed
+T56	BiologicallyActiveSubstance 103 106	HTT
+T57	DiseaseOrSyndrome 20 22	HD
+T58	DiseaseOrSyndrome 125 127	HD
+T59	DiseaseOrSyndrome 807 809	HD
+T60	DiseaseOrSyndrome 880 882	HD
+T61	DiseaseOrSyndrome 1351 1353	HD
+T62	ResearchActivity 830 836	review
+T63	HealthCareActivity 830 836	review
+T64	ResearchActivity 1175 1180	study
+T65	AminoAcidPeptideOrProtein 288 305	mutant huntingtin
+T66	DiseaseOrSyndrome 29 55	neurodegenerative disorder
+T67	ResearchActivity 797 803	models
+T68	DiseaseOrSyndrome 178 200	psychiatric impairment
+T69	CellOrMolecularDysfunction 218 252	abnormally long expansions of CAGs
+T70	AminoAcidPeptideOrProtein 354 360	polyQs
+T71	AminoAcidPeptideOrProtein 369 375	polyQs
+T72	CellOrMolecularDysfunction 438 460	toxic gain of function
+T73	ExperimentalModelOfDisease 797 809	models of HD
+T74	PharmacologicSubstance 884 893	Metformin
+T75	PharmacologicSubstance 730 739	metformin
+T76	PharmacologicSubstance 1110 1119	metformin
+T77	HealthCareActivity 1320 1341	personalised medicine
+T78	ResearchActivity 1258 1265;1286 1296	genomic approaches

@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 131 157	neurodegenerative diseases
+T1	ResearchActivity 14 33	CRISPR/Cas9 systems
+T2	BiologicFunction 14 25	CRISPR/Cas9
+T3	ResearchActivity 76 90	genome editing
+T4	CellFunction 102 119	genetic mutations
+T5	Virus 0 3	AAV

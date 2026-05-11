@@ -1,0 +1,136 @@
+T0	Finding 30 45	abnormal levels
+T1	BiologicallyActiveSubstance 135 140	t-tau
+T2	AminoAcidPeptideOrProtein 135 140	t-tau
+T3	ResearchActivity 871 884	gold standard
+T4	TemporalConcept 1111 1118	overlap
+T5	BiologicallyActiveSubstance 1160 1165	t-tau
+T6	AminoAcidPeptideOrProtein 1160 1165	t-tau
+T7	TemporalConcept 1276 1283	overlap
+T8	ResearchActivity 1437 1447	positivity
+T9	AminoAcidPeptideOrProtein 1456 1461	t-tau
+T10	BiologicallyActiveSubstance 1456 1461	t-tau
+T11	PopulationGroup 1554 1565	populations
+T12	Finding 1571 1579	presence
+T13	BiomedicalOccupationOrDiscipline 1594 1605	pathologies
+T14	AminoAcidPeptideOrProtein 1614 1629	alpha-synuclein
+T15	BiologicallyActiveSubstance 1614 1629	alpha-synuclein
+T16	AminoAcidPeptideOrProtein 189 194	t-tau
+T17	AminoAcidPeptideOrProtein 992 997	t-tau
+T18	AminoAcidPeptideOrProtein 1371 1376	t-tau
+T19	DiseaseOrSyndrome 257 276	Alzheimer's disease
+T20	ClinicalAttribute 79 89	biomarkers
+T21	ClinicalAttribute 551 561	biomarkers
+T22	PatientOrDisabledGroup 631 639	patients
+T23	BodyPartOrganOrOrganComponent 74 77	CSF
+T24	BodyPartOrganOrOrganComponent 460 463	CSF
+T25	BodyPartOrganOrOrganComponent 547 550	CSF
+T26	BodyPartOrganOrOrganComponent 1665 1668	CSF
+T27	PathologicFunction 892 901	pathology
+T28	BiomedicalOccupationOrDiscipline 892 901	pathology
+T29	ResearchActivity 829 836	Results
+T30	PopulationGroup 707 713	cohort
+T31	PopulationGroup 821 827	cohort
+T32	PopulationGroup 1346 1352	cohort
+T33	AminoAcidPeptideOrProtein 90 107	amyloid-beta 1-42
+T34	AminoAcidPeptideOrProtein 592 599	amyloid
+T35	AminoAcidPeptideOrProtein 848 855	amyloid
+T36	AminoAcidPeptideOrProtein 1425 1432	amyloid
+T37	BiologicallyActiveSubstance 592 599	amyloid
+T38	BiologicallyActiveSubstance 848 855	amyloid
+T39	BiologicallyActiveSubstance 1425 1432	amyloid
+T40	BiologicallyActiveSubstance 189 194	t-tau
+T41	BiologicallyActiveSubstance 992 997	t-tau
+T42	BiologicallyActiveSubstance 1371 1376	t-tau
+T43	DiseaseOrSyndrome 278 280	AD
+T44	DiseaseOrSyndrome 449 451	AD
+T45	DiseaseOrSyndrome 748 750	AD
+T46	DiseaseOrSyndrome 889 891	AD
+T47	DiseaseOrSyndrome 958 960	AD
+T48	DiseaseOrSyndrome 1054 1056	AD
+T49	DiseaseOrSyndrome 1128 1130	AD
+T50	DiseaseOrSyndrome 1242 1244	AD
+T51	DiseaseOrSyndrome 1293 1295	AD
+T52	DiseaseOrSyndrome 1551 1553	AD
+T53	ClinicalAttribute 464 473	biomarker
+T54	ClinicalAttribute 751 760	biomarker
+T55	ClinicalAttribute 1669 1678	biomarker
+T56	HealthCareActivity 600 607	imaging
+T57	HealthCareActivity 856 863	imaging
+T58	BodyPartOrganOrOrganComponent 53 72	cerebrospinal fluid
+T59	ResearchActivity 526 543	longitudinal data
+T60	HealthCareActivity 588 591	PET
+T61	HealthCareActivity 844 847	PET
+T62	HealthCareActivity 1433 1436	PET
+T63	AminoAcidPeptideOrProtein 143 161	phosphorylated tau
+T64	BiologicallyActiveSubstance 143 161	phosphorylated tau
+T65	AminoAcidPeptideOrProtein 1620 1629	synuclein
+T66	BiologicallyActiveSubstance 1620 1629	synuclein
+T67	HealthCareActivity 621 630	diagnosed
+T68	PopulationGroup 492 502	population
+T69	DiseaseOrSyndrome 1187 1207	cognitive impairment
+T70	DiseaseOrSyndrome 1483 1503	cognitive impairment
+T71	DiseaseOrSyndrome 350 369	Parkinson's disease
+T72	DiseaseOrSyndrome 371 373	PD
+T73	DiseaseOrSyndrome 489 491	PD
+T74	DiseaseOrSyndrome 645 647	PD
+T75	DiseaseOrSyndrome 1633 1635	PD
+T76	BiologicallyActiveSubstance 90 107	amyloid-beta 1-42
+T77	AminoAcidPeptideOrProtein 109 121	A beta(1-42)
+T78	AminoAcidPeptideOrProtein 195 207	A beta(1-42)
+T79	AminoAcidPeptideOrProtein 218 230	A beta(1-42)
+T80	AminoAcidPeptideOrProtein 925 937	A beta(1-42)
+T81	AminoAcidPeptideOrProtein 998 1010	A beta(1-42)
+T82	AminoAcidPeptideOrProtein 1021 1033	A beta(1-42)
+T83	AminoAcidPeptideOrProtein 1377 1389	A beta(1-42)
+T84	AminoAcidPeptideOrProtein 1401 1413	A beta(1-42)
+T85	AminoAcidPeptideOrProtein 124 133	total tau
+T86	BiologicallyActiveSubstance 124 133	total tau
+T87	AminoAcidPeptideOrProtein 163 168	p-tau
+T88	AminoAcidPeptideOrProtein 212 217	p-tau
+T89	AminoAcidPeptideOrProtein 1015 1020	p-tau
+T90	AminoAcidPeptideOrProtein 1170 1175	p-tau
+T91	AminoAcidPeptideOrProtein 1395 1400	p-tau
+T92	AminoAcidPeptideOrProtein 1466 1471	p-tau
+T93	BiologicallyActiveSubstance 163 168	p-tau
+T94	BiologicallyActiveSubstance 212 217	p-tau
+T95	BiologicallyActiveSubstance 1015 1020	p-tau
+T96	BiologicallyActiveSubstance 1170 1175	p-tau
+T97	BiologicallyActiveSubstance 1395 1400	p-tau
+T98	BiologicallyActiveSubstance 1466 1471	p-tau
+T99	Finding 414 433	diagnostic accuracy
+T100	HealthCareActivity 563 582	cognitive diagnoses
+T101	HealthCareRelatedOrganization 657 699	Parkinson's Progression Markers Initiative
+T102	HealthCareRelatedOrganization 701 705	PPMI
+T103	HealthCareRelatedOrganization 816 820	PPMI
+T104	ResearchActivity 783 798	optimal cutoffs
+T105	BiologicallyActiveSubstance 1401 1413	A beta(1-42)
+T106	ResearchActivity 1245 1252	cutoffs
+T107	ResearchActivity 961 967	cutoff
+T108	BiologicallyActiveSubstance 195 207	A beta(1-42)
+T109	ClinicalAttribute 179 207	ratios of t-tau/A beta(1-42)
+T110	BiologicallyActiveSubstance 218 230	A beta(1-42)
+T111	BiologicallyActiveSubstance 109 121	A beta(1-42)
+T112	ResearchActivity 18 25	cutoffs
+T113	ResearchActivity 305 312	cutoffs
+T114	Finding 398 409	suitability
+T115	ResearchActivity 474 481	cutoffs
+T116	ResearchActivity 513 521;539 543	Baseline data
+T117	ResearchActivity 761 768	cutoffs
+T118	ResearchActivity 907 921	optimal cutoff
+T119	BiologicallyActiveSubstance 925 937	A beta(1-42)
+T120	ResearchActivity 973 988	optimal cutoffs
+T121	BiologicallyActiveSubstance 998 1010	A beta(1-42)
+T122	BiologicallyActiveSubstance 1021 1033	A beta(1-42)
+T123	ResearchActivity 1076 1096	confidence intervals
+T124	ResearchActivity 1098 1101	CIs
+T125	ResearchActivity 1131 1138	cutoffs
+T126	ResearchActivity 1140 1155	Optimal cutoffs
+T127	ResearchActivity 1264 1267	CIs
+T128	ResearchActivity 1296 1303	cutoffs
+T129	ResearchActivity 1317 1332	Optimal cutoffs
+T130	HealthCareRelatedOrganization 1341 1345	PPMI
+T131	AminoAcidPeptideOrProtein 1357 1369	A beta(1-42)
+T132	BiologicallyActiveSubstance 1357 1369	A beta(1-42)
+T133	ResearchActivity 1530 1537	cutoffs
+T134	BiologicallyActiveSubstance 1377 1389	A beta(1-42)
+T135	ResearchActivity 1057 1064	cutoffs

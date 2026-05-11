@@ -1,0 +1,73 @@
+T0	Finding 127 139	misdiagnosis
+T1	ManufacturedObject 348 372	clinical 3T MRI scanners
+T2	ResearchActivity 374 380	Method
+T3	HealthCareActivity 430 439	MRI scans
+T4	Finding 634 645	Sensitivity
+T5	ClinicalAttribute 708 711	PRL
+T6	DiseaseOrSyndrome 750 778	clinically isolated syndrome
+T7	DiseaseOrSyndrome 780 783	CIS
+T8	ClinicalAttribute 804 807	PRL
+T9	ClinicalAttribute 855 858	PRL
+T10	DiseaseOrSyndrome 985 988	CIS
+T11	ClinicalAttribute 1092 1095	PRL
+T12	DiseaseOrSyndrome 1168 1171	CIS
+T13	BodyPartOrganOrOrganComponent 43 48	brain
+T14	ResearchActivity 387 420	retrospective international study
+T15	Finding 272 283	sensitivity
+T16	Finding 1033 1044	sensitivity
+T17	Finding 1238 1249	sensitivity
+T18	Finding 288 299	specificity
+T19	Finding 650 661	specificity
+T20	Finding 896 907	specificity
+T21	Finding 1182 1193	specificity
+T22	OrganismAttribute 500 507	healthy
+T23	OrganismAttribute 1005 1012	healthy
+T24	DiseaseOrSyndrome 105 107	MS
+T25	DiseaseOrSyndrome 327 329	MS
+T26	DiseaseOrSyndrome 457 459	MS
+T27	DiseaseOrSyndrome 471 473	MS
+T28	DiseaseOrSyndrome 734 736	MS
+T29	DiseaseOrSyndrome 978 980	MS
+T30	DiseaseOrSyndrome 1162 1164	MS
+T31	DiseaseOrSyndrome 1331 1333	MS
+T32	HealthCareActivity 49 75	magnetic resonance imaging
+T33	HealthCareActivity 77 80	MRI
+T34	HealthCareActivity 348 372	clinical 3T MRI scanners
+T35	HealthCareActivity 549 588	fluid-attenuated inversion recovery MRI
+T36	TemporalConcept 144 151	chronic
+T37	PatientOrDisabledGroup 443 451	patients
+T38	PatientOrDisabledGroup 785 793	patients
+T39	PatientOrDisabledGroup 1076 1084	patients
+T40	DiseaseOrSyndrome 85 103	multiple sclerosis
+T41	ResearchActivity 916 935	confidence interval
+T42	PharmacologicSubstance 179 183	iron
+T43	Chemical 179 183	iron
+T44	BiologicallyActiveSubstance 179 183	iron
+T45	InjuryOrPoisoning 25 32	lesions
+T46	InjuryOrPoisoning 144 166	chronic active lesions
+T47	ClinicalAttribute 212 236	paramagnetic rim lesions
+T48	BiologicFunction 576 584	recovery
+T49	HealthCareActivity 576 584	recovery
+T50	Cell 179 201	iron-laden macrophages
+T51	InjuryOrPoisoning 1142 1148	lesion
+T52	TemporalConcept 609 614	phase
+T53	BodyPartOrganOrOrganComponent 12 24	White matter
+T54	HealthCareActivity 68 75	imaging
+T55	HealthCareActivity 609 632	phase-sensitive imaging
+T56	PopulationGroup 500 516	healthy controls
+T57	PopulationGroup 1005 1021	healthy controls
+T58	BodyPartOrganOrOrganComponent 168 178	peripheral
+T59	ClinicalAttribute 1361 1389	imaging diagnostic biomarker
+T60	TemporalConcept 576 584	recovery
+T61	ClinicalAttribute 238 242	PRLs
+T62	InjuryOrPoisoning 303 307	PRLs
+T63	Finding 471 480	MS mimics
+T64	TemporalConcept 494 499	older
+T65	InjuryOrPoisoning 528 532	WMLs
+T66	InjuryOrPoisoning 34 38	WMLs
+T67	ClinicalAttribute 680 684	PRLs
+T68	ClinicalAttribute 1106 1123	central vein sign
+T69	ClinicalAttribute 1436 1439	CVS
+T70	ClinicalAttribute 1125 1128	CVS
+T71	ManufacturedObject 549 588	fluid-attenuated inversion recovery MRI
+T72	ManufacturedObject 49 75	magnetic resonance imaging

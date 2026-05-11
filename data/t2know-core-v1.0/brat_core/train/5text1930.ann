@@ -1,0 +1,8 @@
+T0	PathologicFunction 90 105	harmful effects
+T1	BodyPartOrganOrOrganComponent 129 133	skin
+T2	NaturalPhenomenonOrProcess 109 121	UV radiation
+T3	BodyPartOrganOrOrganComponent 138 142	eyes
+T4	ManufacturedObject 43 53	sunglasses
+T5	Substance 59 68	sunscreen
+T6	ManufacturedObject 37 41	hats
+T7	HealthCareActivity 0 19	Protective measures

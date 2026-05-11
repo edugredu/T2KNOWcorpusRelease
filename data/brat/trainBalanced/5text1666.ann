@@ -1,0 +1,5 @@
+T0	HealthCareActivity 27 44	oncolytic therapy
+T1	DiseaseOrSyndrome 105 130	neurodegenerative disease
+T2	Cell 142 153	glial cells
+T3	Virus 0 20	Herpes Simplex Virus
+T4	Virus 0 6	Herpes

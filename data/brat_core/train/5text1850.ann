@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 117 143	neurodegenerative diseases
+T1	BiologicFunction 18 26	delivery
+T2	CellFunction 97 105	pathways
+T3	NucleicAcidNucleosideOrNucleotide 30 38	microRNA
+T4	BiologicallyActiveSubstance 30 38	microRNA
+T5	Virus 0 10	Lentiviral
+T6	NucleicAcidNucleosideOrNucleotide 11 17	vector

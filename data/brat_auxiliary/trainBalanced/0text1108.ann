@@ -1,0 +1,162 @@
+T0	Chemical 178 188	inhibitors
+T1	PharmacologicSubstance 178 188	inhibitors
+T2	BiologicallyActiveSubstance 178 188	inhibitors
+T3	AminoAcidPeptideOrProtein 178 188	inhibitors
+T4	AminoAcidPeptideOrProtein 192 218	Neutral Sphingomyelinase 2
+T5	BiologicallyActiveSubstance 192 218	Neutral Sphingomyelinase 2
+T6	Finding 240 248	critical
+T7	ResearchActivity 627 631	SPRi
+T8	Eukaryote 728 732	Mice
+T9	Eukaryote 839 843	Mice
+T10	ResearchActivity 1075 1079	SPRi
+T11	GeneOrGenome 1159 1164	CD171
+T12	GeneOrGenome 1171 1175	PLP1
+T13	GeneOrGenome 1237 1243	GLAST1
+T14	Finding 1255 1264	unchanged
+T15	InjuryOrPoisoning 1558 1570	acute injury
+T16	Cell 1635 1651	oligodendrocytes
+T17	Cell 653 663	brain cell
+T18	TemporalConcept 708 713	acute
+T19	TemporalConcept 1558 1563	acute
+T20	TemporalConcept 1837 1842	acute
+T21	CellOrMolecularDysfunction 61 80	pathogenic proteins
+T22	AminoAcidPeptideOrProtein 1405 1410	CD11b
+T23	AminoAcidPeptideOrProtein 1450 1455	CD11b
+T24	BiologicallyActiveSubstance 1405 1410	CD11b
+T25	BiologicallyActiveSubstance 1450 1455	CD11b
+T26	CellComponent 0 22	Extracellular Vesicles
+T27	ResearchActivity 580 625	multiplexed Surface Plasmon Resonance imaging
+T28	GeneOrGenome 220 227	nSMase2
+T29	GeneOrGenome 476 483	nSMase2
+T30	GeneOrGenome 825 832	nSMase2
+T31	GeneOrGenome 1011 1018	nSMase2
+T32	GeneOrGenome 1578 1585	nSMase2
+T33	GeneOrGenome 1720 1727	nSMase2
+T34	GeneOrGenome 1790 1797	nSMase2
+T35	AminoAcidPeptideOrProtein 220 227	nSMase2
+T36	AminoAcidPeptideOrProtein 476 483	nSMase2
+T37	AminoAcidPeptideOrProtein 825 832	nSMase2
+T38	AminoAcidPeptideOrProtein 1011 1018	nSMase2
+T39	AminoAcidPeptideOrProtein 1578 1585	nSMase2
+T40	AminoAcidPeptideOrProtein 1720 1727	nSMase2
+T41	AminoAcidPeptideOrProtein 1790 1797	nSMase2
+T42	BiologicallyActiveSubstance 220 227	nSMase2
+T43	BiologicallyActiveSubstance 476 483	nSMase2
+T44	BiologicallyActiveSubstance 825 832	nSMase2
+T45	BiologicallyActiveSubstance 1011 1018	nSMase2
+T46	BiologicallyActiveSubstance 1578 1585	nSMase2
+T47	BiologicallyActiveSubstance 1720 1727	nSMase2
+T48	BiologicallyActiveSubstance 1790 1797	nSMase2
+T49	InjuryOrPoisoning 708 726	acute brain injury
+T50	InjuryOrPoisoning 1837 1855	acute brain injury
+T51	AminoAcidPeptideOrProtein 885 889	IL-1
+T52	AminoAcidPeptideOrProtein 958 962	IL-1
+T53	AminoAcidPeptideOrProtein 1095 1099	IL-1
+T54	AminoAcidPeptideOrProtein 1268 1272	IL-1
+T55	AminoAcidPeptideOrProtein 1287 1291	IL-1
+T56	AminoAcidPeptideOrProtein 1752 1756	IL-1
+T57	BiologicallyActiveSubstance 885 889	IL-1
+T58	BiologicallyActiveSubstance 958 962	IL-1
+T59	BiologicallyActiveSubstance 1095 1099	IL-1
+T60	BiologicallyActiveSubstance 1268 1272	IL-1
+T61	BiologicallyActiveSubstance 1287 1291	IL-1
+T62	BiologicallyActiveSubstance 1752 1756	IL-1
+T63	BodyPartOrganOrOrganComponent 876 884	striatal
+T64	BodyPartOrganOrOrganComponent 1002 1010	striatal
+T65	AminoAcidPeptideOrProtein 885 894	IL-1 beta
+T66	AminoAcidPeptideOrProtein 958 967	IL-1 beta
+T67	AminoAcidPeptideOrProtein 1095 1104	IL-1 beta
+T68	AminoAcidPeptideOrProtein 1268 1277	IL-1 beta
+T69	AminoAcidPeptideOrProtein 1287 1296	IL-1 beta
+T70	AminoAcidPeptideOrProtein 1752 1761	IL-1 beta
+T71	BiologicallyActiveSubstance 885 894	IL-1 beta
+T72	BiologicallyActiveSubstance 958 967	IL-1 beta
+T73	BiologicallyActiveSubstance 1095 1104	IL-1 beta
+T74	BiologicallyActiveSubstance 1268 1277	IL-1 beta
+T75	BiologicallyActiveSubstance 1287 1296	IL-1 beta
+T76	BiologicallyActiveSubstance 1752 1761	IL-1 beta
+T77	BiologicallyActiveSubstance 484 493	inhibitor
+T78	PharmacologicSubstance 484 493	inhibitor
+T79	Chemical 484 493	inhibitor
+T80	BodyPartOrganOrOrganComponent 437 443	orally
+T81	Chemical 401 405	PDDC
+T82	Chemical 693 697	PDDC
+T83	Chemical 742 746	PDDC
+T84	Chemical 790 794	PDDC
+T85	Chemical 1063 1067	PDDC
+T86	Chemical 1218 1222	PDDC
+T87	Chemical 1281 1285	PDDC
+T88	Chemical 1500 1504	PDDC
+T89	Chemical 1733 1737	PDDC
+T90	PharmacologicSubstance 885 894	IL-1 beta
+T91	PharmacologicSubstance 958 967	IL-1 beta
+T92	PharmacologicSubstance 1095 1104	IL-1 beta
+T93	PharmacologicSubstance 1268 1277	IL-1 beta
+T94	PharmacologicSubstance 1287 1296	IL-1 beta
+T95	PharmacologicSubstance 1752 1761	IL-1 beta
+T96	CellFunction 1011 1027	nSMase2 activity
+T97	CellFunction 1578 1594	nSMase2 activity
+T98	PharmacologicSubstance 401 405	PDDC
+T99	PharmacologicSubstance 693 697	PDDC
+T100	PharmacologicSubstance 742 746	PDDC
+T101	PharmacologicSubstance 790 794	PDDC
+T102	PharmacologicSubstance 1063 1067	PDDC
+T103	PharmacologicSubstance 1218 1222	PDDC
+T104	PharmacologicSubstance 1281 1285	PDDC
+T105	PharmacologicSubstance 1500 1504	PDDC
+T106	PharmacologicSubstance 1733 1737	PDDC
+T107	CellComponent 24 27	EVs
+T108	CellComponent 532 535	EVs
+T109	CellComponent 672 675	EVs
+T110	CellComponent 1178 1181	EVs
+T111	CellComponent 1246 1249	EVs
+T112	CellComponent 1329 1332	EVs
+T113	CellComponent 1441 1444	EVs
+T114	CellComponent 1608 1611	EVs
+T115	CellComponent 252 254	EV
+T116	CellComponent 1188 1190	EV
+T117	BodyPartOrganOrOrganComponent 925 931	plasma
+T118	BodyPartOrganOrOrganComponent 1142 1148	plasma
+T119	BodyPartOrganOrOrganComponent 1695 1701	plasma
+T120	BodyPartOrganOrOrganComponent 459 464	brain
+T121	BodyPartOrganOrOrganComponent 714 719	brain
+T122	BodyPartOrganOrOrganComponent 795 800	brain
+T123	BodyPartOrganOrOrganComponent 936 941	brain
+T124	BodyPartOrganOrOrganComponent 1572 1577	brain
+T125	BodyPartOrganOrOrganComponent 1843 1848	brain
+T126	PopulationGroup 271 276	group
+T127	Cell 659 663	cell
+T128	TemporalConcept 412 417	first
+T129	TemporalConcept 919 924	later
+T130	ResearchActivity 544 552	in vitro
+T131	CellFunction 1706 1716	inhibition
+T132	CellFunction 1798 1808	inhibition
+T133	Cell 1626 1633	neurons
+T134	ResearchActivity 557 564	in vivo
+T135	Finding 978 1001	significantly increased
+T136	CellFunction 255 265	biogenesis
+T137	TemporalConcept 277 285	recently
+T138	InjuryOrPoisoning 1113 1119	injury
+T139	ResearchActivity 1526 1530	data
+T140	Cell 1667 1677	microglial
+T141	HealthCareActivity 895 904	injection
+T142	HealthCareActivity 968 977	injection
+T143	HealthCareActivity 1297 1306	injection
+T144	BiologicallyActiveSubstance 233 239	enzyme
+T145	Finding 523 531	reducing
+T146	DiseaseOrSyndrome 104 125	neurological diseases
+T147	CellFunction 532 543	EVs release
+T148	Chemical 297 399	phenyl(R)-(1-(3-(3,4-dimethoxypheny1)-2,6-dimethylimidazo[1,2-b]pyridazin-8-yepyrrolidin-3-yecarbamate
+T149	PharmacologicSubstance 297 399	phenyl(R)-(1-(3-(3,4-dimethoxypheny1)-2,6-dimethylimidazo[1,2-b]pyridazin-8-yepyrrolidin-3-yecarbamate
+T150	Substance 758 762	chow
+T151	ClinicalAttribute 1142 1164	plasma levels of CD171
+T152	AminoAcidPeptideOrProtein 1159 1164	CD171
+T153	BiologicallyActiveSubstance 1159 1164	CD171
+T154	AminoAcidPeptideOrProtein 1171 1175	PLP1
+T155	BiologicallyActiveSubstance 1171 1175	PLP1
+T156	AminoAcidPeptideOrProtein 1237 1243	GLAST1
+T157	BiologicallyActiveSubstance 1237 1243	GLAST1
+T158	AminoAcidPeptideOrProtein 1412 1415	IB4
+T159	BiologicallyActiveSubstance 1412 1415	IB4
+T160	Finding 1770 1777	changes
+T161	Finding 1814 1832	therapeutic target

@@ -1,0 +1,154 @@
+T0	Chemical 608 625	conditioned media
+T1	Chemical 627 629	CM
+T2	Cell 658 667	neuroglia
+T3	BodyPartOrganOrOrganComponent 672 683	endothelium
+T4	DiseaseOrSyndrome 709 712	SAD
+T5	DiseaseOrSyndrome 717 720	FAD
+T6	Cell 812 828	cocultured cells
+T7	Chemical 1063 1065	CM
+T8	ResearchActivity 1319 1327	Cultured
+T9	NucleicAcidNucleosideOrNucleotide 1535 1538	FAD
+T10	GeneOrGenome 1535 1538	FAD
+T11	AminoAcidPeptideOrProtein 1595 1606	aquaporin 4
+T12	BiologicallyActiveSubstance 1595 1606	aquaporin 4
+T13	CellOrMolecularDysfunction 1622 1634	cytotoxicity
+T14	DiseaseOrSyndrome 1680 1683	FAD
+T15	BodyPartOrganOrOrganComponent 1753 1764	endothelium
+T16	BodyPartOrganOrOrganComponent 1801 1812	endothelium
+T17	DiseaseOrSyndrome 1859 1861	GS
+T18	BodyPartOrganOrOrganComponent 1859 1861	GS
+T19	GeneOrGenome 1859 1861	GS
+T20	Cell 1941 1953	perivascular
+T21	AminoAcidPeptideOrProtein 940 971	glial fibrillary acidic protein
+T22	BiologicallyActiveSubstance 940 971	glial fibrillary acidic protein
+T23	Cell 1134 1151	endothelial cells
+T24	BiologicFunction 121 137	neurodevelopment
+T25	Cell 0 10	Astrocytes
+T26	Cell 192 202	Astrocytes
+T27	BodyPartOrganOrOrganComponent 76 94	neurovascular unit
+T28	BodyPartOrganOrOrganComponent 96 99	NVU
+T29	Cell 497 500	NVU
+T30	BodyPartOrganOrOrganComponent 642 645	NVU
+T31	Cell 805 808	NVU
+T32	Cell 1218 1234	endothelial cell
+T33	Cell 1698 1708	neuroglial
+T34	Cell 2079 2089	neuroglial
+T35	Finding 1928 1935	finding
+T36	BodyPartOrganOrOrganComponent 1877 1885	vascular
+T37	BodyPartOrganOrOrganComponent 1978 1986	vascular
+T38	BodyPartOrganOrOrganComponent 2094 2113	vascular components
+T39	AminoAcidPeptideOrProtein 579 582	PS1
+T40	AminoAcidPeptideOrProtein 1002 1005	PS1
+T41	BiologicallyActiveSubstance 579 582	PS1
+T42	BiologicallyActiveSubstance 1002 1005	PS1
+T43	Cell 1954 1973	reactive astrocytes
+T44	CellComponent 267 289	extracellular vesicles
+T45	CellComponent 291 294	EVs
+T46	CellComponent 297 300	EVs
+T47	CellComponent 635 638	EVs
+T48	CellComponent 739 742	EVs
+T49	CellComponent 746 749	EVs
+T50	CellComponent 1252 1255	EVs
+T51	CellComponent 1408 1411	EVs
+T52	CellComponent 1463 1466	EVs
+T53	CellComponent 1541 1544	EVs
+T54	CellComponent 1610 1613	EVs
+T55	CellComponent 1686 1689	EVs
+T56	CellComponent 1778 1781	EVs
+T57	CellComponent 1835 1838	EVs
+T58	CellComponent 2068 2071	EVs
+T59	DiseaseOrSyndrome 390 392	AD
+T60	DiseaseOrSyndrome 459 461	AD
+T61	DiseaseOrSyndrome 595 597	AD
+T62	DiseaseOrSyndrome 909 911	AD
+T63	DiseaseOrSyndrome 1087 1089	AD
+T64	DiseaseOrSyndrome 1247 1249	AD
+T65	DiseaseOrSyndrome 1361 1363	AD
+T66	DiseaseOrSyndrome 1489 1491	AD
+T67	DiseaseOrSyndrome 1830 1832	AD
+T68	DiseaseOrSyndrome 2014 2016	AD
+T69	DiseaseOrSyndrome 2063 2065	AD
+T70	PatientOrDisabledGroup 1364 1372	patients
+T71	ClinicalAttribute 1580 1594	surface marker
+T72	BodyPartOrganOrOrganComponent 2017 2022	brain
+T73	Eukaryote 1328 1333	human
+T74	Eukaryote 2008 2013	human
+T75	Substance 1504 1511	samples
+T76	BodyPartOrganOrOrganComponent 1504 1511	samples
+T77	Cell 866 871	cells
+T78	Eukaryote 1077 1081	mice
+T79	Cell 27 38	glial cells
+T80	CellFunction 317 340	cell-cell communication
+T81	Cell 1111 1115	cell
+T82	Cell 1116 1120	cell
+T83	Cell 1205 1213	neuronal
+T84	CellFunction 1562 1572	expression
+T85	Finding 249 258	mediators
+T86	Finding 367 376	mediators
+T87	Cell 598 607	astrocyte
+T88	Cell 721 730	astrocyte
+T89	Cell 1292 1301	astrocyte
+T90	Cell 1639 1648	astrocyte
+T91	Cell 1849 1858	astrocyte
+T92	Finding 1421 1435	No differences
+T93	ResearchActivity 685 693	in vitro
+T94	ResearchActivity 829 837	in vitro
+T95	BiologicFunction 1235 1240	death
+T96	PathologicFunction 1235 1240	death
+T97	CellFunction 1235 1240	death
+T98	CellOrMolecularDysfunction 173 190	neurodegeneration
+T99	BodyPartOrganOrOrganComponent 1035 1045	astrocytic
+T100	ExperimentalModelOfDisease 590 597	3xTg-AD
+T101	ExperimentalModelOfDisease 904 911	3xTg-AD
+T102	ExperimentalModelOfDisease 1082 1089	3xTg-AD
+T103	ExperimentalModelOfDisease 1242 1249	3xTg-AD
+T104	Cell 1193 1200	neurons
+T105	BiologicFunction 139 156	brain maintenance
+T106	ResearchActivity 872 879	in vivo
+T107	ResearchActivity 1900 1907	in vivo
+T108	Cell 240 248	cellular
+T109	Cell 463 473	astrocytes
+T110	Cell 912 922	astrocytes
+T111	Cell 1009 1019	astrocytes
+T112	Cell 1090 1100	astrocytes
+T113	Cell 1345 1355	astrocytes
+T114	Cell 1963 1973	astrocytes
+T115	OrganismAttribute 1443 1447	size
+T116	ResearchActivity 895 903	cultured
+T117	PopulationGroup 573 578	adult
+T118	PopulationGroup 1071 1076	adult
+T119	Finding 562 569	effects
+T120	Finding 794 801	effects
+T121	DiseaseOrSyndrome 440 457	Alzheimer disease
+T122	CellComponent 501 511	components
+T123	TemporalConcept 1334 1344	postmortem
+T124	ResearchActivity 812 822	cocultured
+T125	AminoAcidPeptideOrProtein 973 977	GFAP
+T126	AminoAcidPeptideOrProtein 1302 1306	GFAP
+T127	AminoAcidPeptideOrProtein 1388 1392	GFAP
+T128	BiologicallyActiveSubstance 973 977	GFAP
+T129	BiologicallyActiveSubstance 1302 1306	GFAP
+T130	BiologicallyActiveSubstance 1388 1392	GFAP
+T131	GeneOrGenome 973 977	GFAP
+T132	GeneOrGenome 1302 1306	GFAP
+T133	GeneOrGenome 1388 1392	GFAP
+T134	HealthCareActivity 1412 1419	release
+T135	ResearchActivity 1412 1419	release
+T136	InjuryOrPoisoning 1264 1277	neurotoxicity
+T137	ManufacturedObject 305 313	vehicles
+T138	BiologicFunction 161 167	repair
+T139	HealthCareActivity 161 167	repair
+T140	BodyPartOrganOrOrganComponent 139 144	brain
+T141	InjuryOrPoisoning 380 386	damage
+T142	BodyPartOrganOrOrganComponent 845 865	intrahippocampal CA1
+T143	Finding 1046 1061	hyperreactivity
+T144	CellComponent 1153 1189	filopodia-like dendritic protrusions
+T145	CellFunction 1230 1240	cell death
+T146	CellFunction 1307 1317	reactivity
+T147	CellFunction 1393 1403	reactivity
+T148	CellFunction 1649 1664	hyperactivation
+T149	CellOrMolecularDysfunction 1709 1721	cytotoxicity
+T150	PathologicFunction 1877 1899	vascular deterioration
+T151	PathologicFunction 1978 2000	vascular deterioration
+T152	DiseaseOrSyndrome 1527 1530	SAD
+T153	DiseaseOrSyndrome 1772 1775	SAD

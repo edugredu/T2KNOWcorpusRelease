@@ -1,0 +1,7 @@
+T0	NucleicAcidNucleosideOrNucleotide 65 87	small interfering RNAs
+T1	BodyPartOrganOrOrganComponent 109 122	brain regions
+T2	GeneOrGenome 56 61	genes
+T3	Virus 0 4	AAVs
+T4	BiologicallyActiveSubstance 65 87	small interfering RNAs
+T5	BiologicallyActiveSubstance 89 95	siRNAs
+T6	NucleicAcidNucleosideOrNucleotide 89 95	siRNAs

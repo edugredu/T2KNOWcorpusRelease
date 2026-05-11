@@ -1,0 +1,153 @@
+T0	Cell 260 264	cell
+T1	ResearchActivity 266 297	Genome-wide association studies
+T2	Finding 322 342	genetic risk factors
+T3	ResearchActivity 752 765	cryopreserved
+T4	BodyPartOrganOrOrganComponent 867 882	parietal cortex
+T5	GeneOrGenome 1240 1246	P2RY12
+T6	GeneOrGenome 1251 1258	TMEM119
+T7	GeneOrGenome 1321 1325	FTH1
+T8	GeneOrGenome 1330 1335	TREM2
+T9	BiologicallyActiveSubstance 1395 1398	Tau
+T10	AminoAcidPeptideOrProtein 1395 1398	Tau
+T11	CellFunction 1508 1520	upregulation
+T12	CellOrMolecularDysfunction 1889 1920	defect in acyl-chain remodeling
+T13	CellFunction 1899 1920	acyl-chain remodeling
+T14	CellFunction 1964 1994	immune and cellular senescence
+T15	TemporalConcept 2139 2145	stages
+T16	CellComponent 150 172	Extracellular vesicles
+T17	Cell 1537 1543	neuron
+T18	Chemical 1027 1033	lipids
+T19	Chemical 1842 1864	polyunsaturated lipids
+T20	Chemical 183 188	lipid
+T21	Chemical 1708 1713	lipid
+T22	Chemical 1804 1824	docosahexaenoic acid
+T23	Cell 2223 2231	neuronal
+T24	CellComponent 737 746	small EVs
+T25	Finding 617 626	knowledge
+T26	Finding 76 83	no cure
+T27	CellFunction 1995 2013	signaling pathways
+T28	CellOrMolecularDysfunction 1723 1748	endolysosomal dysfunction
+T29	Finding 1264 1280	increased levels
+T30	Chemical 1594 1605	cholesterol
+T31	ResearchActivity 690 696	method
+T32	Substance 2243 2249	debris
+T33	BiologicallyActiveSubstance 1594 1605	cholesterol
+T34	Cell 2497 2506	cell-type
+T35	Finding 940 946	normal
+T36	HealthCareActivity 690 696	method
+T37	SignOrSymptom 131 148	clinical symptoms
+T38	BodyPartOrganOrOrganComponent 772 784	brain tissue
+T39	TemporalConcept 891 901	late-stage
+T40	CellOrMolecularDysfunction 509 528	pathogenic proteins
+T41	Finding 1168 1189	significant reduction
+T42	PathologicFunction 441 452	progression
+T43	TemporalConcept 441 452	progression
+T44	OrganismAttribute 928 931	age
+T45	AminoAcidPeptideOrProtein 538 541	tau
+T46	AminoAcidPeptideOrProtein 2261 2264	tau
+T47	AminoAcidPeptideOrProtein 1013 1021	proteins
+T48	AminoAcidPeptideOrProtein 1553 1561	proteins
+T49	BodyPartOrganOrOrganComponent 636 641	brain
+T50	BodyPartOrganOrOrganComponent 1367 1372	brain
+T51	BodyPartOrganOrOrganComponent 1440 1445	brain
+T52	BodyPartOrganOrOrganComponent 1650 1655	brain
+T53	ResearchActivity 2118 2127	signature
+T54	ResearchActivity 2446 2477	larger-scale multiomics studies
+T55	CellComponent 2274 2296	extracellular vesicles
+T56	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T57	ClinicalAttribute 2398 2408	biomarkers
+T58	CellComponent 174 177	EVs
+T59	CellComponent 414 417	EVs
+T60	CellComponent 587 590	EVs
+T61	CellComponent 743 746	EVs
+T62	CellComponent 845 848	EVs
+T63	CellComponent 1355 1358	EVs
+T64	CellComponent 1465 1468	EVs
+T65	CellComponent 1634 1637	EVs
+T66	CellComponent 2348 2351	EVs
+T67	CellComponent 2516 2519	EVs
+T68	DiseaseOrSyndrome 21 23	AD
+T69	DiseaseOrSyndrome 319 321	AD
+T70	DiseaseOrSyndrome 456 458	AD
+T71	DiseaseOrSyndrome 902 904	AD
+T72	DiseaseOrSyndrome 1364 1366	AD
+T73	DiseaseOrSyndrome 1437 1439	AD
+T74	DiseaseOrSyndrome 1569 1571	AD
+T75	DiseaseOrSyndrome 1647 1649	AD
+T76	DiseaseOrSyndrome 1768 1770	AD
+T77	DiseaseOrSyndrome 2052 2054	AD
+T78	DiseaseOrSyndrome 2136 2138	AD
+T79	NucleicAcidNucleosideOrNucleotide 1043 1049	miRNAs
+T80	NucleicAcidNucleosideOrNucleotide 1941 1947	miRNAs
+T81	BiologicallyActiveSubstance 1043 1049	miRNAs
+T82	BiologicallyActiveSubstance 1941 1947	miRNAs
+T83	CellFunction 365 373	pathways
+T84	BiologicFunction 1210 1221	homeostatic
+T85	BiologicFunction 2096 2107	homeostatic
+T86	ResearchActivity 2066 2070	data
+T87	Eukaryote 630 635	human
+T88	Eukaryote 766 771	human
+T89	Cell 711 721	microglial
+T90	Cell 834 844	microglial
+T91	Cell 1454 1464	microglial
+T92	Cell 1623 1633	microglial
+T93	CellComponent 642 659	EV subpopulations
+T94	CellComponent 2384 2386	EV
+T95	DiseaseOrSyndrome 53 61	dementia
+T96	ResearchActivity 800 830	integrated multiomics analysis
+T97	ResearchActivity 978 997	integrated analysis
+T98	ResearchActivity 1657 1675	Lipidomic analysis
+T99	ResearchActivity 2318 2326	analysis
+T100	TemporalConcept 2439 2445	future
+T101	PathologicFunction 951 960	pathology
+T102	BiomedicalOccupationOrDiscipline 951 960	pathology
+T103	TemporalConcept 122 127	onset
+T104	BodyPartOrganOrOrganComponent 2236 2242	myelin
+T105	Cell 346 355	microglia
+T106	Cell 396 405	microglia
+T107	Cell 1222 1231	microglia
+T108	Cell 1303 1312	microglia
+T109	Cell 2108 2117	microglia
+T110	Cell 2330 2339	microglia
+T111	PopulationGroup 1572 1577	group
+T112	PopulationGroup 2055 2060	group
+T113	PatientOrDisabledGroup 2481 2488	patient
+T114	HealthCareActivity 87 98	diagnostics
+T115	Finding 1782 1790	decrease
+T116	BiologicallyActiveSubstance 538 541	tau
+T117	BiologicallyActiveSubstance 2261 2264	tau
+T118	AminoAcidPeptideOrProtein 546 552	A beta
+T119	CellComponent 183 216	lipid bilayer-delimited particles
+T120	HealthCareActivity 596 611	diagnostic tool
+T121	AminoAcidPeptideOrProtein 722 727	CD11b
+T122	BiologicallyActiveSubstance 722 727	CD11b
+T123	HealthCareActivity 906 916	Braak V-VI
+T124	ResearchActivity 1056 1074	shotgun proteomics
+T125	ResearchActivity 1076 1095	targeted lipidomics
+T126	BiomedicalOccupationOrDiscipline 1085 1095	lipidomics
+T127	ResearchActivity 1101 1131	NanoString nCounter technology
+T128	ClinicalAttribute 1232 1239	markers
+T129	AminoAcidPeptideOrProtein 1240 1246	P2RY12
+T130	BiologicallyActiveSubstance 1240 1246	P2RY12
+T131	AminoAcidPeptideOrProtein 1251 1258	TMEM119
+T132	ClinicalAttribute 1313 1320	markers
+T133	BiologicallyActiveSubstance 1321 1325	FTH1
+T134	AminoAcidPeptideOrProtein 1321 1325	FTH1
+T135	AminoAcidPeptideOrProtein 1330 1335	TREM2
+T136	BiologicallyActiveSubstance 1330 1335	TREM2
+T137	AminoAcidPeptideOrProtein 1340 1345	CD11b
+T138	BiologicallyActiveSubstance 1340 1345	CD11b
+T139	BodyPartOrganOrOrganComponent 1524 1532	synaptic
+T140	ClinicalAttribute 1579 1605	Levels of free cholesterol
+T141	PathologicFunction 1692 1707	proinflammatory
+T142	ResearchActivity 1708 1721	lipid profile
+T143	CellComponent 1723 1736	endolysosomal
+T144	PharmacologicSubstance 1804 1824	docosahexaenoic acid
+T145	BiologicallyActiveSubstance 1804 1824	docosahexaenoic acid
+T146	BiologicallyActiveSubstance 1826 1829	DHA
+T147	Chemical 1826 1829	DHA
+T148	PharmacologicSubstance 1826 1829	DHA
+T149	TemporalConcept 2131 2135	late
+T150	CellComponent 2168 2181	endolysosomal
+T151	CellOrMolecularDysfunction 2168 2192	endolysosomal impairment
+T152	CellOrMolecularDysfunction 2201 2249	release of undigested neuronal and myelin debris

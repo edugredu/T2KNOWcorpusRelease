@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 118 143	neurodegenerative disease
+T1	Finding 34 42	presence
+T2	PathologicFunction 136 155	disease development
+T3	Chemical 46 58	heavy metals
+T4	EnvironmentalEffectOfHumans 0 15	Water pollution
+T5	EnvironmentalEffectOfHumans 6 15	pollution
+T6	InjuryOrPoisoning 63 69	toxins
+T7	BiologicallyActiveSubstance 63 69	toxins

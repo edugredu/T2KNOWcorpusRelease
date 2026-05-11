@@ -1,0 +1,81 @@
+T0	BiologicFunction 114 122	thinking
+T1	BiologicFunction 132 141	reasoning
+T2	OrganismAttribute 154 163	abilities
+T3	PopulationGroup 215 221	person
+T4	Finding 321 338	treatment options
+T5	BiomedicalOccupationOrDiscipline 424 438	histopathology
+T6	AnatomicalAbnormality 505 517;527 534	amyloid beta plaques
+T7	Finding 280 298	no definitive cure
+T8	PathologicFunction 666 674	aberrant
+T9	CellFunction 675 707	post-translational modifications
+T10	CellFunction 709 713	PTMs
+T11	CellFunction 1240 1244	PTMs
+T12	HealthCareActivity 357 367	management
+T13	HealthCareActivity 1513 1523	management
+T14	BiologicFunction 89 108	cognitive functions
+T15	TemporalConcept 675 679	post
+T16	GeneOrGenome 766 771	BACE1
+T17	AminoAcidPeptideOrProtein 766 771	BACE1
+T18	BiologicallyActiveSubstance 766 771	BACE1
+T19	CellComponent 1130 1152	extracellular vesicles
+T20	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T21	DiseaseOrSyndrome 21 23	AD
+T22	DiseaseOrSyndrome 440 442	AD
+T23	DiseaseOrSyndrome 718 720	AD
+T24	DiseaseOrSyndrome 1190 1192	AD
+T25	DiseaseOrSyndrome 1252 1254	AD
+T26	DiseaseOrSyndrome 1377 1379	AD
+T27	DiseaseOrSyndrome 1527 1529	AD
+T28	BodyPartOrganOrOrganComponent 1114 1117	CSF
+T29	PathologicFunction 1380 1389	pathology
+T30	BiomedicalOccupationOrDiscipline 1380 1389	pathology
+T31	BiologicFunction 904 915	development
+T32	CellFunction 904 915	development
+T33	AminoAcidPeptideOrProtein 757 760	tau
+T34	ClinicalAttribute 981 1000	clinical biomarkers
+T35	ClinicalAttribute 1077 1087	biomarkers
+T36	BiologicallyActiveSubstance 757 760	tau
+T37	AminoAcidPeptideOrProtein 744 747	APP
+T38	GeneOrGenome 744 747	APP
+T39	BiologicallyActiveSubstance 744 747	APP
+T40	PathologicFunction 820 831	progression
+T41	PathologicFunction 1175 1186	progression
+T42	TemporalConcept 820 831	progression
+T43	TemporalConcept 1175 1186	progression
+T44	BodyPartOrganOrOrganComponent 1120 1125	blood
+T45	Finding 467 479	accumulation
+T46	HealthCareActivity 864 873	diagnosis
+T47	BodyPartOrganOrOrganComponent 1093 1112	cerebrospinal fluid
+T48	HealthCareActivity 1404 1434	disease-modifying therapeutics
+T49	TemporalConcept 810 815	onset
+T50	TemporalConcept 1165 1170	onset
+T51	ResearchActivity 1010 1016	review
+T52	HealthCareActivity 1010 1016	review
+T53	HealthCareActivity 321 330	treatment
+T54	HealthCareActivity 1499 1508	treatment
+T55	ResearchActivity 321 330	treatment
+T56	ResearchActivity 1499 1508	treatment
+T57	AminoAcidPeptideOrProtein 729 737	proteins
+T58	AminoAcidPeptideOrProtein 1263 1271	proteins
+T59	AminoAcidPeptideOrProtein 1357 1365	proteins
+T60	TemporalConcept 1036 1043	current
+T61	AminoAcidPeptideOrProtein 505 517	amyloid beta
+T62	AminoAcidPeptideOrProtein 519 525	A beta
+T63	AminoAcidPeptideOrProtein 749 755	A beta
+T64	TemporalConcept 69 80	progressive
+T65	AminoAcidPeptideOrProtein 505 512	amyloid
+T66	BiologicallyActiveSubstance 505 512	amyloid
+T67	Finding 233 239	normal
+T68	Finding 1044 1050	status
+T69	Finding 1221 1228	effects
+T70	OrganismAttribute 202 209	ability
+T71	DiseaseOrSyndrome 30 56	neurodegenerative disorder
+T72	BiologicFunction 124 130	memory
+T73	HealthCareActivity 858 873	early diagnosis
+T74	CellOrMolecularDysfunction 539 562	neurofibrillary tangles
+T75	CellComponent 539 554	neurofibrillary
+T76	CellOrMolecularDysfunction 564 568	NFTs
+T77	HealthCareActivity 929 951	therapeutic approaches
+T78	TemporalConcept 240 245	daily
+T79	Substance 483 501	insoluble deposits
+T80	Substance 642 660	insoluble deposits

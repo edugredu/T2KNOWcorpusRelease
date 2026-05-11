@@ -1,0 +1,1 @@
+Machine learning models based on NLP are used to identify potential genetic markers and biomarkers associated with Huntington's disease, aiding in early diagnosis and personalized treatment approaches.

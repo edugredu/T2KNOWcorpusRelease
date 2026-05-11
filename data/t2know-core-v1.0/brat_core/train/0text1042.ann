@@ -1,0 +1,77 @@
+T0	DiseaseOrSyndrome 787 790	MCI
+T1	NucleicAcidNucleosideOrNucleotide 258 266	microRNA
+T2	BiologicallyActiveSubstance 258 266	microRNA
+T3	CellFunction 1132 1150	signaling networks
+T4	ResearchActivity 863 871	patterns
+T5	TemporalConcept 214 220	window
+T6	CellComponent 148 182	Circulating extracellular vesicles
+T7	DiseaseOrSyndrome 20 39	Alzheimer's disease
+T8	CellComponent 184 187	EVs
+T9	CellComponent 345 348	EVs
+T10	CellComponent 633 636	EVs
+T11	CellComponent 747 750	EVs
+T12	DiseaseOrSyndrome 41 43	AD
+T13	DiseaseOrSyndrome 115 117	AD
+T14	DiseaseOrSyndrome 233 235	AD
+T15	DiseaseOrSyndrome 352 354	AD
+T16	DiseaseOrSyndrome 481 483	AD
+T17	DiseaseOrSyndrome 551 553	AD
+T18	DiseaseOrSyndrome 642 644	AD
+T19	DiseaseOrSyndrome 756 758	AD
+T20	DiseaseOrSyndrome 1154 1156	AD
+T21	DiseaseOrSyndrome 1282 1284	AD
+T22	CellComponent 403 417	circulating EV
+T23	OrganismAttribute 806 813	healthy
+T24	PatientOrDisabledGroup 355 363	patients
+T25	PatientOrDisabledGroup 609 617	patients
+T26	PatientOrDisabledGroup 792 800	patients
+T27	ResearchActivity 683 688	study
+T28	ResearchActivity 1070 1075	study
+T29	ResearchActivity 87 95	research
+T30	BodyPartOrganOrOrganComponent 320 323	CSF
+T31	BiologicFunction 100 111	development
+T32	BiologicFunction 1193 1204	development
+T33	CellFunction 100 111	development
+T34	CellFunction 1193 1204	development
+T35	NucleicAcidNucleosideOrNucleotide 429 435	miRNAs
+T36	BiologicallyActiveSubstance 429 435	miRNAs
+T37	BodyPartOrganOrOrganComponent 330 335	blood
+T38	BodyPartOrganOrOrganComponent 299 318	cerebrospinal fluid
+T39	ResearchActivity 267 275	profiles
+T40	ResearchActivity 597 605	profiles
+T41	HealthCareActivity 135 146	diagnostics
+T42	HealthCareActivity 118 130	therapeutics
+T43	TemporalConcept 693 698	first
+T44	BodyPartOrganOrOrganComponent 619 624	serum
+T45	BodyPartOrganOrOrganComponent 733 738	serum
+T46	HealthCareActivity 1285 1294	treatment
+T47	ResearchActivity 1285 1294	treatment
+T48	CellFunction 852 862	expression
+T49	NucleicAcidNucleosideOrNucleotide 591 596	miRNA
+T50	NucleicAcidNucleosideOrNucleotide 716 721	miRNA
+T51	BiologicallyActiveSubstance 591 596	miRNA
+T52	BiologicallyActiveSubstance 716 721	miRNA
+T53	ResearchActivity 1012 1020	analyzed
+T54	PathologicFunction 4 16	pathogenesis
+T55	PathologicFunction 236 248	pathogenesis
+T56	PathologicFunction 484 496	pathogenesis
+T57	PathologicFunction 645 657	pathogenesis
+T58	PathologicFunction 1157 1169	pathogenesis
+T59	ResearchActivity 1226 1236	strategies
+T60	BiologicFunction 1226 1236	strategies
+T61	PopulationGroup 814 825	individuals
+T62	DiseaseOrSyndrome 760 785	mild cognitive impairment
+T63	Finding 965 989	differentially expressed
+T64	PharmacologicSubstance 1261 1265	drug
+T65	Finding 1052 1064	interactions
+T66	BiologicFunction 1027 1047	biological functions
+T67	ResearchActivity 722 729	profile
+T68	HealthCareActivity 1214 1236	therapeutic strategies
+T69	BiologicallyActiveSubstance 515 521	CEmiRs
+T70	BiologicallyActiveSubstance 437 443	CEmiRs
+T71	NucleicAcidNucleosideOrNucleotide 437 443	CEmiRs
+T72	NucleicAcidNucleosideOrNucleotide 515 521	CEmiRs
+T73	BiologicallyActiveSubstance 990 996	CEmiRs
+T74	NucleicAcidNucleosideOrNucleotide 990 996	CEmiRs
+T75	NucleicAcidNucleosideOrNucleotide 875 881	CEmiRs
+T76	BiologicallyActiveSubstance 875 881	CEmiRs

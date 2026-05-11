@@ -1,0 +1,29 @@
+T0	NucleicAcidNucleosideOrNucleotide 140 146	exon 1
+T1	NucleicAcidNucleosideOrNucleotide 368 427	Clustered regularly-interspaced short palindromic repeats (
+T2	NucleicAcidNucleosideOrNucleotide 427 433	CRISPR
+T3	ResearchActivity 427 433	CRISPR
+T4	ResearchActivity 464 478	genome editing
+T5	ResearchActivity 590 609	biomedical research
+T6	HealthCareActivity 641 658	disease treatment
+T7	ResearchActivity 758 766	research
+T8	BiologicFunction 792 803	perspective
+T9	DiseaseOrSyndrome 22 24	HD
+T10	DiseaseOrSyndrome 186 188	HD
+T11	DiseaseOrSyndrome 755 757	HD
+T12	DiseaseOrSyndrome 850 852	HD
+T13	DiseaseOrSyndrome 0 20	Huntington's disease
+T14	DiseaseOrSyndrome 340 366	neurodegenerative diseases
+T15	TemporalConcept 194 198	rare
+T16	ResearchActivity 669 675	review
+T17	HealthCareActivity 669 675	review
+T18	HealthCareActivity 853 862	treatment
+T19	ResearchActivity 853 862	treatment
+T20	CellFunction 32 62	autosomal dominantly-inherited
+T21	DiseaseOrSyndrome 63 88	neurodegenerative disease
+T22	CellOrMolecularDysfunction 109 136	CAG trinucleotide expansion
+T23	GeneOrGenome 154 175	Huntingtin (HTT) gene
+T24	PathologicFunction 276 297	pathogenic mechanisms
+T25	HealthCareActivity 313 335	therapeutic strategies
+T26	ResearchActivity 522 555	CRISPR-based genome-editing tools
+T27	ResearchActivity 695 728	CRISPR-based genome-editing tools
+T28	ResearchActivity 821 846	genome-editing technology

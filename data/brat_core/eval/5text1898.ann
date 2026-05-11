@@ -1,0 +1,8 @@
+T0	ClinicalAttribute 130 140	biomarkers
+T1	ResearchActivity 38 46	research
+T2	DiseaseOrSyndrome 26 37	Alzheimer's
+T3	ResearchActivity 48 59	researchers
+T4	TemporalConcept 124 129	early
+T5	MachineActivity 6 22	machine learning
+T6	BodyPartOrganOrOrganComponent 89 105	brain structures
+T7	Finding 71 85	subtle changes

@@ -1,0 +1,7 @@
+T0	CellOrMolecularDysfunction 143 160	neurodegeneration
+T1	ResearchActivity 161 169	research
+T2	Cell 29 33	cell
+T3	InjuryOrPoisoning 59 72	neurotoxicity
+T4	Organism 17 22	yeast
+T5	ResearchActivity 29 48	cell culture models
+T6	PharmacologicSubstance 98 119	therapeutic compounds

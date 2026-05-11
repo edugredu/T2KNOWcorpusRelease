@@ -1,0 +1,1 @@
+Natural language processing (NLP) is playing a critical role in extracting valuable information from vast amounts of text data, such as medical records and research literature, related to Huntington's disease.

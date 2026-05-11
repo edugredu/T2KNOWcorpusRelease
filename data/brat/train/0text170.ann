@@ -1,0 +1,18 @@
+T0	BodyPartOrganOrOrganComponent 47 61	nervous system
+T1	DiseaseOrSyndrome 63 89	Neurodegenerative diseases
+T2	DiseaseOrSyndrome 98 117	Parkinson's disease
+T3	DiseaseOrSyndrome 129 148	Alzheimer's disease
+T4	DiseaseOrSyndrome 172 185	schizophrenia
+T5	ResearchActivity 309 317	overview
+T6	DiseaseOrSyndrome 190 200	depression
+T7	Organism 338 344	plants
+T8	Eukaryote 207 213	plants
+T9	DiseaseOrSyndrome 119 127	epilepsy
+T10	PathologicFunction 119 127	epilepsy
+T11	DiseaseOrSyndrome 150 170	Huntington's disease
+T12	DiseaseOrSyndrome 257 284	neurodegenerative disorders
+T13	DiseaseOrSyndrome 447 474	neurodegenerative disorders
+T14	ResearchActivity 291 296	study
+T15	HealthCareActivity 425 434	treatment
+T16	ResearchActivity 425 434	treatment
+T17	BiologicallyActiveSubstance 386 407	bio-chemicals extract

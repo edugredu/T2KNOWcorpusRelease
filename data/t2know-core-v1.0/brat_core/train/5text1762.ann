@@ -1,0 +1,7 @@
+T0	CellOrMolecularDysfunction 113 130	neurodegeneration
+T1	ResearchActivity 101 109	research
+T2	InjuryOrPoisoning 73 86	neurotoxicity
+T3	CellFunction 49 68	protein aggregation
+T4	CellOrMolecularDysfunction 49 68	protein aggregation
+T5	BiologicallyActiveSubstance 27 34	enzymes
+T6	Organism 17 26	microbial

@@ -1,0 +1,10 @@
+T0	DiseaseOrSyndrome 26 46	Huntington's disease
+T1	DiseaseOrSyndrome 260 286	neurodegenerative disorder
+T2	ResearchActivity 76 85	discovery
+T3	ResearchActivity 47 55	research
+T4	MachineActivity 19 22	NLP
+T5	HealthCareActivity 214 224	treatments
+T6	ResearchActivity 214 224	treatments
+T7	HealthCareActivity 229 238	therapies
+T8	HealthCareActivity 116 147	interdisciplinary collaboration
+T9	BiologicFunction 184 195	development

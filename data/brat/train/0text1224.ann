@@ -1,0 +1,88 @@
+T0	BodyPartOrganOrOrganComponent 77 99	Central Nervous System
+T1	CellFunction 1105 1114	metabolic
+T2	TemporalConcept 1146 1151	stage
+T3	ClinicalAttribute 1146 1151	stage
+T4	TemporalConcept 1155 1163	maturity
+T5	AminoAcidPeptideOrProtein 1193 1219	Fibroblast Growth Gactor-2
+T6	AminoAcidPeptideOrProtein 1221 1226	FGF-2
+T7	GeneOrGenome 1221 1226	FGF-2
+T8	BiologicallyActiveSubstance 1232 1241	anosmin-1
+T9	AminoAcidPeptideOrProtein 1232 1241	anosmin-1
+T10	TemporalConcept 1416 1435	developmental stage
+T11	ResearchActivity 1633 1639	design
+T12	HealthCareActivity 1633 1639	design
+T13	ResearchActivity 673 680	article
+T14	BiomedicalOccupationOrDiscipline 1653 1668	pharmacological
+T15	ResearchActivity 1115 1123	patterns
+T16	BiologicFunction 353 375	physiological behavior
+T17	BiologicFunction 1497 1505	behavior
+T18	IndividualBehavior 1497 1505	behavior
+T19	ResearchActivity 1497 1505	behavior
+T20	Cell 23 39	oligodendrocytes
+T21	Cell 169 173	OPCs
+T22	Cell 457 461	OPCs
+T23	Cell 727 731	OPCs
+T24	Cell 907 911	OPCs
+T25	Cell 1531 1535	OPCs
+T26	Cell 349 352	OPC
+T27	Cell 545 548	OPC
+T28	Cell 1284 1287	OPC
+T29	PathologicFunction 229 242	demyelinating
+T30	BodyPartOrganOrOrganComponent 50 56	myelin
+T31	InjuryOrPoisoning 243 249	lesion
+T32	TemporalConcept 330 339	adulthood
+T33	TemporalConcept 779 788	postnatal
+T34	Cell 136 167	Oligodendrocyte Precursor Cells
+T35	PopulationGroup 769 777	neonatal
+T36	TemporalConcept 769 777	neonatal
+T37	DiseaseOrSyndrome 1362 1380	Multiple Sclerosis
+T38	HealthCareActivity 1676 1690	cell therapies
+T39	BodyPartOrganOrOrganComponent 101 104	CNS
+T40	BodyPartOrganOrOrganComponent 294 297	CNS
+T41	BiologicFunction 311 322	development
+T42	BiologicFunction 599 610	development
+T43	BiologicFunction 1303 1314	development
+T44	CellFunction 311 322	development
+T45	CellFunction 599 610	development
+T46	CellFunction 1303 1314	development
+T47	Eukaryote 288 293	human
+T48	Eukaryote 451 456	human
+T49	Eukaryote 857 862	human
+T50	Eukaryote 1515 1520	human
+T51	Finding 900 906	intact
+T52	Cell 1052 1057	cells
+T53	Eukaryote 799 803	mice
+T54	Cell 65 69	cell
+T55	TemporalConcept 920 925	first
+T56	BodyPartOrganOrOrganComponent 879 885	tissue
+T57	TemporalConcept 399 403	life
+T58	Eukaryote 278 283	mouse
+T59	Eukaryote 1525 1530	mouse
+T60	TemporalConcept 926 930	time
+T61	BodyPartOrganOrOrganComponent 750 765	cerebral cortex
+T62	BodyPartOrganOrOrganComponent 863 878	cerebral cortex
+T63	PharmacologicSubstance 1608 1613	drugs
+T64	BiomedicalOccupationOrDiscipline 1288 1295	biology
+T65	PopulationGroup 1345 1356	individuals
+T66	Substance 523 532	molecules
+T67	Substance 1247 1256	molecules
+T68	CellFunction 207 220	remyelination
+T69	CellFunction 558 571	remyelination
+T70	HealthCareActivity 1681 1690	therapies
+T71	DiseaseOrSyndrome 1382 1384	MS
+T72	DiseaseOrSyndrome 1695 1697	MS
+T73	PopulationGroup 445 450	adult
+T74	PopulationGroup 793 798	adult
+T75	PopulationGroup 851 856	adult
+T76	PopulationGroup 1509 1514	adult
+T77	Finding 1273 1280	effects
+T78	ResearchActivity 1476 1480	data
+T79	BiologicFunction 1288 1295	biology
+T80	CellFunction 1328 1341	overexpressed
+T81	OrganismAttribute 1463 1470	species
+T82	HealthCareActivity 837 850	neurosurgical
+T83	HealthCareActivity 1019 1031;936 1002	spectroscopy 1H High Resolution Magic Angle Spinning Nuclear Magnetic Resonance
+T84	HealthCareActivity 1004 1017	1H HR-MAS NMR
+T85	BiologicallyActiveSubstance 1193 1219	Fibroblast Growth Gactor-2
+T86	BiologicallyActiveSubstance 1221 1226	FGF-2
+T87	ResearchActivity 1600 1613	testing drugs

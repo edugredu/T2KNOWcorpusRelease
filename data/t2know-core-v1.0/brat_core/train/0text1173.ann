@@ -1,0 +1,80 @@
+T0	BodyPartOrganOrOrganComponent 551 565	adipose tissue
+T1	Cell 1569 1579	iPSC lines
+T2	BodyPartOrganOrOrganComponent 525 540	skeletal muscle
+T3	DiseaseOrSyndrome 204 222	Huntington disease
+T4	GeneOrGenome 1125 1133	HTT gene
+T5	BiologicFunction 861 878	energy metabolism
+T6	BiologicFunction 1255 1272	energy metabolism
+T7	DiseaseOrSyndrome 232 241	inherited
+T8	DiseaseOrSyndrome 224 226	HD
+T9	DiseaseOrSyndrome 893 895	HD
+T10	DiseaseOrSyndrome 1406 1408	HD
+T11	DiseaseOrSyndrome 1614 1616	HD
+T12	DiseaseOrSyndrome 1721 1723	HD
+T13	TemporalConcept 296 303	ongoing
+T14	HealthCareActivity 19 28	challenge
+T15	Cell 1569 1573	iPSC
+T16	PatientOrDisabledGroup 452 463	HD patients
+T17	ResearchActivity 511 519	datasets
+T18	CellComponent 1278 1299	extracellular vesicle
+T19	CellComponent 964 986	extracellular vesicles
+T20	ResearchActivity 696 704	analysis
+T21	ResearchActivity 793 815	Gene ontology analysis
+T22	ResearchActivity 465 472	Results
+T23	ClinicalAttribute 1421 1431	biomarkers
+T24	Eukaryote 505 510	human
+T25	Eukaryote 596 601	human
+T26	Eukaryote 1598 1603	human
+T27	PathologicFunction 134 145	progression
+T28	TemporalConcept 134 145	progression
+T29	BodyPartOrganOrOrganComponent 335 345	peripheral
+T30	BodyPartOrganOrOrganComponent 882 892	peripheral
+T31	BodyPartOrganOrOrganComponent 1384 1394	peripheral
+T32	BodyPartOrganOrOrganComponent 1528 1538	peripheral
+T33	DiseaseOrSyndrome 32 58	neurodegenerative diseases
+T34	ResearchActivity 1604 1610	models
+T35	PathologicFunction 844 856	inflammation
+T36	PathologicFunction 1241 1253	inflammation
+T37	TemporalConcept 286 295	currently
+T38	AminoAcidPeptideOrProtein 1034 1042	proteins
+T39	TemporalConcept 1667 1674	current
+T40	PathologicFunction 896 908	pathogenesis
+T41	PathologicFunction 1724 1736	pathogenesis
+T42	CellFunction 868 878	metabolism
+T43	CellFunction 1262 1272	metabolism
+T44	BiologicFunction 868 878	metabolism
+T45	BiologicFunction 1262 1272	metabolism
+T46	CellFunction 1096 1108	polymorphism
+T47	BodyPartOrganOrOrganComponent 534 540	muscle
+T48	TemporalConcept 243 254	progressive
+T49	Finding 492 496	high
+T50	BiologicFunction 1675 1688	understanding
+T51	BiologicFunction 949 960	homeostasis
+T52	BiologicFunction 1300 1311	homeostasis
+T53	DiseaseOrSyndrome 255 280	neurodegenerative disease
+T54	PathologicFunction 126 145	disease progression
+T55	CellFunction 1692 1712	molecular mechanisms
+T56	BodyPartOrganOrOrganComponent 542 546	skin
+T57	Finding 829 840	involvement
+T58	Finding 1226 1237	involvement
+T59	ResearchActivity 743 747	data
+T60	ResearchActivity 1109 1113	data
+T61	ResearchActivity 1208 1212	data
+T62	ResearchActivity 1466 1470	data
+T63	BodyPartOrganOrOrganComponent 346 353	tissues
+T64	BodyPartOrganOrOrganComponent 1395 1402	tissues
+T65	BodyPartOrganOrOrganComponent 1539 1546	tissues
+T66	Cell 1165 1183	primary cell lines
+T67	Cell 1492 1510	primary cell lines
+T68	NucleicAcidNucleosideOrNucleotide 427 430	RNA
+T69	AminoAcidPeptideOrProtein 435 442	protein
+T70	ResearchActivity 185 200	clinical trials
+T71	ResearchActivity 675 690	clinical trials
+T72	ResearchActivity 1435 1450	clinical trials
+T73	BiomedicalOccupationOrDiscipline 732 742	proteomics
+T74	ResearchActivity 1202 1207	omics
+T75	BiomedicalOccupationOrDiscipline 712 727	transcriptomics
+T76	PatientOrDisabledGroup 624 644	manifest HD patients
+T77	PatientOrDisabledGroup 602 613;633 644	premanifest HD patients
+T78	MolecularSequence 1078 1108	single nucleotide polymorphism
+T79	ExperimentalModelOfDisease 1598 1616	human models of HD

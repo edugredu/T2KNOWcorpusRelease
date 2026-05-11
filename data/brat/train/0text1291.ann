@@ -1,0 +1,96 @@
+T0	AminoAcidPeptideOrProtein 680 711	urokinase plasminogen activator
+T1	AminoAcidPeptideOrProtein 713 716	uPA
+T2	BiologicallyActiveSubstance 713 716	uPA
+T3	AminoAcidPeptideOrProtein 757 760	uPA
+T4	BiologicallyActiveSubstance 757 760	uPA
+T5	AminoAcidPeptideOrProtein 766 784	proteolytic enzyme
+T6	AminoAcidPeptideOrProtein 856 859	uPA
+T7	BiologicallyActiveSubstance 856 859	uPA
+T8	ResearchActivity 1012 1016	MADM
+T9	AminoAcidPeptideOrProtein 1053 1056	uPA
+T10	BiologicallyActiveSubstance 1053 1056	uPA
+T11	ResearchActivity 1069 1073	MADM
+T12	AminoAcidPeptideOrProtein 1182 1185	uPA
+T13	BiologicallyActiveSubstance 1182 1185	uPA
+T14	ResearchActivity 1242 1246	MADM
+T15	AminoAcidPeptideOrProtein 1316 1319	uPA
+T16	BiologicallyActiveSubstance 1316 1319	uPA
+T17	AminoAcidPeptideOrProtein 1435 1438	uPA
+T18	BiologicallyActiveSubstance 1435 1438	uPA
+T19	ResearchActivity 1473 1477	MADM
+T20	BiologicallyActiveSubstance 680 711	urokinase plasminogen activator
+T21	Cell 244 260	oligodendrocytes
+T22	Cell 132 136	OPCs
+T23	Cell 1017 1021	OPCs
+T24	Cell 1074 1078	OPCs
+T25	Cell 1247 1251	OPCs
+T26	Cell 364 367	OPC
+T27	Cell 620 623	OPC
+T28	Cell 930 933	OPC
+T29	Cell 1378 1381	OPC
+T30	Cell 1478 1481	OPC
+T31	BiologicFunction 624 634	maturation
+T32	BiologicFunction 1382 1392	maturation
+T33	BiologicFunction 1482 1492	maturation
+T34	CellFunction 225 238	differentiate
+T35	CellFunction 1538 1551	differentiate
+T36	DiseaseOrSyndrome 42 60	multiple sclerosis
+T37	BodyPartOrganOrOrganComponent 272 278	myelin
+T38	BodyPartOrganOrOrganComponent 903 909	myelin
+T39	PathologicFunction 167 179	demyelinated
+T40	BodyPartOrganOrOrganComponent 729 749	extracellular matrix
+T41	BodyPartOrganOrOrganComponent 824 834;839 844	developing brain
+T42	CellFunction 368 383	differentiation
+T43	BodyPartOrganOrOrganComponent 751 754	ECM
+T44	ResearchActivity 966 1010	Mosaic Analysis with Double Marker technique
+T45	ResearchActivity 1060 1067	culture
+T46	Cell 262 265	OLs
+T47	Cell 389 392	OLs
+T48	Cell 640 643	OLs
+T49	Cell 1557 1560	OLs
+T50	CellFunction 364 383	OPC differentiation
+T51	CellFunction 1275 1288	proliferation
+T52	Cell 115 130	precursor cells
+T53	Eukaryote 835 838	rat
+T54	Cell 99 130	Oligodendrocyte precursor cells
+T55	Cell 99 114	Oligodendrocyte
+T56	BiologicallyActiveSubstance 766 784	proteolytic enzyme
+T57	ResearchActivity 1151 1167	hydrogel systems
+T58	BodyPartOrganOrOrganComponent 302 324	central nervous system
+T59	BodyPartOrganOrOrganComponent 326 329	CNS
+T60	BodyPartOrganOrOrganComponent 560 563	CNS
+T61	BodyPartOrganOrOrganComponent 839 844	brain
+T62	Cell 289 294	cells
+T63	Cell 939 944	cells
+T64	Cell 1529 1534	cells
+T65	Cell 482 486	cell
+T66	CellFunction 860 870	expression
+T67	CellFunction 1364 1374	Expression
+T68	ResearchActivity 578 586	in vitro
+T69	PopulationGroup 81 87	people
+T70	ResearchActivity 921 928	in vivo
+T71	Finding 1032 1035	low
+T72	Finding 332 356	Cell-matrix interactions
+T73	Finding 494 506	interactions
+T74	BodyPartOrganOrOrganComponent 180 187	tissues
+T75	BodyPartOrganOrOrganComponent 564 571	tissues
+T76	CellFunction 1264 1273	viability
+T77	BiologicFunction 160 166	repair
+T78	HealthCareActivity 160 166	repair
+T79	InjuryOrPoisoning 0 22	Demyelinating injuries
+T80	ResearchActivity 435 463	Biomaterial hydrogel systems
+T81	ManufacturedObject 435 463	Biomaterial hydrogel systems
+T82	ManufacturedObject 1151 1167	hydrogel systems
+T83	CellFunction 1294 1312	metabolic activity
+T84	ResearchActivity 1353 1362	hydrogels
+T85	ManufacturedObject 1353 1362	hydrogels
+T86	AminoAcidPeptideOrProtein 1124 1144	elastin-like protein
+T87	BiologicallyActiveSubstance 1124 1144	elastin-like protein
+T88	AminoAcidPeptideOrProtein 1146 1149	ELP
+T89	BiologicallyActiveSubstance 1146 1149	ELP
+T90	AminoAcidPeptideOrProtein 1349 1352	ELP
+T91	BiologicallyActiveSubstance 1349 1352	ELP
+T92	ResearchActivity 1454 1463	hydrogels
+T93	ManufacturedObject 1454 1463	hydrogels
+T94	AminoAcidPeptideOrProtein 1450 1453	ELP
+T95	BiologicallyActiveSubstance 1450 1453	ELP

@@ -1,0 +1,141 @@
+T0	ClinicalAttribute 316 347	serum neurofilament light chain
+T1	AminoAcidPeptideOrProtein 468 489	oligoclonal IgG bands
+T2	ResearchActivity 468 489	oligoclonal IgG bands
+T3	AminoAcidPeptideOrProtein 491 495	OCGB
+T4	ResearchActivity 491 495	OCGB
+T5	AminoAcidPeptideOrProtein 534 537	IgM
+T6	ResearchActivity 534 537	IgM
+T7	BiologicallyActiveSubstance 534 537	IgM
+T8	BiologicFunction 1009 1033	immunoglobulin synthesis
+T9	HealthCareActivity 1118 1121	T2w
+T10	Finding 1207 1213	absent
+T11	AminoAcidPeptideOrProtein 1272 1276	OCGB
+T12	ResearchActivity 1272 1276	OCGB
+T13	Finding 205 214	worsening
+T14	BiologicallyActiveSubstance 349 353	sNfL
+T15	BiologicallyActiveSubstance 634 638	sNfL
+T16	BiologicallyActiveSubstance 1078 1082	sNfL
+T17	BiologicallyActiveSubstance 1701 1705	sNfL
+T18	AminoAcidPeptideOrProtein 349 353	sNfL
+T19	AminoAcidPeptideOrProtein 634 638	sNfL
+T20	AminoAcidPeptideOrProtein 1078 1082	sNfL
+T21	AminoAcidPeptideOrProtein 1701 1705	sNfL
+T22	HealthCareActivity 701 705	MSSS
+T23	HealthCareActivity 929 933	MSSS
+T24	AminoAcidPeptideOrProtein 128 131	IgG
+T25	AminoAcidPeptideOrProtein 480 483	IgG
+T26	AminoAcidPeptideOrProtein 526 529	IgG
+T27	AminoAcidPeptideOrProtein 566 569	IgG
+T28	AminoAcidPeptideOrProtein 1285 1288	IgG
+T29	AminoAcidPeptideOrProtein 1632 1635	IgG
+T30	BiologicallyActiveSubstance 128 131	IgG
+T31	BiologicallyActiveSubstance 480 483	IgG
+T32	BiologicallyActiveSubstance 526 529	IgG
+T33	BiologicallyActiveSubstance 566 569	IgG
+T34	BiologicallyActiveSubstance 1285 1288	IgG
+T35	BiologicallyActiveSubstance 1632 1635	IgG
+T36	BodyPartOrganOrOrganComponent 77 88	intrathecal
+T37	BodyPartOrganOrOrganComponent 501 512	intrathecal
+T38	BodyPartOrganOrOrganComponent 539 550	intrathecal
+T39	BodyPartOrganOrOrganComponent 997 1008	intrathecal
+T40	BodyPartOrganOrOrganComponent 1761 1772	intrathecal
+T41	PharmacologicSubstance 128 131	IgG
+T42	PharmacologicSubstance 480 483	IgG
+T43	PharmacologicSubstance 526 529	IgG
+T44	PharmacologicSubstance 566 569	IgG
+T45	PharmacologicSubstance 1285 1288	IgG
+T46	PharmacologicSubstance 1632 1635	IgG
+T47	AminoAcidPeptideOrProtein 322 341	neurofilament light
+T48	BiologicallyActiveSubstance 322 341	neurofilament light
+T49	DiseaseOrSyndrome 65 67	MS
+T50	DiseaseOrSyndrome 409 421	relapsing MS
+T51	DiseaseOrSyndrome 682 684	MS
+T52	DiseaseOrSyndrome 1851 1863	relapsing MS
+T53	BiologicFunction 639 653	concentrations
+T54	BiologicFunction 1083 1097	concentrations
+T55	TemporalConcept 720 730	initiation
+T56	TemporalConcept 1412 1422	initiation
+T57	HealthCareActivity 1680 1696	disease activity
+T58	HealthCareActivity 1818 1834	disease activity
+T59	DiseaseOrSyndrome 35 63	relapsing multiple sclerosis
+T60	TemporalConcept 625 632	relapse
+T61	TemporalConcept 895 902	relapse
+T62	TemporalConcept 1397 1404	relapse
+T63	Finding 625 632	relapse
+T64	Finding 895 902	relapse
+T65	Finding 1397 1404	relapse
+T66	InjuryOrPoisoning 1152 1158	lesion
+T67	ResearchActivity 1518 1528	comparison
+T68	ClinicalAttribute 1839 1847	severity
+T69	Finding 1839 1847	severity
+T70	InjuryOrPoisoning 655 680	T2-weighted (T2w) lesions
+T71	InjuryOrPoisoning 1122 1129	lesions
+T72	TemporalConcept 619 624	first
+T73	TemporalConcept 889 894	first
+T74	TemporalConcept 1391 1396	first
+T75	BodyPartOrganOrOrganComponent 316 321	serum
+T76	Finding 1569 1578	dependent
+T77	ClinicalAttribute 1805 1814	biomarker
+T78	BodyPartOrganOrOrganComponent 236 255	cerebrospinal fluid
+T79	PatientOrDisabledGroup 395 403	patients
+T80	PatientOrDisabledGroup 848 856	patients
+T81	PatientOrDisabledGroup 980 988	patients
+T82	PatientOrDisabledGroup 1045 1053	patients
+T83	PatientOrDisabledGroup 1236 1244	patients
+T84	PatientOrDisabledGroup 1346 1354	patients
+T85	PatientOrDisabledGroup 1532 1540	patients
+T86	ResearchActivity 306 310	data
+T87	ResearchActivity 1733 1738	study
+T88	Finding 456 464	presence
+T89	TemporalConcept 611 615	time
+T90	TemporalConcept 712 716	time
+T91	TemporalConcept 881 885	time
+T92	TemporalConcept 1383 1387	time
+T93	ResearchActivity 812 819	Results
+T94	Finding 151 159	outcomes
+T95	HealthCareActivity 378 387	follow-up
+T96	TemporalConcept 378 387	follow-up
+T97	TemporalConcept 910 916	months
+T98	TemporalConcept 1477 1483	months
+T99	ResearchActivity 1320 1328	analyses
+T100	Finding 739 747	efficacy
+T101	Finding 1431 1439	efficacy
+T102	TemporalConcept 197 204	chronic
+T103	HealthCareActivity 748 755	therapy
+T104	HealthCareActivity 1440 1447	therapy
+T105	ResearchActivity 256 264	analysis
+T106	ResearchActivity 835 843	analysis
+T107	ResearchActivity 804 810	models
+T108	ResearchActivity 874 880	median
+T109	ResearchActivity 1371 1377	median
+T110	ResearchActivity 1556 1562	median
+T111	PatientOrDisabledGroup 423 431	Patients
+T112	ResearchActivity 761 769	analyzed
+T113	HealthCareActivity 279 305	magnetic resonance imaging
+T114	HealthCareActivity 1645 1671	magnetic resonance imaging
+T115	AminoAcidPeptideOrProtein 322 347	neurofilament light chain
+T116	BiologicallyActiveSubstance 322 347	neurofilament light chain
+T117	Finding 734 738	high
+T118	Finding 1426 1430	high
+T119	BiologicallyActiveSubstance 102 123	immunoglobulin (Ig) M
+T120	AminoAcidPeptideOrProtein 102 123	immunoglobulin (Ig) M
+T121	Finding 171 192	inflammatory activity
+T122	ClinicalAttribute 349 353	sNfL
+T123	BiologicallyActiveSubstance 1272 1276	OCGB
+T124	ResearchActivity 1280 1284	OCGB
+T125	BiologicallyActiveSubstance 1280 1284	OCGB
+T126	AminoAcidPeptideOrProtein 1280 1284	OCGB
+T127	AminoAcidPeptideOrProtein 1360 1363	IgM
+T128	BiologicallyActiveSubstance 1360 1363	IgM
+T129	ClinicalAttribute 634 638	sNfL
+T130	ClinicalAttribute 1761 1776	intrathecal IgM
+T131	ClinicalAttribute 1701 1705	sNfL
+T132	HealthCareActivity 682 699	MS Severity Score
+T133	BiologicallyActiveSubstance 1612 1615	IgM
+T134	AminoAcidPeptideOrProtein 1612 1615	IgM
+T135	AminoAcidPeptideOrProtein 1546 1549	IgM
+T136	BiologicallyActiveSubstance 1546 1549	IgM
+T137	AminoAcidPeptideOrProtein 1059 1062	IgM
+T138	BiologicallyActiveSubstance 1059 1062	IgM
+T139	BiologicallyActiveSubstance 862 865	IgM
+T140	AminoAcidPeptideOrProtein 862 865	IgM

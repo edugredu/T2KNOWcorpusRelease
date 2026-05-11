@@ -1,0 +1,9 @@
+T0	DiseaseOrSyndrome 131 157	neurodegenerative diseases
+T1	BodyPartOrganOrOrganComponent 69 74	brain
+T2	TemporalConcept 112 118	states
+T3	Organism 40 44	host
+T4	TemporalConcept 86 93	chronic
+T5	PathologicFunction 94 111	neuroinflammatory
+T6	BiologicFunction 45 61	immune responses
+T7	Bacterium 0 11	Spirochetes
+T8	Finding 23 36	dysregulation

@@ -1,0 +1,41 @@
+T0	TemporalConcept 106 118	recent years
+T1	ResearchActivity 125 135	researches
+T2	DiseaseOrSyndrome 172 203	central nervous system diseases
+T3	BodyPartOrganOrOrganComponent 172 194	central nervous system
+T4	BiologicFunction 295 304	attention
+T5	DiseaseOrSyndrome 318 337	Alzheimer's disease
+T6	DiseaseOrSyndrome 339 358	Parkinson's disease
+T7	CellOrMolecularDysfunction 494 522	endoplasmic reticulum stress
+T8	CellComponent 494 515	endoplasmic reticulum
+T9	Cell 557 563	neuron
+T10	CellOrMolecularDysfunction 557 570	neuron damage
+T11	CellFunction 575 584	apoptosis
+T12	ResearchActivity 607 615	research
+T13	ResearchActivity 723 731	overview
+T14	ResearchActivity 842 850	research
+T15	Chemical 16 41	natural alkaloid compound
+T16	Finding 65 101	diversity of pharmacological effects
+T17	TemporalConcept 393 399	Recent
+T18	TemporalConcept 835 841	future
+T19	Chemical 159 168	berberine
+T20	Chemical 231 240	berberine
+T21	Chemical 423 432	berberine
+T22	Chemical 735 744	berberine
+T23	Chemical 854 863	berberine
+T24	PharmacologicSubstance 159 168	berberine
+T25	PharmacologicSubstance 231 240	berberine
+T26	PharmacologicSubstance 423 432	berberine
+T27	PharmacologicSubstance 735 744	berberine
+T28	PharmacologicSubstance 854 863	berberine
+T29	Chemical 0 9	Berberine
+T30	PharmacologicSubstance 0 9	Berberine
+T31	Finding 400 408	evidence
+T32	DiseaseOrSyndrome 360 380	Huntington's disease
+T33	DiseaseOrSyndrome 244 270	neurodegenerative diseases
+T34	DiseaseOrSyndrome 748 774	neurodegenerative diseases
+T35	PathologicFunction 460 477	neuroinflammation
+T36	TemporalConcept 630 638	progress
+T37	ResearchActivity 704 710	review
+T38	HealthCareActivity 704 710	review
+T39	TemporalConcept 599 606	current
+T40	CellOrMolecularDysfunction 479 488;506 522	oxidative reticulum stress

@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 126 153	neurodegenerative disorders
+T1	PatientOrDisabledGroup 112 120	patients
+T2	Finding 99 107	outcomes
+T3	HealthCareActivity 90 94	care
+T4	AnatomicalAbnormality 167 189	brain stem compression
+T5	HealthCareActivity 30 42	neurologists
+T6	HealthCareActivity 47 60	neurosurgeons

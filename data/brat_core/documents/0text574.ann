@@ -1,0 +1,55 @@
+T0	DiseaseOrSyndrome 84 103	monogenetic disease
+T1	BiologicFunction 237 254	cognitive ability
+T2	NucleicAcidNucleosideOrNucleotide 321 329	MicroRNA
+T3	BiologicallyActiveSubstance 321 329	MicroRNA
+T4	NucleicAcidNucleosideOrNucleotide 343 357	non-coding RNA
+T5	BiologicallyActiveSubstance 343 357	non-coding RNA
+T6	CellFunction 382 397	gene regulation
+T7	CellFunction 401 421	post-transcriptional
+T8	GeneOrGenome 474 490	downstream genes
+T9	BiologicFunction 499 507	regulate
+T10	DiseaseOrSyndrome 982 998	genetic diseases
+T11	BiologicFunction 823 836	understanding
+T12	DiseaseOrSyndrome 271 280	suffering
+T13	TemporalConcept 527 541	simultaneously
+T14	HealthCareActivity 568 585	potential therapy
+T15	CellFunction 173 191	cellular functions
+T16	DiseaseOrSyndrome 638 656	inherited diseases
+T17	CellFunction 406 421	transcriptional
+T18	GeneOrGenome 127 142	Huntingtin gene
+T19	TemporalConcept 705 711	update
+T20	SignOrSymptom 296 304	symptoms
+T21	NucleicAcidNucleosideOrNucleotide 615 621	miRNAs
+T22	BiologicallyActiveSubstance 615 621	miRNAs
+T23	NucleicAcidNucleosideOrNucleotide 331 336	miRNA
+T24	NucleicAcidNucleosideOrNucleotide 449 454	miRNA
+T25	NucleicAcidNucleosideOrNucleotide 734 739	miRNA
+T26	NucleicAcidNucleosideOrNucleotide 787 792	miRNA
+T27	NucleicAcidNucleosideOrNucleotide 863 868	miRNA
+T28	BiologicallyActiveSubstance 331 336	miRNA
+T29	BiologicallyActiveSubstance 449 454	miRNA
+T30	BiologicallyActiveSubstance 734 739	miRNA
+T31	BiologicallyActiveSubstance 787 792	miRNA
+T32	BiologicallyActiveSubstance 863 868	miRNA
+T33	TemporalConcept 401 405	post
+T34	CellOrMolecularDysfunction 115 123	mutation
+T35	CellFunction 518 526	pathways
+T36	Cell 432 437	cells
+T37	BiologicFunction 762 773	development
+T38	CellFunction 762 773	development
+T39	Cell 195 202	neurons
+T40	HealthCareActivity 869 876	studies
+T41	ResearchActivity 869 876	studies
+T42	PathologicFunction 848 859	progression
+T43	TemporalConcept 848 859	progression
+T44	DiseaseOrSyndrome 36 62	neurodegenerative diseases
+T45	DiseaseOrSyndrome 0 20	Huntington's disease
+T46	DiseaseOrSyndrome 22 24	HD
+T47	DiseaseOrSyndrome 727 729	HD
+T48	DiseaseOrSyndrome 810 812	HD
+T49	DiseaseOrSyndrome 880 882	HD
+T50	HealthCareActivity 578 585	therapy
+T51	HealthCareActivity 799 806	therapy
+T52	ResearchActivity 666 672	review
+T53	HealthCareActivity 666 672	review
+T54	PatientOrDisabledGroup 308 319	HD patients

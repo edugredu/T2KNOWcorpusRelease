@@ -1,0 +1,40 @@
+T0	CellComponent 171 193	Extracellular vesicles
+T1	CellComponent 195 198	EVs
+T2	CellFunction 228 255	intercellular communication
+T3	Chemical 310 316	lipids
+T4	CellFunction 391 404	reprogramming
+T5	CellComponent 494 497	EVs
+T6	Cell 535 539	MSCs
+T7	Cell 653 657	MSCs
+T8	BiomedicalOccupationOrDiscipline 691 698	biology
+T9	CellComponent 715 718	EVs
+T10	CellComponent 749 752	EVs
+T11	CellComponent 853 856	EVs
+T12	HealthCareActivity 920 929	diagnosis
+T13	ResearchActivity 667 673	review
+T14	HealthCareActivity 667 673	review
+T15	Cell 341 355	parental cells
+T16	Cell 359 374	recipient cells
+T17	ResearchActivity 787 803	clinical studies
+T18	HealthCareActivity 160 169	therapies
+T19	ResearchActivity 442 449	studies
+T20	DiseaseOrSyndrome 21 23	AD
+T21	DiseaseOrSyndrome 561 563	AD
+T22	DiseaseOrSyndrome 757 759	AD
+T23	HealthCareActivity 469 490	therapeutic potential
+T24	HealthCareActivity 548 557	treatment
+T25	ResearchActivity 548 557	treatment
+T26	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T27	DiseaseOrSyndrome 31 57	neurodegenerative disorder
+T28	NucleicAcidNucleosideOrNucleotide 329 335	miRNAs
+T29	TemporalConcept 116 125	currently
+T30	Cell 84 92	neuronal
+T31	BiologicallyActiveSubstance 329 335	miRNAs
+T32	CellFunction 578 593	neuroprotective
+T33	HealthCareActivity 760 767	therapy
+T34	Cell 737 740	MSC
+T35	Cell 841 844	MSC
+T36	Cell 511 533	mesenchymal stem cells
+T37	Finding 595 636	regenerative and immunomodulatory effects
+T38	AminoAcidPeptideOrProtein 300 308	proteins
+T39	NucleicAcidNucleosideOrNucleotide 318 323	mRNAs

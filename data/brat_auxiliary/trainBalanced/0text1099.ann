@@ -1,0 +1,91 @@
+T0	ResearchActivity 381 399	Raman spectroscopy
+T1	ResearchActivity 405 415	label-free
+T2	Chemical 795 807	tetracycline
+T3	NucleicAcidNucleosideOrNucleotide 808 816	promoter
+T4	BodyPartOrganOrOrganComponent 827 835	midbrain
+T5	CellFunction 939 958	biochemical content
+T6	ResearchActivity 968 985	Spectral analysis
+T7	Chemical 1458 1465	monomer
+T8	Chemical 1559 1575	fatty acid chain
+T9	ResearchActivity 1720 1738	Raman spectroscopy
+T10	ResearchActivity 733 745	cell culture
+T11	ResearchActivity 1137 1149	cell culture
+T12	ResearchActivity 1275 1287	cell culture
+T13	BodyPartOrganOrOrganComponent 836 845	organoids
+T14	Finding 11 20	hallmarks
+T15	PopulationGroup 1303 1317	control groups
+T16	CellComponent 1649 1657	membrane
+T17	CellComponent 204 226	extracellular vesicles
+T18	DiseaseOrSyndrome 24 43	Alzheimer's disease
+T19	DiseaseOrSyndrome 713 732	Alzheimer's disease
+T20	DiseaseOrSyndrome 1255 1274	Alzheimer's disease
+T21	CellComponent 228 231	EVs
+T22	CellComponent 303 306	EVs
+T23	CellComponent 497 500	EVs
+T24	DiseaseOrSyndrome 45 47	AD
+T25	DiseaseOrSyndrome 266 268	AD
+T26	CellComponent 1646 1648	EV
+T27	ResearchActivity 1168 1176	analysis
+T28	ResearchActivity 1195 1223	principal component analysis
+T29	ResearchActivity 507 512	study
+T30	Finding 1689 1697	evidence
+T31	ResearchActivity 180 188	research
+T32	PopulationGroup 880 885	group
+T33	TemporalConcept 529 534	first
+T34	ResearchActivity 746 751	model
+T35	ResearchActivity 1150 1155	model
+T36	ResearchActivity 1288 1293	model
+T37	CellFunction 605 620	molecular cargo
+T38	DiseaseOrSyndrome 1125 1136	Alzheimer's
+T39	HealthCareActivity 513 520	reports
+T40	ResearchActivity 513 520	reports
+T41	InjuryOrPoisoning 1862 1867	toxic
+T42	AminoAcidPeptideOrProtein 1868 1876	proteins
+T43	CellFunction 759 768	secretion
+T44	BiologicFunction 759 768	secretion
+T45	PathologicFunction 49 61	pathogenesis
+T46	AminoAcidPeptideOrProtein 127 133	A beta
+T47	AminoAcidPeptideOrProtein 243 249	A beta
+T48	AminoAcidPeptideOrProtein 318 324	A beta
+T49	AminoAcidPeptideOrProtein 583 589	A beta
+T50	AminoAcidPeptideOrProtein 772 778	A beta
+T51	AminoAcidPeptideOrProtein 1073 1079	A beta
+T52	AminoAcidPeptideOrProtein 1363 1369	A beta
+T53	AminoAcidPeptideOrProtein 1603 1609	A beta
+T54	CellComponent 148 161	extracellular
+T55	TemporalConcept 535 539	time
+T56	DiseaseOrSyndrome 1831 1853	neurological disorders
+T57	OrganismAttribute 1448 1452	size
+T58	Chemical 1515 1520	lipid
+T59	ClinicalAttribute 1807 1827	potential biomarkers
+T60	AminoAcidPeptideOrProtein 135 142	peptide
+T61	AminoAcidPeptideOrProtein 1080 1087	peptide
+T62	ResearchActivity 436 442	method
+T63	HealthCareActivity 436 442	method
+T64	ResearchActivity 279 295	characterization
+T65	ResearchActivity 1766 1782	characterization
+T66	CellComponent 624 652	small extracellular vesicles
+T67	CellComponent 654 658	sEVs
+T68	CellComponent 694 698	sEVs
+T69	CellComponent 962 966	sEVs
+T70	CellComponent 1104 1108	sEVs
+T71	CellComponent 1243 1247	sEVs
+T72	CellComponent 1321 1325	sEVs
+T73	CellComponent 1395 1399	sEVs
+T74	CellComponent 1532 1536	sEVs
+T75	CellComponent 1587 1591	sEVs
+T76	CellComponent 1786 1790	sEVs
+T77	CellComponent 876 879	sEV
+T78	AminoAcidPeptideOrProtein 113 125	amyloid-beta
+T79	AnatomicalAbnormality 162 169	plaques
+T80	Finding 470 493	biochemical composition
+T81	ResearchActivity 544 563	Raman spectroscopic
+T82	ManufacturedObject 564 575	fingerprint
+T83	ResearchActivity 661 674	Raman spectra
+T84	ResearchActivity 1002 1021	intense Raman peaks
+T85	ExperimentalModelOfDisease 1255 1293	Alzheimer's disease cell culture model
+T86	CellFunction 1406 1439	alpha-helical secondary structure
+T87	Finding 1630 1638	fluidity
+T88	ExperimentalModelOfDisease 1125 1155	Alzheimer's cell culture model
+T89	ExperimentalModelOfDisease 713 751	Alzheimer's disease cell culture model
+T90	AminoAcidPeptideOrProtein 333 356	conformational variants

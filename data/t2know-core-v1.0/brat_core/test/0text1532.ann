@@ -1,0 +1,82 @@
+T0	HealthCareActivity 56 59	EEG
+T1	HealthCareActivity 145 148	EEG
+T2	HealthCareActivity 331 334	EEG
+T3	Finding 439 444	awake
+T4	BodyPartOrganOrOrganComponent 524 529	scalp
+T5	BiologicFunction 719 723	wake
+T6	TemporalConcept 719 723	wake
+T7	HealthCareActivity 844 847	EEG
+T8	BiologicFunction 974 992	cognitive function
+T9	BiologicFunction 1091 1100	REM sleep
+T10	HealthCareActivity 1200 1203	EEG
+T11	BodyPartOrganOrOrganComponent 1230 1238;1253 1260	temporal regions
+T12	BodyPartOrganOrOrganComponent 1243 1260	occipital regions
+T13	BiologicFunction 1278 1287	REM sleep
+T14	BiologicFunction 1377 1386	REM sleep
+T15	Finding 1407 1412	worse
+T16	BiologicFunction 1484 1493	REM sleep
+T17	BiologicFunction 1682 1691	REM sleep
+T18	TemporalConcept 176 182	states
+T19	TemporalConcept 734 740	states
+T20	CellFunction 1153 1168	Differentiation
+T21	BiologicFunction 79 95	sleep-wake cycle
+T22	BiologicFunction 449 454	sleep
+T23	BiologicFunction 728 733	sleep
+T24	HealthCareActivity 1432 1461	Montreal Cognitive Assessment
+T25	PopulationGroup 562 578	healthy controls
+T26	PopulationGroup 1743 1759	healthy controls
+T27	ClinicalAttribute 465 484	potential biomarker
+T28	Finding 1413 1424	performance
+T29	DiseaseOrSyndrome 12 31	Alzheimer's disease
+T30	ResearchActivity 994 1001	Results
+T31	DiseaseOrSyndrome 33 35	AD
+T32	DiseaseOrSyndrome 235 237	AD
+T33	DiseaseOrSyndrome 489 491	AD
+T34	DiseaseOrSyndrome 680 682	AD
+T35	DiseaseOrSyndrome 1727 1729	AD
+T36	ClinicalAttribute 210 231	physiologic biomarker
+T37	DiseaseOrSyndrome 664 672	dementia
+T38	DiseaseOrSyndrome 1031 1039	dementia
+T39	DiseaseOrSyndrome 1318 1326	dementia
+T40	DiseaseOrSyndrome 1521 1529	dementia
+T41	DiseaseOrSyndrome 1715 1723	dementia
+T42	PopulationGroup 583 595	participants
+T43	PopulationGroup 641 653	participants
+T44	BodyPartOrganOrOrganComponent 104 109	brain
+T45	BodyPartOrganOrOrganComponent 1194 1199	brain
+T46	PopulationGroup 1053 1061	controls
+T47	PopulationGroup 1340 1348	controls
+T48	PopulationGroup 1543 1551	controls
+T49	Finding 543 561	cognitively normal
+T50	Finding 1562 1570	accuracy
+T51	DiseaseOrSyndrome 628 631	MCI
+T52	DiseaseOrSyndrome 1045 1048	MCI
+T53	DiseaseOrSyndrome 1332 1335	MCI
+T54	DiseaseOrSyndrome 1535 1538	MCI
+T55	DiseaseOrSyndrome 1735 1738	MCI
+T56	DiseaseOrSyndrome 601 626	mild cognitive impairment
+T57	Finding 659 663	mild
+T58	TemporalConcept 395 399	time
+T59	HealthCareActivity 1670 1678	measured
+T60	ResearchActivity 505 513	analyzed
+T61	ClinicalAttribute 239 280	Multiscale fluctuation dispersion entropy
+T62	HealthCareActivity 282 286	MFDE
+T63	ResearchActivity 299 327	sensitive non-linear measure
+T64	HealthCareActivity 455 459	EEGs
+T65	HealthCareActivity 530 534	EEGs
+T66	ClinicalAttribute 869 922	slow-to-fast-activity ratio of power spectral density
+T67	ClinicalAttribute 938 958	relative alpha power
+T68	ClinicalAttribute 924 932	SFAR-PSD
+T69	ClinicalAttribute 431 435	MFDE
+T70	TemporalConcept 514 523	overnight
+T71	NaturalPhenomenonOrProcess 708 715	entropy
+T72	ClinicalAttribute 754 792	slow-to-fast-activity ratio of entropy
+T73	ClinicalAttribute 794 806	SFAR-entropy
+T74	ClinicalAttribute 821 833	SFAR-entropy
+T75	ClinicalAttribute 1003 1015	SFAR-entropy
+T76	BiologicFunction 1131 1151	cholinergic activity
+T77	ClinicalAttribute 1357 1369	SFAR-entropy
+T78	ClinicalAttribute 1494 1506	SFAR-entropy
+T79	ClinicalAttribute 1610 1618	SFAR-PSD
+T80	ClinicalAttribute 1623 1643	relative alpha power
+T81	ClinicalAttribute 1657 1669	SFAR-entropy

@@ -1,0 +1,7 @@
+T0	InjuryOrPoisoning 115 128	neurotoxicity
+T1	PathologicFunction 25 34	infection
+T2	BodyPartOrganOrOrganComponent 38 57	blood-brain barrier
+T3	IndividualBehavior 58 67	integrity
+T4	Virus 14 24	SARS-CoV-2
+T5	Finding 58 67	integrity
+T6	CellFunction 89 100	viral entry

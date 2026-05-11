@@ -1,0 +1,77 @@
+T0	PathologicFunction 4 25	pathogenic mechanisms
+T1	DiseaseOrSyndrome 89 111	neurological disorders
+T2	CellFunction 171 179	dominant
+T3	DiseaseOrSyndrome 184 209	neurodegenerative disease
+T4	BiologicFunction 276 284	encoding
+T5	AminoAcidPeptideOrProtein 380 401	zinc-finger nucleases
+T6	AminoAcidPeptideOrProtein 403 407	ZFNs
+T7	AminoAcidPeptideOrProtein 459 465	TALENs
+T8	NucleicAcidNucleosideOrNucleotide 471 528	Clustered Regularly Interspaced Short Palindromic Repeats
+T9	ResearchActivity 602 614	gene editing
+T10	Cell 628 638	cell types
+T11	Organism 643 652	organisms
+T12	ExperimentalModelOfDisease 774 786	mouse models
+T13	NucleicAcidNucleosideOrNucleotide 1071 1078	vectors
+T14	CellComponent 1083 1094	chromosomes
+T15	Cell 1149 1161	neural cells
+T16	AnatomicalAbnormality 1246 1270	phenotypic abnormalities
+T17	CellFunction 1275 1290	gene expression
+T18	DiseaseOrSyndrome 1328 1358	trinucleotide repeat disorders
+T19	NucleicAcidNucleosideOrNucleotide 1467 1487	single guideline RNA
+T20	BiologicallyActiveSubstance 1467 1487	single guideline RNA
+T21	AminoAcidPeptideOrProtein 1500 1504	Cas9
+T22	DiseaseOrSyndrome 1585 1611	neurodegenerative disorder
+T23	HealthCareActivity 1673 1685	HD treatment
+T24	Cell 688 704	isogenic control
+T25	Cell 721 751	induced pluripotent stem cells
+T26	ResearchActivity 918 941	cut-and-paste mechanism
+T27	ResearchActivity 992 1034	piggyBac transposon-based selection system
+T28	ResearchActivity 562 584	CRISPR/Cas9 technology
+T29	BiologicallyActiveSubstance 529 538	Caspase 9
+T30	ResearchActivity 346 371	Genome editing approaches
+T31	BiologicallyActiveSubstance 1500 1504	Cas9
+T32	ResearchActivity 1275 1298	gene expression changes
+T33	ExperimentalModelOfDisease 1175 1182	HD-iPSC
+T34	Cell 1194 1211	isogenic controls
+T35	NucleicAcidNucleosideOrNucleotide 1409 1414	sgRNA
+T36	CellOrMolecularDysfunction 235 251	CAG re-expansion
+T37	AminoAcidPeptideOrProtein 289 344	polyglutamine-expanded mutant Huntingtin (mHTT) protein
+T38	BiologicallyActiveSubstance 459 465	TALENs
+T39	BiologicallyActiveSubstance 380 401	zinc-finger nucleases
+T40	BiologicallyActiveSubstance 403 407	ZFNs
+T41	ExperimentalModelOfDisease 788 801	HD-iPSC lines
+T42	ExperimentalModelOfDisease 853 861	HD-iPSCs
+T43	BiologicFunction 891 909	CRISPR/Cas9 system
+T44	Cell 1215 1230	corrected lines
+T45	BiologicallyActiveSubstance 1409 1414	sgRNA
+T46	BiologicFunction 1640 1658	CRISPR/Cas9 system
+T47	ResearchActivity 1640 1658	CRISPR/Cas9 system
+T48	AminoAcidPeptideOrProtein 529 538	Caspase 9
+T49	HealthCareActivity 891 909	CRISPR/Cas9 system
+T50	ResearchActivity 891 909	CRISPR/Cas9 system
+T51	CellFunction 1437 1452	DNA restoration
+T52	HealthCareActivity 562 584	CRISPR/Cas9 technology
+T53	Cell 948 970	isogenic control iPSCs
+T54	HealthCareActivity 1640 1658	CRISPR/Cas9 system
+T55	DiseaseOrSyndrome 164 166	HD
+T56	DiseaseOrSyndrome 1372 1374	HD
+T57	DiseaseOrSyndrome 1579 1581	HD
+T58	Eukaryote 708 713	human
+T59	Eukaryote 764 769	human
+T60	DiseaseOrSyndrome 120 140	Huntington's disease
+T61	DiseaseOrSyndrome 142 162	Huntington's Disease
+T62	Cell 753 758	iPSCs
+T63	Cell 1664 1669	iPSCs
+T64	ResearchActivity 1526 1532	review
+T65	HealthCareActivity 1526 1532	review
+T66	NucleicAcidNucleosideOrNucleotide 1391 1407	single-guide RNA
+T67	BiologicallyActiveSubstance 1391 1407	single-guide RNA
+T68	ResearchActivity 1099 1106	studies
+T69	AminoAcidPeptideOrProtein 410 457	transcription activator-like effector nucleases
+T70	BiologicallyActiveSubstance 410 457	transcription activator-like effector nucleases
+T71	HealthCareActivity 76 85	treatment
+T72	ResearchActivity 76 85	treatment
+T73	HealthCareActivity 539 560	(CRISPR/Cas9) systems
+T74	BiologicFunction 539 560	(CRISPR/Cas9) systems
+T75	ResearchActivity 539 560	(CRISPR/Cas9) systems
+T76	CellOrMolecularDysfunction 289 344	polyglutamine-expanded mutant Huntingtin (mHTT) protein

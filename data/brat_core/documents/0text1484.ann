@@ -1,0 +1,75 @@
+T0	BiologicFunction 81 97	brain metabolism
+T1	Finding 290 301	independent
+T2	TemporalConcept 608 617	Frequency
+T3	BiologicFunction 618 631	distributions
+T4	BodyPartOrganOrOrganComponent 752 767	brain structure
+T5	HealthCareActivity 1219 1254	Mini-Mental State Examination scale
+T6	ResearchActivity 445 453	database
+T7	Finding 249 270	accumulating evidence
+T8	TemporalConcept 676 696	clinical progression
+T9	ResearchActivity 714 734	longitudinal changes
+T10	ResearchActivity 401 444	Alzheimer's Disease Neuroimaging Initiative
+T11	HealthCareRelatedOrganization 401 444	Alzheimer's Disease Neuroimaging Initiative
+T12	ResearchActivity 534 544	positivity
+T13	Finding 1191 1196	worse
+T14	PopulationGroup 1156 1167	Individuals
+T15	DiseaseOrSyndrome 192 211	Alzheimer's disease
+T16	DiseaseOrSyndrome 213 215	AD
+T17	DiseaseOrSyndrome 808 810	AD
+T18	DiseaseOrSyndrome 948 950	AD
+T19	DiseaseOrSyndrome 1035 1037	AD
+T20	DiseaseOrSyndrome 1416 1418	AD
+T21	DiseaseOrSyndrome 1727 1729	AD
+T22	ClinicalAttribute 118 127	biomarker
+T23	ClinicalAttribute 302 311	biomarker
+T24	ClinicalAttribute 524 533	biomarker
+T25	ClinicalAttribute 1574 1583	biomarker
+T26	PatientOrDisabledGroup 960 968	patients
+T27	PatientOrDisabledGroup 1356 1364	patients
+T28	HealthCareActivity 1219 1248	Mini-Mental State Examination
+T29	HealthCareActivity 938 947	diagnosed
+T30	PopulationGroup 380 391	individuals
+T31	PopulationGroup 997 1008	individuals
+T32	PopulationGroup 1071 1082	individuals
+T33	HealthCareActivity 72 79	FDG-PET
+T34	HealthCareActivity 1022 1029	FDG-PET
+T35	HealthCareActivity 1374 1381	FDG-PET
+T36	HealthCareActivity 1491 1498	FDG-PET
+T37	HealthCareActivity 1559 1566	FDG-PET
+T38	DiseaseOrSyndrome 811 819	dementia
+T39	DiseaseOrSyndrome 951 959	dementia
+T40	DiseaseOrSyndrome 1038 1046	dementia
+T41	DiseaseOrSyndrome 1419 1427	dementia
+T42	ResearchActivity 347 352	study
+T43	ResearchActivity 1665 1670	study
+T44	DiseaseOrSyndrome 800 803	MCI
+T45	DiseaseOrSyndrome 1352 1355	MCI
+T46	PathologicFunction 1428 1439	progression
+T47	TemporalConcept 1428 1439	progression
+T48	PopulationGroup 504 510	groups
+T49	PopulationGroup 639 645	groups
+T50	PopulationGroup 864 870	groups
+T51	PopulationGroup 1174 1180	groups
+T52	PopulationGroup 1318 1324	groups
+T53	HealthCareActivity 1119 1128	follow-up
+T54	TemporalConcept 1119 1128	follow-up
+T55	BiologicFunction 738 747	cognition
+T56	ResearchActivity 1538 1546	analyses
+T57	ResearchActivity 1646 1654	analysis
+T58	HealthCareActivity 76 79	PET
+T59	HealthCareActivity 1026 1029	PET
+T60	HealthCareActivity 1378 1381	PET
+T61	HealthCareActivity 1495 1498	PET
+T62	HealthCareActivity 1563 1566	PET
+T63	DiseaseOrSyndrome 773 798	mild cognitive impairment
+T64	Chemical 18 41	F-18-fluorodeoxyglucose
+T65	PopulationGroup 1047 1055	subjects
+T66	CellOrMolecularDysfunction 131 148	neurodegeneration
+T67	TemporalConcept 156 164	recently
+T68	Finding 820 830	conversion
+T69	HealthCareActivity 42 70	positron emission tomography
+T70	BodyPartOrganOrOrganComponent 1280 1300	middle temporal lobe
+T71	Finding 1408 1412	risk
+T72	HealthCareActivity 1709 1722	ATN framework
+T73	HealthCareActivity 174 187	ATN framework
+T74	HealthCareActivity 1597 1610	ATN(F) system

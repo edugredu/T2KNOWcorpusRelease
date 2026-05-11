@@ -1,0 +1,12 @@
+T0	Cell 158 163	cells
+T1	ResearchActivity 193 201	profiles
+T2	TemporalConcept 137 141	late
+T3	CellFunction 51 66	gene expression
+T4	BiomedicalOccupationOrDiscipline 21 36	transcriptomics
+T5	TemporalConcept 122 127	early
+T6	CellFunction 177 192	transcriptional
+T7	EmbryonicStructure 87 99	neural crest
+T8	Cell 128 132	SCPs
+T9	BodyPartOrganOrOrganComponent 67 72	atlas
+T10	ResearchActivity 9 20	single-cell
+T11	Cell 9 20	single-cell

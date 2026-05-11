@@ -1,0 +1,10 @@
+T0	BodyPartOrganOrOrganComponent 204 226	central nervous system
+T1	DiseaseOrSyndrome 31 33	MS
+T2	DiseaseOrSyndrome 235 237	MS
+T3	ResearchActivity 51 59	research
+T4	BiologicFunction 108 123	immune response
+T5	PopulationGroup 151 162	individuals
+T6	Finding 99 107	abnormal
+T7	Virus 24 27	EBV
+T8	Virus 78 83	virus
+T9	PathologicFunction 179 196	autoimmune attack

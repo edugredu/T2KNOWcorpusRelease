@@ -1,0 +1,60 @@
+T0	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T1	Finding 50 103	progressive loss of neuronal structures and functions
+T2	CellComponent 70 89	neuronal structures
+T3	BiologicFunction 137 160	physiological processes
+T4	DiseaseOrSyndrome 251 262	Alzheimer's
+T5	DiseaseOrSyndrome 264 275	Parkinson's
+T6	DiseaseOrSyndrome 277 289	Huntington's
+T7	DiseaseOrSyndrome 295 309	prion diseases
+T8	DiseaseOrSyndrome 320 349	amyotrophic lateral sclerosis
+T9	DiseaseOrSyndrome 351 354	ALS
+T10	PharmacologicSubstance 426 432	copper
+T11	Chemical 426 432	copper
+T12	PharmacologicSubstance 434 438	iron
+T13	Chemical 434 438	iron
+T14	Chemical 440 449	manganese
+T15	BiologicallyActiveSubstance 455 459	zinc
+T16	Chemical 455 459	zinc
+T17	BiologicFunction 482 505	physiological functions
+T18	BodyPartOrganOrOrganComponent 525 528	CNS
+T19	Finding 530 536	Shifts
+T20	Chemical 561 567	metals
+T21	BiologicFunction 606 617	maintenance
+T22	CellFunction 652 675	mitochondrial functions
+T23	CellFunction 677 694	neurotransmission
+T24	BiologicFunction 726 734	learning
+T25	BiologicFunction 773 784	homeostasis
+T26	CellFunction 823 837	redox activity
+T27	Chemical 875 878	ion
+T28	CellFunction 910 924	redox activity
+T29	CellFunction 947 974	production of free radicals
+T30	Finding 1039 1055	increased levels
+T31	Chemical 1108 1127	metal microelements
+T32	PathologicFunction 1158 1170	pathogenesis
+T33	Chemical 1226 1232	metals
+T34	BodyPartOrganOrOrganComponent 1237 1240	CNS
+T35	BiologicFunction 1326 1337	homeostasis
+T36	Chemical 1341 1360	metal microelements
+T37	Chemical 1486 1492	metals
+T38	Finding 1086 1102	growing evidence
+T39	CellOrMolecularDysfunction 1294 1311	neurodegeneration
+T40	DiseaseOrSyndrome 218 244	neurodegenerative diseases
+T41	DiseaseOrSyndrome 1174 1200	neurodegenerative diseases
+T42	DiseaseOrSyndrome 1496 1522	neurodegenerative diseases
+T43	CellOrMolecularDysfunction 1059 1075	oxidative stress
+T44	ResearchActivity 1449 1455	review
+T45	HealthCareActivity 1449 1455	review
+T46	BiologicallyActiveSubstance 440 449	manganese
+T47	BiologicallyActiveSubstance 426 432	copper
+T48	Chemical 394 416	Biometal microelements
+T49	PharmacologicSubstance 394 416	Biometal microelements
+T50	BiologicallyActiveSubstance 394 416	Biometal microelements
+T51	BiologicallyActiveSubstance 434 438	iron
+T52	PharmacologicSubstance 455 459	zinc
+T53	Finding 875 903	ion and microelement balance
+T54	Chemical 961 974	free radicals
+T55	BiologicallyActiveSubstance 961 974	free radicals
+T56	Chemical 1003 1021	organic substrates
+T57	ResearchActivity 1411 1416	paper
+T58	PathologicFunction 1544 1565	pathogenic mechanisms
+T59	CellFunction 70 78;94 103	neuronal functions

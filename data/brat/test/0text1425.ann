@@ -1,0 +1,54 @@
+T0	BiologicFunction 76 85	evolution
+T1	BiologicallyActiveSubstance 492 495	NFL
+T2	AminoAcidPeptideOrProtein 492 495	NFL
+T3	AminoAcidPeptideOrProtein 497 503	YKL-40
+T4	BiologicallyActiveSubstance 497 503	YKL-40
+T5	AminoAcidPeptideOrProtein 1214 1220	YKL-40
+T6	BiologicallyActiveSubstance 1214 1220	YKL-40
+T7	BiologicFunction 1418 1427	evolution
+T8	ResearchActivity 1232 1258	nonlinear data aggregation
+T9	OrganismAttribute 655 658	age
+T10	AminoAcidPeptideOrProtein 474 477	tau
+T11	AminoAcidPeptideOrProtein 482 485	tau
+T12	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T13	PatientOrDisabledGroup 1306 1313	patient
+T14	ClinicalAttribute 446 456	biomarkers
+T15	ClinicalAttribute 1276 1286	biomarkers
+T16	TemporalConcept 716 721	years
+T17	AminoAcidPeptideOrProtein 458 464	A beta
+T18	BodyPartOrganOrOrganComponent 321 340	cerebrospinal fluid
+T19	BodyPartOrganOrOrganComponent 426 445	cerebrospinal fluid
+T20	DiseaseOrSyndrome 21 23	AD
+T21	DiseaseOrSyndrome 308 310	AD
+T22	DiseaseOrSyndrome 633 635	AD
+T23	DiseaseOrSyndrome 1121 1123	AD
+T24	DiseaseOrSyndrome 138 146	dementia
+T25	DiseaseOrSyndrome 636 644	dementia
+T26	TemporalConcept 224 231	current
+T27	DiseaseOrSyndrome 111 131	cognitive impairment
+T28	DiseaseOrSyndrome 598 618	cognitive impairment
+T29	OrganismAttribute 526 533	healthy
+T30	PopulationGroup 512 524	participants
+T31	DiseaseOrSyndrome 106 131	mild cognitive impairment
+T32	DiseaseOrSyndrome 593 618	mild cognitive impairment
+T33	DiseaseOrSyndrome 1063 1090	neurodegenerative processes
+T34	PathologicFunction 1186 1203	neuroinflammation
+T35	ResearchActivity 241 249	research
+T36	PathologicFunction 1132 1147	pathophysiology
+T37	PathologicFunction 1368 1383	pathophysiology
+T38	PharmacologicSubstance 1444 1448	drug
+T39	PathologicFunction 407 425	pathophysiological
+T40	BiomedicalOccupationOrDiscipline 1132 1147	pathophysiology
+T41	BiomedicalOccupationOrDiscipline 1368 1383	pathophysiology
+T42	BiomedicalOccupationOrDiscipline 25 39	neuropathology
+T43	PathologicFunction 25 39	neuropathology
+T44	PopulationGroup 526 542	healthy controls
+T45	ClinicalAttribute 341 350	biomarker
+T46	ClinicalAttribute 1034 1043	biomarker
+T47	ClinicalAttribute 1204 1213	biomarker
+T48	ResearchActivity 358 381	stratification approach
+T49	Finding 1410 1427	disease evolution
+T50	BiologicallyActiveSubstance 474 477	tau
+T51	BiologicallyActiveSubstance 482 485	tau
+T52	MachineActivity 757 816	Density-Based Spatial Clustering of Applications with Noise
+T53	BiologicFunction 1444 1457	drug response

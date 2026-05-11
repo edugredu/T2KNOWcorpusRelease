@@ -1,0 +1,58 @@
+T0	PharmacologicSubstance 144 152	medicine
+T1	BiomedicalOccupationOrDiscipline 144 152	medicine
+T2	BodyPartOrganOrOrganComponent 433 453	extracellular fluids
+T3	HealthCareActivity 897 915	imaging techniques
+T4	TemporalConcept 1168 1182	presymptomatic
+T5	ResearchActivity 1262 1278	medical research
+T6	BiologicFunction 1283 1291	practice
+T7	HealthCareActivity 1293 1302	Diagnosis
+T8	ResearchActivity 1293 1302	Diagnosis
+T9	BodyPartOrganOrOrganComponent 1651 1655	hand
+T10	HealthCareActivity 1723 1741	patient management
+T11	ResearchActivity 1691 1708	drug trial design
+T12	TemporalConcept 1186 1192	mature
+T13	TemporalConcept 1603 1611	progress
+T14	TemporalConcept 1673 1681	progress
+T15	Substance 671 677	fluids
+T16	CellComponent 585 607	extracellular vesicles
+T17	ResearchActivity 1090 1095	study
+T18	BodyPartOrganOrOrganComponent 490 502	blood plasma
+T19	BodyPartOrganOrOrganComponent 846 851	brain
+T20	ClinicalAttribute 305 321	Fluid biomarkers
+T21	ClinicalAttribute 708 726	Imaging biomarkers
+T22	ClinicalAttribute 1216 1226	biomarkers
+T23	ClinicalAttribute 1433 1443	biomarkers
+T24	NucleicAcidNucleosideOrNucleotide 403 409	miRNAs
+T25	NucleicAcidNucleosideOrNucleotide 546 552	miRNAs
+T26	BiologicallyActiveSubstance 403 409	miRNAs
+T27	BiologicallyActiveSubstance 546 552	miRNAs
+T28	ClinicalAttribute 1046 1055	biomarker
+T29	Finding 1418 1429	specificity
+T30	TemporalConcept 52 58	origin
+T31	DiseaseOrSyndrome 1118 1144	neurodegenerative diseases
+T32	DiseaseOrSyndrome 1096 1107	Alzheimer's
+T33	DiseaseOrSyndrome 1582 1593	Alzheimer's
+T34	HealthCareActivity 1745 1762	clinical practice
+T35	AminoAcidPeptideOrProtein 381 389	proteins
+T36	AminoAcidPeptideOrProtein 524 532	proteins
+T37	ClinicalAttribute 0 10	Biomarkers
+T38	ClinicalAttribute 225 235	Biomarkers
+T39	HealthCareActivity 1525 1532	therapy
+T40	BiomedicalOccupationOrDiscipline 124 131	biology
+T41	ResearchActivity 764 771	in vivo
+T42	HealthCareActivity 855 883	positron emission tomography
+T43	Substance 361 366	fluid
+T44	Substance 481 486	fluid
+T45	Substance 15 24	molecules
+T46	Substance 807 816	molecules
+T47	TemporalConcept 1376 1384	recently
+T48	TemporalConcept 1193 1199	stages
+T49	PharmacologicSubstance 1691 1695	drug
+T50	CellFunction 783 790	binding
+T51	BiologicFunction 124 131	biology
+T52	HealthCareActivity 1486 1495	prognosis
+T53	AminoAcidPeptideOrProtein 390 398	peptides
+T54	AminoAcidPeptideOrProtein 533 541	peptides
+T55	Chemical 794 806	radiolabeled
+T56	HealthCareActivity 1262 1269;1283 1291	medical practice
+T57	HealthCareActivity 1344 1360	medical criteria

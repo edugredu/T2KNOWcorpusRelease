@@ -1,0 +1,45 @@
+T0	BiologicFunction 861 876	immune response
+T1	CellFunction 861 876	immune response
+T2	PathologicFunction 888 905	autoimmune nature
+T3	Chemical 929 937	Chitosan
+T4	Chemical 942 953	derivatives
+T5	HealthCareActivity 439 451	cell therapy
+T6	ResearchActivity 514 521	article
+T7	PharmacologicSubstance 1138 1143	drugs
+T8	AminoAcidPeptideOrProtein 336 339	NG2
+T9	BiologicallyActiveSubstance 336 339	NG2
+T10	GeneOrGenome 336 339	NG2
+T11	Cell 304 308	OPCs
+T12	Cell 401 405	OPCs
+T13	Cell 564 568	OPCs
+T14	Cell 825 829	OPCs
+T15	Cell 159 162	OPC
+T16	Cell 340 345	cells
+T17	Cell 349 354	cells
+T18	Cell 468 473	cells
+T19	DiseaseOrSyndrome 57 75	multiple sclerosis
+T20	DiseaseOrSyndrome 909 927	multiple sclerosis
+T21	CellFunction 797 810	remyelination
+T22	InjuryOrPoisoning 14 34	demyelinated lesions
+T23	InjuryOrPoisoning 177 183	lesion
+T24	BiologicFunction 4 10	repair
+T25	HealthCareActivity 4 10	repair
+T26	PathologicFunction 239 258	disease progression
+T27	BodyPartOrganOrOrganComponent 833 851	demyelinated areas
+T28	Cell 125 157	oligodendrocyte progenitor cells
+T29	CellFunction 86 99	Remyelination
+T30	TemporalConcept 259 263	time
+T31	CellFunction 812 821	migration
+T32	CellFunction 1124 1137	remyelinating
+T34	OrganismAttribute 234 237	age
+T35	CellFunction 265 286	inflammatory activity
+T36	PathologicFunction 265 277	inflammatory
+T37	HealthCareActivity 733 740	therapy
+T38	TemporalConcept 1144 1153	currently
+T39	Cell 368 385	neural stem cells
+T40	ResearchActivity 76 84	research
+T41	ResearchActivity 1083 1091	research
+T42	Cell 296 308	pool of OPCs
+T43	ManufacturedObject 564 607	OPCs encapsulated within hydrogel particles
+T44	ManufacturedObject 620 646	biocompatible biomaterials
+T45	BiologicFunction 656 677	nose-to-brain pathway

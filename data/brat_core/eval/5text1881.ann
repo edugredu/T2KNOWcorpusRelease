@@ -1,0 +1,5 @@
+T0	DiseaseOrSyndrome 88 115	neurodegenerative disorders
+T1	PathologicFunction 181 193	pathogenesis
+T2	CellOrMolecularDysfunction 68 84	oxidative stress
+T3	PathologicFunction 44 53	infection
+T4	Bacterium 24 43	Helicobacter pylori

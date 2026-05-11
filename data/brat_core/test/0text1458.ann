@@ -1,0 +1,78 @@
+T0	BodyPartOrganOrOrganComponent 181 196	sensory systems
+T1	BiologicFunction 233 240	Hearing
+T2	BiologicFunction 302 309	hearing
+T3	HealthCareRelatedOrganization 368 379	Jackson Lab
+T4	BiologicFunction 410 426	Hearing function
+T5	ClinicalAttribute 443 470	auditory brainstem response
+T6	ClinicalAttribute 472 475	ABR
+T7	ResearchActivity 581 583	WT
+T8	ClinicalAttribute 658 661	ABR
+T9	Finding 676 688	hearing loss
+T10	Finding 694 706	hearing loss
+T11	BiologicFunction 796 812	spatial learning
+T12	Finding 870 882	hearing loss
+T13	Finding 973 985	hearing loss
+T14	ClinicalAttribute 1076 1079	ABR
+T15	Finding 1120 1130	impairment
+T16	BodyPartOrganOrOrganComponent 1134 1153	inferior colliculus
+T17	BodyPartOrganOrOrganComponent 1155 1182	nuclei of lateral lemniscus
+T18	BodyPartOrganOrOrganComponent 1188 1210	medial geniculate body
+T19	PathologicFunction 1368 1392	age-related hearing loss
+T20	Finding 1429 1441	hearing loss
+T21	TemporalConcept 134 145	last decade
+T22	BodyPartOrganOrOrganComponent 1218 1233	upper brainstem
+T23	TemporalConcept 782 792	occurrence
+T24	Finding 662 671	threshold
+T25	Finding 1066 1075	threshold
+T26	InjuryOrPoisoning 1595 1601	lesion
+T27	HealthCareActivity 646 654	measured
+T28	PathologicFunction 1521 1530	sensitive
+T29	DiseaseOrSyndrome 30 55	neurodegenerative disease
+T30	Finding 1300 1309	reduction
+T31	NaturalPhenomenonOrProcess 1300 1309	reduction
+T32	Finding 935 938	low
+T33	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T34	DiseaseOrSyndrome 21 23	AD
+T35	DiseaseOrSyndrome 229 231	AD
+T36	DiseaseOrSyndrome 332 334	AD
+T37	DiseaseOrSyndrome 1577 1579	AD
+T38	TemporalConcept 75 86	progressive
+T39	TemporalConcept 887 898	progressive
+T40	ResearchActivity 1339 1343	data
+T41	ResearchActivity 1449 1453	data
+T42	HealthCareActivity 1489 1496	testing
+T43	ResearchActivity 344 349	study
+T44	PopulationGroup 607 614	control
+T45	DiseaseOrSyndrome 106 123	cognitive decline
+T46	TemporalConcept 724 733	frequency
+T47	TemporalConcept 922 931	frequency
+T48	TemporalConcept 939 948	frequency
+T49	TemporalConcept 1008 1017	frequency
+T50	OrganismAttribute 838 841	age
+T51	TemporalConcept 737 742	early
+T52	TemporalConcept 1414 1419	early
+T53	TemporalConcept 1561 1566	early
+T54	TemporalConcept 748 754	months
+T55	TemporalConcept 828 834	months
+T56	TemporalConcept 957 963	months
+T57	TemporalConcept 1420 1425	onset
+T58	SignOrSymptom 87 101	loss of memory
+T59	BiologicFunction 95 101	memory
+T60	HealthCareActivity 1532 1556	non-invasive screen-tool
+T61	ResearchActivity 1532 1556	non-invasive screen-tool
+T62	ExperimentalModelOfDisease 1319 1331	APP/PS1 mice
+T63	Finding 719 723	high
+T64	Finding 917 921	high
+T65	BiologicFunction 257 269	neural sense
+T66	Finding 310 328	functional changes
+T67	HealthCareActivity 478 517;558 568	distortion product otoacoustic emission recordings
+T68	HealthCareActivity 531 552;558 568	cochlear microphonics recordings
+T69	ResearchActivity 570 579;585 596	Wild-type littermates
+T70	ExperimentalModelOfDisease 630 645	APP/PS1 AD mice
+T71	ExperimentalModelOfDisease 850 864	AD mouse model
+T72	HealthCareActivity 1235 1240	DPOAE
+T73	ExperimentalModelOfDisease 1244 1259	APP/PS1 AD mice
+T74	ExperimentalModelOfDisease 1393 1408	APP/PS1 AD mice
+T75	BiologicFunction 1472 1488	hearing function
+T76	HealthCareActivity 519 524	DPOAE
+T77	ExperimentalModelOfDisease 351 366	APP/PS1 AD mice

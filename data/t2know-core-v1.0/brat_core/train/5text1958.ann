@@ -1,0 +1,10 @@
+T0	Cell 137 142	cells
+T1	NucleicAcidNucleosideOrNucleotide 147 150	DNA
+T2	InjuryOrPoisoning 130 136	damage
+T3	NaturalPhenomenonOrProcess 80 86	energy
+T4	Finding 154 162	exposure
+T5	NaturalPhenomenonOrProcess 9 34	electromagnetic radiation
+T6	NaturalPhenomenonOrProcess 0 34	Ionizing electromagnetic radiation
+T7	NaturalPhenomenonOrProcess 46 52	X-rays
+T8	NaturalPhenomenonOrProcess 57 67	gamma rays
+T9	NaturalPhenomenonOrProcess 108 118	ionization

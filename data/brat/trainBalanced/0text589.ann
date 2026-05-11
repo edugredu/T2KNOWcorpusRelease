@@ -1,0 +1,48 @@
+T0	BiologicFunction 129 152	neuropsychiatric domain
+T1	IndividualBehavior 331 355	visual scanning behavior
+T2	BiologicFunction 570 583	eye-movements
+T3	BiologicFunction 638 662	mental state recognition
+T4	HealthCareActivity 712 720	scanning
+T5	CellFunction 872 875	FTR
+T6	BiologicFunction 1012 1029	motor functioning
+T7	Finding 1292 1300	impaired
+T8	BodyPartOrganOrOrganComponent 1301 1307	facial
+T9	Finding 1433 1451	facial expressions
+T10	TemporalConcept 234 253	pre-manifest stages
+T11	BiologicFunction 181 205	mental state recognition
+T12	BiologicFunction 368 392	mental state recognition
+T13	BiologicFunction 921 945	mental state recognition
+T14	BiologicFunction 1134 1158	mental state recognition
+T15	BiologicFunction 1308 1332	mental state recognition
+T16	Finding 169 177	deficits
+T17	Finding 626 634	deficits
+T18	ResearchActivity 1075 1103	horizontal fixation patterns
+T19	ResearchActivity 1115 1123	patterns
+T20	BiologicFunction 998 1007	cognition
+T21	TemporalConcept 796 821	average fixation duration
+T22	OrganismAttribute 475 481	gender
+T23	PopulationGroup 396 407	individuals
+T24	OrganismAttribute 466 469	age
+T25	Finding 1175 1186	involvement
+T26	OrganismAttribute 490 497	healthy
+T27	PopulationGroup 490 506	healthy controls
+T28	DiseaseOrSyndrome 0 20	Huntington's disease
+T29	DiseaseOrSyndrome 22 24	HD
+T30	DiseaseOrSyndrome 413 428	pre-manifest HD
+T31	DiseaseOrSyndrome 1336 1351	pre-manifest HD
+T32	DiseaseOrSyndrome 39 65	neurodegenerative disorder
+T33	ResearchActivity 286 294	research
+T34	TemporalConcept 228 233	early
+T35	DiseaseOrSyndrome 430 435	preHD
+T36	DiseaseOrSyndrome 447 452	preHD
+T37	HealthCareActivity 524 557	Reading the Mind in the Eyes test
+T38	DiseaseOrSyndrome 664 669	preHD
+T39	ClinicalAttribute 757 785	absolute number of fixations
+T40	ClinicalAttribute 796 821	average fixation duration
+T41	ClinicalAttribute 837 870	percentage of time spent fixating
+T42	DiseaseOrSyndrome 881 886	preHD
+T43	Finding 986 994	declines
+T44	DiseaseOrSyndrome 1040 1045	preHD
+T45	ResearchActivity 1062 1070;1086 1103	vertical fixation patterns
+T46	BiologicFunction 1216 1256	embodied processing of emotional stimuli
+T47	BiologicFunction 1414 1429	visual scanning

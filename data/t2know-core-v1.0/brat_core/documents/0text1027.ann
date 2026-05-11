@@ -1,0 +1,57 @@
+T0	DiseaseOrSyndrome 0 6	Sepsis
+T1	Eukaryote 0 6	Sepsis
+T2	DiseaseOrSyndrome 323 329	sepsis
+T3	Eukaryote 323 329	sepsis
+T4	DiseaseOrSyndrome 375 381	Sepsis
+T5	Eukaryote 375 381	Sepsis
+T6	Cell 431 441	lymphocyte
+T7	BiologicFunction 453 464	coagulation
+T8	DiseaseOrSyndrome 656 662	sepsis
+T9	Eukaryote 656 662	sepsis
+T10	TemporalConcept 708 721	disease phase
+T11	Finding 813 820	sources
+T12	DiseaseOrSyndrome 842 848	sepsis
+T13	Eukaryote 842 848	sepsis
+T14	ClinicalAttribute 519 535	clinical outcome
+T15	CellFunction 442 451	apoptosis
+T16	PathologicFunction 70 96	dysregulated host response
+T17	PopulationGroup 263 279	healthy controls
+T18	ResearchActivity 868 876	in vitro
+T19	CellComponent 198 220	extracellular vesicles
+T20	CellComponent 222 225	EVs
+T21	CellComponent 312 315	EVs
+T22	CellComponent 382 385	EVs
+T23	CellComponent 501 504	EVs
+T24	CellComponent 561 564	EVs
+T25	CellComponent 629 632	EVs
+T26	CellComponent 739 742	EVs
+T27	BodyPartOrganOrOrganComponent 234 239	blood
+T28	CellComponent 681 683	EV
+T29	CellComponent 810 812	EV
+T30	PathologicFunction 417 429	inflammation
+T31	PathologicFunction 330 339	pathology
+T32	PathologicFunction 849 858	pathology
+T33	BiomedicalOccupationOrDiscipline 330 339	pathology
+T34	BiomedicalOccupationOrDiscipline 849 858	pathology
+T35	Finding 797 806	knowledge
+T36	PatientOrDisabledGroup 143 150	patient
+T37	PatientOrDisabledGroup 906 913	patient
+T38	ResearchActivity 764 770	review
+T39	HealthCareActivity 764 770	review
+T40	TemporalConcept 789 796	current
+T41	PathologicFunction 103 112	infection
+T42	ResearchActivity 122 129	studies
+T43	TemporalConcept 23 27	life
+T44	Eukaryote 133 138	mouse
+T45	Eukaryote 881 886	mouse
+T46	PathologicFunction 40 57	organ dysfunction
+T47	PathologicFunction 469 486	organ dysfunction
+T48	CellFunction 577 585	survival
+T49	Eukaryote 151 157	sepsis
+T50	DiseaseOrSyndrome 151 157	sepsis
+T51	Substance 158 165	samples
+T52	BodyPartOrganOrOrganComponent 158 165	samples
+T53	ResearchActivity 887 893	models
+T54	Substance 914 921	samples
+T55	BodyPartOrganOrOrganComponent 914 921	samples
+T56	BiologicallyActiveSubstance 403 413	modulators

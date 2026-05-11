@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "T2KNOW reconstructed full JSONL record",
+  "type": "object",
+  "required": [
+    "text",
+    "entities",
+    "meta"
+  ],
+  "properties": {
+    "text": {
+      "type": "string"
+    },
+    "entities": {
+      "type": "array"
+    },
+    "meta": {
+      "type": "object"
+    }
+  }
+}

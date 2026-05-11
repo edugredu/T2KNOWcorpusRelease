@@ -1,0 +1,77 @@
+T0	DiseaseOrSyndrome 53 56	DLB
+T1	DiseaseOrSyndrome 355 358	DLB
+T2	DiseaseOrSyndrome 571 574	DLB
+T3	BiologicFunction 845 859	discrimination
+T4	CellFunction 845 859	discrimination
+T5	AminoAcidPeptideOrProtein 1055 1065	cystatin C
+T6	PharmacologicSubstance 1055 1065	cystatin C
+T7	AminoAcidPeptideOrProtein 1070 1081	progranulin
+T8	BiologicallyActiveSubstance 1070 1081	progranulin
+T9	DiseaseOrSyndrome 1089 1092	DLB
+T10	DiseaseOrSyndrome 1387 1398	pathologies
+T11	ClinicalAttribute 779 790	performance
+T12	DiseaseOrSyndrome 62 85	frontotemporal dementia
+T13	Finding 779 790	performance
+T14	CellComponent 40 51	Lewy bodies
+T15	DiseaseOrSyndrome 87 90	FTD
+T16	DiseaseOrSyndrome 368 371	FTD
+T17	ResearchActivity 503 508	ELISA
+T18	PopulationGroup 379 387	controls
+T19	PopulationGroup 598 606	controls
+T20	PopulationGroup 723 731	controls
+T21	ResearchActivity 416 424	analyzed
+T22	PopulationGroup 325 333	subjects
+T23	CellComponent 231 253	extracellular vesicles
+T24	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T25	CellComponent 255 258	EVs
+T26	CellComponent 407 410	EVs
+T27	DiseaseOrSyndrome 21 23	AD
+T28	DiseaseOrSyndrome 343 345	AD
+T29	DiseaseOrSyndrome 564 566	AD
+T30	DiseaseOrSyndrome 998 1000	AD
+T31	DiseaseOrSyndrome 1097 1099	AD
+T32	CellComponent 526 528	EV
+T33	CellComponent 553 555	EV
+T34	CellComponent 650 652	EV
+T35	CellComponent 798 800	EV
+T36	CellComponent 918 920	EV
+T37	CellComponent 1173 1175	EV
+T38	BodyPartOrganOrOrganComponent 313 316	CSF
+T39	BodyPartOrganOrOrganComponent 403 406	CSF
+T40	BodyPartOrganOrOrganComponent 292 311	cerebrospinal fluid
+T41	AminoAcidPeptideOrProtein 979 988	A beta 42
+T42	PatientOrDisabledGroup 705 713	patients
+T43	PatientOrDisabledGroup 1001 1009	patients
+T44	DiseaseOrSyndrome 26 34	dementia
+T45	ResearchActivity 874 894	area under the curve
+T46	ResearchActivity 608 636	Classification tree analysis
+T47	Finding 1246 1257	involvement
+T48	ResearchActivity 208 213	study
+T49	ResearchActivity 1223 1228	study
+T50	OrganismAttribute 556 560	size
+T51	OrganismAttribute 653 657	size
+T52	OrganismAttribute 815 819	size
+T53	OrganismAttribute 935 939	size
+T54	CellFunction 1265 1282	endosomal pathway
+T55	CellFunction 1349 1369	molecular mechanisms
+T56	BiologicFunction 529 542	concentration
+T57	BiologicFunction 801 814	concentration
+T58	BiologicFunction 921 934	concentration
+T59	AminoAcidPeptideOrProtein 264 284	neurotrophic factors
+T60	AminoAcidPeptideOrProtein 463 483	neurotrophic factors
+T61	AminoAcidPeptideOrProtein 1148 1168	neurotrophic factors
+T62	BiologicallyActiveSubstance 264 284	neurotrophic factors
+T63	BiologicallyActiveSubstance 463 483	neurotrophic factors
+T64	BiologicallyActiveSubstance 1148 1168	neurotrophic factors
+T65	DiseaseOrSyndrome 26 51	dementia with Lewy bodies
+T66	DiseaseOrSyndrome 118 145	neurodegenerative dementias
+T67	PathologicFunction 163 198	abnormal brain protein accumulation
+T68	ResearchActivity 428 458	Nanoparticle Tracking Analysis
+T69	HealthCareActivity 768 790	diagnostic performance
+T70	ClinicalAttribute 918 945	EV concentration/size ratio
+T71	ClinicalAttribute 798 825	EV concentration/size ratio
+T72	AminoAcidPeptideOrProtein 970 978	p-Tau181
+T73	BiologicallyActiveSubstance 970 978	p-Tau181
+T74	BiologicallyActiveSubstance 979 988	A beta 42
+T75	ClinicalAttribute 970 994	p-Tau181/A beta 42 ratio
+T76	DiseaseOrSyndrome 1286 1313	neurodegenerative dementias

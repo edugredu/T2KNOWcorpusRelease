@@ -1,0 +1,70 @@
+T0	HealthCareActivity 378 394	drug repurposing
+T1	CellComponent 530 543	intracellular
+T2	BiomedicalOccupationOrDiscipline 584 599	systems biology
+T3	ResearchActivity 749 789	next generation pharmacogenomic analysis
+T4	Chemical 824 832	LY294002
+T5	Chemical 1064 1072	LY294002
+T6	CellFunction 1130 1141	myelinating
+T7	Chemical 1334 1342	LY294002
+T8	Chemical 1549 1564	small molecules
+T9	Chemical 859 873	small molecule
+T10	Cell 22 38	oligodendrocytes
+T11	Cell 1142 1158	oligodendrocytes
+T12	Cell 1346 1362	oligodendrocytes
+T13	Cell 1094 1098	OPCs
+T14	BodyPartOrganOrOrganComponent 49 55	myelin
+T15	CellFunction 1109 1124	differentiation
+T16	BiologicFunction 322 334	regeneration
+T17	Substance 865 873	molecule
+T18	Cell 1130 1158	myelinating oligodendrocytes
+T19	Cell 40 43	OLs
+T20	Cell 695 710	oligodendroglia
+T21	Chemical 641 650	compounds
+T22	PharmacologicSubstance 641 650	compounds
+T23	CellFunction 1248 1266	signalling pathway
+T24	IndividualBehavior 100 109	integrity
+T25	TemporalConcept 1167 1176	postnatal
+T26	HealthCareActivity 322 334	regeneration
+T27	DiseaseOrSyndrome 168 186	Multiple Sclerosis
+T28	CellFunction 339 352	myelin repair
+T29	CellFunction 1422 1435	myelin repair
+T30	Cell 898 914	oligodendroglial
+T31	CellOrMolecularDysfunction 14 38	loss of oligodendrocytes
+T32	DiseaseOrSyndrome 193 212	Alzheimer's disease
+T33	BodyPartOrganOrOrganComponent 83 86	CNS
+T34	ResearchActivity 1248 1282	signalling pathway activity assays
+T35	Cell 1296 1300	cell
+T36	Finding 1054 1060	effect
+T37	ResearchActivity 1218 1243	transcriptional profiling
+T38	ResearchActivity 1494 1504	strategies
+T39	BiologicFunction 1494 1504	strategies
+T40	DiseaseOrSyndrome 134 156	neurological disorders
+T41	ResearchActivity 1383 1390	in vivo
+T42	Cell 477 485	cellular
+T43	CellFunction 544 552	pathways
+T44	Cell 306 321	oligodendrocyte
+T45	Substance 1555 1564	molecules
+T46	HealthCareActivity 1524 1545	therapeutic potential
+T47	HealthCareActivity 283 292	therapies
+T48	DiseaseOrSyndrome 188 190	MS
+T49	PopulationGroup 1181 1186	adult
+T50	Finding 72 79	effects
+T51	Finding 519 526	effects
+T52	Finding 684 691	effects
+T53	Finding 939 946	effects
+T54	PharmacologicSubstance 378 382	drug
+T55	TemporalConcept 1080 1090	generation
+T56	BiologicFunction 725 738	concentration
+T57	BiologicFunction 915 928	concentration
+T58	DiseaseOrSyndrome 1568 1595	neurodegenerative disorders
+T59	BiologicFunction 83 95	CNS function
+T60	BiologicFunction 100 109;83 86	integrity CNS
+T61	DiseaseOrSyndrome 217 243	neuropsychiatric disorders
+T62	AminoAcidPeptideOrProtein 805 809	PI3K
+T63	BiologicallyActiveSubstance 805 809	PI3K
+T64	AminoAcidPeptideOrProtein 810 813	Akt
+T65	BiologicallyActiveSubstance 810 813	Akt
+T66	PharmacologicSubstance 824 832	LY294002
+T67	BiologicallyActiveSubstance 814 823	modulator
+T68	PharmacologicSubstance 1334 1342	LY294002
+T69	PharmacologicSubstance 1064 1072	LY294002

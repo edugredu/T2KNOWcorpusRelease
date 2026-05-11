@@ -1,0 +1,37 @@
+T0	HealthCareActivity 1165 1189	therapeutic intervention
+T1	BiologicFunction 113 124	homeostasis
+T2	PathologicFunction 346 361	pathophysiology
+T3	BiomedicalOccupationOrDiscipline 346 361	pathophysiology
+T4	ResearchActivity 902 910	in vitro
+T5	Finding 1092 1100	evidence
+T6	CellComponent 44 66	extracellular vesicles
+T7	CellComponent 68 71	EVs
+T8	CellComponent 283 286	EVs
+T9	CellComponent 379 382	EVs
+T10	CellComponent 1020 1023	EVs
+T11	CellComponent 221 223	EV
+T12	CellComponent 537 539	EV
+T13	CellComponent 714 716	EV
+T14	ResearchActivity 915 922	in vivo
+T15	ResearchActivity 1084 1091	in vivo
+T16	BiologicFunction 470 483	understanding
+T17	BiologicFunction 592 605	understanding
+T18	PathologicFunction 1027 1036	pathology
+T19	BiomedicalOccupationOrDiscipline 1027 1036	pathology
+T20	Finding 205 214	knowledge
+T21	Finding 146 152	normal
+T22	ClinicalAttribute 1140 1150	biomarkers
+T23	ResearchActivity 367 375	analysis
+T24	ResearchActivity 982 988	review
+T25	HealthCareActivity 982 988	review
+T26	BiologicFunction 224 234	signalling
+T27	BiologicFunction 540 550	signalling
+T28	OrganismAttribute 759 763	size
+T29	ResearchActivity 895 901	models
+T30	PathologicFunction 652 662	pathogenic
+T31	HealthCareRelatedOrganization 413 419	clinic
+T32	HealthCareRelatedOrganization 955 961	clinic
+T33	Substance 386 395	biofluids
+T34	Substance 742 751	biofluids
+T35	Substance 817 824	samples
+T36	BodyPartOrganOrOrganComponent 817 824	samples

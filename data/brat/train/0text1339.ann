@@ -1,0 +1,117 @@
+T0	TemporalConcept 133 142	permanent
+T1	SignOrSymptom 143 164	neurologic disability
+T2	Cell 232 241	precursor
+T3	HealthCareActivity 410 427	adoptive transfer
+T4	Cell 650 668	regulatory T cells
+T5	HealthCareActivity 773 784	transfusion
+T6	BodyPartOrganOrOrganComponent 974 982;994 999	thoracic spine
+T7	BodyPartOrganOrOrganComponent 987 999	lumbar spine
+T8	BiologicFunction 1176 1183	content
+T9	Chemical 1384 1388	A2B5
+T10	AminoAcidPeptideOrProtein 1638 1656	homeobox protein 1
+T11	Finding 1693 1709	clinical benefit
+T12	CellFunction 1373 1383	expressing
+T13	BiologicFunction 716 734	oligodendrogenesis
+T14	BiologicFunction 1302 1320	oligodendrogenesis
+T15	ExperimentalModelOfDisease 339 380	experimental autoimmune encephalomyelitis
+T16	ExperimentalModelOfDisease 382 385	EAE
+T17	ExperimentalModelOfDisease 494 497	EAE
+T18	ExperimentalModelOfDisease 825 828	EAE
+T19	ExperimentalModelOfDisease 1044 1047	EAE
+T20	BodyPartOrganOrOrganComponent 1028 1040	spinal cords
+T21	GeneOrGenome 1638 1646	homeobox
+T22	AminoAcidPeptideOrProtein 1638 1646	homeobox
+T23	TemporalConcept 1778 1788	concurrent
+T24	CellComponent 278 283	axons
+T25	Cell 193 209	oligodendrocytes
+T26	Cell 245 261	oligodendrocytes
+T27	Cell 1409 1425	oligodendrocytes
+T28	DiseaseOrSyndrome 40 58	multiple sclerosis
+T29	BodyPartOrganOrOrganComponent 94 100	myelin
+T30	CellFunction 266 277	remyelinate
+T31	Cell 1565 1588	mature oligodendrocytes
+T32	BodyPartOrganOrOrganComponent 904 915	spinal cord
+T33	Cell 1803 1835	oligodendrocyte progenitor cells
+T34	CellFunction 1442 1457	differentiation
+T35	Cell 210 226	progenitor cells
+T36	AminoAcidPeptideOrProtein 1502 1522	myelin basic protein
+T37	BiologicallyActiveSubstance 1502 1522	myelin basic protein
+T38	TemporalConcept 1393 1398	early
+T39	Cell 1164 1175	macrophages
+T40	Cell 1426 1441	progenitor cell
+T41	PopulationGroup 1077 1085	resident
+T42	Cell 1121 1133;1154 1163	infiltrating monocytes
+T43	CellFunction 1605 1619	downregulation
+T44	PatientOrDisabledGroup 26 34	patients
+T45	ClinicalAttribute 1399 1405	marker
+T46	ResearchActivity 946 962	g-ratio analysis
+T47	BodyPartOrganOrOrganComponent 90 93	CNS
+T48	BodyPartOrganOrOrganComponent 543 546	CNS
+T49	BodyPartOrganOrOrganComponent 689 692	CNS
+T50	BodyPartOrganOrOrganComponent 1073 1076	CNS
+T51	BodyPartOrganOrOrganComponent 1363 1366	CNS
+T52	BodyPartOrganOrOrganComponent 1756 1773	CNS immune milieu
+T53	Cell 440 458	regulatory B cells
+T54	Cell 547 559;569 576	infiltrating T cells
+T55	Cell 1367 1372	cells
+T56	BodyPartOrganOrOrganComponent 528 538	peripheral
+T57	Eukaryote 329 333	mice
+T58	Eukaryote 1063 1067	mice
+T59	ResearchActivity 397 402	model
+T60	Finding 630 646	bystander effect
+T61	TemporalConcept 298 303	onset
+T62	HealthCareActivity 612 621	treatment
+T63	ResearchActivity 612 621	treatment
+T64	CellFunction 1220 1227;1237 1246	M2-like phenotype
+T65	Cell 1106 1115	microglia
+T66	Eukaryote 390 396	murine
+T67	Cell 114 121	neurons
+T68	Finding 1195 1201	normal
+T69	ResearchActivity 1739 1752	normalization
+T70	OrganismAttribute 322 328	female
+T71	CellFunction 739 752	remyelination
+T72	CellFunction 916 929	remyelination
+T73	CellFunction 1852 1865	remyelination
+T74	DiseaseOrSyndrome 60 62	MS
+T75	DiseaseOrSyndrome 406 408	MS
+T76	AminoAcidPeptideOrProtein 431 436	IL-10
+T77	AminoAcidPeptideOrProtein 560 565	IL-10
+T78	BiologicallyActiveSubstance 431 436	IL-10
+T79	BiologicallyActiveSubstance 560 565	IL-10
+T80	GeneOrGenome 431 436	IL-10
+T81	GeneOrGenome 560 565	IL-10
+T82	Finding 880 900	significant increase
+T83	CellFunction 1437 1457	cell differentiation
+T84	AminoAcidPeptideOrProtein 1647 1654	protein
+T85	BiologicFunction 693 699	repair
+T86	HealthCareActivity 693 699	repair
+T87	Finding 154 164	disability
+T88	Finding 307 317	disability
+T89	Finding 4 22	unmet medical need
+T90	ExperimentalModelOfDisease 390 408	murine model of MS
+T91	Cell 460 466	B-regs
+T92	Cell 604 611	Bre g s
+T93	Cell 788 794	B-regs
+T94	Finding 838 858	clinical improvement
+T95	Cell 1048 1054	B-regs
+T96	AminoAcidPeptideOrProtein 1086 1091	CD11b
+T97	AminoAcidPeptideOrProtein 1134 1139	CD11b
+T98	BiologicallyActiveSubstance 1134 1139	CD11b
+T99	BiologicallyActiveSubstance 1086 1091	CD11b
+T100	AminoAcidPeptideOrProtein 1092 1096	CD45
+T101	BiologicallyActiveSubstance 1092 1096	CD45
+T102	BiologicallyActiveSubstance 1101 1105	Ly6C
+T103	AminoAcidPeptideOrProtein 1143 1147	CD45
+T104	BiologicallyActiveSubstance 1143 1147	CD45
+T105	AminoAcidPeptideOrProtein 1228 1233	CD206
+T106	BiologicallyActiveSubstance 1228 1233	CD206
+T107	AminoAcidPeptideOrProtein 1351 1355	CD45
+T108	BiologicallyActiveSubstance 1351 1355	CD45
+T109	BiologicallyActiveSubstance 1384 1388	A2B5
+T110	GeneOrGenome 1469 1473	GalC
+T111	AminoAcidPeptideOrProtein 1469 1473	GalC
+T112	BiologicallyActiveSubstance 1469 1473	GalC
+T113	AminoAcidPeptideOrProtein 1526 1561	myelin oligodendrocyte glycoprotein
+T114	BiologicallyActiveSubstance 1526 1561	myelin oligodendrocyte glycoprotein
+T115	Cell 1713 1719	B-regs
+T116	CellFunction 1789 1799	activation

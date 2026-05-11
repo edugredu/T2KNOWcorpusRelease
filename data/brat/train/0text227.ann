@@ -1,0 +1,114 @@
+T0	HealthCareActivity 107 124	genetic diagnosis
+T1	Chemical 269 282	Tetrabenazine
+T2	HealthCareActivity 317 334	treatment options
+T3	ResearchActivity 317 334	treatment options
+T4	ResearchActivity 522 532	registries
+T5	HealthCareActivity 576 580	goal
+T6	HealthCareActivity 719 741	Therapeutic approaches
+T7	ResearchActivity 1093 1113	clinical development
+T8	AminoAcidPeptideOrProtein 1240 1266	mutated huntingtin protein
+T9	ResearchActivity 1376 1382	Assays
+T10	HealthCareActivity 1386 1393	measure
+T11	HealthCareActivity 1407 1428	brain nuclear imaging
+T12	Finding 1577 1593	motor disability
+T13	DiseaseOrSyndrome 1710 1722	core disease
+T14	BiologicallyActiveSubstance 1041 1044	ASO
+T15	BiologicallyActiveSubstance 1178 1181	ASO
+T16	Chemical 1041 1044	ASO
+T17	Chemical 1178 1181	ASO
+T18	NucleicAcidNucleosideOrNucleotide 1041 1044	ASO
+T19	NucleicAcidNucleosideOrNucleotide 1178 1181	ASO
+T20	AminoAcidPeptideOrProtein 1268 1272	mHTT
+T21	AminoAcidPeptideOrProtein 1398 1402	mHTT
+T22	CellOrMolecularDysfunction 1268 1272	mHTT
+T23	CellOrMolecularDysfunction 1398 1402	mHTT
+T24	TemporalConcept 534 540	Recent
+T25	TemporalConcept 196 201	delay
+T26	BiomedicalOccupationOrDiscipline 1004 1011	biology
+T27	DiseaseOrSyndrome 14 32	Huntington disease
+T28	ResearchActivity 1715 1733	disease mechanisms
+T29	HealthCareActivity 612 633	symptomatic treatment
+T30	HealthCareActivity 1507 1528	symptomatic treatment
+T31	DiseaseOrSyndrome 361 367	chorea
+T32	SignOrSymptom 361 367	chorea
+T33	SignOrSymptom 1595 1607	irritability
+T34	PopulationGroup 386 396	population
+T35	BiologicFunction 1818 1828	conduction
+T36	NaturalPhenomenonOrProcess 1818 1828	conduction
+T37	NucleicAcidNucleosideOrNucleotide 952 956	mRNA
+T38	NucleicAcidNucleosideOrNucleotide 1013 1039	Antisense oligonucleotides
+T39	Chemical 1013 1039	Antisense oligonucleotides
+T40	BiologicallyActiveSubstance 1013 1039	Antisense oligonucleotides
+T41	HealthCareActivity 661 694	Non-pharmacological interventions
+T42	DiseaseOrSyndrome 1612 1618	apathy
+T43	ResearchActivity 507 521	clinical trial
+T44	ResearchActivity 469 478	databases
+T45	HealthCareRelatedOrganization 487 501	Web of Science
+T46	PharmacologicSubstance 287 303	deutetrabenazine
+T47	Chemical 287 303	deutetrabenazine
+T48	Finding 1213 1222	reduction
+T49	NaturalPhenomenonOrProcess 1213 1222	reduction
+T50	HealthCareActivity 177 186	therapies
+T51	HealthCareActivity 1490 1499	therapies
+T52	HealthCareActivity 1691 1700	therapies
+T53	PathologicFunction 858 875	neuroinflammation
+T54	ResearchActivity 148 153	model
+T55	TemporalConcept 1119 1126	initial
+T56	ResearchActivity 435 450	clinical trials
+T57	ResearchActivity 541 556	clinical trials
+T58	ResearchActivity 1281 1296	clinical trials
+T59	ResearchActivity 1553 1568	clinical trials
+T60	ResearchActivity 1832 1847	clinical trials
+T61	TemporalConcept 1367 1374	ongoing
+T62	HealthCareActivity 1413 1428	nuclear imaging
+T63	ResearchActivity 710 717	Results
+T64	SignOrSymptom 1507 1518	symptomatic
+T65	BiologicFunction 842 853	homeostasis
+T66	DiseaseOrSyndrome 239 267	neurodegenerative conditions
+T67	HealthCareActivity 1519 1528	treatment
+T68	ResearchActivity 1519 1528	treatment
+T69	BiologicFunction 162 173	development
+T70	BiologicFunction 1469 1480	development
+T71	CellFunction 162 173	development
+T72	CellFunction 1469 1480	development
+T73	TemporalConcept 1637 1642	years
+T74	GeneOrGenome 976 979	HTT
+T75	AminoAcidPeptideOrProtein 976 979	HTT
+T76	PathologicFunction 224 235	progression
+T77	TemporalConcept 224 235	progression
+T78	TemporalConcept 1152 1157	first
+T79	BiologicallyActiveSubstance 976 979	HTT
+T80	DiseaseOrSyndrome 34 36	HD
+T81	DiseaseOrSyndrome 131 133	HD
+T82	DiseaseOrSyndrome 428 430	HD
+T83	DiseaseOrSyndrome 1001 1003	HD
+T84	DiseaseOrSyndrome 1325 1327	HD
+T85	DiseaseOrSyndrome 1441 1443	HD
+T86	DiseaseOrSyndrome 1737 1739	HD
+T87	DiseaseOrSyndrome 1851 1853	HD
+T88	CellOrMolecularDysfunction 56 73	neurodegenerative
+T89	ResearchActivity 407 424	Literature review
+T90	HealthCareActivity 418 424	review
+T91	AminoAcidPeptideOrProtein 781 791	huntingtin
+T92	AminoAcidPeptideOrProtein 831 841	huntingtin
+T93	GeneOrGenome 781 791	huntingtin
+T94	GeneOrGenome 831 841	huntingtin
+T95	GeneOrGenome 964 974;981 985	huntingtin gene
+T96	BodyPartOrganOrOrganComponent 1394 1397	CSF
+T97	TemporalConcept 43 47	rare
+T98	ResearchActivity 1741 1768	Clinical research platforms
+T99	PatientOrDisabledGroup 378 385	patient
+T100	PharmacologicSubstance 269 282	Tetrabenazine
+T101	DiseaseOrSyndrome 48 83	genetic neurodegenerative condition
+T102	HealthCareRelatedOrganization 479 485	Pubmed
+T103	BiologicallyActiveSubstance 781 791	huntingtin
+T104	ResearchActivity 781 811	huntingtin-lowering strategies
+T105	HealthCareActivity 781 811	huntingtin-lowering strategies
+T106	BiologicallyActiveSubstance 831 841	huntingtin
+T107	HealthCareActivity 877 907	Huntingtin-lowering strategies
+T108	ResearchActivity 877 907	Huntingtin-lowering strategies
+T109	HealthCareActivity 1059 1089	huntingtin-lowering strategies
+T110	ResearchActivity 1059 1089	huntingtin-lowering strategies
+T111	CellOrMolecularDysfunction 1240 1266	mutated huntingtin protein
+T112	ClinicalAttribute 1394 1402	CSF mHTT
+T113	ResearchActivity 1777 1786	Enroll-HD

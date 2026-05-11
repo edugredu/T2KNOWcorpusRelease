@@ -1,0 +1,30 @@
+T0	DiseaseOrSyndrome 24 44	rare genetic disorde
+T1	Finding 145 168	positive family history
+T2	TemporalConcept 217 232	30 and 50 years
+T3	ClinicalAttribute 262 282	typical presentation
+T4	HealthCareRelatedOrganization 284 304	Healthcare providers
+T5	BiomedicalOccupationOrDiscipline 343 352	neurology
+T6	HealthCareActivity 357 364	testing
+T7	HealthCareActivity 405 414	diagnosis
+T8	PopulationGroup 452 468	patient's family
+T9	BiomedicalOccupationOrDiscipline 481 490	education
+T10	SignOrSymptom 583 591	symptoms
+T11	Finding 628 635	no cure
+T12	ResearchActivity 652 660	research
+T13	CellOrMolecularDysfunction 674 697	genotypic abnormalities
+T14	HealthCareActivity 720 739	permanent treatment
+T15	DiseaseOrSyndrome 85 108	psychiatric impairments
+T16	DiseaseOrSyndrome 197 203	chorea
+T17	SignOrSymptom 197 203	chorea
+T18	DiseaseOrSyndrome 0 18	Huntington disease
+T19	DiseaseOrSyndrome 369 387	Huntington disease
+T20	DiseaseOrSyndrome 744 762	Huntington disease
+T21	PatientOrDisabledGroup 131 138	patient
+T22	PatientOrDisabledGroup 440 447	patient
+T23	PatientOrDisabledGroup 239 247	patients
+T24	PatientOrDisabledGroup 331 339	patients
+T25	TemporalConcept 393 400	earlier
+T26	TemporalConcept 428 435	earlier
+T27	ResearchActivity 532 558	multidisciplinary approach
+T28	DiseaseOrSyndrome 70 79;97 108	cognitive impairments
+T29	SignOrSymptom 63 68;97 108	motor impairments

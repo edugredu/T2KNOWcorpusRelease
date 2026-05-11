@@ -1,0 +1,134 @@
+T0	DiseaseOrSyndrome 116 142	mild cognitive im-pairment
+T1	DiseaseOrSyndrome 275 285	impairment
+T2	BodyPartOrganOrOrganComponent 982 997	brain structure
+T3	Finding 1705 1719	poor cognition
+T4	DiseaseOrSyndrome 1747 1766	hippocampal atrophy
+T5	BodyPartOrganOrOrganComponent 1772 1783	ventricular
+T6	CellOrMolecularDysfunction 1944 1963	axonal degeneration
+T7	CellFunction 958 976	glucose metabolism
+T8	ClinicalAttribute 902 925	disease characteristics
+T9	AminoAcidPeptideOrProtein 20 39	neurofilament light
+T10	AminoAcidPeptideOrProtein 51 70	neurofilament light
+T11	AminoAcidPeptideOrProtein 221 240	neurofilament light
+T12	AminoAcidPeptideOrProtein 582 601	neurofilament light
+T13	AminoAcidPeptideOrProtein 694 713	neurofilament light
+T14	AminoAcidPeptideOrProtein 1030 1049	neurofilament light
+T15	AminoAcidPeptideOrProtein 1143 1162	neurofilament light
+T16	AminoAcidPeptideOrProtein 1348 1367	neurofilament light
+T17	AminoAcidPeptideOrProtein 1671 1690	neurofilament light
+T18	AminoAcidPeptideOrProtein 1876 1895	neurofilament light
+T19	AminoAcidPeptideOrProtein 1907 1926	neurofilament light
+T20	BiologicallyActiveSubstance 20 39	neurofilament light
+T21	BiologicallyActiveSubstance 51 70	neurofilament light
+T22	BiologicallyActiveSubstance 221 240	neurofilament light
+T23	BiologicallyActiveSubstance 582 601	neurofilament light
+T24	BiologicallyActiveSubstance 694 713	neurofilament light
+T25	BiologicallyActiveSubstance 1030 1049	neurofilament light
+T26	BiologicallyActiveSubstance 1143 1162	neurofilament light
+T27	BiologicallyActiveSubstance 1348 1367	neurofilament light
+T28	BiologicallyActiveSubstance 1671 1690	neurofilament light
+T29	BiologicallyActiveSubstance 1876 1895	neurofilament light
+T30	BiologicallyActiveSubstance 1907 1926	neurofilament light
+T31	BiologicFunction 241 255	concentrations
+T32	PathologicFunction 1951 1963	degeneration
+T33	BiologicallyActiveSubstance 1568 1587	Neurofilament light
+T34	AminoAcidPeptideOrProtein 1568 1587	Neurofilament light
+T35	AminoAcidPeptideOrProtein 1497 1502	T-tau
+T36	BiologicallyActiveSubstance 1497 1502	T-tau
+T37	BodyPartOrganOrOrganComponent 0 19	Cerebrospinal fluid
+T38	BodyPartOrganOrOrganComponent 999 1018	Cerebrospinal fluid
+T39	ResearchActivity 529 546	Linear regression
+T40	CellFunction 1511 1525	phosphorylated
+T41	Finding 1294 1313	diagnostic accuracy
+T42	BodyPartOrganOrOrganComponent 949 957	cortical
+T43	Finding 876 886	predictors
+T44	OrganismAttribute 910 925	characteristics
+T45	BiologicFunction 966 976	metabolism
+T46	BiologicFunction 1735 1745	metabolism
+T47	CellFunction 966 976	metabolism
+T48	CellFunction 1735 1745	metabolism
+T49	AminoAcidPeptideOrProtein 1531 1536	P-tau
+T50	BiologicallyActiveSubstance 1531 1536	P-tau
+T51	Finding 1721 1724	low
+T52	AminoAcidPeptideOrProtein 1492 1495	tau
+T53	AminoAcidPeptideOrProtein 1499 1502	tau
+T54	AminoAcidPeptideOrProtein 1526 1529	tau
+T55	AminoAcidPeptideOrProtein 1533 1536	tau
+T56	DiseaseOrSyndrome 147 166	Alzheimer's disease
+T57	DiseaseOrSyndrome 290 309	Alzheimer's disease
+T58	DiseaseOrSyndrome 499 518	Alzheimer's disease
+T59	DiseaseOrSyndrome 890 909	Alzheimer's disease
+T60	DiseaseOrSyndrome 1089 1108	Alzheimer's disease
+T61	DiseaseOrSyndrome 1415 1434	Alzheimer's disease
+T62	DiseaseOrSyndrome 1643 1662	Alzheimer's disease
+T63	DiseaseOrSyndrome 1807 1826	Alzheimer's disease
+T64	DiseaseOrSyndrome 2012 2031	Alzheimer's disease
+T65	BiologicallyActiveSubstance 1492 1495	tau
+T66	BiologicallyActiveSubstance 1499 1502	tau
+T67	BiologicallyActiveSubstance 1526 1529	tau
+T68	BiologicallyActiveSubstance 1533 1536	tau
+T69	BodyPartOrganOrOrganComponent 612 631	cerebrospinal fluid
+T70	BodyPartOrganOrOrganComponent 821 840	cerebrospinal fluid
+T71	BodyPartOrganOrOrganComponent 1173 1192	cerebrospinal fluid
+T72	BodyPartOrganOrOrganComponent 1317 1336	cerebrospinal fluid
+T73	BodyPartOrganOrOrganComponent 1466 1485	cerebrospinal fluid
+T74	BodyPartOrganOrOrganComponent 1547 1566	cerebrospinal fluid
+T75	BodyPartOrganOrOrganComponent 1856 1875	cerebrospinal fluid
+T76	TemporalConcept 446 457	progressive
+T77	TemporalConcept 1372 1383	progressive
+T78	PatientOrDisabledGroup 102 110	patients
+T79	PatientOrDisabledGroup 310 318	patients
+T80	PatientOrDisabledGroup 1967 1975	patients
+T81	AminoAcidPeptideOrProtein 1486 1495	total tau
+T82	BiologicallyActiveSubstance 1486 1495	total tau
+T83	AminoAcidPeptideOrProtein 1511 1529	phosphorylated tau
+T84	BiologicallyActiveSubstance 1511 1529	phosphorylated tau
+T85	Finding 560 573	relationships
+T86	Finding 672 685	relationships
+T87	Chemical 958 965	glucose
+T88	PharmacologicSubstance 958 965	glucose
+T89	BiologicallyActiveSubstance 958 965	glucose
+T90	DiseaseOrSyndrome 1619 1639	cognitive impairment
+T91	ClinicalAttribute 1930 1940	biomarkers
+T92	ResearchActivity 328 333	study
+T93	BodyPartOrganOrOrganComponent 44 50	plasma
+T94	BodyPartOrganOrOrganComponent 635 641	plasma
+T95	BodyPartOrganOrOrganComponent 845 851	plasma
+T96	BodyPartOrganOrOrganComponent 1023 1029	plasma
+T97	BodyPartOrganOrOrganComponent 1341 1347	plasma
+T98	BodyPartOrganOrOrganComponent 1900 1906	plasma
+T99	PopulationGroup 385 392	control
+T100	PopulationGroup 1227 1233	groups
+T101	Finding 366 384	cognitively normal
+T102	BiologicFunction 938 947	cognition
+T103	BiologicFunction 1710 1719	cognition
+T104	ResearchActivity 775 802	Linear mixed-effects models
+T105	ResearchActivity 171 183	investigated
+T106	DiseaseOrSyndrome 410 435	mild cognitive impairment
+T107	DiseaseOrSyndrome 1614 1639	mild cognitive impairment
+T108	PopulationGroup 650 666	diagnostic group
+T109	PopulationGroup 339 347	subjects
+T110	Finding 259 263	mild
+T111	Finding 458 462	mild
+T112	Finding 1384 1388	mild
+T113	Finding 1614 1618	mild
+T114	Finding 1598 1608	conversion
+T115	HealthCareActivity 1216 1226	diagnostic
+T116	ResearchActivity 1121 1133	correlations
+T117	BodyPartOrganOrOrganComponent 1747 1758	hippocampal
+T118	Cell 1747 1758	hippocampal
+T119	ResearchActivity 816 820	test
+T120	HealthCareActivity 816 820	test
+T121	CellComponent 1944 1950	axonal
+T122	Finding 1542 1546	high
+T123	Finding 1666 1670	high
+T124	DiseaseOrSyndrome 1981 2007	mild cog-nitive impairment
+T125	ClinicalAttribute 1856 1895	cerebrospinal fluid neurofilament light
+T126	ClinicalAttribute 1900 1926	plasma neurofilament light
+T127	ClinicalAttribute 1466 1495	cerebrospinal fluid total tau
+T128	ClinicalAttribute 1341 1367	plasma neurofilament light
+T129	ClinicalAttribute 1193 1204	biomark-ers
+T130	ClinicalAttribute 1023 1056	plasma neurofilament light levels
+T131	ClinicalAttribute 845 872	plasma neurofil-ament light
+T132	ClinicalAttribute 44 85	plasma neurofilament light concentrations
+T133	ResearchActivity 753 773	Spearman correlation

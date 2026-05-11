@@ -1,0 +1,76 @@
+T0	BiologicallyActiveSubstance 0 8	Neuronal
+T1	AminoAcidPeptideOrProtein 371 386	synaptotagmin-4
+T2	AminoAcidPeptideOrProtein 388 392	Syt4
+T3	AminoAcidPeptideOrProtein 399 409	neuroglian
+T4	AminoAcidPeptideOrProtein 411 414	Nrg
+T5	Cell 430 442	motor neuron
+T6	CellFunction 556 597	retromer-dependent trafficking mechanisms
+T7	GeneOrGenome 737 741	rab4
+T8	CellOrMolecularDysfunction 876 883	mutants
+T9	GeneOrGenome 876 883	mutants
+T10	CellComponent 999 1011	compartments
+T11	DiseaseOrSyndrome 1192 1198	defect
+T12	CellComponent 443 464	presynaptic terminals
+T13	DiseaseOrSyndrome 128 148	neurological disease
+T14	Eukaryote 419 429	Drosophila
+T15	AminoAcidPeptideOrProtein 365 368	APP
+T16	GeneOrGenome 365 368	APP
+T17	BiologicallyActiveSubstance 365 368	APP
+T18	CellComponent 9 31	extracellular vesicles
+T19	DiseaseOrSyndrome 1109 1128	Alzheimer's disease
+T20	CellComponent 33 36	EVs
+T21	CellComponent 229 232	EVs
+T22	CellComponent 517 520	EVs
+T23	CellComponent 317 319	EV
+T24	CellComponent 612 614	EV
+T25	CellComponent 807 809	EV
+T26	CellComponent 891 893	EV
+T27	CellComponent 986 988	EV
+T28	CellComponent 1160 1162	EV
+T29	AminoAcidPeptideOrProtein 338 345	amyloid
+T30	BiologicallyActiveSubstance 338 345	amyloid
+T31	Finding 301 313	accumulation
+T32	Finding 851 863	accumulation
+T33	Cell 220 228	neuronal
+T34	Cell 683 691	neuronal
+T35	CellFunction 1097 1105	pathways
+T36	ResearchActivity 1017 1021	data
+T37	AminoAcidPeptideOrProtein 338 363	amyloid precursor protein
+T38	CellFunction 714 723	mutations
+T39	CellOrMolecularDysfunction 714 723	mutations
+T40	BiologicallyActiveSubstance 338 363	amyloid precursor protein
+T41	CellFunction 62 89	intercellular communication
+T42	ResearchActivity 1045 1052	studies
+T43	BodyPartOrganOrOrganComponent 766 772	plasma
+T44	Finding 113 124	propagation
+T45	CellFunction 810 815	cargo
+T46	CellFunction 845 850	cargo
+T47	PathologicFunction 94 124	pathogenic protein propagation
+T48	CellComponent 182 189	cargoes
+T49	CellComponent 265 291	endosomal retromer complex
+T50	BiologicallyActiveSubstance 371 386	synaptotagmin-4
+T51	BiologicallyActiveSubstance 388 392	Syt4
+T52	GeneOrGenome 388 392	Syt4
+T53	BiologicallyActiveSubstance 411 414	Nrg
+T54	BiologicallyActiveSubstance 399 409	neuroglian
+T55	GeneOrGenome 727 732	rab11
+T56	AminoAcidPeptideOrProtein 727 732	rab11
+T57	BiologicallyActiveSubstance 737 741	rab4
+T58	BiologicallyActiveSubstance 727 732	rab11
+T59	AminoAcidPeptideOrProtein 737 741	rab4
+T60	CellFunction 757 791	endosome-plasma membrane recycling
+T61	CellComponent 556 564	retromer
+T62	CellComponent 692 700	retromer
+T63	CellFunction 929 949	Rab4/Rab11 recycling
+T64	AminoAcidPeptideOrProtein 1065 1070	Rab11
+T65	GeneOrGenome 1065 1070	Rab11
+T66	BiologicallyActiveSubstance 1065 1070	Rab11
+T67	CellComponent 1075 1083	retromer
+T68	CellOrMolecularDysfunction 1147 1170	misregulated EV traffic
+T69	AminoAcidPeptideOrProtein 828 833	rab11
+T70	GeneOrGenome 828 833	rab11
+T71	BiologicallyActiveSubstance 828 833	rab11
+T72	CellFunction 489 499;506 513	release of cargoes
+T73	CellComponent 867 875	retromer
+T74	CellFunction 891 901	EV traffic
+T75	CellFunction 954 980	retromer-dependent removal

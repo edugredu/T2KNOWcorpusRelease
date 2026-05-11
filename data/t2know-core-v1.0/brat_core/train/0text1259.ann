@@ -1,0 +1,68 @@
+T0	BiologicFunction 6 12	ageing
+T1	DiseaseOrSyndrome 79 97	cognitive deficits
+T2	PathologicFunction 198 214	age-related loss
+T3	BiologicFunction 433 439	ageing
+T4	PathologicFunction 475 501	breakdown of remyelination
+T5	BiologicFunction 624 630	ageing
+T6	BiomedicalOccupationOrDiscipline 702 717	systems biology
+T7	BiologicFunction 834 840	ageing
+T8	BodyPartOrganOrOrganComponent 847 855	cerebrum
+T9	CellFunction 924 943	signalling pathways
+T10	CellFunction 965 989	transcriptional networks
+T11	BiologicFunction 1033 1039	ageing
+T12	GeneOrGenome 1101 1106	Gpr17
+T13	AminoAcidPeptideOrProtein 1101 1106	Gpr17
+T14	BiologicFunction 1147 1153	ageing
+T15	BiomedicalOccupationOrDiscipline 1241 1256	systems biology
+T16	HealthCareActivity 1304 1314	rejuvenate
+T17	TemporalConcept 391 400	Currently
+T18	HealthCareActivity 1280 1298	therapeutic agents
+T19	Finding 108 127	increasing evidence
+T20	AminoAcidPeptideOrProtein 1074 1100	G-protein coupled receptor
+T21	BiologicallyActiveSubstance 1074 1100	G-protein coupled receptor
+T22	Cell 293 309	oligodendrocytes
+T23	Cell 384 388	OPCs
+T24	Cell 1139 1143	OPCs
+T25	Cell 1315 1319	OPCs
+T26	BodyPartOrganOrOrganComponent 133 139	myelin
+T27	BodyPartOrganOrOrganComponent 271 277	myelin
+T28	BodyPartOrganOrOrganComponent 785 791	myelin
+T29	Cell 350 382	oligodendrocyte progenitor cells
+T30	Cell 366 382	progenitor cells
+T31	InjuryOrPoisoning 140 150	disruption
+T32	InjuryOrPoisoning 1019 1029	disruption
+T33	InjuryOrPoisoning 1125 1135	disruption
+T34	NaturalPhenomenonOrProcess 224 234	plasticity
+T35	CellFunction 224 234	plasticity
+T36	DiseaseOrSyndrome 505 523	Multiple Sclerosis
+T37	ResearchActivity 1180 1200	genetic fate-mapping
+T38	CellFunction 46 63	neuronal function
+T39	Cell 764 780	oligodendroglial
+T40	Cell 1002 1018	oligodendroglial
+T41	BiologicFunction 643 654	development
+T42	CellFunction 643 654	development
+T43	BodyPartOrganOrOrganComponent 218 223	brain
+T44	BodyPartOrganOrOrganComponent 264 269	brain
+T45	BodyPartOrganOrOrganComponent 618 623	brain
+T46	OrganismAttribute 1347 1350	age
+T47	TemporalConcept 342 346	life
+T48	Eukaryote 841 846	mouse
+T49	ResearchActivity 658 681	regenerative strategies
+T50	ResearchActivity 1257 1267	strategies
+T51	BiologicFunction 553 566	understanding
+T52	BiomedicalOccupationOrDiscipline 710 717	biology
+T53	BiomedicalOccupationOrDiscipline 1249 1256	biology
+T54	Cell 574 582	cellular
+T55	Cell 1205 1213	cellular
+T56	BodyPartOrganOrOrganComponent 0 5	Brain
+T57	ResearchActivity 1214 1222	analyses
+T58	CellFunction 488 501	remyelination
+T59	CellFunction 1332 1343	myelination
+T60	DiseaseOrSyndrome 525 527	MS
+T61	Finding 35 42	decline
+T62	BiologicFunction 710 717	biology
+T63	BiologicFunction 1249 1256	biology
+T64	BiologicFunction 239 245	repair
+T65	HealthCareActivity 239 245	repair
+T66	ResearchActivity 722 746	neurobiological approach
+T67	BiologicallyActiveSubstance 1101 1106	Gpr17

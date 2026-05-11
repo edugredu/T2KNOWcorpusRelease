@@ -1,0 +1,95 @@
+T0	BodyPartOrganOrOrganComponent 45 71	nucleus basalis of Meynert
+T1	BodyPartOrganOrOrganComponent 133 159	nucleus basalis of Meynert
+T2	BodyPartOrganOrOrganComponent 161 164	NBM
+T3	BodyPartOrganOrOrganComponent 224 227	NBM
+T4	BodyPartOrganOrOrganComponent 796 799	NBM
+T5	BodyPartOrganOrOrganComponent 885 888	NBM
+T6	BodyPartOrganOrOrganComponent 1130 1133	NBM
+T7	BodyPartOrganOrOrganComponent 1376 1379	NBM
+T8	BodyPartOrganOrOrganComponent 1743 1746	NBM
+T9	BodyPartOrganOrOrganComponent 1975 1978	NBM
+T10	HealthCareActivity 2023 2025	MR
+T11	ResearchActivity 1782 1790	spectrum
+T12	CellFunction 1430 1443	differentiate
+T13	ClinicalAttribute 1975 1988	NBM thickness
+T14	HealthCareActivity 2107 2124	clinical practice
+T15	ResearchActivity 832 843	measurement
+T16	HealthCareActivity 832 843	measurement
+T17	HealthCareActivity 185 206	structural MR imaging
+T18	Finding 1407 1426	diagnostic accuracy
+T19	Finding 1885 1904	diagnostic accuracy
+T20	BiologicFunction 1767 1772	aging
+T21	CellFunction 1767 1772	aging
+T22	ClinicalAttribute 1289 1300	CSF amyloid
+T23	ClinicalAttribute 723 730	CSF tau
+T24	ClinicalAttribute 1357 1364	CSF tau
+T25	DiseaseOrSyndrome 93 110	Alzheimer disease
+T26	DiseaseOrSyndrome 634 651	Alzheimer disease
+T27	DiseaseOrSyndrome 1087 1104	Alzheimer disease
+T28	DiseaseOrSyndrome 1444 1461	Alzheimer disease
+T29	DiseaseOrSyndrome 2047 2064	Alzheimer disease
+T30	Finding 715 721	scores
+T31	Finding 1222 1228	scores
+T32	AminoAcidPeptideOrProtein 727 730	tau
+T33	AminoAcidPeptideOrProtein 1361 1364	tau
+T34	BodyPartOrganOrOrganComponent 723 726	CSF
+T35	BodyPartOrganOrOrganComponent 1289 1292	CSF
+T36	BodyPartOrganOrOrganComponent 1357 1360	CSF
+T37	BodyPartOrganOrOrganComponent 1836 1839	CSF
+T38	BiologicallyActiveSubstance 727 730	tau
+T39	BiologicallyActiveSubstance 1361 1364	tau
+T40	ClinicalAttribute 2026 2043	imaging biomarker
+T41	PopulationGroup 520 528	controls
+T42	PopulationGroup 1532 1540	controls
+T43	TemporalConcept 1731 1742	progressive
+T44	PatientOrDisabledGroup 1005 1013	patients
+T45	OrganismAttribute 987 994	healthy
+T46	ResearchActivity 1463 1483	area under the curve
+T47	ResearchActivity 1542 1562	area under the curve
+T48	PopulationGroup 995 1003	controls
+T49	HealthCareActivity 2096 2103	testing
+T50	HealthCareActivity 385 421	coronal T1-weighted MR imaging scans
+T51	HealthCareActivity 510 515	scans
+T52	AminoAcidPeptideOrProtein 736 743	amyloid
+T53	AminoAcidPeptideOrProtein 1293 1300	amyloid
+T54	AminoAcidPeptideOrProtein 1851 1858	amyloid
+T55	BiologicallyActiveSubstance 736 743	amyloid
+T56	BiologicallyActiveSubstance 1293 1300	amyloid
+T57	BiologicallyActiveSubstance 1851 1858	amyloid
+T58	DiseaseOrSyndrome 1773 1781	dementia
+T59	Finding 1586 1597	sensitivity
+T60	Finding 1609 1620	specificity
+T61	Finding 2087 2095	accuracy
+T62	PathologicFunction 1861 1870	pathology
+T63	BiomedicalOccupationOrDiscipline 1861 1870	pathology
+T64	Finding 781 792	differences
+T65	DiseaseOrSyndrome 1814 1831	cognitive decline
+T66	TemporalConcept 78 83	early
+T67	TemporalConcept 542 547	early
+T68	TemporalConcept 1019 1024	early
+T69	ResearchActivity 901 903	SD
+T70	HealthCareActivity 1666 1678	measurements
+T71	TemporalConcept 1955 1961	future
+T72	ResearchActivity 431 482	Alzheimer?s Disease Neuroimaging Initiative dataset
+T73	DiseaseOrSyndrome 548 573	mild cognitive impairment
+T74	DiseaseOrSyndrome 592 617	mild cognitive impairment
+T75	DiseaseOrSyndrome 1025 1050	mild cognitive impairment
+T76	DiseaseOrSyndrome 1057 1082	mild cognitive impairment
+T77	DiseaseOrSyndrome 1501 1526	mild cognitive impairment
+T78	HealthCareActivity 2076 2086	diagnostic
+T79	ClinicalAttribute 273 292	biochemical markers
+T80	ClinicalAttribute 1840 1847	markers
+T81	Finding 1880 1884	high
+T82	CellOrMolecularDysfunction 24 33	Cell loss
+T83	ClinicalAttribute 224 237	NBM thickness
+T84	BodyPartOrganOrOrganComponent 332 358	nucleus basalis of Meynert
+T85	ClinicalAttribute 332 368	nucleus basalis of Meynert thickness
+T86	HealthCareActivity 668 714	Alzheimer?s Disease Assessment Scale-Cognitive
+T87	ClinicalAttribute 796 809	NBM thickness
+T88	ClinicalAttribute 885 898	NBM thickness
+T89	ClinicalAttribute 1130 1143	NBM thickness
+T90	HealthCareActivity 1175 1221	Alzheimer?s Disease Assessment Scale-Cognitive
+T91	ClinicalAttribute 1376 1389	NBM thickness
+T92	TemporalConcept 1496 1500	late
+T93	Finding 1743 1755	NBM thinning
+T94	HealthCareRelatedOrganization 431 474	Alzheimer?s Disease Neuroimaging Initiative

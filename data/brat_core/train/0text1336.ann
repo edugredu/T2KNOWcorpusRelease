@@ -1,0 +1,64 @@
+T0	CellFunction 451 468	transcriptionally
+T1	BodyPartOrganOrOrganComponent 593 601	location
+T2	NaturalPhenomenonOrProcess 896 912	microenvironment
+T3	BodyPartOrganOrOrganComponent 896 912	microenvironment
+T4	BodyPartOrganOrOrganComponent 975 986	vasculature
+T5	Finding 1152 1163	variability
+T6	BodyPartOrganOrOrganComponent 356 367	gray matter
+T7	BodyPartOrganOrOrganComponent 669 680	gray matter
+T8	BiologicFunction 830 838	behavior
+T9	IndividualBehavior 830 838	behavior
+T10	ResearchActivity 830 838	behavior
+T11	Cell 86 102	oligodendrocytes
+T12	Cell 307 323	oligodendrocytes
+T13	Cell 33 37	OPCs
+T14	Cell 147 151	OPCs
+T15	Cell 421 425	OPCs
+T16	Cell 723 727	OPCs
+T17	Cell 1118 1122	OPCs
+T18	CellFunction 60 73	differentiate
+T19	CellFunction 288 301	differentiate
+T20	DiseaseOrSyndrome 684 702	multiple sclerosis
+T21	BodyPartOrganOrOrganComponent 125 131	myelin
+T22	TemporalConcept 337 341	rate
+T23	InjuryOrPoisoning 654 661	lesions
+T24	PathologicFunction 641 653	demyelinated
+T25	PathologicFunction 1178 1190	demyelinated
+T26	BodyPartOrganOrOrganComponent 1015 1035	extracellular matrix
+T27	Cell 79 102	mature oligodendrocytes
+T28	BodyPartOrganOrOrganComponent 1037 1040	ECM
+T29	CellComponent 125 139	myelin sheaths
+T30	BodyPartOrganOrOrganComponent 202 214	white matter
+T31	BodyPartOrganOrOrganComponent 259 271	white matter
+T32	BodyPartOrganOrOrganComponent 785 797	white matter
+T33	Cell 104 107	OLs
+T34	Cell 732 735	OLs
+T35	Cell 842 844	OL
+T36	PathologicFunction 641 661	demyelinated lesions
+T37	TemporalConcept 79 85	mature
+T38	Cell 16 31	precursor cells
+T39	CellFunction 744 756	remyelinated
+T40	TemporalConcept 566 572	states
+T41	TemporalConcept 1191 1197	states
+T42	Cell 0 31	Oligodendrocyte precursor cells
+T43	Cell 0 15	Oligodendrocyte
+T44	Cell 43 48	glial
+T45	Cell 842 852	OL lineage
+T46	Cell 842 858	OL lineage cells
+T47	Finding 396 404	evidence
+T48	BodyPartOrganOrOrganComponent 243 248	brain
+T49	BodyPartOrganOrOrganComponent 634 639	brain
+T50	Cell 43 54	glial cells
+T51	Cell 546 550	cell
+T52	TemporalConcept 378 387	currently
+T53	OrganismAttribute 606 609	age
+T54	Cell 960 969	microglia
+T55	Finding 803 814	differences
+T56	Finding 933 944	differences
+T57	Finding 1076 1087	differences
+T58	Finding 627 633	normal
+T59	Finding 1167 1173	normal
+T60	Cell 948 958	astrocytes
+T61	PopulationGroup 237 242	adult
+T62	BodyPartOrganOrOrganComponent 703 709	brains
+T63	OrganismAttribute 1141 1151	phenotypic

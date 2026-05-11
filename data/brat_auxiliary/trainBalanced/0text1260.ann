@@ -1,0 +1,84 @@
+T0	Chemical 0 29	Delta(9)-Tetrahydrocannabinol
+T1	Chemical 31 34	THC
+T2	AminoAcidPeptideOrProtein 133 154	cannabinoid receptors
+T3	PharmacologicSubstance 133 154	cannabinoid receptors
+T4	AminoAcidPeptideOrProtein 185 206	Cannabinoid receptors
+T5	PharmacologicSubstance 185 206	Cannabinoid receptors
+T6	Chemical 291 307	endocannabinoids
+T7	ResearchActivity 291 307	endocannabinoids
+T8	TemporalConcept 452 468	embryonic stages
+T9	Chemical 541 544	THC
+T10	InjuryOrPoisoning 541 553	THC exposure
+T11	TemporalConcept 591 607	critical periods
+T12	Chemical 683 686	THC
+T13	Chemical 721 725	ages
+T14	Chemical 1015 1018	THC
+T15	AminoAcidPeptideOrProtein 1209 1215	mTORC1
+T16	GeneOrGenome 1209 1215	mTORC1
+T17	CellFunction 1217 1234	signaling pathway
+T18	AminoAcidPeptideOrProtein 1239 1245	mTORC1
+T19	GeneOrGenome 1239 1245	mTORC1
+T20	Chemical 1287 1290	THC
+T21	Chemical 1321 1324	THC
+T22	Cell 171 183	neural cells
+T23	BiologicFunction 1377 1395	oligodendrogenesis
+T24	Chemical 327 342	endocannabinoid
+T25	BiologicallyActiveSubstance 327 342	endocannabinoid
+T26	AminoAcidPeptideOrProtein 1168 1207	mammalian target of rapamycin complex 1
+T27	BiologicallyActiveSubstance 1168 1207	mammalian target of rapamycin complex 1
+T28	BiomedicalOccupationOrDiscipline 1341 1356	pharmacological
+T29	BodyPartOrganOrOrganComponent 785 796	subcortical
+T30	Chemical 343 365	2-arachidonoylglycerol
+T31	PharmacologicSubstance 343 365	2-arachidonoylglycerol
+T32	CellFunction 621 632	myelination
+T33	CellFunction 766 777	myelination
+T34	CellFunction 915 926	myelination
+T35	CellFunction 1404 1415	myelination
+T36	Cell 416 431	oligodendrocyte
+T37	Eukaryote 729 733	mice
+T38	ResearchActivity 1416 1423	in vivo
+T39	BiologicFunction 437 448	development
+T40	BiologicFunction 746 757	development
+T41	CellFunction 437 448	development
+T42	CellFunction 746 757	development
+T43	BodyPartOrganOrOrganComponent 762 765	CNS
+T44	BodyPartOrganOrOrganComponent 1400 1403	CNS
+T45	PathologicFunction 568 579	progression
+T46	TemporalConcept 568 579	progression
+T47	PathologicFunction 493 506	demyelination
+T48	CellFunction 869 884	differentiation
+T49	CellFunction 1120 1135	differentiation
+T50	BodyPartOrganOrOrganComponent 797 809	white matter
+T51	Cell 433 435	OL
+T52	Cell 557 559	OL
+T53	Cell 743 745	OL
+T54	BiologicallyActiveSubstance 1040 1048	receptor
+T55	Chemical 243 275	endogenous cannabinoid compounds
+T56	BiologicallyActiveSubstance 243 275	endogenous cannabinoid compounds
+T57	Cell 823 853	oligodendrocyte precursor cell
+T58	PharmacologicSubstance 1003 1011	blockade
+T59	HealthCareActivity 1003 1011	blockade
+T60	TemporalConcept 705 710	early
+T61	BiologicallyActiveSubstance 145 154	receptors
+T62	BiologicallyActiveSubstance 197 206	receptors
+T63	BiologicallyActiveSubstance 943 978	CB(1)and CB(2)cannabinoid receptors
+T64	TemporalConcept 611 620	postnatal
+T65	TemporalConcept 711 720	postnatal
+T66	TemporalConcept 462 468	stages
+T67	ResearchActivity 1304 1309	study
+T68	AminoAcidPeptideOrProtein 145 154	receptors
+T69	AminoAcidPeptideOrProtein 197 206	receptors
+T70	Cell 557 567	OL lineage
+T71	ResearchActivity 476 489	animal models
+T72	TemporalConcept 677 682	acute
+T73	Cell 1103 1119	oligodendroglial
+T74	BiologicallyActiveSubstance 46 64	bioactive compound
+T75	Eukaryote 83 98	Cannabis sativa
+T76	BiologicallyActiveSubstance 1209 1215	mTORC1
+T77	BiologicallyActiveSubstance 1239 1245	mTORC1
+T78	Chemical 903 906	THC
+T79	Chemical 1076 1079	THC
+T80	HealthCareActivity 1246 1272	pharmacological inhibition
+T81	AminoAcidPeptideOrProtein 943 978	CB(1)and CB(2)cannabinoid receptors
+T82	CellFunction 849 864	cell cycle exit
+T83	BiologicallyActiveSubstance 403 412	modulator

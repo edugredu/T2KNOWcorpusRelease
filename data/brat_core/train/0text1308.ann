@@ -1,0 +1,80 @@
+T0	Finding 58 70	deteriorates
+T1	HealthCareActivity 253 264	destruction
+T2	AminoAcidPeptideOrProtein 382 394	oncostatin M
+T3	PharmacologicSubstance 382 394	oncostatin M
+T4	AminoAcidPeptideOrProtein 396 399	OSM
+T5	PharmacologicSubstance 396 399	OSM
+T6	AminoAcidPeptideOrProtein 418 438	interleukin-6 family
+T7	AminoAcidPeptideOrProtein 563 572	OSMR beta
+T8	AminoAcidPeptideOrProtein 593 596	OSM
+T9	PharmacologicSubstance 593 596	OSM
+T10	CellFunction 597 611	overexpression
+T11	Cell 675 685	Astrocytic
+T12	BiologicallyActiveSubstance 973 982	OSMR beta
+T13	AminoAcidPeptideOrProtein 973 982	OSMR beta
+T14	AminoAcidPeptideOrProtein 1146 1149	OSM
+T15	PharmacologicSubstance 1146 1149	OSM
+T16	HealthCareActivity 1219 1224	boost
+T17	TemporalConcept 117 126	Currently
+T18	Cell 764 773	Astrocyte
+T19	CellOrMolecularDysfunction 43 57	damaged myelin
+T20	Finding 901 911	deficiency
+T21	TemporalConcept 82 88	course
+T22	CellComponent 230 235	axons
+T23	Cell 814 845	oligodendrocyte precursor cells
+T24	PathologicFunction 92 105	demyelinating
+T25	DiseaseOrSyndrome 1058 1076	multiple sclerosis
+T26	BodyPartOrganOrOrganComponent 51 57	myelin
+T27	InjuryOrPoisoning 1077 1084	lesions
+T28	PathologicFunction 631 643	demyelinated
+T29	PathologicFunction 1045 1057	demyelinated
+T30	BiologicallyActiveSubstance 464 504	tissue inhibitor of metalloproteinases-1
+T31	Cell 851 874	mature oligodendrocytes
+T32	CellFunction 795 810	differentiation
+T33	DiseaseOrSyndrome 92 115	demyelinating disorders
+T34	DiseaseOrSyndrome 1242 1265	demyelinating disorders
+T35	BodyPartOrganOrOrganComponent 272 294	central nervous system
+T36	BodyPartOrganOrOrganComponent 296 299	CNS
+T37	BodyPartOrganOrOrganComponent 644 647	CNS
+T38	BodyPartOrganOrOrganComponent 4 9	brain
+T39	Eukaryote 1025 1030	human
+T40	Eukaryote 1101 1106	human
+T41	Eukaryote 986 990	mice
+T42	HealthCareActivity 131 140	treatment
+T43	ResearchActivity 131 140	treatment
+T44	Finding 23 31	capacity
+T45	ResearchActivity 875 883	in vitro
+T46	ExperimentalModelOfDisease 563 591	OSMR beta knockout (KO) mice
+T47	Cell 1031 1041	astrocytes
+T48	HealthCareActivity 1194 1215	therapeutic potential
+T49	CellFunction 176 189	remyelination
+T50	CellFunction 367 380	remyelination
+T51	CellFunction 521 534	remyelination
+T52	CellFunction 660 673	remyelination
+T53	CellFunction 749 762	remyelination
+T54	CellFunction 945 958	remyelination
+T55	CellFunction 1225 1238	remyelination
+T56	PathologicFunction 199 212	demyelination
+T57	CellFunction 1012 1021	expressed
+T58	AminoAcidPeptideOrProtein 506 512	TIMP-1
+T59	AminoAcidPeptideOrProtein 686 692	TIMP-1
+T60	AminoAcidPeptideOrProtein 782 788	TIMP-1
+T61	AminoAcidPeptideOrProtein 894 900	TIMP-1
+T62	AminoAcidPeptideOrProtein 1001 1007	TIMP-1
+T63	AminoAcidPeptideOrProtein 1178 1184	TIMP-1
+T64	BiologicallyActiveSubstance 506 512	TIMP-1
+T65	BiologicallyActiveSubstance 686 692	TIMP-1
+T66	BiologicallyActiveSubstance 782 788	TIMP-1
+T67	BiologicallyActiveSubstance 894 900	TIMP-1
+T68	BiologicallyActiveSubstance 1001 1007	TIMP-1
+T69	BiologicallyActiveSubstance 1178 1184	TIMP-1
+T70	ResearchActivity 885 892	In vivo
+T71	Finding 320 352	promising therapeutic candidates
+T72	BiologicallyActiveSubstance 418 438	interleukin-6 family
+T73	AminoAcidPeptideOrProtein 464 504	tissue inhibitor of metalloproteinases-1
+T74	BiologicallyActiveSubstance 444 463	downstream mediator
+T75	BiologicallyActiveSubstance 563 572	OSMR beta
+T76	AminoAcidPeptideOrProtein 736 739	OSM
+T77	PharmacologicSubstance 736 739	OSM
+T78	ExperimentalModelOfDisease 973 990	OSMR beta KO mice
+T79	BiologicallyActiveSubstance 1158 1177	downstream mediator

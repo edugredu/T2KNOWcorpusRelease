@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 48 75	neurodegenerative disorders
+T1	ResearchActivity 209 217	research
+T2	Finding 108 116	presence
+T3	AnatomicalAbnormality 6 21	amyloid plaques
+T4	Finding 81 93	relationship
+T5	Finding 28 44	hallmark feature
+T6	PathologicFunction 125 154	progression of these diseases

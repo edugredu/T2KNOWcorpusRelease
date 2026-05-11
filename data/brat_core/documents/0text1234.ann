@@ -1,0 +1,78 @@
+T0	BodyPartOrganOrOrganComponent 181 192	grey matter
+T1	Chemical 282 296	biogenic amine
+T2	Chemical 381 390	histamine
+T3	PharmacologicSubstance 381 390	histamine
+T4	HealthCareActivity 970 986	drug repurposing
+T5	HealthCareActivity 1193 1209	drug repurposing
+T6	Finding 1307 1319	drug targets
+T7	Chemical 1369 1378	histamine
+T8	PharmacologicSubstance 1369 1378	histamine
+T9	InjuryOrPoisoning 1419 1428	off-label
+T10	Finding 1419 1428	off-label
+T11	PharmacologicSubstance 1446 1465	histaminergic drugs
+T12	Chemical 1466 1477	amodiaquine
+T13	Chemical 1479 1489	rupatadine
+T14	Chemical 1495 1510	diphenhydramine
+T15	TemporalConcept 897 902	delay
+T16	BiologicFunction 957 968	perspective
+T17	BiologicFunction 234 243	attention
+T18	HealthCareActivity 906 925	therapeutic options
+T19	HealthCareActivity 1678 1710	potential therapeutic strategies
+T20	PathologicFunction 333 356	pathological conditions
+T21	TemporalConcept 528 539	concomitant
+T22	PharmacologicSubstance 1063 1072	medicines
+T23	ResearchActivity 789 805	drug development
+T24	DiseaseOrSyndrome 361 379	multiple sclerosis
+T25	DiseaseOrSyndrome 855 873	multiple sclerosis
+T26	DiseaseOrSyndrome 1267 1285	multiple sclerosis
+T27	DiseaseOrSyndrome 1529 1547	multiple sclerosis
+T28	DiseaseOrSyndrome 1641 1659	multiple sclerosis
+T29	DiseaseOrSyndrome 25 43	autoimmune disease
+T30	InjuryOrPoisoning 150 157	lesions
+T31	BodyPartOrganOrOrganComponent 200 211	spinal cord
+T32	CellFunction 265 274	signaling
+T33	CellFunction 405 420	differentiation
+T34	Cell 424 450	oligodendrocyte precursors
+T35	TemporalConcept 694 700	timing
+T36	PatientOrDisabledGroup 939 947	patients
+T37	BodyPartOrganOrOrganComponent 216 221	brain
+T38	Eukaryote 1327 1332	human
+T39	BodyPartOrganOrOrganComponent 748 758	peripheral
+T40	CellOrMolecularDysfunction 128 145	neurodegeneration
+T41	PathologicFunction 58 75	neuroinflammatory
+T42	PharmacologicSubstance 845 850	drugs
+T43	PharmacologicSubstance 1460 1465	drugs
+T44	Substance 1599 1608	molecules
+T45	Finding 1249 1258	interplay
+T46	CellFunction 492 505	remyelination
+T47	PathologicFunction 113 126	demyelination
+T48	PathologicFunction 460 473	demyelination
+T49	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T50	Finding 621 628	effects
+T51	PharmacologicSubstance 1307 1311	drug
+T52	PharmacologicSubstance 1379 1383	drug
+T53	Finding 106 112	severe
+T54	Finding 890 896	severe
+T55	AminoAcidPeptideOrProtein 554 579	histamine H1-H4 receptors
+T56	BiologicallyActiveSubstance 554 579	histamine H1-H4 receptors
+T57	Finding 713 723	engagement
+T58	BiologicallyActiveSubstance 670 678	receptor
+T59	BiologicallyActiveSubstance 704 712	receptor
+T60	BodyPartOrganOrOrganComponent 171 176;186 192	white matter
+T61	PharmacologicSubstance 282 296	biogenic amine
+T62	BiologicallyActiveSubstance 282 296	biogenic amine
+T63	BiologicallyActiveSubstance 297 306	histamine
+T64	Chemical 297 306	histamine
+T65	PharmacologicSubstance 297 306	histamine
+T66	BiologicallyActiveSubstance 381 390	histamine
+T67	MachineActivity 1156 1188	network-medicine-based algorithm
+T68	MachineActivity 1217 1227	SAveRUNNER
+T69	GeneOrGenome 1267 1302	multiple sclerosis-associated genes
+T70	BiologicallyActiveSubstance 1369 1378	histamine
+T71	ResearchActivity 1333 1344	interactome
+T72	PharmacologicSubstance 1466 1477	amodiaquine
+T73	PharmacologicSubstance 1479 1489	rupatadine
+T74	PharmacologicSubstance 1495 1510	diphenhydramine
+T75	BiologicallyActiveSubstance 1581 1590	histamine
+T76	Chemical 1581 1590	histamine
+T77	PharmacologicSubstance 1581 1590	histamine

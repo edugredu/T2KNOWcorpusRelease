@@ -1,0 +1,79 @@
+T0	CellFunction 263 285	cellular communication
+T1	BodyPartOrganOrOrganComponent 338 349	body fluids
+T2	BodyPartOrganOrOrganComponent 398 414	peripheral blood
+T3	CellFunction 835 845	Expression
+T4	ResearchActivity 835 845	Expression
+T5	Finding 441 454	less invasive
+T6	CellFunction 66 96	miRNA-target gene interactions
+T7	NucleicAcidNucleosideOrNucleotide 66 71	miRNA
+T8	NucleicAcidNucleosideOrNucleotide 505 510	miRNA
+T9	BiologicallyActiveSubstance 66 71	miRNA
+T10	BiologicallyActiveSubstance 505 510	miRNA
+T11	HealthCareActivity 1455 1472	clinical practice
+T12	ResearchActivity 876 884	analyzed
+T13	TemporalConcept 429 436	earlier
+T14	CellComponent 220 242	extracellular vesicles
+T15	DiseaseOrSyndrome 158 177	Alzheimer's disease
+T16	CellComponent 244 247	EVs
+T17	DiseaseOrSyndrome 179 181	AD
+T18	DiseaseOrSyndrome 455 457	AD
+T19	DiseaseOrSyndrome 516 518	AD
+T20	DiseaseOrSyndrome 589 591	AD
+T21	DiseaseOrSyndrome 684 686	AD
+T22	DiseaseOrSyndrome 761 763	AD
+T23	DiseaseOrSyndrome 897 899	AD
+T24	DiseaseOrSyndrome 949 951	AD
+T25	DiseaseOrSyndrome 1028 1030	AD
+T26	DiseaseOrSyndrome 1251 1253	AD
+T27	DiseaseOrSyndrome 1293 1295	AD
+T28	DiseaseOrSyndrome 1378 1380	AD
+T29	CellComponent 362 364	EV
+T30	CellComponent 384 386	EV
+T31	CellComponent 494 496	EV
+T32	CellComponent 621 623	EV
+T33	CellComponent 1014 1016	EV
+T34	PatientOrDisabledGroup 1254 1262	patients
+T35	ClinicalAttribute 312 334	circulating biomarkers
+T36	ClinicalAttribute 592 602	biomarkers
+T37	ClinicalAttribute 964 974	biomarkers
+T38	ClinicalAttribute 1381 1391	biomarkers
+T39	NucleicAcidNucleosideOrNucleotide 0 6	miRNAs
+T40	NucleicAcidNucleosideOrNucleotide 184 190	miRNAs
+T41	NucleicAcidNucleosideOrNucleotide 376 382	miRNAs
+T42	NucleicAcidNucleosideOrNucleotide 387 393	miRNAs
+T43	NucleicAcidNucleosideOrNucleotide 624 630	miRNAs
+T44	NucleicAcidNucleosideOrNucleotide 734 740	miRNAs
+T45	NucleicAcidNucleosideOrNucleotide 911 917	miRNAs
+T46	NucleicAcidNucleosideOrNucleotide 1017 1023	miRNAs
+T47	NucleicAcidNucleosideOrNucleotide 1042 1048	miRNAs
+T48	NucleicAcidNucleosideOrNucleotide 1166 1172	miRNAs
+T49	BiologicallyActiveSubstance 0 6	miRNAs
+T50	BiologicallyActiveSubstance 184 190	miRNAs
+T51	BiologicallyActiveSubstance 376 382	miRNAs
+T52	BiologicallyActiveSubstance 387 393	miRNAs
+T53	BiologicallyActiveSubstance 624 630	miRNAs
+T54	BiologicallyActiveSubstance 734 740	miRNAs
+T55	BiologicallyActiveSubstance 911 917	miRNAs
+T56	BiologicallyActiveSubstance 1017 1023	miRNAs
+T57	BiologicallyActiveSubstance 1042 1048	miRNAs
+T58	BiologicallyActiveSubstance 1166 1172	miRNAs
+T59	ResearchActivity 1334 1342	analysis
+T60	HealthCareActivity 458 469	diagnostics
+T61	DiseaseOrSyndrome 33 59	neurodegenerative diseases
+T62	ResearchActivity 1405 1412	studies
+T63	ResearchActivity 640 650	literature
+T64	Finding 250 259	mediators
+T65	ResearchActivity 823 833	enrichment
+T66	OrganismAttribute 764 773	phenotype
+T67	ClinicalAttribute 1296 1317	circulating biomarker
+T68	BodyPartOrganOrOrganComponent 1236 1247	body fluids
+T69	GeneOrGenome 684 697	AD risk genes
+T70	BiologicallyActiveSubstance 1050 1067	hsa-miR-375-APH1B
+T71	NucleicAcidNucleosideOrNucleotide 1050 1067	hsa-miR-375-APH1B
+T72	NucleicAcidNucleosideOrNucleotide 1069 1089	hsa-miR-107-CDC42SE2
+T73	BiologicallyActiveSubstance 1069 1089	hsa-miR-107-CDC42SE2
+T74	BiologicallyActiveSubstance 1091 1108	hsa-miR-375-CELF2
+T75	NucleicAcidNucleosideOrNucleotide 1091 1108	hsa-miR-375-CELF2
+T76	BiologicallyActiveSubstance 1114 1129	hsa-miR-107-IL6
+T77	NucleicAcidNucleosideOrNucleotide 1114 1129	hsa-miR-107-IL6
+T78	GeneOrGenome 516 532	AD-related genes

@@ -1,0 +1,116 @@
+T0	BodyPartOrganOrOrganComponent 205 217	blood sample
+T1	ResearchActivity 705 781	matrix-assisted laser desorption/ionization time-of-flight mass spectrometry
+T2	Chemical 985 1006	Pittsburgh compound B
+T3	PopulationGroup 1062 1068	mother
+T4	PopulationGroup 1456 1462	mother
+T5	BiologicFunction 1514 1525	coagulation
+T6	AminoAcidPeptideOrProtein 1527 1537	complement
+T7	NaturalPhenomenonOrProcess 1543 1553	plasticity
+T8	CellFunction 1543 1553	plasticity
+T9	PharmacologicSubstance 1598 1615	anti-inflammation
+T10	HealthCareActivity 1758 1778	clinical application
+T11	Cell 1883 1901	neurovascular unit
+T12	CellFunction 1580 1593	downregulated
+T13	Finding 44 51	problem
+T14	ClinicalAttribute 1711 1723	non-invasive
+T15	Finding 1715 1723	invasive
+T16	AminoAcidPeptideOrProtein 1097 1105	peptides
+T17	AminoAcidPeptideOrProtein 1227 1235	peptides
+T18	AminoAcidPeptideOrProtein 1484 1492	peptides
+T19	DiseaseOrSyndrome 793 795	MS
+T20	Chemical 1008 1011	PiB
+T21	PathologicFunction 1603 1615	inflammation
+T22	ResearchActivity 764 781	mass spectrometry
+T23	ResearchActivity 543 553	comparison
+T24	HealthCareActivity 922 926	MMSE
+T25	HealthCareActivity 1376 1380	MMSE
+T26	PathologicFunction 1836 1850	pathomechanism
+T27	HealthCareActivity 159 169	diagnosing
+T28	BodyPartOrganOrOrganComponent 329 334	serum
+T29	BodyPartOrganOrOrganComponent 373 378	serum
+T30	BodyPartOrganOrOrganComponent 475 480	serum
+T31	BodyPartOrganOrOrganComponent 647 652	serum
+T32	BodyPartOrganOrOrganComponent 1021 1026	serum
+T33	BodyPartOrganOrOrganComponent 1091 1096	serum
+T34	BodyPartOrganOrOrganComponent 1668 1673	serum
+T35	Finding 1749 1752	low
+T36	AminoAcidPeptideOrProtein 364 367	tau
+T37	AminoAcidPeptideOrProtein 1174 1177	tau
+T38	DiseaseOrSyndrome 170 189	Alzheimer's disease
+T39	BodyPartOrganOrOrganComponent 110 113	CSF
+T40	BodyPartOrganOrOrganComponent 254 257	CSF
+T41	BiologicallyActiveSubstance 364 367	tau
+T42	BiologicallyActiveSubstance 1174 1177	tau
+T43	DiseaseOrSyndrome 191 193	AD
+T44	DiseaseOrSyndrome 309 311	AD
+T45	DiseaseOrSyndrome 537 539	AD
+T46	DiseaseOrSyndrome 850 852	AD
+T47	DiseaseOrSyndrome 1133 1135	AD
+T48	DiseaseOrSyndrome 1287 1289	AD
+T49	DiseaseOrSyndrome 1357 1359	AD
+T50	DiseaseOrSyndrome 1448 1450	AD
+T51	DiseaseOrSyndrome 1633 1635	AD
+T52	DiseaseOrSyndrome 1854 1856	AD
+T53	ClinicalAttribute 481 490	biomarker
+T54	ClinicalAttribute 1240 1249	biomarker
+T55	ClinicalAttribute 1674 1683	biomarker
+T56	BodyPartOrganOrOrganComponent 89 108	cerebrospinal fluid
+T57	HealthCareActivity 891 920	Mini-Mental State Examination
+T58	OrganismAttribute 569 576	healthy
+T59	Finding 1381 1386	score
+T60	BodyPartOrganOrOrganComponent 1410 1415	brain
+T61	PathologicFunction 1861 1878	neuroinflammation
+T62	PopulationGroup 59 64	world
+T63	HealthCareActivity 289 298	screening
+T64	HealthCareActivity 1792 1801	screening
+T65	ResearchActivity 289 298	screening
+T66	ResearchActivity 1792 1801	screening
+T67	AminoAcidPeptideOrProtein 335 342	amyloid
+T68	BiologicallyActiveSubstance 335 342	amyloid
+T69	DiseaseOrSyndrome 506 526	cognitive impairment
+T70	DiseaseOrSyndrome 20 28	dementia
+T71	DiseaseOrSyndrome 1042 1050	dementia
+T72	DiseaseOrSyndrome 1783 1791	dementia
+T73	ClinicalAttribute 261 284	radiological biomarkers
+T74	ResearchActivity 1191 1196	study
+T75	DiseaseOrSyndrome 528 531	MCI
+T76	DiseaseOrSyndrome 832 835	MCI
+T77	DiseaseOrSyndrome 1278 1281	MCI
+T78	Finding 1302 1313	sensitivity
+T79	Finding 1325 1336	specificity
+T80	ManufacturedObject 679 684	plate
+T81	BodyPartOrganOrOrganComponent 357 363	plasma
+T82	AminoAcidPeptideOrProtein 335 347	amyloid-beta
+T83	AminoAcidPeptideOrProtein 1069 1077	proteins
+T84	AminoAcidPeptideOrProtein 1463 1471	proteins
+T85	AminoAcidPeptideOrProtein 1561 1569	proteins
+T86	TemporalConcept 749 753	time
+T87	PopulationGroup 577 584	control
+T88	PopulationGroup 813 820	control
+T89	PopulationGroup 1269 1276	control
+T90	PopulationGroup 1345 1352	control
+T91	ResearchActivity 1144 1151	Results
+T92	ResearchActivity 119 142	radio-isotopic analyses
+T93	HealthCareActivity 313 325	measurements
+T94	HealthCareActivity 975 978	PET
+T95	DiseaseOrSyndrome 501 526	mild cognitive impairment
+T96	PopulationGroup 871 879	subjects
+T97	OrganismAttribute 557 576	cognitively healthy
+T98	AminoAcidPeptideOrProtein 348 354	A beta
+T99	AminoAcidPeptideOrProtein 394 400	A beta
+T100	AminoAcidPeptideOrProtein 1164 1170	A beta
+T101	AminoAcidPeptideOrProtein 1416 1422	A beta
+T102	Finding 501 505	mild
+T103	HealthCareActivity 945 973	positron emission tomography
+T104	HealthCareActivity 1214 1224	diagnostic
+T105	ClinicalAttribute 66 85	biochemical markers
+T106	BodyPartOrganOrOrganComponent 1136 1142	brains
+T107	BodyPartOrganOrOrganComponent 1636 1642	brains
+T108	PathologicFunction 1416 1433	A beta deposition
+T109	ClinicalAttribute 329 347	serum amyloid-beta
+T110	ClinicalAttribute 357 367	plasma tau
+T111	ClinicalAttribute 373 407	serum antibodies for A beta(1-42 )
+T112	ResearchActivity 594 614	peptidome technology
+T113	ResearchActivity 783 795	MALDI-TOF/MS
+T114	ResearchActivity 685 693	BLOTCHIP
+T115	InjuryOrPoisoning 1902 1908	damage

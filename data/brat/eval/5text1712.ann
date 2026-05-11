@@ -1,0 +1,9 @@
+T0	CellOrMolecularDysfunction 136 153	neurodegeneration
+T1	BiologicFunction 20 37	anti-inflammatory
+T2	PharmacologicSubstance 20 37	anti-inflammatory
+T3	PharmacologicSubstance 4 15	antioxidant
+T4	CellFunction 4 15	antioxidant
+T5	HealthCareActivity 108 132	therapeutic intervention
+T6	PathologicFunction 25 37	inflammatory
+T7	Substance 66 73	extract
+T8	Organism 52 65	Ginkgo biloba

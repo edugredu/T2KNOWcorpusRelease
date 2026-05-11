@@ -1,0 +1,11 @@
+T0	DiseaseOrSyndrome 31 66	neurodegenerative genetic condition
+T1	ManufacturedObject 166 178	Random Laser
+T2	ManufacturedObject 180 182	RL
+T3	ResearchActivity 221 234	cell cultures
+T4	TemporalConcept 90 99	currently
+T5	HealthCareActivity 128 151	non-invasive techniques
+T6	Finding 187 217	sensitive to the effects of HD
+T7	DiseaseOrSyndrome 22 24	HD
+T8	DiseaseOrSyndrome 215 217	HD
+T9	DiseaseOrSyndrome 0 20	Huntington's disease
+T10	TemporalConcept 74 82	progress

@@ -1,0 +1,94 @@
+T0	AminoAcidPeptideOrProtein 80 103	epidermal growth factor
+T1	BiologicallyActiveSubstance 80 103	epidermal growth factor
+T2	PharmacologicSubstance 80 103	epidermal growth factor
+T3	AminoAcidPeptideOrProtein 105 108	EGF
+T4	BiologicallyActiveSubstance 105 108	EGF
+T5	PharmacologicSubstance 105 108	EGF
+T6	GeneOrGenome 105 108	EGF
+T7	Cell 175 179	NSCs
+T8	AminoAcidPeptideOrProtein 182 185	EGF
+T9	BiologicallyActiveSubstance 182 185	EGF
+T10	PharmacologicSubstance 182 185	EGF
+T11	GeneOrGenome 182 185	EGF
+T12	Cell 236 240	NSCs
+T13	Cell 370 374	NSCs
+T14	ManufacturedObject 426 435	reservoir
+T15	Cell 439 456	multipotent cells
+T16	DiseaseOrSyndrome 486 512	CNS demyelinating diseases
+T17	AminoAcidPeptideOrProtein 514 517	EGF
+T18	BiologicallyActiveSubstance 514 517	EGF
+T19	PharmacologicSubstance 514 517	EGF
+T20	GeneOrGenome 514 517	EGF
+T21	AminoAcidPeptideOrProtein 672 675	EGF
+T22	PharmacologicSubstance 672 675	EGF
+T23	BiologicallyActiveSubstance 672 675	EGF
+T24	GeneOrGenome 672 675	EGF
+T25	Chemical 722 731	cobalamin
+T26	PharmacologicSubstance 722 731	cobalamin
+T27	BiologicallyActiveSubstance 722 731	cobalamin
+T28	CellFunction 848 862	myelinogenesis
+T29	AminoAcidPeptideOrProtein 887 890	EGF
+T30	BiologicallyActiveSubstance 887 890	EGF
+T31	GeneOrGenome 887 890	EGF
+T32	AminoAcidPeptideOrProtein 1074 1077	EGF
+T33	BiologicallyActiveSubstance 1074 1077	EGF
+T34	GeneOrGenome 1074 1077	EGF
+T35	BiomedicalOccupationOrDiscipline 1095 1105	immunology
+T36	BiologicFunction 1095 1105	immunology
+T37	AminoAcidPeptideOrProtein 1137 1140	EGF
+T38	BiologicallyActiveSubstance 1137 1140	EGF
+T39	GeneOrGenome 1137 1140	EGF
+T40	AminoAcidPeptideOrProtein 1303 1306	EGF
+T41	PharmacologicSubstance 1303 1306	EGF
+T42	CellFunction 1303 1306	EGF
+T43	GeneOrGenome 1303 1306	EGF
+T44	ResearchActivity 5 12	article
+T45	HealthCareActivity 13 20	reviews
+T46	ResearchActivity 13 20	reviews
+T47	ExperimentalModelOfDisease 1198 1249	experimental models of autoimmune encephalomyelitis
+T48	Cell 297 317	neuroglial cell line
+T49	Cell 113 129	oligodendrocytes
+T50	Cell 617 633	oligodendrocytes
+T51	DiseaseOrSyndrome 982 1000	multiple sclerosis
+T52	BodyPartOrganOrOrganComponent 867 873	myelin
+T53	BodyPartOrganOrOrganComponent 337 357	extracellular matrix
+T54	BodyPartOrganOrOrganComponent 953 964	spinal cord
+T55	BodyPartOrganOrOrganComponent 1156 1167	spinal cord
+T56	CellOrMolecularDysfunction 1031 1052	remyelination failure
+T57	CellFunction 269 284	differentiation
+T58	CellFunction 219 232	proliferation
+T59	CellFunction 248 257	migration
+T60	BiologicFunction 762 771	synthesis
+T61	Cell 156 173	neural stem cells
+T62	PatientOrDisabledGroup 968 976	patients
+T63	BodyPartOrganOrOrganComponent 404 407	CNS
+T64	BodyPartOrganOrOrganComponent 588 591	CNS
+T65	BodyPartOrganOrOrganComponent 739 742	CNS
+T66	BodyPartOrganOrOrganComponent 786 789	CNS
+T67	BodyPartOrganOrOrganComponent 929 948	cerebrospinal fluid
+T68	Finding 712 718	effect
+T69	ResearchActivity 198 206	in vitro
+T70	Eukaryote 1150 1155	mouse
+T71	PathologicFunction 1314 1326	pathogenesis
+T72	Cell 143 150	neurons
+T73	BiologicFunction 874 885	maintenance
+T74	ResearchActivity 211 218	in vivo
+T75	ResearchActivity 689 696	in vivo
+T76	Finding 790 796	normal
+T77	Cell 131 141	astrocytes
+T78	Cell 660 670	astrocytes
+T79	DiseaseOrSyndrome 1002 1004	MS
+T80	DiseaseOrSyndrome 1330 1332	MS
+T81	PathologicFunction 1173 1186	demyelination
+T82	Finding 69 76	effects
+T83	Finding 554 575	proliferative effects
+T84	Finding 1361 1368	effects
+T85	CellComponent 358 368	components
+T86	Cell 592 602	cell types
+T87	Finding 426 435	reservoir
+T88	CellFunction 697 711	myelinotrophic
+T89	AminoAcidPeptideOrProtein 797 803	prions
+T90	PharmacologicSubstance 887 890	EGF
+T91	ClinicalAttribute 887 897	EGF levels
+T92	PharmacologicSubstance 1074 1077	EGF
+T93	PharmacologicSubstance 1137 1140	EGF

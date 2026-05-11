@@ -1,0 +1,101 @@
+T0	HealthCareActivity 54 62	diagnose
+T1	SignOrSymptom 130 146	prodromal stages
+T2	HealthCareActivity 345 363	neuropsychological
+T3	HealthCareActivity 690 699	followups
+T4	AminoAcidPeptideOrProtein 787 803	apolipoprotein J
+T5	GeneOrGenome 787 803	apolipoprotein J
+T6	BiologicallyActiveSubstance 787 803	apolipoprotein J
+T7	AminoAcidPeptideOrProtein 805 814	clusterin
+T8	GeneOrGenome 805 814	clusterin
+T9	BiologicallyActiveSubstance 805 814	clusterin
+T10	GeneOrGenome 816 819	CLU
+T11	GeneOrGenome 1121 1124	CLU
+T12	Finding 1246 1251	score
+T13	GeneOrGenome 1328 1331	CLU
+T14	ResearchActivity 241 259	longitudinal study
+T15	Finding 877 888	differences
+T16	DiseaseOrSyndrome 63 82	Alzheimer's disease
+T17	ClinicalAttribute 34 44	biomarkers
+T18	BodyPartOrganOrOrganComponent 725 731	plasma
+T19	BodyPartOrganOrOrganComponent 892 898	plasma
+T20	BodyPartOrganOrOrganComponent 998 1004	plasma
+T21	BodyPartOrganOrOrganComponent 1197 1203	plasma
+T22	BodyPartOrganOrOrganComponent 1469 1475	plasma
+T23	PatientOrDisabledGroup 304 312	patients
+T24	PatientOrDisabledGroup 453 461	patients
+T25	PatientOrDisabledGroup 1265 1273	patients
+T26	PatientOrDisabledGroup 1539 1547	patients
+T27	AminoAcidPeptideOrProtein 732 750	amyloid peptide 42
+T28	BiologicallyActiveSubstance 732 750	amyloid peptide 42
+T29	DiseaseOrSyndrome 84 86	AD
+T30	DiseaseOrSyndrome 497 509	prodromal AD
+T31	DiseaseOrSyndrome 938 950	prodromal AD
+T32	DiseaseOrSyndrome 1060 1072	prodromal AD
+T33	DiseaseOrSyndrome 1293 1305	prodromal AD
+T34	DiseaseOrSyndrome 1553 1565	prodromal AD
+T35	AminoAcidPeptideOrProtein 624 638	APOE epsilon 4
+T36	ResearchActivity 207 259	European FP7 IMI-PharmaCog/E-ADNI longitudinal study
+T37	BodyPartOrganOrOrganComponent 593 612	cerebrospinal fluid
+T38	BodyPartOrganOrOrganComponent 28 33	blood
+T39	ResearchActivity 195 199	data
+T40	HealthCareActivity 91 98	monitor
+T41	ManufacturedObject 91 98	monitor
+T42	TemporalConcept 140 146	stages
+T43	PathologicFunction 103 114	progression
+T44	PathologicFunction 1502 1513	progression
+T45	TemporalConcept 103 114	progression
+T46	TemporalConcept 1502 1513	progression
+T47	HealthCareActivity 384 396	neuroimaging
+T48	PopulationGroup 1096 1101	group
+T49	PopulationGroup 1306 1311	group
+T50	PopulationGroup 1386 1391	group
+T51	Finding 1033 1042	reduction
+T52	NaturalPhenomenonOrProcess 1033 1042	reduction
+T53	DiseaseOrSyndrome 276 296	cognitive impairment
+T54	DiseaseOrSyndrome 263 296	amnesic mild cognitive impairment
+T55	PopulationGroup 207 215	European
+T56	AminoAcidPeptideOrProtein 624 628	APOE
+T57	BiologicallyActiveSubstance 624 628	APOE
+T58	OrganismAttribute 639 647	genotype
+T59	Substance 607 612	fluid
+T60	PopulationGroup 965 971	groups
+T61	PopulationGroup 1176 1182	groups
+T62	HealthCareActivity 551 569	diagnostic cut-off
+T63	Substance 899 908	molecules
+T64	BodyPartOrganOrOrganComponent 649 654	Blood
+T65	PathologicFunction 1494 1513	disease progression
+T66	AminoAcidPeptideOrProtein 573 583	A beta(42)
+T67	AminoAcidPeptideOrProtein 759 769	A beta(42)
+T68	AminoAcidPeptideOrProtein 771 781	A beta(40)
+T69	AminoAcidPeptideOrProtein 1005 1015	A beta(42)
+T70	AminoAcidPeptideOrProtein 1129 1139	A beta(40)
+T71	AminoAcidPeptideOrProtein 1204 1214	A beta(42)
+T72	AminoAcidPeptideOrProtein 1442 1452	A beta(40)
+T73	AminoAcidPeptideOrProtein 1476 1486	A beta(42)
+T74	DiseaseOrSyndrome 298 302	aMCI
+T75	DiseaseOrSyndrome 1091 1095	aMCI
+T76	DiseaseOrSyndrome 1260 1264	aMCI
+T77	DiseaseOrSyndrome 1381 1385	aMCI
+T78	DiseaseOrSyndrome 1534 1538	aMCI
+T79	TemporalConcept 120 124	time
+T80	TemporalConcept 1048 1052	time
+T81	TemporalConcept 711 717	months
+T82	AminoAcidPeptideOrProtein 584 589	P-tau
+T83	BiologicallyActiveSubstance 584 589	P-tau
+T84	HealthCareActivity 402 434	electroencephalographic measures
+T85	HealthCareActivity 371 381	ADAS-Cog13
+T86	HealthCareActivity 436 452	PharmaCog/E-ADNI
+T87	BiologicallyActiveSubstance 573 583	A beta(42)
+T88	AminoAcidPeptideOrProtein 732 747;755 757	amyloid peptide 40
+T89	BiologicallyActiveSubstance 732 747;755 757	amyloid peptide 40
+T90	BiologicallyActiveSubstance 759 769	A beta(42)
+T91	BiologicallyActiveSubstance 771 781	A beta(40)
+T92	ResearchActivity 836 855	Linear Mixed Models
+T93	BiologicallyActiveSubstance 1005 1015	A beta(42)
+T94	BiologicallyActiveSubstance 1129 1139	A beta(40)
+T95	BiologicallyActiveSubstance 1204 1214	A beta(42)
+T96	HealthCareActivity 1235 1245	ADAS-Cog13
+T97	HealthCareActivity 1352 1362	ADAS-Cog13
+T98	HealthCareActivity 1417 1427	ADAS-Cog13
+T99	BiologicallyActiveSubstance 1442 1452	A beta(40)
+T100	BiologicallyActiveSubstance 1476 1486	A beta(42)

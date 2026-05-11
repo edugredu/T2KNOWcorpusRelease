@@ -1,0 +1,79 @@
+T0	HealthCareActivity 145 154	induction
+T1	DiseaseOrSyndrome 206 216	meningitis
+T2	DiseaseOrSyndrome 221 234	brain abscess
+T3	PharmacologicSubstance 289 314	beta-lactamase inhibitors
+T4	Chemical 289 314	beta-lactamase inhibitors
+T5	AminoAcidPeptideOrProtein 316 326	polymyxins
+T6	AminoAcidPeptideOrProtein 328 338	vancomycin
+T7	Chemical 340 349	meropenem
+T8	Chemical 351 361	plazomicin
+T9	Chemical 367 378	sarecycline
+T10	Chemical 398 428	poly (lactic-co-glycolic acid)
+T11	Chemical 430 434	PLGA
+T12	PathologicFunction 480 490	infections
+T13	DiseaseOrSyndrome 480 490	infections
+T14	CellComponent 608 625	Membrane vesicles
+T15	PathologicFunction 1049 1059	infections
+T16	DiseaseOrSyndrome 1049 1059	infections
+T17	ResearchActivity 1107 1126	scientific research
+T18	CellFunction 1275 1289	quorum sensing
+T19	DiseaseOrSyndrome 1364 1384	Alzheimer's diseases
+T20	Organism 1578 1587	pathogens
+T21	ResearchActivity 247 255	spectrum
+T22	TemporalConcept 1100 1106	latest
+T23	TemporalConcept 91 101	continuous
+T24	ResearchActivity 958 976	CRISPR/Cas editing
+T25	CellFunction 933 953	surface modification
+T26	Organism 809 823	gut microbiota
+T27	Organism 1138 1152	gut microbiota
+T28	BodyPartOrganOrOrganComponent 809 812	gut
+T29	BodyPartOrganOrOrganComponent 1138 1141	gut
+T30	CellComponent 629 651	extracellular vesicles
+T31	CellComponent 653 656	EVs
+T32	CellComponent 793 796	EVs
+T33	BodyPartOrganOrOrganComponent 874 896	central nervous system
+T34	BiologicFunction 1497 1508	development
+T35	CellFunction 1497 1508	development
+T36	Eukaryote 1446 1451	human
+T37	DiseaseOrSyndrome 1312 1338	neurodegenerative diseases
+T38	PathologicFunction 113 129	pro-inflammatory
+T39	HealthCareActivity 1299 1308	treatment
+T40	ResearchActivity 1299 1308	treatment
+T41	CellFunction 1536 1546	expression
+T42	PathologicFunction 165 174	infection
+T43	BiologicFunction 1264 1274	inhibiting
+T44	BodyPartOrganOrOrganComponent 51 70	blood-brain barrier
+T45	HealthCareActivity 1452 1458	health
+T46	Chemical 685 694	particles
+T47	Chemical 662 667	lipid
+T48	HealthCareActivity 700 721	therapeutic potential
+T49	Finding 565 595	off-target deleterious effects
+T50	OrganismAttribute 737 744	ability
+T51	Finding 158 164	severe
+T52	DiseaseOrSyndrome 183 194	pathologies
+T53	DiseaseOrSyndrome 1348 1359	Parkinson's
+T54	BodyPartOrganOrOrganComponent 72 75	BBB
+T55	BodyPartOrganOrOrganComponent 759 762	BBB
+T56	BodyPartOrganOrOrganComponent 1074 1077	BBB
+T57	BodyPartOrganOrOrganComponent 1565 1568	BBB
+T58	OrganismAttribute 259 266	species
+T59	BiologicallyActiveSubstance 1242 1259	neurotransmitters
+T60	BiologicallyActiveSubstance 130 140	modulators
+T61	PharmacologicSubstance 276 287	antibiotics
+T62	PharmacologicSubstance 316 326	polymyxins
+T63	PharmacologicSubstance 328 338	vancomycin
+T64	PharmacologicSubstance 340 349	meropenem
+T65	PharmacologicSubstance 351 361	plazomicin
+T66	PharmacologicSubstance 367 378	sarecycline
+T67	CellComponent 662 694	lipid bilayer-enclosed particles
+T68	Bacterium 776 784	Bacteria
+T69	Bacterium 1158 1167	probiotic
+T70	CellComponent 1176 1180	bEVs
+T71	CellComponent 798 802	bEVs
+T72	Bacterium 1420 1429	probiotic
+T73	CellComponent 1438 1442	bEVs
+T74	ResearchActivity 1512 1554	innovative heterologous expression systems
+T75	CellComponent 907 911	bEVs
+T76	HealthCareActivity 505 526	therapeutic platforms
+T77	Bacterium 0 19;26 35	Multidrug-resistant superbugs
+T78	Finding 1030 1040	protection

@@ -1,0 +1,24 @@
+T0	PharmacologicSubstance 46 66	dietary antioxidants
+T1	PathologicFunction 123 135	autoimmunity
+T2	PharmacologicSubstance 296 316	natural antioxidants
+T3	DiseaseOrSyndrome 336 355	Alzheimer's disease
+T4	DiseaseOrSyndrome 357 376	Parkinson's disease
+T5	DiseaseOrSyndrome 378 396	multiple sclerosis
+T6	DiseaseOrSyndrome 398 423	spongiform encephalopathy
+T7	DiseaseOrSyndrome 451 480	amyotrophic lateral sclerosis
+T8	Finding 717 731	dietary intake
+T9	PharmacologicSubstance 140 152	antioxidants
+T10	PharmacologicSubstance 568 580	antioxidants
+T11	PharmacologicSubstance 735 747	antioxidants
+T12	DiseaseOrSyndrome 425 445	Huntington's disease
+T13	CellOrMolecularDysfunction 249 266	neurodegeneration
+T14	DiseaseOrSyndrome 70 96	neurodegenerative diseases
+T15	DiseaseOrSyndrome 185 211	neurodegenerative diseases
+T16	DiseaseOrSyndrome 516 542	neurodegenerative diseases
+T17	DiseaseOrSyndrome 685 711	neurodegenerative diseases
+T18	CellOrMolecularDysfunction 496 512	oxidative stress
+T19	ResearchActivity 5 11	review
+T20	ResearchActivity 621 627	review
+T21	HealthCareActivity 5 11	review
+T22	HealthCareActivity 621 627	review
+T23	CellFunction 584 601	oxidative balance

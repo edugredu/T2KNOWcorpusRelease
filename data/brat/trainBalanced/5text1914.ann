@@ -1,0 +1,10 @@
+T0	DiseaseOrSyndrome 183 203	Huntington's disease
+T1	PatientOrDisabledGroup 26 33	patient
+T2	ResearchActivity 89 100	researchers
+T3	Finding 115 128	effectiveness
+T4	MachineActivity 0 3	NLP
+T5	SignOrSymptom 204 212	symptoms
+T6	HealthCareActivity 160 170	treatments
+T7	ResearchActivity 160 170	treatments
+T8	Finding 43 51	outcomes
+T9	HealthCareActivity 71 78	surveys

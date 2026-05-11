@@ -1,0 +1,99 @@
+T0	DiseaseOrSyndrome 42 71	cerebral small vessel disease
+T1	ClinicalAttribute 228 241	vulnerability
+T2	CellComponent 138 157	large-caliber axons
+T3	TemporalConcept 1801 1812	concomitant
+T4	AminoAcidPeptideOrProtein 381 400	neurofilament light
+T5	AminoAcidPeptideOrProtein 810 829	neurofilament light
+T6	AminoAcidPeptideOrProtein 1059 1078	neurofilament light
+T7	AminoAcidPeptideOrProtein 1303 1322	neurofilament light
+T8	AminoAcidPeptideOrProtein 1653 1672	neurofilament light
+T9	BiologicallyActiveSubstance 381 400	neurofilament light
+T10	BiologicallyActiveSubstance 810 829	neurofilament light
+T11	BiologicallyActiveSubstance 1059 1078	neurofilament light
+T12	BiologicallyActiveSubstance 1303 1322	neurofilament light
+T13	BiologicallyActiveSubstance 1653 1672	neurofilament light
+T14	BiologicFunction 363 377	concentrations
+T15	BiologicFunction 1349 1363	concentrations
+T16	InjuryOrPoisoning 438 444	injury
+T17	InjuryOrPoisoning 1732 1738	injury
+T18	Finding 607 613	normal
+T19	Finding 1507 1513	normal
+T20	ResearchActivity 545 588	Alzheimer's Disease Neuroimaging Initiative
+T21	HealthCareRelatedOrganization 545 588	Alzheimer's Disease Neuroimaging Initiative
+T22	BodyPartOrganOrOrganComponent 301 309	vascular
+T23	BodyPartOrganOrOrganComponent 732 740	vascular
+T24	BodyPartOrganOrOrganComponent 1239 1247	vascular
+T25	BodyPartOrganOrOrganComponent 1635 1643	vascular
+T26	BodyPartOrganOrOrganComponent 1761 1769	vascular
+T27	Finding 1549 1557	abnormal
+T28	OrganismAttribute 850 853	sex
+T29	ResearchActivity 1479 1489	comparison
+T30	Finding 607 623	normal cognition
+T31	Finding 1549 1564	abnormal levels
+T32	AminoAcidPeptideOrProtein 992 1015	hyperphosphorylated tau
+T33	AminoAcidPeptideOrProtein 1192 1215	hyperphosphorylated tau
+T34	BiologicallyActiveSubstance 992 1015	hyperphosphorylated tau
+T35	BiologicallyActiveSubstance 1192 1215	hyperphosphorylated tau
+T36	PopulationGroup 1686 1698	Older adults
+T37	Finding 461 473	interactions
+T38	Finding 1142 1154	interactions
+T39	ResearchActivity 706 723	linear regression
+T40	PathologicFunction 187 204	disease pathology
+T41	PathologicFunction 1825 1842	disease pathology
+T42	AminoAcidPeptideOrProtein 1367 1370	tau
+T43	DiseaseOrSyndrome 175 194	Alzheimer's disease
+T44	DiseaseOrSyndrome 509 528	Alzheimer's disease
+T45	DiseaseOrSyndrome 676 695	Alzheimer's disease
+T46	DiseaseOrSyndrome 1419 1438	Alzheimer's disease
+T47	DiseaseOrSyndrome 1813 1832	Alzheimer's disease
+T48	BiologicallyActiveSubstance 1367 1370	tau
+T49	ClinicalAttribute 404 413	biomarker
+T50	ClinicalAttribute 1439 1448	biomarker
+T51	ClinicalAttribute 1515 1524	biomarker
+T52	BodyPartOrganOrOrganComponent 343 362	cerebrospinal fluid
+T53	BodyPartOrganOrOrganComponent 949 968	cerebrospinal fluid
+T54	BodyPartOrganOrOrganComponent 1283 1302	cerebrospinal fluid
+T55	AminoAcidPeptideOrProtein 1021 1030	total tau
+T56	AminoAcidPeptideOrProtein 1167 1176	total tau
+T57	AminoAcidPeptideOrProtein 1588 1597	total tau
+T58	BiologicallyActiveSubstance 1021 1030	total tau
+T59	BiologicallyActiveSubstance 1167 1176	total tau
+T60	BiologicallyActiveSubstance 1588 1597	total tau
+T61	BodyPartOrganOrOrganComponent 220 225	brain
+T62	PopulationGroup 589 601	participants
+T63	PopulationGroup 1532 1543	individuals
+T64	DiseaseOrSyndrome 640 660	cognitive impairment
+T65	DiseaseOrSyndrome 545 564	Alzheimer's Disease
+T66	HealthCareActivity 870 889	cognitive diagnosis
+T67	HealthCareActivity 921 940	cognitive diagnosis
+T68	ClinicalAttribute 1371 1381	biomarkers
+T69	ResearchActivity 1032 1039	Results
+T70	OrganismAttribute 845 848	age
+T71	BiologicFunction 614 623	cognition
+T72	ResearchActivity 1103 1120	main effect model
+T73	DiseaseOrSyndrome 635 660	mild cognitive impairment
+T74	BiomedicalOccupationOrDiscipline 855 864	education
+T75	PopulationGroup 1525 1530	group
+T76	AminoAcidPeptideOrProtein 980 990	A beta(42)
+T77	AminoAcidPeptideOrProtein 1573 1583	A beta(42)
+T78	Finding 635 639	mild
+T79	Finding 21 33	risk factors
+T80	BodyPartOrganOrOrganComponent 119 131	white matter
+T81	ResearchActivity 1449 1457	profiles
+T82	ClinicalAttribute 498 505	markers
+T83	ClinicalAttribute 969 976	markers
+T84	CellComponent 417 437	large-caliber axonal
+T85	CellComponent 1725 1731	axonal
+T86	Finding 76 101	neuropathological changes
+T87	BodyPartOrganOrOrganComponent 12 20	Vascular
+T88	Finding 310 314	risk
+T89	Finding 741 745	risk
+T90	HealthCareActivity 766 805	modified Framingham Stroke Risk Profile
+T91	BiologicallyActiveSubstance 980 990	A beta(42)
+T92	BodyPartOrganOrOrganComponent 1041 1049	Vascular
+T93	Finding 1050 1054	risk
+T94	Finding 891 903	Interactions
+T95	Finding 1248 1252	risk
+T96	BiologicallyActiveSubstance 1573 1583	A beta(42)
+T97	Finding 1644 1648	risk
+T98	Finding 1770 1774	risk

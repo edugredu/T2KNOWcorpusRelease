@@ -1,0 +1,9 @@
+T0	DiseaseOrSyndrome 194 221	neurodegenerative disorders
+T1	BodyPartOrganOrOrganComponent 4 18	gut-brain axis
+T2	BodyPartOrganOrOrganComponent 98 120	central nervous system
+T3	CellFunction 131 138	pathway
+T4	Organism 153 157	host
+T5	Organism 75 89	gut microbiota
+T6	Bacterium 158 166	bacteria
+T7	Finding 167 179	interactions
+T8	NaturalPhenomenonOrProcess 153 179	host-bacteria interactions

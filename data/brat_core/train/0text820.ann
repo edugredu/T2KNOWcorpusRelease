@@ -1,0 +1,13 @@
+T0	DiseaseOrSyndrome 26 52	neurodegenerative disorder
+T1	SignOrSymptom 71 124	progressive cognitive, motor and psychiatric symptoms
+T2	HealthCareActivity 171 197	emergency medical services
+T3	HealthCareActivity 224 234	management
+T4	HealthCareActivity 249 259	physicians
+T5	HealthCareActivity 354 363	diagnosis
+T6	InjuryOrPoisoning 367 395	traumatic spinal cord injury
+T7	TemporalConcept 479 484	delay
+T8	DiseaseOrSyndrome 0 20	Huntington's disease
+T9	DiseaseOrSyndrome 321 341	Huntington's disease
+T10	PatientOrDisabledGroup 307 315	patients
+T11	PatientOrDisabledGroup 126 134	Patients
+T12	HealthCareActivity 235 244	challenge

@@ -1,0 +1,6 @@
+T0	BodyPartOrganOrOrganComponent 150 168	peripheral tissues
+T1	Cell 63 68	cells
+T2	BiologicFunction 84 101	brain development
+T3	EmbryonicStructure 50 62	neural crest
+T4	ResearchActivity 7 15	research
+T5	TemporalConcept 0 6	Recent

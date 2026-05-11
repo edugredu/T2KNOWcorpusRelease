@@ -1,0 +1,8 @@
+T0	BodyPartOrganOrOrganComponent 97 102	brain
+T1	HealthCareActivity 28 31	MRI
+T2	PathologicFunction 77 89	inflammation
+T3	PathologicFunction 59 72	demyelination
+T4	BodyPartOrganOrOrganComponent 107 118	spinal cord
+T5	HealthCareActivity 33 38	scans
+T6	HealthCareActivity 0 26	Magnetic resonance imaging
+T7	Substance 142 162	contrast suspensions

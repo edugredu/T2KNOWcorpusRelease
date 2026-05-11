@@ -1,0 +1,8 @@
+T0	HealthCareActivity 10 22	gene therapy
+T1	PathologicFunction 104 123	disease progression
+T2	DiseaseOrSyndrome 135 163	neurodegenerative conditions
+T3	GeneOrGenome 10 14	gene
+T4	CellFunction 42 61	protein aggregation
+T5	CellOrMolecularDysfunction 42 61	protein aggregation
+T6	CellOrMolecularDysfunction 33 61	abnormal protein aggregation
+T7	Virus 0 3	AAV

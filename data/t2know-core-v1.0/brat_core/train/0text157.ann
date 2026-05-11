@@ -1,0 +1,86 @@
+T0	CellFunction 59 95	post-transcriptional gene regulators
+T1	BiologicFunction 478 486	regulate
+T2	DiseaseOrSyndrome 579 607	neuronal diseases conditions
+T3	ResearchActivity 731 742	cell models
+T4	BiologicFunction 765 775	regulating
+T5	CellFunction 798 819	biochemical processes
+T6	BiologicFunction 855 865	regulating
+T7	NucleicAcidNucleosideOrNucleotide 1040 1046	miR168
+T8	BiologicFunction 1151 1159	regulate
+T9	CellFunction 1182 1203	biochemical processes
+T10	NucleicAcidNucleosideOrNucleotide 634 639	miR-9
+T11	GeneOrGenome 634 639	miR-9
+T12	BiologicallyActiveSubstance 645 658	miR-29 family
+T13	NucleicAcidNucleosideOrNucleotide 660 666	miR-15
+T14	BiologicallyActiveSubstance 660 666	miR-15
+T15	NucleicAcidNucleosideOrNucleotide 676 689	miR-34 family
+T16	BiologicallyActiveSubstance 676 689	miR-34 family
+T17	NucleicAcidNucleosideOrNucleotide 23 38	non-coding RNAs
+T18	DiseaseOrSyndrome 116 137	degenerative diseases
+T19	ResearchActivity 1541 1560	therapeutic targets
+T20	PathologicFunction 704 716	dysregulated
+T21	NucleicAcidNucleosideOrNucleotide 0 9	MicroRNAs
+T22	NucleicAcidNucleosideOrNucleotide 645 658	miR-29 family
+T23	BiologicallyActiveSubstance 0 9	MicroRNAs
+T24	Eukaryote 1669 1678	mammalian
+T25	Finding 876 893	molecular targets
+T26	DiseaseOrSyndrome 321 327	stroke
+T27	BiologicallyActiveSubstance 23 38	non-coding RNAs
+T28	Eukaryote 988 994	plants
+T29	NucleicAcidNucleosideOrNucleotide 11 17	miRNAs
+T30	NucleicAcidNucleosideOrNucleotide 467 473	miRNAs
+T31	NucleicAcidNucleosideOrNucleotide 619 625	miRNAs
+T32	NucleicAcidNucleosideOrNucleotide 957 963	miRNAs
+T33	NucleicAcidNucleosideOrNucleotide 1141 1147	miRNAs
+T34	NucleicAcidNucleosideOrNucleotide 1259 1265	miRNAs
+T35	NucleicAcidNucleosideOrNucleotide 1357 1363	miRNAs
+T36	NucleicAcidNucleosideOrNucleotide 1421 1427	miRNAs
+T37	NucleicAcidNucleosideOrNucleotide 1650 1656	miRNAs
+T38	BiologicallyActiveSubstance 11 17	miRNAs
+T39	BiologicallyActiveSubstance 467 473	miRNAs
+T40	BiologicallyActiveSubstance 619 625	miRNAs
+T41	BiologicallyActiveSubstance 957 963	miRNAs
+T42	BiologicallyActiveSubstance 1141 1147	miRNAs
+T43	BiologicallyActiveSubstance 1259 1265	miRNAs
+T44	BiologicallyActiveSubstance 1357 1363	miRNAs
+T45	BiologicallyActiveSubstance 1421 1427	miRNAs
+T46	BiologicallyActiveSubstance 1650 1656	miRNAs
+T47	DiseaseOrSyndrome 296 314	multiple sclerosis
+T48	BiologicFunction 1628 1639	prospective
+T49	OrganismAttribute 1089 1096	species
+T50	BodyPartOrganOrOrganComponent 827 841	nervous system
+T51	Eukaryote 720 726	animal
+T52	Cell 107 115	neuronal
+T53	HealthCareActivity 367 373	health
+T54	HealthCareActivity 387 393	health
+T55	DiseaseOrSyndrome 196 222	Neurodegenerative diseases
+T56	CellFunction 923 931	pathways
+T57	HealthCareActivity 1273 1282	treatment
+T58	ResearchActivity 1273 1282	treatment
+T59	BiologicFunction 491 502	development
+T60	CellFunction 491 502	development
+T61	HealthCareActivity 427 434	studies
+T62	ResearchActivity 427 434	studies
+T63	Eukaryote 381 386	human
+T64	TemporalConcept 409 417	Recently
+T65	TemporalConcept 358 362	life
+T66	TemporalConcept 398 402	life
+T67	DiseaseOrSyndrome 506 532	neurodegenerative diseases
+T68	DiseaseOrSyndrome 1291 1317	neurodegenerative diseases
+T69	DiseaseOrSyndrome 1489 1515	neurodegenerative diseases
+T70	DiseaseOrSyndrome 1565 1591	neurodegenerative diseases
+T71	DiseaseOrSyndrome 274 294	Huntington's disease
+T72	DiseaseOrSyndrome 253 272	Parkinson's disease
+T73	DiseaseOrSyndrome 232 251	Alzheimer's disease
+T74	ResearchActivity 1210 1216	review
+T75	HealthCareActivity 1210 1216	review
+T76	ResearchActivity 1445 1450	study
+T77	ClinicalAttribute 551 561	biomarkers
+T78	ClinicalAttribute 1475 1485	biomarkers
+T79	BiologicallyActiveSubstance 634 639	miR-9
+T80	BiologicallyActiveSubstance 1028 1035	miR2911
+T81	NucleicAcidNucleosideOrNucleotide 1028 1035	miR2911
+T82	NucleicAcidNucleosideOrNucleotide 1010 1018	botanmin
+T83	BiologicallyActiveSubstance 1010 1018	botanmin
+T84	BiologicallyActiveSubstance 1040 1046	miR168
+T85	DiseaseOrSyndrome 1679 1687	diseases

@@ -1,0 +1,72 @@
+T0	Finding 194 216	enrollment willingness
+T1	Finding 235 258	family dementia history
+T2	BiologicFunction 298 309	experiences
+T3	BiologicFunction 313 327	discrimination
+T4	BiologicFunction 333 339	belief
+T5	PopulationGroup 432 443	middle-aged
+T6	PopulationGroup 448 459	older adult
+T7	PopulationGroup 454 459	adult
+T8	ResearchActivity 260 278	research attitudes
+T9	ResearchActivity 583 601	research attitudes
+T10	ResearchActivity 402 418	qualitative data
+T11	PopulationGroup 953 971	Black participants
+T12	PopulationGroup 1139 1157	Black participants
+T13	PopulationGroup 928 932	race
+T14	PopulationGroup 692 710	White participants
+T15	ResearchActivity 836 854	Research attitudes
+T16	Finding 346 364	risk modifiability
+T17	ResearchActivity 366 382	Inductive coding
+T18	Finding 497 518	willingness to enroll
+T19	Finding 1078 1099	willingness to enroll
+T20	IndividualBehavior 607 617	disclosure
+T21	TemporalConcept 448 453	older
+T22	ResearchActivity 140 157	linear regression
+T23	DiseaseOrSyndrome 83 100	Alzheimer disease
+T24	IndividualBehavior 1029 1039	Disclosure
+T25	OrganismAttribute 621 629	personal
+T26	BiologicFunction 768 774	desire
+T27	PopulationGroup 682 687	Black
+T28	PopulationGroup 953 958	Black
+T29	PopulationGroup 1139 1144	Black
+T30	ResearchActivity 836 844	Research
+T31	BiologicFunction 45 56	willingness
+T32	BiologicFunction 205 216	willingness
+T33	BiologicFunction 497 508	willingness
+T34	BiologicFunction 653 664	willingness
+T35	BiologicFunction 745 756	willingness
+T36	BiologicFunction 902 913	willingness
+T37	BiologicFunction 1078 1089	willingness
+T38	Finding 251 258	history
+T39	DiseaseOrSyndrome 102 104	AD
+T40	DiseaseOrSyndrome 294 296	AD
+T41	DiseaseOrSyndrome 343 345	AD
+T42	DiseaseOrSyndrome 460 462	AD
+T43	ClinicalAttribute 106 115	biomarker
+T44	ClinicalAttribute 522 531	biomarker
+T45	ClinicalAttribute 554 563	biomarker
+T46	ClinicalAttribute 784 793	biomarker
+T47	ClinicalAttribute 886 895	biomarker
+T48	ClinicalAttribute 1009 1018	biomarker
+T49	ClinicalAttribute 1043 1052	biomarker
+T50	ClinicalAttribute 1103 1112	biomarker
+T51	ResearchActivity 414 418	data
+T52	ResearchActivity 575 581	method
+T53	HealthCareActivity 575 581	method
+T54	PopulationGroup 472 484	participants
+T55	PopulationGroup 698 710	participants
+T56	PopulationGroup 959 971	participants
+T57	PopulationGroup 1145 1157	participants
+T58	ResearchActivity 260 268	research
+T59	ResearchActivity 463 471	research
+T60	ResearchActivity 583 591	research
+T61	ResearchActivity 814 822	research
+T62	ResearchActivity 1019 1027	research
+T63	ResearchActivity 116 123	studies
+T64	ResearchActivity 532 539	studies
+T65	ResearchActivity 1113 1120	studies
+T66	DiseaseOrSyndrome 242 250	dementia
+T67	ResearchActivity 896 901	study
+T68	TemporalConcept 439 443	aged
+T69	ResearchActivity 420 427	Results
+T70	HealthCareActivity 194 204	enrollment
+T71	Finding 175 187	relationship

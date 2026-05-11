@@ -1,0 +1,5 @@
+T0	SignOrSymptom 0 27	Neurological manifestations
+T1	Virus 66 76	SARS-CoV-2
+T2	DiseaseOrSyndrome 31 39	COVID-19
+T3	BiologicFunction 79 91	neurotropism
+T4	BiologicFunction 96 110	neurovirulence

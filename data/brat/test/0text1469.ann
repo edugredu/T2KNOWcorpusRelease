@@ -1,0 +1,103 @@
+T0	Cell 14 25	Brain cells
+T1	CellComponent 34 61	extracellular microvesicles
+T2	Cell 247 251	cell
+T3	HealthCareActivity 317 326	Isolation
+T4	ResearchActivity 317 326	Isolation
+T5	Finding 378 400	minimally invasive way
+T6	HealthCareActivity 495 508	liquid biopsy
+T7	ResearchActivity 703 712	isolation
+T8	AminoAcidPeptideOrProtein 1084 1096	tau proteins
+T9	HealthCareActivity 1428 1438	diagnostic
+T10	Finding 1581 1595	multifactorial
+T11	ResearchActivity 714 724	validation
+T12	Cell 892 898	neuron
+T13	Cell 978 984	neuron
+T14	Cell 1531 1537	neuron
+T15	Cell 1642 1648	neuron
+T16	Substance 207 216	molecules
+T17	ResearchActivity 569 579	literature
+T18	ResearchActivity 1492 1502	literature
+T19	HealthCareActivity 608 629	therapeutic potential
+T20	Cell 1667 1677	brain cell
+T21	TemporalConcept 256 262	origin
+T22	HealthCareRelatedOrganization 562 568	PubMed
+T23	Cell 920 929	astrocyte
+T24	Eukaryote 804 810	humans
+T25	CellComponent 411 421	components
+T26	HealthCareActivity 1201 1211	evaluation
+T27	HealthCareActivity 1440 1450	evaluation
+T28	ResearchActivity 1201 1211	evaluation
+T29	ResearchActivity 1440 1450	evaluation
+T30	BodyPartOrganOrOrganComponent 425 437	brain tissue
+T31	HealthCareActivity 1229 1241	therapeutics
+T32	HealthCareActivity 1454 1466	therapeutics
+T33	ResearchActivity 548 554	review
+T34	ResearchActivity 1278 1284	review
+T35	HealthCareActivity 548 554	review
+T36	HealthCareActivity 1278 1284	review
+T37	ResearchActivity 1386 1391	study
+T38	AminoAcidPeptideOrProtein 1084 1087	tau
+T39	AminoAcidPeptideOrProtein 1088 1096	proteins
+T40	AminoAcidPeptideOrProtein 1109 1126	synaptic proteins
+T41	BodyPartOrganOrOrganComponent 89 94	brain
+T42	BodyPartOrganOrOrganComponent 936 941	brain
+T43	ResearchActivity 746 755	discovery
+T44	ResearchActivity 793 800	studies
+T45	ResearchActivity 1630 1637	studies
+T46	DiseaseOrSyndrome 441 460	Alzheimer's disease
+T47	CellComponent 63 66	EVs
+T48	CellComponent 144 147	EVs
+T49	CellComponent 345 348	EVs
+T50	DiseaseOrSyndrome 462 464	AD
+T51	DiseaseOrSyndrome 656 658	AD
+T52	DiseaseOrSyndrome 841 843	AD
+T53	DiseaseOrSyndrome 1226 1228	AD
+T54	DiseaseOrSyndrome 1395 1397	AD
+T55	DiseaseOrSyndrome 1567 1569	AD
+T56	DiseaseOrSyndrome 1615 1617	AD
+T57	DiseaseOrSyndrome 1761 1763	AD
+T58	BodyPartOrganOrOrganComponent 361 366	blood
+T59	BodyPartOrganOrOrganComponent 633 638	blood
+T60	BodyPartOrganOrOrganComponent 885 890	blood
+T61	BodyPartOrganOrOrganComponent 1558 1563	blood
+T62	BodyPartOrganOrOrganComponent 1736 1741	blood
+T63	ClinicalAttribute 594 603	biomarker
+T64	ClinicalAttribute 736 745	biomarker
+T65	ClinicalAttribute 818 827	biomarker
+T66	ClinicalAttribute 1748 1757	biomarker
+T67	AminoAcidPeptideOrProtein 1067 1079	amyloid-beta
+T68	HealthCareActivity 1472 1481	treatment
+T69	ResearchActivity 1472 1481	treatment
+T70	CellFunction 178 203	biologically active cargo
+T71	ResearchActivity 1299 1314	clinical trials
+T72	ResearchActivity 660 667	Results
+T73	HealthCareActivity 1212 1222	monitoring
+T74	BodyPartOrganOrOrganComponent 83 102	blood-brain barrier
+T75	BodyPartOrganOrOrganComponent 235 241	tissue
+T76	BodyPartOrganOrOrganComponent 279 285	tissue
+T78	AminoAcidPeptideOrProtein 1067 1074	amyloid
+T79	BiologicallyActiveSubstance 1067 1074	amyloid
+T80	BiologicallyActiveSubstance 1084 1087	tau
+T81	ClinicalAttribute 730 745	novel biomarker
+T82	TemporalConcept 1170 1177	current
+T83	PathologicFunction 1596 1611	pathophysiology
+T84	BiomedicalOccupationOrDiscipline 1596 1611	pathophysiology
+T85	CellFunction 116 142	cell-to-cell communication
+T86	CellComponent 350 354	BEVs
+T87	CellComponent 648 652	BEVs
+T88	HealthCareActivity 703 712	isolation
+T89	CellComponent 866 870	BEVs
+T90	BodyPartOrganOrOrganComponent 942 953	vasculature
+T91	CellComponent 962 966	BEVs
+T92	Cell 901 917	neural precursor
+T93	CellComponent 978 997	neuron-derived BEVs
+T94	CellComponent 330 348	brain-secreted EVs
+T95	BiologicallyActiveSubstance 1067 1079	amyloid-beta
+T96	BiologicallyActiveSubstance 1084 1096	tau proteins
+T97	CellComponent 1191 1194	BEV
+T98	ResearchActivity 1255 1271	published trials
+T99	BodyPartOrganOrOrganComponent 1328 1333	Blood
+T100	CellComponent 1328 1347	Blood-isolated BEVs
+T101	CellComponent 1531 1550	neuron-derived BEVs
+T102	CellComponent 1687 1691	BEVs
+T103	CellComponent 1719 1723	BEVs

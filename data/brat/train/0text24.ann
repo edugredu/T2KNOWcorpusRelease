@@ -1,0 +1,27 @@
+T0	CellOrMolecularDysfunction 52 88	pathological aggregation of proteins
+T1	Cell 92 99	neurons
+T2	CellFunction 101 110	Autophagy
+T3	TemporalConcept 200 204	aged
+T4	CellComponent 217 227	organelles
+T5	AminoAcidPeptideOrProtein 239 257	protein aggregates
+T6	TemporalConcept 319 324	delay
+T7	AminoAcidPeptideOrProtein 355 373	protein aggregates
+T8	DiseaseOrSyndrome 430 449	Alzheimer's disease
+T9	DiseaseOrSyndrome 451 453	AD
+T10	DiseaseOrSyndrome 456 475	Parkinson's Disease
+T11	DiseaseOrSyndrome 477 479	PD
+T12	HealthCareActivity 542 552	challenges
+T13	CellFunction 292 301	autophagy
+T14	CellFunction 417 426	autophagy
+T15	CellFunction 566 575	autophagy
+T16	DiseaseOrSyndrome 508 510	HD
+T17	DiseaseOrSyndrome 486 506	Huntington's Disease
+T18	CellOrMolecularDysfunction 325 342	neurodegeneration
+T19	DiseaseOrSyndrome 5 31	neurodegenerative diseases
+T20	DiseaseOrSyndrome 640 666	neurodegenerative diseases
+T21	ResearchActivity 398 404	review
+T22	HealthCareActivity 398 404	review
+T23	HealthCareActivity 614 623	treatment
+T24	ResearchActivity 614 623	treatment
+T25	CellOrMolecularDysfunction 209 227	damaged organelles
+T26	ResearchActivity 383 388	paper

@@ -1,0 +1,100 @@
+T0	BiologicFunction 29 39	estimation
+T1	BodyPartOrganOrOrganComponent 333 348	cross-sectional
+T2	HealthCareActivity 1039 1057	multimodal imaging
+T3	HealthCareActivity 1163 1171	modality
+T4	ResearchActivity 1173 1192	Multilevel modeling
+T5	TemporalConcept 1004 1012	progress
+T6	TemporalConcept 1396 1404	progress
+T7	TemporalConcept 299 303	past
+T8	ResearchActivity 580 588	modeling
+T9	ResearchActivity 1068 1099	support vector regression model
+T10	ClinicalAttribute 796 810	disease status
+T11	ResearchActivity 362 382	longitudinal changes
+T12	Finding 924 930	normal
+T13	TemporalConcept 854 858	rate
+T14	TemporalConcept 1284 1288	rate
+T15	OrganismAttribute 765 768	sex
+T16	OrganismAttribute 1485 1488	sex
+T17	HealthCareActivity 603 615	neuroimaging
+T18	BiologicFunction 121 126	aging
+T19	CellFunction 121 126	aging
+T20	OrganismAttribute 748 763	characteristics
+T21	MachineActivity 44 60	machine learning
+T22	Finding 1234 1244	increasing
+T23	ClinicalAttribute 477 493	clinical outcome
+T24	DiseaseOrSyndrome 270 272	AD
+T25	DiseaseOrSyndrome 458 460	AD
+T26	DiseaseOrSyndrome 1025 1027	AD
+T27	DiseaseOrSyndrome 1331 1333	AD
+T28	DiseaseOrSyndrome 1444 1446	AD
+T29	DiseaseOrSyndrome 1640 1642	AD
+T30	ClinicalAttribute 274 283	biomarker
+T31	BodyPartOrganOrOrganComponent 19 24	brain
+T32	BodyPartOrganOrOrganComponent 115 120	brain
+T33	BodyPartOrganOrOrganComponent 167 172	brain
+T34	BodyPartOrganOrOrganComponent 204 209	brain
+T35	BodyPartOrganOrOrganComponent 1112 1117	brain
+T36	ResearchActivity 1058 1062	data
+T37	PopulationGroup 889 900	individuals
+T38	PopulationGroup 988 999	individuals
+T39	PopulationGroup 1292 1303	individuals
+T40	PopulationGroup 1372 1383	individuals
+T41	ResearchActivity 304 311	studies
+T42	DiseaseOrSyndrome 249 268	Alzheimer's Disease
+T43	ResearchActivity 553 558	study
+T44	DiseaseOrSyndrome 971 974	MCI
+T45	DiseaseOrSyndrome 1309 1312	MCI
+T46	DiseaseOrSyndrome 1368 1371	MCI
+T47	PathologicFunction 461 472	progression
+T48	PathologicFunction 1447 1458	progression
+T49	PathologicFunction 1643 1654	progression
+T50	TemporalConcept 461 472	progression
+T51	TemporalConcept 1447 1458	progression
+T52	TemporalConcept 1643 1654	progression
+T53	TemporalConcept 881 885	time
+T54	Finding 1139 1150	performance
+T55	PopulationGroup 389 399	individual
+T56	PopulationGroup 1591 1601	individual
+T57	OrganismAttribute 389 399	individual
+T58	OrganismAttribute 1591 1601	individual
+T59	OrganismAttribute 25 28	age
+T60	OrganismAttribute 173 176	age
+T61	OrganismAttribute 210 213	age
+T62	OrganismAttribute 1118 1121	age
+T63	HealthCareActivity 646 655	follow-up
+T64	TemporalConcept 646 655	follow-up
+T65	TemporalConcept 637 642	years
+T66	Finding 1346 1364	cognitively normal
+T67	BiologicFunction 931 940	cognition
+T68	ResearchActivity 616 623	dataset
+T69	TemporalConcept 406 414	temporal
+T70	TemporalConcept 671 679	temporal
+T71	TemporalConcept 1611 1619	temporal
+T72	Finding 444 454	prediction
+T73	BiologicFunction 1577 1590	understanding
+T74	OrganismAttribute 181 198	chronological age
+T75	DiseaseOrSyndrome 944 969	mild cognitive impairment
+T76	AminoAcidPeptideOrProtein 770 774	APOE
+T77	AminoAcidPeptideOrProtein 1493 1497	APOE
+T78	BiologicallyActiveSubstance 770 774	APOE
+T79	BiologicallyActiveSubstance 1493 1497	APOE
+T80	ClinicalAttribute 1553 1572	potential biomarker
+T81	ResearchActivity 362 374	longitudinal
+T82	ResearchActivity 680 688	patterns
+T83	ResearchActivity 1620 1628	patterns
+T84	ClinicalAttribute 204 217	brain age gap
+T85	Finding 503 529	neurophysiological changes
+T86	GeneOrGenome 770 778	APOE e 4
+T87	Finding 779 790	carriership
+T88	Finding 862 868	change
+T89	Finding 1410 1425	dynamic changes
+T90	GeneOrGenome 1493 1501	APOE e 4
+T91	Finding 1502 1513	carriership
+T92	ClinicalAttribute 1544 1547	BAG
+T93	ClinicalAttribute 1433 1436	BAG
+T94	ClinicalAttribute 219 222	BAG
+T95	ClinicalAttribute 319 322	BAG
+T96	ClinicalAttribute 402 405	BAG
+T97	ClinicalAttribute 696 699	BAG
+T98	ClinicalAttribute 872 875	BAG
+T99	ClinicalAttribute 1212 1215	BAG

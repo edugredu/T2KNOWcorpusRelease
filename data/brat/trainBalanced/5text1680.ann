@@ -1,0 +1,9 @@
+T0	DiseaseOrSyndrome 102 130	neurodegenerative conditions
+T1	Finding 84 98	increased risk
+T2	InjuryOrPoisoning 0 25	Secondhand smoke exposure
+T3	EnvironmentalEffectOfHumans 0 16	Secondhand smoke
+T4	EnvironmentalEffectOfHumans 37 60	tobacco smoke pollution
+T5	EnvironmentalEffectOfHumans 45 60	smoke pollution
+T6	EnvironmentalEffectOfHumans 51 60	pollution
+T7	Substance 37 50	tobacco smoke
+T8	PopulationGroup 134 145	non-smokers

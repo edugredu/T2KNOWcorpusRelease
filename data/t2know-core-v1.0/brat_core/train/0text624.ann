@@ -1,0 +1,20 @@
+T0	DiseaseOrSyndrome 0 20	Disruptions of sleep
+T1	BiologicFunction 15 20	sleep
+T2	BiologicFunction 25 42	circadian rhythms
+T3	SignOrSymptom 62 83	debilitating symptoms
+T4	PathologicFunction 146 161	pathophysiology
+T5	BiologicFunction 228 233	sleep
+T6	PathologicFunction 238 260	circadian disturbances
+T7	DiseaseOrSyndrome 279 306	neurodegenerative processes
+T8	BiologicFunction 348 359	perspective
+T9	TemporalConcept 375 381	update
+T10	BiologicFunction 414 419	sleep
+T11	PathologicFunction 424 447	circadian dysregulation
+T12	DiseaseOrSyndrome 451 462	Alzheimer's
+T13	DiseaseOrSyndrome 464 475	Parkinson's
+T14	DiseaseOrSyndrome 481 502	Huntington's diseases
+T15	TemporalConcept 389 396	current
+T16	Finding 205 213	evidence
+T17	DiseaseOrSyndrome 101 127	neurodegenerative diseases
+T18	PatientOrDisabledGroup 87 95	patients
+T19	TemporalConcept 198 204	Recent

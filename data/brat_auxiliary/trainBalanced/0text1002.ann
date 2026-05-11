@@ -1,0 +1,89 @@
+T0	Cell 27 37	microglial
+T1	AminoAcidPeptideOrProtein 70 82	amyloid-beta
+T2	CellComponent 107 112	axons
+T3	BiologicFunction 186 196	inhibiting
+T4	AminoAcidPeptideOrProtein 536 548	amyloid-beta
+T5	CellComponent 597 619	extracellular vesicles
+T6	CellComponent 640 655	dendritic spine
+T7	ClinicalAttribute 640 666	dendritic spine morphology
+T8	TemporalConcept 824 828	hour
+T9	HealthCareActivity 845 854	injection
+T10	BodyPartOrganOrOrganComponent 870 887	entorhinal cortex
+T11	BodyPartOrganOrOrganComponent 932 949	entorhinal cortex
+T12	BodyPartOrganOrOrganComponent 965 978	dentate gyrus
+T13	BodyPartOrganOrOrganComponent 1049 1062	dentate gyrus
+T14	HealthCareActivity 1180 1189	injection
+T15	CellComponent 1193 1215	extracellular vesicles
+T16	ResearchActivity 1421 1437	optical tweezers
+T17	HealthCareActivity 1450 1468	time-lapse imaging
+T18	CellComponent 1558 1570	axon surface
+T19	NaturalPhenomenonOrProcess 1586 1592	motion
+T20	CellComponent 1805 1826	extracellular vesicle
+T21	Cell 1954 1964	microglial
+T22	CellComponent 2132 2154	extracellular vesicles
+T23	BodyPartOrganOrOrganComponent 2191 2207	brain parenchyma
+T24	Cell 1254 1267	CHO7PA2 cells
+T25	BodyPartOrganOrOrganComponent 161 166	brain
+T26	BodyPartOrganOrOrganComponent 451 456	brain
+T27	ResearchActivity 1472 1477	study
+T28	ResearchActivity 1915 1919	data
+T29	CellOrMolecularDysfunction 127 147	synaptic dysfunction
+T30	CellOrMolecularDysfunction 238 258	synaptic dysfunction
+T31	CellOrMolecularDysfunction 2025 2045	synaptic dysfunction
+T32	DiseaseOrSyndrome 304 323	Alzheimer's disease
+T33	DiseaseOrSyndrome 383 402	Alzheimer's disease
+T34	DiseaseOrSyndrome 2049 2068	Alzheimer's disease
+T35	BodyPartOrganOrOrganComponent 1755 1785	entorhinal-hippocampal circuit
+T36	BiologicFunction 889 911	long-term potentiation
+T37	BiologicFunction 1089 1111	long-term potentiation
+T38	BiologicFunction 1380 1402	long-term potentiation
+T39	BiologicFunction 1705 1727	long-term potentiation
+T40	BiologicFunction 1876 1898	long-term potentiation
+T41	PathologicFunction 316 335	disease progression
+T42	CellFunction 724 743	synaptic plasticity
+T43	BiologicFunction 724 743	synaptic plasticity
+T44	Cell 692 698	neuron
+T45	Cell 1488 1494	neuron
+T46	CellComponent 1841 1855	neuron surface
+T47	PathologicFunction 2165 2183	pathogenic signals
+T48	TemporalConcept 298 303	delay
+T49	TemporalConcept 2260 2265	delay
+T50	HealthCareActivity 2234 2256	therapeutic strategies
+T51	TemporalConcept 462 466	time
+T52	CellOrMolecularDysfunction 337 357	Synaptic dysfunction
+T53	ResearchActivity 762 769	in vivo
+T54	ResearchActivity 167 175	in vitro
+T55	ResearchActivity 667 675	in vitro
+T56	ResearchActivity 749 757	in vitro
+T57	Finding 1933 1944	involvement
+T58	Cell 561 570	microglia
+T59	AminoAcidPeptideOrProtein 84 90	A beta
+T60	AminoAcidPeptideOrProtein 197 203	A beta
+T61	AminoAcidPeptideOrProtein 621 627	A beta
+T62	AminoAcidPeptideOrProtein 835 841	A beta
+T63	AminoAcidPeptideOrProtein 1225 1231	A beta
+T64	AminoAcidPeptideOrProtein 1283 1289	A beta
+T65	AminoAcidPeptideOrProtein 1350 1356	A beta
+T66	AminoAcidPeptideOrProtein 1478 1484	A beta
+T67	AminoAcidPeptideOrProtein 1521 1527	A beta
+T68	AminoAcidPeptideOrProtein 1653 1659	A beta
+T69	CellComponent 38 60	extracellular vesicles
+T70	CellComponent 91 94	EVs
+T71	Eukaryote 155 160	mouse
+T72	CellComponent 204 206	EV
+T73	CellComponent 628 631	EVs
+T74	BodyPartOrganOrOrganComponent 777 818	entorhinal cortex-dentate gyrus circuitry
+T75	CellComponent 842 844	EV
+T76	Eukaryote 864 869	mouse
+T77	TemporalConcept 1010 1020	24 h later
+T78	PathologicFunction 1089 1119	long-term potentiation deficit
+T79	PathologicFunction 1380 1413	long-term potentiation impairment
+T80	CellComponent 1485 1487	EV
+T81	CellComponent 1528 1531	EVs
+T82	CellFunction 1616 1633	annexin-V coating
+T83	AminoAcidPeptideOrProtein 1616 1625	annexin-V
+T84	CellComponent 1660 1662	EV
+T85	PathologicFunction 1706 1735	ong-term potentiation deficit
+T86	PathologicFunction 1876 1909	long-term potentiation impairment
+T87	CellComponent 1965 1987	extracellular vesicles
+T88	CellComponent 1317 1339	extracellular vesicles

@@ -1,0 +1,107 @@
+T0	DiseaseOrSyndrome 28 40	glioblastoma
+T1	DiseaseOrSyndrome 42 45	GBM
+T2	BodyPartOrganOrOrganComponent 148 159	vasculature
+T3	GeneOrGenome 192 197	ELTD1
+T4	AminoAcidPeptideOrProtein 199 222	epidermal growth factor
+T5	BiologicallyActiveSubstance 199 222	epidermal growth factor
+T6	AminoAcidPeptideOrProtein 224 235	latrophilin
+T7	GeneOrGenome 224 235	latrophilin
+T8	MolecularSequence 243 263	transmembrane domain
+T9	DiseaseOrSyndrome 368 386	tumor angiogenesis
+T10	DiseaseOrSyndrome 391 404	glioblastomas
+T11	CellFunction 418 432	overexpression
+T12	Finding 418 432	overexpression
+T13	CellOrMolecularDysfunction 418 432	overexpression
+T14	GeneOrGenome 436 441	ELTD1
+T15	AminoAcidPeptideOrProtein 461 469	antibody
+T16	PharmacologicSubstance 461 469	antibody
+T17	GeneOrGenome 480 485	ELTD1
+T18	DiseaseOrSyndrome 530 535	tumor
+T19	HealthCareActivity 549 558	xenograft
+T20	DiseaseOrSyndrome 559 562	GBM
+T21	DiseaseOrSyndrome 628 631	GBM
+T22	GeneOrGenome 857 862	ELTD1
+T23	GeneOrGenome 971 976	ELTD1
+T24	HealthCareActivity 1184 1205	contrast-enhanced MRI
+T25	HealthCareActivity 1207 1213	CE-MRI
+T26	BiologicFunction 1244 1263	cerebral blood flow
+T27	HealthCareActivity 1265 1269	rCBF
+T28	BodyPartOrganOrOrganComponent 1289 1310	cervical spinal cords
+T29	HealthCareActivity 1331 1348	perfusion imaging
+T30	GeneOrGenome 1401 1406	ELTD1
+T31	BodyPartOrganOrOrganComponent 113 116	CNS
+T32	BodyPartOrganOrOrganComponent 144 147	CNS
+T33	BodyPartOrganOrOrganComponent 1440 1443	CNS
+T34	ResearchActivity 594 610	preclinical data
+T35	ResearchActivity 826 846	immunohistochemistry
+T36	BodyPartOrganOrOrganComponent 1062 1077	corpus callosum
+T37	CellFunction 508 516	survival
+T38	ExperimentalModelOfDisease 873 914	experimental autoimmune encephalomyelitis
+T39	ExperimentalModelOfDisease 916 919	EAE
+T40	ExperimentalModelOfDisease 1024 1027	EAE
+T41	ExperimentalModelOfDisease 1169 1172	EAE
+T42	BiologicFunction 321 341	vascular development
+T43	ExperimentalModelOfDisease 1169 1177	EAE mice
+T44	BodyPartOrganOrOrganComponent 1298 1310	spinal cords
+T45	BodyPartOrganOrOrganComponent 1131 1134	BBB
+T46	CellFunction 660 678	molecular pathways
+T47	ResearchActivity 772 777	study
+T48	BodyPartOrganOrOrganComponent 1116 1121	brain
+T49	CellFunction 670 678	pathways
+T50	NucleicAcidNucleosideOrNucleotide 570 573	RNA
+T51	ClinicalAttribute 1426 1435	biomarker
+T52	ResearchActivity 606 610	data
+T54	ResearchActivity 570 586	RNA-seq analysis
+T55	Eukaryote 1014 1018	mice
+T56	Eukaryote 1173 1177	mice
+T57	Eukaryote 1320 1324	mice
+T58	Finding 164 173	hallmarks
+T59	ResearchActivity 563 568	model
+T60	ResearchActivity 618 623	model
+T61	ResearchActivity 930 935	model
+T62	DiseaseOrSyndrome 20 22	MS
+T63	DiseaseOrSyndrome 760 762	MS
+T64	DiseaseOrSyndrome 939 941	MS
+T65	DiseaseOrSyndrome 1460 1462	MS
+T66	PopulationGroup 1362 1370	controls
+T67	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T68	HealthCareActivity 1202 1205	MRI
+T69	HealthCareActivity 1210 1213	MRI
+T70	HealthCareActivity 814 821	imaging
+T71	HealthCareActivity 1341 1348	imaging
+T72	BodyPartOrganOrOrganComponent 1004 1010	brains
+T73	BodyPartOrganOrOrganComponent 1159 1165	brains
+T74	BodyPartOrganOrOrganComponent 1278 1284	brains
+T75	BodyPartOrganOrOrganComponent 1110 1129	blood-brain barrier
+T76	BiologicFunction 330 341	development
+T77	CellFunction 330 341	development
+T78	BodyPartOrganOrOrganComponent 89 111	central nervous system
+T79	HealthCareActivity 715 722	therapy
+T80	PathologicFunction 1444 1456	inflammation
+T81	BodyPartOrganOrOrganComponent 321 329	vascular
+T82	Eukaryote 501 507	animal
+T83	PharmacologicSubstance 199 222	epidermal growth factor
+T84	AminoAcidPeptideOrProtein 192 197	ELTD1
+T85	BiologicallyActiveSubstance 192 197	ELTD1
+T86	BiologicallyActiveSubstance 224 235	latrophilin
+T87	AminoAcidPeptideOrProtein 199 300	epidermal growth factor, latrophilin, and 7 transmembrane domain containing protein 1 on chromosome 1
+T88	BiologicallyActiveSubstance 199 300	epidermal growth factor, latrophilin, and 7 transmembrane domain containing protein 1 on chromosome 1
+T89	GeneOrGenome 199 300	epidermal growth factor, latrophilin, and 7 transmembrane domain containing protein 1 on chromosome 1
+T90	AminoAcidPeptideOrProtein 436 441	ELTD1
+T91	BiologicallyActiveSubstance 436 441	ELTD1
+T92	BiologicallyActiveSubstance 461 469	antibody
+T93	AminoAcidPeptideOrProtein 480 485	ELTD1
+T94	BiologicallyActiveSubstance 480 485	ELTD1
+T95	AminoAcidPeptideOrProtein 695 714	anti-ELTD1 antibody
+T96	BiologicallyActiveSubstance 695 714	anti-ELTD1 antibody
+T97	ExperimentalModelOfDisease 924 941	mouse model of MS
+T98	ResearchActivity 787 821	molecular-targeted (mt) MR imaging
+T99	AminoAcidPeptideOrProtein 857 862	ELTD1
+T100	BiologicallyActiveSubstance 857 862	ELTD1
+T101	AminoAcidPeptideOrProtein 971 976	ELTD1
+T102	BiologicallyActiveSubstance 971 976	ELTD1
+T103	ExperimentalModelOfDisease 1014 1027	mice with EAE
+T104	HealthCareActivity 1235 1263	relative cerebral blood flow
+T105	AminoAcidPeptideOrProtein 1401 1406	ELTD1
+T106	BiologicallyActiveSubstance 1401 1406	ELTD1
+T107	ClinicalAttribute 530 543	tumor volumes

@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 152 179	neurodegenerative disorders
+T1	HealthCareActivity 8 26	imaging techniques
+T2	PopulationGroup 117 136	healthy individuals
+T3	BodyPartOrganOrOrganComponent 196 203	retinal
+T4	BodyPartOrganOrOrganComponent 0 7	Retinal
+T5	AnatomicalAbnormality 196 211	retinal defects
+T6	MachineActivity 42 65	artificial intelligence
+T7	MachineActivity 42 76	artificial intelligence algorithms

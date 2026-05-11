@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 188 208	Huntington's disease
+T1	ResearchActivity 117 126	text data
+T2	ResearchActivity 165 175	literature
+T3	ResearchActivity 156 164	research
+T4	Finding 47 60	critical role
+T5	MachineActivity 29 32	NLP
+T6	MachineActivity 0 27	Natural language processing
+T7	HealthCareActivity 136 151	medical records

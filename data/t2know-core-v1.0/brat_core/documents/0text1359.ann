@@ -1,0 +1,115 @@
+T0	CellFunction 110 127	action potentials
+T1	DiseaseOrSyndrome 129 137	Diseases
+T2	Cell 198 208	glial cell
+T3	CellFunction 410 421	integration
+T4	MachineActivity 410 421	integration
+T5	BodyPartOrganOrOrganComponent 528 548	extracellular matrix
+T6	BodyPartOrganOrOrganComponent 550 553	ECM
+T7	BodyPartOrganOrOrganComponent 586 589	ECM
+T8	AminoAcidPeptideOrProtein 600 610	tenascin-C
+T9	BiologicallyActiveSubstance 600 610	tenascin-C
+T10	AminoAcidPeptideOrProtein 612 615	Tnc
+T11	BiologicallyActiveSubstance 612 615	Tnc
+T12	AminoAcidPeptideOrProtein 738 741	Tnr
+T13	CellComponent 738 741	Tnr
+T14	ResearchActivity 965 992	cerebellar explant cultures
+T15	Chemical 1116 1128	lysolecithin
+T16	AminoAcidPeptideOrProtein 1155 1164	tenascins
+T17	BiologicallyActiveSubstance 1155 1164	tenascins
+T18	PathologicFunction 1206 1218	demyelinated
+T19	AminoAcidPeptideOrProtein 1270 1273	Tnc
+T20	BiologicallyActiveSubstance 1270 1273	Tnc
+T21	BodyPartOrganOrOrganComponent 1408 1411	ECM
+T22	AminoAcidPeptideOrProtein 1759 1792	chondroitin sulfate proteoglycans
+T23	BiologicallyActiveSubstance 1759 1792	chondroitin sulfate proteoglycans
+T24	AminoAcidPeptideOrProtein 1886 1889	Tnc
+T25	BiologicallyActiveSubstance 1886 1889	Tnc
+T26	AminoAcidPeptideOrProtein 1894 1897	Tnr
+T27	BiologicallyActiveSubstance 1894 1897	Tnr
+T28	PopulationGroup 247 252	adult
+T29	BiologicFunction 1592 1600	behavior
+T30	IndividualBehavior 1592 1600	behavior
+T31	ResearchActivity 1592 1600	behavior
+T32	CellComponent 76 81	axons
+T33	Substance 1412 1421	molecules
+T34	ResearchActivity 1697 1717	immunohistochemistry
+T35	Cell 308 324	oligodendrocytes
+T36	Cell 786 802	oligodendrocytes
+T37	TemporalConcept 1543 1548	acute
+T38	CellFunction 270 283	remyelination
+T39	CellFunction 934 947	remyelination
+T40	CellFunction 1049 1062	remyelination
+T41	CellFunction 1168 1181	remyelination
+T42	CellFunction 1312 1325	remyelination
+T43	CellFunction 1578 1591	remyelination
+T44	Cell 0 16	Oligodendrocytes
+T45	Cell 458 462	OPCs
+T46	Cell 685 689	OPCs
+T47	Cell 1840 1844	OPCs
+T48	CellFunction 373 386	proliferation
+T49	CellFunction 388 397	migration
+T50	CellFunction 652 661	migration
+T51	CellComponent 29 38	membranes
+T52	CellComponent 1089 1098	membranes
+T53	CellComponent 22 38	myelin membranes
+T54	CellComponent 1082 1098	myelin membranes
+T55	Cell 425 456	oligodendrocyte precursor cells
+T56	Cell 204 219	cell population
+T57	Chemical 1527 1536	cuprizone
+T58	Chemical 1607 1616	cuprizone
+T59	Chemical 1725 1734	cuprizone
+T60	CellComponent 1909 1917	membrane
+T61	ResearchActivity 1607 1627	cuprizone withdrawal
+T62	HealthCareActivity 1607 1627	cuprizone withdrawal
+T63	PopulationGroup 209 219	population
+T64	Cell 198 203	glial
+T65	CellFunction 341 352	Myelination
+T66	BiologicFunction 96 106	conduction
+T67	NaturalPhenomenonOrProcess 96 106	conduction
+T68	BiologicFunction 224 238	brain function
+T69	AminoAcidPeptideOrProtein 512 520	proteins
+T70	BodyPartOrganOrOrganComponent 253 258	brain
+T71	Eukaryote 1018 1023	mouse
+T72	ResearchActivity 918 926	analysis
+T73	Eukaryote 1661 1665	mice
+T74	ResearchActivity 808 813	model
+T75	ResearchActivity 1725 1740	cuprizone model
+T76	DiseaseOrSyndrome 146 164	multiple sclerosis
+T77	PathologicFunction 838 851	demyelination
+T78	PathologicFunction 1549 1562	demyelination
+T79	ResearchActivity 1478 1485	in vivo
+T80	BodyPartOrganOrOrganComponent 22 28	myelin
+T81	BodyPartOrganOrOrganComponent 1082 1088	myelin
+T82	BodyPartOrganOrOrganComponent 1902 1908	myelin
+T83	CellFunction 666 681	differentiation
+T84	CellFunction 767 782	differentiation
+T85	CellFunction 1821 1836	differentiation
+T86	Substance 590 598	molecule
+T87	AminoAcidPeptideOrProtein 726 736	tenascin-R
+T88	BiologicallyActiveSubstance 726 736	tenascin-R
+T89	Chemical 817 829	lysolecithin
+T90	PharmacologicSubstance 817 829	lysolecithin
+T91	ResearchActivity 855 880	cerebellar slice cultures
+T92	ResearchActivity 957 964	Ex vivo
+T93	AminoAcidPeptideOrProtein 996 999	Tnc
+T94	BiologicallyActiveSubstance 996 999	Tnc
+T95	AminoAcidPeptideOrProtein 1009 1012	Tnr
+T96	BiologicallyActiveSubstance 1009 1012	Tnr
+T97	PharmacologicSubstance 1116 1128	lysolecithin
+T98	ResearchActivity 1219 1244	wildtype control cultures
+T99	BiologicallyActiveSubstance 1277 1288	Tnr protein
+T100	AminoAcidPeptideOrProtein 1277 1288	Tnr protein
+T101	Eukaryote 1631 1636;1661 1665	SV129 mice
+T102	ResearchActivity 1962 1978	ex vivo approach
+T103	ResearchActivity 1104 1128	exposure to lysolecithin
+T104	Finding 1040 1062	enhanced remyelination
+T105	Finding 1074 1098	thicker myelin membranes
+T106	Finding 1326 1336	efficiency
+T107	AminoAcidPeptideOrProtein 1638 1641	Tnc
+T108	BiologicallyActiveSubstance 1638 1641	Tnc
+T109	AminoAcidPeptideOrProtein 1652 1655	Tnr
+T110	BiologicallyActiveSubstance 1652 1655	Tnr
+T111	CellFunction 1902 1927	myelin membrane formation
+T112	Finding 1861 1882	inhibitory properties
+T113	Finding 1134 1151	inhibitory effect
+T114	Finding 627 644	inhibitory effect

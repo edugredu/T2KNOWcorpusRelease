@@ -1,0 +1,95 @@
+T0	Finding 1329 1345	striatal atrophy
+T1	TemporalConcept 1542 1555	delayed onset
+T2	Finding 1559 1575	striatal atrophy
+T3	CellOrMolecularDysfunction 148 179	pathological mutant HTT protein
+T4	MolecularSequence 93 96	CAG
+T5	BodyPartOrganOrOrganComponent 506 514	striatal
+T6	BodyPartOrganOrOrganComponent 1329 1337	striatal
+T7	BodyPartOrganOrOrganComponent 1559 1567	striatal
+T8	AminoAcidPeptideOrProtein 1425 1429	Cas9
+T9	BiologicallyActiveSubstance 1425 1429	Cas9
+T10	Cell 1476 1492	striatal neurons
+T11	CellFunction 1135 1145	expressing
+T12	GeneOrGenome 275 278	HTT
+T13	GeneOrGenome 1459 1462	HTT
+T14	AminoAcidPeptideOrProtein 275 278	HTT
+T15	AminoAcidPeptideOrProtein 1459 1462	HTT
+T16	ResearchActivity 1418 1429	CRISPR/Cas9
+T17	BiologicFunction 1418 1429	CRISPR/Cas9
+T18	NucleicAcidNucleosideOrNucleotide 1418 1424	CRISPR
+T19	ResearchActivity 1418 1424	CRISPR
+T20	ClinicalAttribute 506 521	striatal volume
+T21	GeneOrGenome 114 124;131 135	huntingtin gene
+T22	HealthCareActivity 314 341	disease-modifying therapies
+T23	PathologicFunction 1310 1324	motor deficits
+T24	HealthCareActivity 655 664	challenge
+T25	ClinicalAttribute 411 428	clinical outcomes
+T26	DiseaseOrSyndrome 0 20	Huntington's disease
+T27	DiseaseOrSyndrome 911 931	Huntington's disease
+T28	DiseaseOrSyndrome 1213 1233	Huntington's disease
+T29	DiseaseOrSyndrome 1384 1416	premanifest Huntington's disease
+T30	DiseaseOrSyndrome 1881 1913	premanifest Huntington's disease
+T31	TemporalConcept 1794 1803	long-term
+T32	OrganismAttribute 1613 1622	phenotype
+T33	SignOrSymptom 728 745	clinical symptoms
+T34	Finding 1316 1324	deficits
+T35	DiseaseOrSyndrome 54 80	neurodegenerative disorder
+T36	Finding 454 467	effectiveness
+T37	TemporalConcept 1663 1668	first
+T38	TemporalConcept 363 372	currently
+T39	SignOrSymptom 560 577	clinical manifest
+T40	HealthCareActivity 1818 1862	non-allele-selective HTT silencing treatment
+T41	TemporalConcept 626 644	premanifest period
+T42	TemporalConcept 1194 1200	period
+T43	ClinicalAttribute 802 814;825 835	non-invasive biomarkers
+T44	ResearchActivity 941 946	study
+T45	ResearchActivity 1649 1654	study
+T46	PathologicFunction 1592 1603	progression
+T47	TemporalConcept 1592 1603	progression
+T48	Finding 716 724	presence
+T49	TemporalConcept 543 547	time
+T50	TemporalConcept 1669 1673	time
+T51	TemporalConcept 705 711	before
+T52	Finding 684 704	therapeutic efficacy
+T53	Finding 862 882	therapeutic efficacy
+T54	Finding 1731 1751	therapeutic efficacy
+T55	HealthCareActivity 1034 1071;1080 1083	inflow-based vascular-space-occupancy MRI
+T56	HealthCareActivity 1687 1714	non-invasive functional MRI
+T57	ResearchActivity 951 957	mapped
+T58	HealthCareActivity 471 478	therapy
+T59	HealthCareActivity 611 618	therapy
+T60	ResearchActivity 1150 1174	slowly progressing model
+T61	TemporalConcept 962 970	temporal
+T62	TemporalConcept 551 556	onset
+T63	GeneOrGenome 1443 1449	allele
+T64	Eukaryote 1207 1212	human
+T65	Eukaryote 1378 1383	human
+T66	PathologicFunction 1627 1642	brain pathology
+T67	TemporalConcept 389 403	manifest stage
+T68	TemporalConcept 890 907	premanifest stage
+T69	TemporalConcept 1759 1776	premanifest stage
+T70	CellOrMolecularDysfunction 93 106	CAG expansion
+T71	GeneOrGenome 126 129	HTT
+T72	AminoAcidPeptideOrProtein 126 129	HTT
+T73	BiologicallyActiveSubstance 126 129	HTT
+T74	AminoAcidPeptideOrProtein 181 185	mHTT
+T75	CellOrMolecularDysfunction 181 185	mHTT
+T76	Finding 234 253	monogenic aetiology
+T77	BiologicallyActiveSubstance 275 278	HTT
+T78	CellFunction 203 229	gain-of-function mechanism
+T79	Finding 749 756	outcome
+T80	ClinicalAttribute 987 1020	arteriolar cerebral blood volumes
+T81	ClinicalAttribute 1007 1020	blood volumes
+T82	HealthCareActivity 1073 1078	iVASO
+T83	ExperimentalModelOfDisease 1091 1114	heterozygous zQ175 mice
+T84	AminoAcidPeptideOrProtein 1130 1134	mHTT
+T85	CellOrMolecularDysfunction 1130 1134	mHTT
+T86	ExperimentalModelOfDisease 1278 1300	premanifest zQ175 mice
+T87	BiologicallyActiveSubstance 1459 1462	HTT
+T88	ResearchActivity 1418 1472	CRISPR/Cas9-mediated non-allele-specific HTT silencing
+T89	ExperimentalModelOfDisease 1518 1540	premanifest zQ175 mice
+T90	Finding 1804 1812	benefits
+T91	ClinicalAttribute 1022 1026	CBVa
+T92	ClinicalAttribute 1258 1262	CBVa
+T93	ClinicalAttribute 1370 1374	CBVa
+T94	ClinicalAttribute 1510 1514	CBVa

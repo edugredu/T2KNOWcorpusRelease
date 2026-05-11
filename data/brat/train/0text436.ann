@@ -1,0 +1,65 @@
+T0	DiseaseOrSyndrome 47 73	neurodegenerative disorder
+T1	HealthCareActivity 116 126	management
+T2	HealthCareActivity 330 339	therapies
+T3	ResearchActivity 489 517	randomized controlled trials
+T4	ResearchActivity 541 558	electronic search
+T5	HealthCareRelatedOrganization 566 573	CENTRAL
+T6	Finding 707 719	Risk of bias
+T7	ResearchActivity 1015 1028	interventions
+T8	ResearchActivity 1054 1058	data
+T9	ResearchActivity 1098 1102	data
+T10	DiseaseOrSyndrome 1152 1168	motor impairment
+T11	SignOrSymptom 1182 1190	dystonia
+T12	DiseaseOrSyndrome 1182 1190	dystonia
+T13	ResearchActivity 1227 1231	data
+T14	HealthCareActivity 1370 1380	treatments
+T15	ResearchActivity 1370 1380	treatments
+T16	DiseaseOrSyndrome 1385 1395	depression
+T17	DiseaseOrSyndrome 1397 1406	psychosis
+T18	SignOrSymptom 1408 1420	irritability
+T19	DiseaseOrSyndrome 1422 1428	apathy
+T20	BiomedicalOccupationOrDiscipline 1504 1517	physiotherapy
+T21	HealthCareActivity 1504 1517	physiotherapy
+T22	HealthCareActivity 1519 1539	occupational therapy
+T23	HealthCareActivity 1541 1549	exercise
+T24	HealthCareActivity 1563 1582	surgical treatments
+T25	ResearchActivity 1596 1600	Data
+T26	HealthCareActivity 1605 1630	therapeutic interventions
+T27	AminoAcidPeptideOrProtein 1677 1682	VMAT2
+T28	PharmacologicSubstance 1677 1693	VMAT2 inhibitors
+T29	DiseaseOrSyndrome 1170 1176	chorea
+T30	DiseaseOrSyndrome 1215 1221	chorea
+T31	SignOrSymptom 1170 1176	chorea
+T32	SignOrSymptom 1215 1221	chorea
+T33	Finding 308 316	evidence
+T34	Finding 1330 1338	evidence
+T35	Finding 1460 1468	evidence
+T36	DiseaseOrSyndrome 33 35	HD
+T37	DiseaseOrSyndrome 1304 1306	HD
+T38	DiseaseOrSyndrome 1634 1636	HD
+T39	DiseaseOrSyndrome 11 31	Huntington's disease
+T40	TemporalConcept 42 46	rare
+T41	ResearchActivity 284 290	review
+T42	HealthCareActivity 284 290	review
+T43	ResearchActivity 994 1001	studies
+T44	PharmacologicSubstance 1198 1211	tetrabenazine
+T45	Chemical 1198 1211	tetrabenazine
+T46	SignOrSymptom 1707 1721	motor symptoms
+T47	HealthCareActivity 164 184	off-label treatments
+T48	HealthCareRelatedOrganization 1732 1785	International Parkinson and Movement Disorder Society
+T49	HealthCareRelatedOrganization 197 254	The International Parkinson and Movement Disorder Society
+T50	PatientOrDisabledGroup 344 370	HD gene expansion carriers
+T51	HealthCareActivity 396 478	Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach
+T52	HealthCareRelatedOrganization 575 582	MEDLINE
+T53	ResearchActivity 595 604	databases
+T54	ResearchActivity 744 770	Cochrane Risk of Bias tool
+T55	PharmacologicSubstance 1132 1148	deutetrabenazine
+T56	Finding 1250 1274	disease-modifying effect
+T57	DiseaseOrSyndrome 1433 1444	suicidality
+T58	BiologicallyActiveSubstance 1677 1682	VMAT2
+T59	ResearchActivity 1072 1090	clinical questions
+T60	HealthCareRelatedOrganization 588 594	EMBASE
+T61	ResearchActivity 673 691	clinical questions
+T62	ResearchActivity 882 905	GRADE level of evidence
+T63	HealthCareActivity 932 964	benefit/harm of the intervention
+T64	Chemical 1132 1148	deutetrabenazine

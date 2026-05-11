@@ -1,0 +1,8 @@
+T0	Cell 13 18	cells
+T1	BiologicFunction 37 48	development
+T2	CellFunction 37 48	development
+T3	BodyPartOrganOrOrganComponent 136 161	peripheral nervous system
+T4	Cell 92 105	Schwann cells
+T5	EmbryonicStructure 0 12	Neural crest
+T6	BodyPartOrganOrOrganComponent 52 67	sensory ganglia
+T7	BodyPartOrganOrOrganComponent 69 86	autonomic ganglia

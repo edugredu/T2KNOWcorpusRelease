@@ -1,0 +1,41 @@
+T0	DiseaseOrSyndrome 396 407	Alzheimer's
+T1	DiseaseOrSyndrome 542 552	dependence
+T2	OrganismAttribute 530 541	temperature
+T3	NaturalPhenomenonOrProcess 530 541	temperature
+T4	BiologicFunction 73 93	biological functions
+T5	PathologicFunction 777 788	progression
+T6	TemporalConcept 777 788	progression
+T7	CellComponent 13 46	nano-sized extracellular vesicles
+T8	DiseaseOrSyndrome 164 183	Alzheimer's disease
+T9	DiseaseOrSyndrome 185 187	AD
+T10	PathologicFunction 108 120	pathogenesis
+T11	AminoAcidPeptideOrProtein 592 598	A beta
+T12	AminoAcidPeptideOrProtein 248 264	A beta oligomers
+T13	CellComponent 204 212	exosomes
+T14	Finding 290 302	accumulation
+T15	InjuryOrPoisoning 599 612	neurotoxicity
+T16	Cell 473 483	astrocytes
+T17	CellComponent 276 289	extracellular
+T18	CellComponent 751 761	components
+T19	ResearchActivity 386 391	model
+T20	ResearchActivity 510 515	model
+T21	DiseaseOrSyndrome 132 159	neurodegenerative disorders
+T22	CellComponent 452 459	exosome
+T23	CellComponent 556 563	exosome
+T24	CellComponent 0 8	Exosomes
+T25	CellOrMolecularDysfunction 408 427	A beta accumulation
+T26	Chemical 437 441	Ca2+
+T27	BiologicallyActiveSubstance 437 440	Ca2
+T28	CellFunction 437 467	Ca2+-dependent exosome release
+T29	CellFunction 237 264	release of A beta oligomers
+T30	CellFunction 556 571	exosome release
+T31	BiologicallyActiveSubstance 630 657	voltage-gated Ca2+ channels
+T32	AminoAcidPeptideOrProtein 630 657	voltage-gated Ca2+ channels
+T33	AminoAcidPeptideOrProtein 659 664	VGCCs
+T34	BiologicallyActiveSubstance 659 664	VGCCs
+T35	AminoAcidPeptideOrProtein 681 712	transient-receptor potential M8
+T36	BiologicallyActiveSubstance 681 712	transient-receptor potential M8
+T37	AminoAcidPeptideOrProtein 714 719	TRPM8
+T38	BiologicallyActiveSubstance 714 719	TRPM8
+T39	GeneOrGenome 714 719	TRPM8
+T40	DiseaseOrSyndrome 765 776	Alzheimer's

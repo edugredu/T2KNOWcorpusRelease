@@ -1,0 +1,108 @@
+T0	BiologicFunction 33 42	synthesis
+T1	AminoAcidPeptideOrProtein 221 230	receptors
+T2	BiologicallyActiveSubstance 221 230	receptors
+T3	AminoAcidPeptideOrProtein 246 265	melatonin receptors
+T4	BodyPartOrganOrOrganComponent 433 447	choroid plexus
+T5	BiologicFunction 470 503	blood-cerebrospinal fluid barrier
+T6	Organism 521 534	chimeric mice
+T7	PopulationGroup 536 544	resident
+T8	PathologicFunction 668 680	demyelinated
+T9	BiologicFunction 842 858	circadian rhythm
+T10	Chemical 876 884	cortisol
+T11	Cell 1105 1114	monocytes
+T12	NaturalPhenomenonOrProcess 1156 1164	darkness
+T13	HealthCareActivity 1456 1460	diet
+T14	InjuryOrPoisoning 1494 1502	overdose
+T15	Finding 1494 1502	overdose
+T16	BodyPartOrganOrOrganComponent 608 612	bone
+T17	Cell 269 285	oligodendrocytes
+T18	Cell 387 403	progenitor cells
+T19	BiologicallyActiveSubstance 23 32	melatonin
+T20	BiologicallyActiveSubstance 177 186	melatonin
+T21	BiologicallyActiveSubstance 194 203	melatonin
+T22	BiologicallyActiveSubstance 246 255	melatonin
+T23	BiologicallyActiveSubstance 579 588	melatonin
+T24	BiologicallyActiveSubstance 776 785	melatonin
+T25	BiologicallyActiveSubstance 862 871	melatonin
+T26	BiologicallyActiveSubstance 1179 1188	melatonin
+T27	BiologicallyActiveSubstance 1262 1271	melatonin
+T28	BiologicallyActiveSubstance 1390 1399	melatonin
+T29	BiologicallyActiveSubstance 1484 1493	melatonin
+T30	PharmacologicSubstance 23 32	melatonin
+T31	PharmacologicSubstance 177 186	melatonin
+T32	PharmacologicSubstance 194 203	melatonin
+T33	PharmacologicSubstance 246 255	melatonin
+T34	PharmacologicSubstance 579 588	melatonin
+T35	PharmacologicSubstance 776 785	melatonin
+T36	PharmacologicSubstance 862 871	melatonin
+T37	PharmacologicSubstance 1179 1188	melatonin
+T38	PharmacologicSubstance 1262 1271	melatonin
+T39	PharmacologicSubstance 1390 1399	melatonin
+T40	PharmacologicSubstance 1484 1493	melatonin
+T41	Chemical 23 32	melatonin
+T42	Chemical 177 186	melatonin
+T43	Chemical 194 203	melatonin
+T44	Chemical 246 255	melatonin
+T45	Chemical 579 588	melatonin
+T46	Chemical 776 785	melatonin
+T47	Chemical 862 871	melatonin
+T48	Chemical 1179 1188	melatonin
+T49	Chemical 1262 1271	melatonin
+T50	Chemical 1390 1399	melatonin
+T51	Chemical 1484 1493	melatonin
+T52	TemporalConcept 895 903	constant
+T53	TemporalConcept 1147 1155	constant
+T54	ResearchActivity 776 792	melatonin levels
+T55	Cell 287 290	OLs
+T56	Cell 1030 1033	OLs
+T57	Cell 987 1002	precursor cells
+T58	Cell 1004 1008	OPCs
+T59	Cell 1011 1015	OPCs
+T60	BodyPartOrganOrOrganComponent 299 314	corpus callosum
+T61	CellFunction 934 947	proliferation
+T62	CellFunction 1120 1132	phagocytosis
+T63	BodyPartOrganOrOrganComponent 608 619	bone marrow
+T64	Cell 971 996	oligodendrocyte precursor
+T65	BiologicFunction 1016 1026	maturation
+T66	Cell 536 556	resident macrophages
+T67	Cell 608 639	bone marrow-derived macrophages
+T68	Cell 971 1002	oligodendrocyte precursor cells
+T69	Chemical 709 718	cuprizone
+T70	ExperimentalModelOfDisease 709 727	cuprizone-fed mice
+T71	BodyPartOrganOrOrganComponent 348 367	subventricular zone
+T72	BodyPartOrganOrOrganComponent 681 686	brain
+T73	ResearchActivity 1346 1350	data
+T74	Eukaryote 530 534	mice
+T75	Eukaryote 723 727	mice
+T76	DiseaseOrSyndrome 66 68	MS
+T77	DiseaseOrSyndrome 741 743	MS
+T78	DiseaseOrSyndrome 1430 1432	MS
+T79	DiseaseOrSyndrome 46 64	multiple sclerosis
+T80	PathologicFunction 322 335	demyelination
+T81	PathologicFunction 1065 1078	demyelination
+T82	Substance 490 495	fluid
+T83	TemporalConcept 1323 1332	currently
+T84	HealthCareActivity 1379 1389	monitoring
+T85	CellFunction 952 967	differentiation
+T86	BodyPartOrganOrOrganComponent 476 495	cerebrospinal fluid
+T87	PatientOrDisabledGroup 113 120	patient
+T88	PatientOrDisabledGroup 1433 1440	patient
+T89	IndividualBehavior 121 131	lifestyles
+T90	BiologicallyActiveSubstance 246 265	melatonin receptors
+T91	Cell 375 386;398 403	neural stem cells
+T92	Cell 405 410	NSPCs
+T93	AminoAcidPeptideOrProtein 579 598	melatonin receptors
+T94	BiologicallyActiveSubstance 579 598	melatonin receptors
+T95	ExperimentalModelOfDisease 741 749	MS model
+T96	BiologicallyActiveSubstance 876 884	cortisol
+T97	PharmacologicSubstance 876 884	cortisol
+T98	Cell 929 933	NSPC
+T99	NaturalPhenomenonOrProcess 904 909	light
+T100	Cell 1228 1236	monocyte
+T101	CellFunction 1228 1249	monocyte infiltration
+T102	HealthCareActivity 1309 1315	remedy
+T103	Chemical 1400 1408	cortisol
+T104	BiologicallyActiveSubstance 1400 1408	cortisol
+T105	PharmacologicSubstance 1400 1408	cortisol
+T106	IndividualBehavior 1465 1474	lifestyle
+T107	Finding 1409 1421	oscillations

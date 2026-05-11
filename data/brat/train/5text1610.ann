@@ -1,0 +1,11 @@
+T0	DiseaseOrSyndrome 115 117	MS
+T1	Finding 96 100	risk
+T2	TemporalConcept 118 123	later
+T3	TemporalConcept 127 131	life
+T4	PopulationGroup 24 35	individuals
+T5	ResearchActivity 0 7	Studies
+T6	TemporalConcept 169 174	early
+T7	Virus 59 62	EBV
+T8	OrganismAttribute 68 77	young age
+T9	Finding 175 189	viral exposure
+T10	ClinicalAttribute 194 216	disease susceptibility

@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 126 154	neurodegenerative conditions
+T1	CellFunction 92 109	neuronal survival
+T2	Virus 0 10	Adenovirus
+T3	AminoAcidPeptideOrProtein 32 52	neurotrophic factors
+T4	BiologicallyActiveSubstance 32 52	neurotrophic factors
+T5	BiologicFunction 20 28	delivery

@@ -1,0 +1,106 @@
+T0	Finding 109 131	unintended weight loss
+T1	PathologicFunction 235 255	peripheral pathology
+T2	SignOrSymptom 308 321	core symptoms
+T3	Organism 371 385	Gut microbiota
+T4	BiologicallyActiveSubstance 394 404	modulators
+T5	HealthCareActivity 408 421	communication
+T6	CellFunction 408 421	communication
+T7	BodyPartOrganOrOrganComponent 444 447	gut
+T8	Organism 468 478	microbiota
+T9	PathologicFunction 492 501	dysbiosis
+T10	BiologicFunction 536 545	behaviour
+T11	IndividualBehavior 536 545	behaviour
+T12	ResearchActivity 536 545	behaviour
+T13	BiologicFunction 550 568	affective function
+T14	PathologicFunction 629 642	gut dysbiosis
+T15	Organism 749 763	gut microbiome
+T16	Organism 841 855	gut microbiota
+T17	PopulationGroup 980 988	carriers
+T18	ManufacturedObject 1221 1228	battery
+T19	Organism 1338 1352	gut microbiome
+T20	Organism 1358 1372	gut microbiome
+T21	HealthCareActivity 1358 1381	gut microbiome measures
+T22	Finding 1716 1722	shifts
+T23	CellFunction 1804 1823	functional pathways
+T24	Organism 2103 2117	gut microbiome
+T25	PopulationGroup 2157 2165	carriers
+T26	Finding 2246 2255	questions
+T27	BodyPartOrganOrOrganComponent 2282 2285	gut
+T28	HealthCareActivity 1232 1247	cognitive tests
+T29	ResearchActivity 1232 1247	cognitive tests
+T30	DiseaseOrSyndrome 73 96	psychiatric impairments
+T31	ClinicalAttribute 2017 2038	cognitive performance
+T32	Finding 1793 1803	identified
+T33	SignOrSymptom 199 219	psychiatric symptoms
+T34	Eukaryote 689 704	transgenic mice
+T35	ResearchActivity 689 704	transgenic mice
+T36	SignOrSymptom 120 131	weight loss
+T37	HealthCareActivity 120 131	weight loss
+T38	Finding 264 276	relationship
+T39	BiologicallyActiveSubstance 1828 1835	enzymes
+T40	HealthCareActivity 2363 2387	therapeutic intervention
+T41	ResearchActivity 1242 1247	tests
+T42	HealthCareActivity 1242 1247	tests
+T43	TemporalConcept 647 655	recently
+T44	Eukaryote 700 704	mice
+T45	BiologicFunction 525 534	cognition
+T46	PopulationGroup 767 773	people
+T47	PopulationGroup 1003 1009	people
+T48	ClinicalAttribute 2043 2060	clinical outcomes
+T49	OrganismAttribute 1560 1567	species
+T50	PopulationGroup 1170 1182	Participants
+T51	PathologicFunction 595 614	disease progression
+T52	PathologicFunction 908 927	disease progression
+T53	PopulationGroup 1656 1661	group
+T54	PopulationGroup 1888 1901	carrier group
+T55	PopulationGroup 1950 1963	carrier group
+T56	Finding 1404 1415	differences
+T57	OrganismAttribute 1137 1143	gender
+T58	BodyPartOrganOrOrganComponent 434 439	brain
+T59	OrganismAttribute 1128 1131	age
+T60	BodyPartOrganOrOrganComponent 235 245	peripheral
+T61	TemporalConcept 2356 2362	future
+T62	PathologicFunction 603 614	progression
+T63	PathologicFunction 916 927	progression
+T64	TemporalConcept 603 614	progression
+T65	TemporalConcept 916 927	progression
+T66	OrganismAttribute 1666 1673	healthy
+T67	PopulationGroup 1152 1168	healthy controls
+T68	PopulationGroup 1666 1682	healthy controls
+T69	DiseaseOrSyndrome 0 20	Huntington's disease
+T70	DiseaseOrSyndrome 325 345	Huntington's disease
+T71	DiseaseOrSyndrome 668 688	Huntington's disease
+T72	DiseaseOrSyndrome 779 799	Huntington's disease
+T73	DiseaseOrSyndrome 944 964	Huntington's disease
+T74	DiseaseOrSyndrome 1034 1054	Huntington's disease
+T75	DiseaseOrSyndrome 1612 1632	Huntington's disease
+T76	DiseaseOrSyndrome 1852 1872	Huntington's disease
+T77	DiseaseOrSyndrome 1914 1934	Huntington's disease
+T78	DiseaseOrSyndrome 2121 2141	Huntington's disease
+T79	DiseaseOrSyndrome 2289 2309	Huntington's disease
+T80	BodyPartOrganOrOrganComponent 1303 1317	faecal samples
+T81	ClinicalAttribute 2213 2223	biomarkers
+T82	ResearchActivity 154 162	research
+T83	SignOrSymptom 189 194;211 219	motor symptoms
+T84	SignOrSymptom 178 187;211 219	cognitive symptoms
+T85	Finding 453 464	alterations
+T86	ExperimentalModelOfDisease 668 704	Huntington's disease transgenic mice
+T87	ClinicalAttribute 885 904	clinical indicators
+T88	CellOrMolecularDysfunction 965 979	gene expansion
+T89	HealthCareActivity 1056 1081	Total Functional Capacity
+T90	TemporalConcept 1101 1118	premanifest stage
+T91	ResearchActivity 1271 1299	16S V3 to V4 rRNA sequencing
+T92	Organism 1423 1444	microbial communities
+T93	OrganismAttribute 1730 1759	microbial community structure
+T94	CellOrMolecularDysfunction 2142 2156	gene expansion
+T95	CellOrMolecularDysfunction 1873 1887	gene expansion
+T96	CellOrMolecularDysfunction 1935 1949	gene expansion
+T97	BodyPartOrganOrOrganComponent 2003 2006	gut
+T98	Bacterium 2007 2015	bacteria
+T99	ResearchActivity 1471 1498	unweighted UniFrac distance
+T100	Finding 1560 1567;1581 1589	species evenness
+T101	Finding 1560 1576	species richness
+T102	OrganismAttribute 1763 1769	Phylum
+T103	BodyPartOrganOrOrganComponent 2209 2212	gut
+T104	Finding 1446 1460	beta diversity
+T105	Finding 1543 1558	alpha diversity

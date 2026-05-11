@@ -1,0 +1,5 @@
+T0	BodyPartOrganOrOrganComponent 67 89	frozen brain fragments
+T1	DiseaseOrSyndrome 95 97	AD
+T2	PatientOrDisabledGroup 98 106	patients
+T3	TemporalConcept 55 66	post-mortem
+T4	Bacterium 30 42	C. pneumonia

@@ -1,0 +1,80 @@
+T0	GeneOrGenome 63 67	Sox9
+T1	AminoAcidPeptideOrProtein 63 67	Sox9
+T2	GeneOrGenome 517 521	Sox9
+T3	AminoAcidPeptideOrProtein 517 521	Sox9
+T4	GeneOrGenome 603 607	Sox9
+T5	AminoAcidPeptideOrProtein 603 607	Sox9
+T6	GeneOrGenome 608 617	transgene
+T7	GeneOrGenome 659 668	transgene
+T8	TemporalConcept 702 711	trimester
+T9	GeneOrGenome 920 924	Sox9
+T10	AminoAcidPeptideOrProtein 920 924	Sox9
+T11	GeneOrGenome 1054 1058	Sox9
+T12	AminoAcidPeptideOrProtein 1054 1058	Sox9
+T13	GeneOrGenome 1059 1068	transgene
+T14	BiologicFunction 1174 1182	identity
+T15	CellFunction 1210 1221	myelinating
+T16	GeneOrGenome 1420 1424	Sox9
+T17	AminoAcidPeptideOrProtein 1420 1424	Sox9
+T18	ResearchActivity 544 556	mouse models
+T19	CellFunction 1117 1127	expressing
+T20	BiologicFunction 932 950	oligodendrogenesis
+T21	Cell 199 209	astroglial
+T22	TemporalConcept 1243 1253	infrequent
+T23	AminoAcidPeptideOrProtein 42 62	transcription factor
+T24	BiologicallyActiveSubstance 42 62	transcription factor
+T25	Cell 390 422	differentiating oligodendrocytes
+T26	Cell 815 830;847 863	pre-myelinating oligodendrocytes
+T27	Cell 1222 1238	oligodendrocytes
+T28	Cell 331 335	OPCs
+T29	Cell 437 441	OPCs
+T30	Cell 525 529	OPCs
+T31	Cell 740 744	OPCs
+T32	Cell 1128 1132	OPCs
+T33	Cell 1295 1299	OPCs
+T34	Cell 1441 1445	OPCs
+T35	DiseaseOrSyndrome 1359 1381	demyelinating diseases
+T36	PathologicFunction 1359 1372	demyelinating
+T37	Cell 297 329	oligodendrocyte progenitor cells
+T38	CellFunction 1007 1047	terminal oligodendrocyte differentiation
+T39	CellFunction 1270 1285	differentiation
+T40	Cell 835 863	myelinating oligodendrocytes
+T41	Cell 1210 1238	myelinating oligodendrocytes
+T42	Cell 1158 1173	progenitor cell
+T43	Cell 76 81	glial
+T44	DiseaseOrSyndrome 1390 1408	Multiple Sclerosis
+T45	Cell 249 271	oligodendroglial cells
+T46	Cell 214 230	oligodendroglial
+T47	Cell 570 586	oligodendroglial
+T48	ClinicalAttribute 879 885	marker
+T49	BodyPartOrganOrOrganComponent 141 163	central nervous system
+T50	BiologicFunction 625 636	development
+T51	BiologicFunction 958 981	ontogenetic development
+T52	CellFunction 625 636	development
+T53	CellFunction 886 901	gene expression
+T54	CellFunction 587 597	expression
+T55	CellFunction 669 679	expression
+T56	CellFunction 1069 1079	expression
+T57	Finding 1493 1501	capacity
+T58	Cell 1016 1031	oligodendrocyte
+T59	BiologicFunction 715 724	pregnancy
+T60	CellFunction 1342 1355	remyelination
+T61	CellFunction 1479 1492	remyelination
+T62	PopulationGroup 462 467	adult
+T63	PopulationGroup 647 652	adult
+T64	PopulationGroup 1095 1100	adult
+T65	PopulationGroup 1289 1294	adult
+T66	PopulationGroup 1435 1440	adult
+T67	TemporalConcept 989 995	stages
+T68	CellFunction 284 293	expressed
+T69	BodyPartOrganOrOrganComponent 344 369	developing nervous system
+T70	BodyPartOrganOrOrganComponent 468 482	nervous system
+T71	BiologicallyActiveSubstance 63 67	Sox9
+T72	Cell 96 122	neuroepithelial precursors
+T73	AminoAcidPeptideOrProtein 4 30	high-mobility-group domain
+T74	BiologicallyActiveSubstance 517 521	Sox9
+T75	BiologicallyActiveSubstance 603 607	Sox9
+T76	BiologicallyActiveSubstance 920 924	Sox9
+T77	BiologicallyActiveSubstance 1054 1058	Sox9
+T78	GeneOrGenome 1107 1116	transgene
+T79	BiologicallyActiveSubstance 1420 1424	Sox9

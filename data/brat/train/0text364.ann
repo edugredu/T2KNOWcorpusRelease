@@ -1,0 +1,57 @@
+T0	InjuryOrPoisoning 262 269	damaged
+T1	PathologicFunction 273 284	degenerated
+T2	InjuryOrPoisoning 392 402	CNS injury
+T3	Eukaryote 558 563	Human
+T4	DiseaseOrSyndrome 903 915	CNS diseases
+T5	HealthCareActivity 1177 1203	neuroregenerative medicine
+T6	Eukaryote 741 758	non-human primate
+T7	PopulationGroup 725 730	adult
+T8	BodyPartOrganOrOrganComponent 366 369	CNS
+T9	Cell 196 203	neurons
+T10	Cell 489 496	neurons
+T11	Cell 610 617	neurons
+T12	Cell 696 703	neurons
+T13	Cell 864 871	neurons
+T14	ResearchActivity 618 626	in vitro
+T15	CellFunction 448 461	reprogramming
+T16	CellFunction 1119 1141	neuronal reprogramming
+T17	Cell 157 165	neuronal
+T18	HealthCareActivity 1098 1108	challenges
+T19	Cell 462 472	astrocytes
+T20	Cell 564 574	astrocytes
+T21	Cell 669 679	astrocytes
+T22	Cell 837 847	astrocytes
+T23	Cell 1147 1157	astrocytes
+T24	TemporalConcept 544 556	recent years
+T25	BiologicFunction 531 540	attention
+T26	Cell 301 311	Astrocytes
+T27	CellOrMolecularDysfunction 157 178	neuronal degeneration
+T28	TemporalConcept 32 40	lifespan
+T29	Finding 46 55	incidence
+T30	TemporalConcept 786 793	briefly
+T31	ResearchActivity 775 781	review
+T32	HealthCareActivity 775 781	review
+T33	DiseaseOrSyndrome 59 85	neurodegenerative diseases
+T34	DiseaseOrSyndrome 936 962	neurodegenerative diseases
+T35	TemporalConcept 551 556	years
+T36	DiseaseOrSyndrome 1027 1047	Huntington's disease
+T37	DiseaseOrSyndrome 971 990	Parkinson's disease
+T38	BodyPartOrganOrOrganComponent 294 299	brain
+T39	DiseaseOrSyndrome 1049 1051	HD
+T40	DiseaseOrSyndrome 992 994	PD
+T41	PathologicFunction 166 178	degeneration
+T42	CellOrMolecularDysfunction 406 423	neurodegeneration
+T43	DiseaseOrSyndrome 997 1016	Alzheimer's disease
+T44	DiseaseOrSyndrome 1018 1020	AD
+T45	Eukaryote 288 293	human
+T46	Eukaryote 731 736	mouse
+T47	TemporalConcept 1170 1176	future
+T48	ResearchActivity 637 665	in vivo direct reprogramming
+T49	ResearchActivity 805 833	in vivo direct reprogramming
+T50	ResearchActivity 1158 1165	in vivo
+T51	BodyPartOrganOrOrganComponent 759 765	brains
+T52	BodyPartOrganOrOrganComponent 342 364	central nervous system
+T53	HealthCareActivity 875 898	regenerative strategies
+T54	BiomedicalOccupationOrDiscipline 1177 1203	neuroregenerative medicine
+T55	Finding 18 28	extensions
+T56	ResearchActivity 448 461	reprogramming

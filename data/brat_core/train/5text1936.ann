@@ -1,0 +1,9 @@
+T0	BodyPartOrganOrOrganComponent 184 202	biological tissues
+T1	NaturalPhenomenonOrProcess 130 136	energy
+T2	NaturalPhenomenonOrProcess 48 59	radio waves
+T3	NaturalPhenomenonOrProcess 0 38	Non-ionizing electromagnetic radiation
+T4	NaturalPhenomenonOrProcess 13 38	electromagnetic radiation
+T5	NaturalPhenomenonOrProcess 4 38	ionizing electromagnetic radiation
+T6	NaturalPhenomenonOrProcess 170 180	ionization
+T7	NaturalPhenomenonOrProcess 64 74	microwaves
+T8	CellFunction 146 160	chemical bonds

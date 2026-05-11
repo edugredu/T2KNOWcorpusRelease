@@ -1,0 +1,56 @@
+T0	BiologicFunction 54 72	biological process
+T1	Cell 143 159	Oligodendroglial
+T2	CellOrMolecularDysfunction 301 311	transition
+T3	HealthCareActivity 312 317	steps
+T4	PathologicFunction 527 547	abnormal development
+T5	CellComponent 588 597	myelinate
+T6	CellFunction 588 597	myelinate
+T7	PopulationGroup 1211 1223	young adults
+T8	BiologicFunction 775 791	immune component
+T9	Cell 280 295	myelinating OLs
+T10	CellComponent 598 603	axons
+T11	Cell 15 31	oligodendrocytes
+T12	Cell 568 584	oligodendrocytes
+T13	Cell 359 363	OPCs
+T14	DiseaseOrSyndrome 656 674	multiple sclerosis
+T15	DiseaseOrSyndrome 1175 1196	demyelinating disease
+T16	Cell 325 357	oligodendrocyte progenitor cells
+T17	CellFunction 1041 1056	differentiation
+T18	Cell 368 396	myelinating oligodendrocytes
+T19	Cell 33 36	OLs
+T20	PharmacologicSubstance 867 892	pharmacological compounds
+T21	PathologicFunction 1162 1174	inflammatory
+T22	CellFunction 0 11	Myelination
+T23	BodyPartOrganOrOrganComponent 87 109	central nervous system
+T24	BodyPartOrganOrOrganComponent 111 114	CNS
+T25	BodyPartOrganOrOrganComponent 1204 1207	CNS
+T26	BiologicFunction 116 127	development
+T27	CellFunction 116 127	development
+T28	Cell 143 173	Oligodendroglial lineage cells
+T29	DiseaseOrSyndrome 624 650	neurodegenerative diseases
+T30	CellFunction 444 459	gene expression
+T31	PathologicFunction 704 716	inflammation
+T32	ResearchActivity 993 999	review
+T33	HealthCareActivity 993 999	review
+T34	Finding 1012 1021	knowledge
+T35	TemporalConcept 740 747	current
+T36	TemporalConcept 1004 1011	current
+T37	HealthCareActivity 748 758	treatments
+T38	ResearchActivity 748 758	treatments
+T39	Cell 1025 1040	oligodendrocyte
+T40	CellFunction 503 521	signaling pathways
+T41	CellFunction 834 847	remyelination
+T42	CellFunction 903 916	remyelination
+T43	CellFunction 1074 1087	remyelination
+T44	CellFunction 1058 1069	myelination
+T45	DiseaseOrSyndrome 676 678	MS
+T46	DiseaseOrSyndrome 681 683	MS
+T47	DiseaseOrSyndrome 1106 1108	MS
+T48	PathologicFunction 721 734	demyelination
+T49	TemporalConcept 239 245	stages
+T50	TemporalConcept 849 857	Recently
+T51	DiseaseOrSyndrome 1114 1136	pathological condition
+T52	ResearchActivity 962 977	clinical trials
+T53	TemporalConcept 1154 1161	chronic
+T54	Finding 190 225	morphological and molecular changes
+T55	CellFunction 255 274	lineage progression

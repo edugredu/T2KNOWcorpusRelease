@@ -1,0 +1,9 @@
+T0	HealthCareActivity 94 107	safety limits
+T1	BiomedicalOccupationOrDiscipline 161 174	public health
+T2	HealthCareActivity 161 174	public health
+T3	InjuryOrPoisoning 112 149	exposure to electromagnetic radiation
+T4	HealthCareRelatedOrganization 0 29	The World Health Organization
+T5	HealthCareRelatedOrganization 31 34	WHO
+T6	NaturalPhenomenonOrProcess 124 149	electromagnetic radiation
+T7	HealthCareRelatedOrganization 46 61	health agencies
+T8	HealthCareActivity 79 89	guidelines

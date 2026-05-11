@@ -1,0 +1,65 @@
+T0	PopulationGroup 150 164	elderly people
+T1	DiseaseOrSyndrome 367 381	overproduction
+T2	CellComponent 573 591	neuronal membranes
+T3	Chemical 597 624	polyunsaturated fatty acids
+T4	Chemical 626 630	PUFA
+T5	ClinicalAttribute 662 694	regiospecific oxygen consumption
+T6	HealthCareActivity 662 694	regiospecific oxygen consumption
+T7	BiologicFunction 721 740	antioxidant defense
+T8	CellOrMolecularDysfunction 742 758	Oxidative stress
+T9	CellFunction 742 758	Oxidative stress
+T10	CellOrMolecularDysfunction 760 762	OS
+T11	CellFunction 760 762	OS
+T12	Chemical 812 820	oxidants
+T13	BiologicallyActiveSubstance 812 820	oxidants
+T14	PharmacologicSubstance 812 820	oxidants
+T15	Finding 851 860	elevation
+T16	BiologicFunction 886 904	biological systems
+T17	CellFunction 1030 1050	cellular environment
+T18	CellOrMolecularDysfunction 1363 1365	OS
+T19	CellFunction 1363 1365	OS
+T20	CellOrMolecularDysfunction 531 547	oxidative damage
+T21	Cell 698 709	brain cells
+T22	DiseaseOrSyndrome 1148 1175	neurodegenerative disorders
+T23	Cell 80 87	neurons
+T24	Cell 510 517	neurons
+T25	DiseaseOrSyndrome 243 269	neurodegenerative disorder
+T26	Cell 573 581	neuronal
+T27	Finding 170 180	increasing
+T28	CellOrMolecularDysfunction 287 303	oxidative stress
+T29	CellOrMolecularDysfunction 1006 1022	oxidative stress
+T30	CellOrMolecularDysfunction 72 87	loss of neurons
+T31	PharmacologicSubstance 825 837	antioxidants
+T32	BiologicFunction 114 128	motor function
+T33	CellFunction 1348 1353	redox
+T34	CellComponent 582 591	membranes
+T35	CellOrMolecularDysfunction 794 837	imbalance between oxidants and antioxidants
+T36	DiseaseOrSyndrome 1378 1404	neurodegenerative diseases
+T37	OrganismAttribute 181 184	age
+T38	Finding 906 925	Increasing evidence
+T39	Finding 214 225	risk factor
+T40	DiseaseOrSyndrome 1236 1256	Huntington's disease
+T41	DiseaseOrSyndrome 1210 1229	Parkinson's disease
+T42	DiseaseOrSyndrome 1258 1260	HD
+T43	DiseaseOrSyndrome 1231 1233	PD
+T44	DiseaseOrSyndrome 1298 1301	ALS
+T45	DiseaseOrSyndrome 1267 1296	amyotrophic lateral sclerosis
+T46	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T47	CellOrMolecularDysfunction 308 325	neurodegeneration
+T48	CellOrMolecularDysfunction 467 484	neurodegeneration
+T49	DiseaseOrSyndrome 1184 1203	Alzheimer's disease
+T50	DiseaseOrSyndrome 1205 1207	AD
+T51	TemporalConcept 455 466	progressive
+T52	BiologicallyActiveSubstance 426 429	ROS
+T53	BiologicallyActiveSubstance 864 875	ROS/RNS/RSS
+T54	Chemical 426 429	ROS
+T55	Chemical 864 875	ROS/RNS/RSS
+T56	Chemical 430 433	RNS
+T57	BiologicallyActiveSubstance 430 433	RNS
+T58	BiologicallyActiveSubstance 434 437	RSS
+T59	Chemical 434 437	RSS
+T60	PathologicFunction 1080 1112	dysregulation of redox signaling
+T61	Chemical 385 424	reactive oxygen/nitrogen/sulfur species
+T62	BiologicallyActiveSubstance 385 424	reactive oxygen/nitrogen/sulfur species
+T63	Finding 716 740	weak antioxidant defense
+T64	CellOrMolecularDysfunction 947 977	dysfunction of redox signaling

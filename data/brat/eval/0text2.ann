@@ -1,0 +1,36 @@
+T0	CellFunction 75 94	survival of neurons
+T1	CellFunction 96 105	Mitophagy
+T2	CellFunction 111 128	metabolic process
+T3	CellFunction 425 445	mitophagy regulation
+T4	ResearchActivity 356 362	review
+T5	HealthCareActivity 356 362	review
+T6	DiseaseOrSyndrome 598 609	Parkinson's
+T7	DiseaseOrSyndrome 322 349	neurodegenerative disorders
+T8	DiseaseOrSyndrome 570 596	neurodegenerative diseases
+T9	DiseaseOrSyndrome 767 793	neurodegenerative diseases
+T10	TemporalConcept 476 482	recent
+T11	BiologicFunction 648 653	aging
+T12	CellFunction 648 653	aging
+T13	HealthCareActivity 743 752	treatment
+T14	ResearchActivity 743 752	treatment
+T15	DiseaseOrSyndrome 624 636	Huntington's
+T16	DiseaseOrSyndrome 611 622	Alzheimer's
+T17	PathologicFunction 548 560	pathogenesis
+T18	CellFunction 531 540	mitophagy
+T19	CellFunction 718 727	mitophagy
+T20	CellComponent 169 181	mitochondria
+T21	CellComponent 294 306	mitochondria
+T22	CellOrMolecularDysfunction 286 306	damaged mitochondria
+T23	CellComponent 206 219	mitochondrial
+T24	CellFunction 399 417	signaling pathways
+T25	CellFunction 374 394	molecular mechanisms
+T26	CellComponent 0 12	Mitochondria
+T27	Finding 483 491	advances
+T28	HealthCareActivity 701 714	interventions
+T29	HealthCareActivity 64 70	health
+T30	HealthCareActivity 220 226	health
+T31	HealthCareActivity 743 763	treatment strategies
+T32	ResearchActivity 743 763	treatment strategies
+T33	ResearchActivity 701 714	interventions
+T34	CellOrMolecularDysfunction 237 256	defective mitophagy
+T35	CellOrMolecularDysfunction 142 155;169 181	dysfunctional mitochondria

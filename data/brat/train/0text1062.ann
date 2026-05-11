@@ -1,0 +1,72 @@
+T0	DiseaseOrSyndrome 0 13	Down syndrome
+T1	DiseaseOrSyndrome 15 17	DS
+T2	DiseaseOrSyndrome 23 33	trisomy 21
+T3	CellOrMolecularDysfunction 23 33	trisomy 21
+T4	BiomedicalOccupationOrDiscipline 238 249	pathologies
+T5	Finding 1219 1228	untreated
+T6	DiseaseOrSyndrome 1305 1307	DS
+T7	CellFunction 918 928	cell death
+T8	CellFunction 1189 1199	cell death
+T9	DiseaseOrSyndrome 382 405	neurological conditions
+T10	Cell 735 765	induced pluripotent stem cells
+T11	Cell 767 772	iPSCs
+T12	BiologicFunction 849 861	neurogenesis
+T13	OrganismAttribute 1332 1342	phenotypes
+T14	PopulationGroup 795 803	controls
+T15	BiologicFunction 541 549	recovery
+T16	HealthCareActivity 541 549	recovery
+T17	TemporalConcept 541 549	recovery
+T18	AminoAcidPeptideOrProtein 948 960	amyloid beta
+T19	BodyPartOrganOrOrganComponent 578 586	cortical
+T20	CellComponent 309 331	extracellular vesicles
+T21	DiseaseOrSyndrome 157 176	Alzheimer's disease
+T22	CellComponent 333 336	EVs
+T23	CellComponent 500 503	EVs
+T24	CellComponent 509 512	EVs
+T25	CellComponent 660 663	EVs
+T26	CellComponent 1287 1290	EVs
+T27	DiseaseOrSyndrome 178 180	AD
+T28	DiseaseOrSyndrome 867 869	AD
+T29	DiseaseOrSyndrome 1312 1314	AD
+T30	CellComponent 1007 1009	EV
+T31	AminoAcidPeptideOrProtein 948 955	amyloid
+T32	BiologicallyActiveSubstance 948 955	amyloid
+T33	AminoAcidPeptideOrProtein 962 968	A beta
+T34	AminoAcidPeptideOrProtein 1138 1144	A beta
+T35	Cell 467 491	mesenchymal stromal cell
+T36	AminoAcidPeptideOrProtein 994 997	tau
+T37	AminoAcidPeptideOrProtein 1001 1004	tau
+T38	AminoAcidPeptideOrProtein 1149 1154	p-tau
+T39	Eukaryote 1375 1380	human
+T40	TemporalConcept 142 153	early onset
+T41	PatientOrDisabledGroup 719 726	patient
+T42	BiologicallyActiveSubstance 994 997	tau
+T43	BiologicallyActiveSubstance 1001 1004	tau
+T44	BiologicallyActiveSubstance 1149 1154	p-tau
+T45	Finding 1162 1171	reduction
+T46	NaturalPhenomenonOrProcess 1162 1171	reduction
+T47	TemporalConcept 350 358	recently
+T48	Cell 505 508	MSC
+T49	Cell 656 659	MSC
+T50	TemporalConcept 602 609	current
+T51	Cell 1095 1102	neurons
+T52	ResearchActivity 610 615	study
+T53	OrganismAttribute 833 837	size
+T54	OrganismAttribute 1053 1057	size
+T55	ResearchActivity 569 574	model
+T56	Cell 755 765	stem cells
+T58	Finding 443 463	therapeutic efficacy
+T59	Finding 1275 1283	efficacy
+T60	HealthCareActivity 200 210	treatments
+T61	ResearchActivity 200 210	treatments
+T62	HealthCareActivity 284 305	therapeutic potential
+T63	AminoAcidPeptideOrProtein 974 997	hyperphosphorylated tau
+T64	BiologicallyActiveSubstance 974 997	hyperphosphorylated tau
+T65	ClinicalAttribute 634 652	therapeutic effect
+T66	Finding 116 137	intellectual deficits
+T67	Eukaryote 555 568	rhesus monkey
+T68	ExperimentalModelOfDisease 555 593	rhesus monkey model of cortical injury
+T69	ExperimentalModelOfDisease 669 703	cortical spheroid (CS) model of DS
+T70	ExperimentalModelOfDisease 805 816	trisomic CS
+T71	ExperimentalModelOfDisease 1018 1029	trisomic CS
+T72	ExperimentalModelOfDisease 1229 1240	trisomic CS

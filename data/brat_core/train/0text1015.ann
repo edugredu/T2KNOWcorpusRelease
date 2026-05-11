@@ -1,0 +1,105 @@
+T0	TemporalConcept 54 65	early stage
+T1	Finding 87 91	task
+T2	ResearchActivity 718 725	RNA-seq
+T3	NucleicAcidNucleosideOrNucleotide 783 790	snoRNAs
+T4	NucleicAcidNucleosideOrNucleotide 869 876	snoRNAs
+T5	BiologicFunction 1365 1374	imprinted
+T6	CellFunction 206 220	phosphorylated
+T7	HealthCareActivity 814 820	report
+T8	ResearchActivity 814 820	report
+T9	NucleicAcidNucleosideOrNucleotide 605 611	ncRNAs
+T10	NucleicAcidNucleosideOrNucleotide 767 773	ncRNAs
+T11	ResearchActivity 336 342	search
+T12	HealthCareActivity 4 22	clinical diagnosis
+T13	PopulationGroup 697 705	controls
+T14	ResearchActivity 1119 1134	ddPCR technique
+T15	Finding 1275 1283	evidence
+T16	ResearchActivity 508 516	research
+T17	CellComponent 631 653	extracellular vesicles
+T18	DiseaseOrSyndrome 26 45	Alzheimer's disease
+T19	DiseaseOrSyndrome 274 276	AD
+T20	DiseaseOrSyndrome 505 507	AD
+T21	DiseaseOrSyndrome 662 664	AD
+T22	DiseaseOrSyndrome 881 883	AD
+T23	DiseaseOrSyndrome 1088 1090	AD
+T24	DiseaseOrSyndrome 1222 1224	AD
+T25	DiseaseOrSyndrome 1289 1291	AD
+T26	DiseaseOrSyndrome 1498 1500	AD
+T27	CellComponent 655 657	EV
+T28	CellComponent 1399 1401	EV
+T29	BodyPartOrganOrOrganComponent 228 231	CSF
+T30	BodyPartOrganOrOrganComponent 382 385	CSF
+T31	AminoAcidPeptideOrProtein 171 180	A beta 42
+T32	AminoAcidPeptideOrProtein 185 194	A beta 40
+T33	PatientOrDisabledGroup 665 673	patients
+T34	PatientOrDisabledGroup 1091 1099	patients
+T35	PathologicFunction 283 292	pathology
+T36	BiomedicalOccupationOrDiscipline 283 292	pathology
+T37	BiologicFunction 395 406	development
+T38	CellFunction 395 406	development
+T39	AminoAcidPeptideOrProtein 221 224	tau
+T40	BodyPartOrganOrOrganComponent 277 282	brain
+T41	ClinicalAttribute 249 259	biomarkers
+T42	ClinicalAttribute 356 366	biomarkers
+T43	ClinicalAttribute 1484 1494	biomarkers
+T44	NucleicAcidNucleosideOrNucleotide 775 781	miRNAs
+T45	BiologicallyActiveSubstance 775 781	miRNAs
+T46	Eukaryote 1010 1015	human
+T47	PopulationGroup 860 865	group
+T48	PopulationGroup 1079 1084	group
+T49	BiologicallyActiveSubstance 221 224	tau
+T50	NucleicAcidNucleosideOrNucleotide 589 603	noncoding RNAs
+T51	ResearchActivity 535 540	study
+T52	ResearchActivity 1261 1266	study
+T53	BodyPartOrganOrOrganComponent 616 622	plasma
+T54	BodyPartOrganOrOrganComponent 1046 1060	plasma samples
+T55	BodyPartOrganOrOrganComponent 1392 1398	plasma
+T56	BodyPartOrganOrOrganComponent 1477 1483	plasma
+T57	HealthCareActivity 93 122	Advanced imaging technologies
+T58	ResearchActivity 562 585	differential enrichment
+T59	ResearchActivity 835 845	enrichment
+T60	ResearchActivity 922 945	differential enrichment
+T61	ResearchActivity 1326 1336	enrichment
+T62	ClinicalAttribute 410 419	biomarker
+T63	Finding 1449 1457	validity
+T64	Finding 1067 1078	independent
+T65	AminoAcidPeptideOrProtein 155 170	A beta peptides
+T66	BiologicallyActiveSubstance 171 180	A beta 42
+T67	BiologicallyActiveSubstance 185 194	A beta 40
+T68	HealthCareActivity 312 330	diagnostic process
+T69	Substance 347 355	biofluid
+T70	ResearchActivity 420 426	assays
+T71	Finding 678 696	Cognitively Normal
+T72	PopulationGroup 707 709	NC
+T73	NucleicAcidNucleosideOrNucleotide 792 797	tRNAs
+T74	NucleicAcidNucleosideOrNucleotide 803 809	piRNAs
+T75	BiologicallyActiveSubstance 792 797	tRNAs
+T76	BiologicallyActiveSubstance 803 809	piRNAs
+T77	BiologicallyActiveSubstance 783 790	snoRNAs
+T78	NucleicAcidNucleosideOrNucleotide 849 855	SNORDs
+T79	BiologicallyActiveSubstance 849 855	SNORDs
+T80	BiologicallyActiveSubstance 869 876	snoRNAs
+T81	PopulationGroup 904 906	NC
+T82	NucleicAcidNucleosideOrNucleotide 965 971	SNORDs
+T83	BiologicallyActiveSubstance 965 971	SNORDs
+T84	BiologicallyActiveSubstance 974 982	SNORD115
+T85	NucleicAcidNucleosideOrNucleotide 974 982	SNORD115
+T86	NucleicAcidNucleosideOrNucleotide 987 995	SNORD116
+T87	BiologicallyActiveSubstance 987 995	SNORD116
+T88	CellComponent 1016 1036	chromosome 15q11-q13
+T89	PopulationGroup 1104 1106	NC
+T90	NucleicAcidNucleosideOrNucleotide 1150 1158	SNORD115
+T91	BiologicallyActiveSubstance 1150 1158	SNORD115
+T92	BiologicallyActiveSubstance 1163 1171	SNORD116
+T93	NucleicAcidNucleosideOrNucleotide 1163 1171	SNORD116
+T94	PopulationGroup 1238 1240	NC
+T95	NucleicAcidNucleosideOrNucleotide 1340 1346	SNORDs
+T96	BiologicallyActiveSubstance 1340 1346	SNORDs
+T97	BiologicallyActiveSubstance 1467 1473	SNORDs
+T98	NucleicAcidNucleosideOrNucleotide 1467 1473	SNORDs
+T99	GeneOrGenome 1375 1387	genomic loci
+T100	Substance 884 891	samples
+T101	BodyPartOrganOrOrganComponent 884 891	samples
+T102	BodyPartOrganOrOrganComponent 1225 1232	samples
+T103	Substance 1225 1232	samples
+T104	ResearchActivity 1179 1204	high discriminatory power

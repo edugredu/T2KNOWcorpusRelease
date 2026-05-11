@@ -1,0 +1,5 @@
+T0	DiseaseOrSyndrome 39 66	neurodegenerative disorders
+T1	Substance 105 114	molecules
+T2	PathologicFunction 0 17	Neuroinflammation
+T3	PathologicFunction 92 104	inflammatory
+T4	CellOrMolecularDysfunction 134 155	neuronal degeneration

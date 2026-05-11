@@ -1,0 +1,13 @@
+T0	DiseaseOrSyndrome 104 130	neurodegenerative disorder
+T1	HealthCareActivity 53 60	therapy
+T2	ResearchActivity 61 69	research
+T3	ResearchActivity 131 139	research
+T4	TemporalConcept 202 211	transient
+T5	CellFunction 212 227	gene expression
+T6	ResearchActivity 241 255	immunogenicity
+T7	GeneOrGenome 48 52	gene
+T8	Virus 152 156	AAVs
+T9	Virus 152 155	AAV
+T10	Virus 161 173	lentiviruses
+T11	Virus 0 12	Adenoviruses
+T12	Virus 14 26	Adenoviruses

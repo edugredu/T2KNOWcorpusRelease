@@ -1,0 +1,10 @@
+T0	DiseaseOrSyndrome 125 150	neurodegenerative disease
+T1	TemporalConcept 84 88	life
+T2	BiologicFunction 39 55	neurodevelopment
+T3	BiologicFunction 60 74	brain function
+T4	TemporalConcept 98 107	long-term
+T5	Finding 24 35	alterations
+T6	TemporalConcept 78 83	early
+T7	EnvironmentalEffectOfHumans 0 15	Water pollution
+T8	Finding 108 120	implications
+T9	Finding 151 165	susceptibility

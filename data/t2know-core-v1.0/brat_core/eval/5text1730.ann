@@ -1,0 +1,8 @@
+T0	PathologicFunction 119 128	pathology
+T1	BiomedicalOccupationOrDiscipline 119 128	pathology
+T2	BiologicFunction 47 60	understanding
+T3	DiseaseOrSyndrome 132 160	neurodegenerative conditions
+T4	Finding 80 91	propagation
+T5	AminoAcidPeptideOrProtein 61 66	prion
+T6	AminoAcidPeptideOrProtein 72 79	protein
+T7	Organism 19 43	Saccharomyces cerevisiae

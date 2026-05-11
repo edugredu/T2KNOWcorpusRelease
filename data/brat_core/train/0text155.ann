@@ -1,0 +1,76 @@
+T0	ResearchActivity 458 470	preservation
+T1	HealthCareActivity 458 470	preservation
+T2	Cell 529 550	multifunctional cells
+T3	DiseaseOrSyndrome 781 790	diseases'
+T4	Chemical 825 835	ingredient
+T5	PharmacologicSubstance 921 937	anticarcinogenic
+T6	PharmacologicSubstance 939 955	hepatoprotective
+T7	PharmacologicSubstance 977 993	cardioprotective
+T8	PharmacologicSubstance 1043 1058	chemopreventive
+T9	HealthCareActivity 1043 1058	chemopreventive
+T10	PharmacologicSubstance 1060 1076	chemotherapeutic
+T11	HealthCareActivity 1060 1076	chemotherapeutic
+T12	PharmacologicSubstance 1082 1097	anti-infectious
+T13	BiologicFunction 1156 1168	angiogenesis
+T14	Finding 1190 1208	pulmonary problems
+T15	PathologicFunction 1214 1238	neurological dysfunction
+T16	DiseaseOrSyndrome 1360 1378	multiple scleroses
+T17	CellOrMolecularDysfunction 130 148	Protein misfolding
+T18	CellComponent 36 41	axons
+T19	BiologicFunction 1011 1028	anti-inflammatory
+T20	PharmacologicSubstance 1011 1028	anti-inflammatory
+T21	Eukaryote 268 277	mammalian
+T22	BiologicFunction 474 491	brain homeostasis
+T23	Chemical 802 810	Curcumin
+T24	PharmacologicSubstance 802 810	Curcumin
+T25	PharmacologicSubstance 1030 1041	antioxidant
+T26	CellFunction 1030 1041	antioxidant
+T27	Chemical 719 727	curcumin
+T28	Chemical 1112 1120	curcumin
+T29	Chemical 1271 1279	curcumin
+T30	PharmacologicSubstance 719 727	curcumin
+T31	PharmacologicSubstance 1112 1120	curcumin
+T32	PharmacologicSubstance 1271 1279	curcumin
+T33	BiologicFunction 358 369	maintenance
+T34	TemporalConcept 579 584	onset
+T35	DiseaseOrSyndrome 1180 1188	diabetes
+T36	PathologicFunction 1134 1146	inflammation
+T37	HealthCareActivity 377 383	health
+T38	Finding 740 759	therapeutic effects
+T39	BodyPartOrganOrOrganComponent 309 314	brain
+T40	Cell 255 260	cells
+T41	HealthCareActivity 791 800	treatment
+T42	ResearchActivity 791 800	treatment
+T43	Cell 46 53	neurons
+T44	BodyPartOrganOrOrganComponent 61 83	central nervous system
+T45	BodyPartOrganOrOrganComponent 85 88	CNS
+T46	BodyPartOrganOrOrganComponent 278 281	CNS
+T47	BodyPartOrganOrOrganComponent 412 415	CNS
+T48	Cell 1283 1293	astrocytes
+T49	Cell 221 231	Astrocytes
+T50	Cell 417 427	Astrocytes
+T51	TemporalConcept 691 696	years
+T52	Eukaryote 303 308	human
+T53	PathologicFunction 589 600	progression
+T54	TemporalConcept 589 600	progression
+T55	DiseaseOrSyndrome 124 127	NDs
+T56	DiseaseOrSyndrome 216 219	NDs
+T57	DiseaseOrSyndrome 612 615	NDs
+T58	DiseaseOrSyndrome 671 674	NDs
+T59	DiseaseOrSyndrome 1297 1300	NDs
+T60	DiseaseOrSyndrome 96 122	neurodegenerative diseases
+T61	DiseaseOrSyndrome 1380 1400	Huntington's disease
+T62	DiseaseOrSyndrome 1339 1358	Parkinson's disease
+T63	DiseaseOrSyndrome 1406 1435	amyotrophic lateral sclerosis
+T64	DiseaseOrSyndrome 1318 1337	Alzheimer's disease
+T65	ResearchActivity 1249 1255	review
+T66	HealthCareActivity 1249 1255	review
+T67	ResearchActivity 662 667	study
+T68	CellOrMolecularDysfunction 28 41	loss of axons
+T69	Finding 12 23	abnormality
+T70	TemporalConcept 0 11	Progressive
+T71	CellOrMolecularDysfunction 28 32;46 53	loss neurons
+T72	Chemical 847 861	turmeric spice
+T73	PharmacologicSubstance 847 861	turmeric spice
+T74	PharmacologicSubstance 957 975	thrombosuppressive
+T75	PharmacologicSubstance 995 1009	anti-arthritic

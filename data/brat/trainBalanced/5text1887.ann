@@ -1,0 +1,6 @@
+T0	CellOrMolecularDysfunction 23 40	neurodegeneration
+T1	Cell 106 114	cellular
+T2	BiologicallyActiveSubstance 67 90	reactive oxygen species
+T3	Chemical 67 90	reactive oxygen species
+T4	InjuryOrPoisoning 115 121	damage
+T5	Bacterium 0 11	Spirochetes

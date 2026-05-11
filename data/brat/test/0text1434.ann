@@ -1,0 +1,111 @@
+T0	BiologicFunction 124 132;95 106	cascades neuroimmune
+T1	ResearchActivity 488 506	case-control study
+T2	Finding 618 627	remission
+T3	HealthCareActivity 651 668	medical treatment
+T4	HealthCareActivity 709 717;748 758	Clinical evaluation
+T5	Finding 999 1008	remission
+T6	Finding 1443 1452	remission
+T7	BiologicFunction 1604 1613	Attention
+T8	BiologicallyActiveSubstance 1671 1693	neuroprotective factor
+T9	DiseaseOrSyndrome 956 958	MS
+T10	DiseaseOrSyndrome 1114 1116	MS
+T11	DiseaseOrSyndrome 1432 1434	MS
+T12	DiseaseOrSyndrome 1744 1746	MS
+T13	DiseaseOrSyndrome 1698 1716	multiple sclerosis
+T14	BodyPartOrganOrOrganComponent 1252 1266	infratentorial
+T15	HealthCareActivity 447 463	disease activity
+T16	TemporalConcept 600 607	relapse
+T17	TemporalConcept 971 978	relapse
+T18	TemporalConcept 1172 1179	relapse
+T19	TemporalConcept 1457 1464	relapse
+T20	TemporalConcept 1589 1596	relapse
+T21	Finding 600 607	relapse
+T22	Finding 971 978	relapse
+T23	Finding 1172 1179	relapse
+T24	Finding 1457 1464	relapse
+T25	Finding 1589 1596	relapse
+T26	PopulationGroup 684 694	volunteers
+T27	ResearchActivity 879 903	sandwich-ELISA technique
+T28	DiseaseOrSyndrome 270 291	neurological diseases
+T29	ClinicalAttribute 468 476	severity
+T30	Finding 468 476	severity
+T31	InjuryOrPoisoning 1267 1274	lesions
+T32	ResearchActivity 894 903	technique
+T33	BodyPartOrganOrOrganComponent 221 226	serum
+T34	BodyPartOrganOrOrganComponent 337 342	serum
+T35	BodyPartOrganOrOrganComponent 856 861	serum
+T36	BodyPartOrganOrOrganComponent 1649 1654	serum
+T37	AminoAcidPeptideOrProtein 11 44	Brain-derived neurotrophic factor
+T38	AminoAcidPeptideOrProtein 46 50	BDNF
+T39	AminoAcidPeptideOrProtein 236 240	BDNF
+T40	AminoAcidPeptideOrProtein 352 356	BDNF
+T41	AminoAcidPeptideOrProtein 438 442	BDNF
+T42	AminoAcidPeptideOrProtein 871 875	BDNF
+T43	AminoAcidPeptideOrProtein 917 921	BDNF
+T44	AminoAcidPeptideOrProtein 1147 1151	BDNF
+T45	AminoAcidPeptideOrProtein 1279 1283	BDNF
+T46	AminoAcidPeptideOrProtein 1376 1380	BDNF
+T47	AminoAcidPeptideOrProtein 1501 1505	BDNF
+T48	AminoAcidPeptideOrProtein 1655 1659	BDNF
+T49	BiologicallyActiveSubstance 46 50	BDNF
+T50	BiologicallyActiveSubstance 236 240	BDNF
+T51	BiologicallyActiveSubstance 352 356	BDNF
+T52	BiologicallyActiveSubstance 438 442	BDNF
+T53	BiologicallyActiveSubstance 871 875	BDNF
+T54	BiologicallyActiveSubstance 917 921	BDNF
+T55	BiologicallyActiveSubstance 1147 1151	BDNF
+T56	BiologicallyActiveSubstance 1279 1283	BDNF
+T57	BiologicallyActiveSubstance 1376 1380	BDNF
+T58	BiologicallyActiveSubstance 1501 1505	BDNF
+T59	BiologicallyActiveSubstance 1655 1659	BDNF
+T60	BiologicallyActiveSubstance 11 44	Brain-derived neurotrophic factor
+T61	DiseaseOrSyndrome 374 412	relapsing-remitting multiple sclerosis
+T62	DiseaseOrSyndrome 554 592	relapsing-remitting multiple sclerosis
+T63	DiseaseOrSyndrome 1534 1572	relapsing-remitting multiple sclerosis
+T64	OrganismAttribute 1127 1142	characteristics
+T65	ClinicalAttribute 1730 1739	biomarker
+T66	PopulationGroup 811 819	controls
+T67	PatientOrDisabledGroup 360 368	patients
+T68	PatientOrDisabledGroup 540 548	patients
+T69	PatientOrDisabledGroup 776 784	patients
+T70	PatientOrDisabledGroup 798 806	patients
+T71	PatientOrDisabledGroup 959 967	patients
+T72	PatientOrDisabledGroup 987 995	patients
+T73	PatientOrDisabledGroup 1117 1125	patients
+T74	PatientOrDisabledGroup 1390 1398	patients
+T75	PatientOrDisabledGroup 1573 1581	patients
+T76	Cell 165 173	neuronal
+T77	OrganismAttribute 676 683	healthy
+T78	PharmacologicSubstance 1422 1427	drugs
+T79	Cell 67 79	immune cells
+T80	HealthCareActivity 838 848	assessment
+T81	ResearchActivity 838 848	assessment
+T82	ManufacturedObject 488 492	case
+T83	PopulationGroup 493 500	control
+T84	PopulationGroup 700 707	control
+T85	ResearchActivity 905 912	Results
+T86	PopulationGroup 1465 1471	groups
+T87	TemporalConcept 1597 1602	phase
+T88	TemporalConcept 1768 1774	future
+T89	PopulationGroup 1045 1050	group
+T90	PopulationGroup 1180 1185	group
+T91	PopulationGroup 527 535	subjects
+T92	HealthCareActivity 735 758	radiological evaluation
+T93	CellComponent 154 160	axonal
+T94	BiologicFunction 111 132	inflammatory cascades
+T95	InjuryOrPoisoning 174 180	damage
+T96	ClinicalAttribute 221 240	serum level of BDNF
+T97	ClinicalAttribute 337 356	serum level of BDNF
+T98	ClinicalAttribute 856 875	serum level of BDNF
+T99	ResearchActivity 1010 1017	P value
+T100	Finding 1035 1044	remission
+T101	ResearchActivity 1077 1095	linear correlation
+T102	ResearchActivity 1198 1216	linear correlation
+T103	ClinicalAttribute 1249 1274	T2 infratentorial lesions
+T104	Finding 1324 1363	no statistically significant difference
+T105	ClinicalAttribute 1649 1665	serum BDNF level
+T106	ResearchActivity 1473 1480	P value
+T107	ClinicalAttribute 1147 1157	BDNF level
+T108	ClinicalAttribute 1279 1289	BDNF level
+T109	ClinicalAttribute 1376 1386	BDNF level
+T110	ClinicalAttribute 917 927	BDNF level

@@ -1,0 +1,95 @@
+T0	BodyPartOrganOrOrganComponent 165 178	visual system
+T1	HealthCareActivity 695 703	Delivery
+T2	BiologicFunction 695 703	Delivery
+T3	Substance 710 717	inducer
+T4	InjuryOrPoisoning 784 790	trauma
+T5	HealthCareActivity 829 839	assessment
+T6	ResearchActivity 829 839	assessment
+T7	HealthCareActivity 935 944	induction
+T8	Finding 980 984	lost
+T9	BodyPartOrganOrOrganComponent 1111 1116	nerve
+T10	BiologicFunction 1374 1381	recover
+T11	HealthCareActivity 1374 1381	recover
+T12	PathologicFunction 1622 1643	immune responsiveness
+T13	OrganismAttribute 358 368	small size
+T14	BodyPartOrganOrOrganComponent 507 513	retina
+T15	Cell 507 513	retina
+T16	InjuryOrPoisoning 657 678	demyelinating lesions
+T17	Finding 634 642	invasive
+T18	HealthCareActivity 405 415	injections
+T19	BodyPartOrganOrOrganComponent 4 15	optic nerve
+T20	BodyPartOrganOrOrganComponent 245 256	optic nerve
+T21	BodyPartOrganOrOrganComponent 682 693	optic nerve
+T22	BodyPartOrganOrOrganComponent 798 809	optic nerve
+T23	BodyPartOrganOrOrganComponent 1302 1313	optic nerve
+T24	BodyPartOrganOrOrganComponent 1557 1568	optic nerve
+T25	Cell 461 477	oligodendrocytes
+T26	Cell 959 975	oligodendrocytes
+T27	Cell 1012 1028	oligodendrocytes
+T28	Cell 1543 1547	OPCs
+T29	PathologicFunction 205 218	demyelinating
+T30	PathologicFunction 657 670	demyelinating
+T31	BodyPartOrganOrOrganComponent 1143 1149	myelin
+T32	BodyPartOrganOrOrganComponent 1417 1423	myelin
+T33	InjuryOrPoisoning 671 678	lesions
+T34	InjuryOrPoisoning 1454 1461	lesions
+T35	InjuryOrPoisoning 1569 1576	lesions
+T36	Cell 580 603	mature oligodendrocytes
+T37	TemporalConcept 1616 1621	early
+T38	Cell 1256 1282	oligodendrocyte precursors
+T39	Cell 120 125	glial
+T40	CellFunction 120 137	glial development
+T41	TemporalConcept 1397 1407	persistent
+T42	CellOrMolecularDysfunction 1004 1028	loss of oligodendrocytes
+T43	BodyPartOrganOrOrganComponent 62 65	CNS
+T44	BodyPartOrganOrOrganComponent 1194 1197	CNS
+T45	BiologicFunction 126 137	development
+T46	CellFunction 126 137	development
+T47	Finding 630 642	non-invasive
+T48	ResearchActivity 260 265	model
+T49	ResearchActivity 535 540	model
+T50	ResearchActivity 1664 1669	model
+T51	Cell 1071 1080	astrocyte
+T52	CellFunction 567 576	apoptosis
+T53	CellFunction 737 746	apoptosis
+T54	CellFunction 948 957	apoptosis
+T55	CellFunction 1355 1364	apoptosis
+T56	Eukaryote 1187 1193	murine
+T57	BiologicFunction 859 864	death
+T58	PathologicFunction 859 864	death
+T59	CellFunction 859 864	death
+T60	TemporalConcept 1435 1439	time
+T61	BiologicFunction 103 116	understanding
+T62	Cell 1469 1477	cellular
+T63	TemporalConcept 182 192	frequently
+T64	Cell 721 736	oligodendrocyte
+T65	Cell 843 858	oligodendrocyte
+T66	Cell 1339 1354	oligodendrocyte
+T67	Cell 1528 1538	astrocytes
+T68	InjuryOrPoisoning 883 889	injury
+T69	CellFunction 280 293	remyelination
+T70	CellFunction 1287 1300	remyelination
+T71	CellFunction 142 153	myelination
+T72	CellFunction 482 493	myelination
+T73	PathologicFunction 266 279	demyelination
+T74	PathologicFunction 1211 1224	demyelination
+T75	PathologicFunction 1314 1327	demyelination
+T76	PathologicFunction 1681 1694	demyelination
+T77	TemporalConcept 994 998	days
+T78	TemporalConcept 643 653	generation
+T79	Cell 1056 1066	microglial
+T80	AminoAcidPeptideOrProtein 1522 1526	GFAP
+T81	BiologicallyActiveSubstance 1522 1526	GFAP
+T82	GeneOrGenome 1522 1526	GFAP
+T83	HealthCareActivity 750 773	intravitreous injection
+T84	BiologicFunction 1585 1591	repair
+T85	HealthCareActivity 1585 1591	repair
+T86	TemporalConcept 1446 1453	chronic
+T87	TemporalConcept 1673 1680	chronic
+T88	Eukaryote 501 506	mouse
+T89	CellOrMolecularDysfunction 1417 1428	myelin loss
+T90	CellOrMolecularDysfunction 1143 1154	myelin loss
+T91	DiseaseOrSyndrome 205 229	demyelinating conditions
+T92	ResearchActivity 294 301	studies
+T93	Finding 554 563	induction
+T94	Finding 872 879	absence

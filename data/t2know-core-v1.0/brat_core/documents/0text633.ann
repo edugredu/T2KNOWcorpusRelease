@@ -1,0 +1,92 @@
+T0	Finding 34 45	impairments
+T1	BodyPartOrganOrOrganComponent 102 122	cerebral vasculature
+T2	BiologicallyActiveSubstance 335 338	CO2
+T3	Chemical 335 338	CO2
+T4	Finding 353 364	conjunction
+T5	HealthCareActivity 409 413	fMRI
+T6	Finding 505 516	impairments
+T7	DiseaseOrSyndrome 583 598	pre-symptomatic
+T8	Chemical 672 683	gas mixture
+T9	Substance 672 683	gas mixture
+T10	BiologicallyActiveSubstance 717 720	CO2
+T11	Chemical 717 720	CO2
+T12	BiologicallyActiveSubstance 767 770	CO2
+T13	Chemical 767 770	CO2
+T14	TemporalConcept 872 883	time series
+T15	ResearchActivity 872 883	time series
+T16	HealthCareActivity 896 900	BOLD
+T17	ClinicalAttribute 917 927	Delta BOLD
+T18	Finding 971 985	response delay
+T19	TemporalConcept 1094 1105	time series
+T20	BodyPartOrganOrOrganComponent 1340 1347;1359 1373	rostral middle frontal
+T21	BodyPartOrganOrOrganComponent 1375 1382	insular
+T22	BodyPartOrganOrOrganComponent 1384 1399	middle temporal
+T23	BodyPartOrganOrOrganComponent 1405 1430	posterior cingulate areas
+T24	Finding 1463 1470	dilated
+T25	BodyPartOrganOrOrganComponent 1491 1494	PVS
+T26	ResearchActivity 198 205	Studies
+T27	BodyPartOrganOrOrganComponent 1247 1262	corpus callosum
+T28	BodyPartOrganOrOrganComponent 1541 1550	periphery
+T29	BodyPartOrganOrOrganComponent 1352 1373	caudal middle frontal
+T30	PatientOrDisabledGroup 1159 1170	HD subjects
+T31	BodyPartOrganOrOrganComponent 1199 1210	subcortical
+T32	BodyPartOrganOrOrganComponent 1264 1275	subcortical
+T33	PopulationGroup 214 233	healthy individuals
+T34	Finding 9 28	increasing evidence
+T35	BiomedicalOccupationOrDiscipline 1773 1787	neuropathology
+T36	PathologicFunction 1773 1787	neuropathology
+T37	HealthCareActivity 370 407	functional magnetic resonance imaging
+T38	BodyPartOrganOrOrganComponent 1211 1223	white matter
+T39	BodyPartOrganOrOrganComponent 1276 1288	white matter
+T40	PopulationGroup 1162 1170	subjects
+T41	SignOrSymptom 587 598	symptomatic
+T42	SignOrSymptom 609 620	symptomatic
+T43	HealthCareActivity 340 349	challenge
+T44	PopulationGroup 222 233	individuals
+T45	PopulationGroup 555 566	individuals
+T46	Finding 9 19	increasing
+T47	OrganismAttribute 1041 1044	age
+T48	Finding 20 28	evidence
+T49	OrganismAttribute 214 221	healthy
+T50	OrganismAttribute 635 642	healthy
+T51	ResearchActivity 791 817	Hilbert Transform analysis
+T52	PopulationGroup 635 651	healthy controls
+T53	TemporalConcept 872 876	time
+T54	PatientOrDisabledGroup 248 256	patients
+T55	DiseaseOrSyndrome 171 191	Huntington's disease
+T56	DiseaseOrSyndrome 193 195	HD
+T57	DiseaseOrSyndrome 527 529	HD
+T58	DiseaseOrSyndrome 552 554	HD
+T59	DiseaseOrSyndrome 621 623	HD
+T60	DiseaseOrSyndrome 1701 1703	HD
+T61	DiseaseOrSyndrome 1791 1793	HD
+T62	ResearchActivity 476 481	study
+T63	PopulationGroup 1179 1187	controls
+T64	DiseaseOrSyndrome 268 295	neurodegenerative disorders
+T65	ResearchActivity 842 859	cross-correlation
+T66	ResearchActivity 1064 1081	cross-correlation
+T67	BiologicFunction 49 73	cerebrovascular function
+T68	PathologicFunction 81 122	abnormalities of the cerebral vasculature
+T69	CellOrMolecularDysfunction 149 167	neuronal cell loss
+T70	Chemical 319 333	carbon dioxide
+T71	BiologicallyActiveSubstance 319 333	carbon dioxide
+T72	BiologicFunction 434 460	cerebrovascular reactivity
+T73	BiologicFunction 462 465	CVR
+T74	BiologicFunction 520 523	CVR
+T75	TemporalConcept 603 608	early
+T76	NaturalPhenomenonOrProcess 747 763	partial pressure
+T77	BodyPartOrganOrOrganComponent 1313 1338	caudal anterior cingulate
+T78	BodyPartOrganOrOrganComponent 1301 1308;1320 1338	rostral anterior cingulate
+T79	BodyPartOrganOrOrganComponent 1471 1489	perivascular space
+T80	BiologicFunction 1667 1691	cerebrovascular function
+T81	TemporalConcept 1767 1772	early
+T82	ResearchActivity 901 915	signal changes
+T83	ClinicalAttribute 737 770	end-tidal partial pressure of CO2
+T84	ClinicalAttribute 772 778	PETCO2
+T85	ClinicalAttribute 943 949	PETCO2
+T86	ClinicalAttribute 989 999	Delta BOLD
+T87	ClinicalAttribute 1012 1018	PETCO2
+T88	ClinicalAttribute 1119 1129	Delta BOLD
+T89	ClinicalAttribute 1138 1144	PETCO2
+T90	ClinicalAttribute 1587 1597	Delta BOLD
+T91	Finding 1598 1612	response delay

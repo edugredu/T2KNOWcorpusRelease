@@ -1,0 +1,18 @@
+T0	DiseaseOrSyndrome 22 47	neurodegenerative disease
+T1	CellOrMolecularDysfunction 134 168	CAG trinucleotide repeat expansion
+T2	GeneOrGenome 176 191	huntingtin gene
+T3	HealthCareActivity 217 227	treatments
+T4	ResearchActivity 217 227	treatments
+T5	HealthCareActivity 235 253	symptom management
+T6	ResearchActivity 317 330	Investigation
+T7	NucleicAcidNucleosideOrNucleotide 334 337	RNA
+T8	CellComponent 195 207	chromosome 4
+T9	DiseaseOrSyndrome 65 117	progressive motor, behavioral, and cognitive decline
+T10	DiseaseOrSyndrome 0 18	Huntington disease
+T11	HealthCareActivity 358 367	treatment
+T12	ResearchActivity 358 367	treatment
+T13	TemporalConcept 209 216	Current
+T14	NucleicAcidNucleosideOrNucleotide 348 351	DNA
+T15	HealthCareActivity 428 453	disease-modifying therapy
+T16	TemporalConcept 421 427	future
+T17	HealthCareActivity 275 302	disease-modifying therapies

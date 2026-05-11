@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 140 167	neurodegenerative disorders
+T1	PharmacologicSubstance 40 57	therapeutic cargo
+T2	CellFunction 89 116	intercellular communication
+T3	CellComponent 22 30	exosomes
+T4	CellFunction 121 136	neuroprotection
+T5	Virus 0 10	Lentivirus

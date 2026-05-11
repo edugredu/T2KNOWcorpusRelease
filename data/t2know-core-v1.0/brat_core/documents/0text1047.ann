@@ -1,0 +1,69 @@
+T0	BiologicFunction 420 429	excretion
+T1	PopulationGroup 639 650	neighboring
+T2	DiseaseOrSyndrome 696 731	genetic neurodegenerative disorders
+T3	AminoAcidPeptideOrProtein 825 835	glutamines
+T4	Finding 1256 1275	disease aggravation
+T5	AminoAcidPeptideOrProtein 1373 1386	polyglutamine
+T6	DiseaseOrSyndrome 864 886	Machado-Joseph disease
+T7	CellOrMolecularDysfunction 776 785	misfolded
+T8	CellOrMolecularDysfunction 919 928	misfolded
+T9	AminoAcidPeptideOrProtein 658 671	Polyglutamine
+T10	Finding 42 66	spreading of the disease
+T11	CellComponent 339 369	cell membrane-derived vesicles
+T12	CellComponent 236 258	extracellular vesicles
+T13	CellComponent 464 486	extracellular vesicles
+T14	CellComponent 1428 1450	extracellular vesicles
+T15	DiseaseOrSyndrome 193 212	Alzheimer's disease
+T16	OrganismAttribute 541 548	healthy
+T17	ResearchActivity 7 15	research
+T18	PathologicFunction 1072 1081	pathology
+T19	BiomedicalOccupationOrDiscipline 1072 1081	pathology
+T20	BiologicFunction 1130 1141	development
+T21	CellFunction 1130 1141	development
+T22	PathologicFunction 1082 1093	progression
+T23	PathologicFunction 1194 1205	progression
+T24	TemporalConcept 1082 1093	progression
+T25	TemporalConcept 1194 1205	progression
+T26	Cell 379 384	cells
+T27	Cell 550 555	cells
+T28	Cell 651 656	cells
+T29	CellComponent 312 334	Extracellular vesicles
+T30	Finding 753 765	accumulation
+T31	DiseaseOrSyndrome 141 167	neurodegenerative diseases
+T32	ResearchActivity 1300 1306	review
+T33	HealthCareActivity 1300 1306	review
+T34	InjuryOrPoisoning 433 438	toxic
+T35	InjuryOrPoisoning 1235 1240	toxic
+T36	TemporalConcept 0 6	Recent
+T37	AminoAcidPeptideOrProtein 75 83	proteins
+T38	AminoAcidPeptideOrProtein 786 794	proteins
+T39	AminoAcidPeptideOrProtein 929 937	proteins
+T40	BiologicFunction 994 1007	understanding
+T41	CellFunction 389 415	cell-to-cell communication
+T42	CellFunction 582 590	pathways
+T43	PathologicFunction 1186 1205	disease progression
+T44	Substance 509 518	molecules
+T45	HealthCareActivity 402 415	communication
+T46	CellFunction 402 415	communication
+T47	CellComponent 439 449	components
+T48	CellComponent 1241 1251	components
+T49	CellFunction 397 415	cell communication
+T50	NucleicAcidNucleosideOrNucleotide 966 970	mRNA
+T51	DiseaseOrSyndrome 704 731	neurodegenerative disorders
+T52	CellOrMolecularDysfunction 769 775	mutant
+T53	CellOrMolecularDysfunction 959 965	mutant
+T54	CellOrMolecularDysfunction 776 794	misfolded proteins
+T55	CellOrMolecularDysfunction 919 937	misfolded proteins
+T56	DiseaseOrSyndrome 177 188	Parkinson's
+T57	BodyPartOrganOrOrganComponent 118 131	brain regions
+T58	BiologicallyActiveSubstance 966 970	mRNA
+T59	HealthCareActivity 1155 1177	therapeutic approaches
+T60	PathologicFunction 618 635	disease spreading
+T61	PathologicFunction 496 508	pathological
+T62	DiseaseOrSyndrome 658 680	Polyglutamine diseases
+T63	CellOrMolecularDysfunction 807 835	expanded tract of glutamines
+T64	DiseaseOrSyndrome 847 859	Huntington's
+T65	PathologicFunction 892 911	pathological spread
+T66	PathologicFunction 1015 1042	disease-spreading mechanism
+T67	PathologicFunction 1327 1355	disease-spreading mechanisms
+T68	DiseaseOrSyndrome 1373 1395	polyglutamine diseases

@@ -1,0 +1,41 @@
+T0	DiseaseOrSyndrome 31 40	heritable
+T1	DiseaseOrSyndrome 51 76	neurodegenerative disease
+T2	SignOrSymptom 126 151	neuropsychiatric symptoms
+T3	SignOrSymptom 242 254	irritability
+T4	SignOrSymptom 336 343	symptom
+T5	ResearchActivity 358 364	burden
+T6	Finding 397 420	jeopardizing employment
+T7	SignOrSymptom 475 487	irritability
+T8	Finding 598 606	severity
+T9	PatientOrDisabledGroup 669 688	individuals with HD
+T10	SignOrSymptom 706 718	irritability
+T11	PharmacologicSubstance 752 776	psychotropic medications
+T12	PharmacologicSubstance 788 803	antidepressants
+T13	PharmacologicSubstance 808 822	antipsychotics
+T14	HealthCareActivity 836 845	therapies
+T15	Finding 852 858	relief
+T16	PopulationGroup 862 873	individuals
+T17	DiseaseOrSyndrome 874 883	suffering
+T18	SignOrSymptom 889 901	irritability
+T19	SignOrSymptom 956 968	irritability
+T20	HealthCareActivity 1017 1027	treatments
+T21	ResearchActivity 1017 1027	treatments
+T22	SignOrSymptom 1082 1089	symptom
+T23	PharmacologicSubstance 1184 1195	medications
+T24	SignOrSymptom 1227 1252	neuropsychiatric symptoms
+T25	DiseaseOrSyndrome 191 218	neuropsychiatric alteration
+T26	PatientOrDisabledGroup 222 238	HD gene carriers
+T27	DiseaseOrSyndrome 22 24	HD
+T28	DiseaseOrSyndrome 368 370	HD
+T29	DiseaseOrSyndrome 491 493	HD
+T30	DiseaseOrSyndrome 686 688	HD
+T31	DiseaseOrSyndrome 905 907	HD
+T32	DiseaseOrSyndrome 987 989	HD
+T33	DiseaseOrSyndrome 0 20	Huntington's disease
+T34	PathologicFunction 611 622	progression
+T35	TemporalConcept 611 622	progression
+T36	ResearchActivity 949 955	review
+T37	HealthCareActivity 949 955	review
+T38	DiseaseOrSyndrome 286 330	abrupt and unpredictable outbursts of anger.
+T39	Finding 425 464	straining familial or caregiver support
+T40	HealthCareActivity 514 558	administration of standardized rating scales

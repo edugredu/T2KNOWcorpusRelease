@@ -1,0 +1,121 @@
+T0	AnatomicalAbnormality 132 146	senile plaques
+T1	AminoAcidPeptideOrProtein 157 177	beta-amyloid protein
+T2	Cell 289 299	glial cell
+T3	NucleicAcidNucleosideOrNucleotide 313 327	Noncoding RNAs
+T4	NucleicAcidNucleosideOrNucleotide 470 483	Circular RNAs
+T5	NucleicAcidNucleosideOrNucleotide 485 493	circRNAs
+T6	NucleicAcidNucleosideOrNucleotide 554 558	MREs
+T7	NucleicAcidNucleosideOrNucleotide 699 707	circRNAs
+T8	ResearchActivity 849 867	expression profile
+T9	TemporalConcept 975 986	preliminary
+T10	NucleicAcidNucleosideOrNucleotide 1091 1099	circRNAs
+T11	GeneOrGenome 1173 1177	MAPT
+T12	GeneOrGenome 1182 1187	AP2M1
+T13	NucleicAcidNucleosideOrNucleotide 1329 1337	circRNAs
+T14	NucleicAcidNucleosideOrNucleotide 1429 1437	circRNAs
+T15	CellFunction 1563 1577	down-regulated
+T16	NucleicAcidNucleosideOrNucleotide 1578 1585	circRNA
+T17	GeneOrGenome 1715 1720	AP2M1
+T18	ResearchActivity 813 816	GEO
+T19	ResearchActivity 788 811	Gene Expression Omnibus
+T20	NucleicAcidNucleosideOrNucleotide 444 450	ncRNAs
+T21	NucleicAcidNucleosideOrNucleotide 1916 1922	ncRNAs
+T22	NucleicAcidNucleosideOrNucleotide 684 697	circular RNAs
+T23	NucleicAcidNucleosideOrNucleotide 1442 1447	mRNAs
+T24	ResearchActivity 818 826	database
+T25	ResearchActivity 1359 1367	database
+T26	DiseaseOrSyndrome 42 62	neurological disease
+T27	CellFunction 514 521	binding
+T28	ResearchActivity 1296 1316	cox regression model
+T29	DiseaseOrSyndrome 100 109	illnesses
+T30	NucleicAcidNucleosideOrNucleotide 508 513	miRNA
+T31	NucleicAcidNucleosideOrNucleotide 529 534	miRNA
+T32	NucleicAcidNucleosideOrNucleotide 578 583	miRNA
+T33	NucleicAcidNucleosideOrNucleotide 1843 1848	miRNA
+T34	BiologicallyActiveSubstance 508 513	miRNA
+T35	BiologicallyActiveSubstance 535 552	response elements
+T36	BiologicallyActiveSubstance 578 583	miRNA
+T37	BiologicallyActiveSubstance 1843 1848	miRNA
+T38	HealthCareActivity 1263 1272	prognosis
+T39	PathologicFunction 368 383	pathophysiology
+T40	BiomedicalOccupationOrDiscipline 368 383	pathophysiology
+T41	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T42	DiseaseOrSyndrome 735 754	Alzheimer's disease
+T43	DiseaseOrSyndrome 871 890	Alzheimer's disease
+T44	DiseaseOrSyndrome 1734 1753	Alzheimer's disease
+T45	DiseaseOrSyndrome 1878 1897	Alzheimer's disease
+T46	DiseaseOrSyndrome 21 23	AD
+T47	DiseaseOrSyndrome 756 758	AD
+T48	BiologicallyActiveSubstance 157 177	beta-amyloid protein
+T49	CellOrMolecularDysfunction 190 213	neurofibrillary tangles
+T50	CellComponent 190 205	neurofibrillary
+T51	BiologicFunction 1814 1827	understanding
+T52	PatientOrDisabledGroup 891 899	patients
+T53	BiologicFunction 1994 2005	development
+T54	CellFunction 1994 2005	development
+T55	ClinicalAttribute 772 782	biomarkers
+T56	ClinicalAttribute 1953 1963	biomarkers
+T57	NucleicAcidNucleosideOrNucleotide 724 730	miRNAs
+T58	NucleicAcidNucleosideOrNucleotide 1046 1052	miRNAs
+T59	NucleicAcidNucleosideOrNucleotide 1243 1249	miRNAs
+T60	NucleicAcidNucleosideOrNucleotide 1648 1654	miRNAs
+T61	BiologicallyActiveSubstance 724 730	miRNAs
+T62	BiologicallyActiveSubstance 1046 1052	miRNAs
+T63	BiologicallyActiveSubstance 1243 1249	miRNAs
+T64	BiologicallyActiveSubstance 1648 1654	miRNAs
+T65	ResearchActivity 407 411	data
+T66	ResearchActivity 987 991	data
+T67	ResearchActivity 1484 1510	clinical data verification
+T68	ResearchActivity 1468 1479	GO analysis
+T69	NucleicAcidNucleosideOrNucleotide 1709 1713	mRNA
+T70	NucleicAcidNucleosideOrNucleotide 1849 1853	mRNA
+T71	PharmacologicSubstance 2021 2026	drugs
+T72	ResearchActivity 651 656	study
+T73	PathologicFunction 1746 1763	disease pathology
+T74	CellComponent 118 131	extracellular
+T75	NucleicAcidNucleosideOrNucleotide 713 722	microRNAs
+T76	BiologicallyActiveSubstance 713 722	microRNAs
+T77	ResearchActivity 860 867	profile
+T78	TemporalConcept 30 41	progressive
+T79	Finding 1029 1040	differences
+T80	Finding 1070 1081	differences
+T81	Finding 1117 1128	differences
+T82	NucleicAcidNucleosideOrNucleotide 1403 1406	RNA
+T83	NucleicAcidNucleosideOrNucleotide 323 327	RNAs
+T84	NucleicAcidNucleosideOrNucleotide 595 620	competing endogenous RNAs
+T85	NucleicAcidNucleosideOrNucleotide 693 697	RNAs
+T86	AminoAcidPeptideOrProtein 224 235	tau protein
+T87	BiologicallyActiveSubstance 224 235	tau protein
+T88	Finding 91 99	hallmark
+T89	CellFunction 1415 1423	networks
+T90	TemporalConcept 81 85	time
+T91	ResearchActivity 901 908	GSE5281
+T92	ResearchActivity 910 919	GSE122603
+T93	ResearchActivity 921 929	GSE97760
+T94	ResearchActivity 931 940	GSE150693
+T95	ResearchActivity 942 949	GSE1297
+T96	ResearchActivity 955 964	GSE161435
+T97	NucleicAcidNucleosideOrNucleotide 1380 1406	competitive endogenous RNA
+T98	BiologicallyActiveSubstance 1380 1406	competitive endogenous RNA
+T99	BiologicallyActiveSubstance 1408 1413	ceRNA
+T100	NucleicAcidNucleosideOrNucleotide 1408 1413	ceRNA
+T101	BiologicallyActiveSubstance 1442 1447	mRNAs
+T102	CellFunction 1684 1694	expression
+T103	NucleicAcidNucleosideOrNucleotide 1835 1842	circRNA
+T104	BiologicallyActiveSubstance 1849 1853	mRNA
+T105	DiseaseOrSyndrome 2009 2020	Alzheimer's
+T106	MachineActivity 1212 1238	mediation center algorithm
+T107	CellFunction 157 188	beta-amyloid protein deposition
+T108	CellOrMolecularDysfunction 224 256	tau protein hyperphosphorylation
+T109	CellOrMolecularDysfunction 262 275	neuronal loss
+T110	CellOrMolecularDysfunction 289 311	glial cell hyperplasia
+T111	BiologicallyActiveSubstance 529 534	miRNA
+T112	NucleicAcidNucleosideOrNucleotide 535 552	response elements
+T113	BiologicallyActiveSubstance 554 558	MREs
+T114	BiologicallyActiveSubstance 595 620	competing endogenous RNAs
+T115	BiologicallyActiveSubstance 622 628	ceRNAs
+T116	NucleicAcidNucleosideOrNucleotide 622 628	ceRNAs
+T117	NucleicAcidNucleosideOrNucleotide 1587 1602	has_circ_002048
+T118	AminoAcidPeptideOrProtein 1715 1720	AP2M1
+T119	BiologicallyActiveSubstance 1715 1720	AP2M1
+T120	CellFunction 1625 1635	expression

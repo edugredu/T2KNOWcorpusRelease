@@ -1,0 +1,6 @@
+T0	BodyPartOrganOrOrganComponent 58 63	brain
+T1	DiseaseOrSyndrome 146 165	Alzheimer's disease
+T2	Finding 87 98	involvement
+T3	OrganismAttribute 4 11	ability
+T4	PathologicFunction 106 123	neuroinflammatory
+T5	Bacterium 15 28	P. gingivalis

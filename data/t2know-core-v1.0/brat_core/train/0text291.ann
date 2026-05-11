@@ -1,0 +1,58 @@
+T0	CellComponent 245 258	intracellular
+T1	CellComponent 276 286	inclusions
+T2	BodyPartOrganOrOrganComponent 426 437	body fluids
+T3	BodyPartOrganOrOrganComponent 453 458	urine
+T4	InjuryOrPoisoning 538 543	toxic
+T5	BodyPartOrganOrOrganComponent 826 845	blood-brain barrier
+T6	Finding 880 887	sources
+T7	AminoAcidPeptideOrProtein 154 158	mHTT
+T8	AminoAcidPeptideOrProtein 259 263	mHTT
+T9	AminoAcidPeptideOrProtein 655 659	mHTT
+T10	CellOrMolecularDysfunction 154 158	mHTT
+T11	CellOrMolecularDysfunction 259 263	mHTT
+T12	CellOrMolecularDysfunction 655 659	mHTT
+T13	Cell 379 389	cell types
+T14	CellFunction 47 65	autosomal dominant
+T15	CellFunction 57 65	dominant
+T16	CellOrMolecularDysfunction 127 152	mutant huntingtin protein
+T17	BodyPartOrganOrOrganComponent 917 926	periphery
+T18	CellComponent 302 310	Exosomes
+T19	CellComponent 493 501	Exosomes
+T20	CellComponent 719 727	exosomes
+T21	CellComponent 847 855	exosomes
+T22	CellComponent 1037 1045	exosomes
+T23	HealthCareActivity 930 954	carriers of therapeutics
+T24	CellFunction 36 46	hereditary
+T25	AminoAcidPeptideOrProtein 187 204	glutamine repeats
+T26	CellOrMolecularDysfunction 544 562	misfolded proteins
+T27	Finding 806 816	capability
+T28	HealthCareActivity 1066 1075	diagnosis
+T29	CellComponent 321 343	extracellular vesicles
+T30	PathologicFunction 1052 1064	pathogenesis
+T31	BodyPartOrganOrOrganComponent 446 451	blood
+T32	CellComponent 315 343	small extracellular vesicles
+T33	Finding 755 778	neuroprotective effects
+T34	BodyPartOrganOrOrganComponent 460 466	saliva
+T35	Substance 740 749	molecules
+T36	BodyPartOrganOrOrganComponent 295 300	brain
+T37	BodyPartOrganOrOrganComponent 574 596	central nervous system
+T38	BodyPartOrganOrOrganComponent 964 986	central nervous system
+T39	ResearchActivity 678 686	in vitro
+T40	ResearchActivity 691 698	in vivo
+T41	DiseaseOrSyndrome 600 626	neurodegenerative diseases
+T42	DiseaseOrSyndrome 0 20	Huntington's disease
+T43	DiseaseOrSyndrome 22 24	HD
+T44	DiseaseOrSyndrome 631 633	HD
+T45	DiseaseOrSyndrome 1049 1051	HD
+T46	HealthCareActivity 1081 1088	therapy
+T47	ResearchActivity 996 1002	review
+T48	HealthCareActivity 996 1002	review
+T49	AminoAcidPeptideOrProtein 127 152	mutant huntingtin protein
+T50	ClinicalAttribute 891 901	biomarkers
+T51	BodyPartOrganOrOrganComponent 472 491	cerebrospinal fluid
+T52	DiseaseOrSyndrome 66 92	neurodegenerative disorder
+T53	TemporalConcept 31 35	rare
+T54	AminoAcidPeptideOrProtein 212 222	N terminus
+T55	CellFunction 113 123	expression
+T56	CellOrMolecularDysfunction 245 274	intracellular mHTT aggregates
+T57	PathologicFunction 640 659	propagation of mHTT

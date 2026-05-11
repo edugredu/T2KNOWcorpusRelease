@@ -1,0 +1,38 @@
+T0	NucleicAcidNucleosideOrNucleotide 110 143	nicotinamide adenine dinucleotide
+T1	PharmacologicSubstance 110 143	nicotinamide adenine dinucleotide
+T2	NucleicAcidNucleosideOrNucleotide 267 288	nicotinamide riboside
+T3	BiologicallyActiveSubstance 290 292	NR
+T4	NucleicAcidNucleosideOrNucleotide 290 292	NR
+T5	NucleicAcidNucleosideOrNucleotide 316 332	NAD(+) precursor
+T6	AminoAcidPeptideOrProtein 418 427	Sirtuin 3
+T7	BiologicallyActiveSubstance 418 427	Sirtuin 3
+T8	CellFunction 492 506	ROS production
+T9	BiologicFunction 524 537	bioenergetics
+T10	Finding 538 546	deficits
+T11	NucleicAcidNucleosideOrNucleotide 612 616	NAD+
+T12	BiologicallyActiveSubstance 612 616	NAD+
+T13	PharmacologicSubstance 631 647	PARPs inhibitors
+T14	ResearchActivity 8 14	review
+T15	HealthCareActivity 8 14	review
+T16	DiseaseOrSyndrome 694 696	HD
+T17	DiseaseOrSyndrome 708 736	neurodegenerative conditions
+T18	CellFunction 457 479	mitochondrial function
+T19	Finding 72 95	neuroprotective effects
+T20	CellFunction 399 406	pathway
+T21	HealthCareActivity 654 681	clinical therapeutic option
+T22	BiologicallyActiveSubstance 492 495	ROS
+T23	Chemical 492 495	ROS
+T24	ResearchActivity 43 64	published information
+T25	BiologicallyActiveSubstance 110 143	nicotinamide adenine dinucleotide
+T26	ExperimentalModelOfDisease 163 190	Huntington's disease models
+T27	PharmacologicSubstance 145 148	NAD
+T28	NucleicAcidNucleosideOrNucleotide 145 148	NAD
+T29	BiologicallyActiveSubstance 145 148	NAD
+T30	Finding 220 249	potential therapeutic benefit
+T31	BiologicallyActiveSubstance 267 288	nicotinamide riboside
+T32	Finding 349 365	agonistic effect
+T33	PharmacologicSubstance 612 616	NAD+
+T34	AminoAcidPeptideOrProtein 373 381	Sirtuin1
+T35	BiologicallyActiveSubstance 373 381	Sirtuin1
+T36	AminoAcidPeptideOrProtein 382 398	PGC-1 alpha-PPAR
+T37	GeneOrGenome 382 398	PGC-1 alpha-PPAR

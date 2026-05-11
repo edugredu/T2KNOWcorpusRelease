@@ -1,0 +1,1 @@
+Adenoviruses: Adenoviruses are commonly used in gene therapy research but are less commonly employed in neurodegenerative disorder research compared to AAVs and lentiviruses. They are more suitable for transient gene expression due to their immunogenicity.

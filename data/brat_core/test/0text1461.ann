@@ -1,0 +1,91 @@
+T0	Finding 55 73	minimally invasive
+T1	BodyPartOrganOrOrganComponent 587 606	blood serum samples
+T2	TemporalConcept 1384 1393	incipient
+T3	BodyPartOrganOrOrganComponent 587 598	blood serum
+T4	HealthCareRelatedOrganization 174 177	lab
+T5	BiologicFunction 1405 1416	prospective
+T6	AminoAcidPeptideOrProtein 958 963	T-tau
+T7	BiologicallyActiveSubstance 958 963	T-tau
+T8	ClinicalAttribute 305 319	disease stages
+T9	ResearchActivity 765 770	ELISA
+T10	TemporalConcept 153 161	Previous
+T11	AminoAcidPeptideOrProtein 937 946	A beta 42
+T12	AminoAcidPeptideOrProtein 1144 1153	A beta 42
+T13	BiologicallyActiveSubstance 937 946	A beta 42
+T14	BiologicallyActiveSubstance 1144 1153	A beta 42
+T15	BodyPartOrganOrOrganComponent 1155 1160	Blood
+T16	Finding 776 795	diagnostic accuracy
+T17	Finding 977 996	diagnostic accuracy
+T18	ResearchActivity 1417 1427	validation
+T19	ResearchActivity 877 880	ROC
+T20	TemporalConcept 1285 1290	first
+T21	BodyPartOrganOrOrganComponent 593 598	serum
+T22	BodyPartOrganOrOrganComponent 730 735	serum
+T23	AminoAcidPeptideOrProtein 948 953	P-tau
+T24	BiologicallyActiveSubstance 948 953	P-tau
+T25	DiseaseOrSyndrome 127 146	Alzheimer's disease
+T26	BodyPartOrganOrOrganComponent 410 413	CSF
+T27	BodyPartOrganOrOrganComponent 576 579	CSF
+T28	BodyPartOrganOrOrganComponent 719 722	CSF
+T29	BodyPartOrganOrOrganComponent 807 810	CSF
+T30	BodyPartOrganOrOrganComponent 917 920	CSF
+T31	BodyPartOrganOrOrganComponent 1000 1003	CSF
+T32	BodyPartOrganOrOrganComponent 1037 1040	CSF
+T33	BodyPartOrganOrOrganComponent 1140 1143	CSF
+T34	BodyPartOrganOrOrganComponent 1356 1359	CSF
+T35	DiseaseOrSyndrome 148 150	AD
+T36	DiseaseOrSyndrome 434 436	AD
+T37	DiseaseOrSyndrome 480 482	AD
+T38	DiseaseOrSyndrome 660 662	AD
+T39	DiseaseOrSyndrome 683 685	AD
+T40	DiseaseOrSyndrome 1056 1058	AD
+T41	DiseaseOrSyndrome 1246 1248	AD
+T42	DiseaseOrSyndrome 1394 1396	AD
+T43	ClinicalAttribute 1370 1379	biomarker
+T44	BodyPartOrganOrOrganComponent 389 408	cerebrospinal fluid
+T45	PopulationGroup 694 702	controls
+T46	PatientOrDisabledGroup 641 649	patients
+T47	ResearchActivity 1060 1080	area under the curve
+T48	BodyPartOrganOrOrganComponent 284 289	brain
+T49	ResearchActivity 536 564	clinical and laboratory data
+T50	PopulationGroup 614 626	participants
+T51	ResearchActivity 1428 1435	studies
+T52	ClinicalAttribute 93 103	biomarkers
+T53	ClinicalAttribute 926 936	biomarkers
+T54	ClinicalAttribute 1041 1051	biomarkers
+T55	ResearchActivity 337 342	study
+T56	ResearchActivity 500 534	multi-centre trans-sectional study
+T57	ResearchActivity 1291 1296	study
+T58	DiseaseOrSyndrome 468 471	MCI
+T59	DiseaseOrSyndrome 672 675	MCI
+T60	DiseaseOrSyndrome 1108 1111	MCI
+T61	DiseaseOrSyndrome 1207 1210	MCI
+T62	Finding 787 795	accuracy
+T63	ManufacturedObject 1100 1104	case
+T64	BodyPartOrganOrOrganComponent 419 424	blood
+T65	BodyPartOrganOrOrganComponent 815 820	blood
+T66	BodyPartOrganOrOrganComponent 1346 1351	blood
+T67	Finding 363 385	diagnostic performance
+T68	ResearchActivity 965 972	Results
+T69	ResearchActivity 842 875;882 890	receiver operating characteristic analyses
+T70	DiseaseOrSyndrome 441 466	mild cognitive impairment
+T71	Eukaryote 278 283	human
+T72	Finding 655 659	mild
+T73	HealthCareActivity 776 786	diagnostic
+T74	ResearchActivity 1082 1085	AUC
+T75	ResearchActivity 1113 1116	AUC
+T76	ResearchActivity 1212 1215	AUC
+T77	ResearchActivity 1250 1253	AUC
+T78	HealthCareActivity 108 123	early diagnosis
+T79	AminoAcidPeptideOrProtein 193 205	Kallikrein-8
+T80	BiologicallyActiveSubstance 193 205	Kallikrein-8
+T81	AminoAcidPeptideOrProtein 207 211	KLK8
+T82	BiologicallyActiveSubstance 207 211	KLK8
+T83	GeneOrGenome 207 211	KLK8
+T84	ClinicalAttribute 419 429	blood KLK8
+T85	ClinicalAttribute 730 747	serum KLK8 levels
+T86	ClinicalAttribute 719 722;736 747	CSF KLK8 levels
+T87	ClinicalAttribute 1000 1008	CSF KLK8
+T88	ClinicalAttribute 1140 1153	CSF A beta 42
+T89	ClinicalAttribute 1155 1165	Blood KLK8
+T90	ClinicalAttribute 1356 1364	CSF KLK8

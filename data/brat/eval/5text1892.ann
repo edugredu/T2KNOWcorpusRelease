@@ -1,0 +1,6 @@
+T0	AminoAcidPeptideOrProtein 84 92	proteins
+T1	Organism 79 83	host
+T2	PathologicFunction 154 166	autoimmunity
+T3	Bacterium 55 65	spirochete
+T4	BiologicFunction 0 13	Understanding
+T5	CellFunction 18 46	molecular mimicry mechanisms

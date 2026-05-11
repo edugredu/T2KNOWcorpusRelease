@@ -1,0 +1,11 @@
+T0	DiseaseOrSyndrome 122 128	cancer
+T1	BodyPartOrganOrOrganComponent 8 12	skin
+T2	BodyPartOrganOrOrganComponent 117 121	skin
+T3	TemporalConcept 35 41	annual
+T4	HealthCareActivity 84 99	early detection
+T5	NaturalPhenomenonOrProcess 139 151	UV radiation
+T6	HealthCareActivity 13 30	self-examinations
+T7	HealthCareActivity 42 51	check-ups
+T8	HealthCareActivity 104 113	treatment
+T9	ResearchActivity 104 113	treatment
+T10	HealthCareActivity 59 72	dermatologist

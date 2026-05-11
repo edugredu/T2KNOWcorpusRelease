@@ -1,0 +1,105 @@
+T0	AminoAcidPeptideOrProtein 50 53	MIF
+T1	GeneOrGenome 50 53	MIF
+T2	AminoAcidPeptideOrProtein 77 85	cytokine
+T3	BiologicallyActiveSubstance 77 85	cytokine
+T4	PathologicFunction 87 107	Chronic inflammation
+T5	AminoAcidPeptideOrProtein 119 135	amyloid proteins
+T6	ResearchActivity 231 243	Western blot
+T7	Chemical 364 367	MTT
+T8	InjuryOrPoisoning 408 421	neurotoxicity
+T9	ResearchActivity 431 453	Morris Water Maze test
+T10	BiologicFunction 483 501	cognitive function
+T11	AminoAcidPeptideOrProtein 632 635	MIF
+T12	GeneOrGenome 632 635	MIF
+T13	AminoAcidPeptideOrProtein 809 812	MIF
+T14	GeneOrGenome 809 812	MIF
+T15	AminoAcidPeptideOrProtein 875 878	MIF
+T16	GeneOrGenome 875 878	MIF
+T17	AminoAcidPeptideOrProtein 996 999	MIF
+T18	GeneOrGenome 996 999	MIF
+T19	Cell 1017 1024	Neurons
+T20	CellFunction 1073 1082	secretion
+T21	AminoAcidPeptideOrProtein 1086 1089	MIF
+T22	GeneOrGenome 1086 1089	MIF
+T23	HealthCareActivity 1095 1106	stimulation
+T24	NaturalPhenomenonOrProcess 1095 1106	stimulation
+T25	AminoAcidPeptideOrProtein 1154 1157	MIF
+T26	GeneOrGenome 1154 1157	MIF
+T27	AminoAcidPeptideOrProtein 1281 1284	MIF
+T28	GeneOrGenome 1281 1284	MIF
+T29	BiologicFunction 1345 1363	cognitive function
+T30	AminoAcidPeptideOrProtein 1385 1388	MIF
+T31	GeneOrGenome 1385 1388	MIF
+T32	Cell 1036 1047	glial cells
+T33	DiseaseOrSyndrome 737 746	suffering
+T34	BiologicFunction 833 852	learning and memory
+T35	CellFunction 21 30	migration
+T36	Eukaryote 522 537	transgenic mice
+T37	ResearchActivity 522 537	transgenic mice
+T38	Cell 1182 1196	neuronal cells
+T39	BiologicFunction 1300 1317	defense mechanism
+T40	PathologicFunction 60 76	pro-inflammatory
+T41	BodyPartOrganOrOrganComponent 349 362	brain tissues
+T42	Cell 1036 1041	glial
+T43	DiseaseOrSyndrome 186 205	Alzheimer's disease
+T44	PatientOrDisabledGroup 595 603	patients
+T45	PatientOrDisabledGroup 696 704	patients
+T46	PatientOrDisabledGroup 728 736	patients
+T47	BodyPartOrganOrOrganComponent 341 344	CSF
+T48	AminoAcidPeptideOrProtein 119 126	amyloid
+T49	BiologicallyActiveSubstance 119 126	amyloid
+T50	DiseaseOrSyndrome 207 209	AD
+T51	DiseaseOrSyndrome 592 594	AD
+T52	DiseaseOrSyndrome 608 610	AD
+T53	DiseaseOrSyndrome 693 695	AD
+T54	DiseaseOrSyndrome 860 862	AD
+T55	DiseaseOrSyndrome 1367 1369	AD
+T56	DiseaseOrSyndrome 1416 1418	AD
+T57	ClinicalAttribute 1419 1428	biomarker
+T58	DiseaseOrSyndrome 791 799	dementia
+T59	BiologicFunction 833 841	learning
+T60	ResearchActivity 1239 1244	study
+T61	BodyPartOrganOrOrganComponent 211 216	brain
+T62	BodyPartOrganOrOrganComponent 583 588	brain
+T63	ResearchActivity 611 616	model
+T64	ResearchActivity 863 868	model
+T65	BodyPartOrganOrOrganComponent 670 689	cerebrospinal fluid
+T66	Finding 1136 1157	overexpression of MIF
+T67	Eukaryote 533 537	mice
+T68	Eukaryote 617 621	mice
+T69	Eukaryote 869 873	mice
+T70	PathologicFunction 95 107	inflammation
+T71	BodyPartOrganOrOrganComponent 782 790	vascular
+T72	AminoAcidPeptideOrProtein 127 135	proteins
+T73	DiseaseOrSyndrome 757 777	cognitive impairment
+T74	DiseaseOrSyndrome 752 777	mild cognitive impairment
+T75	Substance 684 689	fluid
+T76	ResearchActivity 249 286	immunohistochemical staining analysis
+T77	Cell 1182 1190	neuronal
+T78	CellFunction 1259 1277	neuronal secretion
+T79	DiseaseOrSyndrome 782 799	vascular dementia
+T80	Cell 929 938	microglia
+T81	BiologicFunction 846 852	memory
+T82	Cell 10 20	Macrophage
+T83	AminoAcidPeptideOrProtein 10 48	Macrophage migration inhibitory factor
+T84	BiologicallyActiveSubstance 10 48	Macrophage migration inhibitory factor
+T85	ResearchActivity 224 229	Elisa
+T86	ClinicalAttribute 317 344	level of MIF protein in CSF
+T87	ResearchActivity 372 382	LDH assays
+T88	ResearchActivity 364 367;376 382	MTT assays
+T89	ExperimentalModelOfDisease 509 537	MIF+/-/APP23 transgenic mice
+T90	AminoAcidPeptideOrProtein 545 548	MIF
+T91	BiologicallyActiveSubstance 50 53	MIF
+T92	Finding 623 649	Elevated MIF concentration
+T93	BiologicallyActiveSubstance 809 812	MIF
+T94	BiologicallyActiveSubstance 875 878	MIF
+T95	ResearchActivity 944 957	binding assay
+T96	BiologicallyActiveSubstance 996 999	MIF
+T97	AminoAcidPeptideOrProtein 1006 1015	oligomers
+T98	AminoAcidPeptideOrProtein 1112 1121	oligomers
+T99	InjuryOrPoisoning 1212 1224	cytotoxicity
+T100	BiologicallyActiveSubstance 1281 1284	MIF
+T101	BiologicallyActiveSubstance 1385 1388	MIF
+T102	ClinicalAttribute 1385 1394	MIF level
+T103	BiologicallyActiveSubstance 1154 1157	MIF
+T104	BiologicallyActiveSubstance 632 635	MIF

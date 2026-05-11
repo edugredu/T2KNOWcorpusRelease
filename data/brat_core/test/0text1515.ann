@@ -1,0 +1,80 @@
+T0	Finding 185 197	asymptomatic
+T1	HealthCareActivity 491 501	volumetric
+T2	ResearchActivity 630 639	normative
+T3	PathologicFunction 697 708	Progression
+T4	AminoAcidPeptideOrProtein 876 893	apolipoprotein E4
+T5	BiologicallyActiveSubstance 876 893	apolipoprotein E4
+T6	GeneOrGenome 876 893	apolipoprotein E4
+T7	HealthCareActivity 1438 1447	diagnoses
+T8	Finding 1479 1491	asymptomatic
+T9	PopulationGroup 1506 1518	Older adults
+T10	Finding 1741 1753	asymptomatic
+T11	HealthCareActivity 129 136	testing
+T12	Finding 502 513	differences
+T13	DiseaseOrSyndrome 382 401	Alzheimer's disease
+T14	ClinicalAttribute 433 443	biomarkers
+T15	ClinicalAttribute 1069 1079	biomarkers
+T16	ClinicalAttribute 1459 1469	biomarkers
+T17	AminoAcidPeptideOrProtein 1081 1093	amyloid-beta
+T18	BodyPartOrganOrOrganComponent 428 431	CSF
+T19	BodyPartOrganOrOrganComponent 1065 1068	CSF
+T20	BodyPartOrganOrOrganComponent 1455 1458	CSF
+T21	ResearchActivity 805 812	Results
+T22	OrganismAttribute 855 858	age
+T23	DiseaseOrSyndrome 403 405	AD
+T24	DiseaseOrSyndrome 1452 1454	AD
+T25	DiseaseOrSyndrome 1719 1721	AD
+T26	DiseaseOrSyndrome 458 466	dementia
+T27	DiseaseOrSyndrome 712 720	dementia
+T28	DiseaseOrSyndrome 976 984	dementia
+T29	PopulationGroup 1268 1280	participants
+T30	PopulationGroup 677 683	adults
+T31	PopulationGroup 1498 1504	adults
+T32	PopulationGroup 1512 1518	adults
+T33	ResearchActivity 553 570	Regression models
+T34	ResearchActivity 817 838	Cox regression models
+T35	BodyPartOrganOrOrganComponent 485 490	brain
+T36	TemporalConcept 671 676	older
+T37	TemporalConcept 1492 1497	older
+T38	BodyPartOrganOrOrganComponent 407 426	cerebrospinal fluid
+T39	PopulationGroup 198 209	individuals
+T40	PopulationGroup 1754 1765	individuals
+T41	DiseaseOrSyndrome 164 181	cognitive changes
+T42	AminoAcidPeptideOrProtein 1095 1113	phosphorylated tau
+T43	HealthCareActivity 899 927	baseline cognitive diagnosis
+T44	HealthCareActivity 1327 1349	Longitudinal diagnosis
+T45	HealthCareActivity 726 735	follow-up
+T46	TemporalConcept 726 735	follow-up
+T47	BiologicallyActiveSubstance 1095 1113	phosphorylated tau
+T48	ResearchActivity 545 551	Method
+T49	BiomedicalOccupationOrDiscipline 865 874	education
+T50	HealthCareActivity 756 765	diagnosed
+T51	OrganismAttribute 860 863	sex
+T52	Finding 1400 1408	accuracy
+T53	DiseaseOrSyndrome 36 56	cognitive impairment
+T54	ResearchActivity 1722 1737	clinical trials
+T55	HealthCareActivity 1629 1663	Longitudinal diagnostic approaches
+T56	ResearchActivity 1175 1207	Voxel-based morphometry analysis
+T57	PopulationGroup 671 683	older adults
+T58	PopulationGroup 1492 1504	older adults
+T59	AminoAcidPeptideOrProtein 1115 1124	total tau
+T60	BiologicallyActiveSubstance 1115 1124	total tau
+T61	ClinicalAttribute 1603 1627	hippocampal brain volume
+T62	HealthCareActivity 793 803	assessment
+T63	ResearchActivity 793 803	assessment
+T64	TemporalConcept 744 750	months
+T65	ClinicalAttribute 1615 1627	brain volume
+T66	HealthCareActivity 14 32	clinical diagnosis
+T67	PathologicFunction 144 153	sensitive
+T68	Finding 271 289	prognostic utility
+T69	PathologicFunction 305 344	longitudinal neuropsychological decline
+T70	HealthCareActivity 363 377	cognitive exam
+T71	PathologicFunction 591 617	neuropsychological decline
+T72	PathologicFunction 929 955	neuropsychological decline
+T73	ClinicalAttribute 1226 1237;1258 1264	hippocampal volume
+T74	ClinicalAttribute 1242 1264	medial temporal volume
+T75	PathologicFunction 1286 1312	neuropsychological decline
+T76	PathologicFunction 1353 1379	neuropsychological decline
+T77	HealthCareActivity 1416 1437	single cognitive exam
+T78	PathologicFunction 1540 1566	neuropsychological decline
+T79	ClinicalAttribute 1583 1598;1615 1627	medial temporal brain volume

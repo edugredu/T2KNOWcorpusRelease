@@ -1,0 +1,122 @@
+T0	HealthCareActivity 294 305	replacement
+T1	ResearchActivity 294 305	replacement
+T2	Finding 309 313	lost
+T3	Chemical 613 626	Teriflunomide
+T4	HealthCareActivity 650 670	first-line treatment
+T5	TemporalConcept 685 694	remitting
+T6	Chemical 751 761	pyrimidine
+T7	NucleicAcidNucleosideOrNucleotide 751 761	pyrimidine
+T8	Chemical 967 980	teriflunomide
+T9	Chemical 1128 1141	Teriflunomide
+T10	Chemical 1463 1476	teriflunomide
+T11	Chemical 1646 1659	teriflunomide
+T12	Chemical 1760 1770	pyrimidine
+T13	NucleicAcidNucleosideOrNucleotide 1760 1770	pyrimidine
+T14	Finding 130 149	clinical unmet need
+T15	CellFunction 1058 1076	cellular processes
+T16	TemporalConcept 675 684	relapsing
+T17	CellComponent 1937 1942	axons
+T18	Cell 314 330	oligodendrocytes
+T19	Cell 1584 1600	oligodendrocytes
+T20	Cell 518 522	OPCs
+T21	DiseaseOrSyndrome 56 78	demyelinating diseases
+T22	BiologicFunction 1035 1045	maturation
+T23	BiologicFunction 1245 1255	maturation
+T24	PathologicFunction 56 69	demyelinating
+T25	DiseaseOrSyndrome 87 105	multiple sclerosis
+T26	BodyPartOrganOrOrganComponent 24 30	myelin
+T27	BodyPartOrganOrOrganComponent 335 341	myelin
+T28	BodyPartOrganOrOrganComponent 891 897	myelin
+T29	BodyPartOrganOrOrganComponent 1091 1097	myelin
+T30	BodyPartOrganOrOrganComponent 1507 1513	myelin
+T31	BodyPartOrganOrOrganComponent 1620 1626	myelin
+T32	BodyPartOrganOrOrganComponent 1895 1901	myelin
+T33	CellFunction 456 471	differentiation
+T34	BiologicFunction 247 259	regeneration
+T35	CellComponent 335 349	myelin sheaths
+T36	CellComponent 1620 1634	myelin sheaths
+T37	Cell 501 516	precursor cells
+T38	CellComponent 1373 1377	axon
+T39	IndividualBehavior 1274 1283	integrity
+T40	CellComponent 1260 1273	mitochondrial
+T41	PathologicFunction 1948 1960	degeneration
+T42	Finding 537 547	efficiency
+T43	Chemical 924 933	cuprizone
+T44	HealthCareActivity 247 259	regeneration
+T45	BiologicFunction 762 771	synthesis
+T46	BiologicFunction 1771 1780	synthesis
+T47	PopulationGroup 475 483	resident
+T48	TemporalConcept 1454 1462	constant
+T49	CellFunction 24 37	myelin repair
+T50	CellFunction 891 904	myelin repair
+T51	CellFunction 1091 1104	myelin repair
+T52	CellFunction 1507 1520	myelin repair
+T53	CellFunction 1895 1908	myelin repair
+T54	Cell 1700 1722	oligodendroglial cells
+T55	Cell 484 516	oligodendroglial precursor cells
+T56	Cell 484 500	oligodendroglial
+T57	Cell 1002 1018	oligodendroglial
+T58	Cell 1228 1244	oligodendroglial
+T59	Cell 1793 1809	oligodendroglial
+T60	ClinicalAttribute 1207 1214	markers
+T61	ResearchActivity 845 850	study
+T62	ResearchActivity 1431 1438	Results
+T63	PathologicFunction 590 601	progression
+T64	TemporalConcept 590 601	progression
+T65	TemporalConcept 650 655	first
+T66	ResearchActivity 961 966	model
+T67	ResearchActivity 1540 1545	model
+T68	Finding 785 802	cytostatic effect
+T69	CellFunction 1310 1325	gene expression
+T70	HealthCareActivity 661 670	treatment
+T71	HealthCareActivity 1477 1486	treatment
+T72	ResearchActivity 661 670	treatment
+T73	ResearchActivity 1477 1486	treatment
+T74	ResearchActivity 1110 1118	analyzed
+T75	Cell 806 838	proliferating lymphocyte subsets
+T76	ResearchActivity 1411 1430	electron microscopy
+T77	CellFunction 729 739	inhibition
+T78	CellFunction 1781 1791	inhibition
+T79	BiologicFunction 1822 1833	maintenance
+T80	BiologicFunction 1019 1030	homeostasis
+T81	ResearchActivity 1119 1126	in vivo
+T82	Cell 1058 1066	cellular
+T83	PathologicFunction 582 601	disease progression
+T84	ResearchActivity 1330 1358	immunohistochemical analyses
+T85	CellFunction 393 417	Endogenous remyelination
+T86	CellFunction 947 960	remyelination
+T87	CellFunction 1378 1389	myelination
+T88	DiseaseOrSyndrome 107 109	MS
+T89	DiseaseOrSyndrome 675 697	relapsing remitting MS
+T90	Finding 991 998	effects
+T91	BiologicFunction 606 611	aging
+T92	CellFunction 606 611	aging
+T93	TemporalConcept 1570 1580	generation
+T94	BiologicFunction 31 37	repair
+T95	BiologicFunction 898 904	repair
+T96	BiologicFunction 1098 1104	repair
+T97	BiologicFunction 1514 1520	repair
+T98	BiologicFunction 1902 1908	repair
+T99	HealthCareActivity 31 37	repair
+T100	HealthCareActivity 898 904	repair
+T101	HealthCareActivity 1098 1104	repair
+T102	HealthCareActivity 1514 1520	repair
+T103	HealthCareActivity 1902 1908	repair
+T104	PharmacologicSubstance 613 626	Teriflunomide
+T105	PharmacologicSubstance 967 980	teriflunomide
+T106	PharmacologicSubstance 1128 1141	Teriflunomide
+T107	PharmacologicSubstance 1463 1476	teriflunomide
+T108	PharmacologicSubstance 1646 1659	teriflunomide
+T109	HealthCareActivity 1142 1156	administration
+T110	PathologicFunction 204 225	autoimmune activities
+T111	PathologicFunction 238 269	impaired regeneration processes
+T112	PathologicFunction 373 391	autoimmune attacks
+T113	CellFunction 441 451	activation
+T114	CellFunction 751 771	pyrimidine synthesis
+T115	BiologicallyActiveSubstance 751 761	pyrimidine
+T116	ExperimentalModelOfDisease 924 966	cuprizone mediated de-/remyelination model
+T117	ResearchActivity 1310 1325;1350 1358	gene expression analyses
+T118	CellFunction 1669 1692	mitochondrial integrity
+T119	BiologicallyActiveSubstance 1760 1770	pyrimidine
+T120	CellFunction 1760 1780	pyrimidine synthesis
+T121	CellFunction 1837 1862	mitochondrial homeostasis

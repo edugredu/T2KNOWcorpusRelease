@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 109 135	neurodegenerative disorder
+T1	ResearchActivity 136 162	research and collaboration
+T2	BodyPartOrganOrOrganComponent 0 12	Brain tissue
+T3	ResearchActivity 56 67	researchers
+T4	Substance 96 104	material
+T5	Substance 13 22	specimens
+T6	HealthCareRelatedOrganization 37 45	biobanks

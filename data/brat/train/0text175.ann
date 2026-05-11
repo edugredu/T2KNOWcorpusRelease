@@ -1,0 +1,24 @@
+T0	DiseaseOrSyndrome 49 87	progressive neurodegenerative disorder
+T1	GeneOrGenome 136 151	huntingtin gene
+T2	DiseaseOrSyndrome 180 197	movement disorder
+T3	SignOrSymptom 199 219	psychiatric symptoms
+T4	DiseaseOrSyndrome 244 258	Sleep problems
+T5	SignOrSymptom 260 271	weight loss
+T6	HealthCareActivity 260 271	weight loss
+T7	SignOrSymptom 277 285	cachexia
+T8	TemporalConcept 360 370	late-stage
+T9	ManufacturedObject 428 441	animal models
+T10	CellFunction 30 48	autosomal dominant
+T11	DiseaseOrSyndrome 225 242	cognitive decline
+T12	DiseaseOrSyndrome 20 22	HD
+T13	DiseaseOrSyndrome 371 373	HD
+T14	DiseaseOrSyndrome 479 481	HD
+T15	Eukaryote 502 508	humans
+T16	DiseaseOrSyndrome 0 18	Huntington disease
+T17	InjuryOrPoisoning 345 356	hypothermia
+T18	InjuryOrPoisoning 487 498	hypothermia
+T19	HealthCareActivity 345 356	hypothermia
+T20	HealthCareActivity 487 498	hypothermia
+T21	PatientOrDisabledGroup 321 328	patient
+T22	PathologicFunction 384 408	thermoregulatory defects
+T23	CellOrMolecularDysfunction 104 128	expanded CAG repeat size

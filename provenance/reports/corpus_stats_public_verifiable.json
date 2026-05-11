@@ -1,0 +1,82 @@
+{
+  "mode": "public-redacted",
+  "documents": 821,
+  "sentences": 14356,
+  "entities": 125703,
+  "text_status": {
+    "excluded": {
+      "documents": 389,
+      "sentences": 6691,
+      "entities": 56822
+    },
+    "included": {
+      "documents": 432,
+      "sentences": 7665,
+      "entities": 68881
+    }
+  },
+  "splits": {
+    "test": {
+      "documents": 151,
+      "sentences": 2869,
+      "entities": 24876
+    },
+    "train": {
+      "documents": 588,
+      "sentences": 10052,
+      "entities": 88234
+    },
+    "val": {
+      "documents": 82,
+      "sentences": 1435,
+      "entities": 12593
+    }
+  },
+  "labels": {
+    "DiseaseOrSyndrome": 13076,
+    "ResearchActivity": 10550,
+    "AminoAcidPeptideOrProtein": 9678,
+    "BiologicallyActiveSubstance": 9282,
+    "CellFunction": 7679,
+    "HealthCareActivity": 7479,
+    "Cell": 7233,
+    "BodyPartOrganOrOrganComponent": 7186,
+    "Finding": 6892,
+    "TemporalConcept": 5438,
+    "CellComponent": 4532,
+    "BiologicFunction": 4210,
+    "PathologicFunction": 3835,
+    "ClinicalAttribute": 3544,
+    "PopulationGroup": 3130,
+    "GeneOrGenome": 2953,
+    "Chemical": 2863,
+    "PharmacologicSubstance": 2090,
+    "CellOrMolecularDysfunction": 2000,
+    "PatientOrDisabledGroup": 1610,
+    "OrganismAttribute": 1468,
+    "NucleicAcidNucleosideOrNucleotide": 1398,
+    "Eukaryote": 1380,
+    "InjuryOrPoisoning": 1036,
+    "ExperimentalModelOfDisease": 827,
+    "SignOrSymptom": 668,
+    "BiomedicalOccupationOrDiscipline": 667,
+    "Substance": 627,
+    "NaturalPhenomenonOrProcess": 476,
+    "ManufacturedObject": 406,
+    "HealthCareRelatedOrganization": 352,
+    "MachineActivity": 229,
+    "IndividualBehavior": 200,
+    "MolecularSequence": 157,
+    "Organism": 153,
+    "AnatomicalAbnormality": 151,
+    "Virus": 103,
+    "Bacterium": 69,
+    "EmbryonicStructure": 51,
+    "EnvironmentalEffectOfHumans": 25
+  },
+  "same_span_multilabel_unique_spans": 15888,
+  "unique_spans": 106555,
+  "nested_or_overlapping_entities": 11380,
+  "token_counts_available": false,
+  "token_count_verification_note": "Public-redacted users can verify document, sentence, entity, label, split, same-span, and structural counts without source-text reconstruction. Full-core token counts and token-based sentence-length statistics for text-excluded records require the staged full abstract text or checksum-validated reconstructed abstract text."
+}

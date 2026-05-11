@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 147 174	neurodegenerative disorders
+T1	BodyPartOrganOrOrganComponent 78 91	immune system
+T2	Finding 28 40	interactions
+T3	BiologicFunction 0 13	Understanding
+T4	HealthCareActivity 127 142	immunotherapies
+T5	Virus 49 69	Herpes Simplex Virus
+T6	Virus 49 55	Herpes

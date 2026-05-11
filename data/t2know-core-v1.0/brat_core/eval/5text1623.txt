@@ -1,0 +1,1 @@
+Lentiviral vectors can carry larger genetic payloads compared to AAVs, making them suitable for delivering bigger genes or multiple genes simultaneously.

@@ -1,0 +1,127 @@
+T0	DiseaseOrSyndrome 85 96	Impairments
+T1	DiseaseOrSyndrome 166 182	chronic diseases
+T2	NucleicAcidNucleosideOrNucleotide 498 507	Adenosine
+T3	Chemical 654 660	FTY720
+T4	GeneOrGenome 998 1003	SphK1
+T5	GeneOrGenome 1007 1012	SphK2
+T6	CellFunction 1182 1191	silencing
+T7	Chemical 1336 1339	S1P
+T8	BiologicFunction 1340 1350	catabolism
+T9	CellFunction 1340 1350	catabolism
+T10	GeneOrGenome 1500 1505	SphK1
+T11	Chemical 1715 1718	S1P
+T12	HealthCareActivity 1619 1627	reviewed
+T13	ResearchActivity 1619 1627	reviewed
+T14	BiologicFunction 1597 1615	oligodendrogenesis
+T15	ResearchActivity 1211 1219	cultures
+T16	Cell 395 411	oligodendrocytes
+T17	Cell 377 381	OPCs
+T18	Cell 1434 1438	OPCs
+T19	Cell 745 748	OPC
+T20	Cell 868 871	OPC
+T21	Cell 965 968	OPC
+T22	Cell 1059 1062	OPC
+T23	Cell 1207 1210	OPC
+T24	BiologicFunction 749 759	maturation
+T25	BiologicFunction 969 979	maturation
+T26	BiologicFunction 1228 1238	maturation
+T27	PathologicFunction 131 144	demyelinating
+T28	DiseaseOrSyndrome 191 209	multiple sclerosis
+T29	BodyPartOrganOrOrganComponent 23 29	myelin
+T30	Cell 388 411	mature oligodendrocytes
+T31	CellFunction 512 569	sphingosine kinase/sphingosine 1-phosphate signaling axes
+T32	CellFunction 1580 1589	signaling
+T33	CellFunction 1719 1728	signaling
+T34	Cell 343 375	oligodendrocyte progenitor cells
+T35	CellFunction 324 339	differentiation
+T36	CellFunction 872 887	differentiation
+T37	CellFunction 1063 1078	differentiation
+T38	CellComponent 23 37	myelin sheaths
+T39	Cell 359 375	progenitor cells
+T40	Cell 413 416	OLs
+T41	CellFunction 868 887	OPC differentiation
+T42	CellFunction 1059 1078	OPC differentiation
+T43	TemporalConcept 388 394	mature
+T44	PharmacologicSubstance 1149 1157	blockade
+T45	HealthCareActivity 1149 1157	blockade
+T46	Cell 0 15	Oligodendrocyte
+T47	NaturalPhenomenonOrProcess 1668 1673	light
+T48	DiseaseOrSyndrome 1782 1805	demyelinating disorders
+T49	TemporalConcept 1459 1464	acute
+T50	TemporalConcept 268 275	ongoing
+T51	Chemical 642 652	fingolimod
+T52	PharmacologicSubstance 642 652	fingolimod
+T53	BiologicallyActiveSubstance 642 652	fingolimod
+T54	BodyPartOrganOrOrganComponent 78 83	brain
+T55	Finding 1044 1050	effect
+T56	Finding 1115 1121	effect
+T57	HealthCareActivity 709 718	treatment
+T58	HealthCareActivity 1769 1778	treatment
+T59	ResearchActivity 709 718	treatment
+T60	ResearchActivity 1769 1778	treatment
+T61	CellFunction 1088 1098	expression
+T62	CellFunction 1271 1281	expression
+T63	ResearchActivity 888 896	in vitro
+T64	TemporalConcept 301 305	life
+T65	CellFunction 1013 1023	inhibition
+T66	HealthCareActivity 805 816	stimulation
+T67	HealthCareActivity 1465 1476	stimulation
+T68	NaturalPhenomenonOrProcess 805 816	stimulation
+T69	NaturalPhenomenonOrProcess 1465 1476	stimulation
+T70	AminoAcidPeptideOrProtein 1079 1087	A(2)(B)R
+T71	AminoAcidPeptideOrProtein 1195 1203	A(2)(B)R
+T72	AminoAcidPeptideOrProtein 1558 1566	A(2)(B)R
+T73	BiologicallyActiveSubstance 1079 1087	A(2)(B)R
+T74	Finding 1381 1390	interplay
+T75	CellFunction 1409 1416	pathway
+T76	TemporalConcept 684 692	recently
+T77	TemporalConcept 764 772	recently
+T78	CellFunction 248 261	remyelination
+T79	CellFunction 605 618	remyelination
+T80	CellFunction 115 126	myelination
+T81	DiseaseOrSyndrome 211 213	MS
+T82	DiseaseOrSyndrome 706 708	MS
+T83	PopulationGroup 295 300	adult
+T84	CellFunction 1524 1539	phosphorylation
+T85	AminoAcidPeptideOrProtein 820 847	A(2)(B) adenosine receptors
+T86	BiologicallyActiveSubstance 820 847	A(2)(B) adenosine receptors
+T87	BiologicallyActiveSubstance 1300 1306	enzyme
+T88	Finding 1509 1519	increasing
+T89	TemporalConcept 166 173	chronic
+T90	PharmacologicSubstance 654 660	FTY720
+T91	BiologicallyActiveSubstance 654 660	FTY720
+T92	BiologicallyActiveSubstance 665 676	sphingosine
+T93	Chemical 665 676	sphingosine
+T94	AminoAcidPeptideOrProtein 849 858	A(2)(B)Rs
+T95	BiologicallyActiveSubstance 849 858	A(2)(B)Rs
+T96	CellFunction 908 945	voltage-dependent outward K+ currents
+T97	AminoAcidPeptideOrProtein 998 1003	SphK1
+T98	AminoAcidPeptideOrProtein 1007 1012	SphK2
+T99	BiologicallyActiveSubstance 1007 1012	SphK2
+T100	BiologicallyActiveSubstance 998 1003	SphK1
+T101	AminoAcidPeptideOrProtein 1141 1148	SphK1/2
+T102	BiologicallyActiveSubstance 1141 1148	SphK1/2
+T103	BiologicallyActiveSubstance 1195 1203	A(2)(B)R
+T104	BiologicallyActiveSubstance 1285 1294	S1P lyase
+T105	AminoAcidPeptideOrProtein 1285 1294	S1P lyase
+T106	AminoAcidPeptideOrProtein 1399 1404	SphK1
+T107	BiologicallyActiveSubstance 1399 1404	SphK1
+T108	Chemical 1405 1408	S1P
+T109	AminoAcidPeptideOrProtein 1480 1489	A(2)(B)Rs
+T110	BiologicallyActiveSubstance 1480 1489	A(2)(B)Rs
+T111	AminoAcidPeptideOrProtein 1421 1430	A(2)(B)Rs
+T112	BiologicallyActiveSubstance 1421 1430	A(2)(B)Rs
+T113	Chemical 1576 1579	S1P
+T114	AminoAcidPeptideOrProtein 1571 1575	SphK
+T115	BiologicallyActiveSubstance 1571 1575	SphK
+T116	BiologicallyActiveSubstance 1558 1566	A(2)(B)R
+T117	AminoAcidPeptideOrProtein 1701 1710	A(2)(B)Rs
+T118	BiologicallyActiveSubstance 1701 1710	A(2)(B)Rs
+T119	BiologicFunction 49 70	synaptic transmission
+T120	InjuryOrPoisoning 145 152	insults
+T121	Chemical 576 579	S1P
+T122	AminoAcidPeptideOrProtein 571 575	SphK
+T123	BiologicallyActiveSubstance 571 575	SphK
+T124	Chemical 531 554	sphingosine 1-phosphate
+T125	AminoAcidPeptideOrProtein 512 530	sphingosine kinase
+T126	BiologicallyActiveSubstance 512 530	sphingosine kinase

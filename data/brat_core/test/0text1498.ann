@@ -1,0 +1,60 @@
+T0	BodyPartOrganOrOrganComponent 187 200	EC subregions
+T1	HealthCareActivity 277 295	joint label fusion
+T2	HealthCareActivity 339 351	measurements
+T3	HealthCareActivity 364 396	magnetic resonance imaging scans
+T4	Finding 768 774	Change
+T5	PathologicFunction 893 902	sensitive
+T6	ManufacturedObject 982 988	tracks
+T7	Cell 52 59	neurons
+T8	BodyPartOrganOrOrganComponent 20 37;43 51	entorhinal cortex layer II
+T9	ClinicalAttribute 752 766	pMEC thickness
+T10	ClinicalAttribute 778 792	aLEC thickness
+T11	TemporalConcept 75 83	earliest
+T12	BodyPartOrganOrOrganComponent 320 328	cortical
+T13	BodyPartOrganOrOrganComponent 556 564	cortical
+T14	TemporalConcept 948 957	durations
+T15	ResearchActivity 130 138	Research
+T16	ClinicalAttribute 320 338	cortical thickness
+T17	ClinicalAttribute 556 574	cortical thickness
+T18	AminoAcidPeptideOrProtein 849 852	tau
+T19	BodyPartOrganOrOrganComponent 123 128	brain
+T20	ClinicalAttribute 989 1005	disease severity
+T21	DiseaseOrSyndrome 84 103	Alzheimer's disease
+T22	DiseaseOrSyndrome 105 107	AD
+T23	DiseaseOrSyndrome 473 475	AD
+T24	DiseaseOrSyndrome 975 977	AD
+T25	DiseaseOrSyndrome 1064 1066	AD
+T26	OrganismAttribute 429 436	healthy
+T27	ClinicalAttribute 914 923	biomarker
+T28	ClinicalAttribute 1031 1040	biomarker
+T29	HealthCareActivity 1045 1054	detection
+T30	Substance 831 836	fluid
+T31	HealthCareActivity 364 390	magnetic resonance imaging
+T32	InjuryOrPoisoning 109 115	lesion
+T33	HealthCareActivity 383 390	imaging
+T34	ManufacturedObject 364 390	magnetic resonance imaging
+T35	Finding 989 1005	disease severity
+T36	PopulationGroup 411 423	participants
+T37	BodyPartOrganOrOrganComponent 817 836	cerebrospinal fluid
+T38	ResearchActivity 524 549	longitudinal associations
+T39	DiseaseOrSyndrome 447 467	cognitive impairment
+T40	TemporalConcept 965 971	course
+T41	AminoAcidPeptideOrProtein 837 844	amyloid
+T42	BiologicallyActiveSubstance 837 844	amyloid
+T43	BiologicallyActiveSubstance 849 852	tau
+T44	ResearchActivity 485 512	linear mixed-effects models
+T45	DiseaseOrSyndrome 442 467	mild cognitive impairment
+T46	CellOrMolecularDysfunction 12 16;52 59	Loss neurons
+T47	BodyPartOrganOrOrganComponent 39 41	EC
+T48	BodyPartOrganOrOrganComponent 206 222	anterolateral EC
+T49	BodyPartOrganOrOrganComponent 224 228	aLEC
+T50	BodyPartOrganOrOrganComponent 238 254	posteromedial EC
+T51	BodyPartOrganOrOrganComponent 256 260	pMEC
+T52	ClinicalAttribute 661 675	aLEC thickness
+T53	BodyPartOrganOrOrganComponent 306 310	aLEC
+T54	BodyPartOrganOrOrganComponent 315 319	pMEC
+T55	ClinicalAttribute 576 590	disease status
+T56	ClinicalAttribute 596 614	cognitive measures
+T57	ClinicalAttribute 723 741	cognitive outcomes
+T58	Finding 871 887	Thinning of aLEC
+T59	ClinicalAttribute 849 859	tau levels

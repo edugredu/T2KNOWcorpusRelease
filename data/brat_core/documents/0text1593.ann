@@ -1,0 +1,81 @@
+T0	HealthCareActivity 377 383	screen
+T1	ResearchActivity 377 383	screen
+T2	AminoAcidPeptideOrProtein 464 499	Platelet activating factor receptor
+T3	BiologicallyActiveSubstance 464 499	Platelet activating factor receptor
+T4	AminoAcidPeptideOrProtein 501 506	PTAFR
+T5	GeneOrGenome 501 506	PTAFR
+T6	BiologicallyActiveSubstance 501 506	PTAFR
+T7	AminoAcidPeptideOrProtein 627 632	PTAFR
+T8	GeneOrGenome 627 632	PTAFR
+T9	BiologicallyActiveSubstance 627 632	PTAFR
+T10	AminoAcidPeptideOrProtein 733 738	PTAFR
+T11	GeneOrGenome 733 738	PTAFR
+T12	BiologicallyActiveSubstance 733 738	PTAFR
+T13	NaturalPhenomenonOrProcess 798 814	microenvironment
+T14	BodyPartOrganOrOrganComponent 798 814	microenvironment
+T15	AminoAcidPeptideOrProtein 900 905	PTAFR
+T16	GeneOrGenome 900 905	PTAFR
+T17	BiologicallyActiveSubstance 900 905	PTAFR
+T18	Chemical 960 964	EGCG
+T19	Chemical 987 996	memantine
+T20	NaturalPhenomenonOrProcess 1139 1155	microenvironment
+T21	BodyPartOrganOrOrganComponent 1139 1155	microenvironment
+T22	Finding 430 440	identified
+T23	ResearchActivity 351 363	GEO database
+T24	ResearchActivity 1259 1273	drug discovery
+T25	AminoAcidPeptideOrProtein 872 877	STAT3
+T26	GeneOrGenome 872 877	STAT3
+T27	BiologicallyActiveSubstance 872 877	STAT3
+T28	Chemical 977 985	curcumin
+T29	PharmacologicSubstance 977 985	curcumin
+T30	PathologicFunction 757 779	inflammatory responses
+T31	HealthCareActivity 178 193	early diagnosis
+T32	Chemical 966 975	donepezil
+T33	PharmacologicSubstance 966 975	donepezil
+T34	Finding 395 419	differentially expressed
+T35	BodyPartOrganOrOrganComponent 647 653	plasma
+T36	DiseaseOrSyndrome 118 120	AD
+T37	DiseaseOrSyndrome 197 199	AD
+T38	DiseaseOrSyndrome 601 603	AD
+T39	DiseaseOrSyndrome 936 938	AD
+T40	DiseaseOrSyndrome 1067 1069	AD
+T41	DiseaseOrSyndrome 1278 1280	AD
+T42	BodyPartOrganOrOrganComponent 578 597	cerebrospinal fluid
+T43	PathologicFunction 82 93	progression
+T44	TemporalConcept 82 93	progression
+T45	DiseaseOrSyndrome 97 116	Alzheimer's Disease
+T46	ClinicalAttribute 443 462	potential biomarker
+T47	ClinicalAttribute 1037 1056	potential biomarker
+T48	HealthCareActivity 10 25	Early diagnosis
+T49	HealthCareActivity 1070 1079	diagnosis
+T50	ClinicalAttribute 159 169	biomarkers
+T51	BiologicFunction 1200 1211	development
+T52	CellFunction 1200 1211	development
+T53	BodyPartOrganOrOrganComponent 658 671	brain tissues
+T54	PatientOrDisabledGroup 604 612	patients
+T55	Cell 845 854	microglia
+T56	Cell 1120 1129	microglia
+T57	ResearchActivity 208 230	bioinformatic analysis
+T58	TemporalConcept 1061 1066	early
+T59	BodyPartOrganOrOrganComponent 542 554	brain tissue
+T60	BodyPartOrganOrOrganComponent 556 572	peripheral blood
+T61	ExperimentalModelOfDisease 675 687	APP/PS1 mice
+T62	CellFunction 878 885	pathway
+T63	HealthCareActivity 1236 1254	clinical treatment
+T64	HealthCareActivity 1084 1093	treatment
+T65	ResearchActivity 1084 1093	treatment
+T66	ClinicalAttribute 627 653	PTAFR levels in the plasma
+T67	AminoAcidPeptideOrProtein 867 871	IL10
+T68	BiologicallyActiveSubstance 867 871	IL10
+T69	PharmacologicSubstance 987 996	memantine
+T70	PharmacologicSubstance 1002 1013	Huperzine A
+T71	Chemical 1002 1013	Huperzine A
+T72	AminoAcidPeptideOrProtein 1025 1030	PTAFR
+T73	BiologicallyActiveSubstance 1025 1030	PTAFR
+T74	GeneOrGenome 1025 1030	PTAFR
+T75	ResearchActivity 300 307	GSE1297
+T76	ResearchActivity 309 317	GSE63063
+T77	ResearchActivity 323 332	GSE110226
+T78	GeneOrGenome 420 425	genes
+T79	ResearchActivity 333 341	datasets
+T80	PharmacologicSubstance 931 948	anti-AD compounds

@@ -1,0 +1,93 @@
+T0	Cell 239 254	microglial cell
+T1	HealthCareActivity 372 383	Stimulation
+T2	NaturalPhenomenonOrProcess 372 383	Stimulation
+T3	NucleicAcidNucleosideOrNucleotide 410 413	ATP
+T4	BiologicallyActiveSubstance 410 413	ATP
+T5	ResearchActivity 650 676	next-generation sequencing
+T6	GeneOrGenome 690 695	Mcfd2
+T7	GeneOrGenome 697 702	Sepp1
+T8	AminoAcidPeptideOrProtein 697 702	Sepp1
+T9	GeneOrGenome 708 712	Sdc1
+T10	NucleicAcidNucleosideOrNucleotide 787 808	Small interfering RNA
+T11	CellFunction 823 832	silencing
+T12	AminoAcidPeptideOrProtein 945 963	interleukin-1 beta
+T13	DiseaseOrSyndrome 1111 1138	neuroinflammatory disorders
+T14	CellFunction 566 576	expressing
+T15	ResearchActivity 1077 1106	potential therapeutic targets
+T16	GeneOrGenome 558 565	library
+T17	BiologicFunction 74 91	brain homeostasis
+T18	NucleicAcidNucleosideOrNucleotide 810 815	siRNA
+T19	BiologicallyActiveSubstance 810 815	siRNA
+T20	Chemical 867 885	lipopolysaccharide
+T21	OrganismAttribute 96 111	innate immunity
+T22	CellComponent 28 50	extracellular vesicles
+T23	CellComponent 52 55	EVs
+T24	CellComponent 441 444	EVs
+T25	CellComponent 160 162	EV
+T26	CellComponent 272 274	EV
+T27	CellComponent 505 507	EV
+T28	CellComponent 751 753	EV
+T29	Cell 399 404	cells
+T30	Cell 553 557	cell
+T31	ResearchActivity 255 260	model
+T32	Cell 0 19	Activated microglia
+T33	Cell 179 188	microglia
+T34	Cell 776 785	microglia
+T35	Cell 1001 1010	microglia
+T36	CellFunction 275 284	secretion
+T37	CellFunction 428 437	secretion
+T38	CellFunction 508 517	secretion
+T39	CellFunction 754 763	secretion
+T40	Eukaryote 232 238	murine
+T41	Eukaryote 769 775	murine
+T42	Eukaryote 994 1000	murine
+T43	BiologicFunction 275 284	secretion
+T44	BiologicFunction 428 437	secretion
+T45	BiologicFunction 508 517	secretion
+T46	BiologicFunction 754 763	secretion
+T47	Cell 464 472	cellular
+T48	Substance 126 135	molecules
+T49	Substance 1018 1027	molecules
+T50	NaturalPhenomenonOrProcess 302 314	fluorescence
+T51	AminoAcidPeptideOrProtein 354 365	tetraspanin
+T52	BiologicallyActiveSubstance 354 365	tetraspanin
+T53	AminoAcidPeptideOrProtein 366 370	CD63
+T54	BiologicallyActiveSubstance 366 370	CD63
+T55	GeneOrGenome 366 370	CD63
+T56	CellFunction 272 284	EV secretion
+T57	CellFunction 505 517	EV secretion
+T58	CellFunction 751 763	EV secretion
+T59	CellFunction 1056 1068	EV secretion
+T60	Finding 451 460	reduction
+T61	NaturalPhenomenonOrProcess 451 460	reduction
+T62	ResearchActivity 977 1010	primary cultured murine microglia
+T63	Cell 1045 1055	microglial
+T64	ResearchActivity 622 643	genome-wide screening
+T65	NucleicAcidNucleosideOrNucleotide 599 617	short hairpin RNAs
+T66	HealthCareActivity 264 271	monitor
+T67	ManufacturedObject 264 271	monitor
+T68	BiologicallyActiveSubstance 60 70	modulators
+T69	AminoAcidPeptideOrProtein 577 585	TurboGFP
+T70	Chemical 577 585	TurboGFP
+T71	AminoAcidPeptideOrProtein 540 549	tdTo-mato
+T72	BiologicallyActiveSubstance 540 549	tdTo-mato
+T73	AminoAcidPeptideOrProtein 533 536	GFP
+T74	Chemical 533 536	GFP
+T75	PharmacologicSubstance 410 413	ATP
+T76	CellFunction 160 173	EV production
+T77	BiologicallyActiveSubstance 325 333	tdTomato
+T78	AminoAcidPeptideOrProtein 325 333	tdTomato
+T79	AminoAcidPeptideOrProtein 387 395	tdTomato
+T80	AminoAcidPeptideOrProtein 387 395	tdTomato
+T81	AminoAcidPeptideOrProtein 690 695	Mcfd2
+T82	BiologicallyActiveSubstance 690 695	Mcfd2
+T83	AminoAcidPeptideOrProtein 708 712	Sdc1
+T84	BiologicallyActiveSubstance 708 712	Sdc1
+T85	PharmacologicSubstance 739 742	ATP
+T86	NucleicAcidNucleosideOrNucleotide 739 742	ATP
+T87	BiologicallyActiveSubstance 739 742	ATP
+T88	BiologicallyActiveSubstance 787 808	Small interfering RNA
+T89	CellFunction 891 926	ATP-induced inflammasome activation
+T90	BiologicallyActiveSubstance 945 963	interleukin-1 beta
+T91	CellFunction 945 971	interleukin-1 beta release
+T92	CellComponent 903 915	inflammasome

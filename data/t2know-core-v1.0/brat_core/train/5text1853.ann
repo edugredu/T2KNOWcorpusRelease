@@ -1,0 +1,6 @@
+T0	CellOrMolecularDysfunction 135 152	neurodegeneration
+T1	Organism 96 100	host
+T2	PathologicFunction 61 70	infection
+T3	ResearchActivity 0 7	Studies
+T4	BiologicFunction 101 117	immune responses
+T5	Bacterium 47 60	P. gingivalis

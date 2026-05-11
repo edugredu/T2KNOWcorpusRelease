@@ -1,0 +1,56 @@
+T0	ResearchActivity 269 289	experimental studies
+T1	BodyPartOrganOrOrganComponent 403 424	nose-to brain pathway
+T2	ResearchActivity 1039 1051	experimental
+T3	BiologicFunction 872 893	embryonic development
+T4	BodyPartOrganOrOrganComponent 348 359	intrathecal
+T5	Cell 183 187	OPCs
+T6	Cell 306 310	OPCs
+T7	Cell 531 535	OPCs
+T8	Cell 842 846	OPCs
+T9	Cell 1017 1021	OPCs
+T10	Cell 32 35	OPC
+T11	Cell 436 465	oligodendrocyte lineage cells
+T12	CellFunction 37 46	migration
+T13	Cell 16 30	precursor cell
+T14	Cell 436 459	oligodendrocyte lineage
+T15	Cell 0 30	Oligodendrocyte precursor cell
+T16	ResearchActivity 384 389	study
+T17	ResearchActivity 915 920	study
+T18	BodyPartOrganOrOrganComponent 134 137	CNS
+T19	BodyPartOrganOrOrganComponent 236 239	CNS
+T20	BodyPartOrganOrOrganComponent 757 760	CNS
+T21	Finding 930 938	evidence
+T22	BiologicFunction 882 893	development
+T23	CellFunction 882 893	development
+T24	BodyPartOrganOrOrganComponent 318 323	brain
+T25	Eukaryote 467 472	human
+T26	Cell 95 100	cells
+T27	Cell 491 502	(HOG) cells
+T28	Cell 588 597	HOG cells
+T29	Cell 770 779	HOG cells
+T30	Cell 961 970	HOG cells
+T31	Cell 26 30	cell
+T32	Finding 220 228	capacity
+T33	OrganismAttribute 148 151	age
+T34	ResearchActivity 536 544	in vitro
+T35	TemporalConcept 904 908	life
+T36	TemporalConcept 255 259	time
+T37	CellFunction 417 424	pathway
+T38	CellFunction 74 87	remyelination
+T39	CellFunction 206 219	remyelination
+T40	PopulationGroup 128 133	adult
+T41	PopulationGroup 898 903	adult
+T42	TemporalConcept 683 687	days
+T43	Eukaryote 627 634	animals
+T44	Eukaryote 1052 1059	animals
+T45	BodyPartOrganOrOrganComponent 1029 1035	brains
+T46	ResearchActivity 614 626	experimental
+T47	HealthCareActivity 335 344	injection
+T48	DiseaseOrSyndrome 473 490	oligodendroglioma
+T49	BodyPartOrganOrOrganComponent 114 120	niches
+T50	HealthCareActivity 360 374	administration
+T51	Chemical 575 578	GFP
+T52	AminoAcidPeptideOrProtein 575 578	GFP
+T53	BodyPartOrganOrOrganComponent 598 610	intranasally
+T54	BodyPartOrganOrOrganComponent 832 838	niches
+T55	HealthCareActivity 780 805	administered intranasally

@@ -1,0 +1,94 @@
+T0	AminoAcidPeptideOrProtein 181 275	Nucleotide-binding oligomerization domain-, leucine-rich repeat- and pyrin domain-containing 3
+T1	GeneOrGenome 277 282	NLRP3
+T2	AminoAcidPeptideOrProtein 277 282	NLRP3
+T3	AminoAcidPeptideOrProtein 308 320	inflammasome
+T4	BiologicallyActiveSubstance 308 320	inflammasome
+T5	Substance 511 518	induced
+T6	CellComponent 597 615	NLRP3 inflammasome
+T7	CellComponent 631 649	NLRP3 inflammasome
+T8	Finding 938 947	excessive
+T9	CellFunction 948 958	activation
+T10	CellComponent 962 980	NLRP3 inflammasome
+T11	CellComponent 1134 1152	NLRP3 inflammasome
+T12	Chemical 1170 1180	inhibitors
+T13	PharmacologicSubstance 1170 1180	inhibitors
+T14	BiologicallyActiveSubstance 1170 1180	inhibitors
+T15	AminoAcidPeptideOrProtein 1170 1180	inhibitors
+T16	Substance 1244 1252	inducers
+T17	HealthCareActivity 1260 1267	removal
+T18	CellComponent 1391 1409	NLRP3 inflammasome
+T19	ResearchActivity 1727 1738	superiority
+T20	Substance 1783 1791	inducers
+T21	Chemical 1810 1820	inhibitors
+T22	PharmacologicSubstance 1810 1820	inhibitors
+T23	BiologicallyActiveSubstance 1810 1820	inhibitors
+T24	AminoAcidPeptideOrProtein 1810 1820	inhibitors
+T25	CellComponent 1828 1846	NLRP3 inflammasome
+T26	PathologicFunction 0 17	Neuroinflammation
+T27	ResearchActivity 1096 1103	article
+T28	NaturalPhenomenonOrProcess 1295 1304	clearance
+T29	CellOrMolecularDysfunction 1308 1328	damaged mitochondria
+T30	ResearchActivity 1609 1620	researchers
+T31	CellFunction 192 199	binding
+T32	InjuryOrPoisoning 528 536	toxicity
+T33	BiologicFunction 838 855	brain homeostasis
+T34	ResearchActivity 1089 1103	review article
+T35	CellOrMolecularDysfunction 1271 1289	misfolded proteins
+T36	BiologicFunction 823 834	maintenance
+T37	CellFunction 1854 1864	inhibition
+T38	PathologicFunction 1037 1049	pathogenesis
+T39	HealthCareActivity 1646 1655	therapies
+T40	Cell 771 781	microglial
+T41	Cell 989 999	microglial
+T42	Cell 1215 1225	microglial
+T43	Cell 1762 1772	microglial
+T44	PathologicFunction 915 932	neuroinflammation
+T45	PathologicFunction 1896 1913	neuroinflammation
+T46	Finding 449 458	hallmarks
+T47	PathologicFunction 665 674	pathology
+T48	BiomedicalOccupationOrDiscipline 665 674	pathology
+T49	Cell 349 358	microglia
+T50	Cell 579 588	microglia
+T51	Cell 1184 1193	microglia
+T52	BiologicallyActiveSubstance 1333 1356	reactive oxygen species
+T53	Chemical 1333 1356	reactive oxygen species
+T54	Finding 1529 1540	differences
+T55	OrganismAttribute 1525 1528	sex
+T56	Cell 519 527	neuronal
+T57	CellFunction 782 791	autophagy
+T58	CellFunction 1000 1009	autophagy
+T59	CellFunction 1226 1235	autophagy
+T60	CellFunction 1773 1782	autophagy
+T61	NaturalPhenomenonOrProcess 1372 1383	degradation
+T62	CellOrMolecularDysfunction 398 416	Misfolded proteins
+T63	BiologicFunction 844 855	homeostasis
+T64	DiseaseOrSyndrome 118 120	AD
+T65	BiologicallyActiveSubstance 1358 1361	ROS
+T66	Chemical 1358 1361	ROS
+T67	Finding 738 755	Emerging evidence
+T68	BiologicFunction 387 396	attention
+T69	TemporalConcept 1976 1982	future
+T70	PathologicFunction 695 706	progression
+T71	TemporalConcept 695 706	progression
+T72	CellFunction 336 345	expressed
+T73	DiseaseOrSyndrome 59 85	neurodegenerative diseases
+T74	DiseaseOrSyndrome 462 488	neurodegenerative diseases
+T75	DiseaseOrSyndrome 710 736	neurodegenerative diseases
+T76	DiseaseOrSyndrome 1053 1079	neurodegenerative diseases
+T77	DiseaseOrSyndrome 1431 1457	neurodegenerative diseases
+T78	DiseaseOrSyndrome 1572 1598	neurodegenerative diseases
+T79	DiseaseOrSyndrome 149 169	Huntington's disease
+T80	DiseaseOrSyndrome 123 142	Parkinson's disease
+T81	DiseaseOrSyndrome 171 173	HD
+T82	DiseaseOrSyndrome 144 146	PD
+T83	DiseaseOrSyndrome 97 116	Alzheimer's disease
+T84	ResearchActivity 1089 1095	review
+T85	HealthCareActivity 1089 1095	review
+T86	CellComponent 887 905	NLRP3 inflammasome
+T87	CellComponent 1544 1562	NLRP3 inflammasome
+T88	Finding 1673 1708	diagnostic and prognostic abilities
+T89	CellComponent 181 275	Nucleotide-binding oligomerization domain-, leucine-rich repeat- and pyrin domain-containing 3
+T90	BiologicallyActiveSubstance 277 282	NLRP3
+T91	CellComponent 1868 1886	NLRP3 inflammasome
+T92	ResearchActivity 1948 1968	clinical validations
+T93	ResearchActivity 1931 1943;1957 1968	pre clinical validations

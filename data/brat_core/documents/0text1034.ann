@@ -1,0 +1,60 @@
+T0	DiseaseOrSyndrome 56 83	neuroinflammatory disorders
+T1	Finding 896 912	diagnostic power
+T2	AminoAcidPeptideOrProtein 916 935	complement proteins
+T3	AminoAcidPeptideOrProtein 1110 1129	complement proteins
+T4	ClinicalAttribute 218 237	potential biomarker
+T5	HealthCareActivity 541 556	diagnostic tool
+T6	CellComponent 962 970	membrane
+T7	DiseaseOrSyndrome 121 139	multiple sclerosis
+T8	AminoAcidPeptideOrProtein 4 21	complement system
+T9	CellComponent 827 849	extracellular vesicles
+T10	DiseaseOrSyndrome 92 111	Alzheimer's disease
+T11	CellComponent 851 854	EVs
+T12	CellComponent 937 940	EVs
+T13	CellComponent 1094 1097	EVs
+T14	DiseaseOrSyndrome 113 115	AD
+T15	CellComponent 1200 1202	EV
+T16	CellComponent 1319 1321	EV
+T17	PatientOrDisabledGroup 311 319	patients
+T18	PopulationGroup 332 340	controls
+T19	ClinicalAttribute 1356 1366	biomarkers
+T20	ResearchActivity 609 620	measurement
+T21	HealthCareActivity 609 620	measurement
+T22	OrganismAttribute 564 577	heterogeneity
+T23	Cell 1063 1067	cell
+T24	TemporalConcept 696 702	origin
+T25	TemporalConcept 1071 1077	origin
+T26	TemporalConcept 1150 1156	origin
+T27	HealthCareActivity 485 497	therapeutics
+T28	Substance 191 200	biofluids
+T29	Substance 422 431	biofluids
+T30	ResearchActivity 793 807	stratification
+T31	ResearchActivity 1228 1234	review
+T32	HealthCareActivity 1228 1234	review
+T33	ResearchActivity 351 358	studies
+T34	AminoAcidPeptideOrProtein 1333 1352	complement proteins
+T35	ClinicalAttribute 1203 1218	surface markers
+T36	Finding 1261 1270	knowledge
+T37	TemporalConcept 1253 1260	current
+T38	PathologicFunction 56 73	neuroinflammatory
+T39	PathologicFunction 1371 1388	neuroinflammatory
+T40	ClinicalAttribute 457 465	severity
+T41	Finding 457 465	severity
+T42	Cell 1141 1149	cellular
+T43	Finding 1048 1054	status
+T44	PathologicFunction 436 455	disease progression
+T45	TemporalConcept 1275 1281	future
+T46	Chemical 971 980	particles
+T47	DiseaseOrSyndrome 141 143	MS
+T48	Finding 1188 1196	presence
+T49	DiseaseOrSyndrome 1393 1420	neurodegenerative disorders
+T50	Cell 1020 1029	cell type
+T51	BiologicallyActiveSubstance 4 21	complement system
+T52	AminoAcidPeptideOrProtein 170 180	complement
+T53	BiologicallyActiveSubstance 170 180	complement
+T54	ClinicalAttribute 170 187	complement levels
+T55	ClinicalAttribute 266 283	complement levels
+T56	AminoAcidPeptideOrProtein 408 418	complement
+T57	BiologicallyActiveSubstance 408 418	complement
+T58	AminoAcidPeptideOrProtein 624 648	free complement proteins
+T59	CellComponent 945 970	nanosized double membrane

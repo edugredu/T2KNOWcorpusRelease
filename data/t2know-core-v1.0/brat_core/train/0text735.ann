@@ -1,0 +1,111 @@
+T0	ResearchActivity 74 81	methods
+T1	DiseaseOrSyndrome 105 131	Neurodegenerative Diseases
+T2	CellFunction 315 329	motor activity
+T3	BiologicFunction 315 329	motor activity
+T4	DiseaseOrSyndrome 450 465	neural disorder
+T5	ResearchActivity 689 700	Methodology
+T6	ResearchActivity 1398 1407	Precision
+T7	BiologicFunction 2366 2380	neural control
+T8	Finding 2048 2059	variability
+T9	HealthCareActivity 427 442	early diagnosis
+T10	HealthCareActivity 412 422	physicians
+T11	ResearchActivity 907 915	database
+T12	ClinicalAttribute 61 73	non-invasive
+T13	ClinicalAttribute 2114 2126	non-invasive
+T14	ResearchActivity 1163 1225	correlation feature selection - subset evaluation (cfs) method
+T15	ResearchActivity 24 35	researchers
+T16	BiomedicalOccupationOrDiscipline 144 159	pharmacological
+T17	DiseaseOrSyndrome 787 806	Parkinson's Disease
+T18	Finding 1350 1361	performance
+T19	SignOrSymptom 471 493	clinical manifestation
+T20	HealthCareActivity 160 173	interventions
+T21	HealthCareActivity 2527 2556	pharmacological interventions
+T22	ResearchActivity 160 173	interventions
+T23	OrganismAttribute 297 310	gait dynamics
+T24	Finding 65 73	invasive
+T25	Finding 2118 2126	invasive
+T26	MachineActivity 369 396	machine learning techniques
+T27	MachineActivity 369 385	machine learning
+T28	MachineActivity 1227 1271	Three tree based machine learning algorithms
+T29	MachineActivity 2437 2475	tree based machine learning algorithms
+T30	HealthCareActivity 86 101	early detection
+T31	HealthCareActivity 2497 2512	early detection
+T32	PopulationGroup 2174 2190	healthy subjects
+T33	BiologicFunction 2274 2279	aging
+T34	CellFunction 2274 2279	aging
+T35	DiseaseOrSyndrome 133 137	NDDs
+T36	DiseaseOrSyndrome 241 245	NDDs
+T37	DiseaseOrSyndrome 2516 2520	NDDs
+T38	HealthCareActivity 433 442	diagnosis
+T39	HealthCareActivity 92 101	detection
+T40	HealthCareActivity 2503 2512	detection
+T41	ResearchActivity 1442 1449	Results
+T42	PathologicFunction 216 235	disease progression
+T43	NaturalPhenomenonOrProcess 2162 2170	dynamics
+T44	PopulationGroup 949 965	control subjects
+T45	PopulationGroup 602 610	subjects
+T46	PopulationGroup 856 864	subjects
+T47	PopulationGroup 1002 1010	subjects
+T48	PopulationGroup 1030 1038	subjects
+T49	PopulationGroup 1336 1344	subjects
+T50	PopulationGroup 1631 1639	subjects
+T51	PopulationGroup 1809 1817	subjects
+T52	PopulationGroup 1838 1846	subjects
+T53	PopulationGroup 2182 2190	subjects
+T54	DiseaseOrSyndrome 757 777	Huntington's Disease
+T55	NaturalPhenomenonOrProcess 270 281	degradation
+T56	OrganismAttribute 936 939	age
+T57	PathologicFunction 224 235	progression
+T58	TemporalConcept 224 235	progression
+T59	DiseaseOrSyndrome 598 601	NDD
+T60	DiseaseOrSyndrome 1332 1335	NDD
+T61	OrganismAttribute 353 357	gait
+T62	OrganismAttribute 2388 2392	gait
+T63	OrganismAttribute 2174 2181	healthy
+T64	DiseaseOrSyndrome 820 849	Amyotrophic Lateral Sclerosis
+T65	ResearchActivity 358 362	data
+T66	ResearchActivity 706 710	data
+T67	ResearchActivity 1095 1099	data
+T68	ResearchActivity 1138 1142	data
+T69	ResearchActivity 1541 1545	data
+T70	ResearchActivity 2060 2068	analysis
+T71	DiseaseOrSyndrome 779 781	HD
+T72	DiseaseOrSyndrome 808 810	PD
+T73	DiseaseOrSyndrome 999 1001	PD
+T74	DiseaseOrSyndrome 1806 1808	PD
+T75	DiseaseOrSyndrome 851 854	ALS
+T76	DiseaseOrSyndrome 1026 1029	ALS
+T77	DiseaseOrSyndrome 1834 1837	ALS
+T78	ResearchActivity 335 349	classification
+T79	ResearchActivity 1680 1694	classification
+T80	ResearchActivity 1890 1904	classification
+T81	Finding 1695 1703	accuracy
+T82	Finding 1905 1913	accuracy
+T83	ResearchActivity 549 554	study
+T84	ResearchActivity 723 728	study
+T85	MachineActivity 651 664	Random Forest
+T86	MachineActivity 666 668	RF
+T87	MachineActivity 617 649	decision trees based classifiers
+T88	MachineActivity 671 674	J48
+T89	MachineActivity 679 686	REPTree
+T90	HealthCareRelatedOrganization 921 930	Physionet
+T91	DiseaseOrSyndrome 976 978	HD
+T92	PopulationGroup 979 987	subjects
+T93	MachineActivity 1273 1275	RF
+T94	MachineActivity 1277 1280	J48
+T95	MachineActivity 1285 1292	REPTree
+T96	ResearchActivity 1436 1440	RMSE
+T97	ResearchActivity 1428 1431	MAE
+T98	ResearchActivity 1417 1426	F-Measure
+T99	ResearchActivity 1409 1415	Recall
+T100	Finding 1476 1487	performance
+T101	MachineActivity 1491 1513	tree based classifiers
+T102	DiseaseOrSyndrome 1628 1630	HD
+T103	MachineActivity 1641 1643	RF
+T104	ResearchActivity 1720 1737	complete features
+T105	ResearchActivity 1755 1772	selected features
+T106	MachineActivity 1848 1850	RF
+T107	ResearchActivity 1954 1971	complete features
+T108	ResearchActivity 2013 2030	selected features
+T109	ResearchActivity 2314 2331	selected features
+T110	ResearchActivity 2408 2425	selected features

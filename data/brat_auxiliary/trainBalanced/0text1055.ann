@@ -1,0 +1,146 @@
+T0	BiologicallyActiveSubstance 9 27	biological factors
+T1	PopulationGroup 123 132	Americans
+T2	Finding 133 139	living
+T3	DiseaseOrSyndrome 145 165	Alzheimer's dementia
+T4	PopulationGroup 217 220	men
+T5	Finding 236 255	genetic risk factor
+T6	PopulationGroup 306 312	Female
+T7	OrganismAttribute 306 312	Female
+T8	OrganismAttribute 374 379	males
+T9	HealthCareActivity 767 782	ultrafiltration
+T10	HealthCareActivity 784 786	UF
+T11	ResearchActivity 802 831	size exclusion chromatography
+T12	ResearchActivity 833 836	SEC
+T13	NucleicAcidNucleosideOrNucleotide 1011 1016	MiRNA
+T14	GeneOrGenome 1011 1016	MiRNA
+T15	Finding 1433 1439	status
+T16	Finding 1582 1592	senescence
+T17	TemporalConcept 1582 1592	senescence
+T18	CellFunction 1582 1592	senescence
+T19	OrganismAttribute 1711 1718	females
+T20	OrganismAttribute 1723 1728	males
+T21	DiseaseOrSyndrome 1745 1758	disease state
+T22	Finding 1771 1777	status
+T23	ResearchActivity 1799 1819	statistical analysis
+T24	AminoAcidPeptideOrProtein 1844 1848	APOE
+T25	ResearchActivity 1844 1848	APOE
+T26	GeneOrGenome 1844 1848	APOE
+T27	OrganismAttribute 1849 1857	genotype
+T28	ResearchActivity 1849 1857	genotype
+T29	Finding 1903 1909	status
+T30	OrganismAttribute 1956 1963	females
+T31	OrganismAttribute 1968 1973	males
+T32	BiologicallyActiveSubstance 2031 2049	biological factors
+T33	BiomedicalOccupationOrDiscipline 53 61	genetics
+T34	CellFunction 53 61	genetics
+T35	Cell 1397 1400	CTL
+T36	Finding 1514 1524	identified
+T37	TemporalConcept 346 356	frequently
+T38	TemporalConcept 260 268	sporadic
+T39	OrganismAttribute 903 909	female
+T40	Finding 1363 1386	significantly increased
+T41	Finding 1684 1707	significantly increased
+T42	DiseaseOrSyndrome 394 407	brain atrophy
+T43	OrganismAttribute 914 918	male
+T44	NucleicAcidNucleosideOrNucleotide 682 687	miRNA
+T45	NucleicAcidNucleosideOrNucleotide 1242 1247	miRNA
+T46	BiologicallyActiveSubstance 682 687	miRNA
+T47	BiologicallyActiveSubstance 1242 1247	miRNA
+T48	PopulationGroup 925 933	controls
+T49	PopulationGroup 191 196	women
+T50	PathologicFunction 2130 2145	pathophysiology
+T51	BiomedicalOccupationOrDiscipline 2130 2145	pathophysiology
+T52	PathologicFunction 608 619	progression
+T53	TemporalConcept 608 619	progression
+T54	OrganismAttribute 39 42	age
+T55	OrganismAttribute 362 365	age
+T56	CellComponent 723 745	extracellular vesicles
+T57	DiseaseOrSyndrome 73 92	Alzheimer's disease
+T58	CellComponent 747 750	EVs
+T59	CellComponent 852 855	EVs
+T60	CellComponent 880 883	EVs
+T61	DiseaseOrSyndrome 94 96	AD
+T62	DiseaseOrSyndrome 269 271	AD
+T63	DiseaseOrSyndrome 338 340	AD
+T64	DiseaseOrSyndrome 508 510	AD
+T65	DiseaseOrSyndrome 755 757	AD
+T66	DiseaseOrSyndrome 919 921	AD
+T67	DiseaseOrSyndrome 1195 1197	AD
+T68	DiseaseOrSyndrome 1281 1283	AD
+T69	DiseaseOrSyndrome 1390 1392	AD
+T70	DiseaseOrSyndrome 1861 1863	AD
+T71	DiseaseOrSyndrome 2066 2068	AD
+T72	DiseaseOrSyndrome 2127 2129	AD
+T73	CellComponent 1239 1241	EV
+T74	CellComponent 1943 1945	EV
+T75	CellComponent 2092 2094	EV
+T76	BodyPartOrganOrOrganComponent 718 721	CSF
+T77	BodyPartOrganOrOrganComponent 848 851	CSF
+T78	BodyPartOrganOrOrganComponent 876 879	CSF
+T79	BodyPartOrganOrOrganComponent 1128 1131	CSF
+T80	BodyPartOrganOrOrganComponent 1939 1942	CSF
+T81	Substance 711 716	fluid
+T82	BodyPartOrganOrOrganComponent 697 716	cerebrospinal fluid
+T83	OrganismAttribute 44 47	sex
+T84	OrganismAttribute 659 662	sex
+T85	OrganismAttribute 1288 1291	sex
+T86	OrganismAttribute 1417 1420	sex
+T87	OrganismAttribute 1876 1879	sex
+T88	ClinicalAttribute 439 449	biomarkers
+T89	ClinicalAttribute 1198 1208	biomarkers
+T90	NucleicAcidNucleosideOrNucleotide 1101 1107	miRNAs
+T91	NucleicAcidNucleosideOrNucleotide 1146 1152	miRNAs
+T92	NucleicAcidNucleosideOrNucleotide 1308 1314	miRNAs
+T93	NucleicAcidNucleosideOrNucleotide 1502 1508	miRNAs
+T94	NucleicAcidNucleosideOrNucleotide 1631 1637	miRNAs
+T95	NucleicAcidNucleosideOrNucleotide 1946 1952	miRNAs
+T96	NucleicAcidNucleosideOrNucleotide 2095 2101	miRNAs
+T97	BiologicallyActiveSubstance 1101 1107	miRNAs
+T98	BiologicallyActiveSubstance 1146 1152	miRNAs
+T99	BiologicallyActiveSubstance 1308 1314	miRNAs
+T100	BiologicallyActiveSubstance 1502 1508	miRNAs
+T101	BiologicallyActiveSubstance 1631 1637	miRNAs
+T102	BiologicallyActiveSubstance 1946 1952	miRNAs
+T103	BiologicallyActiveSubstance 2095 2101	miRNAs
+T104	CellFunction 1525 1533	pathways
+T105	ResearchActivity 1449 1457	analysis
+T106	PopulationGroup 993 998	group
+T107	HealthCareActivity 511 522	diagnostics
+T108	CellOrMolecularDysfunction 1557 1574	neurodegeneration
+T109	ResearchActivity 1990 1995	study
+T110	CellFunction 1597 1606	autophagy
+T111	PathologicFunction 648 658	effects of
+T112	CellFunction 688 693	cargo
+T113	CellFunction 1248 1253	cargo
+T114	DiseaseOrSyndrome 412 423	memory loss
+T115	SignOrSymptom 412 423	memory loss
+T116	PopulationGroup 321 329	carriers
+T117	PathologicFunction 600 619	disease progression
+T118	PathologicFunction 459 468	sensitive
+T119	Finding 483 495	risk factors
+T120	Finding 1402 1413	independent
+T121	Finding 1730 1741	independent
+T122	GeneOrGenome 275 294	apolipoprotein E-e4
+T123	GeneOrGenome 296 303	APOE-e4
+T124	GeneOrGenome 667 674	APOE-e4
+T125	AminoAcidPeptideOrProtein 863 872	Flotillin
+T126	BiologicallyActiveSubstance 863 872	Flotillin
+T127	CellFunction 1017 1027	expression
+T128	NucleicAcidNucleosideOrNucleotide 1639 1650	miR-146b-5p
+T129	BiologicallyActiveSubstance 1639 1650	miR-146b-5p
+T130	BiologicallyActiveSubstance 1639 1642;1652 1659	miR -150-5p
+T131	BiologicallyActiveSubstance 1639 1642;1665 1672	miR -342-3p
+T132	GeneOrGenome 1763 1770	APOE-e4
+T133	GeneOrGenome 313 320	APOE-e4
+T134	NucleicAcidNucleosideOrNucleotide 1316 1325	miR-16-5p
+T135	BiologicallyActiveSubstance 1316 1325	miR-16-5p
+T136	BiologicallyActiveSubstance 1316 1319;1327 1334	miR -331-3p
+T137	BiologicallyActiveSubstance 1316 1319;1336 1343	miR -409-3p
+T138	NucleicAcidNucleosideOrNucleotide 1316 1319;1327 1334	miR -331-3p
+T139	NucleicAcidNucleosideOrNucleotide 1316 1319;1336 1343	miR -409-3p
+T140	BiologicallyActiveSubstance 1316 1319;1349 1356	miR -454-3p
+T141	NucleicAcidNucleosideOrNucleotide 1316 1319;1349 1356	miR -454-3p
+T142	GeneOrGenome 1425 1432	APOE-e4
+T143	GeneOrGenome 1895 1902	APOE-e4
+T144	ResearchActivity 1066 1072;1078 1083	TaqMan array
+T145	GeneOrGenome 958 967	APOE-e3,4

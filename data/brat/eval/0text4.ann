@@ -1,0 +1,48 @@
+T0	BiologicFunction 263 286	physiology of olfaction
+T1	PopulationGroup 371 389	general population
+T2	HealthCareActivity 652 666	cross-cultural
+T3	ResearchActivity 652 666	cross-cultural
+T4	BodyPartOrganOrOrganComponent 736 750	olfactory bulb
+T5	PathologicFunction 834 854	olfactory impairment
+T6	PathologicFunction 856 877	Olfactory dysfunction
+T7	SignOrSymptom 913 921	manifest
+T8	PathologicFunction 1052 1072	olfactory impairment
+T9	PathologicFunction 1156 1177	olfactory dysfunction
+T10	DiseaseOrSyndrome 98 118	Huntington's disease
+T11	ResearchActivity 242 248	review
+T12	HealthCareActivity 242 248	review
+T13	DiseaseOrSyndrome 59 86	neurodegenerative disorders
+T14	ResearchActivity 517 521	data
+T15	TemporalConcept 1009 1024	advanced stages
+T16	DiseaseOrSyndrome 120 122	HD
+T17	DiseaseOrSyndrome 513 515	HD
+T18	DiseaseOrSyndrome 1076 1078	HD
+T19	CellOrMolecularDysfunction 300 317	neurodegeneration
+T20	ResearchActivity 787 794	studies
+T21	HealthCareActivity 1038 1047	treatment
+T22	ResearchActivity 1038 1047	treatment
+T23	PatientOrDisabledGroup 346 362	patients with HD
+T24	PatientOrDisabledGroup 922 938	patients with HD
+T25	PatientOrDisabledGroup 45 53	patients
+T26	PathologicFunction 143 158	pathophysiology
+T27	PatientOrDisabledGroup 754 773	individuals with HD
+T28	TemporalConcept 975 979	time
+T29	Finding 990 1005	severe deficits
+T30	SignOrSymptom 34 41	symptom
+T31	PharmacologicSubstance 1133 1144	medications
+T32	PopulationGroup 482 507	those older than 80 years
+T33	BiomedicalOccupationOrDiscipline 143 158	pathophysiology
+T34	ResearchActivity 231 241	literature
+T35	CellOrMolecularDysfunction 682 712	Pathogenic huntingtin deposits
+T36	AminoAcidPeptideOrProtein 693 712	huntingtin deposits
+T37	HealthCareActivity 190 221	preventive and therapeutic plan
+T38	HealthCareActivity 1245 1265	therapeutic strategy
+T39	HealthCareActivity 1198 1220	safety recommendations
+T40	DiseaseOrSyndrome 0 21	Olfactory dysfunction
+T41	DiseaseOrSyndrome 391 412	olfactory dysfunction
+T42	ResearchActivity 532 548	prevalence rates
+T43	DiseaseOrSyndrome 856 877	Olfactory dysfunction
+T44	Finding 950 969	progressive decline
+T45	DiseaseOrSyndrome 1156 1177	olfactory dysfunction
+T46	PathologicFunction 391 412	olfactory dysfunction
+T47	PathologicFunction 0 21	Olfactory dysfunction

@@ -1,0 +1,82 @@
+T0	AminoAcidPeptideOrProtein 0 33	Brain-derived neurotrophic factor
+T1	BiologicallyActiveSubstance 0 33	Brain-derived neurotrophic factor
+T2	Finding 156 163	lowered
+T3	ClinicalAttribute 340 357	molecular markers
+T4	ResearchActivity 649 682	enzyme-linked immunosorbent assay
+T5	ResearchActivity 692 704	Correlations
+T6	ClinicalAttribute 972 986	disease stages
+T7	HealthCareActivity 1030 1054	neurological examination
+T8	TemporalConcept 1121 1127	stages
+T9	BiologicFunction 127 139	neurogenesis
+T10	ClinicalAttribute 321 329	severity
+T11	ClinicalAttribute 440 448	severity
+T12	ClinicalAttribute 754 762	severity
+T13	ClinicalAttribute 1346 1354	severity
+T14	ResearchActivity 729 746	clinical profiles
+T15	Finding 321 329	severity
+T16	Finding 440 448	severity
+T17	Finding 754 762	severity
+T18	Finding 1346 1354	severity
+T19	CellFunction 60 68	survival
+T20	BiologicFunction 73 83	maturation
+T21	HealthCareActivity 1085 1095	evaluation
+T22	ResearchActivity 1085 1095	evaluation
+T23	HealthCareActivity 536 545	diagnosed
+T24	Finding 416 428	relationship
+T25	Finding 1321 1333	relationship
+T26	AminoAcidPeptideOrProtein 35 39	BDNF
+T27	AminoAcidPeptideOrProtein 464 468	BDNF
+T28	AminoAcidPeptideOrProtein 602 606	BDNF
+T29	AminoAcidPeptideOrProtein 713 717	BDNF
+T30	AminoAcidPeptideOrProtein 791 795	BDNF
+T31	AminoAcidPeptideOrProtein 903 907	BDNF
+T32	AminoAcidPeptideOrProtein 988 992	BDNF
+T33	AminoAcidPeptideOrProtein 1245 1249	BDNF
+T34	AminoAcidPeptideOrProtein 1385 1389	BDNF
+T35	BiologicallyActiveSubstance 35 39	BDNF
+T36	BiologicallyActiveSubstance 464 468	BDNF
+T37	BiologicallyActiveSubstance 602 606	BDNF
+T38	BiologicallyActiveSubstance 713 717	BDNF
+T39	BiologicallyActiveSubstance 791 795	BDNF
+T40	BiologicallyActiveSubstance 903 907	BDNF
+T41	BiologicallyActiveSubstance 988 992	BDNF
+T42	BiologicallyActiveSubstance 1245 1249	BDNF
+T43	BiologicallyActiveSubstance 1385 1389	BDNF
+T44	SignOrSymptom 918 932	motor symptoms
+T45	PopulationGroup 590 600	volunteers
+T46	BodyPartOrganOrOrganComponent 457 463	plasma
+T47	BodyPartOrganOrOrganComponent 633 639	plasma
+T48	ResearchActivity 684 689	ELISA
+T49	DiseaseOrSyndrome 937 957	cognitive impairment
+T50	ResearchActivity 1139 1151	correlations
+T51	ResearchActivity 1166 1195	Multidirectional correlations
+T52	Cell 87 94	neurons
+T53	OrganismAttribute 582 589	healthy
+T54	DiseaseOrSyndrome 172 198	neurodegenerative diseases
+T55	PatientOrDisabledGroup 522 530	patients
+T56	DiseaseOrSyndrome 210 230	Huntington's disease
+T57	DiseaseOrSyndrome 232 234	HD
+T58	DiseaseOrSyndrome 258 260	HD
+T59	DiseaseOrSyndrome 437 439	HD
+T60	DiseaseOrSyndrome 572 574	HD
+T61	DiseaseOrSyndrome 751 753	HD
+T62	DiseaseOrSyndrome 1118 1120	HD
+T63	ResearchActivity 389 394	study
+T64	ResearchActivity 503 508	study
+T65	PopulationGroup 118 126	controls
+T66	PatientOrDisabledGroup 486 497	HD patients
+T67	PatientOrDisabledGroup 829 840	HD patients
+T68	ResearchActivity 879 890	correlation
+T69	BiologicFunction 1056 1068	independence
+T70	BiologicallyActiveSubstance 791 801	BDNF level
+T71	ClinicalAttribute 903 913	BDNF level
+T72	ClinicalAttribute 1245 1255	BDNF level
+T73	ClinicalAttribute 457 482	plasma BDNF concentration
+T74	ClinicalAttribute 602 613	BDNF levels
+T75	ClinicalAttribute 713 724	BDNF levels
+T76	TemporalConcept 966 971	early
+T77	ClinicalAttribute 988 999	BDNF levels
+T78	TemporalConcept 1112 1117	later
+T79	DiseaseOrSyndrome 1218 1236	saccadic disorders
+T80	DiseaseOrSyndrome 1358 1376	saccadic disorders
+T81	ClinicalAttribute 1385 1403	BDNF concentration

@@ -1,0 +1,8 @@
+T0	BodyPartOrganOrOrganComponent 134 139	brain
+T1	CellOrMolecularDysfunction 151 168	neurodegeneration
+T2	CellFunction 45 66	microglial activation
+T3	TemporalConcept 89 96	chronic
+T4	PathologicFunction 97 114	neuroinflammatory
+T5	Bacterium 0 20	Chlamydia pneumoniae
+T6	Finding 28 41	dysregulation
+T7	NaturalPhenomenonOrProcess 115 126	environment

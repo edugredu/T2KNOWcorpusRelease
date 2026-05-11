@@ -1,0 +1,41 @@
+T0	Cell 228 236	pericyte
+T1	CellFunction 387 409	cell-cell interactions
+T2	BodyPartOrganOrOrganComponent 449 466	basement membrane
+T3	Cell 472 489	endothelial cells
+T4	Cell 491 494	PCs
+T5	Cell 533 544	endothelial
+T6	Cell 546 555	astrocyte
+T7	Cell 561 586	oligodendrocyte precursor
+T8	ClinicalAttribute 697 712	oxygen delivery
+T9	Cell 774 777	PCs
+T10	ResearchActivity 754 760	review
+T11	HealthCareActivity 754 760	review
+T12	DiseaseOrSyndrome 663 689	neurodegenerative diseases
+T13	BodyPartOrganOrOrganComponent 122 130	vascular
+T14	BodyPartOrganOrOrganComponent 607 626	blood-brain barrier
+T15	BodyPartOrganOrOrganComponent 781 803	central nervous system
+T16	TemporalConcept 855 861	origin
+T17	ClinicalAttribute 1029 1048	potential biomarker
+T18	HealthCareActivity 92 102	prevention
+T19	PathologicFunction 896 907	dysfunction
+T20	HealthCareActivity 804 810	health
+T21	InjuryOrPoisoning 161 173	brain damage
+T22	HealthCareActivity 1096 1121	therapeutic interventions
+T23	CellFunction 11 26	neuroprotection
+T24	CellFunction 954 969	neuroprotection
+T25	InjuryOrPoisoning 349 355	injury
+T26	TemporalConcept 49 61	contemporary
+T27	BiologicFunction 62 86	microvascular protection
+T28	PathologicFunction 106 144	disease-induced vascular modifications
+T29	Cell 310 328	neurovascular unit
+T30	Cell 330 333	NVU
+T31	Cell 238 240	PC
+T32	CellFunction 607 636	blood-brain barrier stability
+T33	Cell 741 744	NVU
+T34	CellFunction 863 875	multipotency
+T35	CellOrMolecularDysfunction 971 998	Dysfunctional PC signalling
+T36	CellOrMolecularDysfunction 1052 1065	NVU pathology
+T37	HealthCareActivity 1123 1140	monitor responses
+T38	HealthCareActivity 1145 1161	predict outcomes
+T39	CellFunction 387 396;414 423	cell-cell crosstalk
+T40	DiseaseOrSyndrome 643 658;681 689	cerebrovascular diseases

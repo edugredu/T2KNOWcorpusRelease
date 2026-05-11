@@ -1,0 +1,80 @@
+T0	ResearchActivity 192 209	therapeutic trial
+T1	HealthCareActivity 215 248	Huntington's Disease Health Index
+T2	HealthCareActivity 250 255	HD-HI
+T3	ResearchActivity 537 548	reliability
+T4	HealthCareActivity 638 643	HD-HI
+T5	Finding 760 769	questions
+T6	DiseaseOrSyndrome 778 783	HD-HI
+T7	ResearchActivity 824 839	factor analysis
+T8	ResearchActivity 900 923	test-retest reliability
+T9	HealthCareActivity 924 935	assessments
+T10	BiologicFunction 924 935	assessments
+T11	DiseaseOrSyndrome 1002 1007	HD-HI
+T12	HealthCareActivity 1053 1058	HD-HI
+T13	Finding 1115 1119	high
+T14	SignOrSymptom 1164 1173	prodromal
+T15	Finding 1223 1242	mobility impairment
+T16	MolecularSequence 1315 1322	domains
+T17	HealthCareActivity 1358 1363	HD-HI
+T18	HealthCareActivity 1369 1374	HD-HI
+T19	ResearchActivity 1430 1441	reliability
+T20	BiologicFunction 1492 1499	content
+T21	ResearchActivity 1516 1525	usability
+T22	HealthCareActivity 1537 1542	HD-HI
+T23	Finding 1543 1548	score
+T24	CellFunction 1573 1601	statistically differentiated
+T25	Finding 1641 1645	high
+T26	Finding 1653 1656	low
+T27	HealthCareActivity 1711 1716	HD-HI
+T28	ResearchActivity 1743 1754	reliability
+T29	BiologicFunction 582 595	understanding
+T30	ResearchActivity 1657 1671	disease burden
+T31	PatientOrDisabledGroup 944 963	individuals with HD
+T32	PatientOrDisabledGroup 1783 1802	individuals with HD
+T33	HealthCareRelatedOrganization 386 389	FDA
+T34	TemporalConcept 1009 1015	Lastly
+T35	CellFunction 1062 1075	differentiate
+T36	HealthCareActivity 1693 1703	evaluation
+T37	ResearchActivity 1693 1703	evaluation
+T38	ResearchActivity 495 510	clinical trials
+T39	ClinicalAttribute 390 398	guidance
+T40	PopulationGroup 677 683	people
+T41	ResearchActivity 1244 1251	Results
+T42	PopulationGroup 1097 1109	participants
+T43	PopulationGroup 1256 1268	participants
+T44	PopulationGroup 1460 1472	participants
+T45	PopulationGroup 1623 1635	participants
+T46	Finding 527 535	validity
+T47	Finding 1730 1738	validity
+T48	SignOrSymptom 1303 1314	symptomatic
+T49	DiseaseOrSyndrome 215 235	Huntington's Disease
+T50	DiseaseOrSyndrome 603 623	Huntington's Disease
+T51	SignOrSymptom 1181 1189	manifest
+T52	HealthCareActivity 1131 1156	total functional capacity
+T53	BiologicFunction 432 443	development
+T54	CellFunction 432 443	development
+T55	PopulationGroup 875 886	individuals
+T56	PopulationGroup 944 955	individuals
+T57	PopulationGroup 1783 1794	individuals
+T58	Finding 1198 1204	normal
+T59	DiseaseOrSyndrome 689 709	Huntington's disease
+T60	DiseaseOrSyndrome 711 713	HD
+T61	DiseaseOrSyndrome 892 894	HD
+T62	DiseaseOrSyndrome 961 963	HD
+T63	DiseaseOrSyndrome 1094 1096	HD
+T64	DiseaseOrSyndrome 1190 1192	HD
+T65	DiseaseOrSyndrome 1253 1255	HD
+T66	DiseaseOrSyndrome 1620 1622	HD
+T67	DiseaseOrSyndrome 1800 1802	HD
+T68	HealthCareActivity 719 729	caregivers
+T69	Finding 1137 1156	functional capacity
+T70	PatientOrDisabledGroup 54 61	patient
+T71	PatientOrDisabledGroup 144 151	patient
+T72	PatientOrDisabledGroup 574 581	patient
+T73	HealthCareActivity 292 324	patient reported outcome measure
+T74	HealthCareActivity 326 330	PROM
+T75	HealthCareActivity 414 419	PROMs
+T76	HealthCareActivity 603 636	Huntington's Disease Health Index
+T77	HealthCareActivity 1760 1764	PROM
+T78	HealthCareActivity 841 861	cognitive interviews
+T79	Finding 71 87	outcome measures

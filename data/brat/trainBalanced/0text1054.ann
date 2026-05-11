@@ -1,0 +1,62 @@
+T0	NucleicAcidNucleosideOrNucleotide 422 427	dsDNA
+T1	BiologicFunction 668 690	physiological function
+T2	DiseaseOrSyndrome 934 947	prion disease
+T3	DiseaseOrSyndrome 883 912	Amyotrophic lateral sclerosis
+T4	CellOrMolecularDysfunction 729 741	deregulation
+T5	Finding 1230 1259	potential therapeutic benefit
+T6	CellFunction 74 94	cellular homeostasis
+T7	DiseaseOrSyndrome 952 972	Huntington's disease
+T8	OrganismAttribute 262 275	heterogeneous
+T9	HealthCareActivity 1170 1191	clinical applications
+T10	CellFunction 703 718	neuroprotection
+T11	ManufacturedObject 1201 1219	engineered MSC-EVs
+T12	DiseaseOrSyndrome 914 932	multiple sclerosis
+T13	NaturalPhenomenonOrProcess 493 509	microenvironment
+T14	BodyPartOrganOrOrganComponent 493 509	microenvironment
+T15	CellComponent 171 193	extracellular vesicles
+T16	DiseaseOrSyndrome 841 860	Alzheimer's disease
+T17	CellComponent 195 198	EVs
+T18	CellComponent 311 314	EVs
+T19	CellComponent 540 543	EVs
+T20	CellComponent 989 992	EVs
+T21	CellComponent 1216 1219	EVs
+T22	DiseaseOrSyndrome 862 881	Parkinson's disease
+T23	Cell 236 241	cells
+T24	Cell 445 450	cells
+T25	Cell 1000 1004	cell
+T26	Cell 1066 1070	cell
+T27	HealthCareActivity 1097 1108	diagnostics
+T28	DiseaseOrSyndrome 805 831	neurodegenerative diseases
+T29	DiseaseOrSyndrome 1272 1298	neurodegenerative diseases
+T30	CellFunction 353 358	cargo
+T31	ResearchActivity 104 110	review
+T32	HealthCareActivity 104 110	review
+T33	NucleicAcidNucleosideOrNucleotide 415 420	miRNA
+T34	BiologicallyActiveSubstance 415 420	miRNA
+T35	AminoAcidPeptideOrProtein 373 381	proteins
+T36	HealthCareActivity 1113 1120	therapy
+T37	BiologicFunction 83 94	homeostasis
+T38	Chemical 383 389	lipids
+T39	CellComponent 207 215	vesicles
+T40	NucleicAcidNucleosideOrNucleotide 394 407	nucleic acids
+T41	BodyPartOrganOrOrganComponent 249 253	body
+T42	Cell 74 82	cellular
+T43	CellFunction 34 61	intercellular communication
+T44	CellFunction 628 655	intercellular communication
+T45	HealthCareActivity 48 61	communication
+T46	HealthCareActivity 150 163	communication
+T47	HealthCareActivity 642 655	communication
+T48	HealthCareActivity 755 768	communication
+T49	CellFunction 48 61	communication
+T50	CellFunction 150 163	communication
+T51	CellFunction 642 655	communication
+T52	CellFunction 755 775	communication system
+T53	Cell 1212 1215	MSC
+T54	Cell 559 569	stem cells
+T55	Cell 571 575	MSCs
+T56	AminoAcidPeptideOrProtein 934 939	prion
+T57	NucleicAcidNucleosideOrNucleotide 409 413	mRNA
+T58	Cell 547 569	mesenchymal stem cells
+T59	BodyPartOrganOrOrganComponent 584 598	nervous system
+T60	BiologicallyActiveSubstance 409 413	mRNA
+T61	CellFunction 978 992	release of EVs

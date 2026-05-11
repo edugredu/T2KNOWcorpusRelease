@@ -1,0 +1,141 @@
+T0	CellFunction 350 364	depolarization
+T1	CellComponent 368 380	synaptosomes
+T2	PharmacologicSubstance 384 387	KCl
+T3	Chemical 407 413	FM2-10
+T4	BodyPartOrganOrOrganComponent 572 577	fresh
+T5	CellComponent 584 596	synaptosomes
+T6	CellFunction 598 612	Depolarization
+T7	BiologicallyActiveSubstance 1082 1092	syntenin-1
+T8	AminoAcidPeptideOrProtein 1082 1092	syntenin-1
+T9	GeneOrGenome 1140 1143	HEK
+T10	ManufacturedObject 1148 1157	biosensor
+T11	ResearchActivity 1217 1246	Size exclusion chromatography
+T12	ResearchActivity 1474 1481	seeding
+T13	ResearchActivity 1970 1977	seeding
+T14	CellFunction 2013 2027	depolarization
+T15	CellComponent 2031 2043	synaptosomes
+T16	OrganismAttribute 1016 1026	appearance
+T17	AminoAcidPeptideOrProtein 788 797	oligomers
+T18	AminoAcidPeptideOrProtein 746 758	tau peptides
+T19	ResearchActivity 523 536	cryopreserved
+T20	ResearchActivity 293 304	experiments
+T21	Substance 959 971	supernatants
+T22	ResearchActivity 317 337	flow cytometry assay
+T23	ResearchActivity 1140 1163	HEK tau biosensor assay
+T24	ResearchActivity 1996 2001	assay
+T25	CellComponent 710 732	extracellular vesicles
+T26	DiseaseOrSyndrome 1446 1448	AD
+T27	DiseaseOrSyndrome 1507 1509	AD
+T28	DiseaseOrSyndrome 1588 1590	AD
+T29	DiseaseOrSyndrome 2288 2290	AD
+T30	ClinicalAttribute 1075 1081	marker
+T31	ClinicalAttribute 699 706	markers
+T32	BodyPartOrganOrOrganComponent 1854 1872	synaptic terminals
+T33	AminoAcidPeptideOrProtein 1547 1556	A beta 42
+T34	PathologicFunction 67 76	pathology
+T35	BiomedicalOccupationOrDiscipline 67 76	pathology
+T36	AminoAcidPeptideOrProtein 21 24	tau
+T37	AminoAcidPeptideOrProtein 264 267	tau
+T38	AminoAcidPeptideOrProtein 746 749	tau
+T39	AminoAcidPeptideOrProtein 784 787	tau
+T40	AminoAcidPeptideOrProtein 808 811	tau
+T41	AminoAcidPeptideOrProtein 985 988	tau
+T42	AminoAcidPeptideOrProtein 1144 1147	tau
+T43	AminoAcidPeptideOrProtein 1302 1305	tau
+T44	AminoAcidPeptideOrProtein 1617 1620	tau
+T45	AminoAcidPeptideOrProtein 1833 1836	tau
+T46	AminoAcidPeptideOrProtein 1912 1915	tau
+T47	AminoAcidPeptideOrProtein 1966 1969	tau
+T48	AminoAcidPeptideOrProtein 2095 2098	tau
+T49	AminoAcidPeptideOrProtein 2178 2181	tau
+T50	AminoAcidPeptideOrProtein 2213 2216	tau
+T51	Eukaryote 61 66	human
+T52	Eukaryote 537 542	human
+T53	BiologicallyActiveSubstance 21 24	tau
+T54	BiologicallyActiveSubstance 264 267	tau
+T55	BiologicallyActiveSubstance 746 749	tau
+T56	BiologicallyActiveSubstance 784 787	tau
+T57	BiologicallyActiveSubstance 808 811	tau
+T58	BiologicallyActiveSubstance 985 988	tau
+T59	BiologicallyActiveSubstance 1144 1147	tau
+T60	BiologicallyActiveSubstance 1302 1305	tau
+T61	BiologicallyActiveSubstance 1617 1620	tau
+T62	BiologicallyActiveSubstance 1833 1836	tau
+T63	BiologicallyActiveSubstance 1912 1915	tau
+T64	BiologicallyActiveSubstance 1966 1969	tau
+T65	BiologicallyActiveSubstance 2095 2098	tau
+T66	BiologicallyActiveSubstance 2178 2181	tau
+T67	BiologicallyActiveSubstance 2213 2216	tau
+T68	BiologicallyActiveSubstance 1547 1556	A beta 42
+T69	Substance 543 550	samples
+T70	Substance 2119 2126	samples
+T71	BodyPartOrganOrOrganComponent 543 550	samples
+T72	BodyPartOrganOrOrganComponent 2119 2126	samples
+T73	CellFunction 1289 1296	signals
+T74	CellComponent 176 198	Extracellular vesicles
+T75	DiseaseOrSyndrome 2049 2060	Alzheimer's
+T76	ResearchActivity 111 119	in vitro
+T77	Eukaryote 578 583	mouse
+T78	AminoAcidPeptideOrProtein 874 880	A beta
+T79	AminoAcidPeptideOrProtein 1547 1553	A beta
+T80	AminoAcidPeptideOrProtein 1709 1715	A beta
+T81	AminoAcidPeptideOrProtein 1840 1846	A beta
+T82	AminoAcidPeptideOrProtein 2316 2323	amyloid
+T83	BiologicallyActiveSubstance 2316 2323	amyloid
+T84	BodyPartOrganOrOrganComponent 2061 2067	cortex
+T85	CellFunction 1121 1132	aggregation
+T86	CellFunction 1204 1215	aggregation
+T87	CellFunction 2230 2241	aggregation
+T88	ResearchActivity 1121 1132	aggregation
+T89	ResearchActivity 1204 1215	aggregation
+T90	ResearchActivity 2230 2241	aggregation
+T91	ResearchActivity 124 131	in vivo
+T92	CellComponent 636 644	vesicles
+T93	NaturalPhenomenonOrProcess 431 443	fluorescence
+T94	AminoAcidPeptideOrProtein 687 698	tetraspanin
+T95	BiologicallyActiveSubstance 687 698	tetraspanin
+T96	AminoAcidPeptideOrProtein 1340 1344	CD63
+T97	BiologicallyActiveSubstance 1340 1344	CD63
+T98	OrganismAttribute 652 656	size
+T99	OrganismAttribute 1363 1367	size
+T100	GeneOrGenome 1340 1344	CD63
+T101	Finding 444 453	reduction
+T102	Finding 510 519	reduction
+T103	NaturalPhenomenonOrProcess 444 453	reduction
+T104	NaturalPhenomenonOrProcess 510 519	reduction
+T105	DiseaseOrSyndrome 1431 1440	tauopathy
+T106	DiseaseOrSyndrome 1485 1494	tauopathy
+T107	DiseaseOrSyndrome 2273 2282	tauopathy
+T108	CellComponent 470 486	synaptic vesicle
+T109	AminoAcidPeptideOrProtein 1799 1804	prion
+T110	CellComponent 207 215	exosomes
+T111	CellComponent 666 674	exosomes
+T112	CellComponent 917 925	exosomes
+T113	CellComponent 1104 1112	exosomes
+T114	CellComponent 1268 1276	exosomes
+T115	CellComponent 1921 1929	exosomes
+T116	CellComponent 271 279	exosomal
+T117	CellComponent 1066 1074	exosomal
+T118	CellComponent 1354 1362	exosomal
+T119	CellComponent 1608 1616	exosomal
+T120	CellComponent 2185 2193	exosomal
+T121	BodyPartOrganOrOrganComponent 1591 1599	synapses
+T122	AminoAcidPeptideOrProtein 750 758	peptides
+T123	CellFunction 0 17	Synaptic transfer
+T124	CellFunction 470 494	synaptic vesicle release
+T125	CellFunction 625 644	release of vesicles
+T126	AminoAcidPeptideOrProtein 847 857	C-terminal
+T127	ResearchActivity 931 945	immunopurified
+T128	Chemical 1030 1033	SDS
+T129	CellComponent 1404 1416	synaptosomes
+T130	CellFunction 1380 1396	seeding activity
+T131	CellFunction 1672 1688	seeding activity
+T132	CellFunction 1970 1986	seeding activity
+T133	AminoAcidPeptideOrProtein 2151 2161	C-terminal
+T134	CellFunction 2243 2259	Seeding activity
+T135	AminoAcidPeptideOrProtein 1629 1639	C-terminal
+T136	CellOrMolecularDysfunction 1629 1649	C-terminal-truncated
+T137	CellOrMolecularDysfunction 2151 2171	C-terminal-truncated
+T138	CellOrMolecularDysfunction 847 867	C-terminal truncated
+T139	PharmacologicSubstance 1030 1033	SDS
+T140	AminoAcidPeptideOrProtein 1041 1050	oligomers

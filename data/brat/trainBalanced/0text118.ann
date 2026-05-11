@@ -1,0 +1,58 @@
+T0	DiseaseOrSyndrome 12 31	Parkinson's disease
+T1	DiseaseOrSyndrome 33 35	PD
+T2	HealthCareActivity 218 222	CVLT
+T3	BiologicFunction 235 241	recall
+T4	BiologicFunction 246 267	recognition abilities
+T5	BiologicFunction 373 379	recall
+T6	BiologicFunction 384 395	recognition
+T7	DiseaseOrSyndrome 412 414	PD
+T8	Finding 440 462	comparable performance
+T9	ClinicalAttribute 451 462	performance
+T10	BiologicFunction 507 513	recall
+T11	HealthCareActivity 597 601	CVLT
+T12	BiologicFunction 707 729	verbal memory function
+T13	PatientOrDisabledGroup 772 791	individuals with PD
+T14	DiseaseOrSyndrome 789 791	PD
+T15	BiomedicalOccupationOrDiscipline 1057 1066	education
+T16	PatientOrDisabledGroup 1116 1124	HD group
+T17	PatientOrDisabledGroup 1164 1172	PD group
+T18	BiologicFunction 1192 1198	recall
+T19	Finding 1249 1266	group differences
+T20	PatientOrDisabledGroup 1357 1376	individuals with HD
+T21	Finding 1381 1394	more impaired
+T22	BiologicFunction 1447 1453	recall
+T23	BiologicFunction 1458 1485	recognition memory function
+T24	HealthCareActivity 1493 1497	CVLT
+T25	HealthCareActivity 1526 1547	assessments of recall
+T26	BiologicFunction 1541 1547	recall
+T27	BiologicFunction 1552 1579	recognition memory function
+T28	ResearchActivity 1654 1662	profiles
+T29	DiseaseOrSyndrome 1666 1677	memory loss
+T30	SignOrSymptom 1666 1677	memory loss
+T31	DiseaseOrSyndrome 1691 1720	neurodegenerative populations
+T32	DiseaseOrSyndrome 1732 1734	PD
+T33	BiologicFunction 112 137	frontal-striatal function
+T34	BiologicFunction 142 156	memory ability
+T35	HealthCareActivity 185 216	California Verbal Learning Test
+T36	PatientOrDisabledGroup 335 354	individuals with HD
+T37	Finding 367 379	worse recall
+T38	BiologicFunction 1203 1231	recognition discriminability
+T39	ResearchActivity 1288 1316	large Cohen's d effect sizes
+T40	BiologicFunction 518 546	recognition discriminability
+T41	HealthCareActivity 603 610	CVLT-II
+T42	HealthCareActivity 615 621	CVLT-3
+T43	HealthCareActivity 831 838	CVLT-II
+T44	BiologicFunction 850 873	recall discriminability
+T45	HealthCareActivity 1071 1094	Dementia Rating Scale-2
+T46	HealthCareActivity 875 911	immediate, short delay free and cued
+T47	HealthCareActivity 913 937	long delay free and cued
+T48	BiologicFunction 943 971	recognition discriminability
+T49	PatientOrDisabledGroup 1400 1419	individuals with PD
+T50	DiseaseOrSyndrome 63 65	HD
+T51	DiseaseOrSyndrome 816 818	HD
+T52	DiseaseOrSyndrome 1739 1741	HD
+T53	DiseaseOrSyndrome 41 61	Huntington's disease
+T54	DiseaseOrSyndrome 75 101	neurodegenerative diseases
+T55	ResearchActivity 158 165	Studies
+T56	HealthCareActivity 973 1007	total, source, semantic, and novel
+T57	HealthCareActivity 1526 1537;1552 1579	assessments recognition memory function

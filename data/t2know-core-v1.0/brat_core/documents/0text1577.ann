@@ -1,0 +1,91 @@
+T0	DiseaseOrSyndrome 151 160	condition
+T1	GeneOrGenome 402 407	genes
+T2	GeneOrGenome 1080 1085	genes
+T3	ResearchActivity 1113 1119	mapped
+T4	GeneOrGenome 1190 1195	ORAI2
+T5	AminoAcidPeptideOrProtein 1190 1195	ORAI2
+T6	GeneOrGenome 1313 1318	STIM1
+T7	AminoAcidPeptideOrProtein 1313 1318	STIM1
+T8	GeneOrGenome 1323 1328	TRPC3
+T9	GeneOrGenome 1358 1363	ORAI2
+T10	AminoAcidPeptideOrProtein 1358 1363	ORAI2
+T11	GeneOrGenome 1391 1395	TPI1
+T12	GeneOrGenome 1397 1402	STIM1
+T13	AminoAcidPeptideOrProtein 1397 1402	STIM1
+T14	GeneOrGenome 1408 1413	TRPC3
+T15	PopulationGroup 1422 1429	network
+T16	CellFunction 1422 1429	network
+T17	GeneOrGenome 1437 1447	ORAI2 gene
+T18	ResearchActivity 1575 1591	cross-validation
+T19	DiseaseOrSyndrome 1743 1759	genetic diseases
+T20	PathologicFunction 1478 1500	molecular pathogenesis
+T21	ResearchActivity 531 569	Gene Expression Omnibus (GEO) database
+T22	ResearchActivity 791 806	STRING database
+T23	ResearchActivity 1045 1055	experiment
+T24	TemporalConcept 93 102	adulthood
+T25	GeneOrGenome 1657 1681	disease-associated genes
+T26	Finding 271 279	etiology
+T27	TemporalConcept 17 24	chronic
+T28	HealthCareActivity 489 496	therapy
+T29	CellFunction 392 401	expressed
+T30	HealthCareActivity 323 335	therapeutics
+T31	HealthCareActivity 1722 1734	therapeutics
+T32	PathologicFunction 131 143	pathogenesis
+T33	DiseaseOrSyndrome 35 54	Alzheimer's disease
+T34	DiseaseOrSyndrome 56 58	AD
+T35	DiseaseOrSyndrome 283 285	AD
+T36	DiseaseOrSyndrome 425 427	AD
+T37	DiseaseOrSyndrome 615 617	AD
+T38	DiseaseOrSyndrome 723 725	AD
+T39	DiseaseOrSyndrome 1110 1112	AD
+T40	DiseaseOrSyndrome 1262 1264	AD
+T41	DiseaseOrSyndrome 1504 1506	AD
+T42	ClinicalAttribute 1208 1217	biomarker
+T43	PopulationGroup 114 125	individuals
+T44	PathologicFunction 1267 1278	progression
+T45	TemporalConcept 1267 1278	progression
+T46	PopulationGroup 1556 1562	groups
+T47	DiseaseOrSyndrome 71 79	dementia
+T48	TemporalConcept 4 15	progressive
+T49	ClinicalAttribute 440 460	potential biomarkers
+T50	ClinicalAttribute 827 837	biomarkers
+T51	ClinicalAttribute 1096 1106	biomarkers
+T52	ResearchActivity 950 955	model
+T53	PatientOrDisabledGroup 411 419	patients
+T54	MachineActivity 361 388	machine-learning techniques
+T55	MachineActivity 864 922	supervised machine-learning (ML) classification algorithms
+T56	ResearchActivity 342 347	study
+T57	TemporalConcept 482 488	future
+T58	ResearchActivity 1292 1300	analysis
+T59	ResearchActivity 502 509	dataset
+T60	TemporalConcept 663 671	temporal
+T61	TemporalConcept 1155 1163	temporal
+T62	PopulationGroup 106 113	elderly
+T63	BodyPartOrganOrOrganComponent 646 657;672 679	hippocampal regions
+T64	BodyPartOrganOrOrganComponent 1138 1149;1164 1171	hippocampal regions
+T65	ResearchActivity 726 732	models
+T66	Finding 956 966	prediction
+T67	Finding 1602 1610	accuracy
+T68	BodyPartOrganOrOrganComponent 618 631	blood samples
+T69	CellFunction 1284 1291	pathway
+T70	BiologicFunction 245 258	understanding
+T71	BodyPartOrganOrOrganComponent 663 679	temporal regions
+T72	BodyPartOrganOrOrganComponent 1155 1171	temporal regions
+T73	ResearchActivity 734 767	Prioritized gene cluster analyses
+T74	HealthCareActivity 201 210	treatment
+T75	ResearchActivity 201 210	treatment
+T76	HealthCareActivity 698 710	investigated
+T77	ResearchActivity 589 597	GSE36980
+T78	MachineActivity 987 1038	explainable artificial intelligence (AI) techniques
+T79	BodyPartOrganOrOrganComponent 1129 1136;1164 1171	frontal regions
+T80	MachineActivity 1612 1614	AI
+T81	MachineActivity 1619 1621	ML
+T82	BodyPartOrganOrOrganComponent 637 644;672 679	frontal regions
+T83	BiologicallyActiveSubstance 1190 1195	ORAI2
+T84	BiologicallyActiveSubstance 1358 1363	ORAI2
+T85	BiologicallyActiveSubstance 1313 1318	STIM1
+T86	BiologicallyActiveSubstance 1397 1402	STIM1
+T87	AminoAcidPeptideOrProtein 1408 1413	TRPC3
+T88	BiologicallyActiveSubstance 1408 1413	TRPC3
+T89	AminoAcidPeptideOrProtein 1323 1328	TRPC3
+T90	BiologicallyActiveSubstance 1323 1328	TRPC3

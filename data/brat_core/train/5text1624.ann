@@ -1,0 +1,10 @@
+T0	Finding 88 96	evidence
+T1	TemporalConcept 0 8	Recently
+T2	PatientOrDisabledGroup 68 76	patients
+T3	TemporalConcept 82 87	early
+T4	DiseaseOrSyndrome 100 102	AD
+T5	Bacterium 10 21	spirochetal
+T6	BodyPartOrganOrOrganComponent 38 54	olfactory tracts
+T7	BodyPartOrganOrOrganComponent 38 47;59 64	olfactory bulbs
+T8	CellOrMolecularDysfunction 103 120	neurodegeneration
+T9	Finding 22 30	invasion

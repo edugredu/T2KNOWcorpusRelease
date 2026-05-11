@@ -1,0 +1,86 @@
+T0	HealthCareActivity 12 22	Assessment
+T1	ResearchActivity 12 22	Assessment
+T2	BodyPartOrganOrOrganComponent 155 175	left parietal cortex
+T3	HealthCareActivity 188 211	electroencephalographic
+T4	Finding 220 227	rhythms
+T5	BiologicFunction 220 227	rhythms
+T6	ResearchActivity 680 710	Multicenter longitudinal study
+T7	BiologicFunction 1230 1240	estimation
+T8	BodyPartOrganOrOrganComponent 1386 1403	lateral ventricle
+T9	ResearchActivity 1641 1658	statistical power
+T10	DiseaseOrSyndrome 405 434	prodromal Alzheimer's disease
+T11	BodyPartOrganOrOrganComponent 1356 1381	hippocampal dentate gyrus
+T12	BodyPartOrganOrOrganComponent 1571 1596	hippocampal dentate gyrus
+T13	PathologicFunction 1668 1687	disease development
+T14	Finding 1628 1636	improved
+T15	DiseaseOrSyndrome 32 45	brain atrophy
+T16	TemporalConcept 1703 1723	clinical progression
+T17	ResearchActivity 1003 1023	longitudinal changes
+T18	ResearchActivity 1159 1179	longitudinal changes
+T19	ResearchActivity 654 669	clinical trials
+T20	ResearchActivity 1805 1820	clinical trials
+T21	DiseaseOrSyndrome 641 653	prodromal AD
+T22	DiseaseOrSyndrome 888 900	prodromal AD
+T23	DiseaseOrSyndrome 385 389	aMCI
+T24	DiseaseOrSyndrome 878 882	aMCI
+T25	DiseaseOrSyndrome 436 438	AD
+T26	ClinicalAttribute 313 322	biomarker
+T27	ClinicalAttribute 611 620	biomarker
+T28	ClinicalAttribute 1544 1553	biomarker
+T29	PatientOrDisabledGroup 391 399	patients
+T30	BiologicFunction 746 757	development
+T31	CellFunction 746 757	development
+T32	TemporalConcept 1742 1748	period
+T33	DiseaseOrSyndrome 770 778	dementia
+T34	DiseaseOrSyndrome 1824 1827	MCI
+T35	Finding 1433 1444	sensitivity
+T36	TemporalConcept 972 976	time
+T37	TemporalConcept 1076 1080	time
+T38	TemporalConcept 1116 1120	time
+T39	PathologicFunction 326 345	disease progression
+T40	PathologicFunction 1454 1473	disease progression
+T41	PopulationGroup 1533 1543	individual
+T42	OrganismAttribute 1533 1543	individual
+T43	OrganismAttribute 581 585	size
+T44	OrganismAttribute 1225 1229	size
+T45	OrganismAttribute 1496 1500	size
+T46	TemporalConcept 1731 1741	short-term
+T47	ResearchActivity 1293 1300	Results
+T48	DiseaseOrSyndrome 538 555	cognitive decline
+T49	HealthCareActivity 716 725	follow-up
+T50	TemporalConcept 716 725	follow-up
+T51	TemporalConcept 731 736	years
+T52	ResearchActivity 1247 1252	trial
+T53	HealthCareActivity 100 103	MRI
+T54	HealthCareActivity 106 134	resting state functional MRI
+T55	HealthCareActivity 1341 1344	MRI
+T56	DiseaseOrSyndrome 349 383	amnestic mild cognitive impairment
+T57	TemporalConcept 1798 1804	future
+T58	ResearchActivity 902 921	Linear mixed models
+T59	BodyPartOrganOrOrganComponent 49 65	temporal regions
+T60	ResearchActivity 1788 1794	design
+T61	HealthCareActivity 1788 1794	design
+T62	Finding 1068 1074	status
+T63	Finding 1107 1113	status
+T64	Eukaryote 26 31	human
+T65	Substance 574 580	sample
+T66	Substance 1218 1224	sample
+T67	Substance 1489 1495	sample
+T68	BodyPartOrganOrOrganComponent 574 580	sample
+T69	BodyPartOrganOrOrganComponent 1218 1224	sample
+T70	BodyPartOrganOrOrganComponent 1489 1495	sample
+T71	BiologicFunction 135 147	connectivity
+T72	GeneOrGenome 780 794	APOE epsilon 4
+T73	HealthCareActivity 72 98	magnetic resonance imaging
+T74	BodyPartOrganOrOrganComponent 181 187	limbic
+T75	ClinicalAttribute 239 264	plasma amyloid peptide 42
+T76	ResearchActivity 847 855	cut-offs
+T77	ClinicalAttribute 804 846	cerebrospinal fluid (CSF) A beta(42)/P-tau
+T78	HealthCareActivity 1027 1040	ADAS-cog13, 2
+T79	ClinicalAttribute 1047 1067	CSF A beta(42)/P-tau
+T80	ClinicalAttribute 1086 1106	CSF A beta(42)/P-tau
+T81	ClinicalAttribute 1561 1596	volume of hippocampal dentate gyrus
+T82	ClinicalAttribute 1345 1381	volumes of hippocampal dentate gyrus
+T83	ResearchActivity 945 967	repeated matrix values
+T84	ResearchActivity 1183 1198	matrix measures
+T85	ResearchActivity 1311 1327	composite matrix

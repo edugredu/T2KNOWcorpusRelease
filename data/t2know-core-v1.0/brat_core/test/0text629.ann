@@ -1,0 +1,70 @@
+T0	PathologicFunction 156 180	conduction abnormalities
+T1	BodyPartOrganOrOrganComponent 197 212	sinoatrial node
+T2	BiologicFunction 197 221	sinoatrial node function
+T3	DiseaseOrSyndrome 261 271	arrhythmia
+T4	PathologicFunction 261 271	arrhythmia
+T5	AminoAcidPeptideOrProtein 281 298	mutant Huntingtin
+T6	Bacterium 317 326	bacterial
+T7	BiologicFunction 452 470	cardiac conduction
+T8	DiseaseOrSyndrome 579 589	arrhythmia
+T9	PathologicFunction 579 589	arrhythmia
+T10	Finding 590 604	susceptibility
+T11	ClinicalAttribute 628 640	QRS duration
+T12	DiseaseOrSyndrome 655 659	PVCs
+T13	DiseaseOrSyndrome 671 675	PACs
+T14	BodyPartOrganOrOrganComponent 741 766	cardiac conduction system
+T15	Finding 811 820	decreases
+T16	AminoAcidPeptideOrProtein 824 843	desmosomal proteins
+T17	AminoAcidPeptideOrProtein 845 858	plakophilin-2
+T18	AminoAcidPeptideOrProtein 863 875	desmoglein-2
+T19	BiologicallyActiveSubstance 863 875	desmoglein-2
+T20	DiseaseOrSyndrome 911 930	cardiac arrhythmias
+T21	BodyPartOrganOrOrganComponent 1009 1034	cardiac conduction system
+T22	DiseaseOrSyndrome 1087 1098	arrhythmias
+T23	DiseaseOrSyndrome 1103 1123	sudden cardiac death
+T24	AminoAcidPeptideOrProtein 300 304	mHTT
+T25	AminoAcidPeptideOrProtein 980 984	mHTT
+T26	CellOrMolecularDysfunction 300 304	mHTT
+T27	CellOrMolecularDysfunction 980 984	mHTT
+T28	CellOrMolecularDysfunction 281 298	mutant Huntingtin
+T29	DiseaseOrSyndrome 31 77	dominantly inherited neurodegenerative disease
+T30	CellFunction 306 316	expressing
+T31	DiseaseOrSyndrome 506 529	sudden arrhythmic death
+T32	Eukaryote 533 539	humans
+T33	TemporalConcept 618 627	prolonged
+T34	BiologicFunction 156 166	conduction
+T35	BiologicFunction 943 953	conduction
+T36	NaturalPhenomenonOrProcess 156 166	conduction
+T37	NaturalPhenomenonOrProcess 943 953	conduction
+T38	Finding 88 109	accumulating evidence
+T39	Eukaryote 370 374	mice
+T40	PathologicFunction 1035 1044	pathology
+T41	BiomedicalOccupationOrDiscipline 1035 1044	pathology
+T42	TemporalConcept 632 640	duration
+T43	ResearchActivity 570 578	analyzed
+T44	PathologicFunction 767 778	dysfunction
+T45	TemporalConcept 997 1008	progressive
+T46	BodyPartOrganOrOrganComponent 911 918	cardiac
+T47	HealthCareActivity 404 421	electrocardiogram
+T48	ManufacturedObject 404 421	electrocardiogram
+T49	HealthCareActivity 423 426	ECG
+T50	ManufacturedObject 423 426	ECG
+T51	Finding 252 256	risk
+T52	Finding 498 502	risk
+T53	Finding 101 109	evidence
+T54	DiseaseOrSyndrome 0 20	Huntington's disease
+T55	DiseaseOrSyndrome 349 369	Huntington's disease
+T56	DiseaseOrSyndrome 22 24	HD
+T57	DiseaseOrSyndrome 52 77	neurodegenerative disease
+T58	ResearchActivity 959 964	study
+T59	PatientOrDisabledGroup 115 126	HD patients
+T60	PatientOrDisabledGroup 1127 1138	HD patients
+T61	Finding 1069 1083	susceptibility
+T62	HealthCareActivity 553 565	surface ECGs
+T63	BiologicallyActiveSubstance 845 858	plakophilin-2
+T64	PathologicFunction 1087 1098	arrhythmias
+T65	Finding 677 721	Abnormal histological and structural changes
+T66	Finding 618 640	prolonged QRS duration
+T67	ManufacturedObject 317 348	bacterial artificial chromosome
+T68	ExperimentalModelOfDisease 317 374	bacterial artificial chromosome Huntington's disease mice
+T69	Finding 428 441	abnormalities

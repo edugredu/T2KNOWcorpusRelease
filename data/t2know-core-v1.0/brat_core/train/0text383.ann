@@ -1,0 +1,30 @@
+T0	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T1	Finding 41 61	increasing incidence
+T2	PopulationGroup 69 85	older population
+T3	ResearchActivity 127 135	research
+T4	MachineActivity 227 254	machine learning techniques
+T5	HealthCareActivity 311 320	diagnosis
+T6	HealthCareActivity 336 362	disease monitoring process
+T7	DiseaseOrSyndrome 503 514	Alzheimer's
+T8	DiseaseOrSyndrome 516 527	Parkinson's
+T9	DiseaseOrSyndrome 533 554	Huntington's Diseases
+T10	DiseaseOrSyndrome 556 585	Amyotrophic Lateral Sclerosis
+T11	PathologicFunction 591 614	Multiple System Atrophy
+T12	DiseaseOrSyndrome 849 864	sleep disorders
+T13	HealthCareActivity 1075 1085	challenges
+T14	TemporalConcept 1098 1104	future
+T15	TemporalConcept 89 101	recent years
+T16	ResearchActivity 988 1006	data set resources
+T17	ResearchActivity 1011 1029	evaluation metrics
+T18	ResearchActivity 738 746	analysis
+T19	ResearchActivity 693 714	computational methods
+T20	ResearchActivity 421 445	computational approaches
+T21	ResearchActivity 187 208	Computational methods
+T22	TemporalConcept 1052 1059	current
+T23	MachineActivity 227 243	machine learning
+T24	DiseaseOrSyndrome 464 490	neurodegenerative spectrum
+T25	TemporalConcept 946 951	onset
+T26	ResearchActivity 402 408	review
+T27	HealthCareActivity 402 408	review
+T28	ClinicalAttribute 654 671	clinical features
+T29	ResearchActivity 777 793	decision systems

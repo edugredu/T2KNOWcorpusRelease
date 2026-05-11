@@ -1,0 +1,8 @@
+T0	BodyPartOrganOrOrganComponent 81 86	brain
+T1	DiseaseOrSyndrome 116 135	Alzheimer's disease
+T2	ResearchActivity 192 200	research
+T3	AnatomicalAbnormality 56 71	amyloid plaques
+T4	Finding 152 165	effectiveness
+T5	HealthCareActivity 8 30	experimental therapies
+T6	HealthCareActivity 102 111	treatment
+T7	ResearchActivity 102 111	treatment

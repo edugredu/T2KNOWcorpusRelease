@@ -1,0 +1,83 @@
+T0	SignOrSymptom 467 474	painful
+T1	Finding 726 736	thresholds
+T2	OrganismAttribute 1583 1593	phenotypic
+T3	OrganismAttribute 917 928	temperature
+T4	NaturalPhenomenonOrProcess 917 928	temperature
+T5	BiologicFunction 1541 1551	perception
+T6	SignOrSymptom 227 231	pain
+T7	SignOrSymptom 721 725	pain
+T8	SignOrSymptom 812 816	pain
+T9	SignOrSymptom 954 958	pain
+T10	SignOrSymptom 1121 1125	pain
+T11	SignOrSymptom 1208 1212	pain
+T12	SignOrSymptom 1370 1374	pain
+T13	SignOrSymptom 1425 1429	pain
+T14	SignOrSymptom 1536 1540	pain
+T15	TemporalConcept 609 613	aged
+T16	DiseaseOrSyndrome 159 178	Alzheimer's disease
+T17	ResearchActivity 826 833	Results
+T18	DiseaseOrSyndrome 180 182	AD
+T19	DiseaseOrSyndrome 368 370	AD
+T20	DiseaseOrSyndrome 1338 1340	AD
+T21	DiseaseOrSyndrome 1490 1492	AD
+T22	DiseaseOrSyndrome 1618 1620	AD
+T23	ClinicalAttribute 1594 1603	biomarker
+T24	PopulationGroup 1084 1096	participants
+T25	Finding 883 889	status
+T26	PopulationGroup 324 335	individuals
+T27	PopulationGroup 1450 1461	individuals
+T28	Finding 205 216	differences
+T29	Finding 706 717	differences
+T30	PopulationGroup 700 705	group
+T31	ResearchActivity 17 22	study
+T32	TemporalConcept 620 625	years
+T33	ResearchActivity 1661 1668	studies
+T34	PopulationGroup 270 278	subjects
+T35	PopulationGroup 600 608	subjects
+T36	OrganismAttribute 1271 1290	Cognitively healthy
+T37	Finding 1126 1137	sensitivity
+T38	Finding 1375 1386	sensitivity
+T39	AminoAcidPeptideOrProtein 380 384	APOE
+T40	BiologicallyActiveSubstance 380 384	APOE
+T41	ClinicalAttribute 88 102	genetic marker
+T42	TemporalConcept 1635 1648	disease onset
+T43	PopulationGroup 1297 1305	carriers
+T44	TemporalConcept 148 158	late-onset
+T45	TemporalConcept 357 367	late-onset
+T46	TemporalConcept 1327 1337	late-onset
+T47	TemporalConcept 1479 1489	late-onset
+T48	TemporalConcept 1607 1617	late-onset
+T49	GeneOrGenome 78 84	allele
+T50	GeneOrGenome 385 391	allele
+T51	GeneOrGenome 542 558	epsilon 4 allele
+T52	GeneOrGenome 645 651	allele
+T53	OrganismAttribute 392 400	genotype
+T54	Finding 741 750	affective
+T55	AminoAcidPeptideOrProtein 71 76	APOE4
+T56	AminoAcidPeptideOrProtein 639 644	APOE4
+T57	AminoAcidPeptideOrProtein 877 882	APOE4
+T58	AminoAcidPeptideOrProtein 1069 1074	APOE4
+T59	AminoAcidPeptideOrProtein 1158 1163	APOE4
+T60	AminoAcidPeptideOrProtein 1291 1296	APOE4
+T61	BiologicallyActiveSubstance 71 76	APOE4
+T62	BiologicallyActiveSubstance 639 644	APOE4
+T63	BiologicallyActiveSubstance 877 882	APOE4
+T64	BiologicallyActiveSubstance 1069 1074	APOE4
+T65	BiologicallyActiveSubstance 1158 1163	APOE4
+T66	BiologicallyActiveSubstance 1291 1296	APOE4
+T67	OrganismAttribute 250 269	cognitively healthy
+T68	OrganismAttribute 580 599	cognitively healthy
+T69	AminoAcidPeptideOrProtein 45 69	apolipoprotein epsilon 4
+T70	BiologicallyActiveSubstance 45 69	apolipoprotein epsilon 4
+T71	Finding 119 133	increased risk
+T72	BiologicFunction 227 246	pain responsiveness
+T73	ResearchActivity 444 482	experimentally-induced painful stimuli
+T74	Finding 752 766	unpleasantness
+T75	ResearchActivity 781 824	experimentally-induced thermal pain stimuli
+T76	OrganismAttribute 432 440	response
+T77	OrganismAttribute 768 777	responses
+T78	Finding 835 873	Statistically significant main effects
+T79	Finding 1020 1034	unpleasantness
+T80	Finding 1213 1227	unpleasantness
+T81	Finding 1399 1413	unpleasantness
+T82	ClinicalAttribute 1521 1551	altered evoked pain perception

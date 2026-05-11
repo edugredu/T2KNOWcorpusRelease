@@ -1,0 +1,92 @@
+T0	OrganismAttribute 43 58	characteristics
+T1	BiologicFunction 99 113	brain activity
+T2	BiologicFunction 154 156	FC
+T3	DiseaseOrSyndrome 169 197	Alzheimer's disease spectrum
+T4	DiseaseOrSyndrome 199 202	ADS
+T5	HealthCareActivity 530 554	neuropsychological tests
+T6	BiologicFunction 585 588	CBF
+T7	DiseaseOrSyndrome 713 716	ADS
+T8	DiseaseOrSyndrome 785 788	ADS
+T9	Finding 799 807	abnormal
+T10	DiseaseOrSyndrome 963 966	ADS
+T11	BodyPartOrganOrOrganComponent 1071 1085	left precuneus
+T12	BodyPartOrganOrOrganComponent 1087 1092	LPCUN
+T13	BodyPartOrganOrOrganComponent 1098 1124	right middle frontal gyrus
+T14	BodyPartOrganOrOrganComponent 1126 1130	RMFG
+T15	BodyPartOrganOrOrganComponent 1241 1257	cingulate cortex
+T16	BodyPartOrganOrOrganComponent 1259 1262	PCC
+T17	DiseaseOrSyndrome 1567 1570	ADS
+T18	BiologicFunction 1699 1713	brain activity
+T19	DiseaseOrSyndrome 1737 1740	ADS
+T20	DiseaseOrSyndrome 1832 1835	ADS
+T21	Finding 1181 1201	significant decrease
+T22	DiseaseOrSyndrome 286 305	Alzheimer's disease
+T23	PatientOrDisabledGroup 1014 1022	patients
+T24	ResearchActivity 976 983	Results
+T25	DiseaseOrSyndrome 307 309	AD
+T26	DiseaseOrSyndrome 1028 1030	AD
+T27	DiseaseOrSyndrome 1580 1582	AD
+T28	DiseaseOrSyndrome 1919 1921	AD
+T29	ClinicalAttribute 1819 1828	biomarker
+T30	PopulationGroup 411 423	participants
+T31	PopulationGroup 1142 1154	participants
+T32	MachineActivity 905 921	machine learning
+T33	ResearchActivity 218 223	study
+T34	ResearchActivity 1640 1645	study
+T35	ResearchActivity 1855 1860	study
+T36	ResearchActivity 870 901	support-vector classifier model
+T37	PopulationGroup 237 248	individuals
+T38	PopulationGroup 946 957	individuals
+T39	OrganismAttribute 1542 1549	ability
+T40	BiologicFunction 62 90	regional cerebral blood flow
+T41	BiologicFunction 92 96	rCBF
+T42	BiologicFunction 808 812	rCBF
+T43	HealthCareActivity 1059 1063	rCBF
+T44	BiologicFunction 1454 1458	rCBF
+T45	HealthCareActivity 1690 1694	rCBF
+T46	HealthCareActivity 438 471	3.0T resting-state functional MRI
+T47	TemporalConcept 1727 1733	stages
+T48	DiseaseOrSyndrome 345 373	subjective cognitive decline
+T49	PopulationGroup 683 691	subjects
+T50	PopulationGroup 1004 1012	subjects
+T51	HealthCareActivity 1800 1812	neuroimaging
+T52	DiseaseOrSyndrome 339 342	MCI
+T53	DiseaseOrSyndrome 1596 1599	MCI
+T54	DiseaseOrSyndrome 1609 1612	MCI
+T55	DiseaseOrSyndrome 312 337	mild cognitive impairment
+T56	TemporalConcept 1721 1733	early stages
+T57	HealthCareActivity 1789 1799	diagnostic
+T58	PathologicFunction 1900 1915	pathophysiology
+T59	BiomedicalOccupationOrDiscipline 1900 1915	pathophysiology
+T60	ResearchActivity 1326 1334	analysis
+T61	ResearchActivity 845 857	correlations
+T62	BodyPartOrganOrOrganComponent 1395 1418	posterior brain regions
+T63	ResearchActivity 549 554	tests
+T64	HealthCareActivity 549 554	tests
+T65	BiologicFunction 129 152	functional connectivity
+T66	OrganismAttribute 385 392	healthy
+T67	BodyPartOrganOrOrganComponent 1231 1257	posterior cingulate cortex
+T68	BodyPartOrganOrOrganComponent 1478 1504	posterior cingulate cortex
+T69	BiologicFunction 1879 1892	understanding
+T70	DiseaseOrSyndrome 375 378	SCD
+T71	PopulationGroup 393 400	control
+T72	HealthCareActivity 473 480	rs-fMRI
+T73	HealthCareActivity 486 514	arterial spin labeling scans
+T74	ResearchActivity 590 610	regional homogeneity
+T75	ResearchActivity 623 661	amplitude of low-frequency fluctuation
+T76	ResearchActivity 663 667	ALFF
+T77	PopulationGroup 972 974	HC
+T78	ResearchActivity 1209 1213	ALFF
+T79	ResearchActivity 1268 1272	ReHo
+T80	ResearchActivity 612 616	ReHo
+T81	BodyPartOrganOrOrganComponent 1301 1305	RMFG
+T82	BodyPartOrganOrOrganComponent 1311 1316	LPCUN
+T83	PopulationGroup 402 404	HC
+T84	BiologicFunction 1361 1364	FCs
+T85	BiologicFunction 1323 1325	FC
+T86	ResearchActivity 1460 1464	ALFF
+T87	ResearchActivity 1470 1474	ReHo
+T88	BodyPartOrganOrOrganComponent 1505 1514	precuneus
+T89	PopulationGroup 1576 1578	HC
+T90	DiseaseOrSyndrome 1588 1591	SCD
+T91	DiseaseOrSyndrome 1618 1621	SCD

@@ -1,0 +1,57 @@
+T0	Cell 0 31	Neural stem and precursor cells
+T1	CellFunction 120 132	self-renewal
+T2	Cell 184 200	oligodendrocytes
+T3	TemporalConcept 227 231	life
+T4	HealthCareActivity 305 338	transplantation of exogenous NPCs
+T5	BiologicFunction 580 595	immune function
+T6	BiomedicalOccupationOrDiscipline 672 679	biology
+T7	Cell 727 737	NPC niches
+T8	HealthCareActivity 785 797	transplanted
+T9	BodyPartOrganOrOrganComponent 785 797	transplanted
+T10	CellFunction 857 865	survival
+T11	CellFunction 867 880	proliferation
+T12	CellFunction 882 891	migration
+T13	CellFunction 893 905	phagocytosis
+T14	PathologicFunction 953 969	degenerating CNS
+T15	BiomedicalOccupationOrDiscipline 1079 1086	biology
+T16	ClinicalAttribute 1114 1141	immunomodulatory properties
+T17	PathologicFunction 1248 1277	degenerating and diseased CNS
+T18	ResearchActivity 606 612	review
+T19	ResearchActivity 1000 1006	review
+T20	ResearchActivity 1092 1098	review
+T21	HealthCareActivity 606 612	review
+T22	HealthCareActivity 1000 1006	review
+T23	HealthCareActivity 1092 1098	review
+T24	HealthCareActivity 265 291	pro-regenerative therapies
+T25	HealthCareActivity 1217 1243	pro-regenerative therapies
+T26	BodyPartOrganOrOrganComponent 88 91	CNS
+T27	BodyPartOrganOrOrganComponent 383 386	CNS
+T28	BodyPartOrganOrOrganComponent 757 760	CNS
+T29	BodyPartOrganOrOrganComponent 966 969	CNS
+T30	BodyPartOrganOrOrganComponent 1274 1277	CNS
+T31	TemporalConcept 412 418	Recent
+T32	BodyPartOrganOrOrganComponent 64 86	central nervous system
+T33	ResearchActivity 251 259	research
+T34	Cell 159 166	neurons
+T35	Finding 419 427	advances
+T36	ResearchActivity 431 457	single-cell RNA sequencing
+T37	Cell 683 692	microglia
+T38	CellFunction 832 847	microglia fates
+T39	Cell 1069 1078	microglia
+T40	Cell 168 178	astrocytes
+T41	ResearchActivity 989 999	literature
+T42	Cell 694 706	immune cells
+T43	Cell 33 37	NPCs
+T44	CellFunction 202 214	multipotency
+T45	Cell 334 338	NPCs
+T46	Cell 368 378	adult NPCs
+T47	HealthCareActivity 342 378	recruitment of endogenous adult NPCs
+T48	BiologicFunction 383 410	CNS regeneration and repair
+T49	ResearchActivity 468 473	omics
+T50	Cell 493 497	NPCs
+T51	Cell 617 621	NPCs
+T52	BiologicFunction 628 653	immunomodulatory function
+T53	Cell 1010 1013	NPC
+T54	Cell 1145 1149	NPCs
+T55	BiologicFunction 929 939;966 969	developing CNS
+T56	PathologicFunction 941 948;966 969	injured CNS

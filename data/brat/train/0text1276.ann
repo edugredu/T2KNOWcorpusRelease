@@ -1,0 +1,77 @@
+T0	Cell 385 394	cell type
+T1	DiseaseOrSyndrome 1088 1108	white matter disease
+T2	BiologicallyActiveSubstance 1447 1463	thyroid hormones
+T3	AminoAcidPeptideOrProtein 1447 1463	thyroid hormones
+T4	BiomedicalOccupationOrDiscipline 1386 1393	biology
+T5	DiseaseOrSyndrome 1618 1639	degenerative diseases
+T6	BiologicFunction 201 210	attention
+T7	BiologicallyActiveSubstance 1455 1463	hormones
+T8	BodyPartOrganOrOrganComponent 1222 1233	gray matter
+T9	CellFunction 25 40	neuroprotection
+T10	CellFunction 845 860	neuroprotection
+T11	CellFunction 948 963	neuroprotection
+T12	InjuryOrPoisoning 1110 1128	spinal cord injury
+T13	TemporalConcept 1470 1477	briefly
+T14	ResearchActivity 297 306	discovery
+T15	TemporalConcept 1340 1345	first
+T16	CellFunction 1412 1423	myelination
+T17	Cell 314 345	oligodendrocyte precursor cells
+T18	DiseaseOrSyndrome 1064 1082	multiple sclerosis
+T19	BodyPartOrganOrOrganComponent 416 422	myelin
+T20	BiologicFunction 442 453	development
+T21	CellFunction 442 453	development
+T22	BodyPartOrganOrOrganComponent 134 156	central nervous system
+T23	BodyPartOrganOrOrganComponent 359 381	central nervous system
+T24	BodyPartOrganOrOrganComponent 644 666	central nervous system
+T25	BodyPartOrganOrOrganComponent 995 1017	central nervous system
+T26	BodyPartOrganOrOrganComponent 1152 1174	central nervous system
+T27	BodyPartOrganOrOrganComponent 1583 1605	central nervous system
+T28	ResearchActivity 867 873	review
+T29	HealthCareActivity 867 873	review
+T30	Finding 1568 1579	involvement
+T31	InjuryOrPoisoning 119 126	lesions
+T32	InjuryOrPoisoning 523 530	lesions
+T33	InjuryOrPoisoning 667 674	lesions
+T34	InjuryOrPoisoning 967 974	lesions
+T35	InjuryOrPoisoning 1606 1613	lesions
+T36	InjuryOrPoisoning 798 804	lesion
+T37	InjuryOrPoisoning 1140 1146	lesion
+T38	BiologicFunction 45 51	repair
+T39	BiologicFunction 409 415	repair
+T40	BiologicFunction 805 811	repair
+T41	HealthCareActivity 45 51	repair
+T42	HealthCareActivity 409 415	repair
+T43	HealthCareActivity 805 811	repair
+T44	BodyPartOrganOrOrganComponent 1110 1121	spinal cord
+T45	BiologicFunction 1398 1411	developmental
+T46	TemporalConcept 1398 1411	developmental
+T48	BodyPartOrganOrOrganComponent 231 243	white matter
+T49	BodyPartOrganOrOrganComponent 510 522	white matter
+T50	BodyPartOrganOrOrganComponent 616 628	white matter
+T51	BodyPartOrganOrOrganComponent 785 797	white matter
+T52	BodyPartOrganOrOrganComponent 907 919	white matter
+T53	BodyPartOrganOrOrganComponent 1088 1100	white matter
+T54	BodyPartOrganOrOrganComponent 1191 1203	white matter
+T55	BodyPartOrganOrOrganComponent 1270 1282	white matter
+T56	BodyPartOrganOrOrganComponent 1487 1499	white matter
+T57	BodyPartOrganOrOrganComponent 1555 1567	white matter
+T58	TemporalConcept 1327 1335	recently
+T59	Cell 729 759	oligodendrocyte precursor cell
+T60	Cell 1355 1385	oligodendrocyte precursor cell
+T61	TemporalConcept 1723 1732	adulthood
+T62	HealthCareActivity 466 473	imaging
+T63	HealthCareActivity 1500 1518	imaging techniques
+T64	TemporalConcept 176 183	decades
+T65	PopulationGroup 353 358	adult
+T66	CellFunction 1706 1719	myelin repair
+T67	DiseaseOrSyndrome 1239 1258	Alzheimer's disease
+T68	DiseaseOrSyndrome 88 114	neurodegenerative diseases
+T69	DiseaseOrSyndrome 679 705	neurodegenerative diseases
+T70	ResearchActivity 594 610	body of research
+T71	TemporalConcept 1134 1139	acute
+T72	Finding 65 83	unmet medical need
+T73	Finding 629 640	alterations
+T74	BiologicFunction 1386 1393	biology
+T75	PathologicFunction 1661 1684	pathological mechanisms
+T47	Finding 925 943	therapeutic target
+T76	Finding 259 277	therapeutic target

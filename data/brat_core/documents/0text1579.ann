@@ -1,0 +1,120 @@
+T0	Finding 632 647	medical history
+T1	ResearchActivity 649 669	laboratory screening
+T2	OrganismAttribute 1471 1484	chronological
+T3	OrganismAttribute 1554 1571	chronological age
+T4	BiologicFunction 1603 1615	distribution
+T5	HealthCareRelatedOrganization 1603 1615	distribution
+T6	HealthCareActivity 1371 1386	cognitive tests
+T7	ResearchActivity 1371 1386	cognitive tests
+T8	TemporalConcept 1881 1889	frequent
+T9	HealthCareRelatedOrganization 556 566	University
+T10	TemporalConcept 74 88	clinical onset
+T11	TemporalConcept 1219 1233	clinical onset
+T12	TemporalConcept 1292 1306	clinical onset
+T13	DiseaseOrSyndrome 212 215	sAD
+T14	DiseaseOrSyndrome 296 299	sAD
+T15	DiseaseOrSyndrome 916 919	sAD
+T16	DiseaseOrSyndrome 1251 1254	sAD
+T17	TemporalConcept 182 190	sporadic
+T18	DiseaseOrSyndrome 182 210	sporadic Alzheimer's disease
+T19	HealthCareActivity 671 691	cognitive assessment
+T20	TemporalConcept 1638 1644	before
+T21	DiseaseOrSyndrome 99 137	autosomal-dominant Alzheimer's disease
+T22	DiseaseOrSyndrome 191 210	Alzheimer's disease
+T23	DiseaseOrSyndrome 369 388	Alzheimer's disease
+T24	BodyPartOrganOrOrganComponent 315 318	CSF
+T25	BodyPartOrganOrOrganComponent 693 696	CSF
+T26	BodyPartOrganOrOrganComponent 2054 2057	CSF
+T27	DiseaseOrSyndrome 390 392	AD
+T28	DiseaseOrSyndrome 2045 2047	AD
+T29	HealthCareActivity 323 326	PET
+T30	HealthCareActivity 802 805	PET
+T31	HealthCareActivity 2062 2065	PET
+T32	PathologicFunction 1173 1184	progression
+T33	PathologicFunction 1970 1981	progression
+T34	TemporalConcept 1173 1184	progression
+T35	TemporalConcept 1970 1981	progression
+T36	DiseaseOrSyndrome 895 912	cognitive decline
+T37	AminoAcidPeptideOrProtein 709 719	A beta(42)
+T38	TemporalConcept 1621 1630	frequency
+T39	OrganismAttribute 1485 1488	age
+T40	OrganismAttribute 1694 1697	age
+T41	HealthCareActivity 751 754	MRI
+T42	Finding 993 1005	relationship
+T43	ClinicalAttribute 327 337	biomarkers
+T44	ClinicalAttribute 697 707	biomarkers
+T45	ClinicalAttribute 1422 1432	biomarkers
+T46	ClinicalAttribute 1493 1503	biomarkers
+T47	ClinicalAttribute 1761 1771	biomarkers
+T48	ClinicalAttribute 2066 2076	biomarkers
+T49	PatientOrDisabledGroup 282 290	patients
+T50	PatientOrDisabledGroup 945 953	patients
+T51	PatientOrDisabledGroup 1237 1245	patients
+T52	PatientOrDisabledGroup 1310 1318	patients
+T53	PatientOrDisabledGroup 2031 2039	patients
+T54	ResearchActivity 465 470	study
+T55	BodyPartOrganOrOrganComponent 762 767	brain
+T56	DiseaseOrSyndrome 405 430	mild cognitive impairment
+T57	TemporalConcept 52 57	years
+T58	TemporalConcept 1047 1052	years
+T59	TemporalConcept 1193 1198	years
+T60	TemporalConcept 1263 1268	years
+T61	TemporalConcept 1685 1690	years
+T62	TemporalConcept 1953 1958	years
+T63	TemporalConcept 1652 1657	onset
+T64	TemporalConcept 1148 1155	current
+T65	TemporalConcept 1646 1651	early
+T66	TemporalConcept 1703 1708	early
+T67	TemporalConcept 1893 1898	early
+T68	TemporalConcept 2082 2087	early
+T69	Finding 1014 1035	cognitive performance
+T70	DiseaseOrSyndrome 432 435	MCI
+T71	DiseaseOrSyndrome 1324 1327	MCI
+T72	BiologicFunction 1776 1785	cognition
+T73	BiologicFunction 1991 2000	cognition
+T74	HealthCareActivity 354 363	diagnosed
+T75	AminoAcidPeptideOrProtein 736 741	p-tau
+T76	BiologicallyActiveSubstance 736 741	p-tau
+T77	TemporalConcept 156 160	time
+T78	TemporalConcept 259 263	time
+T79	TemporalConcept 1939 1943	time
+T80	BiomedicalOccupationOrDiscipline 1056 1065	education
+T81	AminoAcidPeptideOrProtein 1862 1866	APOE
+T82	AminoAcidPeptideOrProtein 2164 2171	APOE e4
+T83	BiologicallyActiveSubstance 1862 1866	APOE
+T84	BiologicallyActiveSubstance 2164 2171	APOE e4
+T85	PathologicFunction 1165 1184	disease progression
+T86	PathologicFunction 1962 1981	disease progression
+T87	Chemical 806 813	tracers
+T88	TemporalConcept 1539 1552	disease onset
+T89	TemporalConcept 2098 2111	disease onset
+T90	ResearchActivity 1381 1386	tests
+T91	HealthCareActivity 1381 1386	tests
+T92	PopulationGroup 1797 1804	control
+T93	TemporalConcept 1670 1680	late-onset
+T94	TemporalConcept 1714 1724	late-onset
+T95	TemporalConcept 1908 1918	late-onset
+T96	AminoAcidPeptideOrProtein 721 730	total-tau
+T97	BiologicallyActiveSubstance 721 730	total-tau
+T98	ResearchActivity 1349 1355	median
+T99	ResearchActivity 237 243	design
+T100	HealthCareActivity 237 243	design
+T101	DiseaseOrSyndrome 139 143	adAD
+T102	ClinicalAttribute 52 88	years to the expected clinical onset
+T103	ClinicalAttribute 90 94	YECO
+T104	PatientOrDisabledGroup 345 353	Patients
+T105	HealthCareActivity 502 522	clinical examination
+T106	HealthCareRelatedOrganization 530 575	Memory clinic, Karolinska University Hospital
+T107	BiologicallyActiveSubstance 709 719	A beta(42)
+T108	Chemical 815 841	C-11-Pittsburgh compound B
+T109	Chemical 846 869	F-18-fluorodeoxyglucose
+T110	DiseaseOrSyndrome 924 928	adAD
+T111	DiseaseOrSyndrome 1069 1073	adAD
+T112	ClinicalAttribute 1578 1582	YECO
+T113	ClinicalAttribute 1413 1417	YECO
+T114	ClinicalAttribute 1356 1360	YECO
+T115	ClinicalAttribute 1037 1041	YECO
+T116	ClinicalAttribute 930 934	YECO
+T117	ClinicalAttribute 1809 1813	YECO
+T118	ClinicalAttribute 273 277	YECO
+T119	GeneOrGenome 1862 1874	APOE e4 gene

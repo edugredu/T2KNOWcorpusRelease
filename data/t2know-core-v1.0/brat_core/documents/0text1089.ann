@@ -1,0 +1,89 @@
+T0	Cell 401 417	senescence cells
+T1	CellFunction 577 593	glial activation
+T2	AminoAcidPeptideOrProtein 900 908	Tgf-beta
+T3	GeneOrGenome 900 908	Tgf-beta
+T4	BiologicallyActiveSubstance 900 908	Tgf-beta
+T5	AminoAcidPeptideOrProtein 910 914	Cd68
+T6	BiologicallyActiveSubstance 910 914	Cd68
+T7	GeneOrGenome 910 914	Cd68
+T8	AminoAcidPeptideOrProtein 894 898	Gfap
+T9	AminoAcidPeptideOrProtein 1193 1197	Gfap
+T10	GeneOrGenome 894 898	Gfap
+T11	GeneOrGenome 1193 1197	Gfap
+T12	BiologicallyActiveSubstance 894 898	Gfap
+T13	BiologicallyActiveSubstance 1193 1197	Gfap
+T14	AminoAcidPeptideOrProtein 920 924	Iba1
+T15	BiologicallyActiveSubstance 920 924	Iba1
+T16	CellOrMolecularDysfunction 1073 1096	altered gene expression
+T17	Finding 339 346	Changes
+T18	Eukaryote 681 703	C57BL/6J wildtype mice
+T19	ResearchActivity 766 786	vein tail injections
+T20	TemporalConcept 643 648	young
+T21	TemporalConcept 748 753	young
+T22	TemporalConcept 1062 1067	young
+T23	TemporalConcept 1114 1119	young
+T24	CellComponent 40 49	small EVs
+T25	TemporalConcept 526 530	aged
+T26	TemporalConcept 664 668	aged
+T27	TemporalConcept 1039 1043	aged
+T28	TemporalConcept 1313 1317	aged
+T29	Cell 321 326	glial
+T30	Cell 577 582	glial
+T31	TemporalConcept 652 658	months
+T32	TemporalConcept 673 679	months
+T33	BodyPartOrganOrOrganComponent 623 639	peripheral blood
+T34	BodyPartOrganOrOrganComponent 726 742	peripheral blood
+T35	BodyPartOrganOrOrganComponent 1019 1035	peripheral blood
+T36	DiseaseOrSyndrome 134 153	Alzheimer's disease
+T37	CellComponent 24 27	EVs
+T38	CellComponent 46 49	EVs
+T39	CellComponent 440 443	EVs
+T40	CellComponent 808 811	EVs
+T41	CellComponent 350 352	EV
+T42	ClinicalAttribute 1185 1191	marker
+T43	ResearchActivity 1286 1291	study
+T44	DiseaseOrSyndrome 155 174	Parkinson's disease
+T45	BodyPartOrganOrOrganComponent 278 283	brain
+T46	BodyPartOrganOrOrganComponent 505 515	peripheral
+T47	CellComponent 0 22	Extracellular vesicles
+T48	Eukaryote 1044 1048	mice
+T49	Eukaryote 1068 1072	mice
+T50	Eukaryote 1318 1322	mice
+T51	BodyPartOrganOrOrganComponent 943 955	brain tissue
+T52	DiseaseOrSyndrome 96 122	neurodegenerative diseases
+T53	Finding 495 501	effect
+T54	CellFunction 820 830	expression
+T55	CellFunction 1148 1158	expression
+T56	Cell 1175 1184	astrocyte
+T57	BodyPartOrganOrOrganComponent 1336 1355	blood-brain barrier
+T58	DiseaseOrSyndrome 180 209	amyotrophic lateral sclerosis
+T59	Finding 1203 1226	significantly increased
+T60	Eukaryote 531 538	animals
+T61	Eukaryote 754 761	animals
+T62	Eukaryote 1120 1127	animals
+T63	BiologicFunction 272 277	aging
+T64	BiologicFunction 383 388	aging
+T65	BiologicFunction 462 467	aging
+T66	CellFunction 272 277	aging
+T67	CellFunction 383 388	aging
+T68	CellFunction 462 467	aging
+T69	BodyPartOrganOrOrganComponent 1104 1110	brains
+T70	BiologicFunction 353 366	concentration
+T71	PathologicFunction 74 91	neuroinflammation
+T72	PathologicFunction 226 243	neuroinflammation
+T73	PathologicFunction 542 559	neuroinflammation
+T74	BodyPartOrganOrOrganComponent 389 396	tissues
+T75	HealthCareActivity 984 993	injection
+T76	CellComponent 51 55	sEVs
+T77	CellComponent 516 520	sEVs
+T78	CellComponent 595 599	sEVs
+T79	CellComponent 1009 1013	sEVs
+T80	CellComponent 1303 1307	sEVs
+T81	BodyPartOrganOrOrganComponent 1357 1360	BBB
+T82	Cell 861 871	glial cell
+T83	Cell 1265 1280	glial cell type
+T84	Cell 1373 1383	glial cell
+T85	CellFunction 1384 1394	activation
+T86	CellFunction 872 882	activation
+T87	CellFunction 792 811	localization of EVs
+T88	CellFunction 327 337	activation

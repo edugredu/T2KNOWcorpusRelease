@@ -1,0 +1,7 @@
+T0	CellOrMolecularDysfunction 70 87	neurodegeneration
+T1	PathologicFunction 110 129	disease progression
+T2	NucleicAcidNucleosideOrNucleotide 27 36	microRNAs
+T3	BiologicallyActiveSubstance 27 36	microRNAs
+T4	CellFunction 88 96	pathways
+T5	GeneOrGenome 52 57	genes
+T6	Virus 0 18	Epstein-Barr Virus

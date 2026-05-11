@@ -1,0 +1,59 @@
+T0	Virus 23 44	mouse hepatitis virus
+T1	Virus 46 49	MHV
+T2	Virus 54 65	coronavirus
+T3	Virus 344 347	MHV
+T4	GeneOrGenome 535 538	MHC
+T5	AminoAcidPeptideOrProtein 535 538	MHC
+T6	Cell 851 858	T cells
+T7	PathologicFunction 998 1006	infected
+T8	CellFunction 1067 1078	myelinating
+T9	BiologicFunction 1171 1186	immune response
+T10	DiseaseOrSyndrome 1209 1222	CNS infection
+T11	PathologicFunction 1235 1245	resolution
+T12	Organism 1166 1170	host
+T13	CellFunction 493 500	express
+T14	TemporalConcept 1258 1267	prolonged
+T15	Cell 319 323	OPCs
+T16	Cell 286 317	oligodendrocyte precursor cells
+T17	PathologicFunction 91 104	demyelinating
+T18	DiseaseOrSyndrome 162 180	multiple sclerosis
+T19	Cell 277 280	OLs
+T20	Cell 489 492	OLs
+T21	Cell 1007 1010	OLs
+T22	Cell 1123 1126	OLs
+T23	Cell 873 884	macrophages
+T24	PathologicFunction 583 604	inflammatory response
+T25	PathologicFunction 629 641	inflammatory
+T26	PathologicFunction 1268 1280	inflammatory
+T27	TemporalConcept 73 78	acute
+T28	TemporalConcept 338 343	acute
+T29	BodyPartOrganOrOrganComponent 424 446	central nervous system
+T30	BodyPartOrganOrOrganComponent 448 451	CNS
+T31	BodyPartOrganOrOrganComponent 716 719	CNS
+T32	BodyPartOrganOrOrganComponent 1209 1212	CNS
+T33	BodyPartOrganOrOrganComponent 1294 1297	CNS
+T34	Eukaryote 148 153	human
+T35	Cell 240 245	cells
+T36	Cell 779 784	cells
+T37	Cell 914 932	infiltrating cells
+T38	Cell 642 646	cell
+T39	PathologicFunction 967 979	inflammation
+T40	Cell 863 872	microglia
+T41	PathologicFunction 348 357	infection
+T42	PathologicFunction 1213 1222	infection
+T43	Finding 1060 1066	normal
+T44	CellFunction 1329 1342	remyelination
+T45	PathologicFunction 390 403	demyelination
+T46	PathologicFunction 803 816	demyelination
+T47	TemporalConcept 83 90	chronic
+T48	AminoAcidPeptideOrProtein 501 533;540 547	major histocompatibility complex class I
+T49	BiologicallyActiveSubstance 501 533;540 547	major histocompatibility complex class I
+T50	PathologicFunction 0 11	Neurotropic
+T51	Organism 12 19	strains
+T52	DiseaseOrSyndrome 105 122	encephalomyelitis
+T53	ResearchActivity 196 220	lineage -tracking system
+T54	Cell 257 275	oligo- dendrocytes
+T55	BiologicallyActiveSubstance 535 538	MHC
+T56	BodyPartOrganOrOrganComponent 687 704	anatomic location
+T57	CellOrMolecularDysfunction 1315 1342	impairment in remyelination
+T58	Finding 1281 1288	changes

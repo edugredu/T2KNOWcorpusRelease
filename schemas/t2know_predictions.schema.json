@@ -1,0 +1,69 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "T2KNOW annotation-only prediction record",
+  "type": "object",
+  "required": [
+    "doc_id",
+    "sentence_id",
+    "split",
+    "start",
+    "end",
+    "label",
+    "seed",
+    "model"
+  ],
+  "properties": {
+    "doc_id": {
+      "type": "string"
+    },
+    "sentence_id": {
+      "type": "string"
+    },
+    "split": {
+      "type": "string"
+    },
+    "start": {
+      "type": "integer"
+    },
+    "end": {
+      "type": "integer"
+    },
+    "label": {
+      "type": "string"
+    },
+    "score": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "seed": {
+      "type": [
+        "integer",
+        "string"
+      ]
+    },
+    "model": {
+      "type": "string"
+    }
+  },
+  "not": {
+    "anyOf": [
+      {
+        "required": [
+          "text"
+        ]
+      },
+      {
+        "required": [
+          "entity_text"
+        ]
+      },
+      {
+        "required": [
+          "surface"
+        ]
+      }
+    ]
+  }
+}

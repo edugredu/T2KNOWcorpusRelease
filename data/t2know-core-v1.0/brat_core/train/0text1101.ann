@@ -1,0 +1,93 @@
+T0	CellComponent 85 101	synaptic density
+T1	CellComponent 424 437	Microvesicles
+T2	ResearchActivity 644 658	flow cytometry
+T3	AminoAcidPeptideOrProtein 744 757	synaptophysin
+T4	AminoAcidPeptideOrProtein 744 757	synaptophysin
+T5	GeneOrGenome 763 770	SNAP-25
+T6	AminoAcidPeptideOrProtein 763 770	SNAP-25
+T7	BiologicallyActiveSubstance 763 770	SNAP-25
+T8	GeneOrGenome 1168 1175	SNAP-25
+T9	AminoAcidPeptideOrProtein 1168 1175	SNAP-25
+T10	BiologicallyActiveSubstance 1168 1175	SNAP-25
+T11	Finding 262 271	hallmarks
+T12	ResearchActivity 1328 1331	AUC
+T13	DiseaseOrSyndrome 845 882	non-inflammatory neurological disease
+T14	DiseaseOrSyndrome 1065 1102	non-inflammatory neurological disease
+T15	DiseaseOrSyndrome 16 35	Alzheimer's disease
+T16	DiseaseOrSyndrome 275 294	Alzheimer's disease
+T17	DiseaseOrSyndrome 818 837	Alzheimer's disease
+T18	DiseaseOrSyndrome 1026 1045	Alzheimer's disease
+T19	DiseaseOrSyndrome 1289 1308	Alzheimer's disease
+T20	DiseaseOrSyndrome 1376 1395	Alzheimer's disease
+T21	DiseaseOrSyndrome 1597 1616	Alzheimer's disease
+T22	PatientOrDisabledGroup 804 812	patients
+T23	PatientOrDisabledGroup 1012 1020	patients
+T24	PatientOrDisabledGroup 1275 1283	patients
+T25	ClinicalAttribute 1561 1567	marker
+T26	ClinicalAttribute 196 203	markers
+T27	ClinicalAttribute 341 348	markers
+T28	BodyPartOrganOrOrganComponent 85 93	synaptic
+T29	ResearchActivity 893 900	Results
+T30	PopulationGroup 883 891	controls
+T31	PopulationGroup 1103 1111	controls
+T32	PopulationGroup 1318 1326	controls
+T33	BodyPartOrganOrOrganComponent 1058 1061	CSF
+T34	AminoAcidPeptideOrProtein 212 215	tau
+T35	AminoAcidPeptideOrProtein 220 231	phospho-tau
+T36	AminoAcidPeptideOrProtein 693 696	tau
+T37	AminoAcidPeptideOrProtein 698 716	phospho-tau-Thr181
+T38	AminoAcidPeptideOrProtein 718 742	phospho-tau-Ser202Thr205
+T39	AminoAcidPeptideOrProtein 1118 1136	phospho-tau-Thr181
+T40	AminoAcidPeptideOrProtein 1138 1162	phospho-tau-Ser202Thr205
+T41	BiologicallyActiveSubstance 212 215	tau
+T42	BiologicallyActiveSubstance 220 231	phospho-tau
+T43	BiologicallyActiveSubstance 693 696	tau
+T44	BiologicallyActiveSubstance 698 716	phospho-tau-Thr181
+T45	BiologicallyActiveSubstance 718 742	phospho-tau-Ser202Thr205
+T46	BiologicallyActiveSubstance 1118 1136	phospho-tau-Thr181
+T47	BiologicallyActiveSubstance 1138 1162	phospho-tau-Ser202Thr205
+T48	PathologicFunction 323 334	progression
+T49	TemporalConcept 323 334	progression
+T50	Cell 463 468	cells
+T51	Cell 513 518	cells
+T52	BodyPartOrganOrOrganComponent 176 195	cerebrospinal fluid
+T53	BodyPartOrganOrOrganComponent 593 612	cerebrospinal fluid
+T54	BodyPartOrganOrOrganComponent 778 797	cerebrospinal fluid
+T55	BodyPartOrganOrOrganComponent 989 1008	cerebrospinal fluid
+T56	BodyPartOrganOrOrganComponent 1459 1478	cerebrospinal fluid
+T57	Cell 574 582	neuronal
+T58	TemporalConcept 522 528	origin
+T59	TemporalConcept 583 589	origin
+T60	ResearchActivity 1487 1494	studies
+T61	AminoAcidPeptideOrProtein 204 210	A beta
+T62	CellFunction 493 503	metabolism
+T63	BiologicFunction 493 503	metabolism
+T64	SignOrSymptom 53 61	symptoms
+T65	BiologicallyActiveSubstance 1113 1116	Tau
+T66	AminoAcidPeptideOrProtein 1113 1116	Tau
+T67	ClinicalAttribute 41 49	severity
+T68	Finding 41 49	severity
+T69	PharmacologicSubstance 399 422	disease modifying drugs
+T70	CellComponent 1252 1260	vesicles
+T71	PathologicFunction 315 334	disease progression
+T72	AminoAcidPeptideOrProtein 135 158	hyperphosphorylated tau
+T73	BiologicallyActiveSubstance 135 158	hyperphosphorylated tau
+T74	BiomedicalOccupationOrDiscipline 244 261	histopathological
+T75	DiseaseOrSyndrome 862 882	neurological disease
+T76	DiseaseOrSyndrome 1082 1102	neurological disease
+T77	CellComponent 557 570	microvesicles
+T78	CellComponent 670 683	microvesicles
+T79	CellComponent 942 955	microvesicles
+T80	CellComponent 1438 1451	microvesicles
+T81	BodyPartOrganOrOrganComponent 1364 1372	synapses
+T82	CellOrMolecularDysfunction 77 101	loss of synaptic density
+T83	CellOrMolecularDysfunction 120 158	pathologically hyperphosphorylated tau
+T84	CellOrMolecularDysfunction 454 468	stressed cells
+T85	AminoAcidPeptideOrProtein 920 933	synaptophysin
+T86	BiologicallyActiveSubstance 920 933	synaptophysin
+T87	AminoAcidPeptideOrProtein 1230 1243	synaptophysin
+T88	BiologicallyActiveSubstance 1230 1243	synaptophysin
+T89	AminoAcidPeptideOrProtein 1416 1429	synaptophysin
+T90	BiologicallyActiveSubstance 1416 1429	synaptophysin
+T91	CellOrMolecularDysfunction 1356 1372	loss of synapses
+T92	CellComponent 1552 1555	MVs

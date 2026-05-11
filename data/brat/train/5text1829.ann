@@ -1,0 +1,6 @@
+T0	PatientOrDisabledGroup 128 136	patients
+T1	PathologicFunction 11 20	infection
+T2	PathologicFunction 29 46	neuroinflammatory
+T3	PathologicFunction 80 106	neurological complications
+T4	Virus 0 10	SARS-CoV-2
+T5	DiseaseOrSyndrome 119 127	COVID-19

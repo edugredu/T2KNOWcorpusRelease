@@ -1,0 +1,88 @@
+T0	AnatomicalAbnormality 281 295	senile plaques
+T1	AminoAcidPeptideOrProtein 474 504	microtubule-associated protein
+T2	GeneOrGenome 474 504	microtubule-associated protein
+T3	PathologicFunction 540 570	chronic inflammatory responses
+T4	Finding 590 601	exacerbated
+T5	CellComponent 714 732	NLRP3 inflammasome
+T6	CellComponent 734 739	NLRP3
+T7	CellComponent 744 753	cytosolic
+T8	ManufacturedObject 775 781	sensor
+T9	CellComponent 946 951	NLRP3
+T10	CellComponent 1008 1013	NLRP3
+T11	CellFunction 1167 1181	Neuronal death
+T12	Cell 1226 1239	interneuronal
+T13	PopulationGroup 102 120	elderly population
+T14	BiologicFunction 188 193	death
+T15	BiologicFunction 1176 1181	death
+T16	PathologicFunction 188 193	death
+T17	PathologicFunction 1176 1181	death
+T18	CellFunction 188 193	death
+T19	CellFunction 1176 1181	death
+T20	AminoAcidPeptideOrProtein 613 638	proinflammatory cytokines
+T21	BiologicallyActiveSubstance 613 638	proinflammatory cytokines
+T22	TemporalConcept 577 589	long-lasting
+T23	DiseaseOrSyndrome 199 231	progressive cognitive impairment
+T24	CellFunction 1200 1210	pyroptosis
+T25	HealthCareActivity 82 91	diagnosed
+T26	AminoAcidPeptideOrProtein 355 363	peptides
+T27	OrganismAttribute 1058 1065	species
+T28	PopulationGroup 102 109	elderly
+T29	PathologicFunction 682 697	pathophysiology
+T30	BiomedicalOccupationOrDiscipline 682 697	pathophysiology
+T31	PathologicFunction 1154 1165	progression
+T32	TemporalConcept 1154 1165	progression
+T33	Finding 519 527	evidence
+T34	Finding 1300 1308	evidence
+T35	CellFunction 1329 1339	inhibition
+T36	CellComponent 1120 1142	extracellular vesicles
+T37	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T38	DiseaseOrSyndrome 21 23	AD
+T39	DiseaseOrSyndrome 122 124	AD
+T40	DiseaseOrSyndrome 870 872	AD
+T41	DiseaseOrSyndrome 975 977	AD
+T42	DiseaseOrSyndrome 1394 1396	AD
+T43	PathologicFunction 959 971	pathogenesis
+T44	AminoAcidPeptideOrProtein 333 340	amyloid
+T45	BiologicallyActiveSubstance 333 340	amyloid
+T46	AminoAcidPeptideOrProtein 347 353	A beta
+T47	CellOrMolecularDysfunction 403 426	neurofibrillary tangles
+T48	CellOrMolecularDysfunction 1092 1115	neurofibrillary tangles
+T49	CellComponent 403 418	neurofibrillary
+T50	CellComponent 1092 1107	neurofibrillary
+T51	Finding 265 277	accumulation
+T52	Cell 179 187	neuronal
+T53	AminoAcidPeptideOrProtein 505 508	tau
+T54	AminoAcidPeptideOrProtein 1240 1243	tau
+T55	BiologicallyActiveSubstance 505 508	tau
+T56	BiologicallyActiveSubstance 1240 1243	tau
+T57	BodyPartOrganOrOrganComponent 157 165	synaptic
+T58	PathologicFunction 613 628	proinflammatory
+T59	Finding 931 942	involvement
+T60	PopulationGroup 110 120	population
+T61	ResearchActivity 885 891	review
+T62	HealthCareActivity 885 891	review
+T63	Cell 642 662	reactive glial cells
+T64	Cell 1040 1051	glial cells
+T65	AminoAcidPeptideOrProtein 333 345	amyloid-beta
+T66	CellComponent 251 264	extracellular
+T67	CellComponent 376 389	intraneuronal
+T68	DiseaseOrSyndrome 211 231	cognitive impairment
+T69	Finding 1244 1255	propagation
+T70	HealthCareActivity 1369 1389	therapeutic strategy
+T71	TemporalConcept 540 547	chronic
+T72	HealthCareActivity 602 609	release
+T73	ResearchActivity 602 609	release
+T74	TemporalConcept 199 210	progressive
+T75	DiseaseOrSyndrome 837 858	neurological diseases
+T76	PathologicFunction 1146 1165	disease progression
+T77	CellFunction 179 193	neuronal death
+T78	DiseaseOrSyndrome 47 72	neurodegenerative disease
+T79	AminoAcidPeptideOrProtein 629 638	cytokines
+T80	CellComponent 457 466	filaments
+T81	TemporalConcept 901 907	recent
+T82	CellOrMolecularDysfunction 149 177	loss of synaptic connections
+T83	CellOrMolecularDysfunction 309 345	insoluble aggregates of amyloid-beta
+T84	CellOrMolecularDysfunction 437 508	hyperphosphorylated filaments of the microtubule-associated protein tau
+T85	AminoAcidPeptideOrProtein 754 781	multiprotein complex sensor
+T86	CellComponent 1185 1190	NLRP3
+T87	CellComponent 1323 1328	NLRP3

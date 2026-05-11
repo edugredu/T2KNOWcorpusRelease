@@ -1,0 +1,142 @@
+T0	CellOrMolecularDysfunction 0 16	Oxidative stress
+T1	Chemical 111 120	Uric acid
+T2	BiologicallyActiveSubstance 111 120	Uric acid
+T3	Chemical 122 124	UA
+T4	BiologicallyActiveSubstance 122 124	UA
+T5	Chemical 239 241	UA
+T6	BiologicallyActiveSubstance 239 241	UA
+T7	Chemical 377 379	UA
+T8	BiologicallyActiveSubstance 377 379	UA
+T9	Chemical 495 497	UA
+T10	BiologicallyActiveSubstance 495 497	UA
+T11	Chemical 536 538	UA
+T12	BiologicallyActiveSubstance 536 538	UA
+T13	OrganismAttribute 682 688	Gender
+T14	Chemical 700 702	UA
+T15	BiologicallyActiveSubstance 700 702	UA
+T16	Chemical 777 779	UA
+T17	BiologicallyActiveSubstance 777 779	UA
+T18	Chemical 831 833	UA
+T19	BiologicallyActiveSubstance 831 833	UA
+T20	Chemical 927 929	UA
+T21	ResearchActivity 927 929	UA
+T22	Chemical 1040 1042	UA
+T23	BiologicallyActiveSubstance 1040 1042	UA
+T24	Chemical 1165 1167	UA
+T25	BiologicallyActiveSubstance 1165 1167	UA
+T26	Chemical 1283 1285	UA
+T27	ResearchActivity 1283 1285	UA
+T28	PopulationGroup 1444 1450	Female
+T29	OrganismAttribute 1444 1450	Female
+T30	Chemical 1520 1522	UA
+T31	ResearchActivity 1520 1522	UA
+T32	Chemical 1678 1680	UA
+T33	BiologicallyActiveSubstance 1678 1680	UA
+T34	Chemical 1848 1850	UA
+T35	BiologicallyActiveSubstance 1848 1850	UA
+T36	Chemical 1945 1947	UA
+T37	BiologicallyActiveSubstance 1945 1947	UA
+T38	BiologicFunction 2117 2134	sexual dimorphism
+T39	DiseaseOrSyndrome 627 633	pre-HD
+T40	DiseaseOrSyndrome 972 978	pre-HD
+T41	Finding 1692 1701	decreased
+T42	Finding 1828 1837	decreased
+T43	ResearchActivity 1618 1632	disease burden
+T44	BodyPartOrganOrOrganComponent 196 205	periphery
+T45	SignOrSymptom 2043 2059	disease symptoms
+T46	Finding 1345 1364	functional capacity
+T47	PharmacologicSubstance 151 162	antioxidant
+T48	CellFunction 151 162	antioxidant
+T49	HealthCareActivity 1419 1436	total motor score
+T50	HealthCareActivity 1339 1364	total functional capacity
+T51	HealthCareActivity 1438 1441	TMS
+T52	HealthCareActivity 1534 1537	TMS
+T53	HealthCareActivity 1366 1369	TFC
+T54	ClinicalAttribute 247 266	molecular biomarker
+T55	Finding 428 434	normal
+T56	DiseaseOrSyndrome 84 104	Huntington's disease
+T57	ClinicalAttribute 2017 2039	non-invasive biomarker
+T58	ResearchActivity 521 534	clinical data
+T59	ResearchActivity 1178 1191	clinical data
+T60	OrganismAttribute 799 805	female
+T61	OrganismAttribute 965 971	female
+T62	OrganismAttribute 1569 1575	female
+T63	DiseaseOrSyndrome 279 305	neurodegenerative diseases
+T64	BodyPartOrganOrOrganComponent 1716 1735	prefrontal cortical
+T65	PatientOrDisabledGroup 1758 1769	HD subjects
+T66	DiseaseOrSyndrome 106 108	HD
+T67	DiseaseOrSyndrome 631 633	HD
+T68	DiseaseOrSyndrome 976 978	HD
+T69	DiseaseOrSyndrome 2138 2140	HD
+T70	PatientOrDisabledGroup 412 423	HD patients
+T71	PatientOrDisabledGroup 639 659	manifest HD patients
+T72	PatientOrDisabledGroup 983 1003	manifest HD patients
+T73	PatientOrDisabledGroup 1081 1101	manifest HD patients
+T74	PatientOrDisabledGroup 1245 1256	HD patients
+T75	PatientOrDisabledGroup 1451 1462	HD patients
+T76	PatientOrDisabledGroup 1868 1879	HD patients
+T77	SignOrSymptom 1081 1089	manifest
+T78	PopulationGroup 664 680	control subjects
+T79	BodyPartOrganOrOrganComponent 918 926	salivary
+T80	BodyPartOrganOrOrganComponent 1274 1282	salivary
+T81	BodyPartOrganOrOrganComponent 1924 1932	salivary
+T82	BodyPartOrganOrOrganComponent 584 590	saliva
+T83	OrganismAttribute 748 752	male
+T84	OrganismAttribute 1076 1080	male
+T85	OrganismAttribute 1240 1244	male
+T86	PopulationGroup 428 443	normal controls
+T87	ClinicalAttribute 2030 2039	biomarker
+T88	PopulationGroup 1109 1117	controls
+T89	PopulationGroup 1790 1798	controls
+T90	PatientOrDisabledGroup 753 761	patients
+T91	PatientOrDisabledGroup 806 814	patients
+T92	PatientOrDisabledGroup 1576 1584	patients
+T93	DiseaseOrSyndrome 320 339	Parkinson's disease
+T94	DiseaseOrSyndrome 341 343	PD
+T95	BodyPartOrganOrOrganComponent 186 191	brain
+T96	Finding 473 486	relationships
+T97	Substance 732 741	biofluids
+T98	ResearchActivity 354 359	study
+T99	PathologicFunction 49 64	pathophysiology
+T100	PathologicFunction 2141 2156	pathophysiology
+T101	BiomedicalOccupationOrDiscipline 49 64	pathophysiology
+T102	BodyPartOrganOrOrganComponent 563 569	plasma
+T103	BodyPartOrganOrOrganComponent 907 913	plasma
+T104	BodyPartOrganOrOrganComponent 1130 1136	plasma
+T105	BodyPartOrganOrOrganComponent 1263 1269	plasma
+T106	BodyPartOrganOrOrganComponent 1513 1519	plasma
+T107	PathologicFunction 69 80	progression
+T108	TemporalConcept 69 80	progression
+T109	Finding 1204 1215	differences
+T110	PopulationGroup 664 671	control
+T111	PopulationGroup 859 865	groups
+T112	Finding 207 223	Growing evidence
+T113	Finding 689 696	effects
+T114	PopulationGroup 672 680	subjects
+T115	PopulationGroup 1761 1769	subjects
+T116	TemporalConcept 1705 1715	postmortem
+T117	PopulationGroup 1657 1663	cohort
+T118	OrganismAttribute 880 886	gender
+T119	OrganismAttribute 1229 1235	gender
+T120	ResearchActivity 1387 1399	correlations
+T121	ResearchActivity 2064 2070	burden
+T122	BodyPartOrganOrOrganComponent 1154 1164	peripheral
+T123	BodyPartOrganOrOrganComponent 1900 1910	peripheral
+T124	BodyPartOrganOrOrganComponent 1858 1864	brains
+T125	BodyPartOrganOrOrganComponent 390 406	clinical samples
+T126	Substance 390 406	clinical samples
+T127	BodyPartOrganOrOrganComponent 601 608	samples
+T128	Substance 601 608	samples
+T129	PatientOrDisabledGroup 614 625;648 659	premanifest HD patients
+T130	ClinicalAttribute 918 936	salivary UA levels
+T131	ClinicalAttribute 907 913;927 936	plasma UA levels
+T132	ClinicalAttribute 1021 1042	Salivary levels of UA
+T133	ClinicalAttribute 1154 1174	peripheral UA levels
+T134	ClinicalAttribute 1274 1292	salivary UA levels
+T135	ClinicalAttribute 1263 1269;1283 1292	plasma UA levels
+T136	ResearchActivity 1472 1504	significant positive correlation
+T137	ClinicalAttribute 1513 1529	plasma UA levels
+T138	ClinicalAttribute 1545 1563	salivary UA levels
+T139	BodyPartOrganOrOrganComponent 1736 1743	samples
+T140	Substance 1736 1743	samples
+T141	Substance 1911 1917	fluids

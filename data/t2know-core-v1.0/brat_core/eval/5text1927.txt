@@ -1,0 +1,1 @@
+By analyzing large datasets of speech samples, ASR can contribute to the discovery of novel speech biomarkers and improve diagnostic accuracy for neurodegenerative disorders.

@@ -1,0 +1,96 @@
+T0	DiseaseOrSyndrome 11 27	Latent infection
+T1	Virus 31 34	HIV
+T2	BiologicFunction 142 155	viral latency
+T3	NucleicAcidNucleosideOrNucleotide 301 311	small RNAs
+T4	NucleicAcidNucleosideOrNucleotide 434 444	small RNAs
+T5	DiseaseOrSyndrome 449 464	viral infection
+T6	Virus 493 522	simian immunodeficiency virus
+T7	Virus 546 549	HIV
+T8	DiseaseOrSyndrome 655 670	acute infection
+T9	TemporalConcept 726 738	interruption
+T10	ResearchActivity 747 758	Measurement
+T11	HealthCareActivity 747 758	Measurement
+T12	BiologicFunction 784 797	concentration
+T13	Finding 822 832	morphology
+T14	ResearchActivity 855 865	qPCR array
+T15	ResearchActivity 915 919	qPCR
+T16	ResearchActivity 920 931	validations
+T17	Chemical 933 942	Iodixanol
+T18	CellComponent 1018 1025	virions
+T19	BodyPartOrganOrOrganComponent 1034 1040	Plasma
+T20	Finding 1095 1105	viral load
+T21	ResearchActivity 1095 1105	viral load
+T22	DiseaseOrSyndrome 1124 1139	acute infection
+T23	Virus 1150 1153	SIV
+T24	CellComponent 1184 1191	virions
+T25	CellComponent 1225 1246	Extracellular vesicle
+T26	NucleicAcidNucleosideOrNucleotide 1374 1394	small nuclear RNA U6
+T27	Finding 1424 1434	viral load
+T28	ResearchActivity 1424 1434	viral load
+T29	HealthCareActivity 1478 1485	monitor
+T30	ManufacturedObject 1478 1485	monitor
+T31	BiologicFunction 1512 1525	concentration
+T32	ResearchActivity 1665 1677	animal model
+T33	DiseaseOrSyndrome 1729 1749	retroviral infection
+T34	CellComponent 279 300	extracellular vesicle
+T35	CellComponent 401 422	extracellular vesicle
+T36	CellComponent 570 591	extracellular vesicle
+T37	CellComponent 762 783	extracellular vesicle
+T38	CellComponent 983 1004	extracellular vesicle
+T39	CellComponent 1041 1062	extracellular vesicle
+T40	CellComponent 1490 1511	extracellular vesicle
+T41	CellComponent 1530 1551	extracellular vesicle
+T42	NucleicAcidNucleosideOrNucleotide 1247 1256	microRNAs
+T43	BiologicallyActiveSubstance 1247 1256	microRNAs
+T44	TemporalConcept 655 660	acute
+T45	TemporalConcept 1124 1129	acute
+T46	TemporalConcept 1595 1600	acute
+T47	CellFunction 1333 1346	downregulated
+T48	PathologicFunction 18 27	infection
+T49	PathologicFunction 329 338	infection
+T50	PathologicFunction 455 464	infection
+T51	PathologicFunction 661 670	infection
+T52	PathologicFunction 672 688	latent infection
+T53	PathologicFunction 1130 1139	infection
+T54	PathologicFunction 1310 1319	infection
+T55	PathologicFunction 1601 1616	viral infection
+T56	PathologicFunction 1740 1749	infection
+T57	Finding 374 386	relationship
+T58	ResearchActivity 1456 1461	study
+T59	CellComponent 237 259	extracellular vesicles
+T60	BodyPartOrganOrOrganComponent 601 606	blood
+T61	BodyPartOrganOrOrganComponent 607 613	plasma
+T62	NucleicAcidNucleosideOrNucleotide 870 879	small RNA
+T63	NucleicAcidNucleosideOrNucleotide 1158 1161	RNA
+T64	NucleicAcidNucleosideOrNucleotide 1552 1561	small RNA
+T65	Cell 228 233	cells
+T66	HealthCareActivity 79 103	antiretroviral treatment
+T67	HealthCareActivity 693 702	treatment
+T68	ResearchActivity 94 103	treatment
+T69	ResearchActivity 693 702	treatment
+T70	ResearchActivity 537 542	model
+T71	ResearchActivity 1162 1171	detection
+T72	TemporalConcept 1469 1474	first
+T73	ResearchActivity 1026 1033	Results
+T74	TemporalConcept 148 155	latency
+T75	TemporalConcept 1350 1357	latency
+T76	TemporalConcept 1618 1625	latency
+T77	TemporalConcept 1754 1761	latency
+T78	OrganismAttribute 799 803	size
+T79	Virus 524 527	SIV
+T80	Eukaryote 529 536	macaque
+T81	BiologicallyActiveSubstance 301 311	small RNAs
+T82	NucleicAcidNucleosideOrNucleotide 169 179	small RNAs
+T83	BiologicallyActiveSubstance 169 179	small RNAs
+T84	BiologicallyActiveSubstance 434 444	small RNAs
+T85	BiologicallyActiveSubstance 870 879	small RNA
+T86	ResearchActivity 933 960	Iodixanol density gradients
+T87	GeneOrGenome 1154 1157	gag
+T88	NucleicAcidNucleosideOrNucleotide 1257 1265	miR-181a
+T89	NucleicAcidNucleosideOrNucleotide 1267 1277	miR-342-3p
+T90	NucleicAcidNucleosideOrNucleotide 1283 1290	miR-29a
+T91	BiologicallyActiveSubstance 1257 1265	miR-181a
+T92	BiologicallyActiveSubstance 1267 1277	miR-342-3p
+T93	BiologicallyActiveSubstance 1283 1290	miR-29a
+T94	Virus 1306 1309	SIV
+T95	BiologicallyActiveSubstance 1552 1561	small RNA

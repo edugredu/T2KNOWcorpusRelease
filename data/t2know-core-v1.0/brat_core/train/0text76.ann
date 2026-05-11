@@ -1,0 +1,84 @@
+T0	BodyPartOrganOrOrganComponent 261 284	gastrointestinal system
+T1	DiseaseOrSyndrome 367 381	fatal disorder
+T2	Organism 410 424	gut microbiome
+T3	PathologicFunction 425 435	disruption
+T4	BodyPartOrganOrOrganComponent 653 656	gut
+T5	HealthCareActivity 726 754	faecal microbiota transplant
+T6	HealthCareActivity 756 759	FMT
+T7	ResearchActivity 766 775	wild-type
+T8	OrganismAttribute 864 871	females
+T9	Finding 923 935	inefficiency
+T10	HealthCareActivity 939 942	FMT
+T11	CellOrMolecularDysfunction 1046 1057	instability
+T12	BodyPartOrganOrOrganComponent 1065 1068	gut
+T13	Organism 1069 1088	microbial community
+T14	Chemical 1111 1118	acetate
+T15	ResearchActivity 1111 1142	acetate and gut immune profiles
+T16	Organism 1199 1213	gut microbiome
+T17	DiseaseOrSyndrome 1241 1259	cognitive deficits
+T18	HealthCareActivity 1394 1397	FMT
+T19	Organism 1417 1431	gut microbiome
+T20	HealthCareActivity 1457 1479	clinical interventions
+T21	ResearchActivity 1566 1575	wild-type
+T22	OrganismAttribute 1664 1671	females
+T23	OrganismAttribute 1690 1708	sexually dimorphic
+T24	PathologicFunction 1729 1740	dysfunction
+T25	Organism 1746 1755	microbial
+T26	PathologicFunction 1756 1766	disruption
+T27	Organism 1810 1820	microbiota
+T28	HealthCareActivity 1821 1833	manipulation
+T29	BodyPartOrganOrOrganComponent 580 594	gut-brain axis
+T30	GeneOrGenome 173 188	huntingtin gene
+T31	SignOrSymptom 1903 1921	cognitive symptoms
+T32	HealthCareActivity 1520 1526	report
+T33	ResearchActivity 1520 1526	report
+T34	HealthCareActivity 1360 1382	therapeutic approaches
+T35	HealthCareActivity 319 347	disease-modifying treatments
+T36	HealthCareActivity 516 541	therapeutic interventions
+T37	CellOrMolecularDysfunction 1098 1107	imbalance
+T38	BodyPartOrganOrOrganComponent 241 245	body
+T39	ResearchActivity 1260 1269	modelling
+T40	HealthCareActivity 1839 1863	therapeutic intervention
+T41	OrganismAttribute 897 901	male
+T42	ResearchActivity 943 954	engraftment
+T43	HealthCareActivity 943 954	engraftment
+T44	CellFunction 616 623	pathway
+T45	SignOrSymptom 90 104	motor symptoms
+T46	DiseaseOrSyndrome 1270 1278	dementia
+T47	Eukaryote 802 806	mice
+T48	Eukaryote 902 906	mice
+T49	Eukaryote 1158 1162	mice
+T50	Eukaryote 1602 1606	mice
+T51	BiologicFunction 698 707	cognition
+T52	TemporalConcept 296 305	currently
+T53	BiologicFunction 672 686	brain function
+T54	BodyPartOrganOrOrganComponent 231 236	brain
+T55	TemporalConcept 1713 1724	progressive
+T56	BiologicFunction 1338 1349	development
+T57	CellFunction 1338 1349	development
+T58	Finding 398 406	evidence
+T59	Finding 1790 1798	evidence
+T60	TemporalConcept 391 397	recent
+T61	TemporalConcept 1353 1359	future
+T62	HealthCareActivity 337 347	treatments
+T63	ResearchActivity 337 347	treatments
+T64	CellFunction 206 215	expressed
+T65	TemporalConcept 1784 1789	first
+T66	DiseaseOrSyndrome 0 20	Huntington's disease
+T67	DiseaseOrSyndrome 106 126	Huntington's disease
+T68	DiseaseOrSyndrome 464 484	Huntington's disease
+T69	DiseaseOrSyndrome 781 801	Huntington's disease
+T70	DiseaseOrSyndrome 876 896	Huntington's disease
+T71	DiseaseOrSyndrome 1282 1302	Huntington's disease
+T72	DiseaseOrSyndrome 1484 1504	Huntington's disease
+T73	DiseaseOrSyndrome 1581 1601	Huntington's disease
+T74	DiseaseOrSyndrome 1868 1888	Huntington's disease
+T75	ResearchActivity 1169 1174	study
+T76	DiseaseOrSyndrome 26 52	neurodegenerative disorder
+T77	CellOrMolecularDysfunction 142 165	tandem-repeat expansion
+T78	Organism 569 579	microbiota
+T79	Finding 828 846	cognitive outcomes
+T80	Finding 1004 1011	changes
+T81	HealthCareActivity 1532 1560	faecal microbiota transplant
+T82	Finding 1628 1646	cognitive outcomes
+T83	BodyPartOrganOrOrganComponent 1725 1728	gut

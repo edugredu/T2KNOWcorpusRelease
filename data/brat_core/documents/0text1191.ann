@@ -1,0 +1,58 @@
+T0	BiologicFunction 139 145	memory
+T1	BiologicFunction 154 170	ability to learn
+T2	Cell 434 464	Mesenchymal stem/stromal cells
+T3	PharmacologicSubstance 541 557	immunomodulatory
+T4	BiologicFunction 541 557	immunomodulatory
+T5	HealthCareActivity 541 557	immunomodulatory
+T6	ResearchActivity 968 987	preclinical studies
+T7	PathologicFunction 1034 1042	outcomes
+T8	AminoAcidPeptideOrProtein 902 920	protein aggregates
+T9	CellComponent 787 799	mitochondria
+T10	Finding 346 352	relief
+T11	InjuryOrPoisoning 102 114	brain damage
+T12	CellFunction 732 751	survival of neurons
+T13	PharmacologicSubstance 592 603	antioxidant
+T14	CellFunction 592 603	antioxidant
+T15	TemporalConcept 244 249	daily
+T16	CellFunction 671 686	neuroprotective
+T17	Finding 625 648	neuroprotective effects
+T18	SignOrSymptom 334 345	symptomatic
+T19	PathologicFunction 385 396	progression
+T20	TemporalConcept 385 396	progression
+T21	OrganismAttribute 45 48	age
+T22	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T23	DiseaseOrSyndrome 21 23	AD
+T24	DiseaseOrSyndrome 313 315	AD
+T25	DiseaseOrSyndrome 400 402	AD
+T26	DiseaseOrSyndrome 525 527	AD
+T27	DiseaseOrSyndrome 1024 1026	AD
+T28	DiseaseOrSyndrome 57 65	dementia
+T29	NucleicAcidNucleosideOrNucleotide 804 810	miRNAs
+T30	BiologicallyActiveSubstance 804 810	miRNAs
+T31	Cell 866 876	microglial
+T32	PatientOrDisabledGroup 215 222	patient
+T33	NaturalPhenomenonOrProcess 877 886	clearance
+T34	Cell 994 997	MSC
+T35	ResearchActivity 927 933	review
+T36	HealthCareActivity 927 933	review
+T37	OrganismAttribute 154 161	ability
+T38	OrganismAttribute 225 232	ability
+T39	HealthCareActivity 1003 1010	therapy
+T40	ResearchActivity 1064 1074	strategies
+T41	BiologicFunction 1064 1074	strategies
+T42	Cell 466 470	MSCs
+T43	Cell 650 654	MSCs
+T44	HealthCareActivity 283 309	pharmacological treatments
+T45	ResearchActivity 283 309	pharmacological treatments
+T46	ResearchActivity 826 846	bioenergetic profile
+T47	TemporalConcept 90 101	progressive
+T48	ResearchActivity 1095 1115	clinical translation
+T49	PathologicFunction 420 432	side effects
+T50	PharmacologicSubstance 691 716	anti-inflammatory factors
+T51	BiologicFunction 559 576	anti-inflammatory
+T52	BiologicFunction 691 708	anti-inflammatory
+T53	PharmacologicSubstance 559 576	anti-inflammatory
+T54	PharmacologicSubstance 691 708	anti-inflammatory
+T55	Finding 202 209	decline
+T56	Finding 483 511	potential therapeutic option
+T57	CellFunction 605 619	anti-apoptotic

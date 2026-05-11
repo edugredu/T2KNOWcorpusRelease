@@ -1,0 +1,56 @@
+T0	ResearchActivity 29 37	research
+T1	Finding 52 60	etiology
+T2	BiomedicalOccupationOrDiscipline 123 135	epidemiology
+T3	DiseaseOrSyndrome 144 157	rare disorder
+T4	PopulationGroup 179 192	United States
+T5	ResearchActivity 275 299	national-scale estimates
+T6	Finding 365 378	disease rates
+T7	PopulationGroup 427 431	race
+T8	PopulationGroup 433 442	ethnicity
+T9	PopulationGroup 560 566	cohort
+T10	TemporalConcept 660 676	annual incidence
+T11	TemporalConcept 678 705	annual diagnostic frequency
+T12	TemporalConcept 722 728	trends
+T13	TemporalConcept 734 738	time
+T14	Finding 743 754	differences
+T15	TemporalConcept 758 778	diagnostic frequency
+T16	TemporalConcept 835 853	observation period
+T17	PopulationGroup 918 925	persons
+T18	PopulationGroup 1024 1031	persons
+T19	TemporalConcept 1126 1132	period
+T20	Finding 1137 1147	identified
+T21	Finding 1283 1308	racial/ethnic differences
+T22	PopulationGroup 1446 1450	U.S.
+T23	BiomedicalOccupationOrDiscipline 1472 1484	epidemiology
+T24	Finding 1495 1525	stable disease frequency rates
+T25	DiseaseOrSyndrome 1792 1804	rare disease
+T26	BiomedicalOccupationOrDiscipline 1805 1817	epidemiology
+T27	PopulationGroup 329 344	U.S. population
+T28	HealthCareRelatedOrganization 479 488	insurance
+T29	PatientOrDisabledGroup 576 623	individuals diagnosed with Huntington's disease
+T30	TemporalConcept 859 897	age-adjusted cumulative incidence rate
+T31	OrganismAttribute 1246 1252	income
+T32	PopulationGroup 1258 1272	race/ethnicity
+T33	ResearchActivity 1765 1788	administrative Big Data
+T34	ResearchActivity 1829 1841	data sources
+T35	ResearchActivity 782 814	sociodemographic characteristics
+T36	TemporalConcept 1510 1525	frequency rates
+T37	ResearchActivity 212 236	national-scale estimates
+T38	ResearchActivity 1377 1398	country-level studies
+T39	ResearchActivity 1421 1442	large-scale estimates
+T40	ResearchActivity 931 950	confidence interval
+T41	ResearchActivity 1037 1056	confidence interval
+T42	NaturalPhenomenonOrProcess 1652 1673	environmental factors
+T43	EnvironmentalEffectOfHumans 1652 1673	environmental factors
+T44	TemporalConcept 407 416	frequency
+T45	TemporalConcept 1214 1223	frequency
+T46	DiseaseOrSyndrome 64 84	Huntington's disease
+T47	DiseaseOrSyndrome 303 323	Huntington's disease
+T48	DiseaseOrSyndrome 603 623	Huntington's disease
+T49	DiseaseOrSyndrome 1193 1213	Huntington's disease
+T50	DiseaseOrSyndrome 1451 1471	Huntington's disease
+T51	OrganismAttribute 1241 1244	sex
+T52	Finding 1549 1573	sociodemographic factors
+T53	HealthCareRelatedOrganization 1868 1921	International Parkinson and Movement Disorder Society
+T54	TemporalConcept 969 1002	age-adjusted diagnostic frequency
+T55	ResearchActivity 489 497	database

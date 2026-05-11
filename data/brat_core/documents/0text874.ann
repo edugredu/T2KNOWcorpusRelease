@@ -1,0 +1,57 @@
+T0	CellOrMolecularDysfunction 94 128	trinucleotide CAG repeat expansion
+T1	GeneOrGenome 136 151	huntingtin gene
+T2	PopulationGroup 189 200	individuals
+T3	PopulationGroup 208 221	United States
+T4	HealthCareRelatedOrganization 227 230	lab
+T5	BodyPartOrganOrOrganComponent 445 458	immune system
+T6	ResearchActivity 508 515	project
+T7	ExperimentalModelOfDisease 565 579	HD mouse model
+T8	BiomedicalOccupationOrDiscipline 609 618	histology
+T9	ResearchActivity 609 618	histology
+T10	ResearchActivity 711 722	engraftment
+T11	HealthCareActivity 711 722	engraftment
+T12	BodyPartOrganOrOrganComponent 728 747	human immune system
+T13	ResearchActivity 749 763	Flow cytometry
+T14	Cell 814 826	immune cells
+T15	Cell 904 907	MSC
+T16	ExperimentalModelOfDisease 949 970	immune deficient line
+T17	Cell 1028 1038	human MSCs
+T18	TemporalConcept 1133 1141	4 months
+T19	TemporalConcept 1185 1194	12 months
+T20	ManufacturedObject 1223 1233	open field
+T21	TemporalConcept 1238 1247	12 months
+T22	BodyPartOrganOrOrganComponent 1249 1255	brains
+T23	ResearchActivity 1290 1310	immunohistochemistry
+T24	HealthCareActivity 1452 1483	human stem-cell based therapies
+T25	BodyPartOrganOrOrganComponent 1497 1510	immune system
+T26	Cell 867 902	human mesenchymal stem/stromal cell
+T27	ExperimentalModelOfDisease 1055 1083	immune competent YAC128 mice
+T28	DiseaseOrSyndrome 37 81	autosomal-dominant neurodegenerative disease
+T29	ExperimentalModelOfDisease 287 293	YACNSG
+T30	ExperimentalModelOfDisease 326 338	YAC128 mouse
+T31	ResearchActivity 380 402	engineered human cells
+T32	Cell 380 402	engineered human cells
+T33	ExperimentalModelOfDisease 793 806	YACNSG strain
+T34	ResearchActivity 832 847	in vivo imaging
+T35	ExperimentalModelOfDisease 976 985	NSG mouse
+T36	ExperimentalModelOfDisease 1382 1420	immune deficient YACNSG strain of mice
+T37	ManufacturedObject 1202 1211	accelerod
+T38	ResearchActivity 1098 1120	behavioral assessments
+T39	TemporalConcept 1171 1178	monthly
+T40	ExperimentalModelOfDisease 1001 1007	YACNSG
+T41	ExperimentalModelOfDisease 249 281	immune deficient HD mouse strain
+T42	ResearchActivity 350 373	transplantation studies
+T43	ResearchActivity 587 604	behavioral assays
+T44	ExperimentalModelOfDisease 680 701	immune deficient mice
+T45	OrganismAttribute 1145 1148	age
+T46	PathologicFunction 462 481	disease progression
+T47	DiseaseOrSyndrome 22 24	HD
+T48	DiseaseOrSyndrome 1565 1567	HD
+T49	GeneOrGenome 153 156	HTT
+T50	AminoAcidPeptideOrProtein 153 156	HTT
+T51	DiseaseOrSyndrome 0 20	Huntington's disease
+T52	PathologicFunction 1552 1561	pathology
+T53	BiomedicalOccupationOrDiscipline 1552 1561	pathology
+T54	ClinicalAttribute 1315 1330	striatal volume
+T55	ResearchActivity 1351 1358	studies
+T56	ExperimentalModelOfDisease 652 675;697 701	immune competent YAC128 mice

@@ -1,0 +1,102 @@
+T0	Chemical 0 12	Progesterone
+T1	PharmacologicSubstance 0 12	Progesterone
+T2	Chemical 17 29	testosterone
+T3	PharmacologicSubstance 17 29	testosterone
+T4	Chemical 71 91	neuroactive steroids
+T5	Chemical 292 304	progesterone
+T6	BiologicallyActiveSubstance 292 304	progesterone
+T7	PharmacologicSubstance 292 304	progesterone
+T8	Chemical 309 321	testosterone
+T9	PharmacologicSubstance 309 321	testosterone
+T10	Chemical 567 575	steroids
+T11	CellComponent 655 668	intracellular
+T12	AminoAcidPeptideOrProtein 680 702	progesterone receptors
+T13	BiologicallyActiveSubstance 680 702	progesterone receptors
+T14	AminoAcidPeptideOrProtein 712 730	androgen receptors
+T15	BiologicallyActiveSubstance 712 730	androgen receptors
+T16	CellFunction 811 824	transcription
+T17	BiologicFunction 955 970	immune response
+T18	Chemical 1094 1106	progesterone
+T19	BiologicallyActiveSubstance 1094 1106	progesterone
+T20	PharmacologicSubstance 1094 1106	progesterone
+T21	Chemical 1111 1123	testosterone
+T22	BiologicallyActiveSubstance 1111 1123	testosterone
+T23	HealthCareActivity 1276 1298	hormonal contraception
+T24	Chemical 1531 1548	synthetic analogs
+T25	Chemical 1552 1564	progesterone
+T26	BiologicallyActiveSubstance 1552 1564	progesterone
+T27	PharmacologicSubstance 1552 1564	progesterone
+T28	Chemical 1569 1581	testosterone
+T29	PharmacologicSubstance 1569 1581	testosterone
+T30	BiologicallyActiveSubstance 57 65	hormones
+T31	CellFunction 874 892	cell proliferation
+T32	CellFunction 170 185	neuroprotection
+T33	ResearchActivity 424 444	organotypic cultures
+T34	ExperimentalModelOfDisease 512 553	experimental autoimmune encephalomyelitis
+T35	ExperimentalModelOfDisease 555 558	EAE
+T36	ResearchActivity 436 444	cultures
+T37	PathologicFunction 1478 1491	demyelinating
+T38	BodyPartOrganOrOrganComponent 190 196	myelin
+T39	BodyPartOrganOrOrganComponent 586 592	myelin
+T40	BodyPartOrganOrOrganComponent 1383 1389	myelin
+T41	BodyPartOrganOrOrganComponent 1453 1459	myelin
+T42	BiologicFunction 911 917	growth
+T43	CellFunction 894 909	differentiation
+T44	BiologicFunction 197 209	regeneration
+T45	BiologicFunction 607 619	regeneration
+T46	Chemical 473 485	lysolecithin
+T47	PharmacologicSubstance 473 485	lysolecithin
+T48	CellFunction 879 892	proliferation
+T49	Chemical 459 468	cuprizone
+T50	HealthCareActivity 197 209	regeneration
+T51	HealthCareActivity 607 619	regeneration
+T52	CellFunction 190 209	myelin regeneration
+T53	CellFunction 586 602	myelin formation
+T54	CellFunction 1383 1396	myelin repair
+T55	DiseaseOrSyndrome 1478 1501	demyelinating disorders
+T56	PathologicFunction 1036 1048	inflammation
+T57	ResearchActivity 242 248	review
+T58	HealthCareActivity 242 248	review
+T59	ResearchActivity 408 416	in vitro
+T60	BiomedicalOccupationOrDiscipline 1460 1467	biology
+T61	BiologicFunction 861 872	homeostasis
+T62	ResearchActivity 450 457	in vivo
+T63	OrganismAttribute 53 56	sex
+T64	TemporalConcept 1418 1424	recent
+T65	BiologicFunction 1067 1075	recovery
+T66	HealthCareActivity 1067 1075	recovery
+T67	TemporalConcept 1067 1075	recovery
+T68	HealthCareActivity 1131 1152	therapeutic potential
+T69	CellFunction 356 369	remyelination
+T70	CellFunction 340 351	myelination
+T71	CellFunction 922 933	myelination
+T72	HealthCareActivity 1305 1349	postmenopausal hormone replacement therapies
+T73	PathologicFunction 494 507	demyelination
+T74	Finding 281 288	effects
+T75	Finding 377 384	effects
+T76	CellFunction 829 840	translation
+T77	AminoAcidPeptideOrProtein 669 678	receptors
+T78	AminoAcidPeptideOrProtein 757 766	receptors
+T79	BiologicallyActiveSubstance 669 678	receptors
+T80	BiologicallyActiveSubstance 757 766	receptors
+T81	BiologicFunction 1460 1467	biology
+T82	Finding 1012 1032	significant decrease
+T83	BodyPartOrganOrOrganComponent 141 155	nervous system
+T84	BiologicFunction 1390 1396	repair
+T85	HealthCareActivity 1390 1396	repair
+T86	BiologicallyActiveSubstance 17 29	testosterone
+T87	BiologicallyActiveSubstance 0 12	Progesterone
+T88	BiologicallyActiveSubstance 71 91	neuroactive steroids
+T89	BiologicallyActiveSubstance 309 321	testosterone
+T90	ExperimentalModelOfDisease 986 995	EAE model
+T91	PharmacologicSubstance 1111 1123	testosterone
+T92	Chemical 1186 1204	19-norprogesterone
+T93	PharmacologicSubstance 1186 1204	19-norprogesterone
+T94	BiologicallyActiveSubstance 1186 1204	19-norprogesterone
+T95	BiologicallyActiveSubstance 1206 1215	nestorone
+T96	Chemical 1206 1215	nestorone
+T97	PharmacologicSubstance 1206 1215	nestorone
+T98	PharmacologicSubstance 1221 1251	7 alpha-methyl-nortestosterone
+T99	Chemical 1221 1251	7 alpha-methyl-nortestosterone
+T100	BiologicallyActiveSubstance 1569 1581	testosterone
+T101	Chemical 1160 1181	synthetic derivatives

@@ -1,0 +1,74 @@
+T0	Finding 0 14	Identification
+T1	PathologicFunction 156 163	Atrophy
+T2	DiseaseOrSyndrome 156 163	Atrophy
+T3	BodyPartOrganOrOrganComponent 167 183	brain structures
+T4	CellFunction 259 277	biochemical events
+T5	ResearchActivity 726 734	protocol
+T6	AminoAcidPeptideOrProtein 822 840	N-acetyl-aspartate
+T7	BiologicallyActiveSubstance 822 840	N-acetyl-aspartate
+T8	BiologicallyActiveSubstance 844 854	metabolite
+T9	NaturalPhenomenonOrProcess 991 1001	variations
+T10	ClinicalAttribute 1038 1054	striatal volumes
+T11	NaturalPhenomenonOrProcess 1083 1093	variations
+T12	AminoAcidPeptideOrProtein 1097 1106	glutamate
+T13	BiologicallyActiveSubstance 1097 1106	glutamate
+T14	AminoAcidPeptideOrProtein 1351 1360	glutamate
+T15	BiologicallyActiveSubstance 1351 1360	glutamate
+T16	Finding 1371 1380	unchanged
+T17	AminoAcidPeptideOrProtein 1707 1716	glutamate
+T18	BiologicallyActiveSubstance 1707 1716	glutamate
+T19	ResearchActivity 1809 1816	methods
+T20	PopulationGroup 656 664	juvenile
+T21	ExperimentalModelOfDisease 497 541	genetic mouse models of Huntington's disease
+T22	BiologicFunction 67 87	biological processes
+T23	BiologicFunction 1486 1506	biological processes
+T24	ClinicalAttribute 968 976	severity
+T25	Finding 968 976	severity
+T26	BodyPartOrganOrOrganComponent 1305 1320	corpus callosum
+T27	Eukaryote 687 694	Animals
+T28	Eukaryote 905 912	animals
+T29	PathologicFunction 591 617	progression of the disease
+T30	TemporalConcept 591 617	progression of the disease
+T31	BodyPartOrganOrOrganComponent 1279 1292	brain regions
+T32	BodyPartOrganOrOrganComponent 1641 1654	brain regions
+T33	ClinicalAttribute 960 976	disease severity
+T34	HealthCareActivity 456 471	gluCEST imaging
+T35	HealthCareActivity 757 772	gluCEST imaging
+T36	Finding 960 976	disease severity
+T37	Finding 788 808	significant decrease
+T38	Finding 922 930	decrease
+T39	Cell 877 885	neuronal
+T40	BodyPartOrganOrOrganComponent 1394 1399	brain
+T41	ResearchActivity 1826 1839	animal models
+T42	ResearchActivity 1517 1524	in vivo
+T43	Finding 385 396	specificity
+T44	DiseaseOrSyndrome 91 117	neurodegenerative diseases
+T45	DiseaseOrSyndrome 1843 1869	neurodegenerative diseases
+T46	DiseaseOrSyndrome 543 545	HD
+T47	DiseaseOrSyndrome 673 675	HD
+T48	DiseaseOrSyndrome 902 904	HD
+T49	ResearchActivity 1422 1427	study
+T50	ResearchActivity 1820 1825	study
+T51	ClinicalAttribute 27 37	biomarkers
+T52	ClinicalAttribute 350 360	biomarkers
+T53	ClinicalAttribute 1895 1905	biomarkers
+T54	ClinicalAttribute 207 216	biomarker
+T55	ResearchActivity 1063 1069	models
+T56	ExperimentalModelOfDisease 1403 1412	R6/1 mice
+T57	Finding 134 154	therapeutic efficacy
+T58	HealthCareActivity 409 416	H-1-MRS
+T59	ExperimentalModelOfDisease 551 565	Ki140CAG model
+T60	HealthCareActivity 745 752	H-1-MRS
+T61	ExperimentalModelOfDisease 627 637	R6/1 model
+T62	ClinicalAttribute 1005 1016	tNAA levels
+T63	ClinicalAttribute 1097 1113	glutamate levels
+T64	ExperimentalModelOfDisease 1136 1144	Ki140CAG
+T65	ExperimentalModelOfDisease 1156 1165	R6/1 mice
+T66	HealthCareActivity 1198 1205	gluCEST
+T67	Finding 1258 1269	alterations
+T68	ExperimentalModelOfDisease 1324 1337	Ki140CAG mice
+T69	ClinicalAttribute 1351 1366	glutamate level
+T70	HealthCareActivity 1444 1451	H-1-MRS
+T71	HealthCareActivity 1587 1594	gluCEST
+T72	Finding 1615 1626	alterations
+T73	ClinicalAttribute 1707 1723	glutamate levels

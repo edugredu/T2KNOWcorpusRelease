@@ -1,0 +1,70 @@
+T0	DiseaseOrSyndrome 83 98	proteinopathies
+T1	NaturalPhenomenonOrProcess 429 437	concepts
+T2	CellFunction 447 469	molecular interactions
+T3	GeneOrGenome 548 552	trio
+T4	AminoAcidPeptideOrProtein 548 552	trio
+T5	CellFunction 676 691	tau aggregation
+T6	CellFunction 1032 1043	aggregation
+T7	ResearchActivity 1032 1043	aggregation
+T8	CellFunction 1045 1055	cross-talk
+T9	PathologicFunction 1175 1198	multiple system atrophy
+T10	TemporalConcept 416 425	emergence
+T11	CellOrMolecularDysfunction 1020 1030	misfolding
+T12	BiologicFunction 976 989	understanding
+T13	BiologicFunction 1280 1293	understanding
+T14	DiseaseOrSyndrome 235 257	neurological disorders
+T15	BiologicFunction 17 28	recognition
+T16	InjuryOrPoisoning 1313 1321	toxicity
+T17	CellComponent 1162 1173	Lewy bodies
+T18	BiologicFunction 956 968	developments
+T19	CellFunction 956 968	developments
+T20	AminoAcidPeptideOrProtein 282 285	tau
+T21	AminoAcidPeptideOrProtein 504 507	tau
+T22	AminoAcidPeptideOrProtein 676 679	tau
+T23	AminoAcidPeptideOrProtein 750 753	tau
+T24	AminoAcidPeptideOrProtein 780 783	tau
+T25	AminoAcidPeptideOrProtein 291 306	alpha-synuclein
+T26	BiologicallyActiveSubstance 291 306	alpha-synuclein
+T27	AminoAcidPeptideOrProtein 259 271	amyloid-beta
+T28	DiseaseOrSyndrome 1148 1156	dementia
+T29	Eukaryote 787 791	mice
+T30	TemporalConcept 124 133	frequency
+T31	OrganismAttribute 645 652	ability
+T32	AminoAcidPeptideOrProtein 195 202	amyloid
+T33	BiologicallyActiveSubstance 195 202	amyloid
+T34	BiologicallyActiveSubstance 282 285	tau
+T35	BiologicallyActiveSubstance 504 507	tau
+T36	BiologicallyActiveSubstance 676 679	tau
+T37	BiologicallyActiveSubstance 750 753	tau
+T38	BiologicallyActiveSubstance 780 783	tau
+T39	AminoAcidPeptideOrProtein 273 279	A beta
+T40	AminoAcidPeptideOrProtein 496 502	A beta
+T41	AminoAcidPeptideOrProtein 665 671	A beta
+T42	AminoAcidPeptideOrProtein 739 745	A beta
+T43	AminoAcidPeptideOrProtein 203 211	proteins
+T44	AminoAcidPeptideOrProtein 392 400	proteins
+T45	TemporalConcept 949 955	recent
+T46	ResearchActivity 1368 1376	in vitro
+T47	TemporalConcept 621 633	recent years
+T48	BiologicFunction 588 597	attention
+T49	ResearchActivity 692 699	in vivo
+T50	ResearchActivity 754 761	in vivo
+T51	ResearchActivity 1356 1363	in vivo
+T52	DiseaseOrSyndrome 45 71	neurodegenerative diseases
+T53	DiseaseOrSyndrome 1225 1245	Huntington's disease
+T54	DiseaseOrSyndrome 1127 1146	Parkinson's disease
+T55	TemporalConcept 1272 1279	current
+T56	DiseaseOrSyndrome 1200 1219	Alzheimer's disease
+T57	ResearchActivity 851 857	review
+T58	HealthCareActivity 851 857	review
+T59	DiseaseOrSyndrome 1088 1115	neurodegenerative disorders
+T60	CellFunction 474 487	cross-seeding
+T61	CellFunction 1071 1084	cross-seeding
+T62	CellFunction 993 1018	alpha Syn multimerization
+T63	AminoAcidPeptideOrProtein 308 317	alpha Syn
+T64	BiologicallyActiveSubstance 308 317	alpha Syn
+T65	AminoAcidPeptideOrProtein 513 533	alpha Syn aggregates
+T66	AminoAcidPeptideOrProtein 554 563	alpha Syn
+T67	BiologicallyActiveSubstance 554 563	alpha Syn
+T68	AminoAcidPeptideOrProtein 910 937	soluble alpha Syn oligomers
+T69	AminoAcidPeptideOrProtein 1336 1355	alpha Syn oligomers

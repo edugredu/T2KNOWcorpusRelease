@@ -1,0 +1,98 @@
+T0	PopulationGroup 117 128	Individuals
+T1	DiseaseOrSyndrome 353 375	cardiovascular disease
+T2	BodyPartOrganOrOrganComponent 353 375	cardiovascular disease
+T3	BiologicFunction 377 386	menopause
+T4	ResearchActivity 541 560	retrospective study
+T5	OrganismAttribute 635 642	females
+T6	OrganismAttribute 689 696	females
+T7	PopulationGroup 727 741	family members
+T8	Finding 727 741	family members
+T9	OrganismAttribute 763 770	females
+T10	BiologicFunction 857 865	Learning
+T11	BiologicFunction 887 898	Recognition
+T12	BiologicFunction 1106 1117	Recognition
+T13	Finding 1253 1265	Total scores
+T14	TemporalConcept 1509 1520	preliminary
+T15	Finding 296 308	risk factors
+T16	TemporalConcept 388 403	life expectancy
+T17	OrganismAttribute 1160 1166	female
+T18	OrganismAttribute 1217 1223	female
+T19	OrganismAttribute 1566 1572	female
+T20	OrganismAttribute 1641 1647	female
+T21	OrganismAttribute 1151 1155	male
+T22	OrganismAttribute 1323 1327	male
+T23	AminoAcidPeptideOrProtein 185 197	Presenilin-1
+T24	GeneOrGenome 185 197	Presenilin-1
+T25	BiologicallyActiveSubstance 185 197	Presenilin-1
+T26	Finding 433 444	differences
+T27	Finding 1833 1844	differences
+T28	SignOrSymptom 648 659	symptomatic
+T29	DiseaseOrSyndrome 134 155	autosomal dominant AD
+T30	DiseaseOrSyndrome 494 515	autosomal dominant AD
+T31	PopulationGroup 605 613	carriers
+T32	PopulationGroup 660 668	carriers
+T33	PopulationGroup 718 726	carriers
+T34	PopulationGroup 1167 1175	carriers
+T35	PopulationGroup 1224 1232	carriers
+T36	PopulationGroup 1328 1336	carriers
+T37	PopulationGroup 1573 1581	carriers
+T38	PopulationGroup 1648 1656	carriers
+T39	Finding 1466 1477	performance
+T40	GeneOrGenome 199 204	PSEN1
+T41	GeneOrGenome 590 595	PSEN1
+T42	AminoAcidPeptideOrProtein 199 204	PSEN1
+T43	AminoAcidPeptideOrProtein 590 595	PSEN1
+T44	BiologicallyActiveSubstance 199 204	PSEN1
+T45	BiologicallyActiveSubstance 590 595	PSEN1
+T46	CellOrMolecularDysfunction 473 490	neurodegeneration
+T47	CellOrMolecularDysfunction 1714 1731	neurodegeneration
+T48	DiseaseOrSyndrome 91 110	Alzheimer's disease
+T49	TemporalConcept 250 255	onset
+T50	ResearchActivity 983 990	Results
+T51	CellOrMolecularDysfunction 165 173	mutation
+T52	CellOrMolecularDysfunction 596 604	mutation
+T53	PopulationGroup 714 726	non-carriers
+T54	PopulationGroup 1180 1192	non-carriers
+T55	OrganismAttribute 284 287	age
+T56	OrganismAttribute 615 618	age
+T57	OrganismAttribute 670 673	age
+T58	OrganismAttribute 743 746	age
+T59	OrganismAttribute 1040 1043	age
+T60	ResearchActivity 1740 1747	studies
+T61	DiseaseOrSyndrome 112 114	AD
+T62	DiseaseOrSyndrome 313 315	AD
+T63	DiseaseOrSyndrome 1703 1705	AD
+T64	DiseaseOrSyndrome 1771 1792	autosomal dominant AD
+T65	DiseaseOrSyndrome 1848 1850	AD
+T66	DiseaseOrSyndrome 256 264	dementia
+T67	ResearchActivity 949 966	regression models
+T68	BiologicFunction 459 468	cognition
+T69	OrganismAttribute 58 61	sex
+T70	OrganismAttribute 342 345	sex
+T71	OrganismAttribute 429 432	sex
+T72	OrganismAttribute 1407 1410	sex
+T73	OrganismAttribute 1829 1832	sex
+T74	PopulationGroup 1485 1491	groups
+T75	ResearchActivity 923 944	Spearman correlations
+T76	ResearchActivity 901 921	Mann-Whitney U tests
+T77	PopulationGroup 596 613	mutation carriers
+T78	ClinicalAttribute 785 803	hippocampal volume
+T79	ClinicalAttribute 1123 1141	hippocampal volume
+T80	ClinicalAttribute 1361 1379	hippocampal volume
+T81	ClinicalAttribute 1415 1433	hippocampal volume
+T82	Finding 20 28	evidence
+T83	BiologicFunction 1591 1604	verbal memory
+T84	HealthCareActivity 811 828	CERAD Total Score
+T85	HealthCareActivity 834 849	CERAD Word List
+T86	BiologicFunction 867 881	Delayed Recall
+T87	HealthCareActivity 1045 1050	CERAD
+T88	HealthCareActivity 1064 1088	CERAD Word List-Learning
+T89	BiologicFunction 1090 1104	Delayed Recall
+T90	HealthCareActivity 1090 1104	Delayed Recall
+T91	Finding 1194 1216	Cognitively-unimpaired
+T92	HealthCareActivity 1247 1252	CERAD
+T93	Finding 1051 1062	Total Score
+T94	HealthCareActivity 1270 1294	CERAD Word List-Learning
+T95	Finding 1300 1322	cognitively-unimpaired
+T96	Finding 1543 1565	cognitively-unimpaired
+T97	AminoAcidPeptideOrProtein 175 180	E280A

@@ -1,0 +1,30 @@
+T0	DiseaseOrSyndrome 227 240	Down syndrome
+T1	DiseaseOrSyndrome 242 244	DS
+T2	Finding 407 415	outcomes
+T3	DiseaseOrSyndrome 553 555	DS
+T4	DiseaseOrSyndrome 601 614	Down syndrome
+T5	DiseaseOrSyndrome 735 737	DS
+T6	BiologicFunction 803 813	experience
+T7	ResearchActivity 464 469	paper
+T8	ResearchActivity 658 669	researchers
+T9	PopulationGroup 249 259	population
+T10	DiseaseOrSyndrome 176 195	Alzheimer's Disease
+T11	ResearchActivity 308 315	studies
+T12	ClinicalAttribute 201 211	biomarkers
+T13	ClinicalAttribute 359 369	biomarkers
+T14	DiseaseOrSyndrome 197 199	AD
+T15	DiseaseOrSyndrome 298 300	AD
+T16	DiseaseOrSyndrome 729 731	AD
+T17	ResearchActivity 490 494	data
+T18	Finding 165 172	history
+T19	ResearchActivity 442 457	clinical trials
+T20	ResearchActivity 516 531	clinical trials
+T21	ResearchActivity 709 724	clinical trials
+T22	PopulationGroup 215 221	adults
+T23	PopulationGroup 536 547	individuals
+T24	HealthCareRelatedOrganization 4 7	NIH
+T25	HealthCareRelatedOrganization 15 61	Alzheimer's Biomarker Consortium Down Syndrome
+T26	HealthCareRelatedOrganization 79 109	European Horizon 21 Consortium
+T27	ResearchActivity 561 614	Alzheimer's Clinical Trial Consortium - Down syndrome
+T28	ResearchActivity 616 623	ACTC-DS
+T29	HealthCareRelatedOrganization 63 69	ABC-DS

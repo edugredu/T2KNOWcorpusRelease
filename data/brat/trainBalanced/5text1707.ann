@@ -1,0 +1,5 @@
+T0	BodyPartOrganOrOrganComponent 55 60	brain
+T1	CellOrMolecularDysfunction 159 176	neurodegeneration
+T2	CellFunction 131 146	gene expression
+T3	CellFunction 61 85	epigenetic modifications
+T4	InjuryOrPoisoning 28 51	environmental pollution

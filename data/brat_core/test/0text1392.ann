@@ -1,0 +1,106 @@
+T0	GeneOrGenome 0 34	Sphingosine-1-phosphate receptor 1
+T1	AminoAcidPeptideOrProtein 0 34	Sphingosine-1-phosphate receptor 1
+T2	BiologicallyActiveSubstance 0 34	Sphingosine-1-phosphate receptor 1
+T3	GeneOrGenome 36 41	S1PR1
+T4	AminoAcidPeptideOrProtein 36 41	S1PR1
+T5	BiologicallyActiveSubstance 36 41	S1PR1
+T6	BodyPartOrganOrOrganComponent 79 86	tissues
+T7	GeneOrGenome 190 195	S1PR1
+T8	AminoAcidPeptideOrProtein 190 195	S1PR1
+T9	BiologicallyActiveSubstance 190 195	S1PR1
+T10	Cell 272 303	oligodendrocyte precursor cells
+T11	GeneOrGenome 305 310	S1PR1
+T12	AminoAcidPeptideOrProtein 305 310	S1PR1
+T13	BiologicallyActiveSubstance 305 310	S1PR1
+T14	GeneOrGenome 672 677	S1PR1
+T15	AminoAcidPeptideOrProtein 672 677	S1PR1
+T16	BiologicallyActiveSubstance 672 677	S1PR1
+T17	ResearchActivity 691 706	autoradiography
+T18	Eukaryote 745 748	rat
+T19	BodyPartOrganOrOrganComponent 753 760	tissues
+T20	CellFunction 796 801	binds
+T21	GeneOrGenome 805 810	S1PR1
+T22	AminoAcidPeptideOrProtein 805 810	S1PR1
+T23	BiologicallyActiveSubstance 805 810	S1PR1
+T24	BodyPartOrganOrOrganComponent 820 834	frontal cortex
+T25	BodyPartOrganOrOrganComponent 835 841	tissue
+T26	Eukaryote 933 936	rat
+T27	BodyPartOrganOrOrganComponent 941 948	tissues
+T28	GeneOrGenome 988 993	S1PR1
+T29	AminoAcidPeptideOrProtein 988 993	S1PR1
+T30	BiologicallyActiveSubstance 988 993	S1PR1
+T31	Eukaryote 1280 1283	rat
+T32	Eukaryote 1299 1302	rat
+T33	HealthCareActivity 1440 1468	positron emission tomography
+T34	ManufacturedObject 1440 1468	positron emission tomography
+T35	HealthCareActivity 1470 1473	PET
+T36	CellFunction 1570 1577	binding
+T37	GeneOrGenome 1581 1586	S1PR1
+T38	AminoAcidPeptideOrProtein 1581 1586	S1PR1
+T39	CellFunction 1581 1586	S1PR1
+T40	Chemical 1701 1712	radioligand
+T41	HealthCareActivity 1717 1728	PET imaging
+T42	GeneOrGenome 1732 1737	S1PR1
+T43	AminoAcidPeptideOrProtein 1732 1737	S1PR1
+T44	BiologicallyActiveSubstance 1732 1737	S1PR1
+T45	ResearchActivity 1163 1186	test-retest variability
+T46	Cell 231 236	cells
+T47	BodyPartOrganOrOrganComponent 1151 1156	brain
+T48	BodyPartOrganOrOrganComponent 1303 1308	brain
+T49	BodyPartOrganOrOrganComponent 1645 1650	brain
+T50	ResearchActivity 579 584	study
+T51	ResearchActivity 1513 1518	study
+T52	ResearchActivity 610 626	characterization
+T53	ResearchActivity 1539 1555	characterization
+T54	BodyPartOrganOrOrganComponent 184 187	CNS
+T55	BodyPartOrganOrOrganComponent 681 684	CNS
+T56	BodyPartOrganOrOrganComponent 749 752	CNS
+T57	BodyPartOrganOrOrganComponent 937 940	CNS
+T58	BodyPartOrganOrOrganComponent 1594 1597	CNS
+T59	BodyPartOrganOrOrganComponent 1745 1748	CNS
+T60	ResearchActivity 766 770	data
+T61	ResearchActivity 1475 1479	data
+T62	ResearchActivity 1656 1660	data
+T63	ResearchActivity 1027 1034	studies
+T64	ResearchActivity 1049 1056	studies
+T65	ResearchActivity 1362 1386	Kinetic modeling studies
+T66	ResearchActivity 1626 1633	studies
+T67	TemporalConcept 571 578	current
+T68	BodyPartOrganOrOrganComponent 160 182	central nervous system
+T69	Eukaryote 553 558	human
+T70	Eukaryote 735 740	human
+T71	Eukaryote 814 819	human
+T72	Eukaryote 923 928	human
+T73	Cell 247 254	neurons
+T74	DiseaseOrSyndrome 364 382	multiple sclerosis
+T75	ResearchActivity 1238 1246	analysis
+T76	ResearchActivity 526 548	clinical investigation
+T77	ResearchActivity 1353 1360	in vivo
+T78	CellFunction 133 151	cellular processes
+T79	BodyPartOrganOrOrganComponent 1254 1260	plasma
+T80	Cell 256 266	astrocytes
+T81	CellFunction 46 68	ubiquitously expressed
+T82	ResearchActivity 711 731	immunohistochemistry
+T83	ResearchActivity 1006 1026	immunohistochemistry
+T84	Finding 336 360	novel therapeutic target
+T85	Chemical 438 464	S1PR1-specific radioligand
+T86	Chemical 466 477	[C-11]CS1P1
+T87	Chemical 496 508	[C-11]TZ3321
+T88	Chemical 630 640	[H-3]CS1P1
+T89	Eukaryote 1077 1093	nonhuman primate
+T90	Eukaryote 1095 1098	NHP
+T91	Eukaryote 1147 1150	NHP
+T92	Eukaryote 1216 1220	NHPs
+T93	ResearchActivity 649 668	binding specificity
+T94	Eukaryote 1272 1275	NHP
+T95	ManufacturedObject 1040 1048	microPET
+T96	ResearchActivity 1395 1423	two-compartment tissue model
+T97	ManufacturedObject 1617 1625	microPET
+T98	Eukaryote 1641 1644	NHP
+T99	Chemical 1674 1685	[C-11]CS1P1
+T100	Chemical 785 795	[H-3]CS1P1
+T101	Chemical 909 919	[H-3]CS1P1
+T102	Chemical 1060 1071	[C-11]CS1P1
+T103	Chemical 1330 1341	[C-11]CS1P1
+T104	Chemical 1559 1569	[H-3]CS1P1
+T105	Chemical 1222 1237	Radiometabolite

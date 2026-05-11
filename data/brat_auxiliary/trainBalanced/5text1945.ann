@@ -1,0 +1,12 @@
+T0	DiseaseOrSyndrome 71 98	neurodegenerative disorders
+T1	PathologicFunction 205 224	disease progression
+T2	OrganismAttribute 148 155	species
+T3	Organism 168 172	host
+T4	ResearchActivity 14 34	metagenomic profiles
+T5	Bacterium 42 50	bacteria
+T6	Bacterium 173 181	bacteria
+T7	BodyPartOrganOrOrganComponent 38 41	gut
+T8	PopulationGroup 54 65	individuals
+T9	Finding 182 194	interactions
+T10	NaturalPhenomenonOrProcess 168 194	host-bacteria interactions
+T11	Organism 138 155	microbial species

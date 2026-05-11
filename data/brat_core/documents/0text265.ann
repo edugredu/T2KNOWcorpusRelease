@@ -1,0 +1,91 @@
+T0	PopulationGroup 4 20	world population
+T1	BiologicFunction 38 44	ageing
+T2	CellFunction 38 44	ageing
+T3	PopulationGroup 103 108	world
+T4	BiologicFunction 369 377	hormesis
+T5	BiologicFunction 477 485	hormesis
+T6	TemporalConcept 498 506	biphasic
+T7	Finding 565 571	stress
+T8	PathologicFunction 565 571	stress
+T9	CellOrMolecularDysfunction 626 637	deleterious
+T10	InjuryOrPoisoning 641 654	toxic effects
+T11	BiologicFunction 872 880	Hormesis
+T12	Finding 920 926	stress
+T13	SignOrSymptom 954 961	seizure
+T14	Finding 954 961	seizure
+T15	DiseaseOrSyndrome 954 961	seizure
+T16	DiseaseOrSyndrome 1086 1106	neurologic disorders
+T17	PharmacologicSubstance 1108 1133	Herbal medicinal products
+T18	PharmacologicSubstance 1138 1149	supplements
+T19	BiologicFunction 1216 1224	hormesis
+T20	BiologicFunction 1480 1488	hormesis
+T21	Chemical 1501 1515	phytochemicals
+T22	DiseaseOrSyndrome 1575 1581	Autism
+T23	Chemical 1758 1772	phytochemicals
+T24	Finding 1873 1885	key findings
+T25	HealthCareActivity 1912 1920	reviewed
+T26	ResearchActivity 1912 1920	reviewed
+T27	DiseaseOrSyndrome 422 460	age-related neurodegenerative diseases
+T28	DiseaseOrSyndrome 1544 1566	neurological disorders
+T29	ClinicalAttribute 942 950	severity
+T30	InjuryOrPoisoning 848 870	traumatic brain injury
+T31	Finding 942 950	severity
+T32	DiseaseOrSyndrome 836 842	stroke
+T33	CellFunction 1692 1707	neuroprotection
+T34	PopulationGroup 10 20	population
+T35	Eukaryote 1249 1255	plants
+T36	BiologicallyActiveSubstance 1327 1346	bioactive compounds
+T37	SignOrSymptom 928 932	pain
+T38	DiseaseOrSyndrome 1444 1464	Parkinson's diseases
+T39	TemporalConcept 265 269	date
+T40	BiologicFunction 829 834	aging
+T41	CellFunction 829 834	aging
+T42	SignOrSymptom 325 333	symptoms
+T43	PathologicFunction 1395 1407	pathogenesis
+T44	DiseaseOrSyndrome 911 918	anxiety
+T45	HealthCareActivity 1793 1803	management
+T46	TemporalConcept 760 765	onset
+T47	Finding 592 610	beneficial effects
+T48	HealthCareActivity 78 84	health
+T49	HealthCareActivity 1171 1177	health
+T50	DiseaseOrSyndrome 1428 1439	Alzheimer's
+T51	BodyPartOrganOrOrganComponent 858 863	brain
+T52	HealthCareActivity 409 418	treatment
+T53	HealthCareActivity 1045 1054	treatment
+T54	ResearchActivity 409 418	treatment
+T55	ResearchActivity 1045 1054	treatment
+T56	TemporalConcept 173 184	progressive
+T57	HealthCareActivity 85 94	challenge
+T58	Cell 724 731	neurons
+T59	ResearchActivity 1280 1287	studies
+T60	ResearchActivity 1895 1902	studies
+T61	ResearchActivity 1411 1424	animal models
+T62	BiologicFunction 392 401	attention
+T63	TemporalConcept 359 367	Recently
+T64	HealthCareActivity 288 298	treatments
+T65	ResearchActivity 288 298	treatments
+T66	PharmacologicSubstance 557 561	drug
+T67	PathologicFunction 346 357	progression
+T68	TemporalConcept 346 357	progression
+T69	DiseaseOrSyndrome 115 141	neurodegenerative diseases
+T70	DiseaseOrSyndrome 223 249	neurodegenerative diseases
+T71	DiseaseOrSyndrome 434 460	neurodegenerative diseases
+T72	DiseaseOrSyndrome 769 795	neurodegenerative diseases
+T73	DiseaseOrSyndrome 1807 1833	neurodegenerative diseases
+T74	DiseaseOrSyndrome 1586 1606	Huntington's disease
+T75	CellOrMolecularDysfunction 1058 1075	neurodegenerative
+T76	CellOrMolecularDysfunction 1377 1394	neurodegenerative
+T77	NaturalPhenomenonOrProcess 521 531	phenomenon
+T78	NaturalPhenomenonOrProcess 1225 1235	phenomenon
+T79	Finding 1225 1235	phenomenon
+T80	ResearchActivity 1616 1622	review
+T81	HealthCareActivity 1616 1622	review
+T82	OrganismAttribute 109 113	ages
+T83	BiologicFunction 656 669	Neurohormesis
+T84	BiologicFunction 697 720	hormetic dose responses
+T85	PathologicFunction 920 926	stress
+T86	BiologicFunction 969 982	neurohormesis
+T87	PharmacologicSubstance 1239 1255	medicinal plants
+T88	BiologicFunction 1304 1323	hormetic mechanisms
+T89	BiologicFunction 1628 1655	neurohormetic dose-response
+T90	BiologicFunction 1744 1757	neurohormetic

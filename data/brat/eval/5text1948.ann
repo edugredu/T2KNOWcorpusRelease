@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 164 183	Parkinson's disease
+T1	DiseaseOrSyndrome 107 134	neurodegenerative disorders
+T2	DiseaseOrSyndrome 140 159	Alzheimer's disease
+T3	PopulationGroup 90 101	individuals
+T4	BodyPartOrganOrOrganComponent 41 66	retinal nerve fiber layer
+T5	BodyPartOrganOrOrganComponent 0 7	Retinal
+T6	AnatomicalAbnormality 0 15	Retinal defects
+T7	Finding 25 66	thinning of the retinal nerve fiber layer

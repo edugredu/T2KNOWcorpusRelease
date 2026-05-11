@@ -1,0 +1,66 @@
+T0	BodyPartOrganOrOrganComponent 0 6	Myelin
+T1	BiologicFunction 23 46	nervous system function
+T2	Cell 107 123	Oligodendrocytes
+T3	Cell 125 128	OLs
+T4	Cell 134 147	Schwann cells
+T5	Cell 149 152	SCs
+T6	BodyPartOrganOrOrganComponent 159 165	myelin
+T7	CellComponent 159 165	myelin
+T8	BodyPartOrganOrOrganComponent 173 211	central and peripheral nervous systems
+T9	Cell 267 270	OLs
+T10	Cell 435 453	OL precursor cells
+T11	Cell 455 459	OPCs
+T12	NaturalPhenomenonOrProcess 486 491	waves
+T13	Cell 590 605	myelinating OLs
+T14	Cell 607 611	OPCs
+T15	TemporalConcept 649 653	life
+T16	CellFunction 736 747	remyelinate
+T17	Cell 762 765	SCs
+T18	EmbryonicStructure 782 794	neural crest
+T19	Cell 880 893	SC precursors
+T20	EmbryonicStructure 923 949	embryonic nerve structures
+T21	CellFunction 954 967	differentiate
+T22	Cell 973 997	multipotent immature SCs
+T23	CellFunction 1040 1053	differentiate
+T24	Cell 1096 1114	Differentiated SCs
+T25	OrganismAttribute 1155 1165	phenotypes
+T26	Cell 1218 1228	repair SCs
+T27	BodyPartOrganOrOrganComponent 1307 1313	myelin
+T28	CellComponent 1307 1313	myelin
+T29	CellComponent 1314 1324	components
+T30	Cell 1344 1347	OLs
+T31	Cell 1352 1355	SCs
+T32	Cell 1495 1498	OLs
+T33	Cell 1503 1506	SCs
+T34	BiologicFunction 246 259	developmental
+T35	BiologicFunction 324 345	developmental program
+T36	BiologicFunction 1660 1682	developmental programs
+T37	TemporalConcept 246 259	developmental
+T38	Cell 709 714	cells
+T39	TemporalConcept 1733 1739	recent
+T40	BodyPartOrganOrOrganComponent 536 558	central nervous system
+T41	CellFunction 382 403	differentiation state
+T42	CellFunction 856 878	differentiation states
+T43	CellFunction 1363 1378	differentiation
+T44	CellFunction 1712 1727	differentiation
+T45	BodyPartOrganOrOrganComponent 1549 1563	nervous system
+T46	CellFunction 1621 1629	pathways
+T47	BiologicFunction 412 433	embryonic development
+T48	Finding 1740 1748	advances
+T49	PopulationGroup 667 677	population
+T50	AminoAcidPeptideOrProtein 1281 1302	transcription factors
+T51	BiologicallyActiveSubstance 1281 1302	transcription factors
+T52	BiologicFunction 1242 1265	peripheral regeneration
+T53	CellFunction 1518 1535	neuronal activity
+T54	InjuryOrPoisoning 754 760	injury
+T55	BiologicFunction 65 85	saltatory conduction
+T56	CellFunction 90 105	trophic support
+T57	Cell 275 291	neural stem-cell
+T58	Cell 895 899	SCPs
+T59	Cell 999 1003	iSCs
+T60	Cell 1075 1094	non-myelinating SCs
+T61	CellFunction 1021 1035	radial sorting
+T62	CellFunction 1433 1441	lineages
+T63	Finding 800 837	highly dependent on extrinsic signals
+T64	Cell 1059 1070	myelinating
+T65	Cell 1091 1094	SCs

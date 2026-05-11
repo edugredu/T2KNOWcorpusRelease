@@ -1,0 +1,47 @@
+T0	HealthCareRelatedOrganization 142 170	Food and Drug Administration
+T1	Substance 854 863	solutions
+T2	ResearchActivity 171 179	approval
+T3	HealthCareActivity 185 212	disease-modifying treatment
+T4	TemporalConcept 430 437	routine
+T5	HealthCareActivity 821 831	challenges
+T6	IndividualBehavior 371 381	disclosure
+T7	IndividualBehavior 582 592	disclosure
+T8	IndividualBehavior 713 723	disclosure
+T9	IndividualBehavior 998 1008	disclosure
+T10	HealthCareActivity 441 458	clinical practice
+T11	TemporalConcept 272 289	preclinical phase
+T12	Finding 763 782	risk for developing
+T13	Finding 53 75	cognitively unimpaired
+T14	Finding 596 618	cognitively unimpaired
+T15	BiologicFunction 748 756	learning
+T16	TemporalConcept 87 96	currently
+T17	TemporalConcept 842 853	preliminary
+T18	IndividualBehavior 0 10	Disclosure
+T19	DiseaseOrSyndrome 14 33	Alzheimer's disease
+T20	DiseaseOrSyndrome 35 37	AD
+T21	DiseaseOrSyndrome 486 488	AD
+T22	DiseaseOrSyndrome 700 702	AD
+T23	DiseaseOrSyndrome 802 804	AD
+T24	ClinicalAttribute 342 351	biomarker
+T25	ClinicalAttribute 703 712	biomarker
+T26	PopulationGroup 217 240	symptomatic individuals
+T27	PopulationGroup 736 747	individuals
+T28	ResearchActivity 115 123	research
+T29	ResearchActivity 489 497	research
+T30	Finding 549 557	validity
+T31	DiseaseOrSyndrome 783 791	dementia
+T32	ClinicalAttribute 39 49	biomarkers
+T33	ClinicalAttribute 510 520	biomarkers
+T34	TemporalConcept 399 408	frequency
+T35	BiologicFunction 251 264	understanding
+T36	ResearchActivity 352 357	tests
+T37	HealthCareActivity 352 357	tests
+T38	PopulationGroup 76 82	adults
+T39	PopulationGroup 619 625	adults
+T40	ResearchActivity 632 639	article
+T41	Finding 562 578	clinical utility
+T42	Finding 661 680	social implications
+T43	Finding 975 994	social implications
+T44	Finding 955 962;982 994	ethical implications
+T45	Finding 964 969;982 994	legal implications
+T46	Finding 464 482	changing landscape

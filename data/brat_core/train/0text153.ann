@@ -1,0 +1,81 @@
+T0	DiseaseOrSyndrome 114 135	degenerative disorder
+T1	Finding 208 226	normal development
+T2	BiologicFunction 646 667	developmental process
+T3	CellFunction 646 667	developmental process
+T4	TemporalConcept 672 683	early-stage
+T5	ResearchActivity 726 747	morphometric analysis
+T6	BodyPartOrganOrOrganComponent 946 963	calcarine fissure
+T7	BodyPartOrganOrOrganComponent 972 993	primary visual cortex
+T8	Finding 1235 1250	shallower sulci
+T9	ResearchActivity 1274 1292	sulcal morphometry
+T10	BiologicFunction 1335 1342	imprint
+T11	BodyPartOrganOrOrganComponent 1350 1365	Sylvian fissure
+T12	BodyPartOrganOrOrganComponent 1403 1414	grey matter
+T13	AnatomicalAbnormality 1437 1476	asymmetry in the length of this fissure
+T14	Finding 1491 1500	asymmetry
+T15	AnatomicalAbnormality 1491 1500	asymmetry
+T16	BodyPartOrganOrOrganComponent 1595 1610	Sylvian fissure
+T17	BodyPartOrganOrOrganComponent 1628 1633	utero
+T18	Finding 1646 1655	asymmetry
+T19	AnatomicalAbnormality 1646 1655	asymmetry
+T20	BodyPartOrganOrOrganComponent 1698 1707	neocortex
+T21	PopulationGroup 1711 1719	newborns
+T22	TemporalConcept 1761 1774	foetal timing
+T23	BiologicFunction 444 472	neurodevelopmental processes
+T24	BodyPartOrganOrOrganComponent 1018 1026	striatum
+T25	BiologicFunction 1821 1837	neurodevelopment
+T26	DiseaseOrSyndrome 32 41	inherited
+T27	BodyPartOrganOrOrganComponent 544 559	cortical sulcal
+T28	BodyPartOrganOrOrganComponent 611 626	cortical sulcal
+T29	BodyPartOrganOrOrganComponent 1090 1106	primary cortical
+T30	BodyPartOrganOrOrganComponent 1509 1524	cortical region
+T31	PathologicFunction 578 598	degenerative process
+T32	DiseaseOrSyndrome 43 70	autosomal dominant disorder
+T33	Finding 1732 1739	finding
+T34	PopulationGroup 791 803	participants
+T35	Finding 757 780	significant differences
+T36	Finding 1798 1815	genetic interplay
+T37	PathologicFunction 1210 1217	atrophy
+T38	DiseaseOrSyndrome 1210 1217	atrophy
+T39	BiologicFunction 215 226	development
+T40	BiologicFunction 1558 1569	development
+T41	CellFunction 215 226	development
+T42	CellFunction 1558 1569	development
+T43	Finding 1077 1085	evidence
+T44	ResearchActivity 297 304	studies
+T45	PathologicFunction 1107 1119	degeneration
+T46	Eukaryote 291 296	human
+T47	ResearchActivity 283 290	in vivo
+T48	ResearchActivity 1069 1076	in vivo
+T49	Finding 208 214	normal
+T50	OrganismAttribute 703 710	healthy
+T51	OrganismAttribute 822 829	healthy
+T52	OrganismAttribute 1178 1185	healthy
+T53	OrganismAttribute 1550 1557	healthy
+T54	ResearchActivity 250 268	systems-level data
+T55	ResearchActivity 349 369	morphometry analysis
+T56	PopulationGroup 703 719	healthy controls
+T57	PopulationGroup 822 838	healthy controls
+T58	DiseaseOrSyndrome 0 20	Huntington's disease
+T59	DiseaseOrSyndrome 22 24	HD
+T60	DiseaseOrSyndrome 187 189	HD
+T61	DiseaseOrSyndrome 518 520	HD
+T62	DiseaseOrSyndrome 684 686	HD
+T63	DiseaseOrSyndrome 788 790	HD
+T64	DiseaseOrSyndrome 1123 1125	HD
+T65	DiseaseOrSyndrome 1171 1173	HD
+T66	DiseaseOrSyndrome 1254 1256	HD
+T67	DiseaseOrSyndrome 1480 1482	HD
+T68	CellOrMolecularDysfunction 422 439	neurodegenerative
+T69	OrganismAttribute 691 694	age
+T70	BodyPartOrganOrOrganComponent 333 339	Sulcus
+T71	ClinicalAttribute 544 565	cortical sulcal depth
+T72	ClinicalAttribute 611 633	cortical sulcal length
+T73	BodyPartOrganOrOrganComponent 870 891	infra-parietal sulcus
+T74	BodyPartOrganOrOrganComponent 909 941	left intermediate frontal sulcus
+T75	BodyPartOrganOrOrganComponent 1133 1139	sulcal
+T76	PopulationGroup 1186 1197	populations
+T77	ClinicalAttribute 1403 1421	grey matter volume
+T78	Finding 1426 1433	absence
+T79	BiologicFunction 1578 1610	formation of the Sylvian fissure
+T80	TemporalConcept 1619 1624	early

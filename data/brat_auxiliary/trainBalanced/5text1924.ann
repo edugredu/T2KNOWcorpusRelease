@@ -1,0 +1,9 @@
+T0	DiseaseOrSyndrome 142 169	neurodegenerative disorders
+T1	TemporalConcept 71 75	time
+T2	Finding 123 127	risk
+T3	HealthCareActivity 76 86	monitoring
+T4	PopulationGroup 108 119	individuals
+T5	MachineActivity 0 11	ASR systems
+T6	ManufacturedObject 38 54	wearable devices
+T7	BiologicFunction 90 96	speech
+T8	Finding 97 104	changes

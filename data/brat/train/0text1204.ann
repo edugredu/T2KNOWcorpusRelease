@@ -1,0 +1,125 @@
+T0	PathologicFunction 0 12	Demyelinated
+T1	BodyPartOrganOrOrganComponent 30 34	pons
+T2	DiseaseOrSyndrome 99 127	central pontine myelinolysis
+T3	DiseaseOrSyndrome 129 132	CPM
+T4	DiseaseOrSyndrome 176 202	neuroinflammatory diseases
+T5	DiseaseOrSyndrome 230 233	NMO
+T6	DiseaseOrSyndrome 316 319	CPM
+T7	DiseaseOrSyndrome 586 589	CPM
+T8	HealthCareActivity 692 702	Injections
+T9	DiseaseOrSyndrome 1050 1066	breast carcinoma
+T10	AminoAcidPeptideOrProtein 1089 1094	BCAS1
+T11	GeneOrGenome 1089 1094	BCAS1
+T12	CellOrMolecularDysfunction 1112 1122	transition
+T13	PathologicFunction 1222 1246	dysfunctional morphology
+T14	DiseaseOrSyndrome 1423 1426	CPM
+T15	PathologicFunction 1524 1548	dysfunctional morphology
+T16	Cell 1587 1591	NSCs
+T17	Cell 1912 1923	progenitors
+T18	Finding 1929 1935	absent
+T19	DiseaseOrSyndrome 1945 1948	CPM
+T20	Finding 2222 2234	inefficiency
+T21	AminoAcidPeptideOrProtein 1726 1732	nestin
+T22	AminoAcidPeptideOrProtein 1884 1890	nestin
+T23	CellFunction 2063 2101	astrocyte-oligodendrocyte interactions
+T24	AminoAcidPeptideOrProtein 859 862	NG2
+T25	BiologicallyActiveSubstance 859 862	NG2
+T26	BodyPartOrganOrOrganComponent 1629 1632	SVZ
+T27	GeneOrGenome 859 862	NG2
+T28	Cell 1153 1158	Cells
+T29	DiseaseOrSyndrome 208 228	neuromyelitis optica
+T30	Cell 1502 1518	oligodendrocytes
+T31	Cell 428 432	OPCs
+T32	Cell 759 763	OPCs
+T33	Cell 1035 1039	OPCs
+T34	Cell 1705 1709	OPCs
+T35	BiologicFunction 745 755	maturation
+T36	Cell 395 426	oligodendrocyte precursor cells
+T37	DiseaseOrSyndrome 239 257	multiple sclerosis
+T38	BodyPartOrganOrOrganComponent 1339 1345	myelin
+T39	InjuryOrPoisoning 13 20	lesions
+T40	InjuryOrPoisoning 320 327	lesions
+T41	InjuryOrPoisoning 511 518	lesions
+T42	InjuryOrPoisoning 802 809	lesions
+T43	InjuryOrPoisoning 928 935	lesions
+T44	InjuryOrPoisoning 1427 1434	lesions
+T45	InjuryOrPoisoning 992 998	lesion
+T46	InjuryOrPoisoning 1659 1665	lesion
+T47	InjuryOrPoisoning 1801 1807	lesion
+T48	InjuryOrPoisoning 2002 2008	lesion
+T49	PathologicFunction 915 927	demyelinated
+T50	Cell 1359 1382	mature oligodendrocytes
+T51	CellFunction 675 690	differentiation
+T52	BodyPartOrganOrOrganComponent 1016 1026	parenchyma
+T53	CellFunction 958 975	OPC proliferation
+T54	Eukaryote 1557 1560	rat
+T55	TemporalConcept 777 782	early
+T56	TemporalConcept 1177 1182	early
+T57	TemporalConcept 1401 1406	early
+T58	Cell 1763 1787	oligodendroglial lineage
+T59	TemporalConcept 981 985	week
+T60	CellFunction 1864 1876	remyelinated
+T61	BodyPartOrganOrOrganComponent 1608 1627	subventricular zone
+T62	Cell 1568 1585	neural stem cells
+T63	NucleicAcidNucleosideOrNucleotide 729 733	BrdU
+T64	PharmacologicSubstance 729 733	BrdU
+T65	HealthCareActivity 552 559	autopsy
+T66	DiseaseOrSyndrome 2238 2261	demyelinating disorders
+T67	Cell 1763 1779	oligodendroglial
+T68	PatientOrDisabledGroup 572 580	patients
+T69	ResearchActivity 2029 2034	study
+T70	Eukaryote 24 29	human
+T71	Eukaryote 1417 1422	human
+T72	Eukaryote 1939 1944	human
+T73	Cell 1788 1793	cells
+T74	ResearchActivity 1561 1566	model
+T75	BodyPartOrganOrOrganComponent 68 73	serum
+T76	Cell 366 375	astrocyte
+T77	Cell 783 792	astrocyte
+T78	Cell 896 905	astrocyte
+T79	Cell 1455 1464	astrocyte
+T80	Cell 2063 2072	astrocyte
+T81	Cell 2183 2192	astrocyte
+T82	PopulationGroup 1146 1151	state
+T83	BodyPartOrganOrOrganComponent 560 566	tissue
+T84	Cell 2073 2088	oligodendrocyte
+T85	Cell 1849 1859	astrocytes
+T86	CellFunction 438 451	remyelination
+T87	CellFunction 494 507	remyelination
+T88	CellFunction 2106 2119	remyelination
+T89	CellFunction 2208 2221	remyelination
+T90	DiseaseOrSyndrome 259 261	MS
+T91	DiseaseOrSyndrome 2272 2274	MS
+T92	TemporalConcept 1407 1413	stages
+T93	CellFunction 1040 1049	expressed
+T94	Finding 355 362	effects
+T95	Finding 2089 2101	interactions
+T96	ResearchActivity 607 625	experimental model
+T97	ResearchActivity 883 895	experimental
+T98	ResearchActivity 343 347	data
+T99	PathologicFunction 2193 2204	dysfunction
+T100	Cell 1894 1903	stem cell
+T101	TemporalConcept 999 1009	initiation
+T102	BiologicFunction 2009 2015	repair
+T103	HealthCareActivity 2009 2015	repair
+T104	Cell 135 145	Astrocytic
+T105	InjuryOrPoisoning 146 152	damage
+T106	CellOrMolecularDysfunction 524 547	primary astrocytic loss
+T107	CellFunction 656 670	OPC activation
+T108	NucleicAcidNucleosideOrNucleotide 710 719	thymidine
+T109	BiologicallyActiveSubstance 710 719	thymidine
+T110	CellFunction 829 839	activation
+T111	BodyPartOrganOrOrganComponent 847 858	parenchymal
+T112	Cell 866 879	OPC reservoir
+T113	ExperimentalModelOfDisease 883 935	experimental astrocyte-depleted demyelinated lesions
+T114	AminoAcidPeptideOrProtein 1050 1087	breast carcinoma amplified sequence-1
+T115	BiologicallyActiveSubstance 1050 1087	breast carcinoma amplified sequence-1
+T116	BiologicallyActiveSubstance 1089 1094	BCAS1
+T117	BodyPartOrganOrOrganComponent 1183 1194	parenchymal
+T118	CellComponent 1262 1271	cytoplasm
+T119	AminoAcidPeptideOrProtein 1493 1498	BCAS1
+T120	GeneOrGenome 1493 1498	BCAS1
+T121	BiologicallyActiveSubstance 1493 1498	BCAS1
+T122	BiologicallyActiveSubstance 1726 1732	nestin
+T123	BiologicallyActiveSubstance 1884 1890	nestin
+T124	Cell 1736 1747	progenitors

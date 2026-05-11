@@ -1,0 +1,47 @@
+T0	TemporalConcept 308 320	early stages
+T1	HealthCareActivity 382 411	neuropsychological assessment
+T2	TemporalConcept 611 620	Long-Term
+T3	HealthCareActivity 611 620	Long-Term
+T4	CellComponent 621 628	Storage
+T5	BiologicFunction 621 628	Storage
+T6	TemporalConcept 776 788	early stages
+T7	TemporalConcept 314 320	stages
+T8	TemporalConcept 782 788	stages
+T9	Chemical 65 70	lipid
+T10	Chemical 214 219	lipid
+T11	BiomedicalOccupationOrDiscipline 503 512	education
+T12	ClinicalAttribute 437 458	Cognitive performance
+T13	ClinicalAttribute 538 558	baseline performance
+T14	Finding 146 152	severe
+T15	DiseaseOrSyndrome 522 532	depression
+T16	OrganismAttribute 498 501	age
+T17	TemporalConcept 430 435	years
+T18	PatientOrDisabledGroup 363 371	patients
+T19	PatientOrDisabledGroup 577 585	patients
+T20	PatientOrDisabledGroup 760 768	patients
+T21	ClinicalAttribute 267 276	biomarker
+T22	DiseaseOrSyndrome 514 521	anxiety
+T23	DiseaseOrSyndrome 792 794	MS
+T24	ClinicalAttribute 256 276	prognostic biomarker
+T25	DiseaseOrSyndrome 162 180	multiple sclerosis
+T26	DiseaseOrSyndrome 324 342	multiple sclerosis
+T27	Substance 129 134	fluid
+T28	ResearchActivity 560 567	Results
+T29	HealthCareActivity 462 471	follow-up
+T30	TemporalConcept 462 471	follow-up
+T31	BodyPartOrganOrOrganComponent 115 134	cerebrospinal fluid
+T32	DiseaseOrSyndrome 280 300	cognitive impairment
+T33	TemporalConcept 181 187	course
+T34	AminoAcidPeptideOrProtein 65 101	lipid-specific oligoclonal IgM bands
+T35	BiologicallyActiveSubstance 65 101	lipid-specific oligoclonal IgM bands
+T36	AminoAcidPeptideOrProtein 103 110	LS-OCMB
+T37	BiologicallyActiveSubstance 103 110	LS-OCMB
+T38	AminoAcidPeptideOrProtein 214 250	lipid-specific oligoclonal IgM bands
+T39	BiologicallyActiveSubstance 214 250	lipid-specific oligoclonal IgM bands
+T40	AminoAcidPeptideOrProtein 568 575	LS-OCMB
+T41	BiologicallyActiveSubstance 568 575	LS-OCMB
+T42	HealthCareActivity 636 660	Selective Reminding Test
+T43	AminoAcidPeptideOrProtein 738 745	LS-OCMB
+T44	BiologicallyActiveSubstance 738 745	LS-OCMB
+T45	BiologicallyActiveSubstance 751 758	LS-OCMB
+T46	AminoAcidPeptideOrProtein 751 758	LS-OCMB

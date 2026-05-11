@@ -1,0 +1,79 @@
+T0	BiomedicalOccupationOrDiscipline 134 153	molecular pathology
+T1	BiomedicalOccupationOrDiscipline 176 193	histopathological
+T2	BiologicallyActiveSubstance 397 423	TAR DNA binding protein 43
+T3	Finding 784 797	fragmentation
+T4	ResearchActivity 843 855	Western blot
+T5	Finding 934 947	fragmentation
+T6	CellComponent 1029 1050	cytosolic compartment
+T7	Cell 1054 1065	lymphocytes
+T8	DiseaseOrSyndrome 30 56	neurodegenerative disorder
+T9	PathologicFunction 990 1011	aberrant localization
+T10	ClinicalAttribute 661 669	severity
+T11	Finding 661 669	severity
+T12	AminoAcidPeptideOrProtein 1248 1253	prion
+T13	TemporalConcept 673 681	sporadic
+T14	HealthCareActivity 462 471	diagnosed
+T15	HealthCareActivity 636 645	diagnosed
+T16	HealthCareActivity 1078 1087	diagnosed
+T17	AminoAcidPeptideOrProtein 389 395	TDP-43
+T18	AminoAcidPeptideOrProtein 557 563	TDP-43
+T19	AminoAcidPeptideOrProtein 703 709	TDP-43
+T20	AminoAcidPeptideOrProtein 927 933	TDP-43
+T21	AminoAcidPeptideOrProtein 1015 1021	TDP-43
+T22	AminoAcidPeptideOrProtein 1293 1299	TDP-43
+T23	BiologicallyActiveSubstance 389 395	TDP-43
+T24	BiologicallyActiveSubstance 557 563	TDP-43
+T25	BiologicallyActiveSubstance 703 709	TDP-43
+T26	BiologicallyActiveSubstance 927 933	TDP-43
+T27	BiologicallyActiveSubstance 1015 1021	TDP-43
+T28	BiologicallyActiveSubstance 1293 1299	TDP-43
+T29	PopulationGroup 741 749	controls
+T30	TemporalConcept 432 442	postmortem
+T31	ResearchActivity 724 732	analyzed
+T32	PopulationGroup 1218 1229	individuals
+T33	Finding 363 371	presence
+T34	ResearchActivity 493 501	research
+T35	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T36	DiseaseOrSyndrome 21 23	AD
+T37	DiseaseOrSyndrome 477 479	AD
+T38	DiseaseOrSyndrome 567 569	AD
+T39	DiseaseOrSyndrome 682 684	AD
+T40	DiseaseOrSyndrome 1100 1102	AD
+T41	DiseaseOrSyndrome 1215 1217	AD
+T42	DiseaseOrSyndrome 1320 1322	AD
+T43	PathologicFunction 1323 1335	pathogenesis
+T44	Cell 1189 1194	cells
+T45	AminoAcidPeptideOrProtein 239 246	amyloid
+T46	BiologicallyActiveSubstance 239 246	amyloid
+T47	AminoAcidPeptideOrProtein 234 246	beta-amyloid
+T48	PatientOrDisabledGroup 453 461	patients
+T49	PatientOrDisabledGroup 627 635	patients
+T50	PatientOrDisabledGroup 1069 1077	patients
+T51	PathologicFunction 710 719	pathology
+T52	BiomedicalOccupationOrDiscipline 710 719	pathology
+T53	ClinicalAttribute 194 201	markers
+T54	AminoAcidPeptideOrProtein 218 221	tau
+T55	BiologicallyActiveSubstance 218 221	tau
+T56	HealthCareActivity 99 108	treatment
+T57	ResearchActivity 99 108	treatment
+T58	ResearchActivity 523 528	study
+T59	BodyPartOrganOrOrganComponent 443 449	brains
+T60	Finding 118 126	advances
+T61	Finding 331 340	evidences
+T62	Finding 1093 1099	severe
+T63	Finding 1208 1214	severe
+T64	Finding 763 774	differences
+T65	AminoAcidPeptideOrProtein 397 423	TAR DNA binding protein 43
+T66	CellFunction 255 266	translation
+T67	HealthCareRelatedOrganization 274 280	clinic
+T68	TemporalConcept 76 85	currently
+T69	AminoAcidPeptideOrProtein 218 229	tau protein
+T70	CellFunction 799 814	phosphorylation
+T71	CellFunction 970 985	phosphorylation
+T72	BiologicallyActiveSubstance 218 229	tau protein
+T73	ResearchActivity 255 280	translation to the clinic
+T74	PathologicFunction 536 553	pathological role
+T75	ResearchActivity 860 889	immunocytochemical techniques
+T76	AminoAcidPeptideOrProtein 1116 1147	fragment of approximately 25 KD
+T77	BodyPartOrganOrOrganComponent 1165 1185	extracellular medium
+T78	CellFunction 1344 1368	cell to cell propagation

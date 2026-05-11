@@ -1,0 +1,89 @@
+T0	HealthCareActivity 150 178	positron emission tomography
+T1	BodyPartOrganOrOrganComponent 183 202	cerebrospinal fluid
+T2	CellComponent 280 302	Extracellular vesicles
+T3	CellComponent 304 307	EVs
+T4	Chemical 402 408	lipids
+T5	CellComponent 410 413	EVs
+T6	BodyPartOrganOrOrganComponent 494 500	tissue
+T7	Chemical 522 527	lipid
+T8	CellComponent 553 555	EV
+T9	Chemical 556 564	lipidome
+T10	BodyPartOrganOrOrganComponent 796 810	frontal cortex
+T11	Chemical 944 952	lipidome
+T12	Chemical 968 973	lipid
+T13	AminoAcidPeptideOrProtein 1051 1071	glycerophosphoserine
+T14	Chemical 1077 1083	lipids
+T15	CellComponent 1111 1114	EVs
+T16	Chemical 1166 1171	ether
+T17	AminoAcidPeptideOrProtein 1183 1185	PS
+T18	Chemical 1186 1192	lipids
+T19	CellComponent 1258 1261	EVs
+T20	BodyPartOrganOrOrganComponent 1279 1293	frontal cortex
+T21	BodyPartOrganOrOrganComponent 1386 1398	brain region
+T22	Chemical 1435 1454	glycerophospholipid
+T23	Chemical 1556 1582	polyunsaturated fatty acyl
+T24	Chemical 1594 1600	lipids
+T25	Chemical 1649 1662	sphingomyelin
+T26	BiologicallyActiveSubstance 1649 1662	sphingomyelin
+T27	Cell 1695 1698	CTL
+T28	Finding 1745 1753	decrease
+T29	Chemical 1814 1834	docosahexaenoic acid
+T30	Chemical 1849 1857	lipidome
+T31	CellComponent 1918 1921	EVs
+T32	BodyPartOrganOrOrganComponent 1940 1947	tissues
+T33	Finding 1719 1729	alteration
+T34	Cell 329 334	cells
+T35	BodyPartOrganOrOrganComponent 436 441	brain
+T36	ResearchActivity 736 741	study
+T37	ResearchActivity 1884 1889	study
+T38	TemporalConcept 112 120	progress
+T39	DiseaseOrSyndrome 95 97	AD
+T40	DiseaseOrSyndrome 218 220	AD
+T41	DiseaseOrSyndrome 700 702	AD
+T42	DiseaseOrSyndrome 876 878	AD
+T43	DiseaseOrSyndrome 1276 1278	AD
+T44	DiseaseOrSyndrome 1347 1349	AD
+T45	DiseaseOrSyndrome 1400 1402	AD
+T46	DiseaseOrSyndrome 74 93	Alzheimer's disease
+T47	BodyPartOrganOrOrganComponent 572 594	central nervous system
+T48	Eukaryote 790 795	human
+T49	ClinicalAttribute 203 213	biomarkers
+T50	ClinicalAttribute 528 538	biomarkers
+T51	ClinicalAttribute 2022 2032	biomarkers
+T52	CellOrMolecularDysfunction 1324 1343	dysregulated lipids
+T53	CellOrMolecularDysfunction 1974 1993	dysregulated lipids
+T54	DiseaseOrSyndrome 64 72	dementia
+T55	ResearchActivity 1858 1866	analysis
+T56	TemporalConcept 598 607	currently
+T57	Finding 1546 1555	decreased
+T58	HealthCareActivity 1132 1138	report
+T59	ResearchActivity 1132 1138	report
+T60	BiologicFunction 1782 1799	anti-inflammatory
+T61	PharmacologicSubstance 1782 1799	anti-inflammatory
+T62	OrganismAttribute 1763 1770	species
+T63	CellOrMolecularDysfunction 0 20	Lipid dyshomeostasis
+T64	HealthCareActivity 251 278	front-line diagnostic tools
+T65	Cell 365 378	parental cell
+T66	CellComponent 637 654	brain-derived EVs
+T67	CellComponent 656 661	BDEVs
+T68	CellOrMolecularDysfunction 676 696	lipid dyshomeostasis
+T69	CellComponent 781 786	BDEVs
+T70	CellComponent 837 842	BDEVs
+T71	Finding 851 872	altered lipid profile
+T72	ResearchActivity 886 921	semi-quantitative mass spectrometry
+T73	CellComponent 1144 1149	BDEVs
+T74	CellComponent 939 943	BDEV
+T75	Chemical 1011 1026	lipid molecules
+T76	CellComponent 1028 1033	BDEVs
+T77	Chemical 1229 1241	ether lipids
+T78	CellComponent 1263 1268	BDEVs
+T79	CellComponent 1403 1408	BDEVs
+T80	Chemical 1459 1471	sphingolipid
+T81	Chemical 1503 1514	plasmalogen
+T82	Chemical 1515 1541	glycerophosphoethanolamine
+T83	Chemical 1614 1637	amide-linked acyl chain
+T84	Chemical 1667 1682	ceramide lipids
+T85	Chemical 1757 1762	lipid
+T86	Finding 1355 1377	global lipid profiling
+T87	Chemical 989 994	lipid
+T88	PharmacologicSubstance 1166 1171	ether

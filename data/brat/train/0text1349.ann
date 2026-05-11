@@ -1,0 +1,128 @@
+T0	Finding 119 138	white matter injury
+T1	BodyPartOrganOrOrganComponent 169 174	joint
+T2	DiseaseOrSyndrome 242 265	carotid artery stenosis
+T3	PathologicFunction 267 271	BCAS
+T4	InjuryOrPoisoning 232 265;273 281	bilateral carotid artery stenosis exposure
+T5	Finding 298 317	white matter injury
+T6	ResearchActivity 439 449	randomized
+T7	PathologicFunction 497 501	BCAS
+T8	PathologicFunction 513 517	BCAS
+T9	GeneOrGenome 519 523	Mice
+T10	PathologicFunction 564 568	BCAS
+T11	DiseaseOrSyndrome 564 568	BCAS
+T12	HealthCareActivity 569 578	surgeries
+T13	PathologicFunction 673 677	BCAS
+T14	DiseaseOrSyndrome 673 677	BCAS
+T15	InjuryOrPoisoning 673 686	BCAS exposure
+T16	BodyPartOrganOrOrganComponent 697 713	brain hemisphere
+T17	AminoAcidPeptideOrProtein 714 731	TNF alpha protein
+T18	GeneOrGenome 757 760	HNE
+T19	ResearchActivity 761 779	immunofluorescence
+T20	PathologicFunction 847 851	BCAS
+T21	DiseaseOrSyndrome 847 851	BCAS
+T22	InjuryOrPoisoning 879 891	nPM exposure
+T23	InjuryOrPoisoning 1003 1015	nPM exposure
+T24	ResearchActivity 1049 1059	cell count
+T25	PathologicFunction 1141 1145	BCAS
+T26	DiseaseOrSyndrome 1141 1145	BCAS
+T27	PathologicFunction 1354 1358	BCAS
+T28	DiseaseOrSyndrome 1354 1358	BCAS
+T29	PathologicFunction 1431 1435	BCAS
+T30	DiseaseOrSyndrome 1431 1435	BCAS
+T31	PathologicFunction 1444 1448	BCAS
+T32	DiseaseOrSyndrome 1444 1448	BCAS
+T33	InjuryOrPoisoning 1444 1457	BCAS exposure
+T34	PathologicFunction 1569 1573	BCAS
+T35	DiseaseOrSyndrome 1569 1573	BCAS
+T36	InjuryOrPoisoning 1569 1582	BCAS exposure
+T37	ClinicalAttribute 1731 1745	susceptibility
+T38	PathologicFunction 1790 1794	BCAS
+T39	DiseaseOrSyndrome 1790 1794	BCAS
+T40	InjuryOrPoisoning 1790 1803	BCAS exposure
+T41	Finding 906 914	decrease
+T42	Cell 1668 1684	oligodendrocytes
+T43	BodyPartOrganOrOrganComponent 119 131	white matter
+T44	BodyPartOrganOrOrganComponent 298 310	white matter
+T45	TemporalConcept 1026 1032	mature
+T46	Cell 1074 1104	oligodendrocyte precursor cell
+T47	BodyPartOrganOrOrganComponent 802 817	corpus callosum
+T48	BodyPartOrganOrOrganComponent 959 974	corpus callosum
+T49	BodyPartOrganOrOrganComponent 1118 1133	corpus callosum
+T50	BodyPartOrganOrOrganComponent 1236 1251	corpus callosum
+T51	BodyPartOrganOrOrganComponent 1546 1561	corpus callosum
+T52	BodyPartOrganOrOrganComponent 1692 1707	corpus callosum
+T53	TemporalConcept 407 411	week
+T54	TemporalConcept 557 562	weeks
+T55	ResearchActivity 145 150	study
+T56	Eukaryote 416 423;429 433	C57BL/6 mice
+T57	Eukaryote 852 856	mice
+T58	Eukaryote 1146 1150	mice
+T59	Cell 933 937	cell
+T60	Cell 991 995	cell
+T61	Cell 285 293	neuronal
+T62	Cell 924 932	neuronal
+T63	Cell 1189 1197	neuronal
+T64	Cell 1371 1379	neuronal
+T65	Cell 1593 1601	neuronal
+T66	ResearchActivity 330 335	model
+T67	PathologicFunction 606 618	inflammation
+T68	CellOrMolecularDysfunction 620 636	oxidative stress
+T69	CellOrMolecularDysfunction 1502 1518	oxidative stress
+T70	CellFunction 642 651	apoptosis
+T71	CellFunction 1468 1477	apoptosis
+T72	CellFunction 1602 1611	apoptosis
+T73	Eukaryote 323 329	murine
+T74	BodyPartOrganOrOrganComponent 822 837	cerebral cortex
+T75	BodyPartOrganOrOrganComponent 1526 1541	cerebral cortex
+T76	Finding 949 958	decreased
+T77	Finding 1016 1025	decreased
+T78	BodyPartOrganOrOrganComponent 915 923	cortical
+T79	BodyPartOrganOrOrganComponent 1180 1188	cortical
+T80	BodyPartOrganOrOrganComponent 1362 1370	cortical
+T81	OrganismAttribute 424 428	male
+T82	Cell 975 990	oligodendrocyte
+T83	Cell 1033 1048	oligodendrocyte
+T84	Cell 1252 1267	oligodendrocyte
+T85	Finding 175 182	effects
+T86	Finding 1414 1421	effects
+T87	Finding 1773 1780	effects
+T88	InjuryOrPoisoning 1762 1780	neurotoxic effects
+T89	AminoAcidPeptideOrProtein 748 752	iNOS
+T90	BiologicallyActiveSubstance 748 752	iNOS
+T91	PathologicFunction 1479 1496	neuroinflammation
+T92	InjuryOrPoisoning 53 66	neurotoxicity
+T93	DiseaseOrSyndrome 0 30	Chronic cerebral hypoperfusion
+T94	DiseaseOrSyndrome 32 35	CCH
+T95	Substance 70 97	nanoscale particulate matte
+T96	Substance 100 103	nPM
+T97	Substance 186 189	nPM
+T98	Substance 337 340	nPM
+T99	Substance 487 490	nPM
+T100	Substance 507 510	nPM
+T101	Substance 546 549	nPM
+T102	Substance 667 670	nPM
+T103	Substance 841 844	nPM
+T104	Substance 879 882	nPM
+T105	Substance 945 948	nPM
+T106	Substance 1003 1006	nPM
+T107	Substance 1135 1138	nPM
+T108	Substance 1346 1349	nPM
+T109	Substance 1438 1441	nPM
+T110	Substance 1425 1428	nPM
+T111	ResearchActivity 1198 1212	TUNEL staining
+T112	Substance 1563 1566	nPM
+T113	Substance 1784 1787	nPM
+T114	ResearchActivity 1268 1282	TUNEL staining
+T115	ResearchActivity 1380 1394	TUNEL staining
+T116	PathologicFunction 232 265	bilateral carotid artery stenosis
+T117	DiseaseOrSyndrome 215 218	CCH
+T118	DiseaseOrSyndrome 497 501	BCAS
+T119	DiseaseOrSyndrome 267 271	BCAS
+T120	DiseaseOrSyndrome 513 517	BCAS
+T121	Substance 468 480	filtered air
+T122	Substance 482 484	FA
+T123	Substance 492 494	FA
+T124	Substance 540 542	FA
+T125	Substance 744 746	FA
+T126	Substance 869 871	FA
+T127	Substance 1295 1297	FA

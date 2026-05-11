@@ -1,0 +1,52 @@
+T0	ResearchActivity 269 277	validity
+T1	ClinicalAttribute 310 326	clinical aspects
+T2	ResearchActivity 407 426	observational study
+T3	Finding 626 634	validity
+T4	PopulationGroup 648 653	group
+T5	SignOrSymptom 670 677	fatigue
+T6	ClinicalAttribute 679 707	gadolinium-enhancing lesions
+T7	Finding 787 795	validity
+T8	Finding 816 826	disability
+T9	ResearchActivity 837 844	Results
+T10	ResearchActivity 879 882	ICC
+T11	ResearchActivity 955 958	ICC
+T12	TemporalConcept 1044 1051	Latency
+T13	TemporalConcept 1149 1156	latency
+T14	NaturalPhenomenonOrProcess 1453 1461	dynamics
+T15	ClinicalAttribute 1494 1524	marker for clinical disability
+T16	ResearchActivity 226 231	study
+T17	DiseaseOrSyndrome 53 55	MS
+T18	DiseaseOrSyndrome 330 332	MS
+T19	DiseaseOrSyndrome 357 359	MS
+T20	DiseaseOrSyndrome 1528 1530	MS
+T21	HealthCareActivity 711 737	magnetic resonance imaging
+T22	ManufacturedObject 711 737	magnetic resonance imaging
+T23	HealthCareActivity 739 742	MRI
+T24	PopulationGroup 376 384	controls
+T25	PopulationGroup 761 769	controls
+T26	PopulationGroup 1034 1042	controls
+T27	PopulationGroup 1364 1372	controls
+T28	PatientOrDisabledGroup 360 368	patients
+T29	PatientOrDisabledGroup 749 757	patients
+T30	PatientOrDisabledGroup 1351 1359	patients
+T31	DiseaseOrSyndrome 33 51	multiple sclerosis
+T32	TemporalConcept 776 786	concurrent
+T33	PatientOrDisabledGroup 975 983	Patients
+T34	InjuryOrPoisoning 700 707	lesions
+T35	HealthCareActivity 730 737	imaging
+T36	ManufacturedObject 108 127	smartphone keyboard
+T37	ManufacturedObject 108 118	smartphone
+T38	ClinicalAttribute 281 299	keystroke dynamics
+T39	HealthCareActivity 473 495	Neurokeys keyboard app
+T40	ResearchActivity 572 607	intraclass correlation coefficients
+T41	ResearchActivity 609 613	ICCs
+T42	HealthCareActivity 816 835	disability measures
+T43	Finding 846 857	Reliability
+T44	ClinicalAttribute 1009 1028	keystroke latencies
+T45	HealthCareActivity 1100 1132	Expanded Disability Status Scale
+T46	HealthCareActivity 1183 1201	Nine-Hole Peg Test
+T47	HealthCareActivity 1206 1234	Symbol Digit Modalities Test
+T48	ClinicalAttribute 1303 1321	Keystroke dynamics
+T49	ClinicalAttribute 1443 1461	keystroke dynamics
+T50	ClinicalAttribute 518 536	keystroke features
+T51	ClinicalAttribute 428 449	Keyboard interactions

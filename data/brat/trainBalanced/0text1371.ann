@@ -1,0 +1,54 @@
+T0	InjuryOrPoisoning 95 116	demyelinating lesions
+T1	CellFunction 129 141	downregulate
+T2	CellFunction 142 163	cholesterol synthesis
+T3	CellFunction 207 220	remyelination
+T4	Cell 249 265	cellular sources
+T5	BiologicFunction 286 292	repair
+T6	HealthCareActivity 286 292	repair
+T7	Chemical 427 433	lipids
+T8	ResearchActivity 427 433	lipids
+T9	BiologicFunction 509 521	regeneration
+T10	HealthCareActivity 509 521	regeneration
+T11	Finding 509 521	regeneration
+T12	ResearchActivity 526 551	gene expression profiling
+T13	ResearchActivity 595 620	comprehensive phenotyping
+T14	CellFunction 664 685	cholesterol synthesis
+T15	CellFunction 815 828	remyelination
+T16	Cell 856 886	oligodendrocyte precursor cell
+T17	Chemical 18 29	cholesterol
+T18	Chemical 142 153	cholesterol
+T19	Chemical 173 184	cholesterol
+T20	Chemical 462 482	neuronal cholesterol
+T21	Chemical 664 675	cholesterol
+T22	Chemical 782 802	neuronal cholesterol
+T23	BodyPartOrganOrOrganComponent 18 29	cholesterol
+T24	BodyPartOrganOrOrganComponent 142 153	cholesterol
+T25	BodyPartOrganOrOrganComponent 173 184	cholesterol
+T26	BodyPartOrganOrOrganComponent 462 482	neuronal cholesterol
+T27	BodyPartOrganOrOrganComponent 664 675	cholesterol
+T28	BodyPartOrganOrOrganComponent 782 802	neuronal cholesterol
+T29	Cell 39 50	brain cells
+T30	PathologicFunction 954 965	progression
+T31	TemporalConcept 954 965	progression
+T32	ResearchActivity 906 910	data
+T33	ManufacturedObject 768 780	mouse models
+T34	Finding 633 641	evidence
+T35	DiseaseOrSyndrome 760 762	MS
+T36	DiseaseOrSyndrome 1032 1034	MS
+T37	TemporalConcept 316 323	chronic
+T38	PathologicFunction 946 965	disease progression
+T39	CellFunction 526 541	gene expression
+T40	PatientOrDisabledGroup 726 734	patients
+T41	PatientOrDisabledGroup 1018 1026	patients
+T42	Cell 647 654	neurons
+T43	DiseaseOrSyndrome 740 758	multiple sclerosis
+T44	TemporalConcept 303 308	acute
+T45	HealthCareActivity 992 1014	therapeutic strategies
+T46	CellFunction 856 900	oligodendrocyte precursor cell proliferation
+T47	Cell 118 128	astrocytes
+T48	PathologicFunction 324 337	demyelination
+T49	Cell 0 9	Astrocyte
+T50	DiseaseOrSyndrome 385 407	chronic myelin disease
+T51	CellFunction 454 492	de novo neuronal cholesterol synthesis
+T52	ResearchActivity 553 589	genetic loss-of-function experiments
+T53	ExperimentalModelOfDisease 689 718	chronic myelin disease models

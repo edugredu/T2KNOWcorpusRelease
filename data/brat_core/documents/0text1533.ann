@@ -1,0 +1,70 @@
+T0	GeneOrGenome 305 315	regulatory
+T1	HealthCareActivity 381 392	exploration
+T2	PharmacologicSubstance 416 429	immunotherapy
+T3	HealthCareActivity 416 429	immunotherapy
+T4	ResearchActivity 540 564	gene regulatory networks
+T5	ResearchActivity 566 569	GRN
+T6	ResearchActivity 643 698	single-cell regulatory network inference and clustering
+T7	GeneOrGenome 836 841	genes
+T8	AminoAcidPeptideOrProtein 957 959	TF
+T9	BiologicallyActiveSubstance 957 959	TF
+T10	GeneOrGenome 968 973	CEBPB
+T11	GeneOrGenome 975 979	SPI1
+T12	AminoAcidPeptideOrProtein 975 979	SPI1
+T13	HealthCareActivity 1066 1079	immunotherapy
+T14	HealthCareActivity 1463 1476	immunotherapy
+T15	PathologicFunction 1258 1268	pathogenic
+T16	PharmacologicSubstance 1105 1110	drugs
+T17	PharmacologicSubstance 1520 1532	immune drugs
+T18	CellFunction 851 871	molecular mechanisms
+T19	CellFunction 116 133	neurotransmission
+T20	Cell 21 33	immune cells
+T21	AminoAcidPeptideOrProtein 934 955	transcription factors
+T22	BiologicallyActiveSubstance 934 955	transcription factors
+T23	AminoAcidPeptideOrProtein 961 966	STAT3
+T24	GeneOrGenome 961 966	STAT3
+T25	BiologicallyActiveSubstance 961 966	STAT3
+T26	Cell 0 9	Microglia
+T27	CellFunction 202 211	expressed
+T28	BiologicFunction 356 372	immune responses
+T29	PharmacologicSubstance 396 400	drug
+T30	DiseaseOrSyndrome 137 156	Alzheimer's disease
+T31	DiseaseOrSyndrome 158 160	AD
+T32	DiseaseOrSyndrome 177 179	AD
+T33	DiseaseOrSyndrome 413 415	AD
+T34	DiseaseOrSyndrome 1278 1280	AD
+T35	DiseaseOrSyndrome 1460 1462	AD
+T36	PatientOrDisabledGroup 1159 1167	patients
+T37	PatientOrDisabledGroup 1376 1384	patients
+T38	BodyPartOrganOrOrganComponent 41 46	brain
+T39	Cell 216 225	microglia
+T40	Cell 1281 1290	microglia
+T41	Cell 1499 1508	microglia
+T42	ResearchActivity 494 510	multi-omics data
+T43	ResearchActivity 1044 1056	single-omics
+T44	ResearchActivity 506 510	data
+T45	ResearchActivity 722 736	snRNA-seq data
+T46	ResearchActivity 741 757	bulkRNA-seq data
+T47	ResearchActivity 768 772	data
+T48	ResearchActivity 261 287	single-omics data analysis
+T49	ResearchActivity 585 629	weighted gene co-expression network analysis
+T50	TemporalConcept 253 260	current
+T51	PathologicFunction 56 73	neuroinflammation
+T52	Cell 875 886	immune-cell
+T53	CellOrMolecularDysfunction 85 101	oxidative stress
+T54	Finding 813 826	relationships
+T55	HealthCareActivity 1356 1365	treatment
+T56	ResearchActivity 1356 1365	treatment
+T57	HealthCareActivity 1317 1327	clinicians
+T58	ResearchActivity 474 480	method
+T59	HealthCareActivity 474 480	method
+T60	GeneOrGenome 180 190	risk genes
+T61	GeneOrGenome 289 299	risk genes
+T62	ResearchActivity 631 636	WGCNA
+T63	ResearchActivity 700 706	SCENIC
+T64	BiologicallyActiveSubstance 968 973	CEBPB
+T65	AminoAcidPeptideOrProtein 968 973	CEBPB
+T66	BiologicallyActiveSubstance 975 979	SPI1
+T67	AminoAcidPeptideOrProtein 1098 1101	TFs
+T68	BiologicallyActiveSubstance 1098 1101	TFs
+T69	GeneOrGenome 1269 1274	genes

@@ -1,0 +1,55 @@
+T0	CellFunction 626 643	transcriptionally
+T1	Chemical 733 735	CM
+T2	CellFunction 765 782	protein secretion
+T3	Chemical 814 816	CM
+T4	CellOrMolecularDysfunction 1043 1074	cell communication deficiencies
+T5	DiseaseOrSyndrome 73 77	SPMS
+T6	DiseaseOrSyndrome 404 408	SPMS
+T7	DiseaseOrSyndrome 467 471	SPMS
+T8	DiseaseOrSyndrome 611 615	SPMS
+T9	DiseaseOrSyndrome 805 809	SPMS
+T10	DiseaseOrSyndrome 977 981	SPMS
+T11	Cell 341 357	oligodendrocytes
+T12	Cell 227 231	OPCs
+T13	Cell 258 262	OPCs
+T14	Cell 616 620	OPCs
+T15	Cell 378 381	OPC
+T16	Cell 560 563	OPC
+T17	Cell 700 703	OPC
+T18	Cell 810 813	OPC
+T19	Cell 861 864	OPC
+T20	Cell 982 985	OPC
+T21	CellFunction 315 328	differentiate
+T22	DiseaseOrSyndrome 31 71	secondary progressive multiple sclerosis
+T23	DiseaseOrSyndrome 1102 1120	multiple sclerosis
+T24	InjuryOrPoisoning 299 305	lesion
+T25	Cell 334 357	mature oligodendrocytes
+T26	CellFunction 564 579	differentiation
+T27	ResearchActivity 688 696	Analysis
+T28	CellFunction 560 579	OPC differentiation
+T29	CellFunction 874 883	migration
+T30	TemporalConcept 334 340	mature
+T31	Chemical 714 731	conditioned media
+T32	ResearchActivity 1027 1032	study
+T33	PopulationGroup 504 512	controls
+T34	Cell 204 225	oligoprogenitor cells
+T35	ExperimentalModelOfDisease 977 1000	SPMS-OPC cellular model
+T36	Finding 580 588	capacity
+T37	Finding 839 847	capacity
+T38	OrganismAttribute 492 495	age
+T39	Finding 750 761	differences
+T40	ResearchActivity 865 873	in vitro
+T41	PopulationGroup 184 194	population
+T42	TemporalConcept 1082 1093	progressive
+T43	Cell 986 994	cellular
+T44	TemporalConcept 1130 1136	future
+T45	Cell 423 453	induced pluripotent stem cells
+T46	Cell 455 460	iPSCs
+T47	Cell 443 453	stem cells
+T48	CellFunction 130 143	remyelination
+T49	DiseaseOrSyndrome 1122 1124	MS
+T50	PopulationGroup 198 203	adult
+T51	CellFunction 1043 1061	cell communication
+T52	HealthCareActivity 1137 1157	treatment strategies
+T53	ResearchActivity 1137 1157	treatment strategies
+T54	PopulationGroup 481 487	donors

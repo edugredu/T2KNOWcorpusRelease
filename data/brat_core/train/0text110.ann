@@ -1,0 +1,55 @@
+T0	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T1	DiseaseOrSyndrome 28 31	NDs
+T2	DiseaseOrSyndrome 42 61	Alzheimer's disease
+T3	DiseaseOrSyndrome 63 65	AD
+T4	DiseaseOrSyndrome 68 87	Parkinson's disease
+T5	DiseaseOrSyndrome 89 91	PD
+T6	DiseaseOrSyndrome 125 154	amyotrophic lateral sclerosis
+T7	DiseaseOrSyndrome 156 159	ALS
+T8	PathologicFunction 205 217	degeneration
+T9	CellOrMolecularDysfunction 205 217	degeneration
+T10	BodyPartOrganOrOrganComponent 225 239	nervous system
+T11	DiseaseOrSyndrome 302 305	NDs
+T12	ExperimentalModelOfDisease 358 371	animal models
+T13	HealthCareActivity 411 420	exercises
+T14	DiseaseOrSyndrome 447 450	NDs
+T15	AminoAcidPeptideOrProtein 482 489	myokine
+T16	AminoAcidPeptideOrProtein 493 500	peptide
+T17	BodyPartOrganOrOrganComponent 526 542	skeletal muscles
+T18	HealthCareActivity 550 558	exercise
+T19	AminoAcidPeptideOrProtein 678 686	myokines
+T20	HealthCareActivity 700 708	exercise
+T21	DiseaseOrSyndrome 712 715	NDs
+T22	AminoAcidPeptideOrProtein 738 746	Myokines
+T23	DiseaseOrSyndrome 781 784	NDs
+T24	CellFunction 839 852	cell survival
+T25	CellFunction 923 943	protein modification
+T26	Finding 956 972	exercise-induced
+T27	AminoAcidPeptideOrProtein 973 981	myokines
+T28	DiseaseOrSyndrome 1036 1039	NDs
+T29	HealthCareActivity 1073 1083	treatments
+T30	AminoAcidPeptideOrProtein 1114 1122	myokines
+T31	DiseaseOrSyndrome 1167 1170	NDs
+T32	TemporalConcept 1227 1234	infancy
+T33	PopulationGroup 1227 1234	infancy
+T34	AminoAcidPeptideOrProtein 1290 1298	myokines
+T35	DiseaseOrSyndrome 1325 1328	NDs
+T36	BiologicFunction 452 478	Inter-tissue communication
+T37	Finding 193 217	progressive degeneration
+T38	HealthCareActivity 264 292	disease-modifying treatments
+T39	Finding 425 443	beneficial effects
+T40	Finding 759 777	beneficial effects
+T41	DiseaseOrSyndrome 116 118	HD
+T42	Eukaryote 348 353	human
+T43	DiseaseOrSyndrome 94 114	Huntington's disease
+T44	BiologicFunction 854 866	neurogenesis
+T45	PathologicFunction 868 885	neuroinflammation
+T46	CellOrMolecularDysfunction 901 917	oxidative stress
+T47	CellFunction 887 899	proteostasis
+T48	ResearchActivity 327 334	studies
+T49	ResearchActivity 649 656	studies
+T50	ResearchActivity 1175 1182	studies
+T51	ResearchActivity 1254 1261	studies
+T52	ResearchActivity 945 952	Studies
+T53	TemporalConcept 1084 1092	nowadays
+T54	TemporalConcept 1094 1101	To date

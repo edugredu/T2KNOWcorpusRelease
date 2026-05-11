@@ -1,0 +1,50 @@
+T0	BiologicFunction 150 163	tissue repair
+T1	BodyPartOrganOrOrganComponent 508 514	clonal
+T2	Eukaryote 598 604	murine
+T3	Cell 758 769	progenitors
+T4	OrganismAttribute 1113 1126	heterogeneity
+T5	Cell 1136 1147	progenitors
+T6	Finding 337 361	heterogeneous appearance
+T7	Chemical 688 694	tracer
+T8	OrganismAttribute 416 426	phenotypic
+T9	TemporalConcept 477 483	origin
+T10	InjuryOrPoisoning 250 262	brain damage
+T11	InjuryOrPoisoning 804 816	brain damage
+T12	ExperimentalModelOfDisease 550 591	experimental autoimmune encephalomyelitis
+T13	ExperimentalModelOfDisease 593 596	EAE
+T14	ExperimentalModelOfDisease 823 826	EAE
+T15	ExperimentalModelOfDisease 951 954	EAE
+T16	ExperimentalModelOfDisease 951 959	EAE mice
+T17	ResearchActivity 846 854	analyzed
+T18	Cell 57 61	OPCs
+T19	DiseaseOrSyndrome 167 189	demyelinating diseases
+T20	Cell 24 55	oligodendrocyte precursor cells
+T21	Cell 1066 1088	clonally-related cells
+T22	Eukaryote 955 959	mice
+T23	ResearchActivity 605 610	model
+T24	DiseaseOrSyndrome 195 213	multiple sclerosis
+T25	OrganismAttribute 312 330	reactive phenotype
+T26	DiseaseOrSyndrome 215 217	MS
+T27	DiseaseOrSyndrome 614 616	MS
+T28	PathologicFunction 1188 1212	autoimmune demyelination
+T29	InjuryOrPoisoning 537 543	lesion
+T30	Cell 99 122	mature oligodendrocytes
+T31	BodyPartOrganOrOrganComponent 942 947	brain
+T32	GeneOrGenome 672 687	genomic lineage
+T33	Cell 264 279	NG2-glial cells
+T34	Cell 515 524	NG2-glial
+T35	Cell 0 8	NG2-glia
+T36	Cell 440 448	NG2-glia
+T37	Cell 729 737	NG2-glia
+T38	Cell 877 885	NG2-glia
+T39	Cell 1043 1051	NG2-glia
+T40	Finding 427 436	diversity
+T41	Finding 525 533	response
+T42	ExperimentalModelOfDisease 598 616	murine model of MS
+T43	ResearchActivity 640 664	in utero electroporation
+T44	Chemical 696 705	StarTrack
+T45	ResearchActivity 823 836	EAE induction
+T46	Cell 908 934	single pallial progenitors
+T47	Finding 1052 1062	reactivity
+T48	Cell 1158 1170	cell progeny
+T49	Finding 1228 1247	ontogenic phenomena

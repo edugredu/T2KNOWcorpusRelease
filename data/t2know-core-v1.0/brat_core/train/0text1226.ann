@@ -1,0 +1,105 @@
+T0	AminoAcidPeptideOrProtein 192 216	CXC chemokine receptor 2
+T1	AminoAcidPeptideOrProtein 218 223	CXCR2
+T2	AminoAcidPeptideOrProtein 438 443	CXCR2
+T3	Chemical 456 466	compound 2
+T4	PharmacologicSubstance 456 466	compound 2
+T5	AminoAcidPeptideOrProtein 505 510	CXCR2
+T6	Chemical 692 702	compound 2
+T7	PharmacologicSubstance 692 702	compound 2
+T8	Chemical 882 892	compound 2
+T9	PharmacologicSubstance 882 892	compound 2
+T10	AminoAcidPeptideOrProtein 993 998	CXCR2
+T11	Chemical 1000 1010	compound 2
+T12	PharmacologicSubstance 1000 1010	compound 2
+T13	GeneOrGenome 1033 1037	Ki67
+T14	BiologicallyActiveSubstance 1033 1037	Ki67
+T15	AminoAcidPeptideOrProtein 1039 1061	transcription factor 2
+T16	BiologicallyActiveSubstance 1039 1061	transcription factor 2
+T17	AminoAcidPeptideOrProtein 1063 1068	Olig2
+T18	GeneOrGenome 1063 1068	Olig2
+T19	AminoAcidPeptideOrProtein 1074 1079	Caspr
+T20	BiologicallyActiveSubstance 1074 1079	Caspr
+T21	AminoAcidPeptideOrProtein 1241 1246	CXCR2
+T22	AminoAcidPeptideOrProtein 1362 1367	CXCR2
+T23	Finding 102 108	attack
+T24	BiologicallyActiveSubstance 192 216	CXC chemokine receptor 2
+T25	Chemical 611 614	CPZ
+T26	Chemical 796 799	CPZ
+T27	Chemical 1329 1332	CPZ
+T28	Finding 1373 1401	promising therapeutic target
+T29	AminoAcidPeptideOrProtein 1039 1059	transcription factor
+T30	BiologicallyActiveSubstance 1039 1059	transcription factor
+T31	Cell 112 128	oligodendrocytes
+T32	Cell 579 595	oligodendrocytes
+T33	Cell 346 350	OPCs
+T34	Cell 1147 1151	OPCs
+T35	Cell 726 729	OPC
+T36	Cell 827 830	OPC
+T37	Cell 1279 1282	OPC
+T38	DiseaseOrSyndrome 1431 1453	demyelinating diseases
+T39	Cell 313 344	oligodendrocyte precursor cells
+T40	PathologicFunction 399 412	demyelinating
+T41	BodyPartOrganOrOrganComponent 849 855	myelin
+T42	DiseaseOrSyndrome 37 69	autoimmune demyelinating disease
+T43	InjuryOrPoisoning 785 792	lesions
+T44	PathologicFunction 772 784	demyelinated
+T45	CellFunction 1102 1125	PI3K/AKT/mTOR signaling
+T46	CellFunction 294 309	differentiation
+T47	CellFunction 748 763	differentiation
+T48	CellFunction 1152 1167	differentiation
+T49	CellFunction 1283 1298	differentiation
+T50	CellFunction 1279 1298	OPC differentiation
+T51	PathologicFunction 772 792	demyelinated lesions
+T52	CellFunction 276 289	proliferation
+T53	CellFunction 730 743	proliferation
+T54	CellFunction 831 844	proliferation
+T55	CellFunction 265 274	migration
+T56	Chemical 600 609	cuprizone
+T57	ResearchActivity 915 928	investigation
+T58	CellFunction 849 862	myelin repair
+T59	Finding 1172 1194	enhanced remyelination
+T60	Finding 1303 1325	enhanced remyelination
+T61	Finding 182 190	deficits
+T62	ResearchActivity 661 666	study
+T63	Eukaryote 628 632	mice
+T64	Eukaryote 812 816	mice
+T65	Eukaryote 1345 1349	mice
+T66	HealthCareActivity 893 902	treatment
+T67	HealthCareActivity 1011 1020	treatment
+T68	HealthCareActivity 1410 1419	treatment
+T69	ResearchActivity 893 902	treatment
+T70	ResearchActivity 1011 1020	treatment
+T71	ResearchActivity 1410 1419	treatment
+T72	CellFunction 1080 1090	expression
+T73	CellFunction 979 989	inhibition
+T74	TemporalConcept 159 170	progressive
+T75	TemporalConcept 228 236	recently
+T76	CellFunction 1181 1194	remyelination
+T77	CellFunction 1312 1325	remyelination
+T78	DiseaseOrSyndrome 20 22	MS
+T79	DiseaseOrSyndrome 1462 1464	MS
+T80	PathologicFunction 141 154	demyelination
+T81	PathologicFunction 514 527	demyelination
+T82	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T83	ResearchActivity 570 578	cultured
+T84	PharmacologicSubstance 438 454	CXCR2 antagonist
+T85	Finding 380 391	involvement
+T86	BiologicFunction 856 862	repair
+T87	HealthCareActivity 856 862	repair
+T88	TemporalConcept 29 36	chronic
+T89	TemporalConcept 1423 1430	chronic
+T90	BiologicallyActiveSubstance 1063 1068	Olig2
+T91	BiologicallyActiveSubstance 218 223	CXCR2
+T92	GeneOrGenome 218 223	CXCR2
+T93	BiologicallyActiveSubstance 438 443	CXCR2
+T94	GeneOrGenome 438 443	CXCR2
+T95	ExperimentalModelOfDisease 600 632	cuprizone (CPZ)-intoxicated mice
+T96	ExperimentalModelOfDisease 796 816	CPZ-intoxicated mice
+T97	BiologicallyActiveSubstance 993 998	CXCR2
+T98	GeneOrGenome 993 998	CXCR2
+T99	AminoAcidPeptideOrProtein 1033 1037	Ki67
+T100	BiologicallyActiveSubstance 1241 1246	CXCR2
+T101	GeneOrGenome 1241 1246	CXCR2
+T102	ExperimentalModelOfDisease 1329 1349	CPZ-intoxicated mice
+T103	BiologicallyActiveSubstance 1362 1367	CXCR2
+T104	GeneOrGenome 1362 1367	CXCR2

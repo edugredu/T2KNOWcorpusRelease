@@ -1,0 +1,85 @@
+T0	AminoAcidPeptideOrProtein 323 335	Amyloid beta
+T1	OrganismAttribute 813 818	males
+T2	TemporalConcept 225 226	M
+T3	ClinicalAttribute 1267 1281	amyloid levels
+T4	Finding 270 276	normal
+T5	Finding 984 992	abnormal
+T6	Finding 1085 1093	abnormal
+T7	OrganismAttribute 1131 1134	sex
+T8	Finding 270 286	normal cognition
+T9	ResearchActivity 701 711	positivity
+T10	ResearchActivity 928 938	positivity
+T11	TemporalConcept 1100 1105	older
+T12	PopulationGroup 1100 1112	older adults
+T13	ClinicalAttribute 1064 1074	Biomarkers
+T14	AminoAcidPeptideOrProtein 409 412	tau
+T15	AminoAcidPeptideOrProtein 416 419	tau
+T16	AminoAcidPeptideOrProtein 791 794	tau
+T17	AminoAcidPeptideOrProtein 877 880	tau
+T18	AminoAcidPeptideOrProtein 1022 1025	tau
+T19	AminoAcidPeptideOrProtein 1285 1288	tau
+T20	DiseaseOrSyndrome 63 82	Alzheimer's disease
+T21	BodyPartOrganOrOrganComponent 58 61	CSF
+T22	BiologicallyActiveSubstance 386 396	p-tau(181)
+T23	BiologicallyActiveSubstance 409 412	tau
+T24	BiologicallyActiveSubstance 416 419	tau
+T25	BiologicallyActiveSubstance 791 794	tau
+T26	BiologicallyActiveSubstance 877 880	tau
+T27	BiologicallyActiveSubstance 1022 1025	tau
+T28	BiologicallyActiveSubstance 1285 1288	tau
+T29	DiseaseOrSyndrome 84 86	AD
+T30	DiseaseOrSyndrome 1228 1230	AD
+T31	ClinicalAttribute 88 97	biomarker
+T32	ClinicalAttribute 993 1002	biomarker
+T33	ClinicalAttribute 1191 1200	biomarker
+T34	BodyPartOrganOrOrganComponent 37 56	cerebrospinal fluid
+T35	AminoAcidPeptideOrProtein 403 412	total tau
+T36	BiologicallyActiveSubstance 403 412	total tau
+T37	PopulationGroup 211 223	participants
+T38	PopulationGroup 131 142	individuals
+T39	AminoAcidPeptideOrProtein 1267 1274	amyloid
+T40	BiologicallyActiveSubstance 1267 1274	amyloid
+T41	DiseaseOrSyndrome 317 320	MCI
+T42	DiseaseOrSyndrome 971 974	MCI
+T43	DiseaseOrSyndrome 1045 1048	MCI
+T44	BiologicallyActiveSubstance 414 419	t-tau
+T45	AminoAcidPeptideOrProtein 414 419	t-tau
+T46	OrganismAttribute 227 230	age
+T47	HealthCareActivity 159 168	follow-up
+T48	TemporalConcept 159 168	follow-up
+T49	PopulationGroup 940 952	Participants
+T50	TemporalConcept 153 158	years
+T51	TemporalConcept 238 243	years
+T52	DiseaseOrSyndrome 1216 1230	preclinical AD
+T53	Finding 112 130	cognitively normal
+T54	BiologicFunction 277 286	cognition
+T55	DiseaseOrSyndrome 290 315	mild cognitive impairment
+T56	AminoAcidPeptideOrProtein 386 396	p-tau(181)
+T57	BiomedicalOccupationOrDiscipline 1138 1147	education
+T58	AminoAcidPeptideOrProtein 509 513	APOE
+T59	AminoAcidPeptideOrProtein 643 647	APOE
+T60	AminoAcidPeptideOrProtein 825 829	APOE
+T61	BiologicallyActiveSubstance 509 513	APOE
+T62	BiologicallyActiveSubstance 643 647	APOE
+T63	BiologicallyActiveSubstance 825 829	APOE
+T64	PopulationGroup 525 533	carriers
+T65	OrganismAttribute 840 848	genotype
+T66	ClinicalAttribute 336 359	(A beta)(42)/A beta(40)
+T67	ResearchActivity 24 36	longitudinal
+T68	GeneOrGenome 643 657	APOE epsilon 4
+T69	AminoAcidPeptideOrProtein 825 839	APOE epsilon 4
+T70	PopulationGroup 1106 1112	adults
+T71	TemporalConcept 1049 1062	symptom onset
+T72	SignOrSymptom 1049 1056	symptom
+T73	AminoAcidPeptideOrProtein 361 384	phosphorylated tau(181)
+T74	BiologicallyActiveSubstance 361 384	phosphorylated tau(181)
+T75	ResearchActivity 441 482	automated electrochemiluminescence assays
+T76	GeneOrGenome 491 507;515 524	Apolipoprotein E epsilon 4
+T77	ClinicalAttribute 553 574	A beta(42)/A beta(40)
+T78	ClinicalAttribute 593 614	A beta(42)/A beta(40)
+T79	ClinicalAttribute 679 700	A beta(42)/A beta(40)
+T80	ClinicalAttribute 728 749	A beta(42)/A beta(40)
+T81	ClinicalAttribute 906 927	A beta(42)/A beta(40)
+T82	Finding 1201 1208	changes
+T83	Finding 98 105	changes
+T84	ResearchActivity 189 197	Analyses

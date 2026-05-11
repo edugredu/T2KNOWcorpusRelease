@@ -1,0 +1,13 @@
+T0	HealthCareActivity 62 71	treatment
+T1	ResearchActivity 62 71	treatment
+T2	PathologicFunction 114 126	inflammation
+T3	BiologicFunction 140 148	recovery
+T4	HealthCareActivity 140 148	recovery
+T5	TemporalConcept 140 148	recovery
+T6	DiseaseOrSyndrome 20 38	multiple sclerosis
+T7	Chemical 77 91	corticosteroid
+T8	PharmacologicSubstance 77 91	corticosteroid
+T9	BiologicallyActiveSubstance 77 91	corticosteroid
+T10	TemporalConcept 51 61	short-term
+T11	Substance 92 103	suspensions
+T12	Finding 0 16	Disease relapses

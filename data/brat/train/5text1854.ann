@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 107 126	Alzheimer's disease
+T1	AminoAcidPeptideOrProtein 71 83	amyloid-beta
+T2	PathologicFunction 119 136	disease pathology
+T3	BiologicallyActiveSubstance 22 39	virulence factors
+T4	BiologicallyActiveSubstance 71 83	amyloid-beta
+T5	Bacterium 0 13	P. gingivalis
+T6	CellOrMolecularDysfunction 56 91	aggregation of amyloid-beta protein
+T7	Finding 95 103	hallmark

@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 137 163	neurodegenerative diseases
+T1	BiologicFunction 125 133	delivery
+T2	Finding 96 108	non-invasive
+T3	GeneOrGenome 120 124	gene
+T4	Chemical 109 115	agents
+T5	Virus 50 74	Adeno Associated Viruses

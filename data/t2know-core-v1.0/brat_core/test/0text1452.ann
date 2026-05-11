@@ -1,0 +1,204 @@
+T0	Finding 453 464	independent
+T1	TemporalConcept 528 537	continuum
+T2	DiseaseOrSyndrome 542 576	non-AD neurodegenerative disorders
+T3	DiseaseOrSyndrome 827 861	non-AD neurodegenerative disorders
+T4	DiseaseOrSyndrome 1106 1140	non-AD neurodegenerative disorders
+T5	BiologicFunction 1482 1490	function
+T6	OrganismAttribute 1482 1490	function
+T7	CellFunction 1482 1490	function
+T8	HealthCareActivity 1597 1605	standard
+T9	CellFunction 636 649	differentiate
+T10	Finding 2280 2289	threshold
+T11	Finding 2565 2574	threshold
+T12	TemporalConcept 1228 1232	life
+T13	ClinicalAttribute 2430 2445	novel biomarker
+T14	DiseaseOrSyndrome 1380 1391	amyloidosis
+T15	CellFunction 22 36	phosphorylated
+T16	CellFunction 182 196	phosphorylated
+T17	Finding 682 704	cognitively unimpaired
+T18	TemporalConcept 2134 2140	stages
+T19	BodyPartOrganOrOrganComponent 578 584	Plasma
+T20	BodyPartOrganOrOrganComponent 761 767	Plasma
+T21	BodyPartOrganOrOrganComponent 1234 1240	Plasma
+T22	DiseaseOrSyndrome 549 576	neurodegenerative disorders
+T23	DiseaseOrSyndrome 834 861	neurodegenerative disorders
+T24	DiseaseOrSyndrome 1113 1140	neurodegenerative disorders
+T25	ResearchActivity 1092 1102	comparison
+T26	TemporalConcept 1979 1986	staging
+T27	ClinicalAttribute 2134 2146	stages of AD
+T28	ResearchActivity 1637 1647	positivity
+T29	ResearchActivity 2311 2321	positivity
+T30	ResearchActivity 2591 2601	positivity
+T31	PopulationGroup 2543 2554	populations
+T32	TemporalConcept 710 715	older
+T33	ResearchActivity 2504 2519	clinical trials
+T34	PopulationGroup 710 722	older adults
+T35	TemporalConcept 2125 2140	clinical stages
+T36	TemporalConcept 297 306	currently
+T37	BodyPartOrganOrOrganComponent 2614 2624	entorhinal
+T38	BiologicallyActiveSubstance 178 181	Tau
+T39	AminoAcidPeptideOrProtein 178 181	Tau
+T40	TemporalConcept 1584 1591	earlier
+T41	TemporalConcept 2213 2220	earlier
+T42	Finding 262 272	usefulness
+T43	Finding 1466 1476	increasing
+T44	TemporalConcept 1494 1504	continuous
+T45	AminoAcidPeptideOrProtein 37 40	tau
+T46	AminoAcidPeptideOrProtein 1291 1294	tau
+T47	AminoAcidPeptideOrProtein 2377 2380	tau
+T48	AminoAcidPeptideOrProtein 2625 2628	tau
+T49	DiseaseOrSyndrome 136 155	Alzheimer's disease
+T50	BodyPartOrganOrOrganComponent 83 86	CSF
+T51	BodyPartOrganOrOrganComponent 250 253	CSF
+T52	BodyPartOrganOrOrganComponent 1277 1280	CSF
+T53	BodyPartOrganOrOrganComponent 1785 1788	CSF
+T54	BiologicallyActiveSubstance 37 40	tau
+T55	BiologicallyActiveSubstance 1291 1294	tau
+T56	BiologicallyActiveSubstance 2377 2380	tau
+T57	BiologicallyActiveSubstance 2625 2628	tau
+T58	DiseaseOrSyndrome 157 159	AD
+T59	DiseaseOrSyndrome 525 527	AD
+T60	DiseaseOrSyndrome 546 548	AD
+T61	DiseaseOrSyndrome 629 631	AD
+T62	DiseaseOrSyndrome 796 798	AD
+T63	DiseaseOrSyndrome 831 833	AD
+T64	DiseaseOrSyndrome 1071 1073	AD
+T65	DiseaseOrSyndrome 1110 1112	AD
+T66	DiseaseOrSyndrome 1199 1201	AD
+T67	DiseaseOrSyndrome 2144 2146	AD
+T68	DiseaseOrSyndrome 2458 2460	AD
+T69	ClinicalAttribute 237 246	biomarker
+T70	ClinicalAttribute 284 293	biomarker
+T71	ClinicalAttribute 2436 2445	biomarker
+T72	BodyPartOrganOrOrganComponent 62 81	cerebrospinal fluid
+T73	PatientOrDisabledGroup 615 623	patients
+T74	PatientOrDisabledGroup 799 807	patients
+T75	PatientOrDisabledGroup 813 821	patients
+T76	PatientOrDisabledGroup 918 926	patients
+T77	PatientOrDisabledGroup 1175 1183	patients
+T78	BiomedicalOccupationOrDiscipline 946 960	neuropathology
+T79	BiomedicalOccupationOrDiscipline 1074 1088	neuropathology
+T80	BiomedicalOccupationOrDiscipline 2151 2165	neuropathology
+T81	PathologicFunction 946 960	neuropathology
+T82	PathologicFunction 1074 1088	neuropathology
+T83	PathologicFunction 2151 2165	neuropathology
+T84	Finding 1718 1741	significantly increased
+T85	AminoAcidPeptideOrProtein 22 40	phosphorylated tau
+T86	BiologicallyActiveSubstance 22 40	phosphorylated tau
+T87	HealthCareActivity 1941 1961	Braak stage spectrum
+T88	PopulationGroup 465 472	cohorts
+T89	PathologicFunction 1291 1304	tau pathology
+T90	BodyPartOrganOrOrganComponent 2371 2376	brain
+T91	PopulationGroup 1911 1922	individuals
+T92	Substance 44 53	biofluids
+T93	DiseaseOrSyndrome 1374 1391	brain amyloidosis
+T94	AminoAcidPeptideOrProtein 660 667	amyloid
+T95	AminoAcidPeptideOrProtein 892 899	amyloid
+T96	AminoAcidPeptideOrProtein 1518 1525	amyloid
+T97	AminoAcidPeptideOrProtein 1620 1627	amyloid
+T98	AminoAcidPeptideOrProtein 1745 1752	amyloid
+T99	AminoAcidPeptideOrProtein 2242 2249	amyloid
+T100	AminoAcidPeptideOrProtein 2294 2301	amyloid
+T101	AminoAcidPeptideOrProtein 2578 2585	amyloid
+T102	BiologicallyActiveSubstance 660 667	amyloid
+T103	BiologicallyActiveSubstance 892 899	amyloid
+T104	BiologicallyActiveSubstance 1518 1525	amyloid
+T105	BiologicallyActiveSubstance 1620 1627	amyloid
+T106	BiologicallyActiveSubstance 1745 1752	amyloid
+T107	BiologicallyActiveSubstance 2242 2249	amyloid
+T108	BiologicallyActiveSubstance 2294 2301	amyloid
+T109	BiologicallyActiveSubstance 2578 2585	amyloid
+T110	DiseaseOrSyndrome 1202 1210	dementia
+T111	HealthCareActivity 1211 1220	diagnosis
+T112	DiseaseOrSyndrome 914 917	MCI
+T113	PathologicFunction 161 176	pathophysiology
+T114	BiomedicalOccupationOrDiscipline 161 176	pathophysiology
+T115	Finding 733 741	accuracy
+T116	BodyPartOrganOrOrganComponent 91 97	plasma
+T117	BodyPartOrganOrOrganComponent 409 415	plasma
+T118	BodyPartOrganOrOrganComponent 969 975	plasma
+T119	BodyPartOrganOrOrganComponent 1449 1455	plasma
+T120	BodyPartOrganOrOrganComponent 1668 1674	plasma
+T121	BodyPartOrganOrOrganComponent 1698 1704	plasma
+T122	BodyPartOrganOrOrganComponent 1802 1808	plasma
+T123	BodyPartOrganOrOrganComponent 1880 1886	plasma
+T124	BodyPartOrganOrOrganComponent 2047 2053	plasma
+T125	BodyPartOrganOrOrganComponent 2088 2094	plasma
+T126	BodyPartOrganOrOrganComponent 2182 2188	plasma
+T127	BodyPartOrganOrOrganComponent 2399 2405	plasma
+T128	AminoAcidPeptideOrProtein 660 672	amyloid-beta
+T129	AminoAcidPeptideOrProtein 892 904	amyloid-beta
+T130	AminoAcidPeptideOrProtein 1518 1530	amyloid-beta
+T131	AminoAcidPeptideOrProtein 1620 1632	amyloid-beta
+T132	AminoAcidPeptideOrProtein 1745 1757	amyloid-beta
+T133	AminoAcidPeptideOrProtein 2242 2254	amyloid-beta
+T134	AminoAcidPeptideOrProtein 2294 2306	amyloid-beta
+T135	AminoAcidPeptideOrProtein 2578 2590	amyloid-beta
+T136	PathologicFunction 2461 2470	pathology
+T137	BiomedicalOccupationOrDiscipline 2461 2470	pathology
+T138	AminoAcidPeptideOrProtein 1675 1683	p-tau181
+T139	AminoAcidPeptideOrProtein 1809 1817	p-tau181
+T140	AminoAcidPeptideOrProtein 2054 2062	p-tau181
+T141	AminoAcidPeptideOrProtein 2189 2197	p-tau181
+T142	BiologicallyActiveSubstance 1675 1683	p-tau181
+T143	BiologicallyActiveSubstance 1809 1817	p-tau181
+T144	BiologicallyActiveSubstance 2054 2062	p-tau181
+T145	BiologicallyActiveSubstance 2189 2197	p-tau181
+T146	BodyPartOrganOrOrganComponent 278 283	blood
+T147	TemporalConcept 1017 1022	years
+T148	TemporalConcept 2365 2370	early
+T149	HealthCareActivity 1364 1367	PET
+T150	HealthCareActivity 1408 1411	PET
+T151	HealthCareActivity 1531 1534	PET
+T152	HealthCareActivity 1633 1636	PET
+T153	HealthCareActivity 1758 1761	PET
+T154	HealthCareActivity 2307 2310	PET
+T155	HealthCareActivity 2561 2564	PET
+T156	Finding 1606 1616	thresholds
+T157	OrganismAttribute 2353 2361	response
+T158	HealthCareActivity 1334 1362	positron emission tomography
+T159	PopulationGroup 961 967	cohort
+T160	ResearchActivity 743 746	AUC
+T161	ResearchActivity 863 866	AUC
+T162	ResearchActivity 928 931	AUC
+T163	ResearchActivity 1142 1145	AUC
+T164	PopulationGroup 716 722	adults
+T165	TemporalConcept 1032 1036	post
+T166	TemporalConcept 1032 1043	post-mortem
+T167	Finding 728 732	high
+T168	BiologicFunction 1548 1554	uptake
+T169	CellFunction 1548 1554	uptake
+T170	PathologicFunction 2242 2265	amyloid-beta deposition
+T171	PathologicFunction 2377 2391	tau deposition
+T172	ClinicalAttribute 1880 1895	plasma p-tau231
+T173	ClinicalAttribute 1668 1683	plasma p-tau181
+T174	ClinicalAttribute 1698 1713	plasma p-tau231
+T175	ClinicalAttribute 1785 1797	CSF p-tau217
+T176	PathologicFunction 2625 2639	tau deposition
+T177	AminoAcidPeptideOrProtein 200 213	threonine 231
+T178	AminoAcidPeptideOrProtein 215 223	p-tau231
+T179	ResearchActivity 338 374	ultrasensitive Single molecule array
+T180	ResearchActivity 376 381	Simoa
+T181	AminoAcidPeptideOrProtein 416 424	p-tau231
+T182	BiologicallyActiveSubstance 215 223	p-tau231
+T183	BiologicallyActiveSubstance 416 424	p-tau231
+T184	BiologicallyActiveSubstance 585 593	p-tau231
+T185	AminoAcidPeptideOrProtein 585 593	p-tau231
+T186	ClinicalAttribute 578 593	Plasma p-tau231
+T187	ClinicalAttribute 761 776	Plasma p-tau231
+T188	ClinicalAttribute 969 984	plasma p-tau231
+T189	Substance 988 995	samples
+T190	BodyPartOrganOrOrganComponent 988 995	samples
+T191	ClinicalAttribute 1234 1249	Plasma p-tau231
+T192	ClinicalAttribute 1277 1289	CSF p-tau231
+T193	Chemical 1320 1333	[F-18]MK-6240
+T194	Chemical 1395 1407	[F-18]AZD469
+T195	ClinicalAttribute 1449 1464	plasma p-tau231
+T196	ClinicalAttribute 2088 2103	plasma p-tau231
+T197	ClinicalAttribute 2399 2414	plasma p-tau231
+T198	ClinicalAttribute 1802 1817	plasma p-tau181
+T199	HealthCareActivity 1973 1986	Braak staging
+T200	HealthCareActivity 1992 1999	Braak 0
+T201	HealthCareActivity 2008 2018	Braak I-II
+T202	ClinicalAttribute 2047 2062	plasma p-tau181
+T203	ClinicalAttribute 2182 2197	plasma p-tau181

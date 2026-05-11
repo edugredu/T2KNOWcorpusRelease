@@ -1,0 +1,80 @@
+T0	InjuryOrPoisoning 68 91	brain traumatic insults
+T1	DiseaseOrSyndrome 330 352	cognitive dysfunctions
+T2	HealthCareActivity 597 609	biotherapies
+T3	Cell 713 722	platelets
+T4	PharmacologicSubstance 960 977	anti-inflammation
+T5	ResearchActivity 518 534	preclinical data
+T6	ExperimentalModelOfDisease 1181 1224	rodent models of neurodegenerative diseases
+T7	OrganismAttribute 1937 1943	income
+T8	Eukaryote 1181 1187	rodent
+T9	PopulationGroup 746 752	donors
+T10	Cell 835 843	platelet
+T11	CellFunction 923 938	neuroprotection
+T12	InjuryOrPoisoning 1275 1297	traumatic brain injury
+T13	DiseaseOrSyndrome 1303 1309	stroke
+T14	BodyPartOrganOrOrganComponent 940 947	synapse
+T15	PathologicFunction 241 247	stress
+T16	DiseaseOrSyndrome 0 27	Neurodegenerative disorders
+T17	ResearchActivity 1031 1048	experimental data
+T18	CellComponent 658 680	extracellular vesicles
+T19	DiseaseOrSyndrome 1254 1273	Alzheimer's disease
+T20	OrganismAttribute 738 745	healthy
+T21	BodyPartOrganOrOrganComponent 211 219	synaptic
+T22	BodyPartOrganOrOrganComponent 35 57	central nervous system
+T23	BodyPartOrganOrOrganComponent 59 62	CNS
+T24	BodyPartOrganOrOrganComponent 1778 1781	CNS
+T25	DiseaseOrSyndrome 1233 1252	Parkinson's disease
+T26	HealthCareActivity 1024 1030	report
+T27	ResearchActivity 1024 1030	report
+T28	Finding 549 557	evidence
+T29	BodyPartOrganOrOrganComponent 760 765	brain
+T30	BodyPartOrganOrOrganComponent 1285 1290	brain
+T31	Eukaryote 707 712	human
+T32	Eukaryote 1077 1082	human
+T33	DiseaseOrSyndrome 1198 1224	neurodegenerative diseases
+T34	PathologicFunction 965 977	inflammation
+T35	TemporalConcept 511 517	Recent
+T36	CellOrMolecularDysfunction 231 247	oxidative stress
+T37	AminoAcidPeptideOrProtein 844 852	proteome
+T38	BiologicallyActiveSubstance 844 852	proteome
+T39	CellOrMolecularDysfunction 1727 1744	neurodegenerative
+T40	CellOrMolecularDysfunction 265 282	neurodegeneration
+T41	HealthCareActivity 1854 1864	treatments
+T42	ResearchActivity 1854 1864	treatments
+T43	TemporalConcept 253 264	progressive
+T44	DiseaseOrSyndrome 1868 1890	neurological disorders
+T45	ResearchActivity 904 911	in vivo
+T46	CellFunction 885 903	signaling pathways
+T47	TemporalConcept 793 799	recent
+T48	Finding 1158 1165	effects
+T49	DiseaseOrSyndrome 498 509	pathologies
+T50	DiseaseOrSyndrome 1749 1770	traumatic pathologies
+T51	AminoAcidPeptideOrProtein 633 653	neurotrophic factors
+T52	BiologicallyActiveSubstance 633 653	neurotrophic factors
+T53	PathologicFunction 177 194	neuroinflammation
+T54	HealthCareActivity 1687 1693	safety
+T55	HealthCareActivity 1441 1475	translational therapeutic strategy
+T56	ResearchActivity 1581 1594	manufacturing
+T57	Finding 152 163	alterations
+T58	Finding 196 207	alterations
+T59	DiseaseOrSyndrome 1489 1510	neurological diseases
+T60	CellFunction 1142 1157	neuroprotective
+T61	Finding 1142 1165	neuroprotective effects
+T62	PathologicFunction 133 151	pathophysiological
+T63	CellFunction 211 229	synaptic functions
+T64	PharmacologicSubstance 356 387	single pharmacological approach
+T65	Substance 696 703	lysates
+T66	Finding 948 958	protection
+T67	CellFunction 998 1014	neurorestoration
+T68	CellFunction 979 992	antioxidation
+T69	HealthCareActivity 1059 1073	administration
+T70	AminoAcidPeptideOrProtein 1083 1099	platelet lysates
+T71	PharmacologicSubstance 1083 1099	platelet lysates
+T72	PharmacologicSubstance 696 722	lysates of human platelets
+T73	AminoAcidPeptideOrProtein 696 722	lysates of human platelets
+T74	HealthCareActivity 1311 1338	Platelet-based biotherapies
+T75	AminoAcidPeptideOrProtein 1364 1385	platelet concentrates
+T76	PharmacologicSubstance 1364 1385	platelet concentrates
+T77	PharmacologicSubstance 1697 1713	HPL preparations
+T78	PharmacologicSubstance 1783 1786	HPL
+T79	PopulationGroup 1944 1953	countries

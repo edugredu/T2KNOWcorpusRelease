@@ -1,0 +1,74 @@
+T0	HealthCareActivity 15 32	pharmacotherapies
+T1	TemporalConcept 70 78	priority
+T2	HealthCareActivity 447 460	oral delivery
+T3	BiologicFunction 491 506	motor functions
+T4	Chemical 884 894	indicators
+T5	Cell 987 992	cells
+T6	CellComponent 1094 1107	intracellular
+T7	NucleicAcidNucleosideOrNucleotide 1108 1111	ATP
+T8	PharmacologicSubstance 1108 1111	ATP
+T9	BiologicallyActiveSubstance 1108 1111	ATP
+T10	ResearchActivity 1293 1312	preclinical studies
+T11	BiologicFunction 0 11	Development
+T12	CellFunction 0 11	Development
+T13	CellFunction 1026 1031	redox
+T14	BiologicFunction 825 842	energy metabolism
+T15	CellFunction 135 150	neuroprotection
+T16	ResearchActivity 952 963	co-cultured
+T17	CellFunction 1259 1276	myelin generation
+T18	PharmacologicSubstance 1072 1075	NAD
+T19	NucleicAcidNucleosideOrNucleotide 1072 1075	NAD
+T20	BiologicallyActiveSubstance 1072 1075	NAD
+T21	CellFunction 898 916	aerobic glycolysis
+T22	Eukaryote 412 418	rodent
+T23	ManufacturedObject 541 551	open field
+T24	CellFunction 843 850	pathway
+T25	OrganismAttribute 566 570	gait
+T26	NucleicAcidNucleosideOrNucleotide 1032 1070	coenzyme nicotine adenine dinucleotide
+T27	BiologicallyActiveSubstance 1032 1070	coenzyme nicotine adenine dinucleotide
+T28	Cell 610 641	oligodendrocyte precursor cells
+T29	PathologicFunction 342 355	demyelinating
+T30	Eukaryote 528 532	mice
+T31	DiseaseOrSyndrome 83 101	multiple sclerosis
+T32	DiseaseOrSyndrome 1404 1422	multiple sclerosis
+T33	BodyPartOrganOrOrganComponent 710 716	myelin
+T34	BodyPartOrganOrOrganComponent 964 986	central nervous system
+T35	CellFunction 46 59	remyelination
+T36	DiseaseOrSyndrome 103 105	MS
+T37	BiologicFunction 187 193	repair
+T38	HealthCareActivity 187 193	repair
+T39	CellFunction 717 732	differentiation
+T40	TemporalConcept 371 378	chronic
+T41	BodyPartOrganOrOrganComponent 1133 1146	extracellular
+T42	Chemical 399 411	lysolecithin
+T43	PharmacologicSubstance 399 411	lysolecithin
+T44	ResearchActivity 645 652	culture
+T45	PathologicFunction 197 217	demyelinated lesions
+T46	ResearchActivity 762 766	data
+T47	CellFunction 304 326	remyelinating activity
+T48	CellFunction 1374 1387	remyelinating
+T49	ResearchActivity 556 578	kinematic gait studies
+T50	Chemical 379 388	cuprizone
+T51	Chemical 510 519	cuprizone
+T52	HealthCareActivity 597 606	treatment
+T53	ResearchActivity 597 606	treatment
+T54	ClinicalAttribute 733 740	markers
+T55	Finding 865 876	enhancement
+T56	ResearchActivity 753 761	in vitro
+T57	ResearchActivity 419 432	animal models
+T58	CellFunction 1174 1186	upregulation
+T59	TemporalConcept 393 398	acute
+T60	ResearchActivity 541 551	open field
+T61	ManufacturedObject 266 283	gold nanocrystals
+T62	ManufacturedObject 464 481	gold nanocrystals
+T63	ManufacturedObject 580 596	Gold nanocrystal
+T64	CellFunction 696 706	expression
+T65	CellFunction 665 691	oligodendrocyte maturation
+T66	ManufacturedObject 791 808	gold nanocrystals
+T67	ManufacturedObject 933 950	gold nanocrystals
+T68	PharmacologicSubstance 1032 1070	coenzyme nicotine adenine dinucleotide
+T69	Chemical 1147 1154	lactate
+T70	PharmacologicSubstance 1147 1154	lactate
+T71	ManufacturedObject 1338 1355	gold nanocrystals
+T72	GeneOrGenome 1190 1220	myelin-synthesis related genes
+T73	Chemical 356 362	agents

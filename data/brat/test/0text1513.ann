@@ -1,0 +1,81 @@
+T0	Finding 12 35	Elevated blood pressure
+T1	BiologicFunction 211 225	blood pressure
+T2	BiologicFunction 325 339	blood pressure
+T3	HealthCareActivity 563 567	exam
+T4	BiologicFunction 579 593	blood pressure
+T5	BiologicFunction 828 842	blood pressure
+T6	ClinicalAttribute 880 903	Systolic blood pressure
+T7	ClinicalAttribute 1276 1299	systolic blood pressure
+T8	TemporalConcept 1554 1563	Long-term
+T9	HealthCareActivity 1554 1563	Long-term
+T10	ClinicalAttribute 1564 1587	systolic blood pressure
+T11	BiologicFunction 1647 1661	Blood pressure
+T12	ResearchActivity 388 406	biomarker spectrum
+T13	TemporalConcept 201 210	long-term
+T14	TemporalConcept 315 324	long-term
+T15	DiseaseOrSyndrome 74 93	Alzheimer's disease
+T16	AminoAcidPeptideOrProtein 717 729	amyloid-beta
+T17	ResearchActivity 871 878	Results
+T18	ResearchActivity 594 605	measurement
+T19	HealthCareActivity 594 605	measurement
+T20	DiseaseOrSyndrome 95 97	AD
+T21	DiseaseOrSyndrome 266 268	AD
+T22	DiseaseOrSyndrome 410 412	AD
+T23	DiseaseOrSyndrome 528 530	AD
+T24	DiseaseOrSyndrome 801 803	AD
+T25	DiseaseOrSyndrome 953 955	AD
+T26	DiseaseOrSyndrome 1211 1213	AD
+T27	DiseaseOrSyndrome 1364 1366	AD
+T28	DiseaseOrSyndrome 1483 1485	AD
+T29	DiseaseOrSyndrome 1643 1645	AD
+T30	DiseaseOrSyndrome 1738 1740	AD
+T31	ClinicalAttribute 99 108	biomarker
+T32	ClinicalAttribute 388 397	biomarker
+T33	ClinicalAttribute 781 790	biomarker
+T34	ClinicalAttribute 1191 1200	biomarker
+T35	ClinicalAttribute 1328 1337	biomarker
+T36	ClinicalAttribute 1430 1439	biomarker
+T37	DiseaseOrSyndrome 956 964	dementia
+T38	DiseaseOrSyndrome 1348 1356	dementia
+T39	PopulationGroup 467 479	participants
+T40	PopulationGroup 1048 1060	participants
+T41	PopulationGroup 1138 1150	participants
+T42	PopulationGroup 1398 1410	participants
+T43	PopulationGroup 1517 1529	participants
+T44	HealthCareActivity 668 683	lumbar puncture
+T45	BodyPartOrganOrOrganComponent 1714 1722	vascular
+T46	AminoAcidPeptideOrProtein 734 752	phosphorylated tau
+T47	BiologicallyActiveSubstance 734 752	phosphorylated tau
+T48	PathologicFunction 1723 1734	dysfunction
+T49	Finding 481 499	cognitively normal
+T50	Finding 1029 1047	cognitively normal
+T51	Finding 1119 1137	cognitively normal
+T52	Finding 1379 1397	cognitively normal
+T53	Finding 1498 1516	cognitively normal
+T54	HealthCareActivity 943 952	diagnosed
+T55	DiseaseOrSyndrome 49 69	cognitive impairment
+T56	DiseaseOrSyndrome 241 261	cognitive impairment
+T57	DiseaseOrSyndrome 1615 1635	cognitive impairment
+T58	DiseaseOrSyndrome 501 526	mild cognitive impairment
+T59	DiseaseOrSyndrome 1081 1106	mild cognitive impairment
+T60	DiseaseOrSyndrome 1450 1475	mild cognitive impairment
+T61	PopulationGroup 770 776	groups
+T62	PopulationGroup 804 810	groups
+T63	ResearchActivity 423 466	Alzheimer's Disease Neuroimaging Initiative
+T64	PathologicFunction 269 284	pathophysiology
+T65	BiomedicalOccupationOrDiscipline 269 284	pathophysiology
+T66	TemporalConcept 163 167	time
+T67	TemporalConcept 622 628	months
+T68	TemporalConcept 863 869	months
+T69	ClinicalAttribute 734 759	phosphorylated tau levels
+T70	HealthCareRelatedOrganization 423 466	Alzheimer's Disease Neuroimaging Initiative
+T71	BiologicFunction 21 35	blood pressure
+T72	Finding 109 120	abnormality
+T73	ClinicalAttribute 131 152	blood pressure levels
+T74	Finding 226 237	variability
+T75	Finding 340 351	variability
+T76	Finding 843 854	variability
+T77	Finding 904 915	variability
+T78	Finding 1300 1311	variability
+T79	Finding 1588 1599	variability
+T80	Finding 1662 1673	variability

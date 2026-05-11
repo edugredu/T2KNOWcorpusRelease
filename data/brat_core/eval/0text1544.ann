@@ -1,0 +1,46 @@
+T0	ResearchActivity 104 120	research studies
+T1	PopulationGroup 143 148	world
+T2	HealthCareActivity 410 420	procedures
+T3	BiomedicalOccupationOrDiscipline 481 486	staff
+T4	HealthCareActivity 650 659	screening
+T5	ResearchActivity 650 659	screening
+T6	BiomedicalOccupationOrDiscipline 692 697	staff
+T7	IndividualBehavior 741 753	hand hygiene
+T8	BiomedicalOccupationOrDiscipline 741 753	hand hygiene
+T9	HealthCareActivity 940 957	safety procedures
+T10	BiomedicalOccupationOrDiscipline 995 1000	staff
+T11	HealthCareActivity 583 588	visit
+T12	HealthCareActivity 875 888	public health
+T13	DiseaseOrSyndrome 79 98	Alzheimer's disease
+T14	DiseaseOrSyndrome 100 102	AD
+T15	DiseaseOrSyndrome 819 821	AD
+T16	ClinicalAttribute 345 354	biomarker
+T17	ClinicalAttribute 828 837	biomarker
+T18	PopulationGroup 467 479	participants
+T19	PopulationGroup 675 687	participants
+T20	PopulationGroup 978 990	participants
+T21	PopulationGroup 492 503	individuals
+T22	Substance 339 344	fluid
+T23	Substance 822 827	fluid
+T24	HealthCareActivity 667 674	testing
+T25	ResearchActivity 838 846	research
+T26	ResearchActivity 969 977	research
+T27	BiologicFunction 376 387	development
+T28	CellFunction 376 387	development
+T29	ResearchActivity 178 185	studies
+T30	ResearchActivity 223 230	studies
+T31	ResearchActivity 355 362	studies
+T32	ResearchActivity 911 918	studies
+T33	Substance 242 251	biofluids
+T34	Substance 808 817	biofluids
+T35	TemporalConcept 313 319	period
+T36	Virus 4 15	coronavirus
+T37	DiseaseOrSyndrome 4 28	coronavirus disease 2019
+T38	DiseaseOrSyndrome 30 38	COVID-19
+T39	DiseaseOrSyndrome 259 267	COVID-19
+T40	HealthCareActivity 447 463	in-person visits
+T41	Substance 517 533	biofluid samples
+T42	Finding 631 648	social distancing
+T43	DiseaseOrSyndrome 702 710	COVID-19
+T44	Finding 712 725	wearing masks
+T45	Finding 889 897	priority

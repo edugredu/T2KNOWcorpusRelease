@@ -1,0 +1,11 @@
+T0	Cell 106 113	neurons
+T1	Cell 7 18	glial cells
+T2	Cell 129 145	oligodendrocytes
+T3	Cell 150 160	astrocytes
+T4	BiologicFunction 46 63	brain development
+T5	Cell 90 101	progenitors
+T6	EmbryonicStructure 0 18	Radial glial cells
+T7	EmbryonicStructure 20 23	RGC
+T8	EmbryonicStructure 0 12	Radial glial
+T9	Cell 118 127	macroglia
+T10	Eukaryote 67 78	vertebrates

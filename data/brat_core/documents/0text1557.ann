@@ -1,0 +1,97 @@
+T0	DiseaseOrSyndrome 45 54	tauopathy
+T1	Finding 628 645	cognition changes
+T2	DiseaseOrSyndrome 1551 1560	tauopathy
+T3	TemporalConcept 373 383	concurrent
+T4	Finding 789 795	normal
+T5	ResearchActivity 311 354	Alzheimer's Disease Neuroimaging Initiative
+T6	HealthCareRelatedOrganization 311 354	Alzheimer's Disease Neuroimaging Initiative
+T7	Chemical 454 466	flortaucipir
+T8	Finding 1081 1089	abnormal
+T9	Finding 1180 1188	abnormal
+T10	Finding 271 293	cognitively unimpaired
+T11	Chemical 449 466	F-18-flortaucipir
+T12	AminoAcidPeptideOrProtein 100 104	pTau
+T13	AminoAcidPeptideOrProtein 752 756	pTau
+T14	AminoAcidPeptideOrProtein 1045 1049	pTau
+T15	AminoAcidPeptideOrProtein 1577 1581	pTau
+T16	BiologicallyActiveSubstance 100 104	pTau
+T17	BiologicallyActiveSubstance 752 756	pTau
+T18	BiologicallyActiveSubstance 1045 1049	pTau
+T19	BiologicallyActiveSubstance 1577 1581	pTau
+T20	OrganismAttribute 204 211	ability
+T21	TemporalConcept 1657 1664	earlier
+T22	HealthCareActivity 496 510	structural MRI
+T23	AminoAcidPeptideOrProtein 110 113	tau
+T24	AminoAcidPeptideOrProtein 1634 1637	tau
+T25	DiseaseOrSyndrome 12 31	Alzheimer's disease
+T26	BodyPartOrganOrOrganComponent 76 79	CSF
+T27	BodyPartOrganOrOrganComponent 478 481	CSF
+T28	BodyPartOrganOrOrganComponent 748 751	CSF
+T29	BodyPartOrganOrOrganComponent 767 770	CSF
+T30	BodyPartOrganOrOrganComponent 853 856	CSF
+T31	BodyPartOrganOrOrganComponent 1573 1576	CSF
+T32	BiologicallyActiveSubstance 110 113	tau
+T33	BiologicallyActiveSubstance 1634 1637	tau
+T34	DiseaseOrSyndrome 33 35	AD
+T35	DiseaseOrSyndrome 1256 1258	AD
+T36	AminoAcidPeptideOrProtein 80 98	phosphorylated tau
+T37	BiologicallyActiveSubstance 80 98	phosphorylated tau
+T38	Finding 545 558	relationships
+T39	PopulationGroup 355 367	participants
+T40	PopulationGroup 1068 1079	individuals
+T41	PopulationGroup 1115 1126	individuals
+T42	PopulationGroup 1198 1209	individuals
+T43	PopulationGroup 1237 1248	individuals
+T44	PopulationGroup 1694 1705	individuals
+T45	DiseaseOrSyndrome 311 330	Alzheimer's Disease
+T46	ClinicalAttribute 573 583	biomarkers
+T47	AminoAcidPeptideOrProtein 384 396	amyloid-beta
+T48	PathologicFunction 880 889	pathology
+T49	BiomedicalOccupationOrDiscipline 880 889	pathology
+T50	Finding 838 849	differences
+T51	PathologicFunction 234 253	disease progression
+T52	PopulationGroup 827 837	individual
+T53	OrganismAttribute 827 837	individual
+T54	ResearchActivity 647 654	Results
+T55	DiseaseOrSyndrome 1015 1032	cognitive decline
+T56	DiseaseOrSyndrome 1407 1424	cognitive decline
+T57	BiologicFunction 516 525	cognition
+T58	HealthCareActivity 172 184	measurements
+T59	HealthCareActivity 482 494	measurements
+T60	CellFunction 1259 1266	pathway
+T61	HealthCareActivity 114 117	PET
+T62	HealthCareActivity 406 409	PET
+T63	HealthCareActivity 473 476	PET
+T64	HealthCareActivity 977 980	PET
+T65	HealthCareActivity 986 989	PET
+T66	HealthCareActivity 1328 1331	PET
+T67	HealthCareActivity 1340 1343	PET
+T68	HealthCareActivity 1366 1369	PET
+T69	HealthCareActivity 1621 1630	detection
+T70	AminoAcidPeptideOrProtein 398 404	A beta
+T71	AminoAcidPeptideOrProtein 771 781	A beta(42)
+T72	AminoAcidPeptideOrProtein 796 802	A beta
+T73	AminoAcidPeptideOrProtein 970 976	A beta
+T74	AminoAcidPeptideOrProtein 1060 1066	A beta
+T75	AminoAcidPeptideOrProtein 1321 1327	A beta
+T76	AminoAcidPeptideOrProtein 1686 1692	A beta
+T77	Finding 1344 1356	accumulation
+T78	Finding 1638 1650	accumulation
+T79	ClinicalAttribute 991 1009	hippocampal volume
+T80	TemporalConcept 1665 1670	stage
+T81	ClinicalAttribute 1665 1670	stage
+T82	Chemical 411 427	F-18-florbetapir
+T83	Chemical 430 447	(18)F-florbetaben
+T84	ClinicalAttribute 669 694	CSF pTau/A beta(40) ratio
+T85	BiologicallyActiveSubstance 771 781	A beta(42)
+T86	ClinicalAttribute 902 927	CSF pTau/A beta(40) ratio
+T87	Chemical 982 985	FTP
+T88	ClinicalAttribute 1090 1109	CSF pTau/A beta(40)
+T89	Chemical 1189 1192	FTP
+T90	ClinicalAttribute 1268 1287	CSF pTau/A beta(40)
+T91	Chemical 1336 1339	FTP
+T92	Chemical 1362 1365	FTP
+T93	ClinicalAttribute 1430 1449	CSF pTau/A beta(40)
+T94	ClinicalAttribute 1502 1521	CSF pTau/A beta(40)
+T95	ClinicalAttribute 1593 1612	CSF pTau/A beta(40)
+T96	Chemical 1676 1679	FTP

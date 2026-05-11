@@ -1,0 +1,97 @@
+T0	SignOrSymptom 172 203	psychobehavioral manifestations
+T1	DiseaseOrSyndrome 316 328	neuropathies
+T2	Finding 347 366	diagnostic criteria
+T3	HealthCareActivity 441 459	disease prevention
+T4	BiologicallyActiveSubstance 568 590	inflammatory cytokines
+T5	AminoAcidPeptideOrProtein 568 590	inflammatory cytokines
+T6	AminoAcidPeptideOrProtein 595 605	tryptophan
+T7	BiologicallyActiveSubstance 595 605	tryptophan
+T8	AminoAcidPeptideOrProtein 618 629	kynurenines
+T9	BiologicallyActiveSubstance 618 629	kynurenines
+T10	AminoAcidPeptideOrProtein 631 635	KYNs
+T11	BiologicallyActiveSubstance 631 635	KYNs
+T12	InjuryOrPoisoning 792 802	neurotoxic
+T13	AminoAcidPeptideOrProtein 803 807	KYNs
+T14	BiologicallyActiveSubstance 803 807	KYNs
+T15	DiseaseOrSyndrome 895 920	Creutzfeldt-Jakob disease
+T16	Virus 926 954	human immunodeficiency virus
+T17	Finding 1002 1011	decreases
+T18	ManufacturedObject 1015 1030	neuromodulatory
+T19	AminoAcidPeptideOrProtein 1031 1035	KYNs
+T20	BiologicallyActiveSubstance 1031 1035	KYNs
+T21	InjuryOrPoisoning 1117 1127	neurotoxic
+T22	BiologicFunction 1117 1127	neurotoxic
+T23	AminoAcidPeptideOrProtein 1128 1132	KYNs
+T24	BiologicallyActiveSubstance 1128 1132	KYNs
+T25	CellFunction 1144 1154	activation
+T26	BiologicFunction 1158 1182	adaptive immune response
+T27	AminoAcidPeptideOrProtein 1249 1253	KYNs
+T28	BiologicallyActiveSubstance 1249 1253	KYNs
+T29	Finding 1418 1437	diagnostic criteria
+T30	ResearchActivity 1450 1461	preclinical
+T31	Virus 956 959	HIV
+T32	BiologicFunction 829 846	anti-inflammatory
+T33	PharmacologicSubstance 829 846	anti-inflammatory
+T34	HealthCareActivity 557 564	reviews
+T35	ResearchActivity 557 564	reviews
+T36	HealthCareActivity 449 459	prevention
+T37	TemporalConcept 214 229	clinical course
+T38	PathologicFunction 150 168	motor dysfunctions
+T39	ResearchActivity 1493 1499	search
+T40	ResearchActivity 681 687	method
+T41	HealthCareActivity 681 687	method
+T42	ResearchActivity 464 480	drug development
+T43	BiologicallyActiveSubstance 606 617	metabolites
+T44	SignOrSymptom 136 144	symptoms
+T45	DiseaseOrSyndrome 972 986	neurocognitive
+T46	PathologicFunction 761 777	pro-inflammatory
+T47	PathologicFunction 376 385	pathology
+T48	BiomedicalOccupationOrDiscipline 376 385	pathology
+T49	TemporalConcept 1305 1312	chronic
+T50	AminoAcidPeptideOrProtein 778 787	cytokines
+T51	AminoAcidPeptideOrProtein 847 856	cytokines
+T52	BiologicallyActiveSubstance 778 787	cytokines
+T53	BiologicallyActiveSubstance 847 856	cytokines
+T54	TemporalConcept 223 229	course
+T55	TemporalConcept 1504 1514	initiation
+T56	Finding 1221 1229	decrease
+T57	PathologicFunction 1100 1112	inflammation
+T58	PathologicFunction 1323 1335	inflammation
+T59	PathologicFunction 266 277	dysfunction
+T60	BiologicFunction 469 480	development
+T61	BiologicFunction 1290 1301	development
+T62	CellFunction 469 480	development
+T63	CellFunction 1290 1301	development
+T64	DiseaseOrSyndrome 21 23	AD
+T65	DiseaseOrSyndrome 860 862	AD
+T66	DiseaseOrSyndrome 1039 1041	AD
+T67	Eukaryote 640 645	human
+T68	Eukaryote 926 931	human
+T69	PharmacologicSubstance 464 468	drug
+T70	DiseaseOrSyndrome 102 105	NDs
+T71	DiseaseOrSyndrome 516 519	NDs
+T72	DiseaseOrSyndrome 722 725	NDs
+T73	DiseaseOrSyndrome 811 814	NDs
+T74	DiseaseOrSyndrome 1369 1372	NDs
+T75	DiseaseOrSyndrome 1526 1529	NDs
+T76	DiseaseOrSyndrome 74 100	neurodegenerative diseases
+T77	DiseaseOrSyndrome 868 888	Huntington's disease
+T78	DiseaseOrSyndrome 29 48	Parkinson's disease
+T79	DiseaseOrSyndrome 890 892	HD
+T80	DiseaseOrSyndrome 1051 1053	HD
+T81	DiseaseOrSyndrome 50 52	PD
+T82	DiseaseOrSyndrome 864 866	PD
+T83	DiseaseOrSyndrome 1043 1045	PD
+T84	TemporalConcept 339 346	current
+T85	TemporalConcept 1401 1408	current
+T86	Substance 646 653	samples
+T87	BodyPartOrganOrOrganComponent 646 653	samples
+T88	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T89	ResearchActivity 526 532	review
+T90	HealthCareActivity 526 532	review
+T91	ClinicalAttribute 1462 1472	biomarkers
+T92	PharmacologicSubstance 595 605	tryptophan
+T93	SignOrSymptom 390 404	symptomatology
+T94	DiseaseOrSyndrome 237 250	proteinopathy
+T95	DiseaseOrSyndrome 926 996	human immunodeficiency virus (HIV)-associated neurocognitive disorders
+T96	BiologicallyActiveSubstance 1233 1248	neuromodulatory

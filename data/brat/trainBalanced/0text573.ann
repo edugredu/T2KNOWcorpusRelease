@@ -1,0 +1,48 @@
+T0	CellComponent 2 10	ribosome
+T1	NucleicAcidNucleosideOrNucleotide 89 101	nucleic acid
+T2	Chemical 151 156	speed
+T3	CellComponent 183 191	ribosome
+T4	CellFunction 183 201	ribosome movements
+T5	CellFunction 209 225	mRNA translation
+T6	MolecularSequence 248 261	mRNA sequence
+T7	Finding 689 696	defects
+T8	AminoAcidPeptideOrProtein 990 1000	Huntingtin
+T9	GeneOrGenome 990 1000	Huntingtin
+T10	BiologicallyActiveSubstance 990 1000	Huntingtin
+T11	CellComponent 1145 1154	ribosomes
+T12	CellFunction 378 395	protein synthesis
+T13	CellFunction 496 513	protein synthesis
+T14	CellFunction 671 688	protein synthesis
+T15	CellFunction 1069 1086	protein synthesis
+T16	TemporalConcept 450 456	Recent
+T17	BiologicFunction 973 986	understanding
+T18	HealthCareActivity 734 754	therapeutic remedies
+T19	DiseaseOrSyndrome 1090 1108	Huntington disease
+T20	CellFunction 322 342	molecular mechanisms
+T21	NucleicAcidNucleosideOrNucleotide 64 74	transcript
+T22	NucleicAcidNucleosideOrNucleotide 59 63	mRNA
+T23	NucleicAcidNucleosideOrNucleotide 209 213	mRNA
+T24	NucleicAcidNucleosideOrNucleotide 248 252	mRNA
+T25	NucleicAcidNucleosideOrNucleotide 1158 1162	mRNA
+T26	Finding 616 623	problem
+T27	DiseaseOrSyndrome 417 432	brain disorders
+T28	TemporalConcept 43 47	rate
+T29	TemporalConcept 759 768	currently
+T30	AminoAcidPeptideOrProtein 137 145	proteins
+T31	ResearchActivity 457 464	studies
+T32	TemporalConcept 835 841	recent
+T33	GeneOrGenome 1002 1005	HTT
+T34	AminoAcidPeptideOrProtein 1002 1005	HTT
+T35	BiologicallyActiveSubstance 1002 1005	HTT
+T36	DiseaseOrSyndrome 531 557	neurodegenerative diseases
+T37	DiseaseOrSyndrome 1110 1112	HD
+T38	ResearchActivity 950 956	review
+T39	HealthCareActivity 950 956	review
+T40	NucleicAcidNucleosideOrNucleotide 1163 1174	transcripts
+T41	ResearchActivity 842 847	study
+T42	DiseaseOrSyndrome 793 820	neurodegenerative disorders
+T43	Finding 485 492	defects
+T44	Finding 769 787	incurable diseases
+T45	CellFunction 1016 1033	ribosome stalling
+T46	CellComponent 1016 1024	ribosome
+T47	Finding 1058 1065	defects

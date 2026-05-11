@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 172 198	neurodegenerative diseases
+T1	HealthCareActivity 150 168	targeted therapies
+T2	CellOrMolecularDysfunction 103 123	neuronal dysfunction
+T3	PathologicFunction 82 91	infection
+T4	CellFunction 18 51	cellular and molecular mechanisms
+T5	Bacterium 61 81	Chlamydia pneumoniae

@@ -1,0 +1,59 @@
+T0	TemporalConcept 3 15	recent years
+T1	ResearchActivity 45 53	research
+T2	HealthCareActivity 67 85	coffee consumption
+T3	HealthCareActivity 118 124	health
+T4	BiologicallyActiveSubstance 164 183	bioactive compounds
+T5	Chemical 192 209	chlorogenic acids
+T6	Chemical 211 223	caffeic acid
+T7	Chemical 225 234	alkaloids
+T8	Chemical 236 246	diterpenes
+T9	DiseaseOrSyndrome 264 290	Neurodegenerative diseases
+T10	DiseaseOrSyndrome 292 295	NDs
+T11	BodyPartOrganOrOrganComponent 389 411	muscle nervous systems
+T12	Cell 476 487	glial cells
+T13	Cell 496 505	microglia
+T14	BiologicFunction 607 624	brain homeostasis
+T15	Cell 696 710	neuronal cells
+T16	TemporalConcept 730 734	time
+T17	InjuryOrPoisoning 748 760	brain damage
+T18	PathologicFunction 765 784	physical impairment
+T19	DiseaseOrSyndrome 801 812	chronic NDs
+T20	DiseaseOrSyndrome 832 851	Alzheimer's disease
+T21	DiseaseOrSyndrome 853 855	AD
+T22	DiseaseOrSyndrome 858 877	Parkinson's disease
+T23	DiseaseOrSyndrome 879 881	PD
+T24	DiseaseOrSyndrome 884 902	multiple sclerosis
+T25	DiseaseOrSyndrome 904 906	MS
+T26	DiseaseOrSyndrome 909 938	amyotrophic lateral sclerosis
+T27	DiseaseOrSyndrome 940 943	ALS
+T28	ResearchActivity 989 1012	epidemiological studies
+T29	HealthCareActivity 1014 1040	regular coffee consumption
+T30	ResearchActivity 1144 1152	research
+T31	Chemical 1184 1192	caffeine
+T32	PharmacologicSubstance 1184 1192	caffeine
+T33	HealthCareActivity 1224 1234	prevention
+T34	BodyPartOrganOrOrganComponent 1316 1322	plasma
+T35	Chemical 1323 1331	caffeine
+T36	PharmacologicSubstance 1323 1331	caffeine
+T37	TemporalConcept 1354 1367	extended time
+T38	PathologicFunction 592 603	dysfunction
+T39	DiseaseOrSyndrome 971 973	HD
+T40	Eukaryote 112 117	human
+T41	DiseaseOrSyndrome 949 969	Huntington's disease
+T42	CellOrMolecularDysfunction 558 575	neurodegeneration
+T43	DiseaseOrSyndrome 1196 1223	neurodegenerative disorders
+T44	DiseaseOrSyndrome 1076 1102	neurodegenerative diseases
+T45	PathologicFunction 446 463	neuroinflammation
+T46	PharmacologicSubstance 251 262	polyphenols
+T47	Chemical 251 262	polyphenols
+T48	ResearchActivity 1112 1118	review
+T49	HealthCareActivity 1112 1118	review
+T50	ResearchActivity 421 428	studies
+T51	BiologicallyActiveSubstance 192 209	chlorogenic acids
+T52	BiologicallyActiveSubstance 211 223	caffeic acid
+T53	PharmacologicSubstance 225 234	alkaloids
+T54	BodyPartOrganOrOrganComponent 396 410	nervous system
+T55	Cell 510 520	astrocytes
+T56	ManufacturedObject 1259 1295	controlled caffeine delivery systems
+T57	BodyPartOrganOrOrganComponent 365 372;396 411	central nervous systems
+T58	BodyPartOrganOrOrganComponent 374 384;396 411	peripheral nervous systems

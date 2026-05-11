@@ -1,0 +1,47 @@
+T0	DiseaseOrSyndrome 106 155	emotional, cognitive and behavioral abnormalities
+T1	Finding 163 187	manifestation of disease
+T2	ClinicalAttribute 248 264	clinical feature
+T3	HealthCareActivity 360 375	F-18-FDG PET/CT
+T4	DiseaseOrSyndrome 535 555	orofacial dyskinesia
+T5	HealthCareActivity 557 572	F-18-FDG PET/CT
+T6	Finding 597 628	severe bilateral hypometabolism
+T7	BiomedicalOccupationOrDiscipline 705 730	molecular genetic testing
+T8	HealthCareActivity 814 836	differential diagnosis
+T9	HealthCareActivity 909 921	F-18-FDG PET
+T10	PathologicFunction 947 967	striatal dysfunction
+T11	PopulationGroup 473 476	man
+T12	TemporalConcept 239 247	frequent
+T13	HealthCareActivity 304 311	Imaging
+T14	HealthCareActivity 984 1002	structural imaging
+T15	HealthCareActivity 745 754	diagnosis
+T16	HealthCareActivity 827 836	diagnosis
+T17	HealthCareActivity 1126 1135	diagnosis
+T18	HealthCareActivity 715 730	genetic testing
+T19	DiseaseOrSyndrome 12 32	Huntington's disease
+T20	DiseaseOrSyndrome 664 684	Huntington's disease
+T21	DiseaseOrSyndrome 769 789	Huntington's disease
+T22	BodyPartOrganOrOrganComponent 580 585	brain
+T23	DiseaseOrSyndrome 34 36	HD
+T24	DiseaseOrSyndrome 971 973	HD
+T25	DiseaseOrSyndrome 1074 1076	HD
+T26	BodyPartOrganOrOrganComponent 636 644	striatum
+T27	PopulationGroup 461 472	54-year old
+T28	DiseaseOrSyndrome 49 83	genetic neurodegenerative disorder
+T29	PatientOrDisabledGroup 448 455	patient
+T30	TemporalConcept 43 47	rare
+T31	TemporalConcept 795 799	rare
+T32	DiseaseOrSyndrome 57 83	neurodegenerative disorder
+T33	DiseaseOrSyndrome 285 293	dementia
+T34	DiseaseOrSyndrome 1150 1158	dementia
+T35	DiseaseOrSyndrome 493 525	progressive cognitive impairment
+T36	DiseaseOrSyndrome 840 860	cognitive impairment
+T37	Finding 430 442	presentation
+T38	Finding 1055 1069	family history
+T39	HealthCareActivity 656 663	imaging
+T40	HealthCareActivity 995 1002	imaging
+T41	BodyPartOrganOrOrganComponent 312 320	cortical
+T42	BodyPartOrganOrOrganComponent 325 336	subcortical
+T43	SignOrSymptom 197 211	motor symptoms
+T44	SignOrSymptom 880 894	motor symptoms
+T45	DiseaseOrSyndrome 213 233	Cognitive impairment
+T46	CellFunction 337 355	glucose metabolism

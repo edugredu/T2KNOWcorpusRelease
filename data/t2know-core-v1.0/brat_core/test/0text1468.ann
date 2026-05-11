@@ -1,0 +1,63 @@
+T0	PathologicFunction 38 58	pathologic processes
+T1	TemporalConcept 110 122	early stages
+T2	Chemical 208 222	stable isotope
+T3	GeneOrGenome 646 666	neuronal pentraxin 2
+T4	AminoAcidPeptideOrProtein 646 666	neuronal pentraxin 2
+T5	GeneOrGenome 668 673	NPTX2
+T6	AminoAcidPeptideOrProtein 668 673	NPTX2
+T7	PopulationGroup 802 808	groups
+T8	GeneOrGenome 1002 1007	NPTX2
+T9	AminoAcidPeptideOrProtein 1002 1007	NPTX2
+T10	BiologicallyActiveSubstance 1080 1085	NPTX2
+T11	AminoAcidPeptideOrProtein 1080 1085	NPTX2
+T12	TemporalConcept 116 122	stages
+T13	DiseaseOrSyndrome 556 559	MCI
+T14	DiseaseOrSyndrome 823 826	MCI
+T15	Finding 509 511	CN
+T16	Finding 816 818	CN
+T17	CellFunction 69 86	neuronal function
+T18	Finding 489 507	cognitively normal
+T19	DiseaseOrSyndrome 409 428	Alzheimer's Disease
+T20	ResearchActivity 169 185	drug development
+T21	TemporalConcept 984 988	rate
+T22	DiseaseOrSyndrome 126 145	Alzheimer's disease
+T23	ClinicalAttribute 352 362	biomarkers
+T24	ClinicalAttribute 609 619	biomarkers
+T25	DiseaseOrSyndrome 147 149	AD
+T26	DiseaseOrSyndrome 841 843	AD
+T27	ClinicalAttribute 1123 1132	biomarker
+T28	BiologicFunction 1053 1062	cognition
+T29	BodyPartOrganOrOrganComponent 401 404	CSF
+T30	BodyPartOrganOrOrganComponent 625 628	CSF
+T31	BodyPartOrganOrOrganComponent 1076 1079	CSF
+T32	ResearchActivity 791 801	comparison
+T33	ClinicalAttribute 1112 1132	prognostic biomarker
+T34	PathologicFunction 844 853	pathology
+T35	BiomedicalOccupationOrDiscipline 844 853	pathology
+T36	Substance 394 399	fluid
+T37	ResearchActivity 261 274	investigation
+T38	ResearchActivity 583 590	Results
+T39	PopulationGroup 453 465	participants
+T40	PopulationGroup 827 839	participants
+T41	BiologicFunction 174 185	development
+T42	CellFunction 174 185	development
+T43	BodyPartOrganOrOrganComponent 380 399	cerebrospinal fluid
+T44	DiseaseOrSyndrome 534 554	cognitive impairment
+T45	ClinicalAttribute 14 24	Biomarkers
+T46	AminoAcidPeptideOrProtein 909 925	amyloid beta1-42
+T47	BiologicallyActiveSubstance 909 925	amyloid beta1-42
+T48	DiseaseOrSyndrome 1158 1175	cognitive decline
+T49	DiseaseOrSyndrome 529 554	mild cognitive impairment
+T50	PharmacologicSubstance 169 173	drug
+T51	ResearchActivity 224 254	quantitative mass spectrometry
+T52	ResearchActivity 409 452	Alzheimer's Disease Neuroimaging Initiative
+T53	BiologicallyActiveSubstance 668 673	NPTX2
+T54	BiologicallyActiveSubstance 646 666	neuronal pentraxin 2
+T55	CellFunction 698 715	synaptic function
+T56	AminoAcidPeptideOrProtein 887 908	phosphorylated tau181
+T57	BiologicallyActiveSubstance 887 908	phosphorylated tau181
+T58	PopulationGroup 937 957	clinical progressors
+T59	PopulationGroup 962 977	non-progressors
+T60	Finding 1200 1218	therapeutic target
+T61	ClinicalAttribute 1076 1099	CSF NPTX2 concentration
+T62	ClinicalAttribute 625 666	CSF concentration of neuronal pentraxin 2

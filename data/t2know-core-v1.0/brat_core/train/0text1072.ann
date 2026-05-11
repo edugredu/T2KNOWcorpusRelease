@@ -1,0 +1,111 @@
+T0	DiseaseOrSyndrome 0 32	Chronic Traumatic Encephalopathy
+T1	DiseaseOrSyndrome 34 37	CTE
+T2	DiseaseOrSyndrome 269 280	tauopathies
+T3	DiseaseOrSyndrome 378 381	CTE
+T4	BiologicallyActiveSubstance 1071 1095;1102 1107	collagen type VI alpha 3 chain
+T5	AminoAcidPeptideOrProtein 1071 1095;1102 1107	collagen type VI alpha 3 chain
+T6	GeneOrGenome 1109 1115	COL6A3
+T7	AminoAcidPeptideOrProtein 1109 1115	COL6A3
+T8	GeneOrGenome 1120 1126	COL6A1
+T9	AminoAcidPeptideOrProtein 1132 1138	reelin
+T10	GeneOrGenome 1140 1144	RELN
+T11	AminoAcidPeptideOrProtein 1140 1144	RELN
+T12	ResearchActivity 1281 1298	protein profiling
+T13	DiseaseOrSyndrome 1317 1320	CTE
+T14	GeneOrGenome 1350 1356	COL6A3
+T15	AminoAcidPeptideOrProtein 1350 1356	COL6A3
+T16	GeneOrGenome 1358 1362	RELN
+T17	AminoAcidPeptideOrProtein 1358 1362	RELN
+T18	GeneOrGenome 1367 1373	COL6A1
+T19	DiseaseOrSyndrome 1441 1444	CTE
+T20	MachineActivity 1013 1029	Machine learning
+T21	ResearchActivity 949 952	AUC
+T22	ResearchActivity 1214 1217	AUC
+T23	Finding 86 93	history
+T24	ResearchActivity 893 947	area under the receiver operating characteristic curve
+T25	BiologicFunction 1021 1029	learning
+T26	BiologicallyActiveSubstance 661 664	NFL
+T27	AminoAcidPeptideOrProtein 661 664	NFL
+T28	DiseaseOrSyndrome 239 258	Alzheimer's disease
+T29	CellComponent 208 211	EVs
+T30	CellComponent 314 317	EVs
+T31	CellComponent 383 386	EVs
+T32	CellComponent 581 584	EVs
+T33	CellComponent 771 774	EVs
+T34	CellComponent 851 854	EVs
+T35	CellComponent 1309 1312	EVs
+T36	CellComponent 1384 1387	EVs
+T37	CellComponent 1247 1249	EV
+T38	ResearchActivity 504 546	Label-free quantitative proteomic analysis
+T39	ResearchActivity 1030 1038	analysis
+T40	BodyPartOrganOrOrganComponent 337 343	plasma
+T41	BodyPartOrganOrOrganComponent 411 417	plasma
+T42	BodyPartOrganOrOrganComponent 574 580	plasma
+T43	BodyPartOrganOrOrganComponent 756 762	plasma
+T44	BodyPartOrganOrOrganComponent 1240 1246	plasma
+T45	BodyPartOrganOrOrganComponent 1302 1308	plasma
+T46	BodyPartOrganOrOrganComponent 1377 1383	plasma
+T47	CellFunction 713 727	phosphorylated
+T48	PopulationGroup 458 466	controls
+T49	PopulationGroup 677 685	controls
+T50	PopulationGroup 1186 1194	controls
+T51	AminoAcidPeptideOrProtein 232 235	tau
+T52	AminoAcidPeptideOrProtein 693 696	tau
+T53	AminoAcidPeptideOrProtein 700 703	tau
+T54	AminoAcidPeptideOrProtein 709 712	tau
+T55	AminoAcidPeptideOrProtein 959 962	tau
+T56	BiologicallyActiveSubstance 232 235	tau
+T57	BiologicallyActiveSubstance 693 696	tau
+T58	BiologicallyActiveSubstance 700 703	tau
+T59	BiologicallyActiveSubstance 709 712	tau
+T60	BiologicallyActiveSubstance 959 962	tau
+T61	CellComponent 184 206	Extracellular vesicles
+T62	BodyPartOrganOrOrganComponent 665 672	players
+T63	ResearchActivity 302 310	profiles
+T64	Finding 369 373	risk
+T65	ResearchActivity 792 818	ultrasensitive immunoassay
+T66	OrganismAttribute 446 449	age
+T67	AminoAcidPeptideOrProtein 562 570	proteins
+T68	AminoAcidPeptideOrProtein 593 601	proteins
+T69	AminoAcidPeptideOrProtein 687 696	Total tau
+T70	AminoAcidPeptideOrProtein 698 703	t-tau
+T71	AminoAcidPeptideOrProtein 829 834	t-tau
+T72	AminoAcidPeptideOrProtein 957 962	t-tau
+T73	BiologicallyActiveSubstance 687 696	Total tau
+T74	BiologicallyActiveSubstance 698 703	t-tau
+T75	BiologicallyActiveSubstance 829 834	t-tau
+T76	BiologicallyActiveSubstance 957 962	t-tau
+T77	PopulationGroup 67 78	individuals
+T78	Finding 547 557	identified
+T79	DiseaseOrSyndrome 44 53	tauopathy
+T80	Finding 621 645	differentially expressed
+T81	CellFunction 636 645	expressed
+T82	ResearchActivity 1268 1272	data
+T83	AminoAcidPeptideOrProtein 294 301	protein
+T84	BiomedicalOccupationOrDiscipline 1250 1260	proteomics
+T85	ClinicalAttribute 1415 1436	diagnostic biomarkers
+T86	PopulationGroup 144 182	National Football League (NFL) players
+T87	PopulationGroup 430 441	NFL players
+T88	ResearchActivity 473 502	size-exclusion chromatography
+T89	PopulationGroup 1169 1180	NFL players
+T90	BiologicallyActiveSubstance 1350 1356	COL6A3
+T91	BiologicallyActiveSubstance 1358 1362	RELN
+T92	BiologicallyActiveSubstance 1367 1373	COL6A1
+T93	AminoAcidPeptideOrProtein 1367 1373	COL6A1
+T94	AminoAcidPeptideOrProtein 839 847	p-tau181
+T95	BiologicallyActiveSubstance 839 847	p-tau181
+T96	BiologicallyActiveSubstance 967 974	ptau181
+T97	AminoAcidPeptideOrProtein 967 974	ptau181
+T98	AminoAcidPeptideOrProtein 731 742	threonie181
+T99	BiologicallyActiveSubstance 744 751	ptau181
+T100	AminoAcidPeptideOrProtein 744 751	ptau181
+T101	BiologicallyActiveSubstance 1109 1115	COL6A3
+T102	AminoAcidPeptideOrProtein 1071 1093;1100 1107	collagen type VI alpha 1 chain
+T103	BiologicallyActiveSubstance 1071 1093;1100 1107	collagen type VI alpha 1 chain
+T104	BiologicallyActiveSubstance 1132 1138	reelin
+T105	BiologicallyActiveSubstance 1140 1144	RELN
+T106	ResearchActivity 1240 1260	plasma EV proteomics
+T107	PopulationGroup 354 365	NFL players
+T108	InjuryOrPoisoning 120 132;97 108	head impacts exposure to
+T109	TemporalConcept 109 119	repetitive
+T110	Finding 1204 1212	accuracy

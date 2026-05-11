@@ -1,0 +1,8 @@
+T0	BodyPartOrganOrOrganComponent 152 157	brain
+T1	BodyPartOrganOrOrganComponent 106 113	tissues
+T2	BiologicallyActiveSubstance 62 81	signaling molecules
+T3	CellFunction 49 81	gradients of signaling molecules
+T4	BodyPartOrganOrOrganComponent 162 173	spinal cord
+T5	EmbryonicStructure 4 15	neural tube
+T6	BiologicFunction 125 144	regional patterning
+T7	BiologicFunction 18 31	morphogenesis

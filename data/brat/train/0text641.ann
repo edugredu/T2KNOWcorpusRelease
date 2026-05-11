@@ -1,0 +1,35 @@
+T0	HealthCareActivity 9 32	neuroimaging techniques
+T1	ClinicalAttribute 60 70	biomarkers
+T2	TemporalConcept 340 346	course
+T3	PathologicFunction 340 346	course
+T4	BodyPartOrganOrOrganComponent 412 419	caudate
+T5	HealthCareActivity 483 506	neuroimaging literature
+T6	HealthCareActivity 535 580	diffusion-weighted magnetic resonance imaging
+T7	ResearchActivity 622 635	investigation
+T8	ResearchActivity 639 659	cortical morphometry
+T9	PathologicFunction 686 698	degeneration
+T10	ResearchActivity 738 746	research
+T11	ResearchActivity 766 782	characterization
+T12	PathologicFunction 786 803	disease pathology
+T13	ResearchActivity 879 893	stratification
+T14	ResearchActivity 922 937	clinical trials
+T15	PathologicFunction 387 394	atrophy
+T16	ClinicalAttribute 832 841	biomarker
+T17	PathologicFunction 74 93	disease progression
+T18	PathologicFunction 847 866	disease progression
+T19	DiseaseOrSyndrome 119 121	HD
+T20	DiseaseOrSyndrome 702 704	HD
+T21	DiseaseOrSyndrome 97 117	Huntington's disease
+T22	PatientOrDisabledGroup 871 878	patient
+T23	PathologicFunction 82 93	progression
+T24	PathologicFunction 855 866	progression
+T25	TemporalConcept 82 93	progression
+T26	TemporalConcept 855 866	progression
+T27	ResearchActivity 471 477	review
+T28	HealthCareActivity 471 477	review
+T29	TemporalConcept 124 131	To date
+T30	TemporalConcept 137 145	earliest
+T31	ClinicalAttribute 177 191	caudate volume
+T32	BodyPartOrganOrOrganComponent 263 282	cortical structures
+T33	BodyPartOrganOrOrganComponent 429 445	cortical regions
+T34	HealthCareActivity 519 530;554 580	T1-weighted magnetic resonance imaging

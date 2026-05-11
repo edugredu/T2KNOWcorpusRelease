@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 122 149	neurodegenerative disorders
+T1	HealthCareActivity 94 106	gene therapy
+T2	NucleicAcidNucleosideOrNucleotide 57 64	vectors
+T3	CellFunction 107 118	translation
+T4	GeneOrGenome 94 98	gene
+T5	BiologicFunction 36 44	immunity
+T6	Virus 53 56	AAV

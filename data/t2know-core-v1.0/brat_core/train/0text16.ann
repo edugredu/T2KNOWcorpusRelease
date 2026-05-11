@@ -1,0 +1,72 @@
+T0	Finding 648 669	morphological changes
+T1	PopulationGroup 722 730	resident
+T2	HealthCareActivity 722 730	resident
+T3	Cell 731 741	mast cells
+T4	DiseaseOrSyndrome 731 741	mast cells
+T5	Cell 819 829	Mast cells
+T6	NaturalPhenomenonOrProcess 867 883	microenvironment
+T7	BodyPartOrganOrOrganComponent 867 883	microenvironment
+T8	CellFunction 932 942	activation
+T9	Cell 1071 1081	Mast cells
+T10	BodyPartOrganOrOrganComponent 1125 1144	blood brain barrier
+T11	BiologicallyActiveSubstance 1154 1159	toxin
+T12	InjuryOrPoisoning 1154 1159	toxin
+T13	Cell 1164 1175	immune cell
+T14	PathologicFunction 1198 1210	inflammatory
+T15	NaturalPhenomenonOrProcess 1211 1227	microenvironment
+T16	BodyPartOrganOrOrganComponent 1211 1227	microenvironment
+T17	Cell 1259 1269	mast cells
+T18	BiologicFunction 916 924	behavior
+T19	IndividualBehavior 916 924	behavior
+T20	ResearchActivity 916 924	behavior
+T21	HealthCareActivity 439 459	treatment strategies
+T22	TemporalConcept 303 310	decades
+T23	BiologicFunction 346 359	understanding
+T24	BiologicFunction 1035 1047	neurogenesis
+T25	TemporalConcept 220 231	concomitant
+T26	PopulationGroup 238 248	population
+T27	DiseaseOrSyndrome 1403 1422	Alzheimer's Disease
+T28	DiseaseOrSyndrome 1424 1443	Parkinson's Disease
+T29	ResearchActivity 439 459	treatment strategies
+T30	BiologicFunction 232 237	aging
+T31	CellFunction 232 237	aging
+T32	Finding 430 438	improved
+T33	PathologicFunction 504 521	neuroinflammation
+T34	PathologicFunction 1016 1033	neuroinflammation
+T35	PathologicFunction 1273 1290	neuroinflammation
+T36	TemporalConcept 78 87	currently
+T37	PopulationGroup 46 52	people
+T38	PathologicFunction 461 473	Inflammation
+T39	Cell 688 697	microglia
+T40	Cell 958 967	microglia
+T41	BodyPartOrganOrOrganComponent 481 495	nervous system
+T42	InjuryOrPoisoning 811 817	injury
+T43	DiseaseOrSyndrome 1480 1500	Huntington's Disease
+T44	BodyPartOrganOrOrganComponent 708 713	brain
+T45	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T46	CellOrMolecularDysfunction 1052 1069	neurodegeneration
+T47	CellOrMolecularDysfunction 1295 1312	neurodegeneration
+T48	Cell 900 905	cells
+T49	BiologicFunction 1329 1340	development
+T50	CellFunction 1329 1340	development
+T51	PopulationGroup 260 271	individuals
+T52	Cell 973 980	neurons
+T53	OrganismAttribute 184 187	age
+T54	Finding 121 125	risk
+T55	BodyPartOrganOrOrganComponent 718 721	CNS
+T56	Cell 673 683	astrocytes
+T57	Cell 946 956	astrocytes
+T58	BiologicFunction 617 626	attention
+T59	BiologicFunction 760 769	attention
+T60	TemporalConcept 197 212	life expectancy
+T61	HealthCareActivity 101 111	treatments
+T62	ResearchActivity 101 111	treatments
+T63	TemporalConcept 197 201	life
+T64	PathologicFunction 1345 1356	progression
+T65	TemporalConcept 1345 1356	progression
+T66	TemporalConcept 791 796	first
+T67	DiseaseOrSyndrome 1445 1474	Amyotrophic Lateral Sclerosis
+T68	DiseaseOrSyndrome 383 409	neurodegenerative diseases
+T69	DiseaseOrSyndrome 583 609	neurodegenerative diseases
+T70	DiseaseOrSyndrome 1375 1401	neurodegenerative diseases
+T71	DiseaseOrSyndrome 129 154	neurodegenerative disease

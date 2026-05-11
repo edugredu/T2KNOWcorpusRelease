@@ -1,0 +1,39 @@
+T0	DiseaseOrSyndrome 14 36	neurological disorders
+T1	DiseaseOrSyndrome 46 65	Parkinson's disease
+T2	DiseaseOrSyndrome 67 86	Alzheimer's disease
+T3	DiseaseOrSyndrome 88 117	amyotrophic lateral sclerosis
+T4	InjuryOrPoisoning 141 159	spinal cord injury
+T5	DiseaseOrSyndrome 161 179	multiple sclerosis
+T6	DiseaseOrSyndrome 185 197	brain stroke
+T7	InjuryOrPoisoning 217 223	injury
+T8	Cell 227 234	neurons
+T9	Cell 238 249	glial cells
+T10	TemporalConcept 255 267	recent years
+T11	Cell 312 319	neurons
+T12	Cell 324 334	glia cells
+T13	DiseaseOrSyndrome 437 458	neurological diseases
+T14	Cell 487 497	cell types
+T15	HealthCareActivity 502 526	cell replacement therapy
+T16	DiseaseOrSyndrome 539 548	suffering
+T17	DiseaseOrSyndrome 554 576	neurological disorders
+T18	HealthCareActivity 624 644	therapeutic approach
+T19	Cell 697 704	neurons
+T20	Cell 709 720	glial cells
+T21	Cell 736 746	stem cells
+T22	Cell 756 776	embryonic stem cells
+T23	Cell 778 800	mesenchymal stem cells
+T24	Cell 806 823	neural stem cells
+T25	ResearchActivity 835 843	research
+T26	HealthCareActivity 857 904	stem cell-based brain transplantation therapies
+T27	HealthCareActivity 1142 1149	therapy
+T28	Eukaryote 8 13	human
+T29	Eukaryote 431 436	human
+T30	DiseaseOrSyndrome 119 139	Huntington's disease
+T31	PatientOrDisabledGroup 392 400	patients
+T32	PatientOrDisabledGroup 530 538	patients
+T33	HealthCareActivity 1013 1022	treatment
+T34	ResearchActivity 1013 1022	treatment
+T35	HealthCareActivity 362 387	stem-cell-based therapies
+T36	HealthCareActivity 981 1004	stem cell-based therapy
+T37	DiseaseOrSyndrome 1026 1052	neurodegenerative maladies
+T38	ResearchActivity 1153 1170	clinical settings

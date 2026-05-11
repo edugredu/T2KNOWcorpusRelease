@@ -1,0 +1,101 @@
+T0	Chemical 190 199	compounds
+T1	PharmacologicSubstance 190 199	compounds
+T2	ResearchActivity 778 799	pharmacokinetic study
+T3	Chemical 1199 1210	hederagenin
+T4	AminoAcidPeptideOrProtein 1317 1322	HTT74
+T5	GeneOrGenome 1317 1322	HTT74
+T6	Chemical 1403 1412	compounds
+T7	PharmacologicSubstance 1403 1412	compounds
+T8	Finding 1589 1596	improve
+T9	Chemical 1799 1807	neferine
+T10	NaturalPhenomenonOrProcess 2041 2053	permeability
+T11	BiologicFunction 2041 2053	permeability
+T12	AminoAcidPeptideOrProtein 1302 1315	huntingtin 74
+T13	GeneOrGenome 1302 1312	huntingtin
+T14	AminoAcidPeptideOrProtein 1350 1359	synuclein
+T15	BiologicallyActiveSubstance 1350 1359	synuclein
+T16	BiologicallyActiveSubstance 1339 1359	A53T alpha-synuclein
+T17	ResearchActivity 1088 1096	In vitro
+T18	PathologicFunction 1601 1615	motor deficits
+T19	CellFunction 408 415	carrier
+T20	ManufacturedObject 408 415	carrier
+T21	Finding 408 415	carrier
+T22	HealthCareActivity 1879 1895	green healthcare
+T23	HealthCareActivity 489 501	optimization
+T24	ResearchActivity 489 501	optimization
+T25	Finding 1607 1615	deficits
+T26	CellComponent 18 40	extracellular vesicles
+T27	ResearchActivity 458 475	UHPLC-MS analysis
+T28	BodyPartOrganOrOrganComponent 254 276	central nervous system
+T29	ResearchActivity 292 297	study
+T30	ResearchActivity 556 561	study
+T31	ResearchActivity 1902 1907	study
+T32	BodyPartOrganOrOrganComponent 278 281	CNS
+T33	AminoAcidPeptideOrProtein 1331 1334	tau
+T34	BodyPartOrganOrOrganComponent 1748 1753	brain
+T35	BiologicallyActiveSubstance 1331 1334	tau
+T36	Cell 109 113	cell
+T37	DiseaseOrSyndrome 2058 2084	neurodegenerative diseases
+T38	TemporalConcept 1565 1570	first
+T39	CellFunction 139 152	cargo loading
+T40	CellFunction 513 518	cargo
+T41	ResearchActivity 1097 1112	cellular models
+T42	CellComponent 643 650	exosome
+T43	CellComponent 988 995	exosome
+T44	CellComponent 1150 1157	exosome
+T45	CellComponent 1522 1529	exosome
+T46	ResearchActivity 764 771	studies
+T47	Finding 612 622	separation
+T48	AminoAcidPeptideOrProtein 1283 1291	proteins
+T49	ResearchActivity 734 742	in vitro
+T50	ResearchActivity 1938 1946	in vitro
+T51	TemporalConcept 1824 1831	current
+T52	AminoAcidPeptideOrProtein 1733 1739	A beta
+T53	BodyPartOrganOrOrganComponent 211 230	blood-brain barrier
+T54	BodyPartOrganOrOrganComponent 1061 1080	blood-brain barrier
+T55	TemporalConcept 1571 1575	time
+T56	AminoAcidPeptideOrProtein 1719 1731	beta-amyloid
+T57	ResearchActivity 747 754	in vivo
+T58	ResearchActivity 1950 1957	in vivo
+T59	DiseaseOrSyndrome 1250 1275	neurodegenerative disease
+T60	Cell 1097 1105	cellular
+T61	TemporalConcept 2092 2098	future
+T62	Finding 755 763	efficacy
+T63	AminoAcidPeptideOrProtein 1628 1653	amyloid precursor protein
+T64	BiologicallyActiveSubstance 1628 1653	amyloid precursor protein
+T65	PharmacologicSubstance 134 138	drug
+T66	BiologicFunction 1782 1795	concentration
+T67	ResearchActivity 805 809	data
+T68	CellComponent 154 162	exosomes
+T69	CellComponent 311 319	exosomes
+T70	CellComponent 541 549	exosomes
+T71	CellComponent 626 634	exosomes
+T72	CellComponent 867 875	exosomes
+T73	CellComponent 2007 2015	exosomes
+T74	ResearchActivity 336 370	ultra-high-speed separation method
+T75	CellComponent 0 8	Exosomes
+T76	DiseaseOrSyndrome 1513 1520	anxiety
+T77	CellOrMolecularDysfunction 1276 1282	mutant
+T78	BodyPartOrganOrOrganComponent 1082 1085	BBB
+T79	BodyPartOrganOrOrganComponent 2037 2040	BBB
+T80	Organism 1469 1498	herbal plant Nelumbo nucifera
+T81	Chemical 391 407	natural compound
+T82	Finding 434 444	efficiency
+T83	Finding 575 585	efficiency
+T84	ResearchActivity 651 685	encapsulation of natural compounds
+T85	Finding 829 839	efficiency
+T86	AminoAcidPeptideOrProtein 1325 1330	P301L
+T87	Chemical 1215 1223	neferine
+T88	Chemical 1543 1551	neferine
+T89	Chemical 1189 1197	baicalin
+T90	PharmacologicSubstance 1189 1197	baicalin
+T91	AminoAcidPeptideOrProtein 1655 1666	presenilin1
+T92	BiologicallyActiveSubstance 1655 1666	presenilin1
+T93	ExperimentalModelOfDisease 1619 1626;1668 1690	APP/PS1 double transgenic mice
+T94	ResearchActivity 1966 2000	encapsulation of natural compounds
+T95	ResearchActivity 1150 1188	exosome-encapsulated natural compounds
+T96	Chemical 668 685	natural compounds
+T97	Chemical 1983 2000	natural compounds
+T98	AminoAcidPeptideOrProtein 1361 1375	A53T alpha-syn
+T99	BiologicallyActiveSubstance 1361 1375	A53T alpha-syn
+T100	ResearchActivity 513 534	cargo loading methods

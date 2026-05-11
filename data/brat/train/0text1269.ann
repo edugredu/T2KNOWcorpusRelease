@@ -1,0 +1,113 @@
+T0	Finding 187 201	transformation
+T1	CellFunction 339 354	cell maturation
+T2	AminoAcidPeptideOrProtein 404 423	RNA-binding protein
+T3	GeneOrGenome 660 666	Tardbp
+T4	CellOrMolecularDysfunction 1000 1018	Deletion of TDP-43
+T5	SignOrSymptom 1097 1105	seizures
+T6	Finding 1097 1105	seizures
+T7	CellOrMolecularDysfunction 1177 1185	deletion
+T8	BodyPartOrganOrOrganComponent 1399 1412	blood vessels
+T9	CellOrMolecularDysfunction 1626 1644	deletion of TDP-43
+T10	BodyPartOrganOrOrganComponent 1787 1795	hindlimb
+T11	SignOrSymptom 1778 1804	profound hindlimb weakness
+T12	CellOrMolecularDysfunction 1884 1904	neuronal dysfunction
+T13	PathologicFunction 1575 1583	aberrant
+T14	TemporalConcept 1223 1231	lifespan
+T15	Cell 925 941	oligodendrocytes
+T16	Cell 1138 1154	oligodendrocytes
+T17	Cell 1266 1282	oligodendrocytes
+T18	Cell 1650 1666	oligodendrocytes
+T19	Cell 1849 1865	oligodendrocytes
+T20	Cell 238 242	OPCs
+T21	Cell 773 777	OPCs
+T22	BiologicFunction 1032 1042	maturation
+T23	BiologicFunction 1520 1530	maturation
+T24	Cell 205 236	oligodendrocyte precursor cells
+T25	Cell 689 718	oligodendrocyte lineage cells
+T26	BiologicFunction 103 115	regeneration
+T27	BiologicFunction 886 898	regeneration
+T28	CellComponent 119 133	myelin sheaths
+T29	CellComponent 1308 1322	myelin sheaths
+T30	Cell 249 277	myelinating oligodendrocytes
+T31	TemporalConcept 992 998	mature
+T32	TemporalConcept 1019 1024	early
+T33	PathologicFunction 1083 1095	degeneration
+T34	CellFunction 644 656	inactivation
+T35	Cell 558 581	oligodendrocyte lineage
+T36	ResearchActivity 1414 1438	Transcriptional analysis
+T37	HealthCareActivity 103 115	regeneration
+T38	HealthCareActivity 886 898	regeneration
+T39	BodyPartOrganOrOrganComponent 83 98	neural circuits
+T40	HealthCareActivity 636 643	genetic
+T41	CellOrMolecularDysfunction 1822 1845	loss of TDP-43 function
+T42	Finding 1738 1759	morphological changes
+T43	CellFunction 0 30	Generation of oligodendrocytes
+T44	Finding 63 79	adaptive changes
+T45	CellOrMolecularDysfunction 515 526	TDP-43 loss
+T46	CellOrMolecularDysfunction 751 765	loss of TDP-43
+T47	CellOrMolecularDysfunction 858 867	cell loss
+T48	CellOrMolecularDysfunction 967 983	TDP-43 depletion
+T49	TemporalConcept 1111 1120	premature
+T50	Finding 1121 1130	lethality
+T51	TemporalConcept 1172 1176	late
+T52	Finding 1460 1467	absence
+T53	NucleicAcidNucleosideOrNucleotide 1601 1614	cryptic exons
+T54	BiologicallyActiveSubstance 1601 1614	cryptic exons
+T55	BodyPartOrganOrOrganComponent 1680 1702	central nervous system
+T56	BodyPartOrganOrOrganComponent 1704 1707	CNS
+T57	BodyPartOrganOrOrganComponent 44 49	brain
+T58	Eukaryote 1199 1203	mice
+T59	Eukaryote 1764 1768	mice
+T60	Cell 1379 1387	neuronal
+T61	Cell 1884 1892	neuronal
+T62	DiseaseOrSyndrome 467 493	neurodegenerative diseases
+T63	AminoAcidPeptideOrProtein 1483 1491	proteins
+T64	CellFunction 799 807	survival
+T65	TemporalConcept 1726 1737	progressive
+T66	Cell 459 463	glia
+T67	Cell 447 454	neurons
+T68	CellFunction 385 396	aggregation
+T69	ResearchActivity 385 396	aggregation
+T70	ResearchActivity 667 674	in vivo
+T71	Finding 168 174	normal
+T72	Finding 1216 1222	normal
+T73	DiseaseOrSyndrome 1908 1933	neurodegenerative disease
+T74	PathologicFunction 738 747	sensitive
+T75	PathologicFunction 954 963	sensitive
+T76	Cell 1067 1082	oligodendrocyte
+T77	Cell 1504 1519	oligodendrocyte
+T78	InjuryOrPoisoning 147 153	injury
+T79	CellFunction 1535 1546	myelination
+T80	PopulationGroup 38 43	adult
+T81	PopulationGroup 1674 1679	adult
+T82	TemporalConcept 329 335	stages
+T83	TemporalConcept 544 550	stages
+T84	TemporalConcept 1241 1247	stages
+T85	BiologicFunction 175 180	aging
+T86	CellFunction 175 180	aging
+T87	AminoAcidPeptideOrProtein 425 431	TDP-43
+T88	AminoAcidPeptideOrProtein 515 521	TDP-43
+T89	AminoAcidPeptideOrProtein 759 765	TDP-43
+T90	AminoAcidPeptideOrProtein 788 794	TDP-43
+T91	AminoAcidPeptideOrProtein 967 973	TDP-43
+T92	AminoAcidPeptideOrProtein 1012 1018	TDP-43
+T93	AminoAcidPeptideOrProtein 1249 1255	TDP-43
+T94	AminoAcidPeptideOrProtein 1471 1477	TDP-43
+T95	AminoAcidPeptideOrProtein 1638 1644	TDP-43
+T96	AminoAcidPeptideOrProtein 1830 1836	TDP-43
+T97	BiologicallyActiveSubstance 425 431	TDP-43
+T98	BiologicallyActiveSubstance 515 521	TDP-43
+T99	BiologicallyActiveSubstance 759 765	TDP-43
+T100	BiologicallyActiveSubstance 788 794	TDP-43
+T101	BiologicallyActiveSubstance 967 973	TDP-43
+T102	BiologicallyActiveSubstance 1012 1018	TDP-43
+T103	BiologicallyActiveSubstance 1249 1255	TDP-43
+T104	BiologicallyActiveSubstance 1471 1477	TDP-43
+T105	BiologicallyActiveSubstance 1638 1644	TDP-43
+T106	BiologicallyActiveSubstance 1830 1836	TDP-43
+T107	CellFunction 408 415	binding
+T108	PathologicFunction 1893 1904	dysfunction
+T109	NucleicAcidNucleosideOrNucleotide 404 407	RNA
+T110	AminoAcidPeptideOrProtein 416 423	protein
+T111	NucleicAcidNucleosideOrNucleotide 310 315	mRNAs
+T112	BiologicallyActiveSubstance 310 315	mRNAs

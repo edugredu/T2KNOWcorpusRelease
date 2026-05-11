@@ -1,0 +1,14 @@
+T0	ResearchActivity 173 177	data
+T1	ResearchActivity 194 202	research
+T2	DiseaseOrSyndrome 182 193	Alzheimer's
+T3	ResearchActivity 54 62	analyzed
+T4	ResearchActivity 0 4	Data
+T5	ResearchActivity 130 138	patterns
+T6	MachineActivity 69 85	machine learning
+T7	BiologicFunction 124 129	sleep
+T8	ManufacturedObject 10 26	wearable devices
+T9	ManufacturedObject 36 48	smartwatches
+T10	Finding 95 102	changes
+T11	TemporalConcept 106 111	daily
+T12	Finding 112 122	activities
+T13	Finding 144 152	mobility

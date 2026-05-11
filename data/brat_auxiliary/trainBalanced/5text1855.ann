@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 148 174	neurodegenerative diseases
+T1	BodyPartOrganOrOrganComponent 58 77	blood-brain barrier
+T2	BodyPartOrganOrOrganComponent 100 104	oral
+T3	NaturalPhenomenonOrProcess 87 92	light
+T4	Bacterium 26 39	P. gingivalis
+T5	PathologicFunction 105 115	infections
+T6	PathologicFunction 133 144	progression
+T7	TemporalConcept 133 144	progression

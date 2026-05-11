@@ -1,0 +1,67 @@
+T0	BodyPartOrganOrOrganComponent 4 23	subventricular zone
+T1	BodyPartOrganOrOrganComponent 25 28	SVZ
+T2	BodyPartOrganOrOrganComponent 37 55	lateral ventricles
+T3	BodyPartOrganOrOrganComponent 94 107	dentate gyrus
+T4	BodyPartOrganOrOrganComponent 115 126	hippocampus
+T5	BodyPartOrganOrOrganComponent 176 191	median eminence
+T6	BodyPartOrganOrOrganComponent 193 195	ME
+T7	BodyPartOrganOrOrganComponent 204 216	hypothalamus
+T8	GeneOrGenome 275 278	NG2
+T9	Cell 280 307	oligodendrocyte progenitors
+T10	AminoAcidPeptideOrProtein 313 316	RIP
+T11	GeneOrGenome 313 316	RIP
+T12	Cell 318 350	pre-myelinating oligodendrocytes
+T13	Cell 393 416	mature oligodendrocytes
+T14	Cell 418 421	OLs
+T15	Cell 424 432	ME cells
+T16	Cell 504 507	OLs
+T17	Cell 596 623	oligodendrocyte progenitors
+T18	BodyPartOrganOrOrganComponent 644 646	ME
+T19	ExperimentalModelOfDisease 652 693	experimental autoimmune encephalomyelitis
+T20	AminoAcidPeptideOrProtein 728 744	thrombospondin 1
+T21	GeneOrGenome 728 744	thrombospondin 1
+T22	AminoAcidPeptideOrProtein 746 750	TSP1
+T23	GeneOrGenome 746 750	TSP1
+T24	CellFunction 785 825	negative regulator of oligodendrogenesis
+T25	BodyPartOrganOrOrganComponent 863 865	ME
+T26	ExperimentalModelOfDisease 869 877	EAE mice
+T27	Cell 948 951	OLs
+T28	BodyPartOrganOrOrganComponent 1014 1016	ME
+T29	DiseaseOrSyndrome 1113 1135	demyelinating diseases
+T30	Cell 235 260	newly proliferating cells
+T31	Cell 1035 1057	myelin-producing cells
+T32	TemporalConcept 1094 1100	future
+T33	CellFunction 370 385	differentiation
+T34	Cell 553 560	neurons
+T35	ResearchActivity 464 472	in vitro
+T36	ResearchActivity 826 834	in vitro
+T37	PopulationGroup 582 592	population
+T38	Cell 765 775	astrocytes
+T39	HealthCareActivity 1101 1108	therapy
+T40	InjuryOrPoisoning 1140 1158	spinal cord injury
+T41	BiologicFunction 807 825	oligodendrogenesis
+T42	BodyPartOrganOrOrganComponent 64 80	subgranular zone
+T43	BodyPartOrganOrOrganComponent 82 85	SGZ
+T44	Finding 140 157	neurogenic niches
+T45	NucleicAcidNucleosideOrNucleotide 227 231	BrdU
+T46	PharmacologicSubstance 227 231	BrdU
+T47	AminoAcidPeptideOrProtein 275 278	NG2
+T48	BiologicallyActiveSubstance 275 278	NG2
+T49	BiologicallyActiveSubstance 313 316	RIP
+T50	BodyPartOrganOrOrganComponent 446 458	neurospheres
+T51	BodyPartOrganOrOrganComponent 460 462	NS
+T52	BodyPartOrganOrOrganComponent 522 525	SVZ
+T53	BodyPartOrganOrOrganComponent 526 528	NS
+T54	ExperimentalModelOfDisease 694 713	(EAE)-affected mice
+T55	BiologicallyActiveSubstance 728 744	thrombospondin 1
+T56	BiologicallyActiveSubstance 746 750	TSP1
+T57	BodyPartOrganOrOrganComponent 905 907	ME
+T58	HealthCareActivity 892 910	transplanted ME-NS
+T59	AminoAcidPeptideOrProtein 943 946	MBP
+T60	BiologicallyActiveSubstance 943 946	MBP
+T61	GeneOrGenome 943 946	MBP
+T62	BodyPartOrganOrOrganComponent 966 969	SVZ
+T63	BodyPartOrganOrOrganComponent 970 972	NS
+T64	ExperimentalModelOfDisease 976 989	Shiverer mice
+T65	BodyPartOrganOrOrganComponent 1140 1151	spinal cord
+T66	ExperimentalModelOfDisease 695 698	EAE

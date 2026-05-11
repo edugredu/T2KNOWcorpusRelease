@@ -1,0 +1,10 @@
+T0	ResearchActivity 99 104	study
+T1	DiseaseOrSyndrome 181 203	neurological disorders
+T2	DiseaseOrSyndrome 170 176	cancer
+T3	TemporalConcept 63 70	ongoing
+T4	ResearchActivity 0 8	Research
+T5	DiseaseOrSyndrome 154 164	conditions
+T6	NaturalPhenomenonOrProcess 34 59	electromagnetic radiation
+T7	ResearchActivity 76 86	scientists
+T8	HealthCareActivity 16 22	health
+T9	Finding 23 30	effects

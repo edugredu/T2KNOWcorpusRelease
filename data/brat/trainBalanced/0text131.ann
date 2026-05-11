@@ -1,0 +1,46 @@
+T0	NucleicAcidNucleosideOrNucleotide 0 9	MicroRNAs
+T1	BiologicallyActiveSubstance 0 9	MicroRNAs
+T2	NucleicAcidNucleosideOrNucleotide 11 17	miRNAs
+T3	BiologicallyActiveSubstance 11 17	miRNAs
+T4	BiologicFunction 55 75	biological processes
+T5	CellFunction 85 96	cell growth
+T6	CellFunction 98 116	cell proliferation
+T7	BiologicFunction 118 139	embryonic development
+T8	BiologicFunction 141 163	tissue differentiation
+T9	CellFunction 169 178	apoptosis
+T10	Eukaryote 201 210	mammalian
+T11	NucleicAcidNucleosideOrNucleotide 211 217	miRNAs
+T12	BiologicallyActiveSubstance 211 217	miRNAs
+T13	BiologicFunction 255 275	biological processes
+T14	TemporalConcept 367 372	years
+T15	ResearchActivity 376 384	research
+T16	CellFunction 436 458	translational activity
+T17	GeneOrGenome 466 486	mitochondrial genome
+T18	NucleicAcidNucleosideOrNucleotide 494 500	miRNAs
+T19	BiologicallyActiveSubstance 494 500	miRNAs
+T20	TemporalConcept 523 528	years
+T21	CellFunction 534 554	function of mitomiRs
+T22	ResearchActivity 636 643	article
+T23	DiseaseOrSyndrome 738 749	Alzheimer's
+T24	DiseaseOrSyndrome 751 762	Parkinson's
+T25	DiseaseOrSyndrome 768 780	Huntington's
+T26	GeneOrGenome 844 864	mitochondrial genome
+T27	Eukaryote 328 333	human
+T28	NucleicAcidNucleosideOrNucleotide 289 298	microRNAs
+T29	BiologicallyActiveSubstance 289 298	microRNAs
+T30	CellComponent 334 346	mitochondria
+T31	DiseaseOrSyndrome 700 726	neurodegenerative diseases
+T32	DiseaseOrSyndrome 880 906	neurodegenerative diseases
+T33	TemporalConcept 180 189	Currently
+T34	NucleicAcidNucleosideOrNucleotide 348 356	mitomiRs
+T35	BiologicallyActiveSubstance 348 356	mitomiRs
+T36	NucleicAcidNucleosideOrNucleotide 395 403	mitomiRs
+T37	BiologicallyActiveSubstance 395 403	mitomiRs
+T38	BiologicallyActiveSubstance 546 554	mitomiRs
+T39	NucleicAcidNucleosideOrNucleotide 546 554	mitomiRs
+T40	NucleicAcidNucleosideOrNucleotide 688 696	mitomiRs
+T41	BiologicallyActiveSubstance 688 696	mitomiRs
+T42	NucleicAcidNucleosideOrNucleotide 817 825	mitomiRs
+T43	BiologicallyActiveSubstance 817 825	mitomiRs
+T44	OrganismAttribute 868 871	age
+T45	DiseaseOrSyndrome 573 602	neurodegenerative pathologies

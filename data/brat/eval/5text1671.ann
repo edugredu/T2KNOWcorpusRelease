@@ -1,0 +1,8 @@
+T0	CellOrMolecularDysfunction 134 151	neurodegeneration
+T1	ResearchActivity 102 115	investigation
+T2	CellFunction 34 43	transport
+T3	ManufacturedObject 34 43	transport
+T4	BodyPartOrganOrOrganComponent 73 92	blood-brain barrier
+T5	EnvironmentalEffectOfHumans 17 30	air pollution
+T6	InjuryOrPoisoning 44 61	neurotoxic agents
+T7	EnvironmentalEffectOfHumans 21 30	pollution

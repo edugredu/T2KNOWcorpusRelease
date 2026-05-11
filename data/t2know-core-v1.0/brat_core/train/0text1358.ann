@@ -1,0 +1,31 @@
+T0	BodyPartOrganOrOrganComponent 121 127;94 100	system immune
+T1	BiomedicalOccupationOrDiscipline 347 359	technologies
+T2	TemporalConcept 377 387	generation
+T3	Cell 128 138	cell types
+T4	ResearchActivity 263 271	in vitro
+T5	Cell 391 421	induced pluripotent stem cells
+T6	Cell 423 428	iPSCs
+T7	Cell 501 506	iPSCs
+T8	ResearchActivity 478 489	discoveries
+T9	ResearchActivity 456 462	review
+T10	HealthCareActivity 456 462	review
+T11	ResearchActivity 596 604	research
+T12	Eukaryote 331 336	human
+T13	DiseaseOrSyndrome 20 22	MS
+T14	DiseaseOrSyndrome 194 196	MS
+T15	DiseaseOrSyndrome 305 307	MS
+T16	DiseaseOrSyndrome 447 449	MS
+T17	DiseaseOrSyndrome 532 534	MS
+T18	DiseaseOrSyndrome 593 595	MS
+T19	ResearchActivity 158 171	investigation
+T20	PopulationGroup 435 441	people
+T21	PopulationGroup 520 526	people
+T22	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T23	ResearchActivity 275 282	in vivo
+T24	BodyPartOrganOrOrganComponent 105 127	central nervous system
+T25	ResearchActivity 283 301	preclinical models
+T26	TemporalConcept 554 561	current
+T27	PathologicFunction 54 69	pathophysiology
+T28	BiomedicalOccupationOrDiscipline 54 69	pathophysiology
+T29	Finding 181 190	aetiology
+T30	Cell 337 346	stem cell

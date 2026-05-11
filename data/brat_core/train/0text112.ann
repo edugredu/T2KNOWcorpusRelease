@@ -1,0 +1,39 @@
+T0	DiseaseOrSyndrome 38 57	Parkinson's disease
+T1	DiseaseOrSyndrome 62 81	Alzheimer's disease
+T2	Cell 197 204	neurons
+T3	AminoAcidPeptideOrProtein 255 273	protein aggregates
+T4	NaturalPhenomenonOrProcess 337 346	clearance
+T5	AminoAcidPeptideOrProtein 350 368	protein aggregates
+T6	CellOrMolecularDysfunction 373 397	dysfunctional organelles
+T7	CellComponent 387 397	organelles
+T8	BiologicFunction 425 436	maintenance
+T9	BodyPartOrganOrOrganComponent 497 512	neuronal tissue
+T10	Finding 554 573	Inefficient removal
+T11	PathologicFunction 630 642	pathogenesis
+T12	CellFunction 819 828	mitophagy
+T13	CellFunction 876 898	mitochondrial turnover
+T14	CellFunction 963 972	mitophagy
+T15	HealthCareActivity 987 1007	therapeutic approach
+T16	CellFunction 750 770	autophagic machinery
+T17	CellFunction 308 317	autophagy
+T18	CellFunction 850 859	autophagy
+T19	DiseaseOrSyndrome 22 24	HD
+T20	DiseaseOrSyndrome 681 683	HD
+T21	DiseaseOrSyndrome 1041 1043	HD
+T22	AminoAcidPeptideOrProtein 724 742	huntingtin protein
+T23	BiologicallyActiveSubstance 724 742	huntingtin protein
+T24	DiseaseOrSyndrome 0 20	Huntington's disease
+T25	CellOrMolecularDysfunction 245 273	misfolded protein aggregates
+T26	CellComponent 540 552	mitochondria
+T27	CellComponent 585 597	mitochondria
+T28	CellOrMolecularDysfunction 519 536	neurodegeneration
+T29	CellOrMolecularDysfunction 1011 1029	neurodegenerations
+T30	DiseaseOrSyndrome 104 130	neurodegenerative diseases
+T31	DiseaseOrSyndrome 646 672	neurodegenerative diseases
+T32	CellFunction 440 460	neuronal homeostasis
+T33	ResearchActivity 799 805	review
+T34	HealthCareActivity 799 805	review
+T35	HealthCareActivity 933 959	pharmacological regulation
+T36	CellOrMolecularDysfunction 189 204	loss of neurons
+T37	Finding 698 716	direct involvement
+T38	CellOrMolecularDysfunction 577 597	damaged mitochondria

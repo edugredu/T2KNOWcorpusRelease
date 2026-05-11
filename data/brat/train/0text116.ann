@@ -1,0 +1,45 @@
+T0	DiseaseOrSyndrome 39 64	neurodegenerative disease
+T1	DiseaseOrSyndrome 90 107	motor dysfunction
+T2	DiseaseOrSyndrome 146 166	cognitive impairment
+T3	HealthCareActivity 219 247	disease modifying treatments
+T4	TemporalConcept 286 293	to date
+T5	HealthCareActivity 309 330	symptomatic treatment
+T6	BiologicFunction 356 364	optimism
+T7	HealthCareActivity 395 425	disease modifying therapeutics
+T8	ResearchActivity 435 463	developing therapeutic field
+T9	HealthCareActivity 481 509	promising emerging therapies
+T10	HealthCareActivity 588 595	reviews
+T11	HealthCareActivity 756 769	HD treatments
+T12	ResearchActivity 802 816	press releases
+T13	ResearchActivity 892 905	trial results
+T14	ResearchActivity 974 982	research
+T15	BiologicFunction 1003 1013	enthusiasm
+T16	HealthCareActivity 1048 1057	therapies
+T17	HealthCareActivity 1119 1147	promising emerging therapies
+T18	PathologicFunction 1203 1218	pathophysiology
+T19	BiomedicalOccupationOrDiscipline 1270 1283	biotechnology
+T20	HealthCareActivity 1297 1306	therapies
+T21	PopulationGroup 1369 1377	families
+T22	DiseaseOrSyndrome 109 140	behavioral/psychiatric symptoms
+T23	SignOrSymptom 109 140	behavioral/psychiatric symptoms
+T24	HealthCareActivity 278 285	HD care
+T25	ResearchActivity 527 551	PubMed literature review
+T26	ResearchActivity 588 595	reviews
+T27	HealthCareRelatedOrganization 610 628	ClinicalTrials.gov
+T28	HealthCareRelatedOrganization 771 797	drug manufacturer websites
+T29	TemporalConcept 1249 1257	constant
+T30	NucleicAcidNucleosideOrNucleotide 948 973	antisense oligonucleotide
+T31	BiologicallyActiveSubstance 948 973	antisense oligonucleotide
+T32	Chemical 948 973	antisense oligonucleotide
+T33	TemporalConcept 842 849	current
+T34	PharmacologicSubstance 771 775	drug
+T35	DiseaseOrSyndrome 427 429	HD
+T36	DiseaseOrSyndrome 1152 1154	HD
+T37	DiseaseOrSyndrome 13 33	Huntington's disease
+T38	PatientOrDisabledGroup 1353 1361	patients
+T39	HealthCareActivity 257 274	clinical practice
+T40	HealthCareRelatedOrganization 527 533	PubMed
+T41	BiologicFunction 1018 1022	hope
+T42	TemporalConcept 1058 1067	currently
+T43	Finding 1175 1192	growing knowledge
+T44	HealthCareActivity 207 215;237 247	curative treatments

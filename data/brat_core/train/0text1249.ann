@@ -1,0 +1,87 @@
+T0	TemporalConcept 115 121	phases
+T1	BiologicFunction 134 141	periods
+T2	TemporalConcept 134 141	periods
+T3	PathologicFunction 263 283	inflammatory process
+T4	Cell 382 414	myeloid-derived suppressor cells
+T5	Cell 416 421	MDSCs
+T6	Cell 502 507	MDSCs
+T7	PathologicFunction 517 528	infiltrated
+T8	BiologicFunction 529 542	T-cell anergy
+T9	Cell 657 662	MDSCs
+T10	Cell 796 801	MDSCs
+T11	Cell 1033 1038	MDSCs
+T12	Cell 1146 1151	MDSCs
+T13	AminoAcidPeptideOrProtein 1289 1300	osteopontin
+T14	BiologicallyActiveSubstance 1289 1300	osteopontin
+T15	Cell 1352 1357	MDSCs
+T16	HealthCareActivity 1363 1371	ablation
+T17	AminoAcidPeptideOrProtein 1423 1434	osteopontin
+T18	BiologicallyActiveSubstance 1423 1434	osteopontin
+T19	Cell 1447 1451	MDSC
+T20	OrganismAttribute 1556 1571	innate immunity
+T21	ResearchActivity 1678 1690	preservation
+T22	BiologicFunction 826 843	anti-inflammatory
+T23	PharmacologicSubstance 826 843	anti-inflammatory
+T24	TemporalConcept 434 449	clinical course
+T25	TemporalConcept 601 615	disease course
+T26	BodyPartOrganOrOrganComponent 670 679	periphery
+T27	ExperimentalModelOfDisease 453 494	experimental autoimmune encephalomyelitis
+T28	ExperimentalModelOfDisease 496 499	EAE
+T29	ExperimentalModelOfDisease 1042 1045	EAE
+T30	TemporalConcept 9 17	frequent
+T31	Finding 1003 1015	relationship
+T32	Finding 1047 1059	relationship
+T33	Finding 757 769	observations
+T34	OrganismAttribute 1245 1255	phenotypes
+T35	TemporalConcept 60 69	relapsing
+T36	TemporalConcept 988 993	first
+T37	TemporalConcept 1273 1278	first
+T38	ResearchActivity 1330 1338	analyzed
+T39	Finding 347 366	increasing interest
+T40	Cell 924 928	OPCs
+T41	Cell 1024 1028	OPCs
+T42	Cell 891 922	oligodendrocyte precursor cells
+T43	DiseaseOrSyndrome 29 47	multiple sclerosis
+T44	BodyPartOrganOrOrganComponent 1671 1677	myelin
+T45	BodyPartOrganOrOrganComponent 721 743	central nervous system
+T46	Finding 637 645	presence
+T47	BodyPartOrganOrOrganComponent 745 748	CNS
+T48	BodyPartOrganOrOrganComponent 1580 1583	CNS
+T49	CellFunction 306 319	remyelination
+T50	CellFunction 934 947	remyelination
+T51	PatientOrDisabledGroup 202 210	patients
+T52	PatientOrDisabledGroup 1708 1716	patients
+T53	HealthCareActivity 1640 1649	therapies
+T54	DiseaseOrSyndrome 49 51	MS
+T55	DiseaseOrSyndrome 588 590	MS
+T56	DiseaseOrSyndrome 1705 1707	MS
+T57	BiologicFunction 159 167	recovery
+T58	HealthCareActivity 159 167	recovery
+T59	TemporalConcept 159 167	recovery
+T60	BiologicFunction 1695 1701	repair
+T61	HealthCareActivity 1695 1701	repair
+T62	TemporalConcept 994 998	time
+T63	TemporalConcept 1279 1283	time
+T64	CellFunction 1211 1230	OPC differentiation
+T65	PathologicFunction 693 713	demyelinated lesions
+T66	ResearchActivity 1500 1504	data
+T67	CellFunction 1165 1178	proliferation
+T68	TemporalConcept 1238 1244	mature
+T69	CellFunction 547 556	apoptosis
+T70	CellFunction 1155 1163	survival
+T71	PathologicFunction 831 843	inflammatory
+T72	PathologicFunction 1100 1112	inflammatory
+T73	SignOrSymptom 103 114	symptomatic
+T74	ResearchActivity 571 584	animal models
+T75	Cell 1470 1492	oligodendroglial cells
+T76	PathologicFunction 1525 1535	pathogenic
+T77	ExperimentalModelOfDisease 571 590	animal models of MS
+T78	Finding 844 850	effect
+T79	NucleicAcidNucleosideOrNucleotide 1198 1207	promoters
+T80	BiologicallyActiveSubstance 1339 1348	secretome
+T81	Cell 1389 1394	MDSCs
+T82	BiologicallyActiveSubstance 1395 1404	secretome
+T83	Finding 1536 1547	interaction
+T84	Cell 1609 1613	MDSC
+T85	BiologicallyActiveSubstance 1622 1633	osteopontin
+T86	AminoAcidPeptideOrProtein 1622 1633	osteopontin

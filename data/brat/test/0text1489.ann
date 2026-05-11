@@ -1,0 +1,172 @@
+T0	InjuryOrPoisoning 66 71	toxic
+T1	AminoAcidPeptideOrProtein 96 110	A beta protein
+T2	Chemical 277 288	antagonists
+T3	PharmacologicSubstance 277 320	antagonists of the sigma-2 receptor complex
+T4	BodyPartOrganOrOrganComponent 378 384	orally
+T5	ResearchActivity 797 808	Experiments
+T6	BodyPartOrganOrOrganComponent 901 909	synapses
+T7	BodyPartOrganOrOrganComponent 1182 1189	synapse
+T8	BiologicFunction 1294 1312	cognitive function
+T9	GeneOrGenome 1329 1339	transgenic
+T10	GeneOrGenome 1340 1344	Thy1
+T11	ResearchActivity 1365 1386	wild-type littermates
+T12	ResearchActivity 1390 1401	multicenter
+T13	ResearchActivity 1403 1415	double-blind
+T14	ResearchActivity 1417 1435	placebo-controlled
+T15	ResearchActivity 1695 1716	liquid chromatography
+T16	ResearchActivity 1722 1746	tandem mass spectrometry
+T17	ResearchActivity 1750 1783	enzyme-linked immunosorbent assay
+T18	TemporalConcept 1818 1821	Day
+T19	TemporalConcept 1847 1850	Day
+T20	AminoAcidPeptideOrProtein 2040 2058	synaptic receptors
+T21	ResearchActivity 2525 2544	preclinical studies
+T22	Cell 1243 1259	cortical neurons
+T23	ResearchActivity 1042 1053	experiments
+T24	NaturalPhenomenonOrProcess 2127 2136	clearance
+T25	PathologicFunction 2477 2498	proteins dysregulated
+T26	HealthCareRelatedOrganization 755 773	ClinicalTrials.gov
+T27	CellFunction 2790 2808	signaling pathways
+T28	Chemical 415 429	small molecule
+T29	CellComponent 1155 1163	membrane
+T30	Eukaryote 1006 1021	transgenic mice
+T31	Eukaryote 2250 2265	transgenic mice
+T32	CellFunction 1202 1220	protein expression
+T33	CellFunction 1660 1678	protein expression
+T34	CellFunction 2181 2199	protein expression
+T35	ResearchActivity 1006 1021	transgenic mice
+T36	ResearchActivity 2250 2265	transgenic mice
+T37	TemporalConcept 1224 1230	mature
+T38	ResearchActivity 1495 1507	tolerability
+T39	Finding 1143 1151	deficits
+T40	InjuryOrPoisoning 355 363	toxicity
+T41	HealthCareActivity 1417 1424	placebo
+T42	HealthCareActivity 1565 1572	placebo
+T43	HealthCareActivity 1922 1929	placebo
+T44	ResearchActivity 739 753	clinical trial
+T45	Finding 2274 2297	significantly increased
+T46	BiologicallyActiveSubstance 296 320	sigma-2 receptor complex
+T47	BiologicallyActiveSubstance 456 464	receptor
+T48	HealthCareActivity 1487 1493	safety
+T49	ResearchActivity 1022 1029	in vivo
+T50	TemporalConcept 1597 1601	days
+T51	AminoAcidPeptideOrProtein 988 991	APP
+T52	GeneOrGenome 988 991	APP
+T53	BiologicallyActiveSubstance 988 991	APP
+T54	Finding 2225 2246	cognitive performance
+T55	AminoAcidPeptideOrProtein 2419 2422	tau
+T56	DiseaseOrSyndrome 196 215	Alzheimer's disease
+T57	ClinicalAttribute 683 701	protein biomarkers
+T58	PatientOrDisabledGroup 221 229	patients
+T59	PatientOrDisabledGroup 725 733	patients
+T60	PatientOrDisabledGroup 1608 1616	patients
+T61	PatientOrDisabledGroup 2815 2823	patients
+T62	BodyPartOrganOrOrganComponent 678 681	CSF
+T63	BodyPartOrganOrOrganComponent 1656 1659	CSF
+T64	BodyPartOrganOrOrganComponent 2146 2149	CSF
+T65	BodyPartOrganOrOrganComponent 2298 2301	CSF
+T66	BodyPartOrganOrOrganComponent 2351 2354	CSF
+T67	BodyPartOrganOrOrganComponent 2502 2505	CSF
+T68	ResearchActivity 1953 1960	Results
+T69	BiologicallyActiveSubstance 2419 2422	tau
+T70	DiseaseOrSyndrome 217 219	AD
+T71	DiseaseOrSyndrome 614 616	AD
+T72	DiseaseOrSyndrome 722 724	AD
+T73	DiseaseOrSyndrome 929 931	AD
+T74	DiseaseOrSyndrome 1605 1607	AD
+T75	DiseaseOrSyndrome 2102 2104	AD
+T76	DiseaseOrSyndrome 2340 2342	AD
+T77	DiseaseOrSyndrome 2466 2468	AD
+T78	DiseaseOrSyndrome 2623 2625	AD
+T79	DiseaseOrSyndrome 2812 2814	AD
+T80	ClinicalAttribute 1523 1540	protein biomarker
+T81	ResearchActivity 617 623	models
+T82	ResearchActivity 2080 2098	preclinical models
+T83	BodyPartOrganOrOrganComponent 399 404	brain
+T84	DiseaseOrSyndrome 602 616	preclinical AD
+T85	BodyPartOrganOrOrganComponent 657 676	cerebrospinal fluid
+T86	ResearchActivity 2689 2705	preclinical data
+T87	ResearchActivity 2701 2705	data
+T88	Eukaryote 1017 1021	mice
+T89	Eukaryote 2261 2265	mice
+T90	BiologicFunction 2844 2855	development
+T91	CellFunction 2844 2855	development
+T92	AminoAcidPeptideOrProtein 2404 2422	phosphorylated tau
+T93	BiologicallyActiveSubstance 2404 2422	phosphorylated tau
+T94	AminoAcidPeptideOrProtein 2382 2399	synaptic proteins
+T95	AminoAcidPeptideOrProtein 2391 2399	proteins
+T96	AminoAcidPeptideOrProtein 2477 2485	proteins
+T97	PopulationGroup 1445 1450	group
+T98	PopulationGroup 521 528	elderly
+T99	Substance 671 676	fluid
+T100	PopulationGroup 1945 1951	groups
+T101	TemporalConcept 1176 1180	rate
+T102	BodyPartOrganOrOrganComponent 231 243	brain tissue
+T103	BodyPartOrganOrOrganComponent 952 964	brain tissue
+T106	ResearchActivity 1729 1746	mass spectrometry
+T107	CellFunction 890 897	binding
+T108	Eukaryote 923 928	human
+T109	AminoAcidPeptideOrProtein 28 34	A beta
+T110	AminoAcidPeptideOrProtein 96 102	A beta
+T111	AminoAcidPeptideOrProtein 339 354	A beta oligomer
+T112	AminoAcidPeptideOrProtein 570 585	A beta oligomer
+T113	AminoAcidPeptideOrProtein 874 889	A beta oligomer
+T114	AminoAcidPeptideOrProtein 1119 1134	A beta oligomer
+T115	AminoAcidPeptideOrProtein 2014 2030	A beta oligomers
+T116	AminoAcidPeptideOrProtein 2320 2326	A beta
+T117	AminoAcidPeptideOrProtein 2630 2646	A beta oligomers
+T118	AminoAcidPeptideOrProtein 1750 1756	enzyme
+T119	ResearchActivity 910 918	in vitro
+T120	ResearchActivity 1260 1268	in vitro
+T121	BiologicallyActiveSubstance 1750 1756	enzyme
+T122	BodyPartOrganOrOrganComponent 1231 1242	hippocampal
+T123	Cell 1231 1242	hippocampal
+T124	PatientOrDisabledGroup 932 939	patient
+T125	PatientOrDisabledGroup 1880 1887	patient
+T126	PatientOrDisabledGroup 2343 2350	patient
+T127	TemporalConcept 1584 1589	daily
+T128	Finding 2718 2726	evidence
+T129	TemporalConcept 940 951	post mortem
+T130	Finding 2730 2747	target engagement
+T131	HealthCareActivity 1618 1647	Mini-Mental State Examination
+T132	Cell 2203 2210	neurons
+T133	OrganismAttribute 513 520	healthy
+T134	BiologicFunction 161 167	memory
+T135	AminoAcidPeptideOrProtein 14 26;36 45	Amyloid beta oligomers
+T136	InjuryOrPoisoning 141 156	synaptotoxicity
+T137	PathologicFunction 161 175	memory failure
+T138	AminoAcidPeptideOrProtein 296 320	sigma-2 receptor complex
+T139	PharmacologicSubstance 365 371	CT1812
+T140	Chemical 365 371	CT1812
+T141	Chemical 551 557	CT1812
+T142	PharmacologicSubstance 551 557	CT1812
+T143	PharmacologicSubstance 638 644	CT1812
+T144	Chemical 638 644	CT1812
+T145	Chemical 849 855	CT1812
+T146	PharmacologicSubstance 849 855	CT1812
+T147	PharmacologicSubstance 1094 1100	CT1812
+T148	Chemical 1094 1100	CT1812
+T149	Chemical 1284 1290	CT1812
+T150	PharmacologicSubstance 1284 1290	CT1812
+T151	Chemical 1555 1561	CT1812
+T152	PharmacologicSubstance 1555 1561	CT1812
+T153	Chemical 1962 1968	CT1812
+T154	PharmacologicSubstance 1962 1968	CT1812
+T155	PharmacologicSubstance 2267 2273	CT1812
+T156	Chemical 2267 2273	CT1812
+T157	Chemical 2608 2614	CT1812
+T158	PharmacologicSubstance 2608 2614	CT1812
+T159	PharmacologicSubstance 2859 2865	CT1812
+T160	Chemical 2859 2865	CT1812
+T161	Chemical 430 472	antagonist of the sigma-2 receptor complex
+T162	PharmacologicSubstance 430 472	antagonist of the sigma-2 receptor complex
+T163	PopulationGroup 529 539	volunteers
+T164	PathologicFunction 586 598	pathobiology
+T165	ResearchActivity 774 785	NCT02907567
+T166	ResearchActivity 965 972	ex vivo
+T167	ExperimentalModelOfDisease 988 1021	APP(S)(we)/PS1dE9 transgenic mice
+T168	CellFunction 1155 1175	membrane trafficking
+T169	ExperimentalModelOfDisease 1329 1360	transgenic Thy1 huAPP(Swe/Lnd+)
+T170	ResearchActivity 1451 1456	trial
+T171	BiologicallyActiveSubstance 2040 2058	synaptic receptors
+T172	ClinicalAttribute 2298 2336	CSF concentrations of A beta oligomers
+T173	CellFunction 2161 2176	synaptic number

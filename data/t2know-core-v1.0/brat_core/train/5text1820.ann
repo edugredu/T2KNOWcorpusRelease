@@ -1,0 +1,10 @@
+T0	Cell 131 138	neurons
+T1	Cell 103 108	cells
+T2	DiseaseOrSyndrome 77 102	neurodegenerative disease
+T3	OrganismAttribute 123 130	healthy
+T4	NucleicAcidNucleosideOrNucleotide 11 18	vectors
+T5	Finding 152 170	promising strategy
+T6	Virus 0 10	Adenovirus
+T7	HealthCareActivity 175 196	oncolytic virotherapy
+T8	CellFunction 46 57	replication
+T9	ResearchActivity 0 57	Adenovirus vectors engineered for conditional replication

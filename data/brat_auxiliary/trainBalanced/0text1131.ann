@@ -1,0 +1,64 @@
+T0	CellFunction 593 613	cell differentiation
+T1	GeneOrGenome 672 676	RNY3
+T2	AminoAcidPeptideOrProtein 709 731	complementary proteins
+T3	GeneOrGenome 733 737	YBX1
+T4	AminoAcidPeptideOrProtein 739 746	IGF2BP2
+T5	GeneOrGenome 739 746	IGF2BP2
+T6	HealthCareActivity 360 366	report
+T7	ResearchActivity 360 366	report
+T8	ResearchActivity 857 883	inhouse and exRNA database
+T9	CellFunction 632 645	Wnt signaling
+T10	MolecularSequence 392 412	proteo-transcriptome
+T11	Cell 831 841	cell lines
+T12	ResearchActivity 297 307	comparison
+T13	AminoAcidPeptideOrProtein 78 86	proteins
+T14	AminoAcidPeptideOrProtein 164 172	proteins
+T15	AminoAcidPeptideOrProtein 525 533	proteins
+T16	CellComponent 0 34	Circulating extracellular vesicles
+T17	CellComponent 36 39	EVs
+T18	CellComponent 289 292	EVs
+T19	CellComponent 372 375	EVs
+T20	CellComponent 486 489	EVs
+T21	CellComponent 647 650	EVs
+T22	CellComponent 852 855	EVs
+T23	CellComponent 896 899	EVs
+T24	CellComponent 142 144	EV
+T25	CellComponent 957 959	EV
+T26	PatientOrDisabledGroup 903 911	patients
+T27	BiologicFunction 615 626	development
+T28	CellFunction 615 626	development
+T29	Cell 112 116	cell
+T30	Cell 319 323	cell
+T31	Cell 457 461	cell
+T32	Chemical 70 76	lipids
+T33	ClinicalAttribute 222 232	biomarkers
+T34	TemporalConcept 120 126	origin
+T35	TemporalConcept 327 333	origin
+T36	TemporalConcept 465 471	origin
+T37	CellComponent 511 524	extracellular
+T38	CellFunction 651 656	cargo
+T39	BodyPartOrganOrOrganComponent 890 895	serum
+T40	NucleicAcidNucleosideOrNucleotide 564 575	nucleotides
+T41	NucleicAcidNucleosideOrNucleotide 535 544	small RNA
+T42	NucleicAcidNucleosideOrNucleotide 88 91	RNA
+T43	NucleicAcidNucleosideOrNucleotide 156 159	RNA
+T44	NucleicAcidNucleosideOrNucleotide 960 963	RNA
+T45	BiologicallyActiveSubstance 535 544	small RNA
+T46	NucleicAcidNucleosideOrNucleotide 97 100	DNA
+T47	NucleicAcidNucleosideOrNucleotide 666 670	RNAs
+T48	DiseaseOrSyndrome 824 830	cancer
+T49	DiseaseOrSyndrome 917 932	prostate cancer
+T50	PopulationGroup 1022 1029	network
+T51	CellFunction 1022 1029	network
+T52	Substance 208 214	liquid
+T53	Finding 788 799	independent
+T54	BiologicallyActiveSubstance 678 683	vtRNA
+T55	NucleicAcidNucleosideOrNucleotide 678 683	vtRNA
+T56	NucleicAcidNucleosideOrNucleotide 689 697	MIRLET-7
+T57	BiologicallyActiveSubstance 689 697	MIRLET-7
+T58	BiologicallyActiveSubstance 752 757	SRSF1
+T59	AminoAcidPeptideOrProtein 752 757	SRSF1
+T60	GeneOrGenome 752 757	SRSF1
+T61	AminoAcidPeptideOrProtein 964 971	protein
+T62	HealthCareActivity 208 221	liquid-biopsy
+T63	ResearchActivity 242 285	integrative proteo-transcriptomic landscape

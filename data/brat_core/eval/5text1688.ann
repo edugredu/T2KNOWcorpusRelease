@@ -1,0 +1,8 @@
+T0	BiologicFunction 32 40	delivery
+T1	BodyPartOrganOrOrganComponent 112 126	neural tissues
+T2	DiseaseOrSyndrome 139 166	neurodegenerative processes
+T3	GeneOrGenome 27 31	gene
+T4	GeneOrGenome 91 108	therapeutic genes
+T5	Virus 0 20	Herpes Simplex Virus
+T6	Virus 0 6	Herpes
+T7	ResearchActivity 27 48	gene delivery systems

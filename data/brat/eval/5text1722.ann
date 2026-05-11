@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 119 144	neurodegenerative disease
+T1	PathologicFunction 145 157	pathogenesis
+T2	BiomedicalOccupationOrDiscipline 46 53	biology
+T3	BiologicFunction 46 53	biology
+T4	CellFunction 88 106	cellular processes
+T5	ResearchActivity 28 42	model organism
+T6	Organism 0 24	Saccharomyces cerevisiae

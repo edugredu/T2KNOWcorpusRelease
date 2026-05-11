@@ -1,0 +1,119 @@
+T0	HealthCareActivity 11 15	Diet
+T1	Finding 47 55	reducing
+T2	Finding 170 206	Mediterranean-style dietary patterns
+T3	HealthCareActivity 265 269	diet
+T4	Finding 389 405	dietary patterns
+T5	ResearchActivity 721 726	t-tau
+T6	HealthCareActivity 770 782	investigated
+T7	Finding 784 798	Dietary intake
+T8	ResearchActivity 851 867	dietary patterns
+T9	Finding 984 1016	high-protein and alcohol pattern
+T10	Finding 1131 1140	dependent
+T11	ResearchActivity 1221 1240	dependent variables
+T12	ClinicalAttribute 1325 1328	BMI
+T13	Finding 1331 1348	educational level
+T14	BiologicFunction 1354 1371	physical activity
+T15	Finding 1700 1716	dietary patterns
+T16	HealthCareActivity 2050 2054	diet
+T17	PathologicFunction 1419 1432	tau pathology
+T18	PathologicFunction 1533 1546	tau pathology
+T19	AminoAcidPeptideOrProtein 670 682	amyloid beta
+T20	Finding 2012 2022	increasing
+T21	ResearchActivity 523 575	population-based Gothenburg H70 Birth Cohort Studies
+T22	TemporalConcept 1186 1196	continuous
+T23	Finding 2127 2141	dietary intake
+T24	ClinicalAttribute 1308 1323	body mass index
+T25	Finding 94 124	Western-style dietary patterns
+T26	ResearchActivity 859 867	patterns
+T27	TemporalConcept 2085 2091	future
+T28	ResearchActivity 1460 1479	confidence interval
+T29	ResearchActivity 496 500	Data
+T30	ResearchActivity 834 840	method
+T31	HealthCareActivity 834 840	method
+T32	AminoAcidPeptideOrProtein 716 719	tau
+T33	AminoAcidPeptideOrProtein 723 726	tau
+T34	AminoAcidPeptideOrProtein 748 751	tau
+T35	AminoAcidPeptideOrProtein 755 758	tau
+T36	AminoAcidPeptideOrProtein 1419 1422	tau
+T37	AminoAcidPeptideOrProtein 1533 1536	tau
+T38	DiseaseOrSyndrome 68 87	Alzheimer's disease
+T39	ClinicalAttribute 285 295	biomarkers
+T40	ClinicalAttribute 436 446	biomarkers
+T41	ClinicalAttribute 1725 1735	biomarkers
+T42	ClinicalAttribute 1934 1944	biomarkers
+T43	BodyPartOrganOrOrganComponent 431 434	CSF
+T44	BodyPartOrganOrOrganComponent 665 668	CSF
+T45	BodyPartOrganOrOrganComponent 1095 1098	CSF
+T46	BodyPartOrganOrOrganComponent 1197 1200	CSF
+T47	BodyPartOrganOrOrganComponent 1721 1724	CSF
+T48	PathologicFunction 1109 1118	pathology
+T49	BiomedicalOccupationOrDiscipline 1109 1118	pathology
+T50	TemporalConcept 1964 1969	phase
+T51	ResearchActivity 1379 1386	Results
+T52	AminoAcidPeptideOrProtein 670 677	amyloid
+T53	BiologicallyActiveSubstance 670 677	amyloid
+T54	BiologicallyActiveSubstance 716 719	tau
+T55	BiologicallyActiveSubstance 723 726	tau
+T56	BiologicallyActiveSubstance 748 751	tau
+T57	BiologicallyActiveSubstance 755 758	tau
+T58	BiologicallyActiveSubstance 1419 1422	tau
+T59	BiologicallyActiveSubstance 1533 1536	tau
+T60	ResearchActivity 321 328	studies
+T61	DiseaseOrSyndrome 89 91	AD
+T62	DiseaseOrSyndrome 274 276	AD
+T63	DiseaseOrSyndrome 451 453	AD
+T64	DiseaseOrSyndrome 1931 1933	AD
+T65	DiseaseOrSyndrome 1973 1975	AD
+T66	DiseaseOrSyndrome 2060 2062	AD
+T67	DiseaseOrSyndrome 2157 2159	AD
+T68	ClinicalAttribute 1099 1108	biomarker
+T69	ClinicalAttribute 1201 1210	biomarker
+T70	DiseaseOrSyndrome 460 468	dementia
+T71	DiseaseOrSyndrome 600 608	dementia
+T72	PopulationGroup 480 486	adults
+T73	ResearchActivity 1062 1088	Logistic regression models
+T74	ResearchActivity 1794 1800	models
+T75	DiseaseOrSyndrome 1503 1517	preclinical AD
+T76	TemporalConcept 474 479	older
+T77	TemporalConcept 617 621	year
+T78	BodyPartOrganOrOrganComponent 410 429	cerebrospinal fluid
+T79	BodyPartOrganOrOrganComponent 644 663	cerebrospinal fluid
+T80	ResearchActivity 760 764	data
+T81	AminoAcidPeptideOrProtein 733 751	phosphorylated tau
+T82	Finding 826 833	history
+T83	BiologicallyActiveSubstance 733 751	phosphorylated tau
+T84	OrganismAttribute 1288 1291	sex
+T85	PopulationGroup 523 533	population
+T86	ResearchActivity 2092 2112	intervention studies
+T87	Substance 424 429	fluid
+T88	Substance 658 663	fluid
+T89	ResearchActivity 904 912	analysis
+T90	AminoAcidPeptideOrProtein 684 690	A beta
+T91	AminoAcidPeptideOrProtein 698 704	A beta
+T92	AminoAcidPeptideOrProtein 1519 1525	A beta
+T93	PopulationGroup 474 486	older adults
+T94	BodyPartOrganOrOrganComponent 1308 1312	body
+T95	AminoAcidPeptideOrProtein 710 719	total tau
+T96	AminoAcidPeptideOrProtein 1413 1422	total tau
+T97	BiologicallyActiveSubstance 710 719	total tau
+T98	BiologicallyActiveSubstance 1413 1422	total tau
+T99	AminoAcidPeptideOrProtein 753 758	p-tau
+T100	BiologicallyActiveSubstance 753 758	p-tau
+T101	ResearchActivity 1156 1180	linear regression models
+T102	Finding 2033 2041	evidence
+T103	ResearchActivity 1261 1269	analyses
+T104	AminoAcidPeptideOrProtein 698 707	A beta 40
+T105	AminoAcidPeptideOrProtein 684 693	A beta 42
+T106	AminoAcidPeptideOrProtein 1519 1528	A beta 42
+T107	BiologicallyActiveSubstance 698 707	A beta 40
+T108	BiologicallyActiveSubstance 684 693	A beta 42
+T109	BiologicallyActiveSubstance 1519 1528	A beta 42
+T110	Finding 916 939	Western dietary pattern
+T111	Finding 943 980	Mediterranean/prudent dietary pattern
+T112	Finding 1024 1060	high-total and saturated fat pattern
+T113	ResearchActivity 1131 1150	dependent variables
+T114	ClinicalAttribute 1293 1306	energy intake
+T115	ClinicalAttribute 1354 1377	physical activity level
+T116	ResearchActivity 1434 1444	odds ratio
+T117	Finding 1630 1653	Western dietary pattern
+T118	Finding 1861 1884	Western dietary pattern

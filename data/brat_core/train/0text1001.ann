@@ -1,0 +1,26 @@
+T0	HealthCareActivity 241 256	early diagnosis
+T1	CellComponent 336 358	extracellular vesicles
+T2	CellComponent 434 456	extracellular vesicles
+T3	ResearchActivity 685 691	review
+T4	HealthCareActivity 685 691	review
+T5	TemporalConcept 726 732	recent
+T6	TemporalConcept 108 113	onset
+T7	PatientOrDisabledGroup 212 219	patient
+T8	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T9	DiseaseOrSyndrome 170 189	Alzheimer's disease
+T10	DiseaseOrSyndrome 659 678	Alzheimer's disease
+T11	SignOrSymptom 117 135	cognitive symptoms
+T12	DiseaseOrSyndrome 47 73	neurodegenerative disorder
+T13	ClinicalAttribute 155 165	biomarkers
+T14	ClinicalAttribute 322 332	biomarkers
+T15	HealthCareActivity 262 280	disease monitoring
+T16	TemporalConcept 91 96	years
+T17	HealthCareActivity 472 501	novel biological therapeutics
+T18	HealthCareActivity 634 654	treatment strategies
+T19	PharmacologicSubstance 562 579	therapeutic cargo
+T20	ResearchActivity 220 239	risk stratification
+T21	HealthCareActivity 296 303	therapy
+T22	Finding 371 382	sensitivity
+T23	Finding 387 398	specificity
+T24	Finding 608 623	huge unmet need
+T25	Finding 525 536	efficiently

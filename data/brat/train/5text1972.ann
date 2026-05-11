@@ -1,0 +1,9 @@
+T0	DiseaseOrSyndrome 26 53	neurodegenerative disorders
+T1	Finding 68 80	disturbances
+T2	TemporalConcept 126 130	rate
+T3	BodyPartOrganOrOrganComponent 120 125	heart
+T4	Finding 58 64	result
+T5	BiologicFunction 136 150	blood pressure
+T6	AnatomicalAbnormality 0 22	Brain stem compression
+T7	BiologicFunction 109 118	breathing
+T8	BiologicFunction 136 161	blood pressure regulation

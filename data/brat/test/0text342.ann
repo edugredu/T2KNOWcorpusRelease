@@ -1,0 +1,70 @@
+T0	HealthCareActivity 0 26	Retinal imaging technology
+T1	Finding 256 270	non-invasively
+T2	ResearchActivity 374 386	Technologies
+T3	DiseaseOrSyndrome 471 486	retinal disease
+T4	HealthCareActivity 539 558	clinical management
+T5	EmbryonicStructure 626 646	embryological origin
+T6	HealthCareActivity 762 788	retinal imaging technology
+T7	HealthCareActivity 817 824	monitor
+T8	ManufacturedObject 817 824	monitor
+T9	Finding 948 960	availability
+T10	HealthCareActivity 999 1017	fundus photography
+T11	HealthCareActivity 1037 1050	brain imaging
+T12	HealthCareActivity 1209 1224	retinal imaging
+T13	PopulationGroup 1472 1478	reader
+T14	ResearchActivity 1635 1648	methodologies
+T15	CellComponent 1845 1854	Autosomal
+T16	DiseaseOrSyndrome 1888 1924	cerebrovascular small vessel disease
+T17	HealthCareActivity 1951 1966	retinal imaging
+T18	DiseaseOrSyndrome 2020 2043	cerebrovascular disease
+T19	ResearchActivity 1523 1539	clinical studies
+T20	HealthCareActivity 1100 1128	positron emission tomography
+T21	ResearchActivity 1285 1295	literature
+T22	ResearchActivity 1150 1157	article
+T23	BiologicFunction 454 467	understanding
+T24	BodyPartOrganOrOrganComponent 570 576	retina
+T25	Cell 570 576	retina
+T26	CellOrMolecularDysfunction 2074 2099	neurodegenerative process
+T27	Eukaryote 180 186	humans
+T28	DiseaseOrSyndrome 1762 1781	Alzheimer's Disease
+T29	DiseaseOrSyndrome 1864 1883	Alzheimer's Disease
+T30	DiseaseOrSyndrome 1783 1802	Parkinson's Disease
+T31	TemporalConcept 1742 1750	sporadic
+T32	Finding 524 532	improved
+T33	TemporalConcept 1751 1761	late onset
+T34	TemporalConcept 1993 2002	currently
+T35	TemporalConcept 2230 2237	ongoing
+T36	HealthCareActivity 1070 1096	magnetic resonance imaging
+T37	HealthCareActivity 964 979	retinal imaging
+T38	HealthCareActivity 1426 1441	retinal imaging
+T39	HealthCareActivity 1619 1634	retinal imaging
+T40	HealthCareActivity 395 423	optical coherence tomography
+T41	HealthCareActivity 1021 1024	OCT
+T42	BodyPartOrganOrOrganComponent 162 176	retinal tissue
+T43	BodyPartOrganOrOrganComponent 471 478	retinal
+T44	BodyPartOrganOrOrganComponent 964 971	retinal
+T45	DiseaseOrSyndrome 1807 1827	Huntington's Disease
+T46	BodyPartOrganOrOrganComponent 600 605	brain
+T47	Finding 69 79	increasing
+T48	BodyPartOrganOrOrganComponent 656 678	central nervous system
+T49	HealthCareActivity 1328 1338	challenges
+T50	BiologicFunction 2199 2208	attention
+T51	TemporalConcept 1343 1349	future
+T52	ResearchActivity 187 194	in vivo
+T53	DiseaseOrSyndrome 825 846	neurological diseases
+T54	ResearchActivity 1985 1989	data
+T55	DiseaseOrSyndrome 1670 1696	neurodegenerative diseases
+T56	TemporalConcept 1186 1193	current
+T57	DiseaseOrSyndrome 1228 1253	neurodegenerative disease
+T58	DiseaseOrSyndrome 2144 2169	neurodegenerative disease
+T59	ResearchActivity 1164 1170	review
+T60	ResearchActivity 1581 1587	review
+T61	HealthCareActivity 1164 1170	review
+T62	HealthCareActivity 1581 1587	review
+T63	ResearchActivity 1194 1202	research
+T64	HealthCareRelatedOrganization 295 323	Food and Drug Administration
+T65	ManufacturedObject 333 340	devices
+T66	Finding 894 917	high spatial resolution
+T67	Finding 930 938	low-cost
+T68	CellFunction 1855 1863	Dominant
+T69	Finding 2291 2305;2321 2326	unmet clinical needs

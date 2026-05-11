@@ -1,0 +1,103 @@
+T0	BiologicallyActiveSubstance 27 37	inhibitory
+T1	CellComponent 446 459	neuronal cell
+T2	HealthCareActivity 1556 1568	manipulating
+T3	NucleicAcidNucleosideOrNucleotide 1428 1435	miR-132
+T4	BiologicallyActiveSubstance 1428 1435	miR-132
+T5	NucleicAcidNucleosideOrNucleotide 1277 1285	microRNA
+T6	BiologicallyActiveSubstance 1277 1285	microRNA
+T7	AminoAcidPeptideOrProtein 1044 1048	GABA
+T8	AminoAcidPeptideOrProtein 1113 1117	GABA
+T9	AminoAcidPeptideOrProtein 1338 1342	GABA
+T10	AminoAcidPeptideOrProtein 1402 1406	GABA
+T11	PharmacologicSubstance 1044 1048	GABA
+T12	PharmacologicSubstance 1402 1406	GABA
+T13	BiologicallyActiveSubstance 710 726	neurotransmitter
+T14	BiologicallyActiveSubstance 868 884	neurotransmitter
+T15	PathologicFunction 363 377	excitotoxicity
+T16	PathologicFunction 196 236	Excitatory to inhibitory (E/I) imbalance
+T17	ResearchActivity 96 104	patterns
+T18	CellComponent 657 666	small EVs
+T19	InjuryOrPoisoning 784 792	toxicity
+T20	InjuryOrPoisoning 922 930	toxicity
+T21	InjuryOrPoisoning 1059 1067	toxicity
+T22	InjuryOrPoisoning 1238 1246	toxicity
+T23	PopulationGroup 158 168	individual
+T24	OrganismAttribute 158 168	individual
+T25	CellComponent 496 518	extracellular vesicles
+T26	DiseaseOrSyndrome 327 346	Alzheimer's disease
+T27	CellComponent 520 523	EVs
+T28	CellComponent 663 666	EVs
+T29	DiseaseOrSyndrome 348 350	AD
+T30	DiseaseOrSyndrome 486 488	AD
+T31	DiseaseOrSyndrome 1678 1680	AD
+T32	DiseaseOrSyndrome 1718 1720	AD
+T33	Cell 382 398	GABAergic neuron
+T34	Cell 642 648	neuron
+T35	ResearchActivity 810 815	study
+T36	PathologicFunction 274 285	progression
+T37	TemporalConcept 274 285	progression
+T38	Cell 598 603	cells
+T39	CellFunction 582 589	signals
+T40	Cell 446 454	neuronal
+T41	DiseaseOrSyndrome 289 315	neurodegenerative diseases
+T42	HealthCareActivity 1721 1730	treatment
+T43	ResearchActivity 1721 1730	treatment
+T44	NucleicAcidNucleosideOrNucleotide 1287 1292	miRNA
+T45	BiologicallyActiveSubstance 1287 1292	miRNA
+T46	ResearchActivity 1080 1088	in vitro
+T47	AminoAcidPeptideOrProtein 762 774	amyloid beta
+T48	PathologicFunction 1662 1674	pathogenesis
+T49	AminoAcidPeptideOrProtein 776 782	A beta
+T50	AminoAcidPeptideOrProtein 907 913	A beta
+T51	AminoAcidPeptideOrProtein 1052 1058	A beta
+T52	AminoAcidPeptideOrProtein 1145 1151	A beta
+T53	AminoAcidPeptideOrProtein 1231 1237	A beta
+T54	AminoAcidPeptideOrProtein 1521 1527	A beta
+T55	BiologicFunction 460 465	death
+T56	PathologicFunction 460 465	death
+T57	CellFunction 460 465	death
+T58	AminoAcidPeptideOrProtein 762 769	amyloid
+T59	BiologicallyActiveSubstance 762 769	amyloid
+T60	Cell 169 176	neurons
+T61	Cell 796 803	neurons
+T62	Cell 896 903	neurons
+T63	Cell 1009 1016	neurons
+T64	Cell 1126 1133	neurons
+T65	Cell 1212 1219	neurons
+T66	Cell 1355 1362	neurons
+T67	ResearchActivity 1068 1075	in vivo
+T68	Finding 700 706	status
+T69	CellFunction 455 465	cell death
+T70	AminoAcidPeptideOrProtein 1031 1040	glutamate
+T71	AminoAcidPeptideOrProtein 1194 1203	glutamate
+T72	AminoAcidPeptideOrProtein 1328 1337	glutamate
+T73	AminoAcidPeptideOrProtein 1388 1397	glutamate
+T74	BiologicallyActiveSubstance 1031 1040	glutamate
+T75	BiologicallyActiveSubstance 1194 1203	glutamate
+T76	BiologicallyActiveSubstance 1328 1337	glutamate
+T77	BiologicallyActiveSubstance 1388 1397	glutamate
+T78	Finding 836 843	effects
+T79	Finding 961 968	effects
+T80	Cell 1489 1504	recipient cells
+T81	PathologicFunction 399 410	dysfunction
+T82	CellFunction 446 465	neuronal cell death
+T83	CellComponent 668 672	sEVs
+T84	CellComponent 744 748	sEVs
+T85	CellComponent 847 851	sEVs
+T86	CellComponent 990 994	sEVs
+T87	CellComponent 1094 1098	sEVs
+T88	CellComponent 1309 1313	sEVs
+T89	CellComponent 1446 1450	sEVs
+T90	CellComponent 1585 1589	sEVs
+T91	BodyPartOrganOrOrganComponent 181 194	brain regions
+T92	CellFunction 115 123	networks
+T93	BiologicallyActiveSubstance 38 55	neurotransmitters
+T94	BiologicallyActiveSubstance 1603 1620	neurotransmitters
+T95	AminoAcidPeptideOrProtein 38 55	neurotransmitters
+T96	PharmacologicSubstance 1338 1342	GABA
+T97	Chemical 1343 1346	PBS
+T98	PharmacologicSubstance 1113 1117	GABA
+T99	AminoAcidPeptideOrProtein 353 362	Glutamate
+T100	BiologicallyActiveSubstance 353 362	Glutamate
+T101	CellOrMolecularDysfunction 382 410	GABAergic neuron dysfunction
+T102	InjuryOrPoisoning 1160 1166	damage

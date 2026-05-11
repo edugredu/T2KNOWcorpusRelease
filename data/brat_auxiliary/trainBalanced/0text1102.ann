@@ -1,0 +1,132 @@
+T0	DiseaseOrSyndrome 63 76	breast cancer
+T1	Chemical 210 231	27-hydroxycholesterol
+T2	AminoAcidPeptideOrProtein 348 365	estrogen receptor
+T3	CellFunction 456 462	ligand
+T4	Cell 630 659	polymorphonuclear neutrophils
+T5	DiseaseOrSyndrome 703 718	lung metastasis
+T6	DiseaseOrSyndrome 807 820	breast cancer
+T7	DiseaseOrSyndrome 1271 1285	mammary cancer
+T8	ResearchActivity 1293 1312	Label-free analysis
+T9	BiologicallyActiveSubstance 1361 1371	metabolite
+T10	DiseaseOrSyndrome 1470 1475	tumor
+T11	DiseaseOrSyndrome 1487 1497	metastasis
+T12	DiseaseOrSyndrome 1606 1619	breast cancer
+T13	Cell 1652 1664	cancer cells
+T14	Cell 1697 1704	T cells
+T15	Cell 1747 1759	cancer cells
+T16	DiseaseOrSyndrome 1891 1897	tumors
+T17	DiseaseOrSyndrome 2035 2040	tumor
+T18	DiseaseOrSyndrome 2188 2201	breast cancer
+T19	DiseaseOrSyndrome 2448 2461	breast cancer
+T20	DiseaseOrSyndrome 2466 2486	hypercholesterolemia
+T21	Chemical 0 11	Cholesterol
+T22	BiologicallyActiveSubstance 0 11	Cholesterol
+T23	TemporalConcept 39 59	clinical progression
+T24	CellFunction 1730 1743	proliferation
+T25	Cell 617 628	neutrophils
+T26	AminoAcidPeptideOrProtein 451 454	LXR
+T27	BiologicallyActiveSubstance 433 449	liver X receptor
+T28	Cell 1666 1677	macrophages
+T29	AminoAcidPeptideOrProtein 433 449	liver X receptor
+T30	BiologicallyActiveSubstance 451 454	LXR
+T31	MolecularSequence 1961 1975	transcriptomes
+T32	Cell 598 611	myeloid cells
+T33	Cell 1841 1854	myeloid cells
+T34	Finding 855 862	finding
+T35	Chemical 187 198	cholesterol
+T36	Chemical 277 288	cholesterol
+T37	Chemical 2308 2319	cholesterol
+T38	BiologicallyActiveSubstance 187 198	cholesterol
+T39	BiologicallyActiveSubstance 277 288	cholesterol
+T40	BiologicallyActiveSubstance 2308 2319	cholesterol
+T41	CellComponent 953 977	membrane bound particles
+T42	BiologicFunction 305 311	growth
+T43	BiologicFunction 396 402	growth
+T44	BiologicFunction 1476 1482	growth
+T45	BiologicFunction 2059 2065	growth
+T46	Cell 466 486	myeloid immune cells
+T47	BodyPartOrganOrOrganComponent 703 707	lung
+T48	CellComponent 899 921	extracellular vesicles
+T49	CellComponent 923 926	EVs
+T50	CellComponent 1016 1019	EVs
+T51	CellComponent 1081 1084	EVs
+T52	CellComponent 1321 1324	EVs
+T53	CellComponent 1439 1442	EVs
+T54	CellComponent 1580 1583	EVs
+T55	CellComponent 1621 1624	EVs
+T56	CellComponent 1712 1715	EVs
+T57	CellComponent 2013 2016	EVs
+T58	CellComponent 2176 2179	EVs
+T59	CellComponent 1143 1145	EV
+T60	CellComponent 1908 1910	EV
+T61	ResearchActivity 1871 1887	RNA-seq analysis
+T62	PathologicFunction 316 327	progression
+T63	PathologicFunction 821 832	progression
+T64	PathologicFunction 1591 1602	progression
+T65	PathologicFunction 2202 2213	progression
+T66	TemporalConcept 316 327	progression
+T67	TemporalConcept 821 832	progression
+T68	TemporalConcept 1591 1602	progression
+T69	TemporalConcept 2202 2213	progression
+T70	Cell 1107 1112	cells
+T71	Cell 1230 1254	RAW264.7 monocytic cells
+T72	Cell 1414 1419	cells
+T73	Eukaryote 1919 1923	mice
+T74	ResearchActivity 729 735	models
+T75	ResearchActivity 1513 1529	syngeneic models
+T76	CellFunction 886 895	secretion
+T77	Eukaryote 722 728	murine
+T78	Eukaryote 1217 1223	murine
+T79	Eukaryote 1264 1270	murine
+T80	BiologicFunction 886 895	secretion
+T81	TemporalConcept 154 162	Previous
+T82	DiseaseOrSyndrome 137 143	cancer
+T83	DiseaseOrSyndrome 814 820	cancer
+T84	DiseaseOrSyndrome 1652 1658	cancer
+T85	DiseaseOrSyndrome 1747 1753	cancer
+T86	PopulationGroup 147 152	women
+T87	PathologicFunction 2379 2398	disease progression
+T88	OrganismAttribute 1026 1030	size
+T89	OrganismAttribute 1160 1164	size
+T90	Chemical 968 977	particles
+T91	CellFunction 1143 1155	EV secretion
+T92	CellFunction 2148 2160	EV secretion
+T93	CellFunction 2261 2273	EV secretion
+T94	Finding 266 273	effects
+T95	Finding 1794 1801	effects
+T96	Finding 1997 2004	effects
+T97	Finding 2359 2366	effects
+T98	HealthCareActivity 127 136	diagnosed
+T99	Finding 586 594	presence
+T100	Finding 1823 1835	interactions
+T101	ResearchActivity 2242 2246	data
+T102	CellComponent 992 1000	exosomes
+T103	BiologicallyActiveSubstance 348 365	estrogen receptor
+T104	BiologicFunction 743 749	effort
+T105	Finding 743 749	effort
+T106	BiologicallyActiveSubstance 371 380	modulator
+T107	BiologicallyActiveSubstance 199 209	metabolite
+T108	Chemical 233 237	27HC
+T109	DiseaseOrSyndrome 292 304	breast tumor
+T110	Chemical 329 333	27HC
+T111	DiseaseOrSyndrome 416 422	tumors
+T112	Finding 503 529	immune-suppressive program
+T113	Chemical 569 573	27HC
+T114	PathologicFunction 544 565	metastatic properties
+T115	Cell 661 665	PMNs
+T116	Chemical 795 799	27HC
+T117	Chemical 868 872	27HC
+T118	Cell 1224 1228	PMNs
+T119	Cell 1209 1228	primary murine PMNs
+T120	Cell 1260 1291	4T1 murine mammary cancer cells
+T121	Chemical 1316 1320	27HC
+T122	Chemical 1434 1438	27HC
+T123	Cell 1448 1460	primary PMNs
+T124	Chemical 1567 1571	27HC
+T125	Cell 1630 1634	PMNs
+T126	Cell 1683 1687	PMNs
+T127	PathologicFunction 1785 1801	protumor effects
+T128	Chemical 1903 1907	27HC
+T129	Chemical 2008 2012	27HC
+T130	Chemical 2133 2137	27HC
+T131	BiologicallyActiveSubstance 2320 2330	metabolite

@@ -1,0 +1,11 @@
+T0	DiseaseOrSyndrome 146 173	neurodegenerative disorders
+T1	BodyPartOrganOrOrganComponent 186 200	gut-brain axis
+T2	Organism 65 69	host
+T3	Bacterium 70 78	bacteria
+T4	Finding 79 91	interactions
+T5	PharmacologicSubstance 50 61	medications
+T6	Finding 95 103	critical
+T7	NaturalPhenomenonOrProcess 65 91	host-bacteria interactions
+T8	PharmacologicSubstance 28 39	antibiotics
+T9	TemporalConcept 131 142	progression
+T10	PathologicFunction 131 142	progression

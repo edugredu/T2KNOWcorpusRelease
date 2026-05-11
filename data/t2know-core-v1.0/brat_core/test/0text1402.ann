@@ -1,0 +1,67 @@
+T0	DiseaseOrSyndrome 14 32	Multiple Sclerosis
+T1	PathologicFunction 66 87	sensory function loss
+T2	AminoAcidPeptideOrProtein 151 171	Myelin Basic Protein
+T3	GeneOrGenome 151 171	Myelin Basic Protein
+T4	BodyPartOrganOrOrganComponent 258 263	serum
+T5	ResearchActivity 354 372	case-control Study
+T6	PopulationGroup 401 406	women
+T7	BodyPartOrganOrOrganComponent 532 537	serum
+T8	BodyPartOrganOrOrganComponent 631 636	serum
+T9	BodyPartOrganOrOrganComponent 709 714	serum
+T10	BodyPartOrganOrOrganComponent 916 921	serum
+T11	BodyPartOrganOrOrganComponent 971 976	Serum
+T12	ResearchActivity 828 836	analysis
+T13	ClinicalAttribute 1043 1062	potential biomarker
+T14	OrganismAttribute 393 400	healthy
+T15	DiseaseOrSyndrome 34 36	MS
+T16	DiseaseOrSyndrome 339 341	MS
+T17	DiseaseOrSyndrome 425 447	relapsing-remitting MS
+T18	DiseaseOrSyndrome 662 664	MS
+T19	DiseaseOrSyndrome 899 901	MS
+T20	DiseaseOrSyndrome 1013 1015	MS
+T21	DiseaseOrSyndrome 1066 1068	MS
+T22	ManufacturedObject 354 358	case
+T23	PopulationGroup 949 957	controls
+T24	PatientOrDisabledGroup 448 456	patients
+T25	PatientOrDisabledGroup 665 673	patients
+T26	PatientOrDisabledGroup 902 910	patients
+T27	BodyPartOrganOrOrganComponent 294 300	saliva
+T28	BodyPartOrganOrOrganComponent 576 582	saliva
+T29	BodyPartOrganOrOrganComponent 652 658	saliva
+T30	BodyPartOrganOrOrganComponent 776 782	saliva
+T31	BodyPartOrganOrOrganComponent 937 943	saliva
+T32	BodyPartOrganOrOrganComponent 981 987	saliva
+T33	CellFunction 601 610	expressed
+T34	PathologicFunction 105 118	demyelination
+T35	BodyPartOrganOrOrganComponent 212 224	myelin cover
+T36	CellComponent 212 224	myelin cover
+T37	AminoAcidPeptideOrProtein 173 176	MBP
+T38	AminoAcidPeptideOrProtein 251 254	MBP
+T39	AminoAcidPeptideOrProtein 507 510	MBP
+T40	AminoAcidPeptideOrProtein 593 596	MBP
+T41	AminoAcidPeptideOrProtein 715 718	MBP
+T42	AminoAcidPeptideOrProtein 879 882	MBP
+T43	AminoAcidPeptideOrProtein 997 1000	MBP
+T44	BiologicallyActiveSubstance 173 176	MBP
+T45	BiologicallyActiveSubstance 251 254	MBP
+T46	BiologicallyActiveSubstance 507 510	MBP
+T47	BiologicallyActiveSubstance 593 596	MBP
+T48	BiologicallyActiveSubstance 715 718	MBP
+T49	BiologicallyActiveSubstance 879 882	MBP
+T50	BiologicallyActiveSubstance 997 1000	MBP
+T51	GeneOrGenome 173 176	MBP
+T52	GeneOrGenome 251 254	MBP
+T53	GeneOrGenome 507 510	MBP
+T54	GeneOrGenome 593 596	MBP
+T55	GeneOrGenome 715 718	MBP
+T56	GeneOrGenome 879 882	MBP
+T57	GeneOrGenome 997 1000	MBP
+T58	ClinicalAttribute 315 324	biomarker
+T59	ClinicalAttribute 1053 1062	biomarker
+T60	InjuryOrPoisoning 133 146	axonal lesion
+T61	BiologicallyActiveSubstance 151 171	Myelin Basic Protein
+T62	HealthCareRelatedOrganization 473 491	Imam Reza hospital
+T63	HealthCareActivity 507 516	MBP level
+T64	PopulationGroup 690 703	control group
+T65	HealthCareActivity 715 724	MBP level
+T66	HealthCareActivity 988 1000	level of MBP

@@ -1,0 +1,82 @@
+T0	BiologicFunction 292 303	remodelling
+T1	CellFunction 292 303	remodelling
+T2	AminoAcidPeptideOrProtein 626 636	fibrinogen
+T3	PharmacologicSubstance 626 636	fibrinogen
+T4	BiologicallyActiveSubstance 626 636	fibrinogen
+T5	AminoAcidPeptideOrProtein 640 664	blood coagulation factor
+T6	PharmacologicSubstance 640 664	blood coagulation factor
+T7	BiologicFunction 640 664	blood coagulation factor
+T8	HealthCareActivity 733 739	screen
+T9	ResearchActivity 733 739	screen
+T10	Chemical 767 776	compounds
+T11	PharmacologicSubstance 767 776	compounds
+T12	NucleicAcidNucleosideOrNucleotide 782 789	promote
+T13	Finding 811 819	presence
+T14	AminoAcidPeptideOrProtein 947 957	fibrinogen
+T15	PharmacologicSubstance 947 957	fibrinogen
+T16	BiologicallyActiveSubstance 947 957	fibrinogen
+T17	AminoAcidPeptideOrProtein 972 1014	bone morphogenetic protein type I receptor
+T18	GeneOrGenome 972 1014	bone morphogenetic protein type I receptor
+T19	BiologicallyActiveSubstance 1036 1046	inhibitory
+T20	Finding 1184 1193	cell fate
+T21	AminoAcidPeptideOrProtein 1333 1343	fibrinogen
+T22	PharmacologicSubstance 1333 1343	fibrinogen
+T23	BiologicallyActiveSubstance 1333 1343	fibrinogen
+T24	SignOrSymptom 1347 1357	refractory
+T25	CellFunction 1483 1496	remyelinating
+T26	BodyPartOrganOrOrganComponent 972 976	bone
+T27	Finding 1207 1226	therapeutic effects
+T28	Cell 1126 1154	myelinating oligodendrocytes
+T29	InjuryOrPoisoning 53 63	disruption
+T30	PharmacologicSubstance 866 886	promyelinating drugs
+T31	PathologicFunction 330 341	dysfunction
+T32	CellFunction 210 223	remyelination
+T33	CellFunction 593 606	remyelination
+T34	CellFunction 790 803	remyelination
+T35	CellFunction 930 943	remyelination
+T36	Cell 1283 1313	oligodendrocyte precursor cell
+T37	Cell 741 744	OPC
+T38	AminoAcidPeptideOrProtein 972 998	bone morphogenetic protein
+T39	AminoAcidPeptideOrProtein 1425 1451	bone morphogenetic protein
+T40	BiologicallyActiveSubstance 972 998	bone morphogenetic protein
+T41	BiologicallyActiveSubstance 1425 1451	bone morphogenetic protein
+T42	PharmacologicSubstance 1015 1023	blockade
+T43	PharmacologicSubstance 1409 1417	blockade
+T44	HealthCareActivity 1015 1023	blockade
+T45	HealthCareActivity 1409 1417	blockade
+T46	ResearchActivity 424 443	electron microscopy
+T47	Cell 1174 1183	astrocyte
+T48	Cell 516 547	oligodendrocyte precursor cells
+T50	CellOrMolecularDysfunction 103 124	remyelination failure
+T51	DiseaseOrSyndrome 128 149	neurological diseases
+T52	Cell 269 291	glial progenitor niche
+T53	BiomedicalOccupationOrDiscipline 448 463	transcriptomics
+T54	BiologicallyActiveSubstance 1006 1014	receptor
+T55	PathologicFunction 475 492	neuroinflammatory
+T56	PathologicFunction 1544 1561	neuroinflammatory
+T57	CellFunction 1452 1470	signalling pathway
+T58	CellFunction 196 206	inhibition
+T59	CellFunction 916 926	inhibition
+T60	CellFunction 1530 1540	inhibition
+T61	HealthCareActivity 160 169	therapies
+T62	DiseaseOrSyndrome 689 707	multiple sclerosis
+T63	DiseaseOrSyndrome 1248 1266	multiple sclerosis
+T64	TemporalConcept 467 474	chronic
+T65	TemporalConcept 1230 1237	chronic
+T66	InjuryOrPoisoning 493 500	lesions
+T67	InjuryOrPoisoning 708 715	lesions
+T68	InjuryOrPoisoning 1562 1569	lesions
+T69	HealthCareActivity 386 404	two-photon imaging
+T70	BodyPartOrganOrOrganComponent 33 52	blood-brain barrier
+T71	CellFunction 1314 1329	differentiation
+T72	NaturalPhenomenonOrProcess 257 265	dynamics
+T73	BodyPartOrganOrOrganComponent 1575 1583	vascular
+T74	ResearchActivity 1238 1244	models
+T75	PharmacologicSubstance 1047 1057	fibrinogen
+T76	AminoAcidPeptideOrProtein 1047 1057	fibrinogen
+T77	BiologicallyActiveSubstance 1047 1057	fibrinogen
+T78	PharmacologicSubstance 1367 1391	promyelinating compounds
+T79	Finding 1497 1505	efficacy
+T80	BodyPartOrganOrOrganComponent 68 81	neurovascular
+T81	BodyPartOrganOrOrganComponent 316 329	neurovascular
+T82	Cell 1081 1112	promyelinating progenitor niche

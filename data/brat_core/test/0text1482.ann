@@ -1,0 +1,63 @@
+T0	BiologicallyActiveSubstance 13 32	Neurofilament light
+T1	AminoAcidPeptideOrProtein 13 32	Neurofilament light
+T2	AminoAcidPeptideOrProtein 40 66	chitinase-3-like protein 1
+T3	BiologicallyActiveSubstance 40 66	chitinase-3-like protein 1
+T4	AminoAcidPeptideOrProtein 81 92	neurogranin
+T5	BiologicallyActiveSubstance 81 92	neurogranin
+T6	ResearchActivity 253 284	genome-wide association studies
+T7	GeneOrGenome 694 702	TMEM106B
+T8	GeneOrGenome 738 742	CPOX
+T9	GeneOrGenome 846 852	CHI3L1
+T10	AminoAcidPeptideOrProtein 846 852	CHI3L1
+T11	ResearchActivity 471 490	validation analyses
+T12	ResearchActivity 286 290	GWAS
+T13	ResearchActivity 492 496	GWAS
+T14	Cell 168 178	astroglial
+T15	NucleicAcidNucleosideOrNucleotide 298 301	DNA
+T16	NucleicAcidNucleosideOrNucleotide 678 681	DNA
+T17	NucleicAcidNucleosideOrNucleotide 830 833	DNA
+T18	GeneOrGenome 253 259	genome
+T19	GeneOrGenome 633 639	genome
+T20	DiseaseOrSyndrome 417 436	Alzheimer's Disease
+T21	ResearchActivity 349 393	EMIF-AD Multimodal Biomarker Discovery study
+T22	ResearchActivity 417 466	Alzheimer's Disease Neuroimaging Initiative study
+T23	ResearchActivity 869 874	study
+T24	PathologicFunction 1100 1111	progression
+T25	TemporalConcept 1100 1111	progression
+T26	CellOrMolecularDysfunction 195 216	synaptic degeneration
+T27	ResearchActivity 398 407	discovery
+T28	DiseaseOrSyndrome 117 136	Alzheimer's disease
+T29	ClinicalAttribute 102 112	biomarkers
+T30	ClinicalAttribute 530 540	biomarkers
+T31	ClinicalAttribute 998 1008	biomarkers
+T32	DiseaseOrSyndrome 138 140	AD
+T33	DiseaseOrSyndrome 354 356	AD
+T34	DiseaseOrSyndrome 983 985	AD
+T35	DiseaseOrSyndrome 1155 1157	AD
+T36	ResearchActivity 1029 1033	data
+T37	BodyPartOrganOrOrganComponent 327 330	CSF
+T38	BodyPartOrganOrOrganComponent 526 529	CSF
+T39	BodyPartOrganOrOrganComponent 707 710	CSF
+T40	BodyPartOrganOrOrganComponent 994 997	CSF
+T41	BiologicallyActiveSubstance 34 37	NfL
+T42	BiologicallyActiveSubstance 721 724	NfL
+T43	AminoAcidPeptideOrProtein 34 37	NfL
+T44	AminoAcidPeptideOrProtein 721 724	NfL
+T45	Substance 320 325	fluid
+T46	ResearchActivity 607 614	Results
+T47	BodyPartOrganOrOrganComponent 306 325	cerebrospinal fluid
+T48	TemporalConcept 1085 1095	initiation
+T49	ResearchActivity 547 571	linear regression models
+T50	AminoAcidPeptideOrProtein 68 74	YKL-40
+T51	AminoAcidPeptideOrProtein 747 753	YKL-40
+T52	AminoAcidPeptideOrProtein 796 802	YKL-40
+T53	BiologicallyActiveSubstance 68 74	YKL-40
+T54	BiologicallyActiveSubstance 747 753	YKL-40
+T55	BiologicallyActiveSubstance 796 802	YKL-40
+T56	AminoAcidPeptideOrProtein 94 96	Ng
+T57	BiologicallyActiveSubstance 94 96	Ng
+T58	CellFunction 168 189	astroglial activation
+T59	CellOrMolecularDysfunction 153 166	axonal damage
+T60	PathologicFunction 1115 1142	neuropathological processes
+T61	AminoAcidPeptideOrProtein 738 742	CPOX
+T62	BiologicallyActiveSubstance 738 742	CPOX

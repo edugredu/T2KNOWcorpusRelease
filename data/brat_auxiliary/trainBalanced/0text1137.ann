@@ -1,0 +1,101 @@
+T0	CellComponent 198 206	Membrane
+T1	Chemical 207 215	ceramide
+T2	BiologicallyActiveSubstance 244 250	enzyme
+T3	AminoAcidPeptideOrProtein 279 286	nSMase2
+T4	BiologicallyActiveSubstance 279 286	nSMase2
+T5	AminoAcidPeptideOrProtein 508 515	nSMase2
+T6	BiologicallyActiveSubstance 508 515	nSMase2
+T7	BiologicFunction 568 584	pharmacokinetics
+T8	ResearchActivity 568 584	pharmacokinetics
+T9	BiologicFunction 586 588	PK
+T10	ResearchActivity 586 588	PK
+T11	BiologicFunction 688 690	PK
+T12	ResearchActivity 688 690	PK
+T13	Chemical 728 752	hydroxyl-PAMAM dendrimer
+T14	InjuryOrPoisoning 812 830	acute brain injury
+T15	AminoAcidPeptideOrProtein 907 911	IL-1
+T16	BiologicallyActiveSubstance 907 911	IL-1
+T17	TemporalConcept 959 968	post-dose
+T18	Virus 1088 1110	adeno-associated virus
+T19	Chemical 1328 1337	dendrimer
+T20	BiologicFunction 1372 1374	PK
+T21	ResearchActivity 1372 1374	PK
+T22	CellOrMolecularDysfunction 1051 1076	mutant hTau (P301L/S320F)
+T23	BiologicFunction 753 761	delivery
+T24	ResearchActivity 651 671	clinical translation
+T25	BodyPartOrganOrOrganComponent 898 906	striatal
+T26	BodyPartOrganOrOrganComponent 1144 1155	hippocampus
+T27	BodyPartOrganOrOrganComponent 1273 1298	contralateral hippocampus
+T28	TemporalConcept 525 532	to date
+T29	NaturalPhenomenonOrProcess 627 636	clearance
+T30	TemporalConcept 812 817	acute
+T31	AminoAcidPeptideOrProtein 907 916	IL-1 beta
+T32	BiologicallyActiveSubstance 907 916	IL-1 beta
+T33	CellFunction 331 341	biogenesis
+T34	BiologicallyActiveSubstance 495 504	inhibitor
+T35	PharmacologicSubstance 495 504	inhibitor
+T36	Chemical 495 504	inhibitor
+T37	TemporalConcept 528 532	date
+T38	AminoAcidPeptideOrProtein 94 117	hyperphosphorylated tau
+T39	AminoAcidPeptideOrProtein 1020 1023	tau
+T40	CellFunction 342 349	pathway
+T41	CellFunction 1412 1422	inhibition
+T42	Finding 61 73	accumulation
+T43	TemporalConcept 361 369	recently
+T44	BodyPartOrganOrOrganComponent 158 163	brain
+T45	BodyPartOrganOrOrganComponent 818 823	brain
+T46	BodyPartOrganOrOrganComponent 1212 1217	brain
+T47	CellComponent 168 190	extracellular vesicles
+T48	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T49	CellComponent 192 195	EVs
+T50	CellComponent 944 947	EVs
+T51	DiseaseOrSyndrome 21 23	AD
+T52	DiseaseOrSyndrome 1548 1550	AD
+T53	BodyPartOrganOrOrganComponent 937 943	plasma
+T54	ResearchActivity 1306 1310	data
+T55	AminoAcidPeptideOrProtein 77 89	amyloid-beta
+T57	CellComponent 328 330	EV
+T58	CellComponent 1426 1428	EV
+T59	Eukaryote 1452 1456	mice
+T60	TemporalConcept 49 60	progressive
+T61	TemporalConcept 959 963	post
+T63	PopulationGroup 355 360	group
+T64	AminoAcidPeptideOrProtein 77 84	amyloid
+T65	BiologicallyActiveSubstance 77 84	amyloid
+T66	BiologicallyActiveSubstance 94 117	hyperphosphorylated tau
+T67	BiologicallyActiveSubstance 1020 1023	tau
+T68	Chemical 779 788	dendrimer
+T69	Chemical 717 722	DPTIP
+T70	Chemical 1458 1467	Dendrimer
+T71	AminoAcidPeptideOrProtein 1486 1491	DPTIP
+T72	AminoAcidPeptideOrProtein 1261 1265	pTau
+T73	BiologicallyActiveSubstance 1261 1265	pTau
+T74	Chemical 1162 1169	D-DPTIP
+T75	Chemical 858 865	D-DPTIP
+T76	Chemical 1353 1358	DPTIP
+T77	Chemical 981 986	DPTIP
+T78	Chemical 381 447	2,6-Dimethoxy-4-(5-Phenyl-4-Thiophen-2-yl-1H-Imidazol-2-yl)-Phenol
+T79	Chemical 449 454	DPTIP
+T80	Chemical 543 548	DPTIP
+T81	BiologicFunction 598 615	brain penetration
+T82	AminoAcidPeptideOrProtein 119 123	pTau
+T83	BiologicallyActiveSubstance 119 123	pTau
+T84	BiologicallyActiveSubstance 207 215	ceramide
+T85	AminoAcidPeptideOrProtein 251 277	neutral sphingomyelinase 2
+T86	BiologicallyActiveSubstance 251 277	neutral sphingomyelinase 2
+T87	BodyPartOrganOrOrganComponent 563 567	oral
+T88	HealthCareActivity 728 768	hydroxyl-PAMAM dendrimer delivery system
+T89	Chemical 796 803	D-DPTIP
+T90	ExperimentalModelOfDisease 812 836	acute brain injury model
+T91	BodyPartOrganOrOrganComponent 838 844	orally
+T92	BodyPartOrganOrOrganComponent 976 980	oral
+T93	ExperimentalModelOfDisease 1014 1041	mouse tau propagation model
+T94	BodyPartOrganOrOrganComponent 1157 1161	oral
+T95	TemporalConcept 1180 1186	weekly
+T96	AminoAcidPeptideOrProtein 1218 1225	nSMase2
+T97	BiologicallyActiveSubstance 1218 1225	nSMase2
+T98	Finding 1338 1349	conjugation
+T99	AminoAcidPeptideOrProtein 1444 1448	pTau
+T100	BiologicallyActiveSubstance 1444 1448	pTau
+T101	HealthCareActivity 1458 1482	Dendrimer-based delivery
+T102	Chemical 789 794	DPTIP

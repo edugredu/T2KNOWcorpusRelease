@@ -1,0 +1,141 @@
+T0	AminoAcidPeptideOrProtein 0 9	Cytokines
+T1	BiologicallyActiveSubstance 0 9	Cytokines
+T2	DiseaseOrSyndrome 29 53	neuroaxonal degeneration
+T3	Chemical 241 256	Phycocyanobilin
+T4	Chemical 258 261	PCB
+T5	Chemical 266 277	chromophore
+T6	AminoAcidPeptideOrProtein 312 316	C-PC
+T7	Bacterium 323 342	Spirulina platensis
+T8	HealthCareActivity 469 497	Disease Modifying Treatments
+T9	AminoAcidPeptideOrProtein 513 528	Interferon-beta
+T10	BiologicallyActiveSubstance 513 528	Interferon-beta
+T11	AminoAcidPeptideOrProtein 530 538	IFN-beta
+T12	BiologicallyActiveSubstance 530 538	IFN-beta
+T13	Chemical 591 594	PCB
+T14	Finding 735 749	Clinical signs
+T15	AminoAcidPeptideOrProtein 884 894	antibodies
+T16	BiologicallyActiveSubstance 884 894	antibodies
+T17	Chemical 930 933	PCB
+T18	AminoAcidPeptideOrProtein 1009 1015	IL-17A
+T19	BiologicallyActiveSubstance 1009 1015	IL-17A
+T20	CellFunction 1093 1106	up-regulating
+T21	Chemical 1119 1122	PCB
+T22	GeneOrGenome 1172 1178	LINGO1
+T23	GeneOrGenome 1180 1186	NOTCH1
+T24	AminoAcidPeptideOrProtein 1180 1186	NOTCH1
+T25	GeneOrGenome 1220 1223	MAL
+T26	AminoAcidPeptideOrProtein 1220 1223	MAL
+T27	AminoAcidPeptideOrProtein 1225 1231	CXCL12
+T28	GeneOrGenome 1225 1231	CXCL12
+T29	BiologicallyActiveSubstance 1225 1231	CXCL12
+T30	GeneOrGenome 1233 1236	MOG
+T31	GeneOrGenome 1238 1243	OLIG1
+T32	GeneOrGenome 1249 1255	NKX2-2
+T33	Chemical 1529 1532	PCB
+T34	HealthCareActivity 1703 1719	combined therapy
+T35	Chemical 1820 1823	PCB
+T36	AminoAcidPeptideOrProtein 1863 1871	IFN-beta
+T37	PharmacologicSubstance 1863 1871	IFN-beta
+T38	SignOrSymptom 744 749	signs
+T39	ExperimentalModelOfDisease 192 233	experimental autoimmune encephalomyelitis
+T40	ExperimentalModelOfDisease 235 238	EAE
+T41	ExperimentalModelOfDisease 659 662	EAE
+T42	ExperimentalModelOfDisease 691 694	EAE
+T43	ExperimentalModelOfDisease 1507 1510	EAE
+T44	ExperimentalModelOfDisease 1609 1612	EAE
+T45	ExperimentalModelOfDisease 1507 1515	EAE mice
+T46	BodyPartOrganOrOrganComponent 1491 1503	spinal cords
+T47	Eukaryote 1558 1564	rodent
+T48	Cell 844 853;861 877	precursor oligodendrocytes
+T49	Cell 1455 1471	oligodendrocytes
+T50	Cell 1412 1443	oligodendrocyte precursor cells
+T51	DiseaseOrSyndrome 139 157	multiple sclerosis
+T52	BodyPartOrganOrOrganComponent 1831 1837	myelin
+T53	Cell 854 877	mature oligodendrocytes
+T54	Cell 1448 1471	mature oligodendrocytes
+T55	BodyPartOrganOrOrganComponent 902 913	spinal cord
+T56	CellComponent 1359 1365	axonal
+T57	TemporalConcept 854 860	mature
+T58	TemporalConcept 1448 1454	mature
+T59	Cell 1428 1443	precursor cells
+T60	Cell 1412 1437	oligodendrocyte precursor
+T61	PathologicFunction 41 53	degeneration
+T62	CellFunction 1765 1786	inflammatory activity
+T63	Cell 1334 1345	macrophages
+T64	PathologicFunction 387 399	inflammatory
+T65	PathologicFunction 755 767	inflammatory
+T66	PathologicFunction 1030 1042	inflammatory
+T67	PathologicFunction 1765 1777	inflammatory
+T68	ResearchActivity 795 799	qPCR
+T69	BodyPartOrganOrOrganComponent 61 83	central nervous system
+T70	BodyPartOrganOrOrganComponent 807 812	brain
+T71	BodyPartOrganOrOrganComponent 985 990	brain
+T72	BodyPartOrganOrOrganComponent 1156 1161	brain
+T73	Cell 878 883	cells
+T74	Eukaryote 666 670	mice
+T75	Eukaryote 714 721;729 733	C57BL/6 mice
+T76	Eukaryote 1511 1515	mice
+T77	ResearchActivity 171 188	nonclinical model
+T78	Finding 453 459	effect
+T79	Finding 1688 1694	effect
+T80	PathologicFunction 751 767	pro-inflammatory
+T81	PathologicFunction 1026 1042	pro-inflammatory
+T82	ResearchActivity 1538 1545	studies
+T83	PharmacologicSubstance 348 359	antioxidant
+T84	CellFunction 348 359	antioxidant
+T85	Cell 1324 1333	microglia
+T86	ResearchActivity 1546 1554	in vitro
+T87	PathologicFunction 123 135	pathogenesis
+T88	BiologicallyActiveSubstance 1192 1201	TNF-alpha
+T89	AminoAcidPeptideOrProtein 1192 1201	TNF-alpha
+T90	HealthCareActivity 1712 1719	therapy
+T91	ResearchActivity 1594 1601	in vivo
+T92	OrganismAttribute 722 728	female
+T93	BiologicFunction 991 1005	concentrations
+T94	AminoAcidPeptideOrProtein 768 777	cytokines
+T95	AminoAcidPeptideOrProtein 1043 1052	cytokines
+T96	BiologicallyActiveSubstance 768 777	cytokines
+T97	BiologicallyActiveSubstance 1043 1052	cytokines
+T98	Finding 1289 1298	reduction
+T99	NaturalPhenomenonOrProcess 1289 1298	reduction
+T100	DiseaseOrSyndrome 159 161	MS
+T101	DiseaseOrSyndrome 1907 1909	MS
+T102	PathologicFunction 11 24	demyelination
+T103	PathologicFunction 1302 1315	demyelination
+T104	ResearchActivity 817 837	immunohistochemistry
+T105	ResearchActivity 1613 1624	mouse model
+T106	Finding 400 407	effects
+T107	ResearchActivity 788 793	ELISA
+T108	AminoAcidPeptideOrProtein 1020 1024	IL-6
+T109	BiologicallyActiveSubstance 1020 1024	IL-6
+T110	GeneOrGenome 1020 1024	IL-6
+T111	BiologicFunction 382 399	anti-inflammatory
+T112	BiologicFunction 1760 1777	anti-inflammatory
+T113	PharmacologicSubstance 382 399	anti-inflammatory
+T114	PharmacologicSubstance 1760 1777	anti-inflammatory
+T115	TemporalConcept 651 658	chronic
+T116	Finding 1679 1694	positive effect
+T117	AminoAcidPeptideOrProtein 672 682	MOG(35-55)
+T118	BiologicallyActiveSubstance 285 310	biliprotein C-Phycocyanin
+T119	AminoAcidPeptideOrProtein 285 310	biliprotein C-Phycocyanin
+T120	BiologicallyActiveSubstance 312 316	C-PC
+T121	BiologicFunction 361 377	immunoregulatory
+T122	BiologicFunction 947 969	neurological condition
+T123	GeneOrGenome 1009 1015	IL-17A
+T124	BiologicallyActiveSubstance 1172 1178	LINGO1
+T125	AminoAcidPeptideOrProtein 1172 1178	LINGO1
+T126	BiologicallyActiveSubstance 1180 1186	NOTCH1
+T127	BiologicallyActiveSubstance 1220 1223	MAL
+T128	BiologicallyActiveSubstance 1233 1236	MOG
+T129	AminoAcidPeptideOrProtein 1233 1236	MOG
+T130	AminoAcidPeptideOrProtein 1238 1243	OLIG1
+T131	BiologicallyActiveSubstance 1238 1243	OLIG1
+T132	AminoAcidPeptideOrProtein 1249 1255	NKX2-2
+T133	BiologicallyActiveSubstance 1249 1255	NKX2-2
+T134	InjuryOrPoisoning 1366 1372	damage
+T135	Cell 1582 1589	T cells
+T136	Chemical 1634 1637	PCB
+T137	BiologicallyActiveSubstance 1638 1646	IFN-beta
+T138	AminoAcidPeptideOrProtein 1638 1646	IFN-beta
+T139	PharmacologicSubstance 1638 1646	IFN-beta
+T140	BiologicallyActiveSubstance 1863 1871	IFN-beta

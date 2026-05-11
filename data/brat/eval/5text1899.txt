@@ -1,0 +1,1 @@
+Machine learning models are utilized to predict disease progression and assess an individual's risk of developing Alzheimer's based on various genetic, lifestyle, and demographic factors.

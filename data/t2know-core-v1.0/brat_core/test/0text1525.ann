@@ -1,0 +1,163 @@
+T0	AminoAcidPeptideOrProtein 12 27	Myeloperoxidase
+T1	Chemical 12 27	Myeloperoxidase
+T2	BiologicallyActiveSubstance 12 27	Myeloperoxidase
+T3	AminoAcidPeptideOrProtein 29 32	MPO
+T4	Chemical 29 32	MPO
+T5	GeneOrGenome 29 32	MPO
+T6	BiologicallyActiveSubstance 29 32	MPO
+T7	AnatomicalAbnormality 100 112;122 129	amyloid-beta plaques
+T8	BiologicFunction 268 290	peripheral circulation
+T9	AminoAcidPeptideOrProtein 442 445	MPO
+T10	Chemical 442 445	MPO
+T11	BiologicallyActiveSubstance 442 445	MPO
+T12	AminoAcidPeptideOrProtein 514 517	MPO
+T13	Chemical 514 517	MPO
+T14	GeneOrGenome 514 517	MPO
+T15	BiologicallyActiveSubstance 514 517	MPO
+T16	Chemical 696 721	cholinesterase inhibitors
+T17	PharmacologicSubstance 696 721	cholinesterase inhibitors
+T18	Chemical 723 728	ChEIs
+T19	PharmacologicSubstance 723 728	ChEIs
+T20	AminoAcidPeptideOrProtein 902 905	MPO
+T21	Chemical 902 905	MPO
+T22	GeneOrGenome 902 905	MPO
+T23	BiologicallyActiveSubstance 902 905	MPO
+T24	AminoAcidPeptideOrProtein 1063 1066	MPO
+T25	Chemical 1063 1066	MPO
+T26	GeneOrGenome 1063 1066	MPO
+T27	BiologicallyActiveSubstance 1063 1066	MPO
+T28	AminoAcidPeptideOrProtein 1284 1287	MPO
+T29	Chemical 1284 1287	MPO
+T30	GeneOrGenome 1284 1287	MPO
+T31	BiologicallyActiveSubstance 1284 1287	MPO
+T32	AminoAcidPeptideOrProtein 1349 1352	MPO
+T33	Chemical 1349 1352	MPO
+T34	GeneOrGenome 1349 1352	MPO
+T35	BiologicallyActiveSubstance 1349 1352	MPO
+T36	Finding 1419 1431	deteriorated
+T37	Finding 1494 1507	deterioration
+T38	AminoAcidPeptideOrProtein 1578 1581	MPO
+T39	Chemical 1578 1581	MPO
+T40	GeneOrGenome 1578 1581	MPO
+T41	BiologicallyActiveSubstance 1578 1581	MPO
+T42	AminoAcidPeptideOrProtein 1656 1659	MPO
+T43	Chemical 1656 1659	MPO
+T44	GeneOrGenome 1656 1659	MPO
+T45	BiologicallyActiveSubstance 1656 1659	MPO
+T46	AminoAcidPeptideOrProtein 1760 1763	MPO
+T47	Chemical 1760 1763	MPO
+T48	GeneOrGenome 1760 1763	MPO
+T49	BiologicallyActiveSubstance 1760 1763	MPO
+T50	AminoAcidPeptideOrProtein 1904 1907	MPO
+T51	Chemical 1904 1907	MPO
+T52	GeneOrGenome 1904 1907	MPO
+T53	BiologicallyActiveSubstance 1904 1907	MPO
+T54	PopulationGroup 355 360	donor
+T55	HealthCareActivity 1914 1928	AD therapeutic
+T56	TemporalConcept 1750 1759	transient
+T57	CellFunction 198 204	efflux
+T58	ResearchActivity 606 625	drug administration
+T59	HealthCareActivity 606 625	drug administration
+T60	CellFunction 1597 1610	differentiate
+T61	HealthCareActivity 373 387	drug treatment
+T62	ResearchActivity 373 387	drug treatment
+T63	AnatomicalAbnormality 230 236	plaque
+T64	BiologicFunction 1168 1176	distress
+T65	Finding 851 874	normal cognitive status
+T66	CellFunction 1764 1776	upregulation
+T67	PathologicFunction 56 72	pro-inflammatory
+T68	ResearchActivity 936 941	ELISA
+T69	BodyPartOrganOrOrganComponent 895 901	Plasma
+T70	PopulationGroup 1634 1645	populations
+T71	HealthCareActivity 341 351	monitoring
+T72	Finding 1814 1839	worse therapeutic outcome
+T73	HealthCareActivity 776 805	neuropsychological assessment
+T74	PopulationGroup 826 845	healthy individuals
+T75	DiseaseOrSyndrome 133 152	Alzheimer's disease
+T76	DiseaseOrSyndrome 154 156	AD
+T77	DiseaseOrSyndrome 464 466	AD
+T78	DiseaseOrSyndrome 553 555	AD
+T79	DiseaseOrSyndrome 952 954	AD
+T80	DiseaseOrSyndrome 1245 1247	AD
+T81	DiseaseOrSyndrome 1394 1396	AD
+T82	DiseaseOrSyndrome 1477 1479	AD
+T83	DiseaseOrSyndrome 1631 1633	AD
+T84	DiseaseOrSyndrome 1914 1916	AD
+T85	ClinicalAttribute 451 460	biomarker
+T86	ClinicalAttribute 1929 1938	biomarker
+T87	PopulationGroup 885 893	controls
+T88	PatientOrDisabledGroup 556 564	patients
+T89	PatientOrDisabledGroup 678 686	patients
+T90	PatientOrDisabledGroup 757 765	patients
+T91	PatientOrDisabledGroup 966 974	patients
+T92	PatientOrDisabledGroup 1248 1256	patients
+T93	PatientOrDisabledGroup 1397 1405	patients
+T94	PatientOrDisabledGroup 1480 1488	patients
+T95	PatientOrDisabledGroup 1793 1801	patients
+T96	OrganismAttribute 1619 1626	healthy
+T97	Finding 1128 1133	score
+T98	Finding 1530 1535	score
+T99	PharmacologicSubstance 373 377	drug
+T100	PharmacologicSubstance 606 610	drug
+T101	PharmacologicSubstance 955 959	drug
+T102	BodyPartOrganOrOrganComponent 255 260	brain
+T103	HealthCareActivity 159 182	Anti-dementia treatment
+T104	HealthCareActivity 378 387	treatment
+T105	HealthCareActivity 476 499	anti-dementia treatment
+T106	HealthCareActivity 663 672	treatment
+T107	HealthCareActivity 1225 1234	treatment
+T108	HealthCareActivity 1739 1748	treatment
+T109	ResearchActivity 378 387	treatment
+T110	ResearchActivity 663 672	treatment
+T111	ResearchActivity 1225 1234	treatment
+T112	ResearchActivity 1739 1748	treatment
+T113	ResearchActivity 1849 1856	studies
+T114	TemporalConcept 1449 1455	period
+T115	AminoAcidPeptideOrProtein 100 107	amyloid
+T116	BiologicallyActiveSubstance 100 107	amyloid
+T117	DiseaseOrSyndrome 164 172	dementia
+T118	DiseaseOrSyndrome 481 489	dementia
+T119	ResearchActivity 1443 1448	study
+T120	HealthCareActivity 1511 1535	Cornell assessment score
+T121	ResearchActivity 1519 1529	assessment
+T122	BodyPartOrganOrOrganComponent 507 513	plasma
+T123	BodyPartOrganOrOrganComponent 585 591	plasma
+T124	BodyPartOrganOrOrganComponent 987 993	plasma
+T125	BodyPartOrganOrOrganComponent 1277 1283	plasma
+T126	BodyPartOrganOrOrganComponent 1897 1903	plasma
+T127	AminoAcidPeptideOrProtein 100 112	amyloid-beta
+T128	AminoAcidPeptideOrProtein 237 245	proteins
+T129	PopulationGroup 1021 1028	control
+T130	TemporalConcept 1214 1219	month
+T131	TemporalConcept 1372 1377	month
+T132	ResearchActivity 943 950	Results
+T133	TemporalConcept 651 657	months
+T134	TemporalConcept 749 755	months
+T135	TemporalConcept 1329 1335	months
+T136	ClinicalAttribute 312 332	potential biomarkers
+T137	PopulationGroup 818 825	elderly
+T138	ResearchActivity 403 415	investigated
+T139	OrganismAttribute 361 369	response
+T140	AminoAcidPeptideOrProtein 114 120	A beta
+T141	AminoAcidPeptideOrProtein 208 214	A beta
+T142	TemporalConcept 1687 1694	initial
+T143	Finding 420 438	diagnostic utility
+T144	BiologicFunction 1412 1418	memory
+T145	TemporalConcept 658 662	post
+T146	AminoAcidPeptideOrProtein 37 80	neutrophil-derived pro-inflammatory protein
+T147	ClinicalAttribute 507 531	plasma MPO concentration
+T148	ClinicalAttribute 895 919	Plasma MPO concentration
+T149	ClinicalAttribute 987 1011	plasma MPO concentration
+T150	HealthCareActivity 1101 1133	Neuropsychiatric Inventory score
+T151	PopulationGroup 1162 1167	carer
+T152	PharmacologicSubstance 1220 1224	ChEI
+T153	Chemical 1220 1224	ChEI
+T154	ClinicalAttribute 1277 1294	plasma MPO levels
+T155	ClinicalAttribute 1349 1366	MPO concentration
+T156	ClinicalAttribute 1578 1588	MPO levels
+T157	HealthCareActivity 1695 1732	Neuropsychiatric Inventory evaluation
+T158	TemporalConcept 1734 1748	Post-treatment
+T159	PharmacologicSubstance 1780 1784	ChEI
+T160	Chemical 1780 1784	ChEI
+T161	ClinicalAttribute 1897 1907	plasma MPO
+T162	GeneOrGenome 442 445	MPO

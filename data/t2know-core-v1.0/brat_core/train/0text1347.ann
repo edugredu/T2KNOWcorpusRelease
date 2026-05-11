@@ -1,0 +1,101 @@
+T0	ManufacturedObject 193 220	implanted neural interfaces
+T1	CellComponent 325 338	neuronal soma
+T2	ClinicalAttribute 469 482	vulnerability
+T3	Finding 598 616	biological failure
+T4	InjuryOrPoisoning 924 942	cuprizone exposure
+T5	Eukaryote 1040 1044	Mice
+T6	BodyPartOrganOrOrganComponent 1114 1127	visual cortex
+T7	HealthCareActivity 1362 1374	implantation
+T8	OrganismAttribute 2245 2267	functional performance
+T9	Finding 1511 1521	decreasing
+T10	Chemical 1224 1233	Cuprizone
+T11	ClinicalAttribute 1944 1962	neuronal densities
+T12	TemporalConcept 1668 1677	frequency
+T13	CellComponent 343 348	axons
+T14	Cell 540 556	oligodendrocytes
+T15	Cell 1867 1883	oligodendrocytes
+T16	Cell 222 238	Oligodendrocytes
+T17	BodyPartOrganOrOrganComponent 431 437	myelin
+T18	BodyPartOrganOrOrganComponent 1021 1027	myelin
+T19	TemporalConcept 2235 2244	long-term
+T20	Cell 2158 2181	oligodendrocyte lineage
+T21	IndividualBehavior 170 177	failure
+T22	IndividualBehavior 609 616	failure
+T23	Chemical 777 786	cuprizone
+T24	Chemical 924 933	cuprizone
+T25	Chemical 1198 1207	cuprizone
+T26	Chemical 1781 1790	cuprizone
+T27	Finding 1469 1480	normal diet
+T28	TemporalConcept 915 920	weeks
+T29	TemporalConcept 1172 1177	weeks
+T30	Cell 103 108	glial
+T31	CellFunction 2219 2230	integration
+T32	MachineActivity 2219 2230	integration
+T33	CellFunction 409 426	neuronal activity
+T34	CellFunction 743 760	neuronal activity
+T35	CellFunction 1132 1149	neuronal activity
+T36	HealthCareActivity 1476 1480	diet
+T37	CellOrMolecularDysfunction 1242 1262	oligodendrocyte loss
+T38	CellOrMolecularDysfunction 1996 2016	oligodendrocyte loss
+T39	CellFunction 1021 1038	myelin expression
+T40	Finding 1631 1639	deficits
+T41	ResearchActivity 1591 1621	electro-physiological analysis
+T42	ResearchActivity 2094 2099	study
+T43	BodyPartOrganOrOrganComponent 496 501	brain
+T44	Eukaryote 853 857	mice
+T45	Eukaryote 944 948	mice
+T46	Eukaryote 1459 1463	mice
+T47	Eukaryote 1577 1581	mice
+T48	Eukaryote 1799 1803	mice
+T49	Eukaryote 1974 1978	mice
+T50	Cell 90 98	neuronal
+T51	Cell 268 276	neuronal
+T52	Cell 325 333	neuronal
+T53	Cell 409 417	neuronal
+T54	Cell 743 751	neuronal
+T55	Cell 1703 1711	neuronal
+T56	ResearchActivity 797 802	model
+T57	PathologicFunction 11 23	inflammation
+T58	TemporalConcept 1353 1358	onset
+T59	CellFunction 1028 1038	expression
+T60	PopulationGroup 2182 2192	population
+T61	TemporalConcept 1414 1418	time
+T62	TemporalConcept 1527 1531	time
+T63	Finding 516 520	high
+T64	BodyPartOrganOrOrganComponent 129 135	cortex
+T65	BodyPartOrganOrOrganComponent 360 366	cortex
+T66	BodyPartOrganOrOrganComponent 1771 1777	cortex
+T67	Finding 1469 1475	normal
+T68	HealthCareActivity 277 283	health
+T69	BodyPartOrganOrOrganComponent 51 59	cortical
+T70	BodyPartOrganOrOrganComponent 984 992	cortical
+T71	Cell 806 821	oligodendrocyte
+T72	Cell 993 1008	oligodendrocyte
+T73	InjuryOrPoisoning 60 66	injury
+T74	InjuryOrPoisoning 486 495;502 508	metabolic injury
+T75	PathologicFunction 836 849	demyelination
+T76	PathologicFunction 1267 1280	demyelination
+T77	ResearchActivity 1817 1837	immunohistochemistry
+T78	ClinicalAttribute 2256 2267	performance
+T79	Finding 2256 2267	performance
+T80	ClinicalAttribute 993 1016	oligodendrocyte density
+T81	HealthCareActivity 1208 1222	administration
+T82	ManufacturedObject 1091 1106	microelectrodes
+T83	ManufacturedObject 1901 1922	microelectrode arrays
+T84	CellFunction 103 117	glial activity
+T85	BodyPartOrganOrOrganComponent 656 669	intracortical
+T86	ManufacturedObject 670 692	microelectrode devices
+T87	ManufacturedObject 881 895	microelectrode
+T88	ResearchActivity 896 908	implantation
+T89	ResearchActivity 1362 1374	implantation
+T90	HealthCareActivity 896 908	implantation
+T91	Finding 1323 1345	recording performances
+T92	Finding 1432 1454	recording performances
+T93	ResearchActivity 1643 1666	multi-unit firing rates
+T94	BiologicFunction 1738 1759	laminar communication
+T95	TemporalConcept 1805 1816	Post-mortem
+T96	ManufacturedObject 2068 2074	device
+T97	BiologicFunction 2208 2230	biological integration
+T98	ResearchActivity 2271 2300	neural interfacing technology
+T99	CellFunction 1703 1724	neuronal oscillations
+T100	Finding 630 652	recording performances

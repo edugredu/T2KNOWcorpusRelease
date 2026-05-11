@@ -1,0 +1,86 @@
+T0	AminoAcidPeptideOrProtein 194 199	CSPGs
+T1	BiologicallyActiveSubstance 194 199	CSPGs
+T2	BiologicFunction 352 367	neuronal growth
+T3	Chemical 386 402	endocannabinoids
+T4	BiologicallyActiveSubstance 386 402	endocannabinoids
+T5	AminoAcidPeptideOrProtein 576 581	CSPGs
+T6	BiologicallyActiveSubstance 576 581	CSPGs
+T7	AminoAcidPeptideOrProtein 582 590	neurocan
+T8	AminoAcidPeptideOrProtein 595 603	brevican
+T9	BiologicallyActiveSubstance 595 603	brevican
+T10	AminoAcidPeptideOrProtein 902 912	TGF-beta 1
+T11	PharmacologicSubstance 902 912	TGF-beta 1
+T12	BiologicallyActiveSubstance 902 912	TGF-beta 1
+T13	NaturalPhenomenonOrProcess 913 923	stimulated
+T14	Finding 1079 1085	matrix
+T15	ResearchActivity 1290 1298	cultured
+T16	CellFunction 1375 1397	endocannabinoid system
+T17	Chemical 513 535	2-arachidonoylglycerol
+T18	PharmacologicSubstance 513 535	2-arachidonoylglycerol
+T19	CellFunction 1001 1024	TGF-beta 1/SMAD pathway
+T20	Cell 1273 1289	oligodendrocytes
+T21	Finding 120 126	severe
+T22	Cell 327 330	OPC
+T23	Cell 1147 1162	oligodendrocyte
+T24	DiseaseOrSyndrome 82 100	multiple sclerosis
+T25	CellFunction 15 26	remyelinate
+T26	PathologicFunction 419 430	progression
+T27	TemporalConcept 419 430	progression
+T28	Finding 1417 1429	accumulation
+T29	DiseaseOrSyndrome 102 104	MS
+T30	DiseaseOrSyndrome 220 222	MS
+T31	DiseaseOrSyndrome 416 418	MS
+T32	InjuryOrPoisoning 223 230	lesions
+T33	BiologicFunction 70 78	recovery
+T34	HealthCareActivity 70 78	recovery
+T35	TemporalConcept 70 78	recovery
+T36	BiologicFunction 469 475	repair
+T37	HealthCareActivity 469 475	repair
+T38	CellFunction 1026 1035	signaling
+T39	BiologicallyActiveSubstance 849 867	hydrolytic enzymes
+T40	CellFunction 332 347	differentiation
+T41	CellFunction 676 707	oligodendrocyte differentiation
+T42	CellFunction 1163 1178	differentiation
+T43	CellFunction 1240 1255	differentiation
+T44	CellFunction 1445 1476	oligodendrocyte differentiation
+T45	AminoAcidPeptideOrProtein 179 192	proteoglycans
+T46	BiologicallyActiveSubstance 179 192	proteoglycans
+T47	BiologicallyActiveSubstance 714 724	inhibitory
+T48	BiologicallyActiveSubstance 1133 1143	inhibitory
+T49	BiologicallyActiveSubstance 1305 1315	inhibitory
+T50	BiologicallyActiveSubstance 831 841	inhibitors
+T51	ResearchActivity 621 628	culture
+T52	ResearchActivity 1341 1345	data
+T53	PathologicFunction 127 138	dysfunction
+T54	Cell 295 325	oligodendrocyte precursor cell
+T56	Eukaryote 888 891	rat
+T57	Eukaryote 1259 1262	rat
+T58	Eukaryote 896 901	human
+T59	Eukaryote 1267 1272	human
+T60	Cell 607 617	astrocytes
+T61	Cell 924 934	astrocytes
+T62	Cell 1114 1124	astrocytes
+T63	Finding 143 153	disability
+T64	Finding 4 11	failure
+T65	Finding 263 270	failure
+T66	HealthCareActivity 756 765	treatment
+T67	ResearchActivity 756 765	treatment
+T68	ResearchActivity 736 744	in vitro
+T69	CellFunction 1056 1073	CSPG upregulation
+T70	AminoAcidPeptideOrProtein 159 192	chondroitin sulfate proteoglycans
+T71	BiologicallyActiveSubstance 159 192	chondroitin sulfate proteoglycans
+T72	Chemical 537 541	2-AG
+T73	PharmacologicSubstance 537 541	2-AG
+T74	Chemical 662 666	2-AG
+T75	PharmacologicSubstance 662 666	2-AG
+T76	PharmacologicSubstance 771 775	2-AG
+T77	Chemical 771 775	2-AG
+T78	CellFunction 869 884	CSPG production
+T79	Chemical 965 969	2-AG
+T80	PharmacologicSubstance 965 969	2-AG
+T81	PharmacologicSubstance 1198 1202	2-AG
+T82	Chemical 1198 1202	2-AG
+T83	Chemical 1101 1105	2-AG
+T84	PharmacologicSubstance 1101 1105	2-AG
+T85	AminoAcidPeptideOrProtein 1412 1416	CSPG
+T86	BiologicallyActiveSubstance 1412 1416	CSPG

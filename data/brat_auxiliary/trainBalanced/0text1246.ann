@@ -1,0 +1,54 @@
+T0	OrganismAttribute 44 55	susceptible
+T1	NaturalPhenomenonOrProcess 646 662	microenvironment
+T2	BodyPartOrganOrOrganComponent 646 662	microenvironment
+T3	CellFunction 854 863	metabolic
+T4	TemporalConcept 292 299	to date
+T5	BiologicFunction 1049 1053	hope
+T6	Cell 733 745	immune cells
+T7	CellFunction 88 103	trophic support
+T8	HealthCareActivity 1081 1094	interventions
+T9	ResearchActivity 1081 1094	interventions
+T10	TemporalConcept 295 299	date
+T11	CellComponent 25 30	axons
+T12	Cell 109 125	oligodendrocytes
+T13	DiseaseOrSyndrome 191 209	multiple sclerosis
+T14	DiseaseOrSyndrome 557 575	multiple sclerosis
+T15	BodyPartOrganOrOrganComponent 130 136	myelin
+T16	InjuryOrPoisoning 639 645	lesion
+T17	PathologicFunction 12 24	demyelinated
+T18	Cell 800 829	oligodendrocyte lineage cells
+T19	CellFunction 379 394	differentiation
+T20	BiologicallyActiveSubstance 616 626	inhibitory
+T21	Cell 348 378	oligodendrocyte precursor cell
+T22	Cell 364 378	precursor cell
+T23	Cell 348 373	oligodendrocyte precursor
+T24	PathologicFunction 59 71	degeneration
+T25	Cell 800 823	oligodendrocyte lineage
+T26	CellFunction 348 394	oligodendrocyte precursor cell differentiation
+T27	PathologicFunction 176 187	progression
+T28	TemporalConcept 176 187	progression
+T29	CellOrMolecularDysfunction 880 896	oxidative stress
+T30	Cell 750 763	reactive glia
+T31	BiologicFunction 428 441	understanding
+T32	BiologicFunction 960 973	understanding
+T33	Cell 981 989	cellular
+T34	Finding 922 932	senescence
+T35	TemporalConcept 922 932	senescence
+T36	TemporalConcept 523 529	future
+T37	Substance 682 700	effector molecules
+T38	CellFunction 221 234	remyelination
+T39	CellFunction 488 501	remyelination
+T40	CellFunction 577 590	remyelination
+T41	CellFunction 1109 1122	remyelination
+T42	CellFunction 449 469	molecular mechanisms
+T43	CellFunction 994 1014	molecular mechanisms
+T44	CellFunction 913 932	cellular senescence
+T45	Finding 944 952	advances
+T46	CellFunction 374 394	cell differentiation
+T47	HealthCareActivity 266 286	therapeutic strategy
+T48	HealthCareActivity 530 552	therapeutic approaches
+T49	Finding 165 175	disability
+T50	CellFunction 250 265	neuroprotective
+T51	TemporalConcept 0 11	Chronically
+T52	Finding 80 84	loss
+T53	Finding 1151 1168	clinical benefits

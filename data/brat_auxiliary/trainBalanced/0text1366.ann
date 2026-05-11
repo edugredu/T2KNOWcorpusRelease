@@ -1,0 +1,57 @@
+T0	Finding 169 182	Abnormalities
+T1	Finding 314 322	abnormal
+T2	Finding 384 392	abnormal
+T3	Cell 576 582	clones
+T4	Finding 586 594	abnormal
+T5	BiologicFunction 732 737	birth
+T6	DiseaseOrSyndrome 1263 1280	clinical syndrome
+T7	Chemical 1478 1487	siponimod
+T8	ResearchActivity 1538 1552	Clinical trial
+T9	CellOrMolecularDysfunction 359 379	synaptic dysfunction
+T10	SignOrSymptom 1300 1319	behavioral symptoms
+T11	TemporalConcept 154 161	decades
+T12	Cell 596 624	myelinating oligodendrocytes
+T13	Cell 1394 1410	oligodendrocytes
+T14	Cell 1502 1518	oligodendrocytes
+T15	TemporalConcept 559 566	infancy
+T16	PopulationGroup 559 566	infancy
+T17	TemporalConcept 1343 1349	period
+T18	Cell 245 268	mature oligodendrocytes
+T19	CellFunction 277 288	myelination
+T20	CellFunction 297 308	myelination
+T21	Finding 125 137	presentation
+T22	Finding 768 780	presentation
+T23	ClinicalAttribute 1083 1100	clinical features
+T24	DiseaseOrSyndrome 22 35	schizophrenia
+T25	DiseaseOrSyndrome 441 454	schizophrenia
+T26	DiseaseOrSyndrome 1104 1117	schizophrenia
+T27	DiseaseOrSyndrome 1621 1634	schizophrenia
+T28	TemporalConcept 1286 1296	occurrence
+T29	OrganismAttribute 742 745	age
+T30	TemporalConcept 689 694	years
+T31	PatientOrDisabledGroup 526 534	patients
+T32	PatientOrDisabledGroup 850 858	patients
+T33	PatientOrDisabledGroup 1439 1447	patients
+T34	PatientOrDisabledGroup 1607 1615	patients
+T35	TemporalConcept 917 924	ongoing
+T36	Chemical 1464 1474	fingolimod
+T37	PharmacologicSubstance 1464 1474	fingolimod
+T38	BiologicallyActiveSubstance 1464 1474	fingolimod
+T39	TemporalConcept 643 647	time
+T40	TemporalConcept 49 56	latency
+T41	TemporalConcept 228 235	latency
+T42	TemporalConcept 479 486	latency
+T43	TemporalConcept 883 890	latency
+T44	TemporalConcept 1126 1133	latency
+T45	TemporalConcept 1423 1430	latency
+T46	HealthCareActivity 1449 1458	Treatment
+T47	ResearchActivity 1449 1458	Treatment
+T48	CellFunction 186 210	oligodendrocyte function
+T49	BodyPartOrganOrOrganComponent 393 406	neural tracts
+T50	TemporalConcept 547 555	in-utero
+T51	BodyPartOrganOrOrganComponent 984 997	neural tracts
+T52	PathologicFunction 962 983	abnormally myelinated
+T53	PathologicFunction 1148 1170	behavioral aberrancies
+T54	PathologicFunction 1182 1203	abnormally myelinated
+T55	BodyPartOrganOrOrganComponent 1204 1217	neural tracts
+T56	CellOrMolecularDysfunction 1385 1410	abnormal oligodendrocytes

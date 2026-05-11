@@ -1,0 +1,49 @@
+T0	BiologicFunction 489 501	reproduction
+T1	ManufacturedObject 954 975	drug delivery systems
+T2	ResearchActivity 1159 1175	research studies
+T3	TemporalConcept 1152 1158	latest
+T4	ResearchActivity 1059 1071	drug loading
+T5	BiologicFunction 507 526	synaptic plasticity
+T6	BiologicFunction 465 481	immune responses
+T7	CellComponent 340 362	extracellular vesicles
+T8	BodyPartOrganOrOrganComponent 824 829	brain
+T9	BodyPartOrganOrOrganComponent 1141 1146	brain
+T10	Eukaryote 483 488	human
+T11	PopulationGroup 40 45	group
+T12	PathologicFunction 149 160	progression
+T13	TemporalConcept 149 160	progression
+T14	Cell 393 398	cells
+T15	TemporalConcept 549 555	origin
+T16	TemporalConcept 947 953	origin
+T17	DiseaseOrSyndrome 695 721	neurodegenerative diseases
+T18	DiseaseOrSyndrome 1179 1205	neurodegenerative diseases
+T19	HealthCareActivity 1222 1232	challenges
+T20	ResearchActivity 901 907	review
+T21	HealthCareActivity 901 907	review
+T22	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T23	ResearchActivity 1073 1114	cutting-edge functionalization strategies
+T24	HealthCareActivity 124 134	treatments
+T25	ResearchActivity 124 134	treatments
+T26	BodyPartOrganOrOrganComponent 210 229	blood-brain barrier
+T27	PharmacologicSubstance 320 325	drugs
+T28	TemporalConcept 1215 1221	future
+T29	Substance 279 288	molecules
+T30	CellFunction 436 463	intercellular communication
+T31	PharmacologicSubstance 954 958	drug
+T32	PharmacologicSubstance 1059 1063	drug
+T33	Cell 593 603	cell types
+T34	DiseaseOrSyndrome 49 60	pathologies
+T35	CellComponent 605 613	exosomes
+T36	CellComponent 1009 1017	exosomes
+T37	CellComponent 1236 1244	exosomes
+T38	ResearchActivity 1025 1057	physicochemical characterization
+T39	CellComponent 327 335	Exosomes
+T40	Finding 67 75	etiology
+T41	BiologicFunction 959 967	delivery
+T42	HealthCareActivity 954 967	drug delivery
+T43	PathologicFunction 849 867	pathophysiological
+T44	HealthCareActivity 640 657	therapeutic tools
+T45	HealthCareActivity 767 788	nanomedicine strategy
+T46	ResearchActivity 977 1017	innovative isolation methods of exosomes
+T47	HealthCareActivity 1248 1284	nanomedicine-based therapeutic tools
+T48	BiomedicalOccupationOrDiscipline 1248 1260	nanomedicine

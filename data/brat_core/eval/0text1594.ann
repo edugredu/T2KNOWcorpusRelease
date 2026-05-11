@@ -1,0 +1,69 @@
+T0	Finding 16 24	critical
+T1	PathologicFunction 144 159	brain pathology
+T2	ResearchActivity 620 640	Logistic regressions
+T3	AminoAcidPeptideOrProtein 823 832	amyloid b
+T4	AminoAcidPeptideOrProtein 953 962	glutamate
+T5	AminoAcidPeptideOrProtein 968 977	aspartate
+T6	Finding 36 46	unmet need
+T7	AminoAcidPeptideOrProtein 921 932	amino acids
+T8	ClinicalAttribute 1122 1139	clinical measures
+T9	ResearchActivity 82 91	discovery
+T10	ResearchActivity 1104 1110	burden
+T11	DiseaseOrSyndrome 50 69	Alzheimer's disease
+T12	BodyPartOrganOrOrganComponent 355 361	plasma
+T13	BodyPartOrganOrOrganComponent 666 672	plasma
+T14	BodyPartOrganOrOrganComponent 302 305	CSF
+T15	BodyPartOrganOrOrganComponent 699 702	CSF
+T16	BodyPartOrganOrOrganComponent 855 858	CSF
+T17	BodyPartOrganOrOrganComponent 1114 1117	CSF
+T18	PathologicFunction 257 266	pathology
+T19	BiomedicalOccupationOrDiscipline 257 266	pathology
+T20	ResearchActivity 775 782	Results
+T21	AminoAcidPeptideOrProtein 1094 1103	amyloid b
+T22	DiseaseOrSyndrome 71 73	AD
+T23	DiseaseOrSyndrome 307 309	AD
+T24	DiseaseOrSyndrome 592 594	AD
+T25	BodyPartOrganOrOrganComponent 281 300	cerebrospinal fluid
+T26	PopulationGroup 492 503	individuals
+T27	DiseaseOrSyndrome 431 450	Alzheimer's Disease
+T28	BiologicallyActiveSubstance 220 231	metabolites
+T29	BiologicallyActiveSubstance 673 684	metabolites
+T30	BiologicallyActiveSubstance 790 801	metabolites
+T31	DiseaseOrSyndrome 592 608	AD-type dementia
+T32	ResearchActivity 1258 1265	article
+T33	ClinicalAttribute 121 131	biomarkers
+T34	ClinicalAttribute 310 320	biomarkers
+T35	ClinicalAttribute 462 471	Biomarker
+T36	ResearchActivity 336 341	study
+T37	ResearchActivity 431 487	Alzheimer's Disease Multimodal Biomarker Discovery study
+T38	DiseaseOrSyndrome 548 573	mild cognitive impairment
+T39	BiologicFunction 1022 1028	memory
+T40	BodyPartOrganOrOrganComponent 235 240	blood
+T41	HealthCareActivity 755 773	clinical diagnosis
+T42	BodyPartOrganOrOrganComponent 999 1010	hippocampal
+T43	Cell 999 1010	hippocampal
+T44	Chemical 106 120	small molecule
+T45	PopulationGroup 1282 1284	NC
+T46	BiologicFunction 740 749	cognition
+T47	ResearchActivity 207 211	test
+T48	HealthCareActivity 207 211	test
+T49	HealthCareActivity 712 738	magnetic resonance imaging
+T50	BiologicallyActiveSubstance 846 851	t-tau
+T51	AminoAcidPeptideOrProtein 846 851	t-tau
+T52	ClinicalAttribute 999 1017	hippocampal volume
+T53	ClinicalAttribute 703 710	markers
+T54	ResearchActivity 342 350	analyzed
+T55	BodyPartOrganOrOrganComponent 95 105	peripheral
+T56	TemporalConcept 178 191	symptom onset
+T57	SignOrSymptom 178 185	symptom
+T58	OrganismAttribute 513 532	cognitively healthy
+T59	PopulationGroup 388 396	European
+T60	HealthCareRelatedOrganization 1210 1233	Alzheimer's Association
+T61	HealthCareRelatedOrganization 388 426	European Medical Information Framework
+T62	Chemical 871 896	primary fatty acid amides
+T63	BiologicallyActiveSubstance 906 915	lipokines
+T64	Chemical 898 903	PFAMs
+T65	Chemical 946 951	PFAMs
+T66	BiologicallyActiveSubstance 953 962	glutamate
+T67	BiologicallyActiveSubstance 968 977	aspartate
+T68	Chemical 1042 1047	PFAMs

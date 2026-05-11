@@ -1,0 +1,7 @@
+T0	BiomedicalOccupationOrDiscipline 49 57	genetics
+T1	HealthCareActivity 94 103	therapies
+T2	CellOrMolecularDysfunction 134 151	neurodegeneration
+T3	PopulationGroup 108 119	individuals
+T4	Organism 24 48	Saccharomyces cerevisiae
+T5	BiologicFunction 49 57	genetics
+T6	GeneOrGenome 160 176	genetic variants

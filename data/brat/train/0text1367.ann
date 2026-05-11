@@ -1,0 +1,116 @@
+T0	PopulationGroup 99 107	resident
+T1	Virus 378 384	HERV-W
+T2	CellComponent 439 447	envelope
+T3	AminoAcidPeptideOrProtein 639 650	ENV protein
+T4	AminoAcidPeptideOrProtein 749 769	toll like receptor 4
+T5	GeneOrGenome 749 769	toll like receptor 4
+T6	CellOrMolecularDysfunction 846 864	nitrosative stress
+T7	Substance 1171 1181	substances
+T8	AminoAcidPeptideOrProtein 1222 1247	myeloid differentiation 2
+T9	Finding 1282 1288	status
+T10	AminoAcidPeptideOrProtein 1298 1309	compound 20
+T11	Chemical 1329 1338	folimycin
+T12	TemporalConcept 1501 1507	arrest
+T13	Cell 1511 1533	oligodendroglial cells
+T14	Finding 1603 1611	presence
+T15	BiologicallyActiveSubstance 1619 1630	ENV protein
+T16	AminoAcidPeptideOrProtein 1619 1630	ENV protein
+T17	IndividualBehavior 1728 1737	integrity
+T18	Finding 1808 1816	presence
+T19	BiologicallyActiveSubstance 1820 1823	ENV
+T20	AminoAcidPeptideOrProtein 1820 1823	ENV
+T21	HealthCareActivity 1845 1870	pharmacological treatment
+T22	Virus 1987 1993	HERV-W
+T23	PopulationGroup 21 26	adult
+T24	BodyPartOrganOrOrganComponent 51 54	CNS
+T25	Finding 917 926	decreased
+T26	Cell 256 272	oligodendrocytes
+T27	PathologicFunction 412 422	pathogenic
+T28	CellOrMolecularDysfunction 171 196	neurodegenerative process
+T29	CellComponent 1714 1727	mitochondrial
+T30	CellFunction 707 720	remyelination
+T31	Cell 108 140	oligodendroglial precursor cells
+T32	Cell 142 146	OPCs
+T33	Cell 515 518	OPC
+T34	CellFunction 1544 1555	myelination
+T35	CellFunction 1950 1961	myelination
+T36	CellComponent 277 291	myelin sheaths
+T37	BodyPartOrganOrOrganComponent 0 6	Myelin
+T38	BiologicFunction 519 529	maturation
+T39	BiologicFunction 954 964	maturation
+T40	BiologicFunction 1490 1500	maturation
+T41	Cell 937 953	oligodendroglial
+T42	Cell 1750 1771	oligodendroglial cell
+T43	CellFunction 585 598	myelin repair
+T45	CellFunction 1268 1281	glycosylation
+T46	AminoAcidPeptideOrProtein 771 775	TLR4
+T47	AminoAcidPeptideOrProtein 1034 1038	TLR4
+T48	AminoAcidPeptideOrProtein 1263 1267	TLR4
+T49	AminoAcidPeptideOrProtein 1410 1414	TLR4
+T50	AminoAcidPeptideOrProtein 1663 1667	TLR4
+T51	GeneOrGenome 771 775	TLR4
+T52	GeneOrGenome 1034 1038	TLR4
+T53	GeneOrGenome 1263 1267	TLR4
+T54	GeneOrGenome 1410 1414	TLR4
+T55	GeneOrGenome 1663 1667	TLR4
+T56	BiologicallyActiveSubstance 771 775	TLR4
+T57	BiologicallyActiveSubstance 1034 1038	TLR4
+T58	BiologicallyActiveSubstance 1263 1267	TLR4
+T59	BiologicallyActiveSubstance 1410 1414	TLR4
+T60	BiologicallyActiveSubstance 1663 1667	TLR4
+T61	AminoAcidPeptideOrProtein 820 824	iNOS
+T62	AminoAcidPeptideOrProtein 1581 1585	iNOS
+T63	BiologicallyActiveSubstance 820 824	iNOS
+T64	BiologicallyActiveSubstance 1581 1585	iNOS
+T65	CellOrMolecularDysfunction 2007 2022	myelin deficits
+T66	Finding 234 242	deficits
+T67	Finding 899 907	deficits
+T68	Finding 1116 1124	deficits
+T69	Finding 1962 1970	deficits
+T70	CellFunction 1645 1659	downregulation
+T71	BiologicallyActiveSubstance 749 769	toll like receptor 4
+T72	ResearchActivity 1876 1881	study
+T73	Eukaryote 342 347	human
+T74	HealthCareActivity 1449 1474	pharmacological treatment
+T75	DiseaseOrSyndrome 333 335	MS
+T76	DiseaseOrSyndrome 400 402	MS
+T77	DiseaseOrSyndrome 313 331	multiple sclerosis
+T78	ClinicalAttribute 965 971	marker
+T79	BiologicFunction 7 13	repair
+T80	HealthCareActivity 7 13	repair
+T81	BodyPartOrganOrOrganComponent 881 887	myelin
+T82	CellFunction 80 95	differentiation
+T83	CellFunction 1772 1787	differentiation
+T84	BodyPartOrganOrOrganComponent 27 49	central nervous system
+T85	CellOrMolecularDysfunction 248 272	loss of oligodendrocytes
+T86	Virus 342 376	human endogenous retrovirus type W
+T87	AminoAcidPeptideOrProtein 439 447;454 461	envelope protein
+T88	BiologicallyActiveSubstance 493 511	negative regulator
+T89	BiologicallyActiveSubstance 639 650	ENV protein
+T90	AminoAcidPeptideOrProtein 722 725	ENV
+T91	BiologicallyActiveSubstance 722 725	ENV
+T92	AminoAcidPeptideOrProtein 787 818	inducible nitric oxide synthase
+T93	BiologicallyActiveSubstance 787 818	inducible nitric oxide synthase
+T94	PathologicFunction 987 1012	morphological alterations
+T95	AminoAcidPeptideOrProtein 1102 1105	ENV
+T96	BiologicallyActiveSubstance 1102 1105	ENV
+T97	CellFunction 1201 1218	V-ATPase activity
+T98	AminoAcidPeptideOrProtein 1201 1209	V-ATPase
+T99	BiologicallyActiveSubstance 1201 1209	V-ATPase
+T100	BiologicallyActiveSubstance 1222 1247	myeloid differentiation 2
+T101	AminoAcidPeptideOrProtein 1249 1252	MD2
+T102	BiologicallyActiveSubstance 1249 1252	MD2
+T103	Chemical 1317 1324	L48H437
+T104	PharmacologicSubstance 1317 1324	L48H437
+T105	PharmacologicSubstance 1329 1338	folimycin
+T106	PharmacologicSubstance 1298 1309	compound 20
+T107	AminoAcidPeptideOrProtein 1311 1314	C20
+T108	PharmacologicSubstance 1311 1314	C20
+T109	CellFunction 1415 1433	surface expression
+T110	CellFunction 1039 1057	surface expression
+T111	CellFunction 1581 1595	iNOS induction
+T112	CellFunction 1668 1686	surface expression
+T113	AminoAcidPeptideOrProtein 1994 1997	ENV
+T114	BiologicallyActiveSubstance 1994 1997	ENV
+T115	AminoAcidPeptideOrProtein 449 452	ENV
+T116	BiologicallyActiveSubstance 449 452	ENV

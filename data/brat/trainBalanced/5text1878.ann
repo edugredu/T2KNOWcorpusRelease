@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 148 167	Parkinson's disease
+T1	DiseaseOrSyndrome 178 206	neurodegenerative conditions
+T2	CellFunction 129 144	neuroprotection
+T3	PathologicFunction 53 62	infection
+T4	Bacterium 33 52	Helicobacter pylori
+T5	BodyPartOrganOrOrganComponent 70 84	gut-brain axis
+T6	HealthCareActivity 0 22	Therapeutic strategies

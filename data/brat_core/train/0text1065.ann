@@ -1,0 +1,159 @@
+T0	GeneOrGenome 904 908	DKK1
+T1	CellFunction 1090 1099	Silencing
+T2	BiologicFunction 1568 1579	perspective
+T3	NucleicAcidNucleosideOrNucleotide 573 581	microRNA
+T4	BiologicallyActiveSubstance 573 581	microRNA
+T5	TemporalConcept 0 9	Currently
+T6	BodyPartOrganOrOrganComponent 231 242	bone marrow
+T7	AminoAcidPeptideOrProtein 638 641	Wnt
+T8	AminoAcidPeptideOrProtein 869 872	Wnt
+T9	AminoAcidPeptideOrProtein 1252 1255	Wnt
+T10	AminoAcidPeptideOrProtein 1286 1289	Wnt
+T11	AminoAcidPeptideOrProtein 1469 1472	Wnt
+T12	BiologicallyActiveSubstance 638 641	Wnt
+T13	BiologicallyActiveSubstance 869 872	Wnt
+T14	BiologicallyActiveSubstance 1252 1255	Wnt
+T15	BiologicallyActiveSubstance 1286 1289	Wnt
+T16	BiologicallyActiveSubstance 1469 1472	Wnt
+T17	Eukaryote 269 272	rat
+T18	Eukaryote 496 500	rats
+T19	Eukaryote 998 1002	rats
+T20	AminoAcidPeptideOrProtein 438 441	IDE
+T21	Finding 737 749	relationship
+T22	BiologicallyActiveSubstance 894 903	inhibitor
+T23	PharmacologicSubstance 894 903	inhibitor
+T24	Chemical 894 903	inhibitor
+T25	Cell 67 89	Mesenchymal stem cells
+T26	GeneOrGenome 599 604	BACE1
+T27	GeneOrGenome 755 760	BACE1
+T28	GeneOrGenome 805 810	BACE1
+T29	GeneOrGenome 1083 1088	BACE1
+T30	GeneOrGenome 1191 1196	BACE1
+T31	GeneOrGenome 1228 1233	BACE1
+T32	GeneOrGenome 1435 1440	BACE1
+T33	AminoAcidPeptideOrProtein 599 604	BACE1
+T34	AminoAcidPeptideOrProtein 755 760	BACE1
+T35	AminoAcidPeptideOrProtein 805 810	BACE1
+T36	AminoAcidPeptideOrProtein 1083 1088	BACE1
+T37	AminoAcidPeptideOrProtein 1191 1196	BACE1
+T38	AminoAcidPeptideOrProtein 1228 1233	BACE1
+T39	AminoAcidPeptideOrProtein 1435 1440	BACE1
+T40	BiologicallyActiveSubstance 599 604	BACE1
+T41	BiologicallyActiveSubstance 755 760	BACE1
+T42	BiologicallyActiveSubstance 805 810	BACE1
+T43	BiologicallyActiveSubstance 1083 1088	BACE1
+T44	BiologicallyActiveSubstance 1191 1196	BACE1
+T45	BiologicallyActiveSubstance 1228 1233	BACE1
+T46	BiologicallyActiveSubstance 1435 1440	BACE1
+T47	AminoAcidPeptideOrProtein 379 390	A beta 1-42
+T48	CellFunction 341 358	A beta deposition
+T49	BiologicallyActiveSubstance 379 390	A beta 1-42
+T50	CellComponent 105 127	extracellular vesicles
+T51	DiseaseOrSyndrome 11 30	Alzheimer's disease
+T52	CellComponent 129 132	EVs
+T53	CellComponent 139 142	EVs
+T54	CellComponent 247 250	EVs
+T55	CellComponent 259 262	EVs
+T56	CellComponent 481 484	EVs
+T57	CellComponent 537 540	EVs
+T58	CellComponent 689 692	EVs
+T59	CellComponent 854 857	EVs
+T60	CellComponent 930 933	EVs
+T61	CellComponent 961 964	EVs
+T62	CellComponent 1023 1026	EVs
+T63	CellComponent 1388 1391	EVs
+T64	DiseaseOrSyndrome 32 34	AD
+T65	DiseaseOrSyndrome 282 284	AD
+T66	DiseaseOrSyndrome 493 495	AD
+T67	DiseaseOrSyndrome 556 558	AD
+T68	DiseaseOrSyndrome 682 684	AD
+T69	DiseaseOrSyndrome 701 703	AD
+T70	DiseaseOrSyndrome 861 863	AD
+T71	DiseaseOrSyndrome 942 944	AD
+T72	DiseaseOrSyndrome 995 997	AD
+T73	DiseaseOrSyndrome 1051 1053	AD
+T74	DiseaseOrSyndrome 1162 1164	AD
+T75	DiseaseOrSyndrome 1357 1359	AD
+T76	DiseaseOrSyndrome 1533 1535	AD
+T77	DiseaseOrSyndrome 1638 1640	AD
+T78	CellComponent 1137 1139	EV
+T79	CellComponent 1331 1333	EV
+T80	Cell 559 565	neuron
+T81	ResearchActivity 195 200	study
+T82	ResearchActivity 1542 1547	study
+T83	ResearchActivity 273 278	model
+T84	ResearchActivity 566 571	model
+T85	ResearchActivity 704 710	models
+T86	Finding 520 526	effect
+T87	HealthCareActivity 1625 1634	treatment
+T88	ResearchActivity 1625 1634	treatment
+T89	CellFunction 605 615	expression
+T90	CellFunction 1441 1451	expression
+T91	CellFunction 1311 1321	inhibition
+T92	AminoAcidPeptideOrProtein 324 330	A beta
+T93	AminoAcidPeptideOrProtein 341 347	A beta
+T94	AminoAcidPeptideOrProtein 379 385	A beta
+T95	AminoAcidPeptideOrProtein 392 398	A beta
+T96	ResearchActivity 1197 1206	knockdown
+T97	AminoAcidPeptideOrProtein 310 317	amyloid
+T98	BiologicallyActiveSubstance 310 317	amyloid
+T99	Cell 945 952	neurons
+T100	Cell 1007 1014	neurons
+T101	Cell 1054 1061	neurons
+T102	Cell 1416 1423	neurons
+T103	AminoAcidPeptideOrProtein 461 470	cytokines
+T104	BiologicallyActiveSubstance 461 470	cytokines
+T105	CellFunction 638 662	Wnt/beta-catenin pathway
+T106	CellFunction 869 893	Wnt/beta-catenin pathway
+T107	CellFunction 1252 1276	Wnt/beta-catenin pathway
+T108	CellFunction 1286 1310	Wnt/beta-catenin pathway
+T109	CellFunction 1469 1493	Wnt/beta-catenin pathway
+T110	Cell 135 138	MSC
+T111	Cell 243 246	MSC
+T112	Cell 255 258	MSC
+T113	Cell 477 480	MSC
+T114	Cell 533 536	MSC
+T115	Cell 957 960	MSC
+T116	Cell 1019 1022	MSC
+T117	Cell 1133 1136	MSC
+T118	Cell 1384 1387	MSC
+T119	Cell 79 89	stem cells
+T120	Finding 1140 1158	therapeutic effect
+T121	Cell 91 95	MSCs
+T122	Cell 1117 1121	MSCs
+T123	Cell 1613 1617	MSCs
+T124	Finding 152 171	therapeutic effects
+T125	Finding 972 991	therapeutic effects
+T126	Finding 1334 1353	therapeutic effects
+T127	AminoAcidPeptideOrProtein 430 433	NEP
+T128	BiologicallyActiveSubstance 430 433	NEP
+T129	GeneOrGenome 430 433	NEP
+T130	BiologicFunction 290 308	cognitive function
+T131	AnatomicalAbnormality 310 322;332 339	amyloid-beta plaques
+T132	BodyPartOrganOrOrganComponent 231 235	bone
+T133	NucleicAcidNucleosideOrNucleotide 1402 1412	miR-29c-3p
+T134	BiologicallyActiveSubstance 1402 1412	miR-29c-3p
+T135	BiologicallyActiveSubstance 1100 1110	miR-29c-3p
+T136	BiologicallyActiveSubstance 1208 1218	miR-29c-3p
+T137	BiologicallyActiveSubstance 1035 1045	miR-29c-3p
+T138	BiologicallyActiveSubstance 1063 1073	miR-29c-3p
+T139	BiologicallyActiveSubstance 790 800	miR-29c-3p
+T140	BiologicallyActiveSubstance 726 736	miR-29c-3p
+T141	BiologicallyActiveSubstance 582 594	(miR)-29c-3p
+T142	NucleicAcidNucleosideOrNucleotide 582 594	(miR)-29c-3p
+T143	NucleicAcidNucleosideOrNucleotide 726 736	miR-29c-3p
+T144	NucleicAcidNucleosideOrNucleotide 790 800	miR-29c-3p
+T145	NucleicAcidNucleosideOrNucleotide 1035 1045	miR-29c-3p
+T146	NucleicAcidNucleosideOrNucleotide 1063 1073	miR-29c-3p
+T147	NucleicAcidNucleosideOrNucleotide 1100 1110	miR-29c-3p
+T148	NucleicAcidNucleosideOrNucleotide 1208 1218	miR-29c-3p
+T149	ExperimentalModelOfDisease 269 284	rat model of AD
+T150	BiologicallyActiveSubstance 438 441	IDE
+T151	GeneOrGenome 438 441	IDE
+T152	ExperimentalModelOfDisease 556 571	AD neuron model
+T153	ExperimentalModelOfDisease 493 500	AD rats
+T154	ExperimentalModelOfDisease 701 710	AD models
+T155	BiologicallyActiveSubstance 904 908	DKK1
+T156	AminoAcidPeptideOrProtein 904 908	DKK1
+T157	ExperimentalModelOfDisease 1051 1061	AD neurons
+T158	Finding 1513 1529	therapeutic role

@@ -1,0 +1,12 @@
+T0	DiseaseOrSyndrome 183 210	neurodegenerative disorders
+T1	ExperimentalModelOfDisease 166 210	animal models of neurodegenerative disorders
+T2	Organism 99 103	host
+T3	Finding 139 162	neuroprotective effects
+T4	Organism 17 31	gut microbiota
+T5	Bacterium 104 112	bacteria
+T6	Finding 113 125	interactions
+T7	ResearchActivity 166 179	animal models
+T8	NaturalPhenomenonOrProcess 99 125	host-bacteria interactions
+T9	Bacterium 40 50	probiotics
+T10	Chemical 54 64	prebiotics
+T11	Eukaryote 166 172	animal

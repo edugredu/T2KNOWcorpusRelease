@@ -1,0 +1,120 @@
+T0	AminoAcidPeptideOrProtein 11 44	Chondroitin sulfate proteoglycans
+T1	BiologicallyActiveSubstance 11 44	Chondroitin sulfate proteoglycans
+T2	AminoAcidPeptideOrProtein 46 51	CSPGs
+T3	BiologicallyActiveSubstance 46 51	CSPGs
+T4	Cell 178 188	macrophage
+T5	AminoAcidPeptideOrProtein 714 719	EXTL2
+T6	GeneOrGenome 714 719	EXTL2
+T7	Cell 738 751	Cell cultures
+T8	AminoAcidPeptideOrProtein 875 880	CSPGs
+T9	BiologicallyActiveSubstance 875 880	CSPGs
+T10	ResearchActivity 1017 1024	mapping
+T11	AminoAcidPeptideOrProtein 1054 1073	glycosyltransferase
+T12	BiologicallyActiveSubstance 1054 1073	glycosyltransferase
+T13	AminoAcidPeptideOrProtein 1092 1097	EXTL2
+T14	GeneOrGenome 1092 1097	EXTL2
+T15	CellFunction 1135 1152	CSPG biosynthesis
+T16	AminoAcidPeptideOrProtein 1446 1451	CSPGs
+T17	BiologicallyActiveSubstance 1446 1451	CSPGs
+T18	ResearchActivity 1640 1654	tissue culture
+T19	Cell 1656 1697	activated bone marrow-derived macrophages
+T20	AminoAcidPeptideOrProtein 1759 1768	TNF alpha
+T21	GeneOrGenome 1759 1768	TNF alpha
+T22	BiologicallyActiveSubstance 1759 1768	TNF alpha
+T23	AminoAcidPeptideOrProtein 1844 1849	CSPGs
+T24	BiologicallyActiveSubstance 1844 1849	CSPGs
+T25	AminoAcidPeptideOrProtein 1915 1920	CSPGs
+T26	BiologicallyActiveSubstance 1915 1920	CSPGs
+T27	ExperimentalModelOfDisease 283 323	inflammatory model of multiple sclerosis
+T28	ExperimentalModelOfDisease 237 278	experimental autoimmune encephalomyelitis
+T29	Cell 791 830	primary oligodendrocyte precursor cells
+T30	GeneOrGenome 1179 1185	genome
+T31	MolecularSequence 362 393	single nucleotide polymorphisms
+T32	MolecularSequence 395 399	SNPs
+T33	MolecularSequence 1012 1016	SNPs
+T34	MolecularSequence 1167 1171	SNPs
+T35	Cell 799 830	oligodendrocyte precursor cells
+T36	PathologicFunction 1352 1365	demyelinating
+T37	DiseaseOrSyndrome 305 323	multiple sclerosis
+T38	DiseaseOrSyndrome 528 546	multiple sclerosis
+T39	BodyPartOrganOrOrganComponent 1521 1527	myelin
+T40	InjuryOrPoisoning 1628 1635	lesions
+T41	InjuryOrPoisoning 1937 1944	lesions
+T42	InjuryOrPoisoning 1459 1465	lesion
+T43	AminoAcidPeptideOrProtein 1801 1805	MMPs
+T44	BiologicallyActiveSubstance 1801 1805	MMPs
+T45	AminoAcidPeptideOrProtein 1781 1799	metalloproteinases
+T46	BiologicallyActiveSubstance 1781 1799	metalloproteinases
+T47	BodyPartOrganOrOrganComponent 598 609	spinal cord
+T48	BodyPartOrganOrOrganComponent 1380 1391	spinal cord
+T49	InjuryOrPoisoning 564 584	demyelinating injury
+T50	InjuryOrPoisoning 1352 1372	demyelinating injury
+T51	AminoAcidPeptideOrProtein 31 44	proteoglycans
+T52	BiologicallyActiveSubstance 31 44	proteoglycans
+T53	AminoAcidPeptideOrProtein 1774 1799	matrix metalloproteinases
+T54	BiologicallyActiveSubstance 1774 1799	matrix metalloproteinases
+T55	Chemical 64 74	inhibitors
+T56	PharmacologicSubstance 64 74	inhibitors
+T57	BiologicallyActiveSubstance 64 74	inhibitors
+T58	AminoAcidPeptideOrProtein 64 74	inhibitors
+T59	ResearchActivity 1647 1654	culture
+T60	CellComponent 78 84	axonal
+T61	CellComponent 1503 1509	axonal
+T62	CellComponent 1958 1964	axonal
+T63	InjuryOrPoisoning 1528 1538	disruption
+T64	AminoAcidPeptideOrProtein 1730 1757	tumor necrosis factor alpha
+T65	BiologicallyActiveSubstance 1730 1757	tumor necrosis factor alpha
+T66	Cell 799 824	oligodendrocyte precursor
+T67	Cell 775 786	macrophages
+T68	Cell 1609 1620	macrophages
+T69	Cell 1686 1697	macrophages
+T70	PathologicFunction 283 295	inflammatory
+T71	BodyPartOrganOrOrganComponent 1666 1677	bone marrow
+T72	Cell 755 786	bone marrow-derived macrophages
+T73	Cell 1666 1697	bone marrow-derived macrophages
+T74	Chemical 884 901	conditioned media
+T75	ResearchActivity 1551 1560	wild-type
+T76	Eukaryote 1551 1565	wild-type mice
+T77	BodyPartOrganOrOrganComponent 211 233	central nervous system
+T78	ResearchActivity 1314 1319	study
+T79	ResearchActivity 944 951	Results
+T80	Finding 966 974	evidence
+T81	Finding 1203 1211	evidence
+T82	Eukaryote 1561 1565	mice
+T83	ResearchActivity 585 590	model
+T84	ResearchActivity 517 524	studies
+T85	ResearchActivity 1242 1249	studies
+T86	Cell 1599 1608	microglia
+T87	BodyPartOrganOrOrganComponent 1640 1646	tissue
+T88	CellFunction 444 454	metabolism
+T89	BiologicFunction 444 454	metabolism
+T90	Cell 835 842	neurons
+T91	BiomedicalOccupationOrDiscipline 552 560	genetics
+T92	CellFunction 552 560	genetics
+T93	TemporalConcept 118 126	recently
+T94	InjuryOrPoisoning 1965 1971	injury
+T95	CellFunction 98 111	remyelination
+T96	CellFunction 723 736	remyelination
+T97	DiseaseOrSyndrome 548 550	MS
+T98	Finding 686 693	effects
+T99	Finding 1292 1299	effects
+T100	PathologicFunction 1878 1895	neuroinflammation
+T101	BiologicallyActiveSubstance 1103 1109	enzyme
+T102	Finding 1491 1502	exacerbated
+T103	BodyPartOrganOrOrganComponent 1666 1670	bone
+T104	BiologicallyActiveSubstance 165 174	modulator
+T105	BiologicallyActiveSubstance 1865 1874	modulator
+T106	BiologicallyActiveSubstance 714 719	EXTL2
+T107	CellFunction 78 93	axonal regrowth
+T108	CellFunction 178 201	macrophage infiltration
+T109	AminoAcidPeptideOrProtein 439 443	CSPG
+T110	BiologicallyActiveSubstance 439 443	CSPG
+T111	ResearchActivity 613 639;653 657	exostosin-like 2 deficient mice
+T112	ExperimentalModelOfDisease 564 590	demyelinating injury model
+T113	BiologicallyActiveSubstance 1074 1090	exostosin-like 2
+T114	AminoAcidPeptideOrProtein 1074 1090	exostosin-like 2
+T115	BiologicallyActiveSubstance 1092 1097	EXTL2
+T116	InjuryOrPoisoning 1510 1516	damage
+T117	ResearchActivity 1703 1717	EXTL2(-/-)mice
+T118	ResearchActivity 1472 1486	EXTL2(-/-)mice
+T119	ResearchActivity 1395 1409	EXTL2(-/-)mice

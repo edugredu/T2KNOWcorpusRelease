@@ -1,0 +1,113 @@
+T0	CellFunction 419 436	exosome secretion
+T1	AminoAcidPeptideOrProtein 474 500	autophagy-related proteins
+T2	AminoAcidPeptideOrProtein 565 575	optineurin
+T3	AminoAcidPeptideOrProtein 718 723	actin
+T4	CellFunction 736 761	secretory vesicle release
+T5	CellFunction 992 1005	sEV secretion
+T6	AminoAcidPeptideOrProtein 1056 1066	optineurin
+T7	GeneOrGenome 1056 1066	optineurin
+T8	CellFunction 1075 1088	sEV secretion
+T9	CellFunction 1133 1137	bind
+T10	CellFunction 1290 1314	bind ubiquitinated cargo
+T11	AminoAcidPeptideOrProtein 1340 1345	actin
+T12	CellFunction 1367 1398	SSH1-cofilin activation pathway
+T13	CellFunction 1414 1427	sEV secretion
+T14	Chemical 1450 1463	latrunculin B
+T15	CellFunction 1528 1541	sEV secretion
+T16	Finding 1646 1656	engagement
+T17	CellOrMolecularDysfunction 1508 1514	mutant
+T18	Finding 1329 1339	increasing
+T19	Finding 1620 1630	increasing
+T20	NaturalPhenomenonOrProcess 1794 1805	degradation
+T21	CellFunction 395 414	autophagic activity
+T22	CellFunction 1662 1672	autophagic
+T23	CellOrMolecularDysfunction 52 70	misfolded proteins
+T24	BiologicallyActiveSubstance 1637 1645	receptor
+T25	CellOrMolecularDysfunction 1776 1793	misfolded protein
+T26	CellComponent 222 250	small extracellular vesicles
+T27	CellComponent 330 358	small extracellular vesicles
+T28	CellFunction 775 787	EV secretion
+T29	Finding 11 19	evidence
+T30	AminoAcidPeptideOrProtein 174 182	proteins
+T31	AminoAcidPeptideOrProtein 492 500	proteins
+T32	CellFunction 1719 1729	inhibition
+T33	DiseaseOrSyndrome 74 93	Alzheimer's disease
+T34	DiseaseOrSyndrome 95 97	AD
+T35	AminoAcidPeptideOrProtein 191 197	A beta
+T36	AminoAcidPeptideOrProtein 1484 1503	A beta 42 oligomers
+T37	CellComponent 258 266	exosomes
+T38	Finding 39 51	accumulation
+T39	PathologicFunction 1857 1866	pathology
+T40	BiomedicalOccupationOrDiscipline 1857 1866	pathology
+T41	Cell 292 296	cell
+T42	Cell 300 304	cell
+T43	AminoAcidPeptideOrProtein 202 205	tau
+T44	AminoAcidPeptideOrProtein 1515 1518	tau
+T45	BiologicallyActiveSubstance 202 205	tau
+T46	BiologicallyActiveSubstance 1515 1518	tau
+T47	NaturalPhenomenonOrProcess 111 120	clearance
+T48	HealthCareActivity 1464 1473	treatment
+T49	ResearchActivity 1464 1473	treatment
+T50	OrganismAttribute 1122 1129	ability
+T51	ResearchActivity 808 813	study
+T52	ResearchActivity 968 973	study
+T53	CellFunction 136 145	autophagy
+T54	CellFunction 474 483	autophagy
+T55	CellFunction 602 611	autophagy
+T56	CellFunction 908 917	autophagy
+T57	ResearchActivity 374 381	studies
+T58	TemporalConcept 367 373	Recent
+T59	NaturalPhenomenonOrProcess 724 732	dynamics
+T60	NaturalPhenomenonOrProcess 955 963	dynamics
+T61	NaturalPhenomenonOrProcess 1346 1354	dynamics
+T62	NaturalPhenomenonOrProcess 1698 1706	dynamics
+T63	CellFunction 155 162	pathway
+T64	CellFunction 534 539	cargo
+T65	CellFunction 612 617	cargo
+T66	CellFunction 1025 1030	cargo
+T67	CellFunction 1152 1157	cargo
+T68	CellFunction 1631 1636	cargo
+T69	CellFunction 1673 1678	cargo
+T70	CellComponent 360 364	sEVs
+T71	CellComponent 514 518	sEVs
+T72	CellComponent 661 665	sEVs
+T73	CellComponent 1586 1590	sEVs
+T74	CellComponent 1075 1078	sEV
+T75	CellComponent 1186 1189	sEV
+T76	CellComponent 1414 1417	sEV
+T77	CellComponent 1528 1531	sEV
+T78	CellComponent 1821 1824	sEV
+T79	CellFunction 648 665	secretion of sEVs
+T80	Finding 1683 1691	reducing
+T81	Finding 1812 1820	reducing
+T82	CellComponent 419 426	exosome
+T83	BiologicallyActiveSubstance 540 560	receptors Sqstm1/p62
+T84	BiologicallyActiveSubstance 602 627	autophagy cargo receptors
+T85	AminoAcidPeptideOrProtein 845 864	Slingshot Homolog-1
+T86	BiologicallyActiveSubstance 845 864	Slingshot Homolog-1
+T87	GeneOrGenome 866 870	SSH1
+T88	AminoAcidPeptideOrProtein 866 870	SSH1
+T89	BiologicallyActiveSubstance 866 870	SSH1
+T90	AminoAcidPeptideOrProtein 888 894	Sqstm1
+T91	BiologicallyActiveSubstance 888 894	Sqstm1
+T92	GeneOrGenome 888 894	Sqstm1
+T93	AminoAcidPeptideOrProtein 895 898	p62
+T94	AminoAcidPeptideOrProtein 932 939	cofilin
+T95	BiologicallyActiveSubstance 932 939	cofilin
+T96	BiologicallyActiveSubstance 1025 1051	cargo receptors Sqstm1/p62
+T97	AminoAcidPeptideOrProtein 1171 1175	SSH1
+T98	BiologicallyActiveSubstance 1171 1175	SSH1
+T99	GeneOrGenome 1173 1174	H
+T100	CellFunction 1186 1199	sEV secretion
+T101	AminoAcidPeptideOrProtein 1248 1263	phospho-residue
+T102	BiologicallyActiveSubstance 1276 1286	Sqstm1/p62
+T103	AminoAcidPeptideOrProtein 1276 1286	Sqstm1/p62
+T104	CellFunction 1203 1220	dephosphorylating
+T105	BiologicallyActiveSubstance 1221 1231	Sqstm1/p62
+T106	AminoAcidPeptideOrProtein 1221 1231	Sqstm1/p62
+T107	AminoAcidPeptideOrProtein 1235 1242	pSer403
+T108	AminoAcidPeptideOrProtein 1692 1697	actin
+T109	BiologicallyActiveSubstance 1714 1718	SSH1
+T110	AminoAcidPeptideOrProtein 1714 1718	SSH1
+T111	GeneOrGenome 1714 1718	SSH1
+T112	Finding 1834 1853	cell to cell spread

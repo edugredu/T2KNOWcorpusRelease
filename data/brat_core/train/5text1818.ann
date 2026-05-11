@@ -1,0 +1,9 @@
+T0	DiseaseOrSyndrome 82 108	neurodegenerative diseases
+T1	BiologicFunction 22 30	delivery
+T2	Cell 136 143;154 159	neurons cells
+T3	Cell 148 159	glial cells
+T4	Cell 148 153	glial
+T5	GeneOrGenome 17 21	gene
+T6	Virus 0 10	Adenovirus
+T7	ResearchActivity 17 41	gene delivery approaches
+T8	Finding 58 78	therapeutic benefits

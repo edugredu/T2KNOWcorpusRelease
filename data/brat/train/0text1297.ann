@@ -1,0 +1,81 @@
+T0	TemporalConcept 110 119	permanent
+T1	Cell 288 319	oligodendrocyte progenitor cell
+T2	AminoAcidPeptideOrProtein 566 580	myelin protein
+T3	AminoAcidPeptideOrProtein 694 697	Bac
+T4	SignOrSymptom 736 746	spasticity
+T5	AminoAcidPeptideOrProtein 795 798	Bac
+T6	AminoAcidPeptideOrProtein 809 823	myelin protein
+T7	AminoAcidPeptideOrProtein 897 900	Bac
+T8	Chemical 970 973	LPC
+T9	AminoAcidPeptideOrProtein 1094 1097	Bac
+T10	CellFunction 431 438	express
+T11	AminoAcidPeptideOrProtein 458 467	GABA(B)Rs
+T12	BiologicallyActiveSubstance 458 467	GABA(B)Rs
+T13	BiologicallyActiveSubstance 676 683	agonist
+T14	SignOrSymptom 120 143	neurological disability
+T15	Cell 321 324	OPC
+T16	Cell 542 545	OPC
+T17	Cell 1024 1027	OPC
+T18	DiseaseOrSyndrome 161 179	multiple sclerosis
+T19	BodyPartOrganOrOrganComponent 809 815	myelin
+T20	InjuryOrPoisoning 378 385	lesions
+T21	BodyPartOrganOrOrganComponent 991 1002	spinal cord
+T22	CellFunction 523 532	signaling
+T23	CellFunction 326 341	differentiation
+T24	CellFunction 546 561	differentiation
+T25	CellFunction 1028 1043	differentiation
+T26	Chemical 838 850	lysolecithin
+T27	PharmacologicSubstance 838 850	lysolecithin
+T28	CellFunction 542 561	OPC differentiation
+T29	CellFunction 1024 1043	OPC differentiation
+T30	BodyPartOrganOrOrganComponent 865 882	cerebellar slices
+T31	Cell 415 430	oligodendroglia
+T32	CellFunction 640 653	remyelinating
+T33	Cell 304 319	progenitor cell
+T34	PatientOrDisabledGroup 147 155	patients
+T35	PatientOrDisabledGroup 750 758	patients
+T36	PatientOrDisabledGroup 1197 1205	patients
+T37	BiologicFunction 95 106	development
+T38	CellFunction 95 106	development
+T39	Eukaryote 925 929	mice
+T40	Cell 315 319	cell
+T41	TemporalConcept 771 776	first
+T42	CellFunction 581 591	expression
+T43	ResearchActivity 474 482	in vitro
+T44	ResearchActivity 592 600	in vitro
+T45	AminoAcidPeptideOrProtein 505 513	GABA(B)R
+T46	AminoAcidPeptideOrProtein 667 675	GABA(B)R
+T47	BiologicallyActiveSubstance 505 513	GABA(B)R
+T48	BiologicallyActiveSubstance 667 675	GABA(B)R
+T49	PharmacologicSubstance 271 276	drugs
+T50	ResearchActivity 487 494	in vivo
+T51	CellFunction 10 23	remyelination
+T52	CellFunction 1048 1061	remyelination
+T53	CellFunction 1180 1193	remyelination
+T54	DiseaseOrSyndrome 181 183	MS
+T55	DiseaseOrSyndrome 375 377	MS
+T56	DiseaseOrSyndrome 764 766	MS
+T57	DiseaseOrSyndrome 1211 1213	MS
+T58	PathologicFunction 953 966	demyelination
+T59	PopulationGroup 919 924	adult
+T60	PharmacologicSubstance 722 726	drug
+T61	AminoAcidPeptideOrProtein 439 456	GABA(B) receptors
+T62	BiologicallyActiveSubstance 439 456	GABA(B) receptors
+T63	HealthCareActivity 974 983	injection
+T64	AminoAcidPeptideOrProtein 816 823	protein
+T65	HealthCareActivity 1146 1166	therapeutic strategy
+T66	ResearchActivity 211 226	clinical trials
+T67	TemporalConcept 367 374	chronic
+T68	Finding 133 143	disability
+T69	HealthCareActivity 53 73	neurorepair strategy
+T70	AminoAcidPeptideOrProtein 684 692	baclofen
+T71	PharmacologicSubstance 684 692	baclofen
+T72	PharmacologicSubstance 694 697	Bac
+T73	PharmacologicSubstance 795 798	Bac
+T74	PharmacologicSubstance 897 900	Bac
+T75	HealthCareActivity 901 915	administration
+T76	Chemical 852 855	LPC
+T77	PharmacologicSubstance 852 855	LPC
+T78	PharmacologicSubstance 970 973	LPC
+T79	PharmacologicSubstance 1094 1097	Bac
+T80	HealthCareActivity 1094 1109	Bac repurposing

@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 118 144	neurodegenerative diseases
+T1	HealthCareActivity 64 73	treatment
+T2	ResearchActivity 64 73	treatment
+T3	Finding 4 12	presence
+T4	PopulationGroup 101 112	individuals
+T5	HealthCareActivity 88 97	prognosis
+T6	BiologicFunction 74 83	decisions
+T7	AnatomicalAbnormality 27 49	brain stem compression

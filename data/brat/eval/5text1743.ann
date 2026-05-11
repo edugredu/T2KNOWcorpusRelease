@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 133 159	neurodegenerative diseases
+T1	CellFunction 98 108	expression
+T2	NucleicAcidNucleosideOrNucleotide 30 37	vectors
+T3	TemporalConcept 88 97	long-term
+T4	GeneOrGenome 112 129	therapeutic genes
+T5	Virus 0 6	Herpes
+T6	Virus 0 20	Herpes Simplex Virus
+T7	ResearchActivity 54 75	non-integrating tools

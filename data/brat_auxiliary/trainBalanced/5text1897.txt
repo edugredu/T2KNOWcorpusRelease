@@ -1,0 +1,1 @@
+Machine learning algorithms are increasingly employed in Alzheimer's disease research to analyze large datasets and identify patterns in brain imaging scans.

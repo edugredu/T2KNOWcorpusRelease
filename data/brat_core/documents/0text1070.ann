@@ -1,0 +1,78 @@
+T0	Finding 439 446	frailty
+T1	Finding 653 658	frail
+T2	CellComponent 1199 1202	MDV
+T3	Finding 1234 1239	frail
+T4	CellComponent 1404 1407	MDV
+T5	Finding 1435 1440	frail
+T6	CellComponent 1638 1641	NDV
+T7	CellComponent 1646 1649	MDV
+T8	DiseaseOrSyndrome 717 720	MCI
+T9	DiseaseOrSyndrome 1240 1243	MCI
+T10	DiseaseOrSyndrome 1441 1444	MCI
+T11	ResearchActivity 1464 1467	AUC
+T12	DiseaseOrSyndrome 141 164	pathological conditions
+T13	PathologicFunction 296 319	pathological conditions
+T14	BodyPartOrganOrOrganComponent 189 206	biological fluids
+T15	Substance 200 206	fluids
+T16	Finding 1624 1634	alteration
+T17	DiseaseOrSyndrome 739 758	Alzheimer's disease
+T18	CellComponent 24 27	EVs
+T19	CellComponent 551 554	EVs
+T20	CellComponent 559 565;580 592	neural -derived EVs
+T21	CellComponent 1729 1732	EVs
+T22	DiseaseOrSyndrome 760 762	AD
+T23	DiseaseOrSyndrome 805 807	AD
+T24	DiseaseOrSyndrome 1011 1013	AD
+T25	CellComponent 395 397	EV
+T26	PatientOrDisabledGroup 764 772	patients
+T27	PatientOrDisabledGroup 808 816	patients
+T28	PatientOrDisabledGroup 1244 1252	patients
+T29	ResearchActivity 1031 1051	area under the curve
+T30	ResearchActivity 359 364	study
+T31	BodyPartOrganOrOrganComponent 643 649	plasma
+T32	ResearchActivity 774 781	Results
+T33	PopulationGroup 663 681	non-frail controls
+T34	Finding 791 799	evidence
+T35	ResearchActivity 257 265	research
+T36	ClinicalAttribute 269 279	biomarkers
+T37	CellComponent 0 22	Extracellular vesicles
+T38	Finding 1091 1102	specificity
+T39	Finding 1508 1519	specificity
+T40	Finding 1385 1391	effect
+T41	CellFunction 46 68	cellular communication
+T42	Finding 33 42	mediators
+T43	OrganismAttribute 284 287	age
+T44	TemporalConcept 487 498	progressive
+T45	Finding 944 948	high
+T46	Finding 1369 1373	high
+T47	Cell 1395 1402	neurons
+T48	PopulationGroup 722 730	subjects
+T49	DiseaseOrSyndrome 512 529	cognitive decline
+T50	DiseaseOrSyndrome 1665 1682	cognitive decline
+T51	Finding 1744 1750	status
+T52	DiseaseOrSyndrome 690 715	mild cognitive impairment
+T53	OrganismAttribute 416 420	size
+T54	Finding 1063 1074	sensitivity
+T55	Finding 1483 1494	sensitivity
+T56	Chemical 919 928	particles
+T57	Chemical 1153 1162	particles
+T58	Chemical 1334 1343	particles
+T59	Chemical 1568 1577	particles
+T60	Finding 949 971	diagnostic performance
+T61	Finding 499 507;522 529	physical decline
+T62	Finding 1675 1682	decline
+T63	Cell 104 114	cell types
+T64	BiologicFunction 398 411	concentration
+T65	BiologicFunction 1408 1421	concentration
+T66	HealthCareActivity 1650 1657	release
+T67	ResearchActivity 1650 1657	release
+T68	CellComponent 570 592	microglial-derived EVs
+T69	CellComponent 594 598	NDVs
+T70	CellComponent 603 607	MDVs
+T71	CellComponent 838 841	NDV
+T72	ResearchActivity 1129 1136	cut-off
+T73	InjuryOrPoisoning 1374 1384	neurotoxic
+T74	ResearchActivity 1544 1551	cut-off
+T75	Finding 1736 1743	frailty
+T76	DiseaseOrSyndrome 450 468	geriatric syndrome
+T77	Finding 384 391	changes

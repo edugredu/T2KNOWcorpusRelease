@@ -1,0 +1,105 @@
+T0	ResearchActivity 133 144	Measurement
+T1	HealthCareActivity 133 144	Measurement
+T2	BodyPartOrganOrOrganComponent 373 384	body fluids
+T3	Substance 373 384	body fluids
+T4	Finding 304 312	invasive
+T5	BiologicFunction 435 449	concentrations
+T6	ClinicalAttribute 506 534	CSF A beta 42 concentrations
+T7	ClinicalAttribute 701 732	saliva A beta 42 concentrations
+T8	ClinicalAttribute 897 925	CSF A beta 42 concentrations
+T9	ClinicalAttribute 1029 1062	Salivary A beta 42 concentrations
+T10	BiologicFunction 1213 1227	concentrations
+T11	ClinicalAttribute 1321 1354	salivary A beta 42 concentrations
+T12	ResearchActivity 313 326	investigation
+T13	ResearchActivity 1377 1390	investigation
+T14	AminoAcidPeptideOrProtein 148 157	A beta 42
+T15	AminoAcidPeptideOrProtein 510 519	A beta 42
+T16	AminoAcidPeptideOrProtein 708 717	A beta 42
+T17	AminoAcidPeptideOrProtein 901 910	A beta 42
+T18	AminoAcidPeptideOrProtein 1038 1047	A beta 42
+T19	AminoAcidPeptideOrProtein 1203 1212	A beta 42
+T20	AminoAcidPeptideOrProtein 1330 1339	A beta 42
+T21	BiologicallyActiveSubstance 148 157	A beta 42
+T22	BiologicallyActiveSubstance 510 519	A beta 42
+T23	BiologicallyActiveSubstance 708 717	A beta 42
+T24	BiologicallyActiveSubstance 901 910	A beta 42
+T25	BiologicallyActiveSubstance 1038 1047	A beta 42
+T26	BiologicallyActiveSubstance 1203 1212	A beta 42
+T27	BiologicallyActiveSubstance 1330 1339	A beta 42
+T28	HealthCareActivity 274 289	lumbar puncture
+T29	DiseaseOrSyndrome 572 581	dementias
+T30	DiseaseOrSyndrome 664 673	dementias
+T31	DiseaseOrSyndrome 818 827	dementias
+T32	BodyPartOrganOrOrganComponent 426 434	salivary
+T33	BodyPartOrganOrOrganComponent 493 501	salivary
+T34	BodyPartOrganOrOrganComponent 884 892	salivary
+T35	BodyPartOrganOrOrganComponent 1321 1329	salivary
+T36	BodyPartOrganOrOrganComponent 336 342	saliva
+T37	BodyPartOrganOrOrganComponent 701 707	saliva
+T38	BodyPartOrganOrOrganComponent 1195 1201	saliva
+T39	BodyPartOrganOrOrganComponent 373 377	body
+T40	AminoAcidPeptideOrProtein 161 164	tau
+T41	AminoAcidPeptideOrProtein 172 175	tau
+T42	AminoAcidPeptideOrProtein 1096 1099	tau
+T43	AminoAcidPeptideOrProtein 1129 1132	tau
+T44	DiseaseOrSyndrome 107 126	Alzheimer's disease
+T45	BodyPartOrganOrOrganComponent 200 203	CSF
+T46	BodyPartOrganOrOrganComponent 506 509	CSF
+T47	BodyPartOrganOrOrganComponent 897 900	CSF
+T48	BodyPartOrganOrOrganComponent 1090 1093	CSF
+T49	BodyPartOrganOrOrganComponent 1313 1316	CSF
+T50	BiologicallyActiveSubstance 161 164	tau
+T51	BiologicallyActiveSubstance 172 175	tau
+T52	BiologicallyActiveSubstance 1096 1099	tau
+T53	BiologicallyActiveSubstance 1129 1132	tau
+T54	DiseaseOrSyndrome 128 130	AD
+T55	DiseaseOrSyndrome 261 263	AD
+T56	DiseaseOrSyndrome 453 455	AD
+T57	DiseaseOrSyndrome 538 540	AD
+T58	DiseaseOrSyndrome 569 571	AD
+T59	DiseaseOrSyndrome 627 629	AD
+T60	DiseaseOrSyndrome 661 663	AD
+T61	DiseaseOrSyndrome 736 738	AD
+T62	DiseaseOrSyndrome 815 817	AD
+T63	DiseaseOrSyndrome 992 994	AD
+T64	DiseaseOrSyndrome 1182 1184	AD
+T65	BodyPartOrganOrOrganComponent 179 198	cerebrospinal fluid
+T66	PopulationGroup 587 595	controls
+T67	PopulationGroup 682 690	controls
+T68	PopulationGroup 768 776	controls
+T69	PatientOrDisabledGroup 541 549	patients
+T70	PatientOrDisabledGroup 551 559	patients
+T71	PatientOrDisabledGroup 630 638	patients
+T72	PatientOrDisabledGroup 643 651	patients
+T73	PatientOrDisabledGroup 739 747	patients
+T74	PatientOrDisabledGroup 797 805	patients
+T75	PatientOrDisabledGroup 995 1003	patients
+T76	PatientOrDisabledGroup 1185 1193	patients
+T77	ResearchActivity 226 232	method
+T78	HealthCareActivity 226 232	method
+T79	HealthCareActivity 94 103	diagnosis
+T80	HealthCareActivity 248 257	diagnosis
+T81	ClinicalAttribute 31 41	biomarkers
+T82	ResearchActivity 401 406	study
+T83	ResearchActivity 1161 1166	study
+T84	BiologicallyActiveSubstance 159 164	t-tau
+T85	BiologicallyActiveSubstance 1094 1099	t-tau
+T86	AminoAcidPeptideOrProtein 159 164	t-tau
+T87	AminoAcidPeptideOrProtein 1094 1099	t-tau
+T88	AminoAcidPeptideOrProtein 170 175	p-tau
+T89	AminoAcidPeptideOrProtein 1127 1132	p-tau
+T90	BiologicallyActiveSubstance 170 175	p-tau
+T91	BiologicallyActiveSubstance 1127 1132	p-tau
+T92	PopulationGroup 951 956	group
+T93	PopulationGroup 614 622	subjects
+T94	AminoAcidPeptideOrProtein 148 154	A beta
+T95	AminoAcidPeptideOrProtein 510 516	A beta
+T96	AminoAcidPeptideOrProtein 708 714	A beta
+T97	AminoAcidPeptideOrProtein 901 907	A beta
+T98	AminoAcidPeptideOrProtein 1038 1044	A beta
+T99	AminoAcidPeptideOrProtein 1203 1209	A beta
+T100	AminoAcidPeptideOrProtein 1330 1336	A beta
+T101	Substance 45 62	biological fluids
+T102	ClinicalAttribute 1090 1099	CSF t-tau
+T103	ClinicalAttribute 1090 1093;1127 1132	CSF p-tau
+T104	ResearchActivity 1284 1304	negative correlation

@@ -1,0 +1,9 @@
+T0	DiseaseOrSyndrome 57 84	neurodegenerative disorders
+T1	HealthCareActivity 130 152	therapeutic strategies
+T2	Organism 27 31	host
+T3	Finding 11 20	knowledge
+T4	Bacterium 32 40	bacteria
+T5	Finding 41 53	interactions
+T6	DiseaseOrSyndrome 231 254	debilitating conditions
+T7	NaturalPhenomenonOrProcess 27 53	host-bacteria interactions
+T8	Organism 164 174	microbiota

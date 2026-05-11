@@ -1,0 +1,7 @@
+T0	CellOrMolecularDysfunction 87 104	neurodegeneration
+T1	CellFunction 50 68	lysosomal function
+T2	CellFunction 36 45	autophagy
+T3	Finding 108 114	severe
+T4	Virus 0 10	SARS-CoV-2
+T5	CellComponent 50 59	lysosomal
+T6	DiseaseOrSyndrome 115 123	COVID-19

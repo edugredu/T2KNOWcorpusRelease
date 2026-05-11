@@ -1,0 +1,74 @@
+T0	Finding 0 12	Insufficient
+T1	Finding 152 171	white matter injury
+T2	Finding 173 176	WMI
+T3	Finding 182 203	neurological deficits
+T4	AminoAcidPeptideOrProtein 318 329	lipocalin-2
+T5	BiologicallyActiveSubstance 318 329	lipocalin-2
+T6	AminoAcidPeptideOrProtein 331 335	LCN2
+T7	GeneOrGenome 331 335	LCN2
+T8	BiologicallyActiveSubstance 331 335	LCN2
+T9	Finding 364 367	WMI
+T10	BiologicallyActiveSubstance 441 472	early growth response protein 1
+T11	GeneOrGenome 474 478	EGR1
+T12	AminoAcidPeptideOrProtein 474 478	EGR1
+T13	CellFunction 491 498	signals
+T14	GeneOrGenome 586 590	EGR1
+T15	AminoAcidPeptideOrProtein 586 590	EGR1
+T16	Finding 859 862	WMI
+T17	BodyPartOrganOrOrganComponent 870 882	subarachnoid
+T18	PathologicFunction 883 893	hemorrhage
+T19	Finding 883 893	hemorrhage
+T20	Finding 915 918	WMI
+T21	Finding 1053 1072	white matter injury
+T22	MolecularSequence 223 236	transcriptome
+T23	AminoAcidPeptideOrProtein 420 440	transcription factor
+T24	BiologicallyActiveSubstance 420 440	transcription factor
+T25	BodyPartOrganOrOrganComponent 701 703	WM
+T26	ResearchActivity 208 216	analyzed
+T27	Cell 75 78	OPC
+T28	Cell 340 343	OPC
+T29	Cell 542 545	OPC
+T30	Cell 582 585	OPC
+T31	Cell 641 644	OPC
+T32	BiologicFunction 100 110	maturation
+T33	DiseaseOrSyndrome 926 944	multiple sclerosis
+T34	CellFunction 13 26	remyelination
+T35	CellFunction 546 559	remyelination
+T36	CellFunction 795 808	remyelination
+T37	CellFunction 1022 1035	remyelination
+T38	PatientOrDisabledGroup 1039 1047	patients
+T39	BiologicFunction 813 834	neurological recovery
+T40	HealthCareActivity 813 834	neurological recovery
+T41	CellFunction 757 785	LCN2/SCl22A17/EGR1 signaling
+T42	CellFunction 80 95	differentiation
+T43	CellFunction 344 359	differentiation
+T44	CellFunction 645 660	differentiation
+T45	CellFunction 1002 1017	differentiation
+T48	TemporalConcept 907 914	chronic
+T49	BodyPartOrganOrOrganComponent 152 164	white matter
+T50	BodyPartOrganOrOrganComponent 687 699	white matter
+T51	BodyPartOrganOrOrganComponent 1053 1065	white matter
+T52	CellFunction 340 359	OPC differentiation
+T53	CellFunction 641 660	OPC differentiation
+T54	BiologicallyActiveSubstance 387 395	receptor
+T55	Cell 43 73	oligodendrocyte precursor cell
+T61	Cell 59 73	precursor cell
+T62	CellFunction 741 753	inactivation
+T63	Finding 843 851	atypical
+T64	TemporalConcept 853 858	acute
+T65	CellFunction 237 247	expression
+T66	AminoAcidPeptideOrProtein 396 404	SCL22A17
+T67	BiologicallyActiveSubstance 396 404	SCL22A17
+T68	GeneOrGenome 396 404	SCL22A17
+T69	BiologicallyActiveSubstance 474 478	EGR1
+T70	AminoAcidPeptideOrProtein 441 472	early growth response protein 1
+T71	AminoAcidPeptideOrProtein 515 519	LCN2
+T72	BiologicallyActiveSubstance 515 519	LCN2
+T73	GeneOrGenome 515 519	LCN2
+T74	BiologicallyActiveSubstance 586 590	EGR1
+T75	AminoAcidPeptideOrProtein 564 567	LCN
+T76	BiologicallyActiveSubstance 564 567	LCN
+T77	GeneOrGenome 564 567	LCN
+T78	ResearchActivity 568 577	knockdown
+T79	Eukaryote 612 616	mice
+T80	ResearchActivity 591 611	conditional-knockout

@@ -1,0 +1,10 @@
+T0	DiseaseOrSyndrome 58 85	neurodegenerative disorders
+T1	HealthCareActivity 143 158	early diagnosis
+T2	HealthCareActivity 163 181	disease monitoring
+T3	Finding 119 131	non-invasive
+T4	TemporalConcept 89 96	ongoing
+T5	ClinicalAttribute 119 131	non-invasive
+T6	ResearchActivity 0 8	Research
+T7	BodyPartOrganOrOrganComponent 38 45	retinal
+T8	AnatomicalAbnormality 38 53	retinal defects
+T9	HealthCareActivity 119 139	non-invasive methods

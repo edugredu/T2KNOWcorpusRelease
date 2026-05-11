@@ -1,0 +1,83 @@
+T0	CellComponent 0 22	Extracellular vesicles
+T1	AminoAcidPeptideOrProtein 508 521	tau oligomers
+T2	CellComponent 580 602	extracellular vesicles
+T3	ResearchActivity 620 628	dot blot
+T4	ResearchActivity 633 656	atomic force microscopy
+T5	AminoAcidPeptideOrProtein 821 824	tau
+T6	CellComponent 873 895	extracellular vesicles
+T7	HealthCareActivity 922 933	inoculation
+T8	AminoAcidPeptideOrProtein 1039 1042	tau
+T9	BodyPartOrganOrOrganComponent 1052 1094	outer molecular layer of the dentate gyrus
+T10	CellOrMolecularDysfunction 1156 1185	abnormally phosphorylated tau
+T11	BodyPartOrganOrOrganComponent 1201 1212	hippocampus
+T12	HealthCareActivity 1236 1247	inoculation
+T13	AminoAcidPeptideOrProtein 1270 1273	tau
+T14	AminoAcidPeptideOrProtein 1320 1333	tau oligomers
+T15	CellComponent 1338 1345	fibrils
+T16	AminoAcidPeptideOrProtein 1504 1507	tau
+T17	CellFunction 1597 1611	phosphorylated
+T18	AminoAcidPeptideOrProtein 1612 1615	tau
+T19	AminoAcidPeptideOrProtein 1645 1675	glutamic acid decarboxylase 67
+T20	BiologicallyActiveSubstance 1645 1675	glutamic acid decarboxylase 67
+T21	BiologicallyActiveSubstance 1677 1682	GAD67
+T22	AminoAcidPeptideOrProtein 1677 1682	GAD67
+T23	Cell 1684 1706	GABAergic interneurons
+T24	CellComponent 1809 1830	extracellular vesicle
+T25	Cell 1918 1937	CA1 pyramidal cells
+T26	Cell 2294 2328	hippocampal GABAergic interneurons
+T27	PathologicFunction 94 107	tau pathology
+T28	PathologicFunction 1400 1413	tau pathology
+T29	Cell 1764 1786	excitatory mossy cells
+T30	BodyPartOrganOrOrganComponent 282 287	brain
+T31	BodyPartOrganOrOrganComponent 2333 2338	brain
+T32	ResearchActivity 2238 2243	study
+T33	PopulationGroup 1380 1385	donor
+T34	DiseaseOrSyndrome 333 352	Alzheimer's disease
+T35	DiseaseOrSyndrome 354 383	prodromal Alzheimer's disease
+T36	DiseaseOrSyndrome 417 436	Alzheimer's disease
+T37	DiseaseOrSyndrome 539 568	prodromal Alzheimer's disease
+T38	DiseaseOrSyndrome 658 677	Alzheimer's disease
+T39	DiseaseOrSyndrome 831 860	prodromal Alzheimer's disease
+T40	DiseaseOrSyndrome 937 956	Alzheimer's disease
+T41	DiseaseOrSyndrome 960 989	prodromal Alzheimer's disease
+T42	DiseaseOrSyndrome 1360 1379	Alzheimer's disease
+T43	DiseaseOrSyndrome 1428 1447	Alzheimer's disease
+T44	Eukaryote 1111 1123	C57BL/6 mice
+T45	Eukaryote 276 281	human
+T46	PathologicFunction 253 272	pathogenic function
+T47	Cell 746 762	cortical neurons
+T48	Cell 2090 2097	neurons
+T49	Cell 2139 2156	pyramidal neurons
+T50	TemporalConcept 180 184	time
+T51	CellOrMolecularDysfunction 810 820	misfolding
+T52	CellOrMolecularDysfunction 1479 1489	misfolding
+T53	ResearchActivity 896 904	in vitro
+T54	PopulationGroup 389 415	non-demented control cases
+T55	BiologicallyActiveSubstance 1732 1754	glutamate receptor 2/3
+T56	TemporalConcept 1220 1226	months
+T57	CellOrMolecularDysfunction 2391 2411	neuronal dysfunction
+T58	CellComponent 296 318	extracellular vesicles
+T59	CellComponent 437 459	extracellular vesicles
+T60	CellComponent 678 700	extracellular vesicles
+T61	CellComponent 990 1012	extracellular vesicles
+T62	PopulationGroup 1098 1110	18-month-old
+T63	CellComponent 1287 1309	extracellular vesicles
+T64	CellComponent 1448 1470	extracellular vesicles
+T65	AminoAcidPeptideOrProtein 1531 1539	sarkosyl
+T66	PharmacologicSubstance 1531 1539	sarkosyl
+T67	BodyPartOrganOrOrganComponent 1563 1581	hippocampal region
+T68	AminoAcidPeptideOrProtein 1732 1754	glutamate receptor 2/3
+T69	Finding 1840 1879	GABAergic interneuronal tau propagation
+T70	ResearchActivity 1881 1914	Whole-cell patch clamp recordings
+T71	CellFunction 1987 2032	spontaneous inhibitory post-synaptic currents
+T72	AminoAcidPeptideOrProtein 2072 2077	c-fos
+T73	AminoAcidPeptideOrProtein 2081 2086	GAD67
+T74	BiologicallyActiveSubstance 2081 2086	GAD67
+T75	ResearchActivity 2102 2126	GAD67(+) neuronal puncta
+T76	BodyPartOrganOrOrganComponent 2164 2174	CA1 region
+T77	CellFunction 2195 2217	GABAergic transmission
+T78	CellComponent 2347 2369	extracellular vesicles
+T79	CellOrMolecularDysfunction 2277 2290	spread of tau
+T80	BiologicallyActiveSubstance 2072 2077	c-fos
+T81	BiologicallyActiveSubstance 491 498	epitope
+T82	Eukaryote 739 745	murine

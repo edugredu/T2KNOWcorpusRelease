@@ -1,0 +1,131 @@
+T0	BiologicFunction 526 532	naming
+T1	DiseaseOrSyndrome 1603 1630	global cognitive impairment
+T2	BiologicFunction 1848 1875	visual confrontation naming
+T3	Finding 1911 1921	impairment
+T4	BodyPartOrganOrOrganComponent 2056 2066	prefrontal
+T5	BodyPartOrganOrOrganComponent 2108 2123	temporal cortex
+T6	BiologicFunction 2152 2158	naming
+T7	BodyPartOrganOrOrganComponent 2202 2227	left middle frontal gyrus
+T8	BodyPartOrganOrOrganComponent 2229 2260	posterior middle temporal gyrus
+T9	BodyPartOrganOrOrganComponent 2266 2289	lateral parietal cortex
+T10	Finding 2555 2562	improve
+T11	SignOrSymptom 159 172	presentations
+T12	Finding 1792 1798	intact
+T13	OrganismAttribute 136 149	heterogeneous
+T14	DiseaseOrSyndrome 688 714	posterior cortical atrophy
+T15	DiseaseOrSyndrome 716 719	PCA
+T16	DiseaseOrSyndrome 1293 1296	PCA
+T17	DiseaseOrSyndrome 1718 1721	PCA
+T18	ResearchActivity 716 719	PCA
+T19	ResearchActivity 1293 1296	PCA
+T20	ResearchActivity 1718 1721	PCA
+T21	ClinicalAttribute 651 670	clinical phenotypes
+T22	Finding 329 337	deficits
+T23	PatientOrDisabledGroup 1493 1500	patient
+T24	HealthCareActivity 1640 1644	MMSE
+T25	Finding 405 413	hallmark
+T26	ClinicalAttribute 1550 1558	severity
+T27	Finding 1550 1558	severity
+T28	BodyPartOrganOrOrganComponent 2034 2042	cortical
+T29	BodyPartOrganOrOrganComponent 2180 2188	cortical
+T30	TemporalConcept 436 451	clinical stages
+T31	ClinicalAttribute 2034 2052	cortical thickness
+T32	ClinicalAttribute 2180 2198	cortical thickness
+T33	AminoAcidPeptideOrProtein 93 96	tau
+T34	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T35	BiologicallyActiveSubstance 93 96	tau
+T36	DiseaseOrSyndrome 21 23	AD
+T37	DiseaseOrSyndrome 459 467;485 487	amnestic AD
+T38	DiseaseOrSyndrome 674 676	AD
+T39	DiseaseOrSyndrome 913 924	amnestic AD
+T40	DiseaseOrSyndrome 1007 1031	syndromic spectrum of AD
+T41	DiseaseOrSyndrome 1969 1971	AD
+T42	DiseaseOrSyndrome 2523 2544	AD syndromic spectrum
+T43	DiseaseOrSyndrome 2692 2694	AD
+T44	PatientOrDisabledGroup 1722 1730	patients
+T45	PatientOrDisabledGroup 1756 1773	amnestic patients
+T46	PatientOrDisabledGroup 1889 1897	patients
+T47	TemporalConcept 942 949	current
+T48	HealthCareActivity 210 220	clinicians
+T49	PopulationGroup 1232 1244	participants
+T50	PopulationGroup 1363 1375	participants
+T51	PopulationGroup 775 786	individuals
+T52	PopulationGroup 984 995	individuals
+T53	PopulationGroup 1200 1211	individuals
+T54	DiseaseOrSyndrome 725 762	logopenic primary progressive aphasia
+T55	AminoAcidPeptideOrProtein 81 88	amyloid
+T56	AminoAcidPeptideOrProtein 795 802	amyloid
+T57	AminoAcidPeptideOrProtein 1328 1335	amyloid
+T58	BiologicallyActiveSubstance 81 88	amyloid
+T59	BiologicallyActiveSubstance 795 802	amyloid
+T60	BiologicallyActiveSubstance 1328 1335	amyloid
+T61	DiseaseOrSyndrome 1610 1630	cognitive impairment
+T62	ClinicalAttribute 198 208	biomarkers
+T63	Finding 642 650	atypical
+T64	Finding 2683 2691	atypical
+T65	ResearchActivity 950 955	study
+T66	BodyPartOrganOrOrganComponent 2076 2085	precuneus
+T67	PathologicFunction 303 312	pathology
+T68	BiomedicalOccupationOrDiscipline 303 312	pathology
+T69	Finding 250 280	clinical syndromic variability
+T70	Finding 612 623	performance
+T71	Finding 1171 1182	performance
+T72	PopulationGroup 1355 1362	control
+T73	PopulationGroup 1501 1507	groups
+T74	TemporalConcept 430 435	early
+T75	HealthCareActivity 1460 1479	high-resolution MRI
+T76	TemporalConcept 2368 2376	temporal
+T77	BiologicFunction 2434 2447	understanding
+T78	ResearchActivity 394 399	tests
+T79	ResearchActivity 633 638	tests
+T80	ResearchActivity 1933 1938	tests
+T81	HealthCareActivity 373 399	confrontation naming tests
+T82	HealthCareActivity 633 638	tests
+T83	HealthCareActivity 1415 1448	visual confrontation naming tests
+T84	HealthCareActivity 1933 1938	tests
+T85	HealthCareActivity 1560 1563	CDR
+T86	AminoAcidPeptideOrProtein 813 819	A beta
+T87	AminoAcidPeptideOrProtein 976 982	A beta
+T88	AminoAcidPeptideOrProtein 1192 1198	A beta
+T89	AminoAcidPeptideOrProtein 1224 1230	A beta
+T90	AminoAcidPeptideOrProtein 1285 1291	A beta
+T91	AminoAcidPeptideOrProtein 1306 1312	A beta
+T92	AminoAcidPeptideOrProtein 1346 1352	A beta
+T93	AminoAcidPeptideOrProtein 1485 1491	A beta
+T94	CellOrMolecularDysfunction 112 129	neurodegeneration
+T95	CellOrMolecularDysfunction 883 900	neurodegeneration
+T96	CellOrMolecularDysfunction 2494 2511	neurodegeneration
+T97	CellOrMolecularDysfunction 2644 2661	neurodegeneration
+T98	PathologicFunction 2348 2355	atrophy
+T99	DiseaseOrSyndrome 2348 2355	atrophy
+T100	ResearchActivity 190 197	in vivo
+T101	Finding 1527 1531	mild
+T102	Finding 1535 1539	mild
+T103	HealthCareActivity 2581 2599	neuropsychological
+T104	ResearchActivity 2470 2478	profiles
+T105	ResearchActivity 2600 2608	profiles
+T106	ResearchActivity 871 879	patterns
+T107	Finding 1460 1464	high
+T108	PathologicFunction 93 107	tau deposition
+T109	BiologicFunction 314 328	Word retrieval
+T110	OrganismAttribute 354 368	verbal fluency
+T111	HealthCareActivity 354 368;394 399	verbal fluency tests
+T112	DiseaseOrSyndrome 764 769	lvPPA
+T113	ClinicalAttribute 849 866	clinical profiles
+T114	HealthCareActivity 1059 1079	word retrieval tasks
+T115	Finding 1118 1144	neuroanatomical substrates
+T116	BiologicFunction 1156 1170	word retrieval
+T117	DiseaseOrSyndrome 1314 1319	lvPPA
+T118	OrganismAttribute 1396 1410	verbal fluency
+T119	BiologicFunction 1692 1706	word retrieval
+T120	OrganismAttribute 1799 1813	letter fluency
+T121	DiseaseOrSyndrome 1883 1888	lvPPA
+T122	BiologicFunction 1942 1956	word retrieval
+T123	OrganismAttribute 1999 2013	letter fluency
+T124	BodyPartOrganOrOrganComponent 2087 2103;2117 2123	lateral parietal cortex
+T125	OrganismAttribute 2131 2147	category fluency
+T126	BiologicFunction 2291 2318	Visual confrontation naming
+T127	BodyPartOrganOrOrganComponent 2381 2406	visual association cortex
+T128	BodyPartOrganOrOrganComponent 2359 2376;2400 2406	inferior temporal cortex
+T129	BiologicFunction 2455 2469	word retrieval
+T130	OrganismAttribute 1827 1843	category fluency

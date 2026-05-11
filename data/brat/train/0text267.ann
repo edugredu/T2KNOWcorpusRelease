@@ -1,0 +1,74 @@
+T0	CellFunction 0 11	Acetylation
+T1	CellFunction 21 52	post-translational modification
+T2	CellFunction 54 57	PTM
+T3	AminoAcidPeptideOrProtein 94 101	histone
+T4	AminoAcidPeptideOrProtein 106 126	non-histone proteins
+T5	CellFunction 167 184	DNA transcription
+T6	CellComponent 251 274	cytoskeletal structures
+T7	BiologicFunction 280 290	metabolism
+T8	CellFunction 280 290	metabolism
+T9	CellFunction 292 303	Acetylation
+T10	CellFunction 329 348	neuronal plasticity
+T11	BiologicFunction 377 383	memory
+T12	BiologicFunction 398 409	Homeostasis
+T13	CellFunction 398 409	Homeostasis
+T14	AminoAcidPeptideOrProtein 465 491	histone acetyltransferases
+T15	BiologicallyActiveSubstance 465 491	histone acetyltransferases
+T16	AminoAcidPeptideOrProtein 493 496	HAT
+T17	BiologicallyActiveSubstance 493 496	HAT
+T18	AminoAcidPeptideOrProtein 502 521	histone deacetylase
+T19	BiologicallyActiveSubstance 502 521	histone deacetylase
+T20	CellOrMolecularDysfunction 774 790	hyperacetylation
+T21	Finding 1029 1042	dysregulation
+T22	CellFunction 1195 1214	protein acetylation
+T23	CellFunction 1080 1096	axonal transport
+T24	ResearchActivity 1239 1249	literature
+T25	CellFunction 205 217	proteostasis
+T26	CellFunction 413 424	acetylation
+T27	CellFunction 1046 1057	acetylation
+T28	CellFunction 1203 1214	acetylation
+T29	CellFunction 1273 1292	protein acetylation
+T30	CellFunction 186 203	RNA modifications
+T31	ResearchActivity 1140 1154	review article
+T32	BiologicallyActiveSubstance 529 536	enzymes
+T33	AminoAcidPeptideOrProtein 952 970	Huntingtin protein
+T34	BiologicallyActiveSubstance 952 970	Huntingtin protein
+T35	AminoAcidPeptideOrProtein 926 929	tau
+T36	BiologicFunction 219 224	aging
+T37	CellFunction 219 224	aging
+T38	Finding 874 886	accumulation
+T39	AminoAcidPeptideOrProtein 937 946	synuclein
+T40	BiologicallyActiveSubstance 937 946	synuclein
+T41	AminoAcidPeptideOrProtein 931 946	alpha-synuclein
+T42	BiologicallyActiveSubstance 931 946	alpha-synuclein
+T43	NucleicAcidNucleosideOrNucleotide 186 189	RNA
+T44	BiologicallyActiveSubstance 926 929	tau
+T45	BiologicFunction 388 396	learning
+T46	PathologicFunction 890 917	pathophysiological proteins
+T47	Cell 822 830	neuronal
+T48	CellFunction 226 235	autophagy
+T49	AminoAcidPeptideOrProtein 909 917	proteins
+T50	BiologicFunction 831 856	physiological homeostasis
+T51	DiseaseOrSyndrome 670 672	AD
+T52	DiseaseOrSyndrome 985 987	AD
+T53	CellFunction 140 158	cellular processes
+T54	DiseaseOrSyndrome 612 638	neurodegenerative diseases
+T55	DiseaseOrSyndrome 701 721	Huntington's disease
+T56	DiseaseOrSyndrome 675 694	Parkinson's disease
+T57	DiseaseOrSyndrome 723 725	HD
+T58	DiseaseOrSyndrome 997 999	HD
+T59	DiseaseOrSyndrome 696 698	PD
+T60	DiseaseOrSyndrome 989 991	PD
+T61	DiseaseOrSyndrome 763 766	ALS
+T62	DiseaseOrSyndrome 1130 1133	ALS
+T63	TemporalConcept 1231 1238	current
+T64	DiseaseOrSyndrome 732 761	amyotrophic lateral sclerosis
+T65	DiseaseOrSyndrome 649 668	Alzheimer's disease
+T66	PopulationGroup 131 139	controls
+T67	DiseaseOrSyndrome 1296 1323	neurodegenerative disorders
+T68	AminoAcidPeptideOrProtein 523 527	HDAC
+T69	BiologicallyActiveSubstance 523 527	HDAC
+T70	Finding 543 554	alterations
+T71	CellOrMolecularDysfunction 795 810	hypoacetylation
+T72	CellFunction 822 856	neuronal physiological homeostasis
+T73	CellOrMolecularDysfunction 1071 1096	impaired axonal transport

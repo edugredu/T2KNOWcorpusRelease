@@ -1,0 +1,73 @@
+T0	CellComponent 104 111	soluble
+T1	BiologicFunction 280 286	ageing
+T2	BodyPartOrganOrOrganComponent 750 772	Central Nervous System
+T3	BiologicFunction 783 789	ageing
+T4	BodyPartOrganOrOrganComponent 797 814	neuromotor system
+T5	HealthCareActivity 1045 1053	diagnose
+T6	HealthCareActivity 1058 1066	prognose
+T7	BiologicFunction 1359 1365	ageing
+T8	DiseaseOrSyndrome 1386 1407	motor neurone disease
+T9	CellFunction 868 877	signaling
+T10	BiologicFunction 209 226	brain homeostasis
+T11	DiseaseOrSyndrome 327 330	ALS
+T12	DiseaseOrSyndrome 516 519	ALS
+T13	DiseaseOrSyndrome 984 987	ALS
+T14	DiseaseOrSyndrome 1067 1070	ALS
+T15	DiseaseOrSyndrome 1130 1133	ALS
+T16	CellComponent 712 725	intracellular
+T17	PathologicFunction 240 252	degenerative
+T18	BodyPartOrganOrOrganComponent 171 190	extracellular space
+T19	BodyPartOrganOrOrganComponent 774 777	CNS
+T20	DiseaseOrSyndrome 348 367	Parkinson's disease
+T21	BiologicFunction 1513 1524	development
+T22	CellFunction 1513 1524	development
+T23	ClinicalAttribute 1031 1041	biomarkers
+T24	ClinicalAttribute 1534 1544	biomarkers
+T25	Cell 66 71	cells
+T26	OrganismAttribute 672 685	heterogeneity
+T27	HealthCareActivity 1549 1561	therapeutics
+T28	TemporalConcept 593 598	first
+T29	CellComponent 563 570	exosome
+T30	CellComponent 852 859	exosome
+T31	DiseaseOrSyndrome 333 344	Alzheimer's
+T32	ResearchActivity 439 445	review
+T33	ResearchActivity 883 889	review
+T34	HealthCareActivity 439 445	review
+T35	HealthCareActivity 883 889	review
+T36	InjuryOrPoisoning 405 410	toxic
+T37	OrganismAttribute 918 921	age
+T38	AminoAcidPeptideOrProtein 411 419	proteins
+T39	TemporalConcept 525 532	current
+T40	CellFunction 91 100	secretion
+T41	CellFunction 661 670	secretion
+T42	BiologicFunction 91 100	secretion
+T43	BiologicFunction 661 670	secretion
+T44	DiseaseOrSyndrome 296 325	amyotrophic lateral sclerosis
+T45	BiologicFunction 533 546	understanding
+T46	Cell 36 43	neurons
+T47	PharmacologicSubstance 1205 1221	corrective drugs
+T48	BiologicFunction 215 226	homeostasis
+T49	DiseaseOrSyndrome 933 958	neurodegenerative disease
+T50	Cell 687 707	cellular interaction
+T51	Substance 112 121	molecules
+T52	CellFunction 0 27	Intercellular communication
+T53	CellFunction 646 656	biogenesis
+T54	CellFunction 1436 1446	biogenesis
+T55	ClinicalAttribute 1021 1041	potential biomarkers
+T56	CellComponent 153 161	exosomes
+T57	CellComponent 369 377	exosomes
+T58	CellComponent 461 469	exosomes
+T59	CellComponent 550 558	exosomes
+T60	CellComponent 906 914	exosomes
+T61	CellComponent 972 980	exosomes
+T62	CellComponent 1117 1125	exosomes
+T63	CellComponent 1336 1344	exosomes
+T64	ManufacturedObject 1170 1178	vehicles
+T65	BiologicFunction 1161 1169	delivery
+T66	BiologicFunction 1448 1454	uptake
+T67	CellFunction 1448 1454	uptake
+T68	CellFunction 125 144	release of vesicles
+T69	DiseaseOrSyndrome 234 263	neuro-degenerative conditions
+T70	DiseaseOrSyndrome 473 490	ageing conditions
+T71	Finding 1089 1113	therapeutic implications
+T72	InjuryOrPoisoning 1180 1190	neurotoxic

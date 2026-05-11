@@ -1,0 +1,71 @@
+T0	Finding 412 422	impairment
+T1	CellFunction 508 519	myelinating
+T2	NaturalPhenomenonOrProcess 549 560	stimulating
+T3	CellFunction 590 601	myelinating
+T4	AminoAcidPeptideOrProtein 738 771	sphingosine-1-phosphate receptors
+T5	AminoAcidPeptideOrProtein 773 778	S1PRs
+T6	BiologicallyActiveSubstance 773 778	S1PRs
+T7	AminoAcidPeptideOrProtein 916 921	S1PRs
+T8	BiologicallyActiveSubstance 916 921	S1PRs
+T9	BiologicFunction 950 966	immunomodulation
+T10	HealthCareActivity 950 966	immunomodulation
+T11	PharmacologicSubstance 950 966	immunomodulation
+T12	Finding 875 891	growing evidence
+T13	TemporalConcept 346 351	phase
+T14	HealthCareActivity 700 727	disease-modifying therapies
+T15	PathologicFunction 94 105	axonal loss
+T16	Cell 426 442	oligodendrocytes
+T17	Cell 520 536	oligodendrocytes
+T18	Cell 602 618	oligodendrocytes
+T19	Cell 1112 1128	oligodendrocytes
+T20	Cell 461 465	OPCs
+T21	Cell 580 584	OPCs
+T22	Cell 1103 1107	OPCs
+T23	CellFunction 482 495	differentiate
+T24	CellFunction 561 576	differentiation
+T25	Cell 508 536	myelinating oligodendrocytes
+T26	Cell 590 618	myelinating oligodendrocytes
+T27	Cell 443 459	progenitor cells
+T28	CellComponent 94 100	axonal
+T29	TemporalConcept 501 507	mature
+T30	TemporalConcept 247 252	early
+T31	IndividualBehavior 353 360	failure
+T32	PathologicFunction 41 53	inflammatory
+T33	PathologicFunction 253 265	inflammatory
+T34	Cell 501 536	mature myelinating oligodendrocytes
+T35	BodyPartOrganOrOrganComponent 111 119	synaptic
+T36	BodyPartOrganOrOrganComponent 138 160	central nervous system
+T37	BodyPartOrganOrOrganComponent 162 165	CNS
+T38	Finding 883 891	evidence
+T39	PathologicFunction 226 235	pathology
+T40	BiomedicalOccupationOrDiscipline 226 235	pathology
+T41	Finding 1093 1099	effect
+T42	ResearchActivity 1013 1019	review
+T43	HealthCareActivity 1013 1019	review
+T44	TemporalConcept 1035 1042	current
+T45	BiologicFunction 1043 1056	understanding
+T46	ClinicalAttribute 210 218	severity
+T47	Finding 210 218	severity
+T48	CellFunction 375 388	remyelination
+T49	CellFunction 976 989	remyelination
+T50	HealthCareActivity 182 191	therapies
+T51	DiseaseOrSyndrome 20 22	MS
+T52	DiseaseOrSyndrome 686 688	MS
+T53	DiseaseOrSyndrome 831 833	MS
+T54	PathologicFunction 79 92	demyelination
+T55	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T56	TemporalConcept 266 272	stages
+T57	Finding 866 873	effects
+T58	BiologicallyActiveSubstance 738 771	sphingosine-1-phosphate receptors
+T59	Finding 849 873	immunomodulatory effects
+T60	TemporalConcept 308 315	chronic
+T61	HealthCareActivity 659 681	therapeutic approaches
+T62	PharmacologicSubstance 849 865	immunomodulatory
+T63	BiologicFunction 849 865	immunomodulatory
+T64	HealthCareActivity 849 865	immunomodulatory
+T65	BiologicallyActiveSubstance 1065 1075	modulators
+T66	PathologicFunction 30 40	autoimmune
+T67	DiseaseOrSyndrome 30 61	autoimmune inflammatory disease
+T68	PathologicFunction 111 130	synaptic impairment
+T69	AminoAcidPeptideOrProtein 1060 1064	S1PR
+T70	BiologicallyActiveSubstance 1060 1064	S1PR

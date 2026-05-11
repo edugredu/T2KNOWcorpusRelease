@@ -1,0 +1,56 @@
+T0	PathologicFunction 562 575	dysfunctional
+T1	ResearchActivity 900 923	therapeutic development
+T2	HealthCareActivity 1230 1249	brain liquid biopsy
+T3	Finding 1255 1267	exploitation
+T4	DiseaseOrSyndrome 1556 1576	Alzheimer's diseases
+T5	BiologicallyActiveSubstance 228 239	metabolites
+T6	Finding 929 948	increasing interest
+T7	PathologicFunction 137 160	pathological conditions
+T8	CellComponent 666 679	intracellular
+T9	CellComponent 1077 1098	extracellular vesicle
+T10	CellComponent 324 345	Extracellular vesicle
+T11	CellComponent 511 533	extracellular vesicles
+T12	CellComponent 735 757	extracellular vesicles
+T13	CellComponent 965 987	extracellular vesicles
+T14	CellComponent 1271 1293	extracellular vesicles
+T15	CellComponent 1456 1478	extracellular vesicles
+T16	CellComponent 1638 1660	extracellular vesicles
+T17	ClinicalAttribute 395 402	markers
+T18	ResearchActivity 956 961	study
+T19	BiologicFunction 912 923	development
+T20	CellFunction 912 923	development
+T21	BodyPartOrganOrOrganComponent 1202 1207	brain
+T22	ClinicalAttribute 548 558	biomarkers
+T23	ClinicalAttribute 991 1001	biomarkers
+T24	ClinicalAttribute 1664 1674	biomarkers
+T25	BodyPartOrganOrOrganComponent 1056 1066	peripheral
+T26	CellComponent 0 22	Extracellular vesicles
+T27	Cell 485 489	cell
+T28	DiseaseOrSyndrome 1506 1532	neurodegenerative diseases
+T29	CellFunction 357 362	cargo
+T30	CellFunction 810 815	cargo
+T31	HealthCareActivity 1729 1738	treatment
+T32	ResearchActivity 1729 1738	treatment
+T33	CellComponent 499 533	circulating extracellular vesicles
+T34	Finding 55 64	mediators
+T35	AminoAcidPeptideOrProtein 218 226	proteins
+T36	AminoAcidPeptideOrProtein 1110 1118	proteins
+T37	HealthCareActivity 1739 1749	monitoring
+T38	NucleicAcidNucleosideOrNucleotide 203 216	nucleic acids
+T39	NucleicAcidNucleosideOrNucleotide 787 800	nucleic acids
+T40	Substance 186 195	molecules
+T41	Substance 363 372	molecules
+T42	Substance 816 825	molecules
+T43	CellFunction 68 95	intercellular communication
+T44	HealthCareActivity 82 95	communication
+T45	CellFunction 82 95	communication
+T46	BodyPartOrganOrOrganComponent 838 845	tissues
+T47	BodyPartOrganOrOrganComponent 1181 1188	tissues
+T48	CellOrMolecularDysfunction 680 698	misfolded proteins
+T49	DiseaseOrSyndrome 1540 1551	Parkinson's
+T50	BiologicFunction 775 783	delivery
+T51	DiseaseOrSyndrome 414 432	disease conditions
+T52	CellFunction 576 608	cellular quality control systems
+T53	CellOrMolecularDysfunction 562 608	dysfunctional cellular quality control systems
+T54	PathologicFunction 829 845	diseased tissues
+T55	HealthCareActivity 1708 1724	disease tracking

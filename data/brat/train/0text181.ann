@@ -1,0 +1,61 @@
+T0	AminoAcidPeptideOrProtein 207 225	protein N-terminus
+T1	PopulationGroup 425 433	carriers
+T2	ResearchActivity 495 504	wild-type
+T3	BodyPartOrganOrOrganComponent 620 634	nervous tissue
+T4	AminoAcidPeptideOrProtein 683 693	Huntingtin
+T5	CellFunction 738 752	cell transport
+T6	CellFunction 754 765	endocytosis
+T7	CellFunction 767 786	protein degradation
+T8	CellComponent 961 973	microtubules
+T9	CellComponent 984 1012	cytoskeletal cell structures
+T10	CellOrMolecularDysfunction 1102 1113	mutant form
+T11	CellComponent 1151 1163	microtubules
+T12	CellComponent 1192 1209	cell cytoskeleton
+T13	CellOrMolecularDysfunction 484 490	mutant
+T14	CellOrMolecularDysfunction 593 599	mutant
+T15	CellFunction 87 105	autosomal dominant
+T16	CellFunction 97 105	dominant
+T17	Cell 291 307	striatal neurons
+T18	AminoAcidPeptideOrProtein 170 192	polyglutamine fragment
+T19	BiologicFunction 266 271	death
+T20	PathologicFunction 266 271	death
+T21	CellComponent 1197 1209	cytoskeleton
+T22	CellFunction 710 725	cell physiology
+T23	BiomedicalOccupationOrDiscipline 715 725	physiology
+T24	BiologicFunction 715 725	physiology
+T25	CellFunction 266 271	death
+T26	CellComponent 1174 1184	components
+T27	GeneOrGenome 122 137	Huntingtin gene
+T28	TemporalConcept 324 334	occurrence
+T29	TemporalConcept 37 46	currently
+T30	CellOrMolecularDysfunction 106 114	mutation
+T31	CellOrMolecularDysfunction 250 258	mutation
+T32	Cell 275 282	neurons
+T33	Cell 300 307	neurons
+T34	ResearchActivity 453 460	studies
+T35	CellFunction 927 945	cellular processes
+T36	GeneOrGenome 139 142	HTT
+T37	GeneOrGenome 608 611	HTT
+T38	AminoAcidPeptideOrProtein 139 142	HTT
+T39	AminoAcidPeptideOrProtein 608 611	HTT
+T40	CellFunction 659 668	expressed
+T41	BiologicallyActiveSubstance 139 142	HTT
+T42	BiologicallyActiveSubstance 608 611	HTT
+T43	Finding 26 32	severe
+T44	ResearchActivity 835 852	experimental data
+T45	DiseaseOrSyndrome 0 20	Huntington's disease
+T46	DiseaseOrSyndrome 57 82	neurodegenerative disease
+T47	ResearchActivity 1018 1024	review
+T48	HealthCareActivity 1018 1024	review
+T49	BodyPartOrganOrOrganComponent 291 299	striatal
+T50	ResearchActivity 1070 1075	study
+T51	AminoAcidPeptideOrProtein 505 515	huntingtin
+T52	AminoAcidPeptideOrProtein 1083 1093	huntingtin
+T53	GeneOrGenome 505 515	huntingtin
+T54	BiologicallyActiveSubstance 1083 1093	huntingtin
+T55	DiseaseOrSyndrome 372 421	emotional-volitional personality sphere disorders
+T56	BiologicallyActiveSubstance 505 515	huntingtin
+T57	BiologicallyActiveSubstance 683 693	Huntingtin
+T58	CellFunction 797 829	cellular and molecular processes
+T59	AminoAcidPeptideOrProtein 907 917	Huntingtin
+T60	BiologicallyActiveSubstance 907 917	Huntingtin

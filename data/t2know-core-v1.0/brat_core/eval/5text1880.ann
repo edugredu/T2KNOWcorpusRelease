@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 127 153	neurodegenerative diseases
+T1	BodyPartOrganOrOrganComponent 52 71	blood-brain barrier
+T2	PathologicFunction 97 123	neuroinflammatory response
+T3	Chemical 20 37	virulence factors
+T4	Bacterium 0 19	Helicobacter pylori
+T5	BiologicallyActiveSubstance 20 37	virulence factors
+T6	InjuryOrPoisoning 20 37	virulence factors
+T7	IndividualBehavior 72 81	integrity

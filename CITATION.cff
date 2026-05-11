@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the T2KNOW corpus release and the associated paper."
+title: "T2KNOW-Core v1.0: A Huntington's Disease Literature Corpus for Nested and Same-Span Multi-Label Biomedical Named Entity Recognition"
+version: "1.0.0"
+date-released: "2026-05-11"
+url: "https://github.com/edugredu/T2KNOWcorpusRelease"
+repository-code: "https://github.com/edugredu/T2KNOWcorpusRelease"
+doi: "10.5281/zenodo.20121761"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20121761"
+    description: "Immutable Zenodo version DOI for T2KNOW-Core v1.0 (release tag t2know-core-v1.0.0)"
+authors:
+  - family-names: "Grande"
+    given-names: "Eduardo"
+    affiliation: "University of Alicante"
+  - family-names: "Muñoz"
+    given-names: "Rafael"
+    affiliation: "University of Alicante"
+  - family-names: "Gutierrez"
+    given-names: "Yoan"
+    affiliation: "University of Alicante"
+  - family-names: "Saquete"
+    given-names: "Estela"
+    affiliation: "University of Alicante"
+abstract: "T2KNOW-Core v1.0 is a biomedical nested named entity recognition resource focused on Huntington's disease literature. This rights-aware hybrid release contains the complete annotation, metadata, provenance, validation, evaluation, and benchmark layers for all 821 reviewed source documents. Here, hybrid means text-included plus text-excluded/reconstructable records in one official split representation, not synthetic mixing. Source text is redistributed only for records with documented permissive redistribution evidence; text-excluded records are supported through source identifiers, checksums, split assignments, and reconstruction metadata."
+license: "MIT" # applies to project-generated code, documentation, metadata, and annotations; third-party abstract text remains governed by original article licences
+keywords:
+  - "named entity recognition"
+  - "biomedical NLP"
+  - "nested NER"
+  - "Huntington's disease"
+  - "language resource"

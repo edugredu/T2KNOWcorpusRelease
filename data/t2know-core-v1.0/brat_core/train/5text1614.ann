@@ -1,0 +1,7 @@
+T0	BodyPartOrganOrOrganComponent 96 101	brain
+T1	DiseaseOrSyndrome 105 124	Alzheimer's disease
+T2	PatientOrDisabledGroup 125 133	patients
+T3	TemporalConcept 51 58	chronic
+T4	Organism 39 47	pathogen
+T5	Bacterium 0 24	Porphyromonas gingivalis
+T6	DiseaseOrSyndrome 59 72	periodontitis

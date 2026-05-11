@@ -1,0 +1,107 @@
+T0	Finding 42 51	tolerance
+T1	BiologicFunction 161 177	immune responses
+T2	CellFunction 161 177	immune responses
+T3	Finding 259 270	Uncertainty
+T4	AminoAcidPeptideOrProtein 380 403;410 418	human leukocyte antigen class II
+T5	BiologicallyActiveSubstance 380 403;410 418	human leukocyte antigen class II
+T6	OrganismAttribute 419 428	haplotype
+T7	AminoAcidPeptideOrProtein 504 539	myelin oligodendrocyte glycoprotein
+T8	BiologicallyActiveSubstance 504 539	myelin oligodendrocyte glycoprotein
+T9	AminoAcidPeptideOrProtein 541 544	MOG
+T10	BiologicallyActiveSubstance 541 544	MOG
+T11	AminoAcidPeptideOrProtein 578 597	proteolipid protein
+T12	AminoAcidPeptideOrProtein 626 648	interferon (IFN)-gamma
+T13	OrganismAttribute 719 728	haplotype
+T14	ResearchActivity 755 781	next-generation sequencing
+T15	Cell 854 863	precursor
+T16	AminoAcidPeptideOrProtein 909 912	HLA
+T17	BiologicallyActiveSubstance 909 912	HLA
+T18	OrganismAttribute 913 922	haplotype
+T19	AminoAcidPeptideOrProtein 1475 1478	HLA
+T20	BiologicallyActiveSubstance 1475 1478	HLA
+T21	OrganismAttribute 1479 1488	haplotype
+T22	BiologicallyActiveSubstance 1661 1668	epitope
+T23	AminoAcidPeptideOrProtein 569 572	MBP
+T24	BiologicallyActiveSubstance 569 572	MBP
+T25	GeneOrGenome 569 572	MBP
+T26	OrganismAttribute 1787 1800	heterogeneous
+T27	GeneOrGenome 1104 1111	alleles
+T28	GeneOrGenome 1431 1438	alleles
+T29	TemporalConcept 864 873	frequency
+T30	TemporalConcept 1314 1323	frequency
+T31	DiseaseOrSyndrome 194 212	multiple sclerosis
+T32	BodyPartOrganOrOrganComponent 35 41	myelin
+T33	BodyPartOrganOrOrganComponent 123 129	myelin
+T34	BodyPartOrganOrOrganComponent 297 303	myelin
+T35	BodyPartOrganOrOrganComponent 877 883	myelin
+T36	BodyPartOrganOrOrganComponent 1277 1283	myelin
+T37	BodyPartOrganOrOrganComponent 1327 1333	myelin
+T38	BodyPartOrganOrOrganComponent 1493 1499	myelin
+T39	BodyPartOrganOrOrganComponent 1748 1754	myelin
+T40	AminoAcidPeptideOrProtein 547 567	myelin basic protein
+T41	BiologicallyActiveSubstance 547 567	myelin basic protein
+T42	Cell 1351 1366	precursor cells
+T43	AminoAcidPeptideOrProtein 599 602	PLP
+T44	GeneOrGenome 599 602	PLP
+T45	BiologicallyActiveSubstance 599 602	PLP
+T46	PopulationGroup 1058 1074	healthy controls
+T47	PopulationGroup 1224 1240	healthy controls
+T48	OrganismAttribute 1058 1065	healthy
+T49	OrganismAttribute 1224 1231	healthy
+T50	PatientOrDisabledGroup 218 226	patients
+T51	PatientOrDisabledGroup 1026 1034	patients
+T52	PatientOrDisabledGroup 1192 1200	patients
+T53	PatientOrDisabledGroup 1813 1821	patients
+T54	ResearchActivity 462 467	study
+T55	ResearchActivity 924 931	Results
+T56	BiologicFunction 1577 1588	development
+T57	CellFunction 1577 1588	development
+T58	PopulationGroup 1801 1806	group
+T59	Cell 893 900	T cells
+T60	ResearchActivity 1769 1781	HLA profiles
+T61	PatientOrDisabledGroup 340 347	patient
+T62	PatientOrDisabledGroup 436 443	patient
+T63	HealthCareActivity 75 84	treatment
+T64	HealthCareActivity 1609 1618	treatment
+T65	ResearchActivity 75 84	treatment
+T66	ResearchActivity 1609 1618	treatment
+T67	Finding 1099 1103	risk
+T68	Finding 1426 1430	risk
+T69	PopulationGroup 1391 1399	carriers
+T70	PopulationGroup 1404 1416	non-carriers
+T71	ResearchActivity 963 971	analyzed
+T72	PopulationGroup 1538 1554	study population
+T73	DiseaseOrSyndrome 99 101	MS
+T74	DiseaseOrSyndrome 214 216	MS
+T75	DiseaseOrSyndrome 337 339	MS
+T76	DiseaseOrSyndrome 1023 1025	MS
+T77	DiseaseOrSyndrome 1096 1098	MS
+T78	DiseaseOrSyndrome 1810 1812	MS
+T79	Finding 1263 1271	presence
+T80	AminoAcidPeptideOrProtein 1334 1341	peptide
+T81	ResearchActivity 729 736	profile
+T82	ResearchActivity 1511 1518	profile
+T83	AminoAcidPeptideOrProtein 604 612	peptides
+T84	AminoAcidPeptideOrProtein 972 980	peptides
+T85	AminoAcidPeptideOrProtein 405 408	HLA
+T86	BiologicallyActiveSubstance 405 408	HLA
+T87	AminoAcidPeptideOrProtein 706 718	HLA class II
+T88	BiologicallyActiveSubstance 706 718	HLA class II
+T89	AminoAcidPeptideOrProtein 1112 1126	HLA-DRB1*15:01
+T90	BiologicallyActiveSubstance 1112 1126	HLA-DRB1*15:01
+T91	AminoAcidPeptideOrProtein 1128 1142	HLA-DQA1*01:02
+T92	BiologicallyActiveSubstance 1128 1142	HLA-DQA1*01:02
+T93	AminoAcidPeptideOrProtein 1147 1161	HLA-DQB1*06:02
+T94	BiologicallyActiveSubstance 1147 1161	HLA-DQB1*06:02
+T95	BiologicallyActiveSubstance 58 65	antigen
+T96	BiologicallyActiveSubstance 138 146	antigens
+T97	BiologicallyActiveSubstance 578 597	proteolipid protein
+T98	ResearchActivity 649 684	enzyme-linked immune absorbent spot
+T99	ResearchActivity 686 693	ELISPOT
+T100	BiologicallyActiveSubstance 626 648	interferon (IFN)-gamma
+T101	Finding 933 943	Reactivity
+T102	Finding 1500 1510	reactivity
+T103	BiologicallyActiveSubstance 1592 1599	antigen
+T104	ResearchActivity 1655 1678	multi-epitope targeting
+T105	AminoAcidPeptideOrProtein 1685 1688	HLA
+T106	BiologicallyActiveSubstance 1685 1688	HLA

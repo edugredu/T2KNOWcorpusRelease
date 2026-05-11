@@ -1,0 +1,147 @@
+T0	AminoAcidPeptideOrProtein 155 188	Brain-derived neurotrophic factor
+T1	DiseaseOrSyndrome 267 284;301 310	neurodegenerative disorders
+T2	NucleicAcidNucleosideOrNucleotide 359 367	promoter
+T3	AminoAcidPeptideOrProtein 681 693	BDNF protein
+T4	BodyPartOrganOrOrganComponent 916 927	whole blood
+T5	ResearchActivity 979 993	pyrosequencing
+T6	AminoAcidPeptideOrProtein 995 1007	BDNF protein
+T7	BiologicallyActiveSubstance 995 1007	BDNF protein
+T8	TemporalConcept 1700 1707	origins
+T9	CellFunction 1864 1875	methylation
+T10	TemporalConcept 1580 1593	disease onset
+T11	TemporalConcept 2413 2426	disease onset
+T12	SignOrSymptom 2503 2523	psychiatric symptoms
+T13	BiologicFunction 465 474	attention
+T14	PathologicFunction 414 437	pathological conditions
+T15	CellOrMolecularDysfunction 398 410	deregulation
+T16	DiseaseOrSyndrome 32 86	autosomal-dominant neurodegenerative movement disorder
+T17	PatientOrDisabledGroup 2290 2301	HD subjects
+T18	HealthCareActivity 1936 1973	Hospital Anxiety and Depression Scale
+T19	CellFunction 850 865	DNA methylation
+T20	CellFunction 1709 1724	DNA methylation
+T21	CellFunction 2431 2446	DNA methylation
+T22	AminoAcidPeptideOrProtein 190 194	BDNF
+T23	AminoAcidPeptideOrProtein 354 358	BDNF
+T24	AminoAcidPeptideOrProtein 439 443	BDNF
+T25	AminoAcidPeptideOrProtein 572 576	BDNF
+T26	AminoAcidPeptideOrProtein 681 685	BDNF
+T27	AminoAcidPeptideOrProtein 876 880	BDNF
+T28	AminoAcidPeptideOrProtein 995 999	BDNF
+T29	AminoAcidPeptideOrProtein 1099 1103	BDNF
+T30	AminoAcidPeptideOrProtein 1260 1264	BDNF
+T31	AminoAcidPeptideOrProtein 1412 1416	BDNF
+T32	AminoAcidPeptideOrProtein 1498 1502	BDNF
+T33	AminoAcidPeptideOrProtein 1615 1619	BDNF
+T34	AminoAcidPeptideOrProtein 1989 1993	BDNF
+T35	AminoAcidPeptideOrProtein 2193 2205	BDNF protein
+T36	AminoAcidPeptideOrProtein 2242 2246	BDNF
+T37	AminoAcidPeptideOrProtein 2366 2370	BDNF
+T38	AminoAcidPeptideOrProtein 2454 2458	BDNF
+T39	BiologicallyActiveSubstance 190 194	BDNF
+T40	BiologicallyActiveSubstance 354 358	BDNF
+T41	BiologicallyActiveSubstance 439 443	BDNF
+T42	BiologicallyActiveSubstance 572 576	BDNF
+T43	BiologicallyActiveSubstance 681 685	BDNF
+T44	BiologicallyActiveSubstance 876 880	BDNF
+T45	BiologicallyActiveSubstance 995 999	BDNF
+T46	BiologicallyActiveSubstance 1099 1103	BDNF
+T47	BiologicallyActiveSubstance 1260 1264	BDNF
+T48	BiologicallyActiveSubstance 1412 1416	BDNF
+T49	BiologicallyActiveSubstance 1498 1502	BDNF
+T50	BiologicallyActiveSubstance 1615 1619	BDNF
+T51	BiologicallyActiveSubstance 1989 1993	BDNF
+T52	BiologicallyActiveSubstance 2193 2205	BDNF protein
+T53	BiologicallyActiveSubstance 2242 2246	BDNF
+T54	BiologicallyActiveSubstance 2366 2370	BDNF
+T55	BiologicallyActiveSubstance 2454 2458	BDNF
+T56	DiseaseOrSyndrome 0 20	Huntington's disease
+T57	DiseaseOrSyndrome 22 24	HD
+T58	DiseaseOrSyndrome 246 248	HD
+T59	DiseaseOrSyndrome 659 661	HD
+T60	ResearchActivity 816 828	ELISA assays
+T61	PopulationGroup 947 963	healthy controls
+T62	ClinicalAttribute 480 499	potential biomarker
+T63	TemporalConcept 516 525	currently
+T64	PopulationGroup 2143 2157	control groups
+T65	PatientOrDisabledGroup 778 789	HD patients
+T66	PatientOrDisabledGroup 931 942	HD patients
+T67	PatientOrDisabledGroup 1173 1184	HD patients
+T68	PatientOrDisabledGroup 1445 1456	HD patients
+T69	PatientOrDisabledGroup 1810 1821	HD patients
+T70	PatientOrDisabledGroup 2068 2079	HD patients
+T71	PatientOrDisabledGroup 2527 2538	HD patients
+T72	OrganismAttribute 1207 1213	gender
+T73	OrganismAttribute 1323 1329	gender
+T74	SignOrSymptom 769 777	manifest
+T75	SignOrSymptom 1436 1444	manifest
+T76	BodyPartOrganOrOrganComponent 1092 1098	Plasma
+T77	TemporalConcept 1571 1576	years
+T78	BodyPartOrganOrOrganComponent 704 710	plasma
+T79	BodyPartOrganOrOrganComponent 1051 1057	plasma
+T80	BodyPartOrganOrOrganComponent 1243 1249	plasma
+T81	BodyPartOrganOrOrganComponent 1608 1614	plasma
+T82	PatientOrDisabledGroup 1540 1548	patients
+T83	OrganismAttribute 1138 1141	age
+T84	OrganismAttribute 1285 1288	age
+T85	OrganismAttribute 2116 2119	age
+T86	ResearchActivity 2175 2182	studies
+T87	ClinicalAttribute 645 654	biomarker
+T88	ClinicalAttribute 2490 2499	biomarker
+T89	Finding 794 800	normal
+T90	BodyPartOrganOrOrganComponent 922 927	blood
+T91	BodyPartOrganOrOrganComponent 2281 2286	blood
+T92	PopulationGroup 801 809	controls
+T93	PopulationGroup 1839 1847	controls
+T94	PopulationGroup 2319 2327	controls
+T95	PathologicFunction 116 153	cognitive and psychiatric dysfunction
+T96	PopulationGroup 1145 1161	control subjects
+T97	PopulationGroup 1297 1313	control subjects
+T98	PopulationGroup 1469 1485	control subjects
+T99	PopulationGroup 1153 1161	subjects
+T100	OrganismAttribute 2109 2112	sex
+T101	BodyPartOrganOrOrganComponent 1251 1259	salivary
+T102	BodyPartOrganOrOrganComponent 1403 1411	salivary
+T103	BodyPartOrganOrOrganComponent 2357 2365	salivary
+T104	BodyPartOrganOrOrganComponent 724 730	saliva
+T105	BodyPartOrganOrOrganComponent 2230 2236	saliva
+T106	PopulationGroup 1084 1090	groups
+T107	PopulationGroup 2151 2157	groups
+T108	ResearchActivity 1825 1835	comparison
+T109	HealthCareActivity 1073 1083	diagnostic
+T110	PathologicFunction 227 242	pathophysiology
+T111	BiomedicalOccupationOrDiscipline 227 242	pathophysiology
+T112	Substance 590 599	biofluids
+T113	ClinicalAttribute 2403 2409	marker
+T114	HealthCareActivity 614 624	assessment
+T115	ResearchActivity 614 624	assessment
+T116	NucleicAcidNucleosideOrNucleotide 850 853	DNA
+T117	NucleicAcidNucleosideOrNucleotide 899 902	DNA
+T118	NucleicAcidNucleosideOrNucleotide 1709 1712	DNA
+T119	NucleicAcidNucleosideOrNucleotide 2431 2434	DNA
+T120	HealthCareActivity 556 568	measurements
+T121	OrganismAttribute 947 954	healthy
+T122	BiologicallyActiveSubstance 155 188	Brain-derived neurotrophic factor
+T123	DiseaseOrSyndrome 289 310	psychiatric disorders
+T124	Finding 316 338	epigenetic alterations
+T125	BiologicallyActiveSubstance 359 367	promoter
+T126	ClinicalAttribute 681 710	BDNF protein levels in plasma
+T127	BiologicallyActiveSubstance 881 892	promoter IV
+T128	NucleicAcidNucleosideOrNucleotide 881 892	promoter IV
+T129	ClinicalAttribute 995 1014	BDNF protein levels
+T130	ClinicalAttribute 1092 1103	Plasma BDNF
+T131	ClinicalAttribute 1251 1264	salivary BDNF
+T132	ClinicalAttribute 1403 1416	salivary BDNF
+T133	ClinicalAttribute 1608 1626	plasma BDNF levels
+T134	NucleicAcidNucleosideOrNucleotide 1747 1756	CpG sites
+T135	BiologicallyActiveSubstance 1747 1756	CpG sites
+T136	BiologicallyActiveSubstance 1768 1779	promoter IV
+T137	NucleicAcidNucleosideOrNucleotide 1768 1779	promoter IV
+T138	NucleicAcidNucleosideOrNucleotide 1894 1903	CpG sites
+T139	BiologicallyActiveSubstance 1894 1903	CpG sites
+T140	HealthCareActivity 1975 1979	HADS
+T141	CellFunction 1994 2014	promoter methylation
+T142	CellFunction 2247 2267	promoter methylation
+T143	ClinicalAttribute 2357 2379	salivary BDNF measures
+T144	TemporalConcept 2397 2402	early
+T145	NucleicAcidNucleosideOrNucleotide 2459 2470	promoter IV
+T146	BiologicallyActiveSubstance 2459 2470	promoter IV

@@ -1,0 +1,10 @@
+T0	DiseaseOrSyndrome 127 154	neurodegenerative disorders
+T1	BiologicFunction 163 173	experience
+T2	HealthCareActivity 83 93	monitoring
+T3	PopulationGroup 110 121	individuals
+T4	HealthCareActivity 41 54	communication
+T5	CellFunction 41 54	communication
+T6	MachineActivity 0 3	ASR
+T7	MachineActivity 33 60	virtual communication tools
+T8	MachineActivity 12 28	voice assistants
+T9	SignOrSymptom 174 200	communication difficulties

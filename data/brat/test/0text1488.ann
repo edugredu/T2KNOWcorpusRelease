@@ -1,0 +1,95 @@
+T0	SignOrSymptom 240 243	NPS
+T1	HealthCareActivity 296 303	scanned
+T2	HealthCareActivity 386 415	mini-mental state examination
+T3	Finding 468 482	hypometabolism
+T4	Chemical 589 605	[18F]florbetapir
+T5	Finding 800 814	hypometabolism
+T6	SignOrSymptom 830 833	NPS
+T7	Finding 1117 1131	hypometabolism
+T8	Finding 1180 1194	hypometabolism
+T9	TemporalConcept 1262 1273	late stages
+T10	SignOrSymptom 1294 1297	NPS
+T11	Finding 1361 1375	hypometabolism
+T12	Finding 1407 1421	hypometabolism
+T13	SignOrSymptom 1745 1748	NPS
+T14	SignOrSymptom 213 238	neuropsychiatric symptoms
+T15	CellFunction 1689 1707	glucose metabolism
+T16	Finding 338 344	normal
+T17	Chemical 570 587	[18F]flortaucipir
+T18	TemporalConcept 1267 1273	stages
+T19	ClinicalAttribute 1267 1279	stages of AD
+T20	HealthCareActivity 69 78	prognosis
+T21	ResearchActivity 650 677	Piecewise linear regression
+T22	BiologicallyActiveSubstance 455 458	Tau
+T23	AminoAcidPeptideOrProtein 455 458	Tau
+T24	BiologicFunction 1697 1707	metabolism
+T25	CellFunction 1697 1707	metabolism
+T26	PopulationGroup 338 353	normal controls
+T27	Finding 1223 1233	increasing
+T28	MachineActivity 703 736	support vector machine algorithms
+T29	AminoAcidPeptideOrProtein 783 786	tau
+T30	AminoAcidPeptideOrProtein 890 893	tau
+T31	AminoAcidPeptideOrProtein 1172 1175	tau
+T32	AminoAcidPeptideOrProtein 1325 1328	tau
+T33	AminoAcidPeptideOrProtein 1426 1429	tau
+T34	AminoAcidPeptideOrProtein 1647 1650	tau
+T35	AminoAcidPeptideOrProtein 1770 1773	tau
+T36	DiseaseOrSyndrome 82 101	Alzheimer's disease
+T37	BiologicallyActiveSubstance 783 786	tau
+T38	BiologicallyActiveSubstance 890 893	tau
+T39	BiologicallyActiveSubstance 1172 1175	tau
+T40	BiologicallyActiveSubstance 1325 1328	tau
+T41	BiologicallyActiveSubstance 1426 1429	tau
+T42	BiologicallyActiveSubstance 1647 1650	tau
+T43	BiologicallyActiveSubstance 1770 1773	tau
+T44	DiseaseOrSyndrome 103 105	AD
+T45	DiseaseOrSyndrome 289 291	AD
+T46	DiseaseOrSyndrome 307 309	AD
+T47	DiseaseOrSyndrome 839 841	AD
+T48	DiseaseOrSyndrome 975 977	AD
+T49	DiseaseOrSyndrome 1277 1279	AD
+T50	DiseaseOrSyndrome 1301 1303	AD
+T51	DiseaseOrSyndrome 1473 1475	AD
+T52	DiseaseOrSyndrome 1840 1842	AD
+T53	ClinicalAttribute 1804 1813	biomarker
+T54	PopulationGroup 1490 1498	controls
+T55	PatientOrDisabledGroup 275 283	patients
+T56	PatientOrDisabledGroup 310 318	patients
+T57	PatientOrDisabledGroup 1476 1484	patients
+T58	PathologicFunction 1647 1660	tau pathology
+T59	ResearchActivity 4 28	A/T/N research framework
+T60	Chemical 1689 1696	glucose
+T61	PharmacologicSubstance 1689 1696	glucose
+T62	BiologicallyActiveSubstance 1689 1696	glucose
+T63	DiseaseOrSyndrome 188 208	cognitive impairment
+T64	DiseaseOrSyndrome 1234 1254	cognitive impairment
+T65	DiseaseOrSyndrome 1720 1740	cognitive impairment
+T66	HealthCareActivity 55 64	diagnosis
+T67	HealthCareActivity 842 851	diagnosis
+T68	ClinicalAttribute 145 159	ATN biomarkers
+T69	Finding 1441 1449	accuracy
+T70	Finding 1500 1508	accuracy
+T71	Finding 1517 1525	accuracy
+T72	Finding 1547 1555	accuracy
+T73	Finding 1606 1614	accuracy
+T74	Finding 326 344	cognitively normal
+T75	BiologicFunction 819 828	cognition
+T76	Finding 170 182	relationship
+T77	Finding 762 774	relationship
+T78	BodyPartOrganOrOrganComponent 948 971	inferior temporal lobes
+T79	ResearchActivity 679 697	two-sample t-tests
+T80	AminoAcidPeptideOrProtein 788 794	A beta
+T81	AminoAcidPeptideOrProtein 1070 1076	A beta
+T82	AminoAcidPeptideOrProtein 1164 1170	A beta
+T83	AminoAcidPeptideOrProtein 1390 1396	A beta
+T84	AminoAcidPeptideOrProtein 1539 1545	A beta
+T85	AminoAcidPeptideOrProtein 1678 1684	A beta
+T86	Finding 1774 1786	accumulation
+T87	HealthCareActivity 620 648	positron emission tomography
+T88	ResearchActivity 491 499	patterns
+T89	PathologicFunction 890 904	tau deposition
+T90	PathologicFunction 1325 1339	tau deposition
+T91	HealthCareActivity 420 453	Neuropsychiatric Inventory scales
+T92	HealthCareActivity 525 555	Statistical Parametric Mapping
+T93	Chemical 611 619	[18F]FDG
+T94	SignOrSymptom 1817 1836	clinical impairment

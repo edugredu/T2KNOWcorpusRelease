@@ -1,0 +1,77 @@
+T0	DiseaseOrSyndrome 13 36	Intellectual disability
+T1	PopulationGroup 298 305	infants
+T2	PopulationGroup 310 321	adolescents
+T3	PopulationGroup 453 461	children
+T4	PopulationGroup 598 606	children
+T5	PathologicFunction 682 700	insulin resistance
+T6	AminoAcidPeptideOrProtein 770 774	IRS1
+T7	AminoAcidPeptideOrProtein 818 848	Phosphatase and tensin homolog
+T8	BiologicallyActiveSubstance 818 848	Phosphatase and tensin homolog
+T9	GeneOrGenome 850 854	PTEN
+T10	AminoAcidPeptideOrProtein 850 854	PTEN
+T11	BiologicallyActiveSubstance 850 854	PTEN
+T12	DiseaseOrSyndrome 1040 1060	cerebral dysfunction
+T13	DiseaseOrSyndrome 1065 1088	intellectual disability
+T14	CellFunction 948 957	signaling
+T15	AminoAcidPeptideOrProtein 553 557	mTOR
+T16	AminoAcidPeptideOrProtein 958 962	mTOR
+T17	GeneOrGenome 553 557	mTOR
+T18	GeneOrGenome 958 962	mTOR
+T19	BiologicallyActiveSubstance 553 557	mTOR
+T20	BiologicallyActiveSubstance 958 962	mTOR
+T21	PopulationGroup 425 431	donors
+T22	DiseaseOrSyndrome 73 82	Alzheimer
+T23	AminoAcidPeptideOrProtein 545 552	insulin
+T24	AminoAcidPeptideOrProtein 682 689	insulin
+T25	AminoAcidPeptideOrProtein 940 947	insulin
+T26	BiologicallyActiveSubstance 545 552	insulin
+T27	BiologicallyActiveSubstance 682 689	insulin
+T28	BiologicallyActiveSubstance 940 947	insulin
+T29	PharmacologicSubstance 545 552	insulin
+T30	PharmacologicSubstance 682 689	insulin
+T31	PharmacologicSubstance 940 947	insulin
+T32	Finding 922 932	alteration
+T33	CellComponent 368 390	extracellular vesicles
+T34	OrganismAttribute 417 424	healthy
+T35	ClinicalAttribute 672 678	marker
+T36	ClinicalAttribute 534 541	markers
+T37	ResearchActivity 568 575	Results
+T38	ResearchActivity 182 190	research
+T39	BodyPartOrganOrOrganComponent 114 119	brain
+T40	BodyPartOrganOrOrganComponent 1004 1009	brain
+T41	TemporalConcept 67 72	onset
+T42	TemporalConcept 484 489	years
+T43	OrganismAttribute 493 496	age
+T44	CellFunction 804 814	inhibition
+T45	PopulationGroup 278 288	population
+T46	PopulationGroup 1113 1123	population
+T47	CellOrMolecularDysfunction 88 105	neurodegeneration
+T48	CellComponent 501 504	nEV
+T49	CellComponent 392 396	nEVs
+T50	CellComponent 576 580	nEVs
+T51	CellFunction 558 566	pathways
+T52	CellFunction 963 971	pathways
+T53	DiseaseOrSyndrome 145 158	Down syndrome
+T54	DiseaseOrSyndrome 160 162	DS
+T55	DiseaseOrSyndrome 275 277	DS
+T56	DiseaseOrSyndrome 327 329	DS
+T57	DiseaseOrSyndrome 450 452	DS
+T58	DiseaseOrSyndrome 595 597	DS
+T59	DiseaseOrSyndrome 1001 1003	DS
+T60	CellFunction 221 239	molecular pathways
+T61	BiologicFunction 50 55	aging
+T62	BiologicFunction 255 260	aging
+T63	CellFunction 50 55	aging
+T64	CellFunction 255 260	aging
+T65	BiologicallyActiveSubstance 351 359	Neuronal
+T66	ResearchActivity 290 294	data
+T67	Finding 631 651	significant increase
+T68	PathologicFunction 120 141	pathological features
+T69	CellComponent 351 390	Neuronal-derived extracellular vesicles
+T70	AminoAcidPeptideOrProtein 655 668	pIRS1(Ser636)
+T71	CellFunction 733 753	Akt/mTOR/p70S6K axis
+T72	BiologicallyActiveSubstance 655 668	pIRS1(Ser636)
+T73	BiologicallyActiveSubstance 770 774	IRS1
+T74	GeneOrGenome 770 774	IRS1
+T75	AminoAcidPeptideOrProtein 872 888	pGSK3 beta(Ser9)
+T76	BiologicallyActiveSubstance 872 888	pGSK3 beta(Ser9)

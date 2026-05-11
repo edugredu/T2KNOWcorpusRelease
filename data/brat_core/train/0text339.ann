@@ -1,0 +1,89 @@
+T0	Chemical 0 8	Curcumin
+T1	PharmacologicSubstance 0 8	Curcumin
+T2	PharmacologicSubstance 14 41	spice derived nutraceutical
+T3	BiologicFunction 66 75	attention
+T4	CellFunction 140 158	molecular pathways
+T5	AminoAcidPeptideOrProtein 167 229	nuclear factor kappa-light-chain-enhancer of activated B cells
+T6	AminoAcidPeptideOrProtein 231 241	NF-kappa B
+T7	GeneOrGenome 231 241	NF-kappa B
+T8	BiologicallyActiveSubstance 231 241	NF-kappa B
+T9	AminoAcidPeptideOrProtein 244 294	signal transducer and activator of transcription 3
+T10	AminoAcidPeptideOrProtein 296 301	STAT3
+T11	GeneOrGenome 296 301	STAT3
+T12	BiologicallyActiveSubstance 296 301	STAT3
+T13	AminoAcidPeptideOrProtein 304 347	nuclear factor erythroid 2-related factor 2
+T14	GeneOrGenome 304 347	nuclear factor erythroid 2-related factor 2
+T15	AminoAcidPeptideOrProtein 349 353	Nrf2
+T16	GeneOrGenome 349 353	Nrf2
+T17	AminoAcidPeptideOrProtein 359 376	cyclooxygenases-2
+T18	AminoAcidPeptideOrProtein 378 384	COX -2
+T19	BiologicallyActiveSubstance 378 384	COX -2
+T20	CellOrMolecularDysfunction 550 573	degeneration of neurons
+T21	CellOrMolecularDysfunction 691 714	altered gene expression
+T22	Finding 733 753	increase in the size
+T23	Chemical 757 765	cytosine
+T24	BiologicallyActiveSubstance 757 765	cytosine
+T25	NucleicAcidNucleosideOrNucleotide 767 774	adenine
+T26	Cell 882 889	neurons
+T27	CellFunction 891 910	Upstream regulation
+T28	HealthCareActivity 1019 1028	therapies
+T29	Finding 1047 1055	severity
+T30	SignOrSymptom 1059 1067	symptoms
+T31	PathologicFunction 1085 1097	side effects
+T32	Chemical 1099 1107	Curcumin
+T33	PharmacologicSubstance 1099 1107	Curcumin
+T34	PharmacologicSubstance 1175 1186	antioxidant
+T35	CellFunction 1175 1186	antioxidant
+T36	CellFunction 1220 1239	metal ion chelation
+T37	Finding 1273 1294	upregulating activity
+T38	AminoAcidPeptideOrProtein 1298 1317	molecular chaperons
+T39	AminoAcidPeptideOrProtein 1319 1338	heat shock proteins
+T40	BiologicallyActiveSubstance 1319 1338	heat shock proteins
+T41	AminoAcidPeptideOrProtein 1340 1344	HSPs
+T42	BiologicallyActiveSubstance 1340 1344	HSPs
+T43	Chemical 1382 1390	curcumin
+T44	PharmacologicSubstance 1382 1390	curcumin
+T45	HealthCareActivity 1401 1431	alternative therapeutic choice
+T46	Chemical 1530 1538	curcumin
+T47	PharmacologicSubstance 1530 1538	curcumin
+T48	HealthCareActivity 1668 1686	therapeutic agents
+T49	BiologicFunction 1191 1208	anti-inflammatory
+T50	PharmacologicSubstance 1191 1208	anti-inflammatory
+T51	DiseaseOrSyndrome 651 678	autosomal dominant disorder
+T52	BodyPartOrganOrOrganComponent 859 864	brain
+T53	MolecularSequence 787 814	(CAG) trinucleotide repeats
+T54	PathologicFunction 1596 1615	disease progression
+T55	DiseaseOrSyndrome 637 639	HD
+T56	DiseaseOrSyndrome 642 644	HD
+T57	DiseaseOrSyndrome 993 995	HD
+T58	DiseaseOrSyndrome 1162 1164	HD
+T59	DiseaseOrSyndrome 1477 1479	HD
+T60	DiseaseOrSyndrome 1565 1567	HD
+T61	DiseaseOrSyndrome 1702 1704	HD
+T62	DiseaseOrSyndrome 615 635	Huntington's disease
+T63	DiseaseOrSyndrome 577 604	neurodegenerative disorders
+T64	DiseaseOrSyndrome 1444 1471	neurodegenerative disorders
+T65	CellOrMolecularDysfunction 914 930	oxidative stress
+T66	PathologicFunction 996 1007	progression
+T67	PathologicFunction 1604 1615	progression
+T68	TemporalConcept 996 1007	progression
+T69	TemporalConcept 1604 1615	progression
+T70	CellFunction 505 524	protein aggregation
+T71	CellFunction 824 843	protein aggregation
+T72	CellOrMolecularDysfunction 505 524	protein aggregation
+T73	CellOrMolecularDysfunction 824 843	protein aggregation
+T74	ResearchActivity 1486 1492	review
+T75	HealthCareActivity 1486 1492	review
+T76	BiologicallyActiveSubstance 167 229	nuclear factor kappa-light-chain-enhancer of activated B cells
+T77	GeneOrGenome 167 229	nuclear factor kappa-light-chain-enhancer of activated B cells
+T78	BiologicallyActiveSubstance 244 294	signal transducer and activator of transcription 3
+T79	GeneOrGenome 244 294	signal transducer and activator of transcription 3
+T80	BiologicallyActiveSubstance 304 347	nuclear factor erythroid 2-related factor 2
+T81	BiologicallyActiveSubstance 349 353	Nrf2
+T82	BiologicallyActiveSubstance 359 376	cyclooxygenases-2
+T83	HealthCareActivity 401 429	potential therapeutic choice
+T84	CellFunction 935 955	inflammatory cascade
+T85	BiologicallyActiveSubstance 1298 1317	molecular chaperons
+T86	BiologicallyActiveSubstance 767 774	adenine
+T87	NucleicAcidNucleosideOrNucleotide 779 786	guanine
+T88	Finding 91 116	profound medicinal values

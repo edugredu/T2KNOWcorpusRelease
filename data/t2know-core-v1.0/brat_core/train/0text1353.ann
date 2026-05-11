@@ -1,0 +1,190 @@
+T0	BiomedicalOccupationOrDiscipline 0 17	Ethnopharmacology
+T1	HealthCareActivity 67 79	prescription
+T2	Chemical 112 119	essence
+T3	NaturalPhenomenonOrProcess 529 545	microenvironment
+T4	Substance 844 852	solution
+T5	PharmacologicSubstance 909 922	normal saline
+T6	TemporalConcept 931 934	day
+T7	TemporalConcept 943 951	interval
+T8	Chemical 1105 1120	Luxol fast blue
+T9	AminoAcidPeptideOrProtein 1361 1365	GDNF
+T10	GeneOrGenome 1361 1365	GDNF
+T11	AminoAcidPeptideOrProtein 1367 1371	CNTF
+T12	GeneOrGenome 1367 1371	CNTF
+T13	BiologicallyActiveSubstance 1367 1371	CNTF
+T14	AminoAcidPeptideOrProtein 1462 1465	IL6
+T15	GeneOrGenome 1462 1465	IL6
+T16	AminoAcidPeptideOrProtein 1467 1471	IL-1
+T17	BiologicallyActiveSubstance 1467 1471	IL-1
+T18	GeneOrGenome 1467 1471	IL-1
+T19	AminoAcidPeptideOrProtein 1497 1501	GDNF
+T20	GeneOrGenome 1497 1501	GDNF
+T21	AminoAcidPeptideOrProtein 1503 1507	CNTF
+T22	GeneOrGenome 1503 1507	CNTF
+T23	BiologicallyActiveSubstance 1503 1507	CNTF
+T24	ResearchActivity 1587 1605	immunofluorescence
+T25	AminoAcidPeptideOrProtein 1907 1911	IL-1
+T26	BiologicallyActiveSubstance 1907 1911	IL-1
+T27	GeneOrGenome 1907 1911	IL-1
+T28	AminoAcidPeptideOrProtein 2041 2045	GDNF
+T29	GeneOrGenome 2041 2045	GDNF
+T30	AminoAcidPeptideOrProtein 2047 2051	CNTF
+T31	GeneOrGenome 2047 2051	CNTF
+T32	BiologicallyActiveSubstance 2047 2051	CNTF
+T33	BiologicFunction 2231 2240	repairing
+T34	HealthCareActivity 2231 2240	repairing
+T35	NaturalPhenomenonOrProcess 2383 2399	microenvironment
+T36	Eukaryote 600 612	C57BL/6 mice
+T37	ResearchActivity 192 199	Studies
+T38	Chemical 410 413	CPZ
+T39	Chemical 649 652	CPZ
+T40	Chemical 663 666	CPZ
+T41	Chemical 702 705	CPZ
+T42	Chemical 803 806	CPZ
+T43	GeneOrGenome 1303 1308	Arg-1
+T44	GeneOrGenome 1788 1793	Arg-1
+T45	AminoAcidPeptideOrProtein 1427 1430	NG2
+T46	AminoAcidPeptideOrProtein 2173 2176	NG2
+T47	BiologicallyActiveSubstance 1427 1430	NG2
+T48	BiologicallyActiveSubstance 2173 2176	NG2
+T49	GeneOrGenome 1427 1430	NG2
+T50	GeneOrGenome 2173 2176	NG2
+T51	Chemical 399 408	Cuprizone
+T52	AminoAcidPeptideOrProtein 1152 1155	MBP
+T53	AminoAcidPeptideOrProtein 2222 2225	MBP
+T54	BiologicallyActiveSubstance 1152 1155	MBP
+T55	BiologicallyActiveSubstance 2222 2225	MBP
+T56	GeneOrGenome 1152 1155	MBP
+T57	GeneOrGenome 2222 2225	MBP
+T58	PopulationGroup 720 733	control group
+T59	Cell 2345 2361	oligodendrocytes
+T60	Cell 1395 1426	oligodendrocyte precursor cells
+T61	DiseaseOrSyndrome 311 329	multiple sclerosis
+T62	BodyPartOrganOrOrganComponent 2241 2247	myelin
+T63	CellFunction 2156 2169	proliferation
+T64	CellFunction 2312 2325	proliferation
+T65	Cell 1411 1426	precursor cells
+T66	Cell 1395 1420	oligodendrocyte precursor
+T67	BodyPartOrganOrOrganComponent 1555 1570	corpus callosum
+T68	BodyPartOrganOrOrganComponent 1839 1854	corpus callosum
+T69	TemporalConcept 793 797	week
+T70	TemporalConcept 761 766	weeks
+T71	TemporalConcept 977 982	weeks
+T72	PathologicFunction 2089 2101	inflammatory
+T73	DiseaseOrSyndrome 1066 1076	depression
+T74	ClinicalAttribute 1288 1295	markers
+T75	BodyPartOrganOrOrganComponent 553 575	central nervous system
+T76	ResearchActivity 362 367	study
+T77	ResearchActivity 449 454	study
+T78	BodyPartOrganOrOrganComponent 2137 2140	CNS
+T79	BodyPartOrganOrOrganComponent 2379 2382	CNS
+T80	ResearchActivity 1607 1614	Results
+T81	BiologicFunction 2330 2341	development
+T82	CellFunction 2330 2341	development
+T83	BodyPartOrganOrOrganComponent 1203 1208	brain
+T84	BodyPartOrganOrOrganComponent 1515 1520	brain
+T85	PopulationGroup 653 658	group
+T86	PopulationGroup 677 682	group
+T87	PopulationGroup 728 733	group
+T88	PopulationGroup 817 822	group
+T89	Finding 1806 1818	accumulation
+T90	ResearchActivity 437 442	model
+T91	Finding 470 476	effect
+T92	HealthCareActivity 1094 1103	treatment
+T93	HealthCareActivity 1989 1998	treatment
+T94	ResearchActivity 1094 1103	treatment
+T95	ResearchActivity 1989 1998	treatment
+T96	CellFunction 1138 1148	expression
+T97	CellFunction 1246 1256	expression
+T98	CellFunction 1320 1330	expression
+T99	CellFunction 1381 1391	expression
+T100	CellFunction 2208 2218	expression
+T101	Cell 1260 1269	microglia
+T102	Cell 1822 1831	microglia
+T103	CellFunction 1885 1894	secretion
+T104	CellFunction 1935 1944	secretion
+T105	BiologicFunction 1885 1894	secretion
+T106	BiologicFunction 1935 1944	secretion
+T107	TemporalConcept 965 969	time
+T108	AminoAcidPeptideOrProtein 1355 1359	BDNF
+T109	AminoAcidPeptideOrProtein 1491 1495	BDNF
+T110	AminoAcidPeptideOrProtein 2035 2039	BDNF
+T111	BiologicallyActiveSubstance 1355 1359	BDNF
+T112	BiologicallyActiveSubstance 1491 1495	BDNF
+T113	BiologicallyActiveSubstance 2035 2039	BDNF
+T114	GeneOrGenome 1355 1359	BDNF
+T115	GeneOrGenome 1491 1495	BDNF
+T116	GeneOrGenome 2035 2039	BDNF
+T117	Finding 742 748	normal
+T118	Cell 2177 2192	oligodendrocyte
+T119	ResearchActivity 1210 1222	Western blot
+T120	CellFunction 487 500	remyelination
+T121	CellComponent 2241 2254	myelin sheath
+T122	DiseaseOrSyndrome 331 333	MS
+T123	PathologicFunction 423 436	demyelination
+T124	PathologicFunction 1182 1195	demyelination
+T125	PathologicFunction 1689 1702	demyelination
+T126	PathologicFunction 2425 2438	demyelination
+T127	Finding 272 291	therapeutic effects
+T128	ResearchActivity 1432 1437	ELISA
+T129	AminoAcidPeptideOrProtein 1334 1354	neurotrophic factors
+T130	AminoAcidPeptideOrProtein 2014 2034	neurotrophic factors
+T131	BiologicallyActiveSubstance 1334 1354	neurotrophic factors
+T132	BiologicallyActiveSubstance 2014 2034	neurotrophic factors
+T133	AminoAcidPeptideOrProtein 1898 1902	IL-6
+T134	BiologicallyActiveSubstance 1898 1902	IL-6
+T135	GeneOrGenome 1898 1902	IL-6
+T136	AminoAcidPeptideOrProtein 1476 1481	IL-10
+T137	AminoAcidPeptideOrProtein 1948 1953	IL-10
+T138	BiologicallyActiveSubstance 1476 1481	IL-10
+T139	BiologicallyActiveSubstance 1948 1953	IL-10
+T140	GeneOrGenome 1476 1481	IL-10
+T141	GeneOrGenome 1948 1953	IL-10
+T142	AminoAcidPeptideOrProtein 1310 1314	iNOS
+T143	AminoAcidPeptideOrProtein 1749 1753	iNOS
+T144	BiologicallyActiveSubstance 1310 1314	iNOS
+T145	BiologicallyActiveSubstance 1749 1753	iNOS
+T146	DiseaseOrSyndrome 1054 1061	anxiety
+T147	AminoAcidPeptideOrProtein 1296 1301	Iba-1
+T148	AminoAcidPeptideOrProtein 1542 1547	Iba-1
+T149	AminoAcidPeptideOrProtein 1739 1744	Iba-1
+T150	BiologicallyActiveSubstance 1296 1301	Iba-1
+T151	BiologicallyActiveSubstance 1542 1547	Iba-1
+T152	BiologicallyActiveSubstance 1739 1744	Iba-1
+T153	AminoAcidPeptideOrProtein 1720 1727	protein
+T154	AminoAcidPeptideOrProtein 1769 1776	protein
+T155	DiseaseOrSyndrome 241 262	neurological diseases
+T156	BodyPartOrganOrOrganComponent 101 107	kidney
+T157	BiologicallyActiveSubstance 29 41	Wuzi Yanzong
+T158	PharmacologicSubstance 29 46	Wuzi Yanzong Pill
+T159	PharmacologicSubstance 48 51	WYP
+T160	PathologicFunction 151 162	infertility
+T161	DiseaseOrSyndrome 171 190	oligoasthenospermia
+T162	DiseaseOrSyndrome 151 162	infertility
+T163	PharmacologicSubstance 216 219	WYP
+T164	ExperimentalModelOfDisease 399 442	Cuprizone (CPZ)-induced demyelination model
+T165	PharmacologicSubstance 480 483	WYP
+T166	PharmacologicSubstance 673 676	WYP
+T167	PharmacologicSubstance 813 816	WYP
+T168	PharmacologicSubstance 840 843	WYP
+T169	ResearchActivity 1004 1022	elevated plus maze
+T170	ManufacturedObject 1004 1022	elevated plus maze
+T171	ResearchActivity 984 999	Forced swimming
+T172	Finding 1043 1050	changes
+T173	TemporalConcept 1077 1083	before
+T174	TemporalConcept 1088 1093	after
+T175	ResearchActivity 1105 1129	Luxol fast blue staining
+T176	BiologicallyActiveSubstance 1462 1465	IL6
+T177	AminoAcidPeptideOrProtein 1483 1486	TGF
+T178	BiologicallyActiveSubstance 1483 1486	TGF
+T179	BiologicallyActiveSubstance 1497 1501	GDNF
+T180	BiologicallyActiveSubstance 1361 1365	GDNF
+T181	PathologicFunction 1666 1684	mood abnormalities
+T182	PharmacologicSubstance 1704 1707	WYP
+T183	PharmacologicSubstance 1869 1872	WYP
+T184	AminoAcidPeptideOrProtein 1958 1961	TGF
+T185	BiologicallyActiveSubstance 1958 1961	TGF
+T186	PharmacologicSubstance 1972 1975	WYP
+T187	BiologicallyActiveSubstance 2041 2045	GDNF
+T188	Finding 2106 2129	nutritional environment
+T189	PharmacologicSubstance 2295 2298	WYP

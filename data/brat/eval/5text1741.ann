@@ -1,0 +1,7 @@
+T0	ClinicalAttribute 146 156	biomarkers
+T1	DiseaseOrSyndrome 63 88	neurodegenerative disease
+T2	ResearchActivity 161 180	therapeutic targets
+T3	Organism 17 22	yeast
+T4	ResearchActivity 97 107	omics data
+T5	BiomedicalOccupationOrDiscipline 29 43	bioinformatics
+T6	ResearchActivity 29 49	bioinformatics tools

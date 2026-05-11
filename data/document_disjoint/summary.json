@@ -1,0 +1,23 @@
+{
+  "source_jsonl": "data/sentence_level_legacy/t2know.jsonl",
+  "assignment_json": "provenance/reports/document_disjoint_split_candidate.json",
+  "seed": 0,
+  "score": 0.14628030091950606,
+  "splits": {
+    "train": {
+      "docs": 588,
+      "sentences": 10052,
+      "entities": 88234
+    },
+    "val": {
+      "docs": 82,
+      "sentences": 1435,
+      "entities": 12593
+    },
+    "test": {
+      "docs": 151,
+      "sentences": 2869,
+      "entities": 24876
+    }
+  }
+}

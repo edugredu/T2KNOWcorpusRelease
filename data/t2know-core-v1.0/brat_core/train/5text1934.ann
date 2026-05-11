@@ -1,0 +1,8 @@
+T0	NaturalPhenomenonOrProcess 0 12	UV radiation
+T1	NaturalPhenomenonOrProcess 45 48	UVA
+T2	NaturalPhenomenonOrProcess 50 53	UVB
+T3	NaturalPhenomenonOrProcess 59 62	UVC
+T4	NaturalPhenomenonOrProcess 103 106	UVC
+T5	NaturalPhenomenonOrProcess 69 72	UVA
+T6	NaturalPhenomenonOrProcess 167 178	ozone layer
+T7	Chemical 167 172	ozone

@@ -1,0 +1,11 @@
+T0	SignOrSymptom 158 166	symptoms
+T1	ResearchActivity 32 37	study
+T2	ResearchActivity 3 18	clinical trials
+T3	HealthCareActivity 42 48	safety
+T4	ResearchActivity 20 31	researchers
+T5	Finding 53 61	efficacy
+T6	DiseaseOrSyndrome 139 157	multiple sclerosis
+T7	BodyPartOrganOrOrganComponent 92 96	oral
+T8	PharmacologicSubstance 69 80	medications
+T9	HealthCareActivity 101 112	intravenous
+T10	Substance 113 124	suspensions

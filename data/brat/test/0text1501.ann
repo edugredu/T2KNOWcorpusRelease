@@ -1,0 +1,130 @@
+T0	GeneOrGenome 79 84	GSDMD
+T1	HealthCareActivity 89 101	conventional
+T2	GeneOrGenome 292 297	GSDMD
+T3	HealthCareActivity 443 458	Lumbar puncture
+T4	HealthCareActivity 702 726;733 738	Activity of Daily Living scale
+T5	GeneOrGenome 899 904	GSDMD
+T6	GeneOrGenome 1072 1077	GSDMD
+T7	GeneOrGenome 1357 1362	GSDMD
+T8	GeneOrGenome 1413 1418	GSDMD
+T9	GeneOrGenome 1732 1737	GSDMD
+T10	GeneOrGenome 1779 1784	GSDMD
+T11	HealthCareActivity 651 655	MoCA
+T12	DiseaseOrSyndrome 250 252	VD
+T13	DiseaseOrSyndrome 335 337	VD
+T14	DiseaseOrSyndrome 379 381	VD
+T15	DiseaseOrSyndrome 527 529	VD
+T16	DiseaseOrSyndrome 1185 1187	VD
+T17	DiseaseOrSyndrome 1349 1351	VD
+T18	DiseaseOrSyndrome 1511 1513	VD
+T19	DiseaseOrSyndrome 1690 1692	VD
+T20	DiseaseOrSyndrome 1896 1898	VD
+T21	DiseaseOrSyndrome 231 248	vascular dementia
+T22	ResearchActivity 848 853	ELISA
+T23	HealthCareActivity 607 611	MMSE
+T24	Finding 1372 1391	diagnostic accuracy
+T25	OrganismAttribute 827 834	ability
+T26	HealthCareActivity 301 311	diagnosing
+T27	AminoAcidPeptideOrProtein 1021 1025	IL-6
+T28	AminoAcidPeptideOrProtein 1580 1584	IL-6
+T29	GeneOrGenome 1021 1025	IL-6
+T30	GeneOrGenome 1580 1584	IL-6
+T31	BiologicallyActiveSubstance 1021 1025	IL-6
+T32	BiologicallyActiveSubstance 1580 1584	IL-6
+T33	AminoAcidPeptideOrProtein 1007 1016	IL-1 beta
+T34	AminoAcidPeptideOrProtein 1566 1575	IL-1 beta
+T35	BiologicallyActiveSubstance 1007 1016	IL-1 beta
+T36	BiologicallyActiveSubstance 1566 1575	IL-1 beta
+T37	HealthCareActivity 620 649;657 662	Montreal Cognitive Assessment scale
+T38	BiologicallyActiveSubstance 123 126	Tau
+T39	BiologicallyActiveSubstance 906 911	T-Tau
+T40	BiologicallyActiveSubstance 1079 1084	T-Tau
+T41	BiologicallyActiveSubstance 1420 1425	T-Tau
+T42	AminoAcidPeptideOrProtein 123 126	Tau
+T43	AminoAcidPeptideOrProtein 906 911	T-Tau
+T44	AminoAcidPeptideOrProtein 1079 1084	T-Tau
+T45	AminoAcidPeptideOrProtein 1420 1425	T-Tau
+T46	DiseaseOrSyndrome 202 221	Alzheimer's disease
+T47	DiseaseOrSyndrome 223 225	AD
+T48	DiseaseOrSyndrome 328 330	AD
+T49	DiseaseOrSyndrome 400 402	AD
+T50	DiseaseOrSyndrome 548 550	AD
+T51	DiseaseOrSyndrome 1154 1156	AD
+T52	DiseaseOrSyndrome 1298 1300	AD
+T53	DiseaseOrSyndrome 1395 1397	AD
+T54	DiseaseOrSyndrome 1504 1506	AD
+T55	DiseaseOrSyndrome 1638 1640	AD
+T56	DiseaseOrSyndrome 1816 1818	AD
+T57	DiseaseOrSyndrome 1859 1861	AD
+T58	ClinicalAttribute 1845 1854	biomarker
+T59	BodyPartOrganOrOrganComponent 162 181	cerebrospinal fluid
+T60	BodyPartOrganOrOrganComponent 484 503	cerebrospinal fluid
+T61	BodyPartOrganOrOrganComponent 942 961	cerebrospinal fluid
+T62	BodyPartOrganOrOrganComponent 1105 1124	cerebrospinal fluid
+T63	BodyPartOrganOrOrganComponent 1250 1269	cerebrospinal fluid
+T64	BodyPartOrganOrOrganComponent 1589 1608	cerebrospinal fluid
+T65	PatientOrDisabledGroup 188 196	patients
+T66	PatientOrDisabledGroup 365 373	patients
+T67	PatientOrDisabledGroup 386 394	patients
+T68	PatientOrDisabledGroup 534 542	patients
+T69	PatientOrDisabledGroup 838 846	patients
+T70	PatientOrDisabledGroup 1140 1148	patients
+T71	PatientOrDisabledGroup 1171 1179	patients
+T72	PatientOrDisabledGroup 1284 1292	patients
+T73	PatientOrDisabledGroup 1335 1343	patients
+T74	PatientOrDisabledGroup 1624 1632	patients
+T75	PatientOrDisabledGroup 1676 1684	patients
+T76	PatientOrDisabledGroup 1802 1810	patients
+T77	HealthCareActivity 576 605;613 618	Mini-Mental State Examination scale
+T78	OrganismAttribute 411 418	healthy
+T79	PopulationGroup 411 427	healthy controls
+T80	PopulationGroup 1192 1208	healthy controls
+T81	PopulationGroup 1314 1330	healthy controls
+T82	PopulationGroup 1655 1671	healthy controls
+T83	HealthCareActivity 1862 1871	diagnosis
+T84	ResearchActivity 15 20	study
+T85	ResearchActivity 355 360	study
+T86	Finding 1462 1485	discrimination accuracy
+T87	ResearchActivity 1046 1053	Results
+T88	HealthCareActivity 664 688;695 700	Clinical Dementia Rating scale
+T89	PatientOrDisabledGroup 513 521	Patients
+T90	HealthCareActivity 690 693	CDR
+T91	AminoAcidPeptideOrProtein 141 153	A beta(1-42)
+T92	AminoAcidPeptideOrProtein 926 938	A beta(1-42)
+T93	AminoAcidPeptideOrProtein 1230 1242	A beta(1-42)
+T94	AminoAcidPeptideOrProtein 1440 1452	A beta(1-42)
+T95	ClinicalAttribute 102 109	markers
+T96	AminoAcidPeptideOrProtein 128 135	Tau181p
+T97	BiologicallyActiveSubstance 128 135	Tau181p
+T98	BiologicallyActiveSubstance 141 153	A beta(1-42)
+T99	AminoAcidPeptideOrProtein 79 84	GSDMD
+T100	BiologicallyActiveSubstance 79 84	GSDMD
+T101	BiologicallyActiveSubstance 292 297	GSDMD
+T102	AminoAcidPeptideOrProtein 292 297	GSDMD
+T103	BodyPartOrganOrOrganComponent 504 511	samples
+T104	Substance 504 511	samples
+T105	HealthCareActivity 744 770;777 790	Neuropsychiatric Inventory questionnaire
+T106	AminoAcidPeptideOrProtein 899 904	GSDMD
+T107	BiologicallyActiveSubstance 899 904	GSDMD
+T108	AminoAcidPeptideOrProtein 913 920	Tau181p
+T109	BiologicallyActiveSubstance 913 920	Tau181p
+T110	BiologicallyActiveSubstance 926 938	A beta(1-42)
+T111	AminoAcidPeptideOrProtein 1090 1097	Tau181p
+T112	BiologicallyActiveSubstance 1090 1097	Tau181p
+T113	BiologicallyActiveSubstance 1230 1242	A beta(1-42)
+T114	AminoAcidPeptideOrProtein 1357 1362	GSDMD
+T115	BiologicallyActiveSubstance 1357 1362	GSDMD
+T116	AminoAcidPeptideOrProtein 1413 1418	GSDMD
+T117	BiologicallyActiveSubstance 1413 1418	GSDMD
+T118	AminoAcidPeptideOrProtein 1427 1434	Tau181p
+T119	BiologicallyActiveSubstance 1427 1434	Tau181p
+T120	BiologicallyActiveSubstance 1440 1452	A beta(1-42)
+T121	AminoAcidPeptideOrProtein 1732 1737	GSDMD
+T122	BiologicallyActiveSubstance 1732 1737	GSDMD
+T123	CellFunction 1738 1748	expression
+T124	CellFunction 1765 1775	expression
+T125	BiologicallyActiveSubstance 1779 1784	GSDMD
+T126	AminoAcidPeptideOrProtein 1779 1784	GSDMD
+T127	CellFunction 1523 1533	expression
+T128	AminoAcidPeptideOrProtein 1072 1077	GSDMD
+T129	BiologicallyActiveSubstance 1072 1077	GSDMD

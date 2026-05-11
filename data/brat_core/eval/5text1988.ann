@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 125 144	Parkinson's disease
+T1	DiseaseOrSyndrome 92 119	neurodegenerative disorders
+T2	Substance 16 25	molecules
+T3	CellComponent 61 72	Lewy bodies
+T4	AminoAcidPeptideOrProtein 0 15	Alpha-synuclein
+T5	BiologicallyActiveSubstance 0 15	Alpha-synuclein
+T6	DiseaseOrSyndrome 149 167	Lewy body dementia
+T7	DiseaseOrSyndrome 159 167	dementia

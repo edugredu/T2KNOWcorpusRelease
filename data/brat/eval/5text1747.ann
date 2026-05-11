@@ -1,0 +1,8 @@
+T0	BodyPartOrganOrOrganComponent 71 76	brain
+T1	DiseaseOrSyndrome 88 113	neurodegenerative disease
+T2	HealthCareActivity 77 83	health
+T3	Organism 33 47	gut microbiota
+T4	BodyPartOrganOrOrganComponent 33 36	gut
+T5	Finding 18 29	alterations
+T6	Organism 0 9	Ramularia
+T7	Finding 114 128	susceptibility

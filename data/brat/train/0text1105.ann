@@ -1,0 +1,103 @@
+T0	PopulationGroup 0 11	Individuals
+T1	AnatomicalAbnormality 105 120	amyloid plaques
+T2	TemporalConcept 339 344	early
+T3	TemporalConcept 793 798	month
+T4	ResearchActivity 1085 1093	staining
+T5	BodyPartOrganOrOrganComponent 1217 1232	corpus callosum
+T6	ResearchActivity 894 908	immunostaining
+T7	ResearchActivity 1178 1192	immunostaining
+T8	Eukaryote 493 506	wildtype mice
+T9	Eukaryote 671 684	wildtype mice
+T10	HealthCareActivity 978 988	injections
+T11	TemporalConcept 84 89	young
+T12	BodyPartOrganOrOrganComponent 1241 1259	medio-lateral axis
+T13	Cell 1053 1058	glial
+T14	TemporalConcept 811 815	post
+T15	TemporalConcept 804 810	months
+T16	CellComponent 186 208	extracellular vesicles
+T17	CellComponent 262 284	extracellular vesicles
+T18	DiseaseOrSyndrome 44 63	Alzheimer's disease
+T19	DiseaseOrSyndrome 65 67	AD
+T20	DiseaseOrSyndrome 562 564	AD
+T21	DiseaseOrSyndrome 751 753	AD
+T22	DiseaseOrSyndrome 957 959	AD
+T23	DiseaseOrSyndrome 1325 1327	AD
+T24	PatientOrDisabledGroup 545 553	patients
+T25	PatientOrDisabledGroup 1328 1336	patients
+T26	ClinicalAttribute 1059 1066	markers
+T27	Cell 241 247	neuron
+T28	ResearchActivity 366 371	study
+T29	BodyPartOrganOrOrganComponent 535 541	plasma
+T30	PopulationGroup 569 577	controls
+T31	PopulationGroup 779 787	controls
+T32	PathologicFunction 69 78	pathology
+T33	PathologicFunction 157 170	Tau pathology
+T34	PathologicFunction 467 476	pathology
+T35	BiomedicalOccupationOrDiscipline 69 78	pathology
+T36	BiomedicalOccupationOrDiscipline 467 476	pathology
+T37	BodyPartOrganOrOrganComponent 484 489	brain
+T38	BodyPartOrganOrOrganComponent 423 428	blood
+T39	Eukaryote 502 506	mice
+T40	Eukaryote 680 684	mice
+T41	Eukaryote 935 939	mice
+T42	Cell 1151 1162	glial cells
+T43	Cell 1040 1048	neuronal
+T44	CellFunction 232 237	cargo
+T45	ResearchActivity 1286 1293	studies
+T46	Finding 1357 1365	capacity
+T47	OrganismAttribute 90 93	age
+T48	OrganismAttribute 345 348	age
+T49	OrganismAttribute 992 995	age
+T50	ResearchActivity 734 742	in vitro
+T51	Eukaryote 856 861	mouse
+T52	BiologicallyActiveSubstance 327 332	p-Tau
+T53	BiologicallyActiveSubstance 463 466	Tau
+T54	BiologicallyActiveSubstance 704 707	Tau
+T55	BiologicallyActiveSubstance 888 893	p-Tau
+T56	BiologicallyActiveSubstance 1079 1084	p-Tau
+T57	BiologicallyActiveSubstance 1172 1177	p-Tau
+T58	BiologicallyActiveSubstance 1345 1348	Tau
+T59	AminoAcidPeptideOrProtein 327 332	p-Tau
+T60	AminoAcidPeptideOrProtein 463 466	Tau
+T61	AminoAcidPeptideOrProtein 704 707	Tau
+T62	AminoAcidPeptideOrProtein 888 893	p-Tau
+T63	AminoAcidPeptideOrProtein 1079 1084	p-Tau
+T64	AminoAcidPeptideOrProtein 1172 1177	p-Tau
+T65	AminoAcidPeptideOrProtein 1345 1348	Tau
+T66	BodyPartOrganOrOrganComponent 643 661	dorsal hippocampus
+T67	BodyPartOrganOrOrganComponent 916 927	hippocampus
+T68	BodyPartOrganOrOrganComponent 1267 1278	hippocampus
+T69	Cell 1115 1122	neurons
+T70	PopulationGroup 298 309	individuals
+T71	PopulationGroup 432 443	individuals
+T72	DiseaseOrSyndrome 17 30	Down syndrome
+T73	DiseaseOrSyndrome 32 34	DS
+T74	DiseaseOrSyndrome 315 317	DS
+T75	DiseaseOrSyndrome 449 451	DS
+T76	DiseaseOrSyndrome 559 561	DS
+T77	DiseaseOrSyndrome 748 750	DS
+T78	DiseaseOrSyndrome 954 956	DS
+T79	DiseaseOrSyndrome 1322 1324	DS
+T80	PopulationGroup 665 670	adult
+T81	BodyPartOrganOrOrganComponent 862 868	brains
+T82	CellComponent 218 226	exosomes
+T83	HealthCareActivity 816 825	injection
+T84	CellComponent 256 284	small extracellular vesicles
+T85	CellOrMolecularDysfunction 125 148	neurofibrillary tangles
+T86	CellComponent 125 140	neurofibrillary
+T87	CellOrMolecularDysfunction 150 154	NFTs
+T88	ResearchActivity 614 633	stereotaxic surgery
+T89	HealthCareActivity 614 633	stereotaxic surgery
+T90	PathologicFunction 839 852	Tau pathology
+T91	CellOrMolecularDysfunction 1383 1419	tangle-like intracellular inclusions
+T92	AminoAcidPeptideOrProtein 704 718	Tau conformers
+T93	CellFunction 686 693	Seeding
+T94	CellComponent 286 291	NDEVs
+T95	CellComponent 754 759	NDEVs
+T96	CellComponent 768 773	NDEVs
+T97	CellComponent 960 965	NDEVs
+T98	CellFunction 1345 1356	Tau seeding
+T99	CellComponent 1311 1316	NDEVs
+T100	CellComponent 399 404	NDEVs
+T101	CellComponent 1012 1017	NDEVs
+T102	CellComponent 520 525	NDEVs

@@ -1,0 +1,74 @@
+T0	BodyPartOrganOrOrganComponent 0 5	Brain
+T1	ResearchActivity 238 258	single-cell analysis
+T2	CellFunction 369 386	transcriptionally
+T3	CellFunction 422 446	cholesterol biosynthesis
+T4	CellFunction 542 566	cholesterol biosynthesis
+T5	Finding 625 634	decreases
+T6	CellFunction 635 659	cholesterol biosynthesis
+T7	CellFunction 768 792	cholesterol biosynthesis
+T8	BiologicFunction 956 961	death
+T9	PathologicFunction 956 961	death
+T10	Chemical 422 433	cholesterol
+T11	Chemical 542 553	cholesterol
+T12	Chemical 635 646	cholesterol
+T13	Chemical 768 779	cholesterol
+T14	BodyPartOrganOrOrganComponent 422 433	cholesterol
+T15	BodyPartOrganOrOrganComponent 542 553	cholesterol
+T16	BodyPartOrganOrOrganComponent 635 646	cholesterol
+T17	BodyPartOrganOrOrganComponent 768 779	cholesterol
+T18	BiologicallyActiveSubstance 422 433	cholesterol
+T19	BiologicallyActiveSubstance 542 553	cholesterol
+T20	BiologicallyActiveSubstance 635 646	cholesterol
+T21	BiologicallyActiveSubstance 768 779	cholesterol
+T22	CellFunction 956 961	death
+T23	Chemical 494 503	rapamycin
+T24	AminoAcidPeptideOrProtein 505 509	mTOR
+T25	AminoAcidPeptideOrProtein 620 624	mTOR
+T26	AminoAcidPeptideOrProtein 703 707	mTOR
+T27	AminoAcidPeptideOrProtein 879 883	mTOR
+T28	AminoAcidPeptideOrProtein 1039 1043	mTOR
+T29	GeneOrGenome 505 509	mTOR
+T30	GeneOrGenome 620 624	mTOR
+T31	GeneOrGenome 703 707	mTOR
+T32	GeneOrGenome 879 883	mTOR
+T33	GeneOrGenome 1039 1043	mTOR
+T34	BiologicallyActiveSubstance 505 509	mTOR
+T35	BiologicallyActiveSubstance 620 624	mTOR
+T36	BiologicallyActiveSubstance 703 707	mTOR
+T37	BiologicallyActiveSubstance 879 883	mTOR
+T38	BiologicallyActiveSubstance 1039 1043	mTOR
+T39	OrganismAttribute 158 168	phenotypes
+T40	CellFunction 299 310	myelination
+T41	CellFunction 852 863	myelination
+T42	Cell 940 955	oligodendrocyte
+T43	BodyPartOrganOrOrganComponent 914 920	myelin
+T44	BodyPartOrganOrOrganComponent 1060 1066	myelin
+T45	PathologicFunction 975 988	demyelination
+T46	TemporalConcept 902 907	later
+T47	BodyPartOrganOrOrganComponent 10 21	spinal cord
+T48	BodyPartOrganOrOrganComponent 342 353	spinal cord
+T49	BodyPartOrganOrOrganComponent 686 697	spinal cord
+T50	BodyPartOrganOrOrganComponent 716 727	spinal cord
+T51	BiologicFunction 285 298	developmental
+T52	BiologicFunction 838 851	developmental
+T53	TemporalConcept 285 298	developmental
+T54	TemporalConcept 838 851	developmental
+T55	BodyPartOrganOrOrganComponent 332 337	brain
+T56	BodyPartOrganOrOrganComponent 672 677	brain
+T57	BodyPartOrganOrOrganComponent 872 877	brain
+T58	BodyPartOrganOrOrganComponent 1092 1097	brain
+T59	CellComponent 1003 1009	axonal
+T60	Cell 22 37	oligodendroglia
+T61	Cell 262 277	oligodendroglia
+T62	Cell 570 585	oligodendroglia
+T63	Cell 728 743	oligodendroglia
+T64	BiologicFunction 1067 1078	maintenance
+T65	PopulationGroup 908 913	adult
+T66	PopulationGroup 1086 1091	adult
+T67	Finding 826 834	deficits
+T68	CellOrMolecularDysfunction 703 712	mTOR loss
+T69	Cell 587 602	Oligodendroglia
+T70	CellOrMolecularDysfunction 612 624	loss of mTOR
+T71	CellOrMolecularDysfunction 879 888	mTOR loss
+T72	CellOrMolecularDysfunction 84 124	cell-autonomous loss of individual genes
+T73	PathologicFunction 914 928	myelin deficit

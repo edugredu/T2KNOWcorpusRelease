@@ -1,0 +1,70 @@
+T0	BodyPartOrganOrOrganComponent 93 100	players
+T1	ResearchActivity 147 160;174 182	translational research
+T2	BodyPartOrganOrOrganComponent 623 634	body fluids
+T3	BiologicFunction 832 843	bloodstream
+T4	HealthCareActivity 1158 1167	isolation
+T5	ResearchActivity 1154 1181	EVs isolation methodologies
+T6	BiomedicalOccupationOrDiscipline 1158 1167	isolation
+T7	BodyPartOrganOrOrganComponent 1252 1263	body fluids
+T8	BodyPartOrganOrOrganComponent 1301 1306	urine
+T9	ResearchActivity 1527 1554	EVs isolation methodologies
+T10	Chemical 505 522	molecular targets
+T11	ResearchActivity 1582 1593	discoveries
+T12	ResearchActivity 165 182	clinical research
+T13	Finding 889 901	non-invasive
+T14	DiseaseOrSyndrome 1409 1429	Parkinson's diseases
+T15	BodyPartOrganOrOrganComponent 1311 1317	saliva
+T16	ResearchActivity 77 85	research
+T17	ResearchActivity 283 291	research
+T18	ResearchActivity 572 580	research
+T19	ResearchActivity 1444 1452	research
+T20	ResearchActivity 1601 1609	research
+T21	CellComponent 24 27	EVs
+T22	CellComponent 315 318	EVs
+T23	CellComponent 616 619	EVs
+T24	CellComponent 774 777	EVs
+T25	CellComponent 1011 1014	EVs
+T26	CellComponent 1154 1157	EVs
+T27	CellComponent 1527 1530	EVs
+T28	CellComponent 1597 1600	EVs
+T29	BodyPartOrganOrOrganComponent 854 864	peripheral
+T30	BodyPartOrganOrOrganComponent 1280 1299	cerebrospinal fluid
+T31	CellComponent 0 22	Extracellular vesicles
+T32	ResearchActivity 719 727	profiles
+T33	Finding 643 654	specificity
+T34	Cell 693 697	cell
+T35	Cell 333 341	neuronal
+T36	Cell 1065 1073	neuronal
+T37	Cell 1196 1204	neuronal
+T38	BodyPartOrganOrOrganComponent 1234 1246	brain tissue
+T39	HealthCareActivity 237 248	diagnostics
+T40	TemporalConcept 701 707	origin
+T41	DiseaseOrSyndrome 359 385	neurodegenerative diseases
+T42	DiseaseOrSyndrome 1621 1647	neurodegenerative diseases
+T43	HealthCareActivity 1109 1119	challenges
+T44	HealthCareActivity 256 268	therapeutics
+T45	HealthCareActivity 544 556	therapeutics
+T46	ResearchActivity 306 311	study
+T47	ResearchActivity 927 932	study
+T48	TemporalConcept 277 282	first
+T49	ResearchActivity 1131 1141	literature
+T50	BodyPartOrganOrOrganComponent 1272 1278	plasma
+T51	ResearchActivity 1074 1079	model
+T52	ResearchActivity 215 224	discovery
+T53	CellFunction 664 669	cargo
+T54	ResearchActivity 342 348	models
+T55	ResearchActivity 1205 1211	models
+T56	HealthCareActivity 527 536	diagnosis
+T57	ClinicalAttribute 205 214	biomarker
+T58	BodyPartOrganOrOrganComponent 1265 1270	serum
+T59	CellComponent 783 790	exosome
+T60	ResearchActivity 1142 1150	overview
+T61	PathologicFunction 112 133	pathogenic mechanisms
+T62	PathologicFunction 432 455	pathological mechanisms
+T63	HealthCareActivity 756 772	diagnostic tools
+T64	Substance 865 874	biofluids
+T65	DiseaseOrSyndrome 963 986	brain-related disorders
+T66	ResearchActivity 1011 1032	EVs isolation methods
+T67	Substance 1083 1091	biofluid
+T68	ResearchActivity 1213 1229	cellular culture
+T69	DiseaseOrSyndrome 1393 1404	Alzheimer's

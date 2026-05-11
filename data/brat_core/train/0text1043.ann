@@ -1,0 +1,145 @@
+T0	AminoAcidPeptideOrProtein 118 130	Beta-amyloid
+T1	NucleicAcidNucleosideOrNucleotide 395 398	miR
+T2	BiologicallyActiveSubstance 395 398	miR
+T3	PopulationGroup 436 445	recipient
+T4	ResearchActivity 606 612	RT-PCR
+T5	HealthCareActivity 1064 1070	mimics
+T6	Chemical 1064 1070	mimics
+T7	NucleicAcidNucleosideOrNucleotide 385 393	microRNA
+T8	BiologicallyActiveSubstance 385 393	microRNA
+T9	PathologicFunction 411 428	amyloid pathology
+T10	PathologicFunction 1569 1586	amyloid pathology
+T11	Finding 206 228	pathological hallmarks
+T12	HealthCareActivity 317 326	challenge
+T13	BodyPartOrganOrOrganComponent 936 955	hippocampal tissues
+T14	GeneOrGenome 855 860	BACE1
+T15	GeneOrGenome 1335 1340	BACE1
+T16	GeneOrGenome 1778 1783	BACE1
+T17	AminoAcidPeptideOrProtein 855 860	BACE1
+T18	AminoAcidPeptideOrProtein 1335 1340	BACE1
+T19	AminoAcidPeptideOrProtein 1778 1783	BACE1
+T20	BiologicallyActiveSubstance 855 860	BACE1
+T21	BiologicallyActiveSubstance 1335 1340	BACE1
+T22	BiologicallyActiveSubstance 1778 1783	BACE1
+T23	PopulationGroup 541 557	healthy controls
+T24	PopulationGroup 1259 1275	healthy controls
+T25	CellComponent 490 512	extracellular vesicles
+T26	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T27	DiseaseOrSyndrome 21 23	AD
+T28	DiseaseOrSyndrome 232 234	AD
+T29	DiseaseOrSyndrome 525 527	AD
+T30	DiseaseOrSyndrome 658 660	AD
+T31	DiseaseOrSyndrome 1233 1235	AD
+T32	DiseaseOrSyndrome 1695 1697	AD
+T33	DiseaseOrSyndrome 1867 1869	AD
+T34	OrganismAttribute 1259 1266	healthy
+T35	PatientOrDisabledGroup 528 536	patients
+T36	PatientOrDisabledGroup 1236 1244	patients
+T37	PatientOrDisabledGroup 1698 1706	patients
+T38	Cell 446 458	neuron cells
+T39	ResearchActivity 1615 1620	study
+T40	AminoAcidPeptideOrProtein 867 876	A beta 42
+T41	AminoAcidPeptideOrProtein 1446 1455	A beta 42
+T42	BodyPartOrganOrOrganComponent 178 183	brain
+T43	NucleicAcidNucleosideOrNucleotide 1857 1863	miRNAs
+T44	BiologicallyActiveSubstance 1857 1863	miRNAs
+T45	Eukaryote 1667 1672	human
+T46	ResearchActivity 1535 1545	enrichment
+T47	BiologicallyActiveSubstance 867 876	A beta 42
+T48	BiologicallyActiveSubstance 1446 1455	A beta 42
+T49	ResearchActivity 689 708	biomolecular assays
+T50	AminoAcidPeptideOrProtein 816 819	APP
+T51	AminoAcidPeptideOrProtein 970 973	APP
+T52	AminoAcidPeptideOrProtein 984 987	APP
+T53	AminoAcidPeptideOrProtein 1035 1038	APP
+T54	AminoAcidPeptideOrProtein 1422 1425	APP
+T55	AminoAcidPeptideOrProtein 1553 1556	APP
+T56	GeneOrGenome 816 819	APP
+T57	GeneOrGenome 970 973	APP
+T58	GeneOrGenome 984 987	APP
+T59	GeneOrGenome 1035 1038	APP
+T60	GeneOrGenome 1422 1425	APP
+T61	GeneOrGenome 1553 1556	APP
+T62	BiologicallyActiveSubstance 816 819	APP
+T63	BiologicallyActiveSubstance 970 973	APP
+T64	BiologicallyActiveSubstance 984 987	APP
+T65	BiologicallyActiveSubstance 1035 1038	APP
+T66	BiologicallyActiveSubstance 1422 1425	APP
+T67	BiologicallyActiveSubstance 1553 1556	APP
+T68	Finding 158 170	accumulation
+T69	Eukaryote 974 978	mice
+T70	Finding 1100 1106	effect
+T71	PathologicFunction 1651 1663	dysregulated
+T72	CellFunction 1341 1351	expression
+T73	CellFunction 1784 1794	expression
+T74	Cell 904 914	HT22 cells
+T75	AminoAcidPeptideOrProtein 132 138	A beta
+T76	AminoAcidPeptideOrProtein 263 269	A beta
+T77	AminoAcidPeptideOrProtein 1146 1152	A beta
+T78	AminoAcidPeptideOrProtein 1304 1310	A beta
+T79	AminoAcidPeptideOrProtein 1747 1753	A beta
+T80	TemporalConcept 69 80	progressive
+T81	AminoAcidPeptideOrProtein 762 769	amyloid
+T82	AminoAcidPeptideOrProtein 789 796	amyloid
+T83	AminoAcidPeptideOrProtein 1569 1576	amyloid
+T84	BiologicallyActiveSubstance 762 769	amyloid
+T85	BiologicallyActiveSubstance 789 796	amyloid
+T86	BiologicallyActiveSubstance 1569 1576	amyloid
+T87	HealthCareActivity 1879 1886	therapy
+T88	DiseaseOrSyndrome 81 101	cognitive impairment
+T89	Cell 1017 1020	CTL
+T90	Cell 1505 1508	CTL
+T91	CellFunction 770 777	pathway
+T92	Cell 283 302	hippocampal neurons
+T93	AminoAcidPeptideOrProtein 789 814	amyloid precursor protein
+T94	BiologicallyActiveSubstance 789 814	amyloid precursor protein
+T95	Finding 632 654	diagnostic performance
+T96	DiseaseOrSyndrome 37 63	neurodegenerative disorder
+T97	CellFunction 1366 1373	binding
+T98	Cell 1473 1488	recipient cells
+T99	Cell 1594 1609	recipient cells
+T100	CellComponent 1848 1856	exosomal
+T101	CellComponent 472 512	circulating small extracellular vesicles
+T102	CellComponent 514 518	sEVs
+T103	CellComponent 598 602	sEVs
+T104	CellComponent 922 926	sEVs
+T105	CellComponent 1114 1118	sEVs
+T106	CellComponent 1223 1227	sEVs
+T107	CellComponent 1685 1689	sEVs
+T108	CellComponent 1708 1711	sEV
+T109	AminoAcidPeptideOrProtein 807 814	protein
+T110	BiologicFunction 1120 1128	delivery
+T111	DiseaseOrSyndrome 69 101	progressive cognitive impairment
+T112	PopulationGroup 109 116	elderly
+T113	CellFunction 263 279	A beta formation
+T114	CellFunction 118 130;140 149	Beta-amyloid formation
+T115	CellFunction 364 381	exosomal transfer
+T116	NucleicAcidNucleosideOrNucleotide 574 584	miR-342-5p
+T117	BiologicallyActiveSubstance 574 584	miR-342-5p
+T118	BiologicallyActiveSubstance 733 743	miR-342-5p
+T119	NucleicAcidNucleosideOrNucleotide 733 743	miR-342-5p
+T120	AminoAcidPeptideOrProtein 822 853	beta-site APP cleaving enzyme 1
+T121	BiologicallyActiveSubstance 822 853	beta-site APP cleaving enzyme 1
+T122	ExperimentalModelOfDisease 959 978	transgenic APP mice
+T123	Eukaryote 992 1011	C57BL/6 littermates
+T124	NucleicAcidNucleosideOrNucleotide 1053 1063	miR-342-5p
+T125	BiologicallyActiveSubstance 1053 1063	miR-342-5p
+T126	BiologicallyActiveSubstance 1132 1142	miR-342-5p
+T127	NucleicAcidNucleosideOrNucleotide 1132 1142	miR-342-5p
+T128	CellFunction 1146 1162	A beta formation
+T129	NucleicAcidNucleosideOrNucleotide 1193 1203	miR-342-5p
+T130	BiologicallyActiveSubstance 1193 1203	miR-342-5p
+T131	BiologicallyActiveSubstance 1277 1287	MiR-342-5p
+T132	NucleicAcidNucleosideOrNucleotide 1277 1287	MiR-342-5p
+T133	CellFunction 1304 1320	A beta formation
+T134	MolecularSequence 1378 1401;1408 1416	3 '-untranslated region sequence
+T135	MolecularSequence 1403 1406	UTR
+T136	CellFunction 1446 1465	A beta 42 formation
+T137	NucleicAcidNucleosideOrNucleotide 1524 1534	miR-342-5p
+T138	BiologicallyActiveSubstance 1524 1534	miR-342-5p
+T139	BiologicallyActiveSubstance 1636 1646	miR-342-5p
+T140	NucleicAcidNucleosideOrNucleotide 1636 1646	miR-342-5p
+T141	BiologicallyActiveSubstance 1724 1734	miR-342-5p
+T142	NucleicAcidNucleosideOrNucleotide 1724 1734	miR-342-5p
+T143	CellFunction 1747 1763	A beta formation
+T144	HealthCareActivity 1870 1886	clinical therapy

@@ -1,0 +1,8 @@
+T0	GeneOrGenome 70 85	huntingtin gene
+T1	DiseaseOrSyndrome 3 23	Huntington's disease
+T2	Substance 53 62	molecules
+T3	Cell 139 147	neuronal
+T4	AminoAcidPeptideOrProtein 119 127	proteins
+T5	InjuryOrPoisoning 113 118	toxic
+T6	InjuryOrPoisoning 148 154	damage
+T7	MolecularSequence 42 52	CAG repeat

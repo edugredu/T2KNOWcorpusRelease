@@ -1,0 +1,81 @@
+T0	DiseaseOrSyndrome 30 62	autoimmune demyelinating disease
+T1	DiseaseOrSyndrome 138 159	cognitive impairments
+T2	BiologicallyActiveSubstance 161 189	Kallikrein-related peptidase
+T3	AminoAcidPeptideOrProtein 161 189	Kallikrein-related peptidase
+T4	AminoAcidPeptideOrProtein 218 233	serine protease
+T5	BiologicallyActiveSubstance 218 233	serine protease
+T6	AminoAcidPeptideOrProtein 326 330	KLK6
+T7	BiologicallyActiveSubstance 326 330	KLK6
+T8	AminoAcidPeptideOrProtein 638 642	KLK6
+T9	GeneOrGenome 638 642	KLK6
+T10	GeneOrGenome 676 680	KLK1
+T11	AminoAcidPeptideOrProtein 685 692	plasmin
+T12	PathologicFunction 740 755	physiopathology
+T13	ResearchActivity 799 815	primary cultures
+T14	ResearchActivity 472 478	design
+T15	HealthCareActivity 472 478	design
+T16	Finding 767 771	hits
+T17	Cell 287 309	myelin-producing cells
+T18	HealthCareActivity 494 504	evaluation
+T19	ResearchActivity 494 504	evaluation
+T20	ResearchActivity 807 815	cultures
+T21	Cell 265 281	oligodendrocytes
+T22	Cell 978 994	oligodendrocytes
+T23	Cell 871 875	OPCs
+T24	Cell 961 965	OPCs
+T25	Cell 838 869	oligodendrocyte precursor cells
+T26	PathologicFunction 41 54	demyelinating
+T27	BodyPartOrganOrOrganComponent 287 293	myelin
+T28	DiseaseOrSyndrome 41 62	demyelinating disease
+T29	Cell 971 994	mature oligodendrocytes
+T30	CellFunction 942 957	differentiation
+T31	Chemical 536 546	inhibitors
+T32	PharmacologicSubstance 536 546	inhibitors
+T33	BiologicallyActiveSubstance 536 546	inhibitors
+T34	AminoAcidPeptideOrProtein 536 546	inhibitors
+T35	TemporalConcept 971 977	mature
+T36	Chemical 606 615	compounds
+T37	Chemical 894 903	compounds
+T38	PharmacologicSubstance 606 615	compounds
+T39	PharmacologicSubstance 894 903	compounds
+T40	Cell 854 869	precursor cells
+T41	Cell 838 863	oligodendrocyte precursor
+T42	PatientOrDisabledGroup 442 450	patients
+T43	BodyPartOrganOrOrganComponent 70 92	central nervous system
+T44	BodyPartOrganOrOrganComponent 94 97	CNS
+T45	BodyPartOrganOrOrganComponent 250 253	CNS
+T46	BodyPartOrganOrOrganComponent 317 320	CNS
+T47	HealthCareActivity 461 467	report
+T48	ResearchActivity 461 467	report
+T49	BodyPartOrganOrOrganComponent 431 434	CSF
+T50	BiologicFunction 722 733	development
+T51	BiologicFunction 1045 1056	development
+T52	CellFunction 722 733	development
+T53	CellFunction 1045 1056	development
+T54	ClinicalAttribute 357 366	biomarker
+T55	BodyPartOrganOrOrganComponent 410 429	cerebrospinal fluid
+T56	ResearchActivity 995 1003	in vitro
+T57	Eukaryote 819 825	murine
+T58	Cell 826 833	neurons
+T59	Finding 515 518	low
+T60	HealthCareActivity 1060 1082	regenerative therapies
+T61	DiseaseOrSyndrome 20 22	MS
+T62	DiseaseOrSyndrome 370 372	MS
+T63	DiseaseOrSyndrome 439 441	MS
+T64	DiseaseOrSyndrome 737 739	MS
+T65	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T66	Finding 111 117	severe
+T67	CellFunction 643 662	proteolytic network
+T68	AminoAcidPeptideOrProtein 191 194	KLK
+T69	BiologicallyActiveSubstance 191 194	KLK
+T70	GeneOrGenome 326 330	KLK6
+T71	GeneOrGenome 508 512	KLK6
+T72	BiologicallyActiveSubstance 508 512	KLK6
+T73	AminoAcidPeptideOrProtein 508 512	KLK6
+T74	Chemical 548 564	para-aminobenzyl
+T75	PharmacologicSubstance 548 576	para-aminobenzyl derivatives
+T76	BiologicallyActiveSubstance 638 642	KLK6
+T77	AminoAcidPeptideOrProtein 676 680	KLK1
+T78	BiologicallyActiveSubstance 676 680	KLK1
+T79	BiologicallyActiveSubstance 685 692	plasmin
+T80	PharmacologicSubstance 685 692	plasmin

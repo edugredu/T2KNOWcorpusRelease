@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 143 170	neurodegenerative disorders
+T1	HealthCareActivity 97 103	health
+T2	Finding 135 139	risk
+T3	Finding 51 58	sources
+T4	Chemical 45 50	water
+T5	BiomedicalOccupationOrDiscipline 90 103	public health
+T6	HealthCareActivity 90 103	public health
+T7	EnvironmentalEffectOfHumans 9 24	water pollution

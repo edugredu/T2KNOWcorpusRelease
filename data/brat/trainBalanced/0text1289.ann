@@ -1,0 +1,99 @@
+T0	CellFunction 283 309	transcriptional regulators
+T1	CellComponent 507 521	focal adhesion
+T2	AminoAcidPeptideOrProtein 566 571	Olig2
+T3	GeneOrGenome 566 571	Olig2
+T4	GeneOrGenome 573 577	Chd7
+T5	GeneOrGenome 583 587	Chd8
+T6	CellFunction 589 615	transcriptional regulators
+T7	CellComponent 688 702	cell processes
+T8	AminoAcidPeptideOrProtein 803 815	Constitutive
+T9	DiseaseOrSyndrome 821 837	loss of function
+T10	CellFunction 855 864	viability
+T11	ResearchActivity 901 914	knockout mice
+T12	CellOrMolecularDysfunction 963 979	deletion of Tns3
+T13	Cell 1028 1032	NSCs
+T14	GeneOrGenome 1249 1252	p53
+T15	AminoAcidPeptideOrProtein 1249 1252	p53
+T16	BiologicallyActiveSubstance 1249 1252	p53
+T17	CellComponent 1502 1520	actin cytoskeleton
+T18	CellFunction 1204 1214	cell death
+T19	CellFunction 921 931	expressing
+T20	CellComponent 245 257	cytoskeleton
+T21	CellFunction 1352 1367	transcriptional
+T22	Eukaryote 878 884	humans
+T23	Finding 1065 1074	reduction
+T24	NaturalPhenomenonOrProcess 1065 1074	reduction
+T25	Cell 77 81	OPCs
+T26	Cell 1040 1044	OPCs
+T27	Cell 1161 1181	differentiating OPCs
+T28	CellFunction 432 443	myelination
+T29	Cell 44 75	oligodendrocyte precursor cells
+T30	ResearchActivity 980 987	in vivo
+T31	CellFunction 1485 1494	signaling
+T32	CellFunction 4 19	differentiation
+T33	CellFunction 313 328	differentiation
+T34	CellFunction 1595 1610	differentiation
+T35	TemporalConcept 786 795	transient
+T36	TemporalConcept 1107 1116	transient
+T37	TemporalConcept 1327 1331	time
+T38	CellComponent 269 278	chromatin
+T39	Cell 108 136	myelinating oligodendrocytes
+T40	Cell 138 141	OLs
+T41	Cell 715 718	OLs
+T42	Cell 1186 1198	immature OLs
+T43	Cell 1392 1404	immature OLs
+T44	CellFunction 619 637	OL differentiation
+T45	CellFunction 1421 1439	OL differentiation
+T46	Cell 429 431	OL
+T47	Cell 1078 1080	OL
+T48	Cell 1524 1526	OL
+T49	Cell 23 38	oligodendroglia
+T50	Cell 940 955	oligodendroglia
+T51	Eukaryote 868 873	mouse
+T52	TemporalConcept 957 962	Acute
+T53	CellFunction 1273 1282	apoptosis
+T54	GeneOrGenome 357 369	target genes
+T55	CellFunction 769 777	survival
+T56	CellFunction 1476 1484	survival
+T57	TemporalConcept 999 1008	postnatal
+T58	Cell 1009 1026	neural stem cells
+T59	CellFunction 1117 1129	upregulation
+T60	CellFunction 1233 1245	upregulation
+T61	CellFunction 1368 1380	upregulation
+T62	BiologicFunction 706 714	immature
+T63	Finding 390 411	morphological changes
+T64	Finding 192 213	morphological changes
+T65	AminoAcidPeptideOrProtein 523 530	Tensin3
+T66	BiologicallyActiveSubstance 523 530	Tensin3
+T67	AminoAcidPeptideOrProtein 532 536	Tns3
+T68	BiologicallyActiveSubstance 532 536	Tns3
+T69	GeneOrGenome 532 536	Tns3
+T70	GeneOrGenome 551 562	target gene
+T71	BiologicallyActiveSubstance 566 571	Olig2
+T72	BiologicallyActiveSubstance 573 577	Chd7
+T73	AminoAcidPeptideOrProtein 573 577	Chd7
+T74	BiologicallyActiveSubstance 583 587	Chd8
+T75	AminoAcidPeptideOrProtein 583 587	Chd8
+T76	AminoAcidPeptideOrProtein 639 643	Tns3
+T77	BiologicallyActiveSubstance 639 643	Tns3
+T78	GeneOrGenome 639 643	Tns3
+T79	AminoAcidPeptideOrProtein 734 749	integrin-beta 1
+T80	BiologicallyActiveSubstance 734 749	integrin-beta 1
+T81	Finding 757 765	mediator
+T82	AminoAcidPeptideOrProtein 816 820	Tns3
+T83	BiologicallyActiveSubstance 816 820	Tns3
+T84	GeneOrGenome 816 820	Tns3
+T85	AminoAcidPeptideOrProtein 932 936	Tns3
+T86	BiologicallyActiveSubstance 932 936	Tns3
+T87	GeneOrGenome 932 936	Tns3
+T88	AminoAcidPeptideOrProtein 1133 1137	Tns3
+T89	BiologicallyActiveSubstance 1133 1137	Tns3
+T90	GeneOrGenome 1133 1137	Tns3
+T91	Finding 1256 1269	key regulator
+T92	AminoAcidPeptideOrProtein 1384 1388	Tns3
+T93	BiologicallyActiveSubstance 1384 1388	Tns3
+T94	GeneOrGenome 1384 1388	Tns3
+T95	AminoAcidPeptideOrProtein 1460 1475	integrin-beta 1
+T96	BiologicallyActiveSubstance 1460 1475	integrin-beta 1
+T97	GeneOrGenome 1460 1475	integrin-beta 1
+T98	Finding 1545 1566	morphological changes

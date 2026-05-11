@@ -1,0 +1,31 @@
+T0	BiologicFunction 510 515	train
+T1	ResearchActivity 696 702	method
+T2	OrganismAttribute 152 165	gait dynamics
+T3	OrganismAttribute 216 220	gait
+T4	OrganismAttribute 431 435	gait
+T5	DiseaseOrSyndrome 300 320	Huntington's disease
+T6	DiseaseOrSyndrome 274 293	Parkinson's disease
+T7	DiseaseOrSyndrome 322 324	HD
+T8	DiseaseOrSyndrome 295 297	PD
+T9	DiseaseOrSyndrome 362 365	ALS
+T10	Eukaryote 482 487	human
+T11	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T12	PopulationGroup 488 496	subjects
+T13	Cell 99 106	neurons
+T14	DiseaseOrSyndrome 28 32	NDDs
+T15	DiseaseOrSyndrome 264 268	NDDs
+T16	DiseaseOrSyndrome 556 560	NDDs
+T17	DiseaseOrSyndrome 819 823	NDDs
+T18	ResearchActivity 376 381	paper
+T19	DiseaseOrSyndrome 176 193	movement disorder
+T20	DiseaseOrSyndrome 331 360	Amyotrophic Lateral Sclerosis
+T21	Eukaryote 197 203	humans
+T22	HealthCareActivity 216 240	gait time-series signals
+T23	TemporalConcept 221 232	time-series
+T24	ResearchActivity 516 540	random forest classifier
+T25	ResearchActivity 383 423	linear, non-linear, statistical features
+T26	ResearchActivity 562 597	Kernel Principal Component Analysis
+T27	ResearchActivity 609 624	Gaussian Kernel
+T28	ResearchActivity 599 602	PCA
+T29	ResearchActivity 724 750	95.26% prediction accuracy
+T30	CellOrMolecularDysfunction 54 82;96 106	progressive loss of function of neurons

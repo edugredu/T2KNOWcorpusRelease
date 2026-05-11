@@ -1,0 +1,98 @@
+T0	AminoAcidPeptideOrProtein 36 52	neuronal protein
+T1	DiseaseOrSyndrome 160 185	corticobasal degeneration
+T2	DiseaseOrSyndrome 187 190	CBD
+T3	DiseaseOrSyndrome 193 223	progressive supranuclear palsy
+T4	DiseaseOrSyndrome 225 228	PSP
+T5	DiseaseOrSyndrome 234 248	Pick's disease
+T6	BiologicFunction 275 288	concentration
+T7	PathologicFunction 558 581	multiple system atrophy
+T8	PathologicFunction 583 586	MSA
+T9	DiseaseOrSyndrome 597 600	PSP
+T10	DiseaseOrSyndrome 611 614	CBD
+T11	DiseaseOrSyndrome 870 873	CBD
+T12	DiseaseOrSyndrome 875 878	PSP
+T13	PathologicFunction 887 890	MSA
+T14	Finding 1404 1413	unchanged
+T15	PathologicFunction 1438 1461	multiple system atrophy
+T16	DiseaseOrSyndrome 1475 1493	supranuclear palsy
+T17	CellComponent 76 91	neurofibrillary
+T18	HealthCareActivity 1644 1656	Braak stages
+T19	AminoAcidPeptideOrProtein 142 145	tau
+T20	AminoAcidPeptideOrProtein 1175 1178	tau
+T21	DiseaseOrSyndrome 103 122	Alzheimer's disease
+T22	DiseaseOrSyndrome 1336 1355	Alzheimer's disease
+T23	BodyPartOrganOrOrganComponent 313 316	CSF
+T24	BodyPartOrganOrOrganComponent 892 895	CSF
+T25	BodyPartOrganOrOrganComponent 1304 1307	CSF
+T26	BodyPartOrganOrOrganComponent 1385 1388	CSF
+T27	BodyPartOrganOrOrganComponent 1545 1548	CSF
+T28	BodyPartOrganOrOrganComponent 1580 1583	CSF
+T29	BiologicallyActiveSubstance 142 145	tau
+T30	DiseaseOrSyndrome 124 126	AD
+T31	DiseaseOrSyndrome 468 470	AD
+T32	DiseaseOrSyndrome 680 682	AD
+T33	DiseaseOrSyndrome 741 743	AD
+T34	DiseaseOrSyndrome 1160 1162	AD
+T35	ClinicalAttribute 1147 1156	biomarker
+T36	BodyPartOrganOrOrganComponent 292 311	cerebrospinal fluid
+T37	BodyPartOrganOrOrganComponent 1283 1302	cerebrospinal fluid
+T38	PopulationGroup 484 492	controls
+T39	PopulationGroup 786 794	controls
+T40	PopulationGroup 1536 1544	controls
+T41	TemporalConcept 1463 1474	progressive
+T42	PatientOrDisabledGroup 424 432	patients
+T43	Cell 36 44	neuronal
+T44	BiomedicalOccupationOrDiscipline 655 669	neuropathology
+T45	PathologicFunction 655 669	neuropathology
+T46	AminoAcidPeptideOrProtein 1607 1616	total tau
+T47	BiologicallyActiveSubstance 1607 1616	total tau
+T48	Finding 714 737	significantly increased
+T49	AminoAcidPeptideOrProtein 974 997	phosphorylated tau(181)
+T50	AminoAcidPeptideOrProtein 1584 1602	phosphorylated tau
+T51	BiologicallyActiveSubstance 974 997	phosphorylated tau(181)
+T52	BiologicallyActiveSubstance 1584 1602	phosphorylated tau
+T53	HealthCareActivity 1075 1104	Mini-Mental State Examination
+T54	HealthCareActivity 1688 1717	Mini-Mental State Examination
+T55	OrganismAttribute 624 631	healthy
+T56	OrganismAttribute 1368 1375	healthy
+T57	HealthCareActivity 1032 1043	Braak stage
+T58	ResearchActivity 830 850	area under the curve
+T59	HealthCareActivity 514 523	diagnosed
+T60	DiseaseOrSyndrome 524 543	Parkinson's disease
+T61	DiseaseOrSyndrome 1417 1436	Parkinson's disease
+T62	DiseaseOrSyndrome 545 547	PD
+T63	DiseaseOrSyndrome 880 882	PD
+T64	PopulationGroup 405 412	cohorts
+T65	PopulationGroup 624 640	healthy controls
+T66	PopulationGroup 1368 1384	healthy controls
+T67	HealthCareActivity 1215 1249	parallel reaction monitoring assay
+T68	ClinicalAttribute 929 942	CSF total tau
+T69	PathologicFunction 1175 1188	tau pathology
+T70	ResearchActivity 332 386	mass spectrometric parallel reaction monitoring method
+T71	HealthCareActivity 332 386	mass spectrometric parallel reaction monitoring method
+T72	Finding 1105 1110	score
+T73	Finding 1718 1723	score
+T74	CellOrMolecularDysfunction 76 99	neurofibrillary tangles
+T75	AminoAcidPeptideOrProtein 12 22	Secernin-1
+T76	BiologicallyActiveSubstance 12 22	Secernin-1
+T77	BiologicallyActiveSubstance 24 29	SCRN1
+T78	AminoAcidPeptideOrProtein 24 29	SCRN1
+T79	GeneOrGenome 24 29	SCRN1
+T80	CellOrMolecularDysfunction 142 156	tau inclusions
+T81	BiologicallyActiveSubstance 269 274	SCRN1
+T82	GeneOrGenome 269 274	SCRN1
+T83	AminoAcidPeptideOrProtein 269 274	SCRN1
+T84	ClinicalAttribute 269 311	SCRN1 concentration in cerebrospinal fluid
+T85	ClinicalAttribute 700 709	CSF SCRN1
+T86	ClinicalAttribute 892 901	CSF SCRN1
+T87	ClinicalAttribute 1122 1131	CSF SCRN1
+T88	AminoAcidPeptideOrProtein 1261 1271	secernin-1
+T89	BiologicallyActiveSubstance 1261 1271	secernin-1
+T90	AminoAcidPeptideOrProtein 1273 1278	SCRN1
+T91	BiologicallyActiveSubstance 1273 1278	SCRN1
+T92	GeneOrGenome 1273 1278	SCRN1
+T93	ClinicalAttribute 1309 1318	CSF SCRN1
+T94	ClinicalAttribute 1385 1394	CSF SCRN1
+T95	DiseaseOrSyndrome 1498 1523	corticobasal degeneration
+T96	ClinicalAttribute 1545 1554	CSF SCRN1
+T97	ClinicalAttribute 1617 1626	CSF SCRN1

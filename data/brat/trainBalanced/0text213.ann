@@ -1,0 +1,31 @@
+T0	DiseaseOrSyndrome 32 67	inherited neurodegenerative disease
+T1	PathologicFunction 202 217	pathophysiology
+T2	ResearchActivity 240 261	cross-sectional study
+T3	BodyPartOrganOrOrganComponent 272 278	plasma
+T4	Chemical 289 299	anandamide
+T5	Chemical 304 326	2-arachidonoylglycerol
+T6	PharmacologicSubstance 304 326	2-arachidonoylglycerol
+T7	Chemical 421 436	endocannabinoid
+T8	Chemical 485 500	endocannabinoid
+T9	HealthCareActivity 529 558	Mini-Mental State Examination
+T10	HealthCareActivity 599 638	Unified Huntington Disease Rating Scale
+T11	Chemical 725 735	anandamide
+T12	HealthCareActivity 560 597	Hospital Anxiety and Depression Scale
+T13	HealthCareActivity 512 527	clinical scales
+T14	PopulationGroup 746 762	healthy controls
+T15	PopulationGroup 378 394	healthy controls
+T16	PatientOrDisabledGroup 339 365	HD gene-expansion carriers
+T17	PatientOrDisabledGroup 367 372	HDGEC
+T18	CellFunction 159 181	endocannabinoid system
+T19	DiseaseOrSyndrome 85 125	motor, cognitive and behavioral deficits
+T20	PatientOrDisabledGroup 774 779	HDGEC
+T21	HealthCareActivity 705 720	body mass index
+T22	Finding 132 140	evidence
+T23	DiseaseOrSyndrome 22 24	HD
+T24	DiseaseOrSyndrome 221 223	HD
+T25	DiseaseOrSyndrome 0 20	Huntington's disease
+T26	BiologicallyActiveSubstance 289 299	anandamide
+T27	BiologicallyActiveSubstance 421 436	endocannabinoid
+T28	BiologicallyActiveSubstance 485 500	endocannabinoid
+T29	BiologicallyActiveSubstance 725 735	anandamide
+T30	Finding 673 696	significant association

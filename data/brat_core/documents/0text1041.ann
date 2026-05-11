@@ -1,0 +1,98 @@
+T0	BiologicFunction 105 114	paracrine
+T1	CellComponent 246 253	soluble
+T2	Cell 542 557	Microglia cells
+T3	PharmacologicSubstance 934 946	nitric oxide
+T4	Chemical 934 946	nitric oxide
+T5	DiseaseOrSyndrome 1223 1249	neuroinflammatory diseases
+T6	CellFunction 1544 1581	intercellular communication mediators
+T7	PharmacologicSubstance 948 950	NO
+T8	Chemical 948 950	NO
+T9	PathologicFunction 1429 1441	degenerative
+T10	PathologicFunction 1017 1037	chronic inflammation
+T11	Cell 589 601	immune cells
+T12	CellComponent 155 177	extracellular vesicles
+T13	CellComponent 1353 1375	extracellular vesicles
+T14	CellComponent 1601 1623	extracellular vesicles
+T15	DiseaseOrSyndrome 1045 1064	Alzheimer's disease
+T16	DiseaseOrSyndrome 1907 1926	Alzheimer's disease
+T17	CellComponent 179 182	EVs
+T18	CellComponent 224 227	EVs
+T19	CellComponent 233 236	EVs
+T20	CellComponent 719 722	EVs
+T21	CellComponent 825 828	EVs
+T22	CellComponent 1090 1093	EVs
+T23	CellComponent 1178 1181	EVs
+T24	BodyPartOrganOrOrganComponent 566 588	central nervous system
+T25	ResearchActivity 1148 1153	study
+T26	Cell 1128 1133	cells
+T27	CellComponent 1469 1491	Extracellular vesicles
+T28	Cell 507 511	cell
+T29	DiseaseOrSyndrome 977 1003	neurodegenerative diseases
+T30	DiseaseOrSyndrome 1872 1898	neurodegenerative diseases
+T31	PathologicFunction 861 877	pro-inflammatory
+T32	PathologicFunction 632 644	inflammation
+T33	PathologicFunction 1025 1037	inflammation
+T34	HealthCareActivity 1408 1417	treatment
+T35	ResearchActivity 1408 1417	treatment
+T36	Finding 49 57	capacity
+T37	Finding 615 624	mediators
+T38	Finding 878 887	mediators
+T39	Finding 1572 1581	mediators
+T40	AminoAcidPeptideOrProtein 1508 1516	proteins
+T41	Cell 431 440	microglia
+T42	Cell 748 763	microglia cells
+T43	Cell 1118 1127	microglia
+T44	Cell 1790 1799	microglia
+T45	Eukaryote 1643 1649	murine
+T46	CellFunction 1776 1786	inhibition
+T47	AminoAcidPeptideOrProtein 772 779	amyloid
+T48	AminoAcidPeptideOrProtein 1751 1758	amyloid
+T49	BiologicallyActiveSubstance 772 779	amyloid
+T50	BiologicallyActiveSubstance 1751 1758	amyloid
+T51	AminoAcidPeptideOrProtein 767 790	beta-amyloid aggregates
+T52	AminoAcidPeptideOrProtein 1746 1769	beta-amyloid aggregates
+T53	HealthCareActivity 1861 1868	therapy
+T54	Chemical 1518 1524	lipids
+T55	AminoAcidPeptideOrProtein 271 280	cytokines
+T56	BiologicallyActiveSubstance 271 280	cytokines
+T57	Cell 229 232	MSC
+T58	Cell 715 718	MSC
+T59	Cell 821 824	MSC
+T60	Cell 1086 1089	MSC
+T61	Cell 1174 1177	MSC
+T62	Cell 1335 1338	MSC
+T63	Cell 20 30	stem cells
+T64	Cell 1320 1330	stem cells
+T65	Cell 32 36	MSCs
+T66	Cell 81 85	MSCs
+T67	Cell 211 215	MSCs
+T68	Cell 401 405	MSCs
+T69	Cell 417 421	MSCs
+T70	Finding 115 122	effects
+T71	Finding 377 397	regenerative effects
+T72	Finding 1381 1400	therapeutic effects
+T73	Finding 809 817	presence
+T74	Cell 1650 1666	microglial cells
+T75	Cell 1721 1737	microglial cells
+T76	AminoAcidPeptideOrProtein 294 308	growth factors
+T77	AminoAcidPeptideOrProtein 282 292	chemokines
+T78	BiologicallyActiveSubstance 282 292	chemokines
+T79	BiologicallyActiveSubstance 294 308	growth factors
+T80	DiseaseOrSyndrome 656 683	neurodegenerative disorders
+T81	DiseaseOrSyndrome 1446 1467	inflammatory diseases
+T82	CellFunction 845 857	upregulation
+T83	CellComponent 1347 1375	small extracellular vesicles
+T84	NucleicAcidNucleosideOrNucleotide 1529 1532	RNA
+T85	BiologicFunction 355 372	anti-inflammatory
+T86	PharmacologicSubstance 355 372	anti-inflammatory
+T87	TemporalConcept 1017 1024	chronic
+T88	NucleicAcidNucleosideOrNucleotide 318 327	microRNAs
+T89	BiologicallyActiveSubstance 318 327	microRNAs
+T90	Cell 0 19	Mesenchymal stromal
+T91	CellFunction 734 744	activation
+T92	BiologicFunction 62 79	immune regulation
+T93	AminoAcidPeptideOrProtein 896 917;924 929	tumor necrosis factor alpha
+T94	BiologicallyActiveSubstance 896 917;924 929	tumor necrosis factor alpha
+T95	HealthCareActivity 1197 1213	therapeutic tool
+T96	Cell 1300 1319	mesenchymal stromal
+T97	CellFunction 1800 1810	activation

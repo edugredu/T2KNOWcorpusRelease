@@ -1,0 +1,8 @@
+T0	CellOrMolecularDysfunction 148 165	neurodegeneration
+T1	HealthCareActivity 132 144	gene therapy
+T2	TemporalConcept 122 131	precision
+T3	GeneOrGenome 132 136	gene
+T4	ResearchActivity 54 65	CRISPR/Cas9
+T5	BiologicFunction 54 65	CRISPR/Cas9
+T6	ResearchActivity 75 89	genome editing
+T7	Virus 27 37	Adenovirus

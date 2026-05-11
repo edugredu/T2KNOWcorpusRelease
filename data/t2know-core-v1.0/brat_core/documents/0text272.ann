@@ -1,0 +1,33 @@
+T0	MachineActivity 293 319;327 334	Computer-aided drug design methods
+T1	MachineActivity 321 325	CADD
+T2	ResearchActivity 397 414	biological assays
+T3	HealthCareActivity 513 525	introduction
+T4	MachineActivity 529 533	CADD
+T5	MachineActivity 571 575	CADD
+T6	TemporalConcept 550 558	progress
+T7	PharmacologicSubstance 476 481	drugs
+T8	ResearchActivity 664 683	therapeutic targets
+T9	ResearchActivity 654 683	potential therapeutic targets
+T10	HealthCareActivity 385 393	screened
+T11	ResearchActivity 385 393	screened
+T12	PopulationGroup 178 184	people
+T13	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T14	HealthCareActivity 282 291	challenge
+T15	BiologicFunction 200 211	development
+T16	CellFunction 200 211	development
+T17	ResearchActivity 586 611	molecular docking studies
+T18	HealthCareActivity 215 225	treatments
+T19	ResearchActivity 215 225	treatments
+T20	ResearchActivity 642 650	overview
+T21	DiseaseOrSyndrome 28 31	NDs
+T22	DiseaseOrSyndrome 615 618	NDs
+T23	DiseaseOrSyndrome 696 699	NDs
+T24	TemporalConcept 435 439	time
+T25	DiseaseOrSyndrome 120 140	Huntington's disease
+T26	DiseaseOrSyndrome 64 83	Parkinson's disease
+T27	DiseaseOrSyndrome 85 114	amyotrophic lateral sclerosis
+T28	DiseaseOrSyndrome 43 62	Alzheimer's disease
+T29	ResearchActivity 491 497	review
+T30	HealthCareActivity 491 497	review
+T31	ResearchActivity 273 281	research
+T32	Finding 235 254	unmet clinical need

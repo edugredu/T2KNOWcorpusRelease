@@ -1,0 +1,41 @@
+T0	DiseaseOrSyndrome 32 67	inherited neurodegenerative disease
+T1	PopulationGroup 69 75	People
+T2	SignOrSymptom 184 225	motor, cognitive and psychiatric symptoms
+T3	TemporalConcept 272 277	years
+T4	PopulationGroup 295 301	people
+T5	HealthCareActivity 334 351	systematic review
+T6	Finding 424 434	employment
+T7	Finding 521 531	employment
+T8	DiseaseOrSyndrome 610 627	motor impairments
+T9	DiseaseOrSyndrome 629 635	apathy
+T10	TemporalConcept 664 679	prodromal stage
+T11	PopulationGroup 773 779	people
+T12	Finding 833 843	employment
+T13	BiologicFunction 852 856	fear
+T14	BiologicFunction 870 892	genetic discrimination
+T15	Finding 894 904	Employment
+T16	OrganismAttribute 241 244	age
+T17	OrganismAttribute 282 285	age
+T18	DiseaseOrSyndrome 588 605	cognitive decline
+T19	DiseaseOrSyndrome 22 24	HD
+T20	DiseaseOrSyndrome 88 90	HD
+T21	DiseaseOrSyndrome 161 163	HD
+T22	DiseaseOrSyndrome 459 461	HD
+T23	DiseaseOrSyndrome 556 558	HD
+T24	DiseaseOrSyndrome 708 710	HD
+T25	DiseaseOrSyndrome 827 829	HD
+T26	DiseaseOrSyndrome 971 973	HD
+T27	DiseaseOrSyndrome 0 20	Huntington's disease
+T28	TemporalConcept 145 159	clinical onset
+T29	TemporalConcept 248 253	onset
+T30	ResearchActivity 345 351	review
+T31	HealthCareActivity 345 351	review
+T32	ResearchActivity 475 482	studies
+T33	HealthCareActivity 109 127	predictive testing
+T34	TemporalConcept 128 133	years
+T35	ClinicalAttribute 381 413	disease-specific characteristics
+T36	Finding 439 455	working capacity
+T37	Finding 536 552	working capacity
+T38	Finding 909 925	working capacity
+T39	HealthCareActivity 948 966	predictive testing
+T40	ClinicalAttribute 726 748	clinical manifestation

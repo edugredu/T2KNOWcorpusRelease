@@ -1,0 +1,74 @@
+T0	HealthCareActivity 1078 1089	positioning
+T1	DiseaseOrSyndrome 1306 1315	tauopathy
+T2	Finding 1384 1394	impairment
+T3	BiologicFunction 1398 1411	visual memory
+T4	CellFunction 1536 1547	Aggregation
+T5	ResearchActivity 1536 1547	Aggregation
+T6	ResearchActivity 378 405	comprehensive understanding
+T7	MachineActivity 719 751	novel rank aggregation algorithm
+T8	HealthCareActivity 1100 1107	imaging
+T9	PatientOrDisabledGroup 1626 1633	patient
+T10	TemporalConcept 11 19	Previous
+T11	DiseaseOrSyndrome 1317 1334	memory impairment
+T12	Finding 429 442	heterogeneity
+T13	AminoAcidPeptideOrProtein 1007 1010	tau
+T14	DiseaseOrSyndrome 30 49	Alzheimer's disease
+T15	BiologicallyActiveSubstance 1007 1010	tau
+T16	DiseaseOrSyndrome 51 53	AD
+T17	DiseaseOrSyndrome 345 347	AD
+T18	DiseaseOrSyndrome 409 411	AD
+T19	DiseaseOrSyndrome 659 661	AD
+T20	DiseaseOrSyndrome 1230 1232	AD
+T21	DiseaseOrSyndrome 1524 1526	AD
+T22	DiseaseOrSyndrome 1722 1724	AD
+T23	BodyPartOrganOrOrganComponent 1260 1279	cerebrospinal fluid
+T24	PopulationGroup 1527 1534	cohorts
+T25	PopulationGroup 1772 1779	cohorts
+T26	BodyPartOrganOrOrganComponent 1360 1365	brain
+T27	ResearchActivity 107 111	data
+T28	ResearchActivity 289 293	data
+T29	ResearchActivity 1551 1570	data-driven results
+T30	TemporalConcept 1205 1212	current
+T31	ResearchActivity 129 150	single cohort studies
+T32	HealthCareActivity 1336 1343	FDG-PET
+T33	ResearchActivity 313 318	study
+T34	PathologicFunction 1725 1734	pathology
+T35	BiomedicalOccupationOrDiscipline 1725 1734	pathology
+T36	PathologicFunction 55 66	progression
+T37	PathologicFunction 412 423	progression
+T38	PathologicFunction 471 482	progression
+T39	PathologicFunction 1233 1244	progression
+T40	TemporalConcept 55 66	progression
+T41	TemporalConcept 412 423	progression
+T42	TemporalConcept 471 482	progression
+T43	TemporalConcept 1233 1244	progression
+T44	PopulationGroup 789 799	individual
+T45	OrganismAttribute 789 799	individual
+T46	ResearchActivity 896 903	Results
+T47	ResearchActivity 951 968	event-based model
+T48	ResearchActivity 20 26	models
+T49	ResearchActivity 621 627	models
+T50	ResearchActivity 1437 1455	event-based models
+T51	ResearchActivity 1747 1753	models
+T52	BiologicFunction 1213 1226	understanding
+T53	AminoAcidPeptideOrProtein 1280 1292	amyloid beta
+T54	PopulationGroup 136 142	cohort
+T55	PopulationGroup 161 167	cohort
+T56	PopulationGroup 555 561	cohort
+T57	PopulationGroup 662 668	cohort
+T58	PopulationGroup 888 894	cohort
+T59	ResearchActivity 483 491	patterns
+T60	ResearchActivity 168 176	datasets
+T61	ResearchActivity 562 570	datasets
+T62	ResearchActivity 669 677	datasets
+T63	ResearchActivity 1640 1648	datasets
+T64	CellFunction 253 260	signals
+T65	ResearchActivity 215 233	exclusion criteria
+T66	ResearchActivity 201 210;225 233	inclusion criteria
+T67	ResearchActivity 997 1034	Kendall's tau correlation coefficient
+T68	Finding 1123 1130	changes
+T69	Finding 1366 1379	deterioration
+T70	MachineActivity 1675 1688	meta-sequence
+T71	MachineActivity 823 836	meta-sequence
+T72	ResearchActivity 447 457	robustness
+T73	MachineActivity 1159 1172	meta-sequence

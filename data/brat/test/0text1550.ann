@@ -1,0 +1,94 @@
+T0	BiologicFunction 308 318	reluctance
+T1	ManufacturedObject 408 415	barrier
+T2	ResearchActivity 419 436	preclinical trial
+T3	ManufacturedObject 1079 1086	barrier
+T4	ResearchActivity 1090 1107	preclinical trial
+T5	ManufacturedObject 1229 1236	barrier
+T6	ManufacturedObject 1442 1449	barrier
+T7	TemporalConcept 1668 1678	frequently
+T8	HealthCareActivity 75 85	treatments
+T9	ResearchActivity 75 85	treatments
+T10	Finding 984 995	confounders
+T11	IndividualBehavior 645 655	disclosure
+T12	IndividualBehavior 2209 2219	disclosure
+T13	Finding 767 789	cognitively unimpaired
+T14	ResearchActivity 598 612	clinical trial
+T15	TemporalConcept 790 795	older
+T16	ResearchActivity 44 59	clinical trials
+T17	PopulationGroup 790 802	older adults
+T18	TemporalConcept 1913 1918	first
+T19	ResearchActivity 932 958	logistic regression models
+T20	BiologicFunction 657 664	SETTING
+T21	OrganismAttribute 2028 2036	personal
+T22	DiseaseOrSyndrome 24 43	Alzheimer's disease
+T23	DiseaseOrSyndrome 1964 1983	Alzheimer's disease
+T24	ClinicalAttribute 106 115	biomarker
+T25	ClinicalAttribute 237 246	biomarker
+T26	ClinicalAttribute 328 337	biomarker
+T27	ClinicalAttribute 623 632	biomarker
+T28	ClinicalAttribute 1338 1347	biomarker
+T29	ClinicalAttribute 1623 1632	biomarker
+T30	ClinicalAttribute 1862 1871	biomarker
+T31	ClinicalAttribute 2037 2046	biomarker
+T32	ClinicalAttribute 2199 2208	biomarker
+T33	PopulationGroup 1149 1161	participants
+T34	PopulationGroup 1256 1268	participants
+T35	PopulationGroup 1495 1507	participants
+T36	PopulationGroup 1650 1662	participants
+T37	PopulationGroup 1990 2002	participants
+T38	PopulationGroup 2086 2098	participants
+T39	PopulationGroup 89 100	individuals
+T40	HealthCareActivity 633 640	testing
+T41	ResearchActivity 1919 1926	studies
+T42	DiseaseOrSyndrome 132 152	cognitive impairment
+T43	ResearchActivity 214 219	study
+T44	ResearchActivity 377 382	study
+T45	ResearchActivity 513 518	study
+T46	ResearchActivity 903 908	study
+T47	ResearchActivity 1048 1053	study
+T48	ResearchActivity 1197 1202	study
+T49	ResearchActivity 1362 1367	study
+T50	ResearchActivity 1411 1416	study
+T51	ResearchActivity 1746 1751	study
+T52	ResearchActivity 1820 1825	study
+T53	ResearchActivity 2066 2071	study
+T54	ResearchActivity 2110 2115	study
+T55	HealthCareActivity 482 492	assessment
+T56	ResearchActivity 482 492	assessment
+T57	Finding 1348 1354	result
+T58	Finding 1633 1639	result
+T59	ResearchActivity 1522 1524	CI
+T60	PopulationGroup 154 166	Participants
+T61	Finding 116 124	evidence
+T62	ResearchActivity 1984 1989	trial
+T63	ResearchActivity 2139 2144	trial
+T64	HealthCareActivity 437 447	enrollment
+T65	HealthCareActivity 1108 1118	enrollment
+T66	HealthCareActivity 1240 1250	enrollment
+T67	HealthCareActivity 1453 1463	enrollment
+T68	HealthCareActivity 2145 2155	enrollment
+T69	HealthCareRelatedOrganization 707 739	University of California, Irvine
+T70	HealthCareRelatedOrganization 822 854	University of California, Irvine
+T71	PopulationGroup 796 802	adults
+T72	ResearchActivity 60 64	test
+T73	HealthCareActivity 60 64	test
+T74	TemporalConcept 12 23	Preclinical
+T75	TemporalConcept 1952 1963	preclinical
+T76	PopulationGroup 2116 2123	partner
+T77	PopulationGroup 2176 2183	partner
+T78	PopulationGroup 1826 1833	partner
+T79	PopulationGroup 1752 1759	partner
+T80	PopulationGroup 2072 2079	partner
+T81	PopulationGroup 1368 1375	partner
+T82	PopulationGroup 1417 1424	partner
+T83	PopulationGroup 1203 1210	partner
+T84	PopulationGroup 1054 1061	partner
+T85	PopulationGroup 383 390	partner
+T86	PopulationGroup 519 526	partner
+T87	PopulationGroup 220 227	partner
+T88	Finding 527 538	requirement
+T89	HealthCareActivity 553 573	in-person interviews
+T90	HealthCareActivity 679 689	interviews
+T91	Finding 1062 1073	requirement
+T92	Finding 1211 1222	requirement
+T93	Finding 1425 1436	requirement

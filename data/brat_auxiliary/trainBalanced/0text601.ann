@@ -1,0 +1,32 @@
+T0	DiseaseOrSyndrome 38 49	Alzheimer's
+T1	DiseaseOrSyndrome 51 62	Parkinson's
+T2	DiseaseOrSyndrome 64 76	Huntington's
+T3	DiseaseOrSyndrome 91 120	amyotrophic lateral sclerosis
+T4	DiseaseOrSyndrome 150 158	dementia
+T5	DiseaseOrSyndrome 177 192	brain disorders
+T6	PathologicFunction 208 220	pathogenesis
+T7	AminoAcidPeptideOrProtein 275 292	misfolded protein
+T8	CellOrMolecularDysfunction 275 292	misfolded protein
+T9	InjuryOrPoisoning 293 301	toxicity
+T10	PathologicFunction 303 316	demyelination
+T11	CellFunction 318 327	apoptosis
+T12	CellOrMolecularDysfunction 332 358	mitochondrial dysfunctions
+T13	DiseaseOrSyndrome 593 621	neurodegenerative conditions
+T14	OrganismAttribute 642 649	species
+T15	ResearchActivity 759 770	fish models
+T16	ResearchActivity 535 551	zebrafish models
+T17	Eukaryote 576 581	human
+T18	ExperimentalModelOfDisease 671 732	experimental model for research on neurodegenerative diseases
+T19	CellOrMolecularDysfunction 0 17	Neurodegeneration
+T20	DiseaseOrSyndrome 412 439	neurodegenerative disorders
+T21	DiseaseOrSyndrome 706 732	neurodegenerative diseases
+T22	DiseaseOrSyndrome 122 148	pontocerebellar hypoplasia
+T23	ResearchActivity 516 522	review
+T24	HealthCareActivity 516 522	review
+T25	CellOrMolecularDysfunction 239 273	genetic and neurochemical deficits
+T26	Finding 458 493	evolutionarily conserved mechanisms
+T27	Eukaryote 586 592	rodent
+T28	DiseaseOrSyndrome 850 882	behavioral pathogenic mechanisms
+T29	CellOrMolecularDysfunction 815 828;861 882	neurochemical pathogenic mechanisms
+T30	PathologicFunction 830 845;861 882	neuroanatomical pathogenic mechanisms
+T31	CellOrMolecularDysfunction 806 813;861 882	genetic pathogenic mechanisms

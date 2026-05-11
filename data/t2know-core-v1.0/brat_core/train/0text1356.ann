@@ -1,0 +1,102 @@
+T0	GeneOrGenome 0 54	Receptor interacting serine/threonine protein kinase 1
+T1	AminoAcidPeptideOrProtein 0 54	Receptor interacting serine/threonine protein kinase 1
+T2	BiologicallyActiveSubstance 0 54	Receptor interacting serine/threonine protein kinase 1
+T3	BiologicallyActiveSubstance 56 61	RIPK1
+T4	AminoAcidPeptideOrProtein 56 61	RIPK1
+T5	CellFunction 56 61	RIPK1
+T6	CellFunction 78 89	necroptosis
+T7	GeneOrGenome 696 701	RIPK1
+T8	AminoAcidPeptideOrProtein 696 701	RIPK1
+T9	BiologicallyActiveSubstance 696 701	RIPK1
+T10	AminoAcidPeptideOrProtein 776 785	TNF alpha
+T11	GeneOrGenome 943 948	RIPK1
+T12	AminoAcidPeptideOrProtein 943 948	RIPK1
+T13	BiologicallyActiveSubstance 943 948	RIPK1
+T14	AminoAcidPeptideOrProtein 1368 1380	RIPK1 kinase
+T15	BiologicallyActiveSubstance 1368 1380	RIPK1 kinase
+T16	CellFunction 1495 1508	transcription
+T17	Chemical 1008 1022	small molecule
+T18	PathologicFunction 251 264	Demyelination
+T19	AminoAcidPeptideOrProtein 1562 1572	NF-kappa B
+T20	GeneOrGenome 1562 1572	NF-kappa B
+T21	BiologicallyActiveSubstance 1562 1572	NF-kappa B
+T22	BiologicallyActiveSubstance 1094 1103	inhibitor
+T23	PharmacologicSubstance 1094 1103	inhibitor
+T24	Chemical 1094 1103	inhibitor
+T25	HealthCareActivity 874 882	screened
+T26	ResearchActivity 874 882	screened
+T27	CellComponent 1239 1244	axons
+T28	Cell 326 342	oligodendrocytes
+T29	Cell 400 404	OPCs
+T30	Cell 520 524	OPCs
+T31	Cell 653 657	OPCs
+T32	Cell 727 731	OPCs
+T33	Cell 1321 1325	OPCs
+T34	Cell 1473 1477	OPCs
+T35	Cell 1693 1697	OPCs
+T36	DiseaseOrSyndrome 150 168	multiple sclerosis
+T37	BodyPartOrganOrOrganComponent 1209 1215	myelin
+T38	BodyPartOrganOrOrganComponent 1746 1752	myelin
+T39	Cell 366 398	oligodendrocyte progenitor cells
+T40	Chemical 949 959	inhibitors
+T41	PharmacologicSubstance 949 959	inhibitors
+T42	BiologicallyActiveSubstance 949 959	inhibitors
+T43	Substance 1014 1022	molecule
+T44	Cell 382 398	progenitor cells
+T45	CellFunction 636 649	proliferation
+T46	CellFunction 1304 1317	proliferation
+T47	CellFunction 1456 1469	proliferation
+T48	CellFunction 1676 1689	proliferation
+T49	PathologicFunction 1250 1262	degeneration
+T50	Finding 426 436	efficiency
+T51	CellFunction 1746 1759	myelin repair
+T52	ResearchActivity 853 869	cell death assay
+T53	PathologicFunction 240 249	pathology
+T54	BiomedicalOccupationOrDiscipline 240 249	pathology
+T55	Eukaryote 144 149	human
+T56	Cell 842 847	cells
+T57	DiseaseOrSyndrome 173 199	neurodegenerative diseases
+T58	Finding 586 595	knowledge
+T59	BiologicFunction 685 695	inhibiting
+T60	BiologicFunction 1357 1367	inhibiting
+T61	BiologicFunction 858 863	death
+T62	PathologicFunction 858 863	death
+T63	CellFunction 858 863	death
+T64	TemporalConcept 468 479	progressive
+T65	PharmacologicSubstance 906 911	drugs
+T66	CellFunction 1573 1580	pathway
+T67	CellFunction 853 863	cell death
+T68	CellFunction 287 300	remyelination
+T69	CellFunction 440 453	remyelination
+T70	CellFunction 755 768	remyelination
+T71	CellFunction 1340 1353	remyelination
+T72	CellFunction 1649 1662	remyelination
+T73	PathologicFunction 210 223	demyelination
+T74	PathologicFunction 555 568	demyelination
+T75	PathologicFunction 1221 1234	demyelination
+T76	PopulationGroup 360 365	adult
+T77	BiologicFunction 480 485	aging
+T78	CellFunction 480 485	aging
+T79	PharmacologicSubstance 616 620	drug
+T80	PharmacologicSubstance 920 924	drug
+T81	PharmacologicSubstance 1619 1623	drug
+T82	PharmacologicSubstance 1730 1734	drug
+T83	BiologicallyActiveSubstance 1512 1557	platelet derived growth factor receptor alpha
+T84	HealthCareRelatedOrganization 893 896	FDA
+T85	BiologicFunction 1753 1759	repair
+T86	HealthCareActivity 1753 1759	repair
+T87	TemporalConcept 535 542	chronic
+T88	CellFunction 63 73	activation
+T89	AminoAcidPeptideOrProtein 794 799	RIPK1
+T90	BiologicallyActiveSubstance 794 799	RIPK1
+T91	ExperimentalModelOfDisease 825 847	Jurkat FADD(-/-) cells
+T92	Chemical 998 1004	ZJU-37
+T93	Chemical 1050 1060	amide bond
+T94	BiologicallyActiveSubstance 1081 1093	RIPK1 kinase
+T95	AminoAcidPeptideOrProtein 1081 1093	RIPK1 kinase
+T96	Chemical 1264 1270	ZJU-37
+T97	Chemical 1440 1446	ZJU-37
+T98	Chemical 1129 1135	Nec-1s
+T99	AminoAcidPeptideOrProtein 1512 1557	platelet derived growth factor receptor alpha
+T100	Chemical 1603 1609	ZJU-37
+T101	Finding 1164 1171	potency

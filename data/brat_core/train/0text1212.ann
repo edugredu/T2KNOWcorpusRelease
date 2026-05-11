@@ -1,0 +1,45 @@
+T0	BiologicFunction 19 41	physiological response
+T1	PopulationGroup 136 144	Resident
+T2	BiologicFunction 703 709	ageing
+T3	BiologicFunction 84 104	saltatory conduction
+T4	TemporalConcept 496 512	disease duration
+T5	Cell 178 181	OPC
+T6	Cell 145 176	oligodendrocyte precursor cells
+T7	CellFunction 273 286	differentiate
+T8	PathologicFunction 45 58	demyelinating
+T9	DiseaseOrSyndrome 358 376	multiple sclerosis
+T10	DiseaseOrSyndrome 831 849	multiple sclerosis
+T11	DiseaseOrSyndrome 415 436	demyelinating disease
+T12	InjuryOrPoisoning 347 353	lesion
+T13	PathologicFunction 334 346	demyelinated
+T14	CellFunction 0 13	Remyelination
+T15	CellComponent 312 326	myelin sheaths
+T16	CellFunction 648 661	remyelinating
+T17	CellFunction 993 1006	remyelinating
+T18	Finding 452 462	efficiency
+T19	CellFunction 118 134	axonal integrity
+T20	CellFunction 517 536	myelin regeneration
+T21	BodyPartOrganOrOrganComponent 190 193	CNS
+T22	BodyPartOrganOrOrganComponent 1023 1026	CNS
+T23	DiseaseOrSyndrome 793 819	neurodegenerative diseases
+T24	Finding 1007 1015	capacity
+T25	OrganismAttribute 488 491	age
+T26	BodyPartOrganOrOrganComponent 194 200	tissue
+T27	ResearchActivity 648 672	remyelinating strategies
+T28	CellFunction 863 877	OPC senescence
+T29	PathologicFunction 762 777	pathophysiology
+T30	BiomedicalOccupationOrDiscipline 762 777	pathophysiology
+T31	CellFunction 438 451	remyelination
+T32	CellFunction 1096 1109	remyelination
+T33	HealthCareActivity 1168 1177;1193 1202	senolytic therapies
+T34	DiseaseOrSyndrome 378 380	MS
+T35	DiseaseOrSyndrome 1243 1245	MS
+T36	CellFunction 714 733	cellular senescence
+T37	CellFunction 923 942	cellular senescence
+T38	CellFunction 1068 1087	cellular senescence
+T39	ResearchActivity 1048 1052	data
+T40	TemporalConcept 693 701	Recently
+T41	Cell 1213 1239	senescent cell populations
+T42	ResearchActivity 549 564	clinical trials
+T43	Finding 1119 1136	putative benefits
+T44	HealthCareActivity 1181 1202	senomorphic therapies

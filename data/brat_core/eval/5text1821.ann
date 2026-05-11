@@ -1,0 +1,5 @@
+T0	DiseaseOrSyndrome 120 147	neurodegenerative disorders
+T1	CellFunction 62 72	cell death
+T2	CellFunction 18 38	molecular mechanisms
+T3	HealthCareActivity 91 116	therapeutic interventions
+T4	Virus 42 52	Adenovirus

@@ -1,0 +1,92 @@
+T0	CellComponent 33 51	nanoscale vesicles
+T1	HealthCareActivity 243 250	removal
+T2	ResearchActivity 395 403	protocol
+T3	ResearchActivity 519 540	laboratory experience
+T4	BiologicFunction 628 637	digestion
+T5	ResearchActivity 628 637	digestion
+T6	ResearchActivity 686 700	centrifugation
+T7	ResearchActivity 1063 1079	western blotting
+T8	NucleicAcidNucleosideOrNucleotide 1120 1123	ATP
+T9	BiologicallyActiveSubstance 1120 1123	ATP
+T10	NaturalPhenomenonOrProcess 1124 1132	kinetics
+T11	PopulationGroup 1452 1466	subpopulations
+T12	DiseaseOrSyndrome 1652 1668	brain conditions
+T13	HealthCareActivity 1765 1773	protocol
+T14	PopulationGroup 1841 1855	subpopulations
+T15	BiologicFunction 1611 1634	physiological processes
+T16	ResearchActivity 671 681	filtration
+T17	ResearchActivity 1517 1526	technique
+T18	CellComponent 1819 1840	extracellular vesicle
+T19	CellComponent 1989 2010	Extracellular vesicle
+T20	BodyPartOrganOrOrganComponent 70 89	extracellular space
+T21	BodyPartOrganOrOrganComponent 346 365	extracellular space
+T22	CellComponent 883 896	mitochondrial
+T23	Substance 328 336	material
+T24	DiseaseOrSyndrome 1715 1734	Alzheimer's disease
+T25	CellComponent 24 27	EVs
+T26	CellComponent 156 159	EVs
+T27	CellComponent 449 452	EVs
+T28	CellComponent 717 720	EVs
+T29	CellComponent 1304 1307	EVs
+T30	CellComponent 810 812	EV
+T31	CellComponent 877 879	EV
+T32	CellComponent 997 999	EV
+T33	CellComponent 1386 1388	EV
+T34	CellComponent 1586 1588	EV
+T35	ResearchActivity 979 987	analysis
+T36	ResearchActivity 1019 1037	nanotrack analysis
+T37	ResearchActivity 2032 2040	analysis
+T38	DiseaseOrSyndrome 1739 1758	Parkinson's disease
+T39	HealthCareActivity 913 919	report
+T40	ResearchActivity 913 919	report
+T41	BodyPartOrganOrOrganComponent 149 154	brain
+T42	BodyPartOrganOrOrganComponent 991 996	brain
+T43	BodyPartOrganOrOrganComponent 1580 1585	brain
+T44	Eukaryote 474 479	human
+T45	CellComponent 0 22	Extracellular vesicles
+T46	BodyPartOrganOrOrganComponent 645 657	brain tissue
+T47	BodyPartOrganOrOrganComponent 1803 1815	brain tissue
+T48	TemporalConcept 897 903	origin
+T49	DiseaseOrSyndrome 1680 1706	neurodegenerative diseases
+T50	Eukaryote 463 469	murine
+T51	ResearchActivity 1039 1058	electron microscopy
+T52	TemporalConcept 566 570	time
+T53	Cell 119 126	neurons
+T54	PathologicFunction 317 327	pathogenic
+T55	CellFunction 252 278	cell-to-cell communication
+T56	Finding 602 606	mild
+T57	Finding 1604 1610	normal
+T58	Cell 131 141	astrocytes
+T59	ResearchActivity 1568 1576	analyses
+T60	PopulationGroup 813 824	populations
+T61	BodyPartOrganOrOrganComponent 480 486	brains
+T62	Cell 97 107	cell types
+T63	CellComponent 1470 1483	microvesicles
+T64	CellComponent 1867 1880	microvesicles
+T65	CellComponent 1895 1907	mitochondria
+T66	CellComponent 1485 1493	exosomes
+T67	CellComponent 1882 1890	exosomes
+T68	ResearchActivity 584 590	method
+T69	HealthCareActivity 584 590	method
+T70	PathologicFunction 200 228	pathophysiological processes
+T71	ResearchActivity 958 974	characterization
+T72	ResearchActivity 2011 2027	characterization
+T73	CellComponent 836 848	mitovesicles
+T74	CellComponent 1498 1510	mitovesicles
+T75	CellComponent 1916 1928	mitovesicles
+T76	OrganismAttribute 1389 1396	species
+T77	PathologicFunction 200 218	pathophysiological
+T78	ResearchActivity 436 452	isolation of EVs
+T79	BodyPartOrganOrOrganComponent 607 627	extracellular matrix
+T80	Chemical 728 737	iodixanol
+T81	ResearchActivity 728 781	iodixanol-based high-resolution density step gradient
+T82	ResearchActivity 940 949	protocols
+T83	CellComponent 1106 1119	mitovesicular
+T84	ResearchActivity 1170 1223	iodixanol-based high-resolution density step gradient
+T85	ResearchActivity 1252 1274	sucrose-based gradient
+T86	ResearchActivity 1335 1359	iodixanol-based gradient
+T87	ResearchActivity 1418 1440	sucrose-based gradient
+T88	ResearchActivity 1788 1797;1816 1840	isolation of extracellular vesicle
+T89	Chemical 1955 1964	iodixanol
+T90	ResearchActivity 1938 1987	high-resolution (iodixanol) density step gradient
+T91	PharmacologicSubstance 1120 1123	ATP

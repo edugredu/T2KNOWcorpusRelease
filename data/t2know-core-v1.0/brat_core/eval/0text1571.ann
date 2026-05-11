@@ -1,0 +1,40 @@
+T0	BodyPartOrganOrOrganComponent 4 25	parahippocampal gyrus
+T1	ExperimentalModelOfDisease 515 525	5XFAD mice
+T2	ExperimentalModelOfDisease 770 780	5XFAD mice
+T3	Eukaryote 176 183	rodents
+T4	BiomedicalOccupationOrDiscipline 992 1007	neuroanatomical
+T5	Eukaryote 68 74	humans
+T6	DiseaseOrSyndrome 239 258	Alzheimer's disease
+T7	DiseaseOrSyndrome 260 262	AD
+T8	DiseaseOrSyndrome 647 658	AD spectrum
+T9	DiseaseOrSyndrome 1049 1051	AD
+T10	DiseaseOrSyndrome 1097 1099	AD
+T11	DiseaseOrSyndrome 1156 1158	AD
+T12	PathologicFunction 1100 1111	progression
+T13	TemporalConcept 1100 1111	progression
+T14	HealthCareActivity 623 626	MRI
+T15	HealthCareActivity 792 795	MRI
+T16	Finding 356 368	relationship
+T17	PatientOrDisabledGroup 631 639	patients
+T18	ResearchActivity 333 338	study
+T19	HealthCareActivity 796 808	measurements
+T20	ResearchActivity 471 511	in vivo local field potential recordings
+T21	HealthCareActivity 582 621	multi-domain magnetic resonance imaging
+T22	Finding 839 847	accuracy
+T23	DiseaseOrSyndrome 884 918	amnestic mild cognitive impairment
+T24	BodyPartOrganOrOrganComponent 26 46	orbitofrontal cortex
+T25	BodyPartOrganOrOrganComponent 47 64	(PHG-OFC) circuit
+T26	BodyPartOrganOrOrganComponent 96 113	postrhinal cortex
+T27	BodyPartOrganOrOrganComponent 120 156	ventral lateral orbitofrontal cortex
+T28	BodyPartOrganOrOrganComponent 157 172	(vlOFC) circuit
+T29	PathologicFunction 210 235	visuospatial malfunctions
+T30	BodyPartOrganOrOrganComponent 389 406	POR-vlOFC circuit
+T31	PathologicFunction 411 439	visuospatial memory deficits
+T32	ResearchActivity 448 466	retrograde tracing
+T33	BodyPartOrganOrOrganComponent 563 578	PHG-OFC circuit
+T34	PathologicFunction 684 724	impaired glutamatergic POR-vlOFC circuit
+T35	PathologicFunction 737 766	deficient visuospatial memory
+T36	BodyPartOrganOrOrganComponent 816 831	PHG-OFC circuit
+T37	BodyPartOrganOrOrganComponent 963 978	PHG-OFC circuit
+T38	PathologicFunction 1017 1045	visuospatial memory deficits
+T39	HealthCareActivity 1128 1151	interventional approach

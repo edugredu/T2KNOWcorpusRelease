@@ -1,0 +1,57 @@
+T0	Finding 137 141	cure
+T1	CellComponent 349 371	Extracellular vesicles
+T2	CellComponent 373 376	EVs
+T3	CellComponent 644 647	EVs
+T4	HealthCareActivity 690 711	diagnostic techniques
+T5	CellFunction 745 763	genetic expression
+T6	CellComponent 912 915	EVs
+T7	BiomedicalOccupationOrDiscipline 928 942	bioengineering
+T8	CellComponent 966 969	EVs
+T9	CellComponent 1049 1052	EVs
+T10	DiseaseOrSyndrome 1122 1143	Neurological Diseases
+T11	BiologicFunction 1266 1277	Development
+T12	CellFunction 1266 1277	Development
+T13	SignOrSymptom 202 221	behavioral symptoms
+T14	DiseaseOrSyndrome 536 562	neurodegenerative diseases
+T15	DiseaseOrSyndrome 993 1019	neurodegenerative diseases
+T16	Cell 1251 1261	Stem Cells
+T17	PathologicFunction 258 269	progression
+T18	TemporalConcept 258 269	progression
+T19	BiomedicalOccupationOrDiscipline 884 905	regenerative medicine
+T20	TemporalConcept 865 871	recent
+T21	DiseaseOrSyndrome 21 23	AD
+T22	DiseaseOrSyndrome 151 153	AD
+T23	DiseaseOrSyndrome 333 335	AD
+T24	DiseaseOrSyndrome 568 570	AD
+T25	DiseaseOrSyndrome 687 689	AD
+T26	DiseaseOrSyndrome 1025 1027	AD
+T27	DiseaseOrSyndrome 1075 1077	AD
+T28	ResearchActivity 1092 1099	article
+T29	PatientOrDisabledGroup 628 635	patient
+T30	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T31	TemporalConcept 679 686	earlier
+T32	TemporalConcept 1078 1085	earlier
+T33	DiseaseOrSyndrome 43 69	neurodegenerative disorder
+T34	HealthCareActivity 162 172	treatments
+T35	ResearchActivity 162 172	treatments
+T36	TemporalConcept 241 254	disease onset
+T37	Cell 978 989	glial cells
+T38	OrganismAttribute 803 810	healthy
+T39	Finding 872 880	advances
+T40	TemporalConcept 143 150	Current
+T41	TemporalConcept 838 844	states
+T42	HealthCareActivity 333 347	AD therapeutic
+T43	PopulationGroup 98 104	people
+T44	HealthCareActivity 723 733	physicians
+T45	Finding 287 297	unmet need
+T46	HealthCareActivity 409 425	nanotherapeutics
+T47	Chemical 443 448	lipid
+T48	HealthCareActivity 510 531	clinical applications
+T49	Finding 664 674	unmet need
+T50	CellFunction 767 790	cellular communications
+T51	DiseaseOrSyndrome 1227 1248	Neurological Diseases
+T52	SignOrSymptom 188 197;213 221	cognitive symptoms
+T53	Finding 474 482	carriers
+T54	CellFunction 455 473	cellular signaling
+T55	BiomedicalOccupationOrDiscipline 1193 1226	Molecular and Cellular Physiology
+T56	BiomedicalOccupationOrDiscipline 1146 1168	Biomedical Engineering

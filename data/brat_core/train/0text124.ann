@@ -1,0 +1,47 @@
+T0	CellComponent 0 12	Mitochondria
+T1	BiologicFunction 29 46	energy metabolism
+T2	CellFunction 135 158	Epigenetic modification
+T3	BiologicFunction 176 184	encoding
+T4	AminoAcidPeptideOrProtein 185 207	mitochondrial proteins
+T5	CellFunction 225 249	mitochondria homeostasis
+T6	CellFunction 261 285	mitochondrial biogenesis
+T7	PathologicFunction 324 336	pathogenesis
+T8	DiseaseOrSyndrome 372 391	Alzheimer's disease
+T9	DiseaseOrSyndrome 393 412	Parkinson's disease
+T10	DiseaseOrSyndrome 440 469	amyotrophic lateral sclerosis
+T11	BiologicallyActiveSubstance 490 514	intermediate metabolites
+T12	AminoAcidPeptideOrProtein 549 559	acetyl-CoA
+T13	GeneOrGenome 594 611	nuclear epigenome
+T14	Chemical 619 628	substrate
+T15	CellFunction 633 644	acetylation
+T16	BiologicallyActiveSubstance 651 659	cofactor
+T17	CellFunction 663 676	deacetylation
+T18	Finding 948 969	abnormal modification
+T19	PathologicFunction 1005 1024	disease development
+T20	ResearchActivity 1089 1097	overview
+T21	CellFunction 82 103	epigenetic regulation
+T22	CellFunction 727 748	epigenetic regulation
+T23	CellFunction 1134 1155	epigenetic regulation
+T24	Finding 907 924	emerging evidence
+T25	DiseaseOrSyndrome 414 434	Huntington's disease
+T26	CellComponent 528 540	mitochondria
+T27	CellComponent 698 710	mitochondria
+T28	CellComponent 793 805	mitochondria
+T29	CellComponent 1105 1117	mitochondria
+T30	CellComponent 1186 1198	mitochondria
+T31	CellOrMolecularDysfunction 1033 1057	mitochondria dysfunction
+T32	NucleicAcidNucleosideOrNucleotide 973 989	mitochondria DNA
+T33	BiologicallyActiveSubstance 973 989	mitochondria DNA
+T34	DiseaseOrSyndrome 107 133	neurodegenerative diseases
+T35	DiseaseOrSyndrome 340 366	neurodegenerative diseases
+T36	DiseaseOrSyndrome 856 882	neurodegenerative diseases
+T37	DiseaseOrSyndrome 1216 1242	neurodegenerative diseases
+T38	ResearchActivity 1067 1073	review
+T39	HealthCareActivity 1067 1073	review
+T40	HealthCareActivity 883 892	treatment
+T41	ResearchActivity 883 892	treatment
+T42	GeneOrGenome 162 175	nuclear genes
+T43	NucleicAcidNucleosideOrNucleotide 564 570	NAD(+)
+T44	PharmacologicSubstance 564 570	NAD(+)
+T45	BiologicallyActiveSubstance 564 570	NAD(+)
+T46	BiologicFunction 1259 1270	perspective

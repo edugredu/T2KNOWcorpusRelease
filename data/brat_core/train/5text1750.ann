@@ -1,0 +1,7 @@
+T0	BodyPartOrganOrOrganComponent 101 106	brain
+T1	CellOrMolecularDysfunction 125 142	neurodegeneration
+T2	AminoAcidPeptideOrProtein 85 93	proteins
+T3	ResearchActivity 143 151	research
+T4	PathologicFunction 27 36	infection
+T5	Organism 17 26	Ramularia
+T6	PathologicFunction 54 93	aggregation of disease-related proteins

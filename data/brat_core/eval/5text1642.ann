@@ -1,0 +1,8 @@
+T0	OrganismAttribute 57 69	tree species
+T1	Finding 50 56	living
+T2	Organism 0 13	Ginkgo biloba
+T3	Organism 15 28	Ginkgo biloba
+T4	BiomedicalOccupationOrDiscipline 110 118	medicine
+T5	PharmacologicSubstance 110 118	medicine
+T6	BiomedicalOccupationOrDiscipline 98 118	traditional medicine
+T7	TemporalConcept 43 49	oldest

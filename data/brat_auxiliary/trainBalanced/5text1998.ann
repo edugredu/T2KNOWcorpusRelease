@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 106 133	neurodegenerative disorders
+T1	ResearchActivity 3 18	clinical trials
+T2	BodyPartOrganOrOrganComponent 20 25	blood
+T3	HealthCareActivity 77 83	safety
+T4	Finding 64 72	efficacy
+T5	Substance 26 35	specimens
+T6	ResearchActivity 91 101	treatments
+T7	HealthCareActivity 91 101	treatments

@@ -1,0 +1,19 @@
+T0	DiseaseOrSyndrome 25 34	inherited
+T1	DiseaseOrSyndrome 59 85	neurodegenerative disorder
+T2	Cell 109 114	cells
+T3	CellFunction 142 155	genetic basis
+T4	TemporalConcept 204 209	years
+T5	CellOrMolecularDysfunction 384 404	cellular dysfunction
+T6	Cell 546 553	neurons
+T7	CellFunction 330 345	macroautophagic
+T8	CellFunction 346 356	autophagic
+T9	ResearchActivity 533 553	reprogrammed neurons
+T10	BodyPartOrganOrOrganComponent 122 127	brain
+T11	CellFunction 409 414	death
+T12	PathologicFunction 409 414	death
+T13	PathologicFunction 315 326	dysfunction
+T14	Finding 279 298	increasing evidence
+T15	DiseaseOrSyndrome 0 18	Huntington disease
+T16	CellFunction 510 517	pathway
+T17	BiologicFunction 409 414	death
+T18	TemporalConcept 423 429	recent

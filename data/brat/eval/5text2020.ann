@@ -1,0 +1,8 @@
+T0	BodyPartOrganOrOrganComponent 171 190	cerebrospinal fluid
+T1	PatientOrDisabledGroup 85 93	patients
+T2	PharmacologicSubstance 149 154	drugs
+T3	DiseaseOrSyndrome 119 137	multiple sclerosis
+T4	PharmacologicSubstance 27 38	medications
+T5	Substance 12 23	suspensions
+T6	HealthCareActivity 64 80	lumbar punctures
+T7	BodyPartOrganOrOrganComponent 0 11	Intrathecal

@@ -1,0 +1,11 @@
+T0	DiseaseOrSyndrome 200 226	neurodegenerative diseases
+T1	AminoAcidPeptideOrProtein 28 36	proteins
+T2	CellOrMolecularDysfunction 243 261	protein misfolding
+T3	CellFunction 243 250;266 277	protein aggregation
+T4	Finding 126 132	living
+T5	AminoAcidPeptideOrProtein 42 47	prion
+T6	Organism 22 27	yeast
+T7	Organism 114 119	yeast
+T8	ResearchActivity 133 137	test
+T9	HealthCareActivity 133 137	test
+T10	Organism 75 88	S. cerevisiae

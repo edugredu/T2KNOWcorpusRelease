@@ -1,0 +1,1 @@
+Integrating NLP with neuroimaging data helps researchers extract meaningful information from brain scans, aiding in the identification of brain regions affected by Huntington's disease and tracking disease progression.

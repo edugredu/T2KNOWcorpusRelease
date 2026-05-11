@@ -1,0 +1,65 @@
+T0	BiologicFunction 123 149	pathophysiological aspects
+T1	BiomedicalOccupationOrDiscipline 544 552	genomics
+T2	BiomedicalOccupationOrDiscipline 554 565	epigenomics
+T3	BiomedicalOccupationOrDiscipline 584 594	proteomics
+T4	BiomedicalOccupationOrDiscipline 501 508	biology
+T5	ResearchActivity 433 451	omics technologies
+T6	ResearchActivity 871 885	omics analysis
+T7	ResearchActivity 1185 1190	omics
+T8	ResearchActivity 260 264	GWAS
+T9	BiomedicalOccupationOrDiscipline 567 582	transcriptomics
+T10	HealthCareActivity 775 797	therapeutic strategies
+T11	HealthCareActivity 1213 1235	therapeutic strategies
+T12	PathologicFunction 752 763	progression
+T13	TemporalConcept 752 763	progression
+T14	ResearchActivity 842 850	research
+T15	ResearchActivity 915 923	research
+T16	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T17	DiseaseOrSyndrome 21 23	AD
+T18	DiseaseOrSyndrome 223 225	AD
+T19	DiseaseOrSyndrome 294 296	AD
+T20	DiseaseOrSyndrome 406 408	AD
+T21	DiseaseOrSyndrome 512 514	AD
+T22	DiseaseOrSyndrome 889 891	AD
+T23	DiseaseOrSyndrome 958 960	AD
+T24	DiseaseOrSyndrome 1050 1052	AD
+T25	DiseaseOrSyndrome 1117 1119	AD
+T26	DiseaseOrSyndrome 1255 1257	AD
+T27	PathologicFunction 207 219	pathogenesis
+T28	PathologicFunction 409 421	pathogenesis
+T29	PathologicFunction 1120 1132	pathogenesis
+T30	BiologicFunction 1070 1083	understanding
+T31	DiseaseOrSyndrome 99 107	dementia
+T32	BiologicFunction 1198 1209	development
+T33	CellFunction 1198 1209	development
+T34	Finding 478 487	knowledge
+T35	ClinicalAttribute 713 734	diagnostic biomarkers
+T36	ClinicalAttribute 1240 1250	biomarkers
+T37	Cell 860 870	microglial
+T38	Cell 972 990	microglial subsets
+T39	Cell 151 160	microglia
+T40	Cell 347 356	microglia
+T41	Cell 393 402	microglia
+T42	Cell 491 500	microglia
+T43	Cell 1037 1046	microglia
+T44	Cell 1104 1113	microglia
+T45	Cell 1169 1178	microglia
+T46	BiomedicalOccupationOrDiscipline 613 623	lipidomics
+T47	ResearchActivity 820 826	review
+T48	ResearchActivity 997 1003	review
+T49	HealthCareActivity 820 826	review
+T50	HealthCareActivity 997 1003	review
+T51	ResearchActivity 227 258	Genome wide association studies
+T52	Finding 924 932	advances
+T53	Finding 1057 1065	advances
+T54	PathologicFunction 123 141	pathophysiological
+T55	HealthCareActivity 736 743	monitor
+T56	ManufacturedObject 736 743	monitor
+T57	TemporalConcept 423 431	Recently
+T58	PathologicFunction 744 763	disease progression
+T59	DiseaseOrSyndrome 44 69	neurodegenerative disease
+T60	TemporalConcept 908 914	recent
+T61	CellFunction 334 343	expressed
+T62	GeneOrGenome 297 307	risk genes
+T63	ResearchActivity 516 532	Omics approaches
+T64	BiomedicalOccupationOrDiscipline 600 612	metabolomics

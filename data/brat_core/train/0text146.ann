@@ -1,0 +1,47 @@
+T0	CellOrMolecularDysfunction 0 44	Increased reactive oxygen species production
+T1	BiologicFunction 10 44	reactive oxygen species production
+T2	PathologicFunction 94 106	pathogenesis
+T3	DiseaseOrSyndrome 119 147	neurodegenerative conditions
+T4	DiseaseOrSyndrome 171 190	Alzheimer's disease
+T5	DiseaseOrSyndrome 192 211	Parkinson's disease
+T6	DiseaseOrSyndrome 235 253	Friedrich's ataxia
+T7	DiseaseOrSyndrome 255 273	multiple sclerosis
+T8	DiseaseOrSyndrome 279 285	stroke
+T9	Cell 340 345	cells
+T10	Finding 371 396	increasing the expression
+T11	AminoAcidPeptideOrProtein 447 511	transcription factor nuclear factor erythroid 2-related factor 2
+T12	AminoAcidPeptideOrProtein 513 517	NRF2
+T13	GeneOrGenome 513 517	NRF2
+T14	CellFunction 535 560	regulating the expression
+T15	GeneOrGenome 564 581	antioxidant genes
+T16	AminoAcidPeptideOrProtein 583 587	NRF2
+T17	GeneOrGenome 583 587	NRF2
+T18	BiologicFunction 617 642	anti-inflammatory effects
+T19	CellFunction 661 683	mitochondrial function
+T20	CellFunction 688 698	biogenesis
+T21	CellOrMolecularDysfunction 716 741	mitochondrial dysfunction
+T22	AminoAcidPeptideOrProtein 820 824	NRF2
+T23	GeneOrGenome 820 824	NRF2
+T24	AminoAcidPeptideOrProtein 922 926	NRF2
+T25	GeneOrGenome 922 926	NRF2
+T26	DiseaseOrSyndrome 930 958	neurodegenerative conditions
+T27	BiologicallyActiveSubstance 994 1004	activators
+T28	HealthCareActivity 1008 1026	therapeutic agents
+T29	Finding 888 896	evidence
+T30	DiseaseOrSyndrome 213 233	Huntington's disease
+T31	DiseaseOrSyndrome 785 811	neurodegenerative diseases
+T32	PathologicFunction 746 763	neuroinflammation
+T33	CellOrMolecularDysfunction 49 65	oxidative stress
+T34	CellOrMolecularDysfunction 351 367	oxidative stress
+T35	CellFunction 291 330	endogenous antioxidant response pathway
+T36	ResearchActivity 881 887	review
+T37	HealthCareActivity 881 887	review
+T38	BiologicallyActiveSubstance 400 422	cytoprotective enzymes
+T39	GeneOrGenome 447 511	transcription factor nuclear factor erythroid 2-related factor 2
+T40	BiologicallyActiveSubstance 583 587	NRF2
+T41	BiologicallyActiveSubstance 447 511	transcription factor nuclear factor erythroid 2-related factor 2
+T42	BiologicallyActiveSubstance 513 517	NRF2
+T43	BiologicallyActiveSubstance 820 824	NRF2
+T44	Finding 842 870	promising therapeutic target
+T45	BiologicallyActiveSubstance 922 926	NRF2
+T46	PharmacologicSubstance 989 1004	NRF2 activators

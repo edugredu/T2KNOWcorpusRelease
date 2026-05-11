@@ -1,0 +1,10 @@
+T0	DiseaseOrSyndrome 199 219	Huntington's disease
+T1	SignOrSymptom 140 148	symptoms
+T2	PathologicFunction 153 172	disease progression
+T3	PatientOrDisabledGroup 185 193	patients
+T4	HealthCareActivity 89 96	reports
+T5	ResearchActivity 89 96	reports
+T6	ResearchActivity 107 118	researchers
+T7	MachineActivity 0 3	NLP
+T8	MachineActivity 0 14	NLP algorithms
+T9	HealthCareActivity 70 84	clinical notes

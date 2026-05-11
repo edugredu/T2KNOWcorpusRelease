@@ -1,0 +1,35 @@
+T0	TemporalConcept 23 35	recent years
+T1	CellOrMolecularDysfunction 51 69	protein misfolding
+T2	CellComponent 98 100	ER
+T3	CellOrMolecularDysfunction 98 107	ER stress
+T4	OrganismAttribute 132 145	pathogenicity
+T5	CellOrMolecularDysfunction 297 314	Mutant huntingtin
+T6	AminoAcidPeptideOrProtein 304 314	huntingtin
+T7	GeneOrGenome 304 314	huntingtin
+T8	CellFunction 336 354	cellular processes
+T9	CellOrMolecularDysfunction 388 397	ER stress
+T10	InjuryOrPoisoning 448 456	toxicity
+T11	HealthCareActivity 523 545	therapeutic approaches
+T12	Finding 609 622	fatal outcome
+T13	TemporalConcept 629 634	years
+T14	SignOrSymptom 654 662	symptoms
+T15	DiseaseOrSyndrome 666 696	cognitive and motor impairment
+T16	CellOrMolecularDysfunction 772 790	protein misfolding
+T17	TemporalConcept 817 823	origin
+T18	CellComponent 827 829	ER
+T19	CellFunction 909 926	cellular response
+T20	Finding 950 959	knowledge
+T21	Finding 0 18	Increasing evidenc
+T22	DiseaseOrSyndrome 228 230	HD
+T23	DiseaseOrSyndrome 593 595	HD
+T24	DiseaseOrSyndrome 206 226	Huntington's disease
+T25	DiseaseOrSyndrome 880 900	Huntington's disease
+T26	DiseaseOrSyndrome 149 175	neurodegenerative diseases
+T27	DiseaseOrSyndrome 840 866	neurodegenerative diseases
+T28	HealthCareActivity 579 588	treatment
+T29	ResearchActivity 579 588	treatment
+T30	CellComponent 388 390	ER
+T31	CellFunction 409 434	unfolded response pathway
+T32	BiologicFunction 504 508	hope
+T33	CellOrMolecularDysfunction 827 836	ER stress
+T34	HealthCareActivity 973 995	therapeutic strategies

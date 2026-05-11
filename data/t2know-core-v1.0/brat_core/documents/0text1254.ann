@@ -1,0 +1,80 @@
+T0	CellFunction 60 69	metabolic
+T1	DiseaseOrSyndrome 103 129	CNS demyelinating diseases
+T2	Chemical 163 169	Biotin
+T3	PharmacologicSubstance 163 169	Biotin
+T4	AminoAcidPeptideOrProtein 202 214	carboxylases
+T5	CellFunction 265 285	fatty acid synthesis
+T6	CellFunction 313 322	metabolic
+T7	Chemical 333 339	biotin
+T8	PharmacologicSubstance 333 339	biotin
+T9	Finding 515 519	mild
+T10	Eukaryote 712 718	murine
+T11	Eukaryote 852 858	murine
+T12	BiologicFunction 963 967	born
+T13	PopulationGroup 979 986	mothers
+T14	BodyPartOrganOrOrganComponent 1041 1045	milk
+T15	Substance 1041 1045	milk
+T16	Eukaryote 1316 1322	murine
+T17	Finding 1403 1410	outcome
+T18	ResearchActivity 490 506	clinical studies
+T19	BiologicallyActiveSubstance 184 192	cofactor
+T20	Eukaryote 1088 1095	animals
+T21	Finding 13 22	evidences
+T22	Finding 651 661	deficiency
+T23	Eukaryote 390 396	rodent
+T24	DiseaseOrSyndrome 588 591	ALS
+T25	DiseaseOrSyndrome 1414 1417	ALS
+T26	BodyPartOrganOrOrganComponent 938 944	plasma
+T27	ResearchActivity 1421 1436	clinical trials
+T28	BiologicFunction 700 708	behavior
+T29	IndividualBehavior 700 708	behavior
+T30	ResearchActivity 700 708	behavior
+T31	Cell 232 248	oligodendrocytes
+T32	Cell 397 413	oligodendrocytes
+T33	Cell 737 753	oligodendrocytes
+T34	CellFunction 1224 1235	myelination
+T35	CellFunction 1360 1371	myelination
+T36	Cell 1333 1348	oligodendrocyte
+T37	BiologicFunction 1349 1359	maturation
+T38	DiseaseOrSyndrome 138 156	multiple sclerosis
+T39	ResearchActivity 754 761	in vivo
+T40	BodyPartOrganOrOrganComponent 644 650	myelin
+T41	CellOrMolecularDysfunction 82 99	neurodegeneration
+T42	DiseaseOrSyndrome 158 160	MS
+T43	DiseaseOrSyndrome 596 598	MS
+T44	DiseaseOrSyndrome 1418 1420	MS
+T45	BodyPartOrganOrOrganComponent 949 954	brain
+T46	CellFunction 812 827	differentiation
+T47	CellFunction 1154 1169	differentiation
+T48	TemporalConcept 880 884	time
+T49	CellFunction 1124 1137	proliferation
+T50	Cell 859 874	oligodendroglia
+T51	Cell 1179 1194	oligodendroglia
+T52	Eukaryote 629 634	mouse
+T53	Eukaryote 731 736	human
+T54	Eukaryote 1173 1178	human
+T55	Eukaryote 1327 1332	human
+T56	NaturalPhenomenonOrProcess 290 296	energy
+T57	ResearchActivity 1051 1072	histological analysis
+T58	CellFunction 219 228	expressed
+T59	ResearchActivity 665 670	study
+T60	ResearchActivity 414 422	in vitro
+T61	DiseaseOrSyndrome 557 586	amyotrophic lateral sclerosis
+T62	BiologicallyActiveSubstance 163 169	Biotin
+T63	BiologicallyActiveSubstance 202 214	carboxylases
+T64	CellFunction 290 307	energy production
+T65	BiologicallyActiveSubstance 333 339	biotin
+T66	PharmacologicSubstance 343 359	high-dose-biotin
+T67	PharmacologicSubstance 361 367	MD1003
+T68	ExperimentalModelOfDisease 431 479	neurodegenerative or demyelinating animal models
+T69	Finding 523 543	no beneficial effect
+T70	PharmacologicSubstance 547 553	MD1003
+T71	ResearchActivity 635 640	model
+T72	PharmacologicSubstance 686 692	MD1003
+T73	PharmacologicSubstance 776 782	MD1003
+T74	PharmacologicSubstance 910 916	MD1003
+T75	Eukaryote 958 962	pups
+T76	PharmacologicSubstance 1004 1010	MD1003
+T77	PopulationGroup 1032 1038	mother
+T78	PharmacologicSubstance 1107 1113	MD1003
+T79	PharmacologicSubstance 1306 1312	MD1003

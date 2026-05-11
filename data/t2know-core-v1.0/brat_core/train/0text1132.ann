@@ -1,0 +1,47 @@
+T0	CellComponent 0 28	Small extracellular vesicles
+T1	ManufacturedObject 332 352	drug delivery system
+T2	AminoAcidPeptideOrProtein 485 495	lipophilic
+T3	Finding 553 572	physical properties
+T4	Cell 765 776	nerve cells
+T5	BiologicFunction 949 966	neuroregeneration
+T6	BiomedicalOccupationOrDiscipline 1162 1173	pathologies
+T7	DiseaseOrSyndrome 1244 1282	amyotrophic lateral sclerosis diseases
+T8	DiseaseOrSyndrome 1298 1310	brain tumors
+T9	ManufacturedObject 635 643	vehicles
+T10	TemporalConcept 995 1010	recent progress
+T11	BiologicFunction 871 893	peripheral circulation
+T12	Cell 139 143	cell
+T13	TemporalConcept 147 153	origin
+T14	CellOrMolecularDysfunction 1128 1145	neurodegeneration
+T15	BodyPartOrganOrOrganComponent 651 673	central nervous system
+T16	ResearchActivity 1056 1067	engineering
+T17	CellFunction 252 279	intercellular communication
+T18	HealthCareActivity 424 430	safety
+T19	ResearchActivity 973 979	review
+T20	HealthCareActivity 973 979	review
+T21	BodyPartOrganOrOrganComponent 675 678	CNS
+T22	BodyPartOrganOrOrganComponent 1181 1184	CNS
+T23	OrganismAttribute 71 75	size
+T24	OrganismAttribute 451 455	size
+T25	HealthCareActivity 1095 1115	therapeutic strategy
+T26	CellFunction 825 830	cargo
+T27	CellComponent 30 34	sEVs
+T28	CellComponent 230 234	sEVs
+T29	CellComponent 354 358	sEVs
+T30	CellComponent 574 578	sEVs
+T31	CellComponent 845 849	sEVs
+T32	CellComponent 1068 1072	sEVs
+T33	ResearchActivity 431 438	profile
+T34	Finding 91 99	carriers
+T35	DiseaseOrSyndrome 1227 1238	Parkinson's
+T36	BodyPartOrganOrOrganComponent 708 727	blood-brain barrier
+T37	BiologicFunction 626 634	delivery
+T38	HealthCareActivity 332 345	drug delivery
+T39	CellFunction 113 120	cargoes
+T40	PathologicFunction 178 200	pathological condition
+T41	CellComponent 205 228	endogenous nanovesicles
+T42	Chemical 485 518	lipophilic and hydrophilic agents
+T43	ManufacturedObject 918 937	nanocarrier systems
+T44	ResearchActivity 1041 1050	isolating
+T45	ResearchActivity 1026 1039	manufacturing
+T46	DiseaseOrSyndrome 1214 1225	Alzheimer's

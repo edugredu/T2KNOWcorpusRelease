@@ -1,0 +1,77 @@
+T0	DiseaseOrSyndrome 43 53;72 79	autoimmune disease
+T1	Finding 232 240	severely
+T2	BiologicFunction 271 290	cognitive functions
+T3	HealthCareActivity 320 346	immunomodulatory therapies
+T4	Cell 514 532	inflammatory cells
+T5	Finding 970 978	presence
+T6	AnatomicalAbnormality 1056 1066	MS plaques
+T7	BodyPartOrganOrOrganComponent 111 114	CNS
+T8	BodyPartOrganOrOrganComponent 437 440	CNS
+T9	HealthCareActivity 655 677	therapeutic strategies
+T10	HealthCareActivity 1503 1525	therapeutic approaches
+T11	Cell 1255 1263	neuronal
+T12	OrganismAttribute 746 755	phenotype
+T13	CellFunction 1287 1300	remyelination
+T14	Cell 1026 1030	OPCs
+T15	CellFunction 858 870	phagocytosis
+T16	CellFunction 1381 1393	phagocytosis
+T17	Substance 1140 1146	debris
+T18	Cell 993 1024	oligodendrocyte precursor cells
+T19	CellFunction 1075 1086	remyelinate
+T20	DiseaseOrSyndrome 58 79	demyelinating disease
+T21	PathologicFunction 58 71	demyelinating
+T22	Cell 488 497	Microglia
+T23	TemporalConcept 375 379	rate
+T24	ResearchActivity 1353 1359	review
+T25	HealthCareActivity 1353 1359	review
+T26	PathologicFunction 397 408	progression
+T27	TemporalConcept 397 408	progression
+T28	Finding 1402 1413	involvement
+T29	Finding 1111 1123	accumulation
+T30	ClinicalAttribute 794 810	disease severity
+T31	CellOrMolecularDysfunction 213 230	neurodegeneration
+T32	PatientOrDisabledGroup 251 259	patients
+T33	CellOrMolecularDysfunction 760 783	neurodegenerative state
+T34	HealthCareActivity 337 346	therapies
+T35	Cell 638 648	microglial
+T36	Cell 718 728	microglial
+T37	Cell 1363 1373	microglial
+T38	CellFunction 886 901	neuroprotective
+T39	PathologicFunction 729 745	pro-inflammatory
+T40	DiseaseOrSyndrome 20 22	MS
+T41	DiseaseOrSyndrome 470 472	MS
+T42	DiseaseOrSyndrome 544 546	MS
+T43	DiseaseOrSyndrome 923 925	MS
+T44	DiseaseOrSyndrome 1056 1058	MS
+T45	DiseaseOrSyndrome 1417 1419	MS
+T46	DiseaseOrSyndrome 1604 1606	MS
+T47	TemporalConcept 201 212	progressive
+T48	PathologicFunction 1618 1627	pathology
+T49	BiomedicalOccupationOrDiscipline 1618 1627	pathology
+T50	PathologicFunction 591 604	demyelination
+T51	TemporalConcept 161 168	initial
+T52	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T53	InjuryOrPoisoning 547 554	lesions
+T54	BiologicFunction 478 486	recovery
+T55	BiologicFunction 1264 1272	recovery
+T56	HealthCareActivity 478 486	recovery
+T57	HealthCareActivity 1264 1272	recovery
+T58	InjuryOrPoisoning 609 615	lesion
+T59	TemporalConcept 478 486	recovery
+T60	TemporalConcept 1264 1272	recovery
+T61	BiologicFunction 1436 1442	repair
+T62	HealthCareActivity 1436 1442	repair
+T63	BodyPartOrganOrOrganComponent 441 447	myelin
+T64	BodyPartOrganOrOrganComponent 851 857	myelin
+T65	BodyPartOrganOrOrganComponent 1127 1133	myelin
+T66	BodyPartOrganOrOrganComponent 1374 1380	myelin
+T67	TemporalConcept 367 374	relapse
+T68	Cell 910 919	microglia
+T69	Cell 1176 1185	microglia
+T70	BiologicFunction 1420 1431	development
+T71	CellFunction 1420 1431	development
+T72	Finding 367 374	relapse
+T73	PathologicFunction 389 408	disease progression
+T74	BodyPartOrganOrOrganComponent 87 109	central nervous system
+T75	TemporalConcept 183 188	later
+T76	PathologicFunction 1127 1146	myelin-toxic debris

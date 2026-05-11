@@ -1,0 +1,117 @@
+T0	GeneOrGenome 307 312	ABCA8
+T1	AminoAcidPeptideOrProtein 330 369	ATP-binding cassette transporter family
+T2	GeneOrGenome 371 376	ABCA8
+T3	BodyPartOrganOrOrganComponent 404 414	cerebellum
+T4	GeneOrGenome 466 471	ABCA8
+T5	GeneOrGenome 606 629	mouse ortholog of ABCA8
+T6	BodyPartOrganOrOrganComponent 659 669	cerebellar
+T7	GeneOrGenome 780 785	ABCA8
+T8	BiologicallyActiveSubstance 801 835	chondroitin sulfate proteoglycan 4
+T9	AminoAcidPeptideOrProtein 801 835	chondroitin sulfate proteoglycan 4
+T10	GeneOrGenome 837 842	CSPG4
+T11	AminoAcidPeptideOrProtein 837 842	CSPG4
+T12	BiologicallyActiveSubstance 837 842	CSPG4
+T13	Substance 847 855	molecule
+T14	GeneOrGenome 959 964	CSPG4
+T15	AminoAcidPeptideOrProtein 959 964	CSPG4
+T16	BiologicallyActiveSubstance 959 964	CSPG4
+T17	CellComponent 972 987	plasma membrane
+T18	BodyPartOrganOrOrganComponent 1027 1037	cerebellar
+T19	GeneOrGenome 1038 1043	CSPG4
+T20	AminoAcidPeptideOrProtein 1038 1043	CSPG4
+T21	BiologicallyActiveSubstance 1038 1043	CSPG4
+T22	BodyPartOrganOrOrganComponent 1056 1066	Cerebellar
+T23	GeneOrGenome 1067 1072	CSPG4
+T24	AminoAcidPeptideOrProtein 1067 1072	CSPG4
+T25	BiologicallyActiveSubstance 1067 1072	CSPG4
+T26	BodyPartOrganOrOrganComponent 1169 1179	cerebellar
+T27	BodyPartOrganOrOrganComponent 1302 1312	cerebellar
+T28	BodyPartOrganOrOrganComponent 1342 1352	cerebellar
+T29	TemporalConcept 1395 1406	periodicity
+T30	BodyPartOrganOrOrganComponent 1519 1529	cerebellar
+T31	BodyPartOrganOrOrganComponent 1573 1583	cerebellar
+T32	BiologicFunction 1618 1628	locomotion
+T33	GeneOrGenome 1642 1647	ABCA8
+T34	BodyPartOrganOrOrganComponent 1658 1668	cerebellar
+T35	GeneOrGenome 1753 1758	CSPG4
+T36	AminoAcidPeptideOrProtein 1753 1758	CSPG4
+T37	BiologicallyActiveSubstance 1753 1758	CSPG4
+T38	GeneOrGenome 1786 1791	ABCA8
+T39	CellComponent 1412 1418	axonal
+T40	CellComponent 43 48	axons
+T41	CellComponent 1288 1301;1313 1318	nonmyelinated axons
+T42	Chemical 55 60	lipid
+T43	Chemical 256 269	sphingomyelin
+T44	BiologicallyActiveSubstance 256 269	sphingomyelin
+T45	Cell 99 115	oligodendrocytes
+T46	Cell 762 778	oligodendrocytes
+T47	Cell 703 707	OPCs
+T48	Cell 1074 1078	OPCs
+T49	Cell 870 873	OPC
+T50	Cell 92 115	mature oligodendrocytes
+T51	Cell 713 736	mature oligodendrocytes
+T52	ResearchActivity 1233 1252	electron microscopy
+T53	CellFunction 874 887	proliferation
+T54	CellFunction 889 898	migration
+T55	CellFunction 488 499	myelination
+T56	CellFunction 904 915	myelination
+T57	CellFunction 1180 1191	myelination
+T58	CellFunction 1530 1541	myelination
+T59	CellFunction 1669 1680	myelination
+T60	CellComponent 4 17	myelin sheath
+T61	CellComponent 135 148	myelin sheath
+T62	CellComponent 1381 1394	myelin sheath
+T63	Cell 1122 1156	mature myelinating oligodendrocyte
+T64	Cell 670 701	oligodendrocyte precursor cells
+T65	DiseaseOrSyndrome 172 193	neurological diseases
+T66	TemporalConcept 92 98	mature
+T67	BiologicFunction 1584 1603	conduction velocity
+T68	NaturalPhenomenonOrProcess 1584 1594	conduction
+T69	Cell 432 447	oligodendroglia
+T70	PathologicFunction 1509 1541	disrupted cerebellar myelination
+T72	Eukaryote 740 744	mice
+T73	Eukaryote 1214 1218	mice
+T74	Eukaryote 1555 1559	mice
+T75	DiseaseOrSyndrome 203 221	multiple sclerosis
+T76	BodyPartOrganOrOrganComponent 4 10	myelin
+T77	BodyPartOrganOrOrganComponent 135 141	myelin
+T78	BodyPartOrganOrOrganComponent 246 252	myelin
+T79	BodyPartOrganOrOrganComponent 1381 1387	myelin
+T80	BodyPartOrganOrOrganComponent 1473 1479	myelin
+T81	BodyPartOrganOrOrganComponent 1844 1850	myelin
+T82	PathologicFunction 1825 1840	pathophysiology
+T83	BiomedicalOccupationOrDiscipline 1825 1840	pathophysiology
+T84	CellOrMolecularDysfunction 117 148	Disruption of the myelin sheath
+T85	AminoAcidPeptideOrProtein 307 312	ABCA8
+T86	BiologicallyActiveSubstance 307 312	ABCA8
+T87	BiologicallyActiveSubstance 330 369	ATP-binding cassette transporter family
+T88	BiologicallyActiveSubstance 371 376	ABCA8
+T89	AminoAcidPeptideOrProtein 371 376	ABCA8
+T90	AminoAcidPeptideOrProtein 466 471	ABCA8
+T91	BiologicallyActiveSubstance 466 471	ABCA8
+T92	AminoAcidPeptideOrProtein 780 785	ABCA8
+T93	BiologicallyActiveSubstance 780 785	ABCA8
+T94	CellOrMolecularDysfunction 924 941	absence of Abca8b
+T95	ExperimentalModelOfDisease 1202 1218	Abca8b(-/-) mice
+T96	ClinicalAttribute 1353 1369	myelin thickness
+T97	ClinicalAttribute 1412 1427	axonal diameter
+T98	CellOrMolecularDysfunction 1462 1494	disordered myelin ultrastructure
+T99	PathologicFunction 1608 1628	disturbed locomotion
+T100	ExperimentalModelOfDisease 1543 1559	Abca8b(-/-) mice
+T101	AminoAcidPeptideOrProtein 1642 1647	ABCA8
+T102	BiologicallyActiveSubstance 1642 1647	ABCA8
+T103	BiologicallyActiveSubstance 1786 1791	ABCA8
+T104	AminoAcidPeptideOrProtein 1786 1791	ABCA8
+T105	DiseaseOrSyndrome 1844 1860	myelin disorders
+T106	CellOrMolecularDysfunction 585 602	absence of Abca8b
+T107	AminoAcidPeptideOrProtein 596 602	Abca8b
+T108	BiologicallyActiveSubstance 596 602	Abca8b
+T109	GeneOrGenome 596 602	Abca8b
+T110	AminoAcidPeptideOrProtein 935 941	Abca8b
+T111	BiologicallyActiveSubstance 935 941	Abca8b
+T112	GeneOrGenome 935 941	Abca8b
+T113	AminoAcidPeptideOrProtein 1727 1732	ABCA8
+T114	BiologicallyActiveSubstance 1727 1732	ABCA8
+T115	GeneOrGenome 1727 1732	ABCA8
+T116	AminoAcidPeptideOrProtein 1733 1752	interacting protein
+T117	CellOrMolecularDysfunction 1786 1802	ABCA8 disruption

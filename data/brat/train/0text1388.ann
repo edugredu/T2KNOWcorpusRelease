@@ -1,0 +1,73 @@
+T0	CellFunction 112 125	remyelination
+T1	CellOrMolecularDysfunction 112 133	remyelination failure
+T2	Finding 145 177	persistent neurologic impairment
+T3	Chemical 179 191	Ginkgolide B
+T4	Chemical 193 195	GB
+T5	Organism 246 259	Ginkgo biloba
+T6	Chemical 377 386	cuprizone
+T7	Chemical 440 442	GB
+T8	DiseaseOrSyndrome 452 474	behavior abnormalities
+T9	BodyPartOrganOrOrganComponent 485 491	myelin
+T10	CellComponent 485 491	myelin
+T11	Finding 536 551	dynamic balance
+T12	AminoAcidPeptideOrProtein 612 616	TLR4
+T13	GeneOrGenome 612 616	TLR4
+T14	BiologicallyActiveSubstance 612 616	TLR4
+T15	AminoAcidPeptideOrProtein 633 637	iNOS
+T16	AminoAcidPeptideOrProtein 649 658	IL-1 beta
+T17	Chemical 742 744	GB
+T18	CellFunction 772 817	generation of oligodendrocyte precursor cells
+T19	Cell 786 817	oligodendrocyte precursor cells
+T20	Cell 819 823	OPCs
+T21	ResearchActivity 835 851	cell experiments
+T22	ResearchActivity 896 909	in vivo model
+T23	Finding 915 930	dynamic balance
+T24	Finding 934 944	decreasing
+T25	CellFunction 1067 1080	remyelination
+T26	Chemical 1090 1092	GB
+T27	BodyPartOrganOrOrganComponent 1148 1154	myelin
+T28	CellComponent 1148 1154	myelin
+T29	BiologicFunction 1155 1163	recovery
+T30	HealthCareActivity 1155 1163	recovery
+T31	Chemical 1190 1192	GB
+T32	BodyPartOrganOrOrganComponent 97 100	CNS
+T33	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T34	DiseaseOrSyndrome 20 22	MS
+T35	HealthCareActivity 745 754	treatment
+T36	HealthCareActivity 1093 1102	treatment
+T37	ResearchActivity 745 754	treatment
+T38	ResearchActivity 1093 1102	treatment
+T39	PathologicFunction 964 981	neuroinflammation
+T40	BodyPartOrganOrOrganComponent 73 95	central nervous system
+T41	ResearchActivity 300 306	models
+T42	ResearchActivity 369 376	in vivo
+T43	CellFunction 678 706	up-regulating the expression
+T44	AminoAcidPeptideOrProtein 618 628	NF-kappa B
+T45	GeneOrGenome 618 628	NF-kappa B
+T46	BiologicallyActiveSubstance 618 628	NF-kappa B
+T47	Finding 265 288	neuroprotective effects
+T48	Cell 555 564	microglia
+T49	Cell 945 954	microglia
+T50	Cell 1203 1212	microglia
+T51	Cell 569 579	astrocytes
+T52	Cell 1217 1227	astrocytes
+T53	CellFunction 583 608	inhibiting the expression
+T54	AminoAcidPeptideOrProtein 720 740	neurotrophic factors
+T55	AminoAcidPeptideOrProtein 1014 1034	neurotrophic factors
+T56	BiologicallyActiveSubstance 720 740	neurotrophic factors
+T57	BiologicallyActiveSubstance 1014 1034	neurotrophic factors
+T58	BiologicallyActiveSubstance 663 672	TNF-alpha
+T59	AminoAcidPeptideOrProtein 663 672	TNF-alpha
+T60	DiseaseOrSyndrome 310 331	neurological diseases
+T61	DiseaseOrSyndrome 30 65	inflammatory demyelinating disorder
+T62	Chemical 206 221	terpene lactone
+T63	BiologicallyActiveSubstance 206 221	terpene lactone
+T64	Chemical 388 391	CPZ
+T65	ExperimentalModelOfDisease 387 420	(CPZ)-induced demyelinating model
+T66	CellFunction 485 502	myelin generation
+T67	BiologicallyActiveSubstance 633 637	iNOS
+T68	BiologicallyActiveSubstance 649 658	IL-1 beta
+T69	PharmacologicSubstance 649 658	IL-1 beta
+T70	GeneOrGenome 710 715	Arg-1
+T71	ResearchActivity 826 834	In vitro
+T72	Cell 996 1005	astrocyte

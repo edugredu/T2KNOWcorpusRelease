@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 122 148	neurodegenerative diseases
+T1	ResearchActivity 90 103	investigation
+T2	Cell 53 61	neuronal
+T3	AminoAcidPeptideOrProtein 30 38	proteins
+T4	CellFunction 62 80	signaling pathways
+T5	Organism 12 21	Ramularia

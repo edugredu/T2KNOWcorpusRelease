@@ -1,0 +1,147 @@
+T0	Finding 61 86	ambulatory blood pressure
+T1	BiologicFunction 88 90	BP
+T2	BiologicFunction 366 368	BP
+T3	BiologicFunction 390 392	BP
+T4	BiologicFunction 433 435	BP
+T5	BiologicFunction 441 455	pulse pressure
+T6	BiologicFunction 539 541	BP
+T7	AminoAcidPeptideOrProtein 759 771	beta amyloid
+T8	BiologicFunction 953 955	BP
+T9	ClinicalAttribute 1055 1066	systolic BP
+T10	ClinicalAttribute 1068 1071	SBP
+T11	TemporalConcept 1170 1177	daytime
+T12	ClinicalAttribute 1184 1187	SBP
+T13	ClinicalAttribute 1319 1322	SBP
+T14	ClinicalAttribute 1339 1342	SBP
+T15	ClinicalAttribute 1372 1375	DBP
+T16	TemporalConcept 1388 1395	daytime
+T17	ClinicalAttribute 1521 1524	SBP
+T18	ClinicalAttribute 1546 1549	SBP
+T19	TemporalConcept 1561 1568	daytime
+T20	TemporalConcept 1710 1717	daytime
+T21	ClinicalAttribute 1724 1727	SBP
+T22	ClinicalAttribute 2140 2143	SBP
+T23	AminoAcidPeptideOrProtein 831 836	T-tau
+T24	AminoAcidPeptideOrProtein 1912 1917	T-tau
+T25	AminoAcidPeptideOrProtein 2048 2053	T-tau
+T26	BiologicallyActiveSubstance 831 836	T-tau
+T27	BiologicallyActiveSubstance 1912 1917	T-tau
+T28	BiologicallyActiveSubstance 2048 2053	T-tau
+T29	TemporalConcept 196 202	stages
+T30	DiseaseOrSyndrome 1991 1997	AD-MCI
+T31	DiseaseOrSyndrome 2282 2284	AD
+T32	BiologicFunction 72 86	blood pressure
+T33	BiologicFunction 1661 1670	attention
+T34	BiologicFunction 1881 1890	attention
+T35	OrganismAttribute 1819 1822	Age
+T36	Finding 560 566	scores
+T37	AminoAcidPeptideOrProtein 808 813	P-tau
+T38	AminoAcidPeptideOrProtein 2037 2042	P-tau
+T39	BiologicallyActiveSubstance 808 813	P-tau
+T40	BiologicallyActiveSubstance 2037 2042	P-tau
+T41	DiseaseOrSyndrome 164 183	Alzheimer's disease
+T42	BodyPartOrganOrOrganComponent 863 866	CSF
+T43	BodyPartOrganOrOrganComponent 1927 1930	CSF
+T44	BodyPartOrganOrOrganComponent 2057 2060	CSF
+T45	DiseaseOrSyndrome 185 187	AD
+T46	DiseaseOrSyndrome 277 279	AD
+T47	DiseaseOrSyndrome 307 309	AD
+T48	DiseaseOrSyndrome 339 341	AD
+T49	DiseaseOrSyndrome 677 679	AD
+T50	DiseaseOrSyndrome 745 747	AD
+T51	DiseaseOrSyndrome 1016 1018	AD
+T52	DiseaseOrSyndrome 1108 1110	AD
+T53	DiseaseOrSyndrome 1143 1145	AD
+T54	DiseaseOrSyndrome 1908 1910	AD
+T55	DiseaseOrSyndrome 1938 1940	AD
+T56	DiseaseOrSyndrome 1991 1993	AD
+T57	DiseaseOrSyndrome 2212 2214	AD
+T58	DiseaseOrSyndrome 2220 2222	AD
+T59	DiseaseOrSyndrome 2412 2414	AD
+T60	BodyPartOrganOrOrganComponent 842 861	cerebrospinal fluid
+T61	PatientOrDisabledGroup 150 158	patients
+T62	PatientOrDisabledGroup 263 271	patients
+T63	PatientOrDisabledGroup 663 671	patients
+T64	PatientOrDisabledGroup 1894 1902	patients
+T65	PatientOrDisabledGroup 2198 2206	patients
+T66	PatientOrDisabledGroup 2225 2233	patients
+T67	PatientOrDisabledGroup 2289 2297	patients
+T68	AminoAcidPeptideOrProtein 820 829	total tau
+T69	BiologicallyActiveSubstance 820 829	total tau
+T70	Finding 1077 1100	significantly increased
+T71	AminoAcidPeptideOrProtein 788 806	phosphorylated tau
+T72	BiologicallyActiveSubstance 788 806	phosphorylated tau
+T73	Finding 1275 1280	score
+T74	Finding 1497 1502	score
+T75	Finding 1671 1676	score
+T76	DiseaseOrSyndrome 242 250	dementia
+T77	DiseaseOrSyndrome 329 337	dementia
+T78	ClinicalAttribute 118 146	neuropathological biomarkers
+T79	ClinicalAttribute 713 741	neuropathological biomarkers
+T80	ClinicalAttribute 984 1012	neuropathological biomarkers
+T81	ClinicalAttribute 2380 2408	neuropathological biomarkers
+T82	ResearchActivity 12 17	study
+T83	DiseaseOrSyndrome 233 236	MCI
+T84	DiseaseOrSyndrome 302 305	MCI
+T85	DiseaseOrSyndrome 310 313	MCI
+T86	DiseaseOrSyndrome 1146 1149	MCI
+T87	DiseaseOrSyndrome 1994 1997	MCI
+T88	TemporalConcept 1407 1411	time
+T89	TemporalConcept 1580 1584	time
+T90	PopulationGroup 501 507	groups
+T91	PopulationGroup 911 917	groups
+T92	OrganismAttribute 1739 1742	age
+T93	ResearchActivity 1686 1694	analysis
+T94	DiseaseOrSyndrome 206 231	mild cognitive impairment
+T95	PopulationGroup 315 320	group
+T96	PopulationGroup 345 350	group
+T97	PopulationGroup 1113 1118	group
+T98	PopulationGroup 1150 1155	group
+T99	PopulationGroup 1943 1948	group
+T100	PopulationGroup 1998 2003	group
+T101	AminoAcidPeptideOrProtein 773 779	A beta
+T102	AminoAcidPeptideOrProtein 2023 2035	A beta(1-42)
+T103	CellOrMolecularDysfunction 2259 2276	neurodegeneration
+T104	Finding 2252 2258	severe
+T105	TemporalConcept 1747 1753	course
+T106	BiologicFunction 95 113	cognitive function
+T107	BiologicFunction 1268 1274	memory
+T108	BiologicFunction 1870 1876	memory
+T109	ResearchActivity 513 525	correlations
+T110	ResearchActivity 927 939	correlations
+T111	ResearchActivity 593 601	analyzed
+T112	TemporalConcept 56 60	24-h
+T113	ResearchActivity 400 424	coefficient of variation
+T114	BiologicFunction 1192 1217	ambulatory pulse pressure
+T115	BiologicFunction 1585 1610	ambulatory pulse pressure
+T116	BiologicFunction 2091 2104	ambulatory BP
+T117	BiologicFunction 2353 2366	ambulatory BP
+T118	TemporalConcept 2348 2352	24-h
+T119	TemporalConcept 2086 2090	24-h
+T120	TemporalConcept 361 365	24-h
+T121	TemporalConcept 534 538	24-h
+T122	TemporalConcept 948 952	24-h
+T123	TemporalConcept 1161 1165	24-h
+T124	TemporalConcept 1294 1298	24-h
+T125	TemporalConcept 1382 1386	24-h
+T126	TemporalConcept 1516 1520	24-h
+T127	TemporalConcept 1555 1559	24-h
+T128	BiologicallyActiveSubstance 2023 2035	A beta(1-42)
+T129	TemporalConcept 2126 2133	Daytime
+T130	Finding 2152 2182	independent influencing factor
+T131	DiseaseOrSyndrome 2285 2288	MCI
+T132	Finding 1774 1805	independent influencing factors
+T133	TemporalConcept 1041 1048	Daytime
+T134	TemporalConcept 1311 1318	daytime
+T135	TemporalConcept 1346 1347	y
+T136	ClinicalAttribute 1358 1370	diastolic BP
+T137	BiologicFunction 1412 1437	ambulatory pulse pressure
+T138	TemporalConcept 1532 1539	daytime
+T139	TemporalConcept 1574 1579	night
+T140	Finding 642 659	cognitive domains
+T141	Finding 607 638	independent influencing factors
+T142	BiologicFunction 1488 1496	language
+T143	BiologicFunction 1809 1817	language
+T144	BiologicFunction 2186 2194	language
+T145	Finding 1836 1866	independent influencing factor
+T146	Finding 570 587	cognitive domains

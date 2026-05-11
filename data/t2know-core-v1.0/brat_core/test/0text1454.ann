@@ -1,0 +1,133 @@
+T0	NucleicAcidNucleosideOrNucleotide 67 87	trinucleotide repeat
+T1	Finding 126 135	elongated
+T2	HealthCareActivity 331 359	Therapeutic lowering of mHTT
+T3	BiologicFunction 587 602	pharmacodynamic
+T4	ResearchActivity 587 602	pharmacodynamic
+T5	CellFunction 1282 1298	viral expression
+T6	GeneOrGenome 1647 1656	wild type
+T7	ResearchActivity 1647 1656	wild type
+T8	HealthCareActivity 1675 1682	genetic
+T9	CellFunction 1683 1695	inactivation
+T10	ClinicalAttribute 1886 1890	pool
+T11	BiologicFunction 2055 2070	pharmacodynamic
+T12	ResearchActivity 2055 2070	pharmacodynamic
+T13	CellOrMolecularDysfunction 189 208	Expanded mutant HTT
+T14	Cell 784 794	cell types
+T15	BodyPartOrganOrOrganComponent 321 329	striatum
+T16	BodyPartOrganOrOrganComponent 929 937	striatum
+T17	BodyPartOrganOrOrganComponent 1146 1154	striatum
+T18	BodyPartOrganOrOrganComponent 1190 1198	striatum
+T19	BodyPartOrganOrOrganComponent 1336 1344	striatum
+T20	BodyPartOrganOrOrganComponent 1447 1455	striatum
+T21	BodyPartOrganOrOrganComponent 1723 1731	striatum
+T22	BodyPartOrganOrOrganComponent 1845 1853	striatum
+T23	BodyPartOrganOrOrganComponent 1958 1966	striatum
+T24	BodyPartOrganOrOrganComponent 2118 2126	striatum
+T25	BodyPartOrganOrOrganComponent 1236 1248	brain region
+T26	DiseaseOrSyndrome 0 18	Huntington disease
+T27	BiologicFunction 114 122	encoding
+T28	GeneOrGenome 105 113	HTT gene
+T29	AminoAcidPeptideOrProtein 136 155	polyglutamine tract
+T30	GeneOrGenome 105 108	HTT
+T31	GeneOrGenome 175 178	HTT
+T32	GeneOrGenome 1657 1660	HTT
+T33	AminoAcidPeptideOrProtein 105 108	HTT
+T34	AminoAcidPeptideOrProtein 175 178	HTT
+T35	AminoAcidPeptideOrProtein 189 208	Expanded mutant HTT
+T36	AminoAcidPeptideOrProtein 1657 1660	HTT
+T37	NucleicAcidNucleosideOrNucleotide 1465 1490	antisense oligonucleotide
+T38	BiologicallyActiveSubstance 1465 1490	antisense oligonucleotide
+T39	Chemical 1465 1490	antisense oligonucleotide
+T40	Finding 1502 1523	significant reduction
+T41	Finding 1745 1766	significant reduction
+T42	ExperimentalModelOfDisease 1546 1553	HD mice
+T43	ExperimentalModelOfDisease 2002 2009	HD mice
+T44	AminoAcidPeptideOrProtein 163 173;180 187	huntingtin protein
+T45	ExperimentalModelOfDisease 1576 1604	transgenic mouse model of HD
+T46	ResearchActivity 1625 1631	length
+T47	BodyPartOrganOrOrganComponent 391 394	CNS
+T48	BodyPartOrganOrOrganComponent 641 644	CNS
+T49	BodyPartOrganOrOrganComponent 680 683	CNS
+T50	BodyPartOrganOrOrganComponent 367 389	central nervous system
+T51	HealthCareActivity 897 906	therapies
+T52	HealthCareActivity 2085 2094	therapies
+T53	InjuryOrPoisoning 219 224	toxic
+T54	ResearchActivity 417 436	preclinical studies
+T55	Finding 616 633	target engagement
+T56	DiseaseOrSyndrome 29 54	neurodegenerative disease
+T57	TemporalConcept 865 872	origins
+T58	DiseaseOrSyndrome 20 22	HD
+T59	DiseaseOrSyndrome 501 503	HD
+T60	TemporalConcept 463 472	currently
+T61	TemporalConcept 305 313	earliest
+T62	Finding 623 633	engagement
+T63	Finding 1514 1523	reduction
+T64	Finding 1757 1766	reduction
+T65	NaturalPhenomenonOrProcess 1514 1523	reduction
+T66	NaturalPhenomenonOrProcess 1757 1766	reduction
+T67	BodyPartOrganOrOrganComponent 766 779	brain regions
+T68	BodyPartOrganOrOrganComponent 554 557	CSF
+T69	BodyPartOrganOrOrganComponent 717 720	CSF
+T70	BodyPartOrganOrOrganComponent 814 817	CSF
+T71	BodyPartOrganOrOrganComponent 876 879	CSF
+T72	BodyPartOrganOrOrganComponent 1014 1017	CSF
+T73	BodyPartOrganOrOrganComponent 1264 1267	CSF
+T74	BodyPartOrganOrOrganComponent 1377 1380	CSF
+T75	BodyPartOrganOrOrganComponent 1539 1542	CSF
+T76	BodyPartOrganOrOrganComponent 1782 1785	CSF
+T77	BodyPartOrganOrOrganComponent 1906 1909	CSF
+T78	BodyPartOrganOrOrganComponent 2030 2033	CSF
+T79	ClinicalAttribute 603 612	biomarker
+T80	ClinicalAttribute 2071 2080	biomarker
+T81	BodyPartOrganOrOrganComponent 533 552	cerebrospinal fluid
+T82	Cell 259 272	neuronal cell
+T83	BodyPartOrganOrOrganComponent 285 290	brain
+T84	ResearchActivity 1807 1811	data
+T85	BiologicFunction 485 496	development
+T86	CellFunction 485 496	development
+T87	BiologicFunction 844 857	understanding
+T88	PathologicFunction 247 254	atrophy
+T89	DiseaseOrSyndrome 247 254	atrophy
+T90	Eukaryote 1632 1637	human
+T91	ClinicalAttribute 1354 1380	detectable mHTT in the CSF
+T92	Eukaryote 1549 1553	mice
+T93	Eukaryote 2005 2009	mice
+T94	AminoAcidPeptideOrProtein 210 214	mHTT
+T95	CellOrMolecularDysfunction 210 214	mHTT
+T96	CellOrMolecularDysfunction 67 97	trinucleotide repeat expansion
+T97	CellOrMolecularDysfunction 259 277	neuronal cell loss
+T98	HealthCareActivity 505 552	Quantitation of mHTT in the cerebrospinal fluid
+T99	AminoAcidPeptideOrProtein 705 709	mHTT
+T100	CellOrMolecularDysfunction 705 709	mHTT
+T101	ClinicalAttribute 814 822	CSF mHTT
+T102	ClinicalAttribute 876 884	CSF mHTT
+T103	AminoAcidPeptideOrProtein 917 921	mHTT
+T104	AminoAcidPeptideOrProtein 1002 1006	mHTT
+T105	CellOrMolecularDysfunction 917 921	mHTT
+T106	CellOrMolecularDysfunction 1002 1006	mHTT
+T107	ResearchActivity 1056 1100	pharmacological and genetic-based approaches
+T108	AminoAcidPeptideOrProtein 1134 1138	mHTT
+T109	CellOrMolecularDysfunction 1134 1138	mHTT
+T110	AminoAcidPeptideOrProtein 1178 1182	mHTT
+T111	CellOrMolecularDysfunction 1178 1182	mHTT
+T112	AminoAcidPeptideOrProtein 1252 1256	mHTT
+T113	CellOrMolecularDysfunction 1252 1256	mHTT
+T114	AminoAcidPeptideOrProtein 1304 1317	mHTT fragment
+T115	AminoAcidPeptideOrProtein 1365 1369	mHTT
+T116	CellOrMolecularDysfunction 1365 1369	mHTT
+T117	HealthCareActivity 1402 1427	targeted lowering of mHTT
+T118	AminoAcidPeptideOrProtein 1527 1531	mHTT
+T119	CellOrMolecularDysfunction 1527 1531	mHTT
+T120	AminoAcidPeptideOrProtein 1638 1642	mHTT
+T121	CellOrMolecularDysfunction 1638 1642	mHTT
+T122	AminoAcidPeptideOrProtein 1699 1703	mHTT
+T123	CellOrMolecularDysfunction 1699 1703	mHTT
+T124	AminoAcidPeptideOrProtein 1770 1774	mHTT
+T125	CellOrMolecularDysfunction 1770 1774	mHTT
+T126	ClinicalAttribute 2030 2038	CSF mHTT
+T127	AminoAcidPeptideOrProtein 2106 2110	mHTT
+T128	CellOrMolecularDysfunction 2106 2110	mHTT
+T129	AminoAcidPeptideOrProtein 1894 1898	mHTT
+T130	CellOrMolecularDysfunction 1894 1898	mHTT
+T131	AminoAcidPeptideOrProtein 1937 1941	mHTT
+T132	CellOrMolecularDysfunction 1937 1941	mHTT

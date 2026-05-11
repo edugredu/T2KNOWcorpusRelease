@@ -1,0 +1,9 @@
+T0	DiseaseOrSyndrome 50 60	conditions
+T1	DiseaseOrSyndrome 110 119	condition
+T2	SignOrSymptom 98 105	painful
+T3	NaturalPhenomenonOrProcess 0 12	UV radiation
+T4	BodyPartOrganOrOrganComponent 33 37	eyes
+T5	BodyPartOrganOrOrganComponent 106 109	eye
+T6	DiseaseOrSyndrome 66 75	cataracts
+T7	DiseaseOrSyndrome 80 94	photokeratitis
+T8	InjuryOrPoisoning 131 138	sunburn

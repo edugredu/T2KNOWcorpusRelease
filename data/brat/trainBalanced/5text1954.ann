@@ -1,0 +1,9 @@
+T0	DiseaseOrSyndrome 69 96	neurodegenerative disorders
+T1	HealthCareActivity 202 222	treatment strategies
+T2	ResearchActivity 10 18	research
+T3	Finding 28 40	relationship
+T4	PathologicFunction 151 169	disease mechanisms
+T5	ResearchActivity 202 222	treatment strategies
+T6	BodyPartOrganOrOrganComponent 49 56	retinal
+T7	HealthCareActivity 182 197	early detection
+T8	AnatomicalAbnormality 49 64	retinal defects

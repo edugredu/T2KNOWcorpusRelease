@@ -1,0 +1,94 @@
+T0	CellOrMolecularDysfunction 141 164	neurofibrillary tangles
+T1	CellComponent 141 156	neurofibrillary
+T2	CellComponent 199 213	small vesicles
+T3	Chemical 302 309	Glycans
+T4	BodyPartOrganOrOrganComponent 498 502	sera
+T5	PatientOrDisabledGroup 525 528	APs
+T6	AminoAcidPeptideOrProtein 575 581	lectin
+T7	ResearchActivity 582 592	microarray
+T8	ManufacturedObject 582 592	microarray
+T9	Chemical 603 609	glycan
+T10	AminoAcidPeptideOrProtein 634 657	Mannose-binding lectins
+T11	PharmacologicSubstance 634 657	Mannose-binding lectins
+T12	CellFunction 689 696	signals
+T13	AminoAcidPeptideOrProtein 759 781	mannose-binding lectin
+T14	BiologicallyActiveSubstance 759 781	mannose-binding lectin
+T15	ResearchActivity 902 914	protein band
+T16	AminoAcidPeptideOrProtein 940 944	CD61
+T17	BiologicallyActiveSubstance 940 944	CD61
+T18	AminoAcidPeptideOrProtein 1015 1019	Tim4
+T19	Chemical 1041 1059	phosphatidylserine
+T20	AminoAcidPeptideOrProtein 1071 1081	antibodies
+T21	BiologicallyActiveSubstance 1071 1081	antibodies
+T22	AminoAcidPeptideOrProtein 1105 1109	CD61
+T23	BiologicallyActiveSubstance 1105 1109	CD61
+T24	AminoAcidPeptideOrProtein 1111 1115	CD41
+T25	BiologicallyActiveSubstance 1111 1115	CD41
+T26	AminoAcidPeptideOrProtein 1117 1121	CD63
+T27	BiologicallyActiveSubstance 1127 1130	CD9
+T28	AminoAcidPeptideOrProtein 1127 1130	CD9
+T29	BodyPartOrganOrOrganComponent 1181 1185	sera
+T30	PatientOrDisabledGroup 1189 1192	APs
+T31	AminoAcidPeptideOrProtein 1260 1264	CD63
+T32	PatientOrDisabledGroup 1346 1349	APs
+T33	HealthCareActivity 1466 1483	diagnostic method
+T34	CellComponent 166 188	Extracellular vesicles
+T35	Chemical 230 235	lipid
+T36	BiologicFunction 1390 1403	understanding
+T37	ResearchActivity 610 618	profiles
+T38	PathologicFunction 396 419	pathological conditions
+T39	AminoAcidPeptideOrProtein 104 119	amyloid plaques
+T40	CellComponent 975 983	exosomes
+T41	CellComponent 230 252	lipid bilayer membrane
+T42	AminoAcidPeptideOrProtein 99 111	beta-amyloid
+T43	PathologicFunction 283 294	progression
+T44	TemporalConcept 283 294	progression
+T45	OrganismAttribute 1214 1217	age
+T46	Finding 83 95	accumulation
+T47	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T48	Finding 1025 1036	specificity
+T49	CellComponent 190 193	EVs
+T50	CellComponent 343 346	EVs
+T51	CellComponent 480 483	EVs
+T52	CellComponent 712 715	EVs
+T53	CellComponent 732 735	EVs
+T54	CellComponent 866 869	EVs
+T55	CellComponent 1063 1066	EVs
+T56	DiseaseOrSyndrome 21 23	AD
+T57	DiseaseOrSyndrome 298 300	AD
+T58	DiseaseOrSyndrome 512 514	AD
+T59	DiseaseOrSyndrome 1407 1409	AD
+T60	DiseaseOrSyndrome 1488 1490	AD
+T61	OrganismAttribute 548 555	healthy
+T62	PatientOrDisabledGroup 515 523	patients
+T63	CellComponent 373 375	EV
+T64	DiseaseOrSyndrome 52 60	dementia
+T65	ResearchActivity 871 888	LC-MS/MS analysis
+T66	PathologicFunction 1410 1419	pathology
+T67	BiomedicalOccupationOrDiscipline 1410 1419	pathology
+T68	ClinicalAttribute 948 954	marker
+T69	BiologicFunction 1443 1454	development
+T70	CellFunction 1443 1454	development
+T71	OrganismAttribute 1223 1226	sex
+T74	ResearchActivity 1298 1318	area under the curve
+T75	Chemical 376 383	glycans
+T76	PharmacologicSubstance 302 309	Glycans
+T77	PharmacologicSubstance 376 383	glycans
+T78	ResearchActivity 460 476	glycan profiling
+T79	PopulationGroup 556 562	donors
+T80	BiologicallyActiveSubstance 575 581	lectin
+T81	AminoAcidPeptideOrProtein 737 743	Lectin
+T82	BiologicallyActiveSubstance 737 743	Lectin
+T83	ResearchActivity 744 752	blotting
+T84	ResearchActivity 806 818	protein band
+T85	Cell 958 966	platelet
+T86	ResearchActivity 993 1008	Sandwich assays
+T87	BiologicallyActiveSubstance 1015 1019	Tim4
+T88	CellComponent 1090 1095	P-Exo
+T89	CellComponent 985 990	P-Exo
+T90	ClinicalAttribute 1096 1103	markers
+T91	BiologicallyActiveSubstance 1117 1121	CD63
+T92	CellComponent 1146 1151	P-Exo
+T93	BiologicallyActiveSubstance 1260 1264	CD63
+T94	AminoAcidPeptideOrProtein 1249 1253	Tim4
+T95	BiologicallyActiveSubstance 1249 1253	Tim4

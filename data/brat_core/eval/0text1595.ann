@@ -1,0 +1,156 @@
+T0	BiologicFunction 866 878	localization
+T1	ResearchActivity 866 878	localization
+T2	CellFunction 866 878	localization
+T3	AminoAcidPeptideOrProtein 891 894	App
+T4	GeneOrGenome 891 894	App
+T5	ResearchActivity 895 908	knock-in mice
+T6	AminoAcidPeptideOrProtein 992 995	App
+T7	GeneOrGenome 992 995	App
+T8	ResearchActivity 996 1009	knock-in mice
+T9	ResearchActivity 1091 1100	wild-type
+T10	GeneOrGenome 1448 1453	PSD95
+T11	AminoAcidPeptideOrProtein 1448 1453	PSD95
+T12	AminoAcidPeptideOrProtein 1490 1499	GSK3 beta
+T13	ClinicalAttribute 1576 1586	detectable
+T14	ResearchActivity 1610 1619	wild-type
+T15	BiologicallyActiveSubstance 1320 1327	epitope
+T16	ResearchActivity 895 903	knock-in
+T17	ResearchActivity 996 1004	knock-in
+T18	CellComponent 1428 1440	postsynaptic
+T19	CellComponent 1972 1984	postsynaptic
+T20	Eukaryote 1091 1105	wild-type mice
+T21	PathologicFunction 1768 1777	disrupted
+T22	CellComponent 195 218	neurofibrillary tangles
+T23	CellComponent 453 468	neurofibrillary
+T24	CellComponent 786 801	neurofibrillary
+T25	CellComponent 943 958	neurofibrillary
+T26	AminoAcidPeptideOrProtein 164 178	p-tau proteins
+T27	AminoAcidPeptideOrProtein 510 524	p-tau proteins
+T28	BiologicallyActiveSubstance 164 178	p-tau proteins
+T29	BiologicallyActiveSubstance 510 524	p-tau proteins
+T30	ClinicalAttribute 309 319	tau levels
+T31	ResearchActivity 434 440	burden
+T32	ResearchActivity 2110 2116	burden
+T33	AminoAcidPeptideOrProtein 0 15	Phospho-tau 217
+T34	AminoAcidPeptideOrProtein 17 32	phospho-tau 231
+T35	AminoAcidPeptideOrProtein 595 610	phospho-tau 217
+T36	AminoAcidPeptideOrProtein 702 705	tau
+T37	AminoAcidPeptideOrProtein 1294 1297	tau
+T38	AminoAcidPeptideOrProtein 1363 1378	phospho-tau 217
+T39	AminoAcidPeptideOrProtein 1383 1406	phospho-tau 202/205/208
+T40	AminoAcidPeptideOrProtein 1471 1474	tau
+T41	AminoAcidPeptideOrProtein 1727 1742	phospho-tau 181
+T42	DiseaseOrSyndrome 133 152	Alzheimer's disease
+T43	DiseaseOrSyndrome 255 274	Alzheimer's disease
+T44	DiseaseOrSyndrome 386 405	Alzheimer's disease
+T45	BodyPartOrganOrOrganComponent 80 86	plasma
+T46	BodyPartOrganOrOrganComponent 347 353	plasma
+T47	AminoAcidPeptideOrProtein 421 433	amyloid-beta
+T48	AminoAcidPeptideOrProtein 543 555	amyloid-beta
+T49	AminoAcidPeptideOrProtein 1025 1037	amyloid-beta
+T50	AminoAcidPeptideOrProtein 1785 1797	amyloid-beta
+T51	AminoAcidPeptideOrProtein 2097 2109	amyloid-beta
+T52	PathologicFunction 571 580	pathology
+T53	PathologicFunction 966 975	pathology
+T54	PathologicFunction 1985 1994	pathology
+T55	BiomedicalOccupationOrDiscipline 571 580	pathology
+T56	BiomedicalOccupationOrDiscipline 966 975	pathology
+T57	BiomedicalOccupationOrDiscipline 1985 1994	pathology
+T58	AminoAcidPeptideOrProtein 421 428	amyloid
+T59	AminoAcidPeptideOrProtein 543 550	amyloid
+T60	AminoAcidPeptideOrProtein 1025 1032	amyloid
+T61	AminoAcidPeptideOrProtein 1251 1258	amyloid
+T62	AminoAcidPeptideOrProtein 1785 1792	amyloid
+T63	AminoAcidPeptideOrProtein 2097 2104	amyloid
+T64	BiologicallyActiveSubstance 421 428	amyloid
+T65	BiologicallyActiveSubstance 543 550	amyloid
+T66	BiologicallyActiveSubstance 1025 1032	amyloid
+T67	BiologicallyActiveSubstance 1785 1792	amyloid
+T68	BiologicallyActiveSubstance 2097 2104	amyloid
+T69	BiologicallyActiveSubstance 0 15	Phospho-tau 217
+T70	BiologicallyActiveSubstance 17 32	phospho-tau 231
+T71	BiologicallyActiveSubstance 702 705	tau
+T72	BiologicallyActiveSubstance 1294 1297	tau
+T73	BiologicallyActiveSubstance 1363 1378	phospho-tau 217
+T74	BiologicallyActiveSubstance 1471 1474	tau
+T75	BodyPartOrganOrOrganComponent 56 75	cerebrospinal fluid
+T76	BodyPartOrganOrOrganComponent 323 342	cerebrospinal fluid
+T77	HealthCareActivity 120 129	diagnosis
+T78	ClinicalAttribute 101 111	biomarkers
+T79	TemporalConcept 238 242	post
+T80	PatientOrDisabledGroup 275 283	patients
+T81	ResearchActivity 828 833	study
+T82	BodyPartOrganOrOrganComponent 565 570	brain
+T83	Eukaryote 904 908	mice
+T84	Eukaryote 1005 1009	mice
+T85	Eukaryote 1101 1105	mice
+T86	ExperimentalModelOfDisease 1206 1220	App(NLGF) mice
+T87	ExperimentalModelOfDisease 1624 1636	App(NL) mice
+T88	ExperimentalModelOfDisease 1705 1719	App(NLGF) mice
+T89	BiomedicalOccupationOrDiscipline 762 776	neuropathology
+T90	PathologicFunction 762 776	neuropathology
+T91	ResearchActivity 1107 1135	Immunohistochemical analysis
+T92	AminoAcidPeptideOrProtein 1528 1537	total tau
+T93	BiologicallyActiveSubstance 1528 1537	total tau
+T94	AminoAcidPeptideOrProtein 37 52	phospho-tau 181
+T95	AminoAcidPeptideOrProtein 640 655	phospho-tau 181
+T96	AminoAcidPeptideOrProtein 1148 1163	phospho-tau 217
+T97	AminoAcidPeptideOrProtein 1168 1183	phospho-tau 231
+T98	AminoAcidPeptideOrProtein 1328 1351	phospho-tau 202/205/208
+T99	AminoAcidPeptideOrProtein 1539 1554	phospho-tau 181
+T100	AminoAcidPeptideOrProtein 1841 1856	phospho-tau 217
+T101	AminoAcidPeptideOrProtein 1886 1901	phospho-tau 217
+T102	AminoAcidPeptideOrProtein 1903 1918	phospho-tau 231
+T103	AminoAcidPeptideOrProtein 1933 1948	phospho-tau 181
+T104	AminoAcidPeptideOrProtein 2029 2044	phospho-tau 181
+T105	BiologicallyActiveSubstance 37 52	phospho-tau 181
+T106	BiologicallyActiveSubstance 595 610	phospho-tau 217
+T107	BiologicallyActiveSubstance 640 655	phospho-tau 181
+T108	BiologicallyActiveSubstance 1148 1163	phospho-tau 217
+T109	BiologicallyActiveSubstance 1168 1183	phospho-tau 231
+T110	BiologicallyActiveSubstance 1328 1351	phospho-tau 202/205/208
+T111	BiologicallyActiveSubstance 1383 1406	phospho-tau 202/205/208
+T112	BiologicallyActiveSubstance 1539 1554	phospho-tau 181
+T113	BiologicallyActiveSubstance 1727 1742	phospho-tau 181
+T114	BiologicallyActiveSubstance 1841 1856	phospho-tau 217
+T115	BiologicallyActiveSubstance 1886 1901	phospho-tau 217
+T116	BiologicallyActiveSubstance 1903 1918	phospho-tau 231
+T117	BiologicallyActiveSubstance 1933 1948	phospho-tau 181
+T118	BiologicallyActiveSubstance 2029 2044	phospho-tau 181
+T119	TemporalConcept 377 382	stage
+T120	ClinicalAttribute 377 382	stage
+T121	Finding 623 634	sensitivity
+T122	AminoAcidPeptideOrProtein 700 705	p-tau
+T123	AminoAcidPeptideOrProtein 882 887	p-tau
+T124	BiologicallyActiveSubstance 700 705	p-tau
+T125	BiologicallyActiveSubstance 882 887	p-tau
+T126	TemporalConcept 238 249	post-mortem
+T127	Finding 2075 2086	abnormality
+T128	BodyPartOrganOrOrganComponent 222 228	brains
+T129	BodyPartOrganOrOrganComponent 480 486	brains
+T130	BodyPartOrganOrOrganComponent 2120 2126	brains
+T131	TemporalConcept 365 382	preclinical stage
+T132	ClinicalAttribute 1308 1314	marker
+T133	ClinicalAttribute 1441 1447	marker
+T134	ClinicalAttribute 1668 1674	marker
+T135	ClinicalAttribute 2058 2064	marker
+T136	CellFunction 1555 1562	signals
+T137	CellFunction 1949 1956	signals
+T138	BiologicallyActiveSubstance 1316 1319	AT8
+T139	CellComponent 1661 1667	axonal
+T140	CellComponent 2068 2074	axonal
+T141	ClinicalAttribute 1961 1968	markers
+T142	AminoAcidPeptideOrProtein 1675 1700	neurofilament light chain
+T143	BiologicallyActiveSubstance 1675 1700	neurofilament light chain
+T144	PathologicFunction 1294 1307	tau pathology
+T145	AnatomicalAbnormality 2002 2022	amyloid-beta plaques
+T146	BiologicallyActiveSubstance 1490 1499	GSK3 beta
+T147	CellOrMolecularDysfunction 453 476	neurofibrillary tangles
+T148	CellOrMolecularDysfunction 786 818	neurofibrillary tangle formation
+T149	BodyPartOrganOrOrganComponent 852 865	intracerebral
+T150	ExperimentalModelOfDisease 977 986	App(NLGF)
+T151	ExperimentalModelOfDisease 1075 1082	App(NL)
+T152	AnatomicalAbnormality 1053 1073	amyloid-beta plaques
+T153	AnatomicalAbnormality 1251 1271	amyloid-beta plaques
+T154	AnatomicalAbnormality 914 934	amyloid-beta plaques
+T155	AnatomicalAbnormality 1785 1805	amyloid-beta plaques

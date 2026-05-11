@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 122 149	neurodegenerative disorders
+T1	Cell 103 111	neuronal
+T2	PathologicFunction 81 98	neuroinflammation
+T3	AminoAcidPeptideOrProtein 36 62	pro-inflammatory cytokines
+T4	BiologicallyActiveSubstance 36 62	pro-inflammatory cytokines
+T5	InjuryOrPoisoning 112 118	damage
+T6	Bacterium 0 13	P. gingivalis

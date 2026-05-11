@@ -1,0 +1,8 @@
+T0	HealthCareActivity 58 73	early diagnosis
+T1	PatientOrDisabledGroup 126 134	patients
+T2	DiseaseOrSyndrome 93 110	cognitive decline
+T3	DiseaseOrSyndrome 114 125	Alzheimer's
+T4	HealthCareActivity 78 88	monitoring
+T5	MachineActivity 0 16	Machine learning
+T6	HealthCareActivity 25 46	cognitive assessments
+T7	HealthCareActivity 156 168	intervention

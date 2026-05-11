@@ -1,0 +1,67 @@
+T0	DiseaseOrSyndrome 29 47	Lewy body dementia
+T1	DiseaseOrSyndrome 49 52	LBD
+T2	SignOrSymptom 164 188	cognitive manifestations
+T3	PopulationGroup 514 520	mother
+T4	PopulationGroup 527 530	son
+T5	ResearchActivity 645 671	next-generation sequencing
+T6	BiomedicalOccupationOrDiscipline 678 692	transcriptomic
+T7	ResearchActivity 747 763	genetic analysis
+T8	ResearchActivity 844 858	RNA sequencing
+T9	BodyPartOrganOrOrganComponent 917 933	substantia nigra
+T10	BodyPartOrganOrOrganComponent 1025 1038	parietal lobe
+T11	BodyPartOrganOrOrganComponent 1123 1136	basal ganglia
+T12	InjuryOrPoisoning 1303 1316	tissue damage
+T13	DiseaseOrSyndrome 1433 1436	LBD
+T14	ResearchActivity 1532 1555	transcriptome profiling
+T15	ResearchActivity 1564 1578	RNA sequencing
+T16	DiseaseOrSyndrome 1684 1687	LBD
+T17	PathologicFunction 455 477	pathological processes
+T18	CellFunction 876 891	transcriptional
+T19	CellFunction 985 1000	transcriptional
+T20	CellFunction 1255 1270	transcriptional
+T21	BiomedicalOccupationOrDiscipline 1359 1373	neuropathology
+T22	PathologicFunction 1359 1373	neuropathology
+T23	InjuryOrPoisoning 268 275	lesions
+T24	InjuryOrPoisoning 1155 1162	lesions
+T25	Finding 1653 1673	deeper understanding
+T26	DiseaseOrSyndrome 0 19	Alzheimer's disease
+T27	DiseaseOrSyndrome 21 23	AD
+T28	DiseaseOrSyndrome 556 558	AD
+T29	DiseaseOrSyndrome 585 587	AD
+T30	DiseaseOrSyndrome 820 822	AD
+T31	DiseaseOrSyndrome 941 943	AD
+T32	DiseaseOrSyndrome 964 966	AD
+T33	DiseaseOrSyndrome 1426 1428	AD
+T34	DiseaseOrSyndrome 1677 1679	AD
+T35	DiseaseOrSyndrome 81 89	dementia
+T36	DiseaseOrSyndrome 481 489	dementia
+T37	ResearchActivity 1638 1646	analysis
+T38	ResearchActivity 694 701	RNA-seq
+T39	PathologicFunction 101 110	pathology
+T40	BiomedicalOccupationOrDiscipline 101 110	pathology
+T41	BodyPartOrganOrOrganComponent 732 737	brain
+T42	BodyPartOrganOrOrganComponent 1063 1068	brain
+T43	OrganismAttribute 216 225	phenotype
+T44	BodyPartOrganOrOrganComponent 1303 1309	tissue
+T45	Finding 436 447	differences
+T46	PathologicFunction 1688 1700	pathogenesis
+T47	CellOrMolecularDysfunction 379 396	neurodegeneration
+T48	TemporalConcept 1336 1340	time
+T49	Finding 871 875	high
+T50	BodyPartOrganOrOrganComponent 1079 1090	hippocampus
+T51	PathologicFunction 783 793	pathogenic
+T52	BodyPartOrganOrOrganComponent 132 140	cortical
+T53	BiomedicalOccupationOrDiscipline 353 361	genetics
+T54	CellFunction 353 361	genetics
+T55	CellFunction 1459 1467	pathways
+T56	CellFunction 1164 1173	expressed
+T57	ResearchActivity 1213 1217	data
+T58	ResearchActivity 703 713	comparison
+T59	DiseaseOrSyndrome 588 591	LBD
+T60	DiseaseOrSyndrome 823 826	LBD
+T61	Finding 1001 1014	dysregulation
+T62	Finding 892 905	dysregulation
+T63	Finding 1271 1284	dysregulation
+T64	GeneOrGenome 827 842	causative genes
+T65	DiseaseOrSyndrome 944 947	LBD
+T66	Finding 1194 1207	dysregulation

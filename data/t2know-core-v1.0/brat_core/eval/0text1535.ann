@@ -1,0 +1,96 @@
+T0	DiseaseOrSyndrome 500 529	Normal Pressure Hydrocephalus
+T1	BiologicFunction 697 710	disinhibition
+T2	DiseaseOrSyndrome 697 710	disinhibition
+T3	BiologicFunction 796 817	executive functioning
+T4	Finding 1014 1036	clinically significant
+T5	Finding 1037 1047	elevations
+T6	SignOrSymptom 1594 1619	neuropsychiatric symptoms
+T7	Finding 256 268	presentation
+T8	HealthCareActivity 561 570	Caregiver
+T9	BiologicFunction 1852 1868	caregiver burden
+T10	HealthCareActivity 618 623	FrSBe
+T11	HealthCareActivity 1055 1060	FrSBe
+T12	DiseaseOrSyndrome 670 691	executive dysfunction
+T13	DiseaseOrSyndrome 1074 1095	executive dysfunction
+T14	DiseaseOrSyndrome 1397 1418	executive dysfunction
+T15	DiseaseOrSyndrome 1559 1580	executive dysfunction
+T16	DiseaseOrSyndrome 37 43	apathy
+T17	DiseaseOrSyndrome 662 668	apathy
+T18	DiseaseOrSyndrome 1063 1069	apathy
+T19	DiseaseOrSyndrome 1438 1444	apathy
+T20	DiseaseOrSyndrome 1548 1554	apathy
+T21	DiseaseOrSyndrome 76 116	idiopathic normal pressure hydrocephalus
+T22	DiseaseOrSyndrome 12 32	Cognitive impairment
+T23	SignOrSymptom 159 190	neuropsychiatric manifestations
+T24	ClinicalAttribute 1150 1168	cognitive measures
+T25	HealthCareActivity 921 928	imaging
+T26	PathologicFunction 680 691	dysfunction
+T27	HealthCareActivity 1204 1216	neuroimaging
+T28	AminoAcidPeptideOrProtein 964 967	tau
+T29	DiseaseOrSyndrome 309 328	Alzheimer's disease
+T30	BodyPartOrganOrOrganComponent 953 956	CSF
+T31	BodyPartOrganOrOrganComponent 1220 1223	CSF
+T32	BiologicallyActiveSubstance 964 967	tau
+T33	DiseaseOrSyndrome 330 332	AD
+T34	DiseaseOrSyndrome 352 354	AD
+T35	DiseaseOrSyndrome 819 821	AD
+T36	DiseaseOrSyndrome 1262 1264	AD
+T37	DiseaseOrSyndrome 1310 1312	AD
+T38	DiseaseOrSyndrome 1649 1651	AD
+T39	DiseaseOrSyndrome 1752 1754	AD
+T40	ClinicalAttribute 822 831	biomarker
+T41	BodyPartOrganOrOrganComponent 932 951	cerebrospinal fluid
+T42	PatientOrDisabledGroup 286 294	patients
+T43	PatientOrDisabledGroup 468 476	patients
+T44	PatientOrDisabledGroup 1180 1188	patients
+T45	AminoAcidPeptideOrProtein 958 967	total tau
+T46	BiologicallyActiveSubstance 958 967	total tau
+T47	ResearchActivity 1229 1233	data
+T48	TemporalConcept 1364 1371	current
+T49	ResearchActivity 134 142	research
+T50	ResearchActivity 1524 1532	research
+T51	ResearchActivity 1695 1703	research
+T52	AminoAcidPeptideOrProtein 864 871	amyloid
+T53	BiologicallyActiveSubstance 864 871	amyloid
+T54	ResearchActivity 361 366	study
+T55	AminoAcidPeptideOrProtein 864 876	amyloid-beta
+T56	PathologicFunction 1755 1764	pathology
+T57	BiomedicalOccupationOrDiscipline 1755 1764	pathology
+T58	ResearchActivity 988 995	Results
+T59	ResearchActivity 997 1004	Results
+T60	BiologicFunction 762 771	cognition
+T61	Finding 1732 1739	effects
+T62	BiologicFunction 387 400	understanding
+T63	HealthCareActivity 736 751	cognitive tests
+T64	ResearchActivity 736 751	cognitive tests
+T65	HealthCareActivity 916 919	PET
+T66	PatientOrDisabledGroup 712 720	Patients
+T67	Finding 832 838	status
+T68	PopulationGroup 1292 1297	group
+T69	PopulationGroup 1313 1318	group
+T70	OrganismAttribute 1768 1776	response
+T71	AminoAcidPeptideOrProtein 878 884	A beta
+T72	AminoAcidPeptideOrProtein 971 977	A beta
+T73	HealthCareActivity 886 914	positron emission tomography
+T74	ResearchActivity 1114 1126	correlations
+T75	SignOrSymptom 1804 1828	neuropsychiatric symptom
+T76	DiseaseOrSyndrome 118 122	iNPH
+T77	DiseaseOrSyndrome 194 198	iNPH
+T78	DiseaseOrSyndrome 281 285	iNPH
+T79	DiseaseOrSyndrome 339 343	iNPH
+T80	DiseaseOrSyndrome 404 430	neuropsychiatric syndromes
+T81	DiseaseOrSyndrome 447 451	iNPH
+T82	HealthCareActivity 586 616	Frontal Systems Behavior Scale
+T83	HealthCareRelatedOrganization 482 499	Butler Hospital's
+T84	HealthCareRelatedOrganization 500 536	Normal Pressure Hydrocephalus Clinic
+T85	HealthCareActivity 541 559	inclusion criteria
+T86	BiologicFunction 773 790	psychomotor speed
+T87	ClinicalAttribute 932 951;958 986	cerebrospinal fluid total tau to A beta-42 ratio
+T88	DiseaseOrSyndrome 1282 1286	iNPH
+T89	DiseaseOrSyndrome 1303 1307	iNPH
+T90	DiseaseOrSyndrome 1353 1360	illness
+T91	TemporalConcept 1349 1360	pre-illness
+T92	DiseaseOrSyndrome 1623 1627	iNPH
+T93	DiseaseOrSyndrome 1664 1686	dysexecutive behaviors
+T94	TemporalConcept 1688 1694	Future
+T95	DiseaseOrSyndrome 1800 1801	P

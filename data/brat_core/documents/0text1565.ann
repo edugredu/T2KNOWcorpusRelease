@@ -1,0 +1,74 @@
+T0	CellFunction 73 87	glucose uptake
+T1	BodyPartOrganOrOrganComponent 106 125	posterior cingulate
+T2	DiseaseOrSyndrome 194 211	brain amyloidosis
+T3	ResearchActivity 389 400	single-case
+T4	HealthCareActivity 593 600	FDG-PET
+T5	HealthCareActivity 852 865	GE Healthcare
+T6	HealthCareActivity 876 881	scans
+T7	DiseaseOrSyndrome 1334 1353	progressive aphasia
+T8	Finding 1538 1557	PCTP hypometabolism
+T9	GeneOrGenome 1725 1728	CBS
+T10	PathologicFunction 1463 1484	non-amyloid pathology
+T11	ClinicalAttribute 1370 1386	clinical profile
+T12	Chemical 73 80	glucose
+T13	PharmacologicSubstance 73 80	glucose
+T14	BiologicallyActiveSubstance 73 80	glucose
+T15	OrganismAttribute 371 381	phenotypes
+T16	Finding 961 969	validity
+T17	HealthCareActivity 601 605	scan
+T18	BiologicFunction 73 87	glucose uptake
+T19	AminoAcidPeptideOrProtein 301 308	amyloid
+T20	AminoAcidPeptideOrProtein 323 330	amyloid
+T21	AminoAcidPeptideOrProtein 520 527	amyloid
+T22	AminoAcidPeptideOrProtein 1467 1474	amyloid
+T23	AminoAcidPeptideOrProtein 1588 1595	amyloid
+T24	BiologicallyActiveSubstance 301 308	amyloid
+T25	BiologicallyActiveSubstance 323 330	amyloid
+T26	BiologicallyActiveSubstance 520 527	amyloid
+T27	BiologicallyActiveSubstance 1467 1474	amyloid
+T28	BiologicallyActiveSubstance 1588 1595	amyloid
+T29	DiseaseOrSyndrome 273 275	AD
+T30	DiseaseOrSyndrome 368 370	AD
+T31	DiseaseOrSyndrome 1425 1427	AD
+T32	DiseaseOrSyndrome 1624 1626	AD
+T33	DiseaseOrSyndrome 1715 1717	AD
+T34	BodyPartOrganOrOrganComponent 536 555	cerebrospinal fluid
+T35	HealthCareActivity 559 566	amy-PET
+T36	DiseaseOrSyndrome 456 476	cognitive impairment
+T37	DiseaseOrSyndrome 252 271	Alzheimer's Disease
+T38	DiseaseOrSyndrome 229 237	dementia
+T39	HealthCareActivity 1575 1584	diagnosis
+T40	ClinicalAttribute 1442 1452	biomarkers
+T41	Finding 1615 1623	atypical
+T42	PatientOrDisabledGroup 215 223	patients
+T43	PatientOrDisabledGroup 340 348	patients
+T44	PatientOrDisabledGroup 424 450	neurodegenerative patients
+T45	PatientOrDisabledGroup 890 898	patients
+T46	PatientOrDisabledGroup 1697 1705	patients
+T47	ResearchActivity 15 20	study
+T48	DiseaseOrSyndrome 241 244	MCI
+T49	Finding 1100 1111	sensitivity
+T50	Finding 1179 1190	sensitivity
+T51	Finding 1133 1144	specificity
+T52	Finding 1206 1217	specificity
+T53	PathologicFunction 1596 1611	pathophysiology
+T54	BiomedicalOccupationOrDiscipline 1596 1611	pathophysiology
+T55	Finding 1065 1073	accuracy
+T56	HealthCareActivity 1671 1681	assessment
+T57	ResearchActivity 1671 1681	assessment
+T58	ClinicalAttribute 528 534	marker
+T59	ManufacturedObject 396 400	case
+T60	BodyPartOrganOrOrganComponent 95 104	precuneus
+T61	BodyPartOrganOrOrganComponent 133 156	temporo-parietal cortex
+T62	HealthCareRelatedOrganization 785 818	Italian National Research Council
+T63	HealthCareActivity 639 677	visual interpretation of uptake images
+T64	HealthCareActivity 679 683	VIUI
+T65	ResearchActivity 719 760	semi-automated and semi-quantitative tool
+T66	ResearchActivity 762 767	INLAB
+T67	ResearchActivity 823 838	Cortex ID Suite
+T68	BodyPartOrganOrOrganComponent 1357 1369	corticobasal
+T69	Finding 1285 1327	asymmetric temporo-parietal hypometabolism
+T70	Finding 1744 1786	asymmetric temporo-parietal hypometabolism
+T71	ResearchActivity 924 928	VIUI
+T72	ResearchActivity 932 937	INLAB
+T73	BodyPartOrganOrOrganComponent 158 162	PCTP

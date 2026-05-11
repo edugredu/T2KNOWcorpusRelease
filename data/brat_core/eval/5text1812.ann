@@ -1,0 +1,7 @@
+T0	CellOrMolecularDysfunction 85 102	neurodegeneration
+T1	Finding 130 141	specificity
+T2	CellFunction 111 119	pathways
+T3	NucleicAcidNucleosideOrNucleotide 13 16	RNA
+T4	HealthCareActivity 23 35	therapeutics
+T5	Finding 125 129	high
+T6	Virus 0 3	AAV

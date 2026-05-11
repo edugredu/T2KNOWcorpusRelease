@@ -1,0 +1,6 @@
+T0	DiseaseOrSyndrome 110 137	neurodegenerative disorders
+T1	ResearchActivity 4 9	study
+T2	DiseaseOrSyndrome 147 166	Alzheimer's disease
+T3	Substance 21 30	specimens
+T4	BodyPartOrganOrOrganComponent 13 20	retinal
+T5	Finding 64 81	molecular changes

@@ -1,0 +1,197 @@
+T0	ResearchActivity 5 30	randomized clinical trial
+T1	TemporalConcept 45 55	short-term
+T2	Chemical 67 78	atabecestat
+T3	TemporalConcept 135 145	short-term
+T4	Chemical 157 168	atabecestat
+T5	PathologicFunction 216 231	adverse effects
+T6	PharmacologicSubstance 249 257	stopping
+T7	ResearchActivity 296 321	randomized clinical trial
+T8	Chemical 363 374	atabecestat
+T9	PathologicFunction 510 513	AEs
+T10	PharmacologicSubstance 697 705	stopping
+T11	Chemical 706 717	atabecestat
+T12	Chemical 916 927	Atabecestat
+T13	PathologicFunction 1191 1194	AEs
+T14	Chemical 1294 1305	atabecestat
+T15	BiologicFunction 1396 1403	Setting
+T16	ResearchActivity 1422 1432	Randomized
+T17	Finding 1422 1432	Randomized
+T18	HealthCareActivity 1697 1705	protocol
+T19	HealthCareActivity 1989 2002	Interventions
+T20	Chemical 2043 2054	atabecestat
+T21	HealthCareActivity 2276 2300	Cognitive Function Index
+T22	ResearchActivity 2395 2401	Safety
+T23	PathologicFunction 2585 2604	hepatic-related AEs
+T24	Chemical 2664 2675	Atabecestat
+T25	TemporalConcept 2783 2788	month
+T26	TemporalConcept 2867 2872	month
+T27	TemporalConcept 2945 2950	month
+T28	HealthCareActivity 3086 3110	Cognitive Function Index
+T29	TemporalConcept 3165 3170	month
+T30	PathologicFunction 3232 3235	AEs
+T31	Chemical 3252 3263	atabecestat
+T32	PathologicFunction 3341 3343	AE
+T33	TemporalConcept 3376 3389	reversibility
+T34	PathologicFunction 3430 3433	AEs
+T35	Chemical 3437 3448	atabecestat
+T36	Chemical 3483 3494	Atabecestat
+T37	TemporalConcept 3653 3666	reversibility
+T38	Finding 453 472	cognitive worsening
+T39	Finding 757 779	dose-related worsening
+T40	Finding 1134 1153	cognitive worsening
+T41	Finding 2703 2722	cognitive worsening
+T42	Finding 3137 3161	nonsignificant worsening
+T43	Finding 3406 3425	cognitive worsening
+T44	Finding 3538 3557	cognitive worsening
+T45	BiologicallyActiveSubstance 964 973	inhibitor
+T46	PharmacologicSubstance 964 973	inhibitor
+T47	Chemical 964 973	inhibitor
+T48	HealthCareActivity 1754 1762	screened
+T49	ResearchActivity 1754 1762	screened
+T50	PopulationGroup 2476 2481	women
+T51	BiologicFunction 860 868	recovery
+T52	BiologicFunction 1341 1349	recovery
+T53	HealthCareActivity 860 868	recovery
+T54	HealthCareActivity 1341 1349	recovery
+T55	TemporalConcept 860 868	recovery
+T56	TemporalConcept 1341 1349	recovery
+T57	ResearchActivity 2833 2835	CI
+T58	ResearchActivity 2907 2909	CI
+T59	ResearchActivity 3055 3057	CI
+T60	HealthCareActivity 2116 2124	Outcomes
+T61	BiologicFunction 1378 1386	behavior
+T62	IndividualBehavior 1378 1386	behavior
+T63	ResearchActivity 1378 1386	behavior
+T64	PharmacologicSubstance 3393 3397	drug
+T65	HealthCareActivity 558 578	cognitive assessment
+T66	TemporalConcept 1850 1854	aged
+T67	PopulationGroup 3111 3122	participant
+T68	TemporalConcept 1944 1950	before
+T69	ResearchActivity 2438 2445	Results
+T70	AminoAcidPeptideOrProtein 1781 1788	amyloid
+T71	BiologicallyActiveSubstance 1781 1788	amyloid
+T72	DiseaseOrSyndrome 203 205	AD
+T73	ClinicalAttribute 1239 1248	biomarker
+T74	PopulationGroup 329 341	participants
+T75	PopulationGroup 841 853	participants
+T76	PopulationGroup 1041 1053	participants
+T77	PopulationGroup 1763 1775	participants
+T78	PopulationGroup 1868 1880	participants
+T79	PopulationGroup 2453 2465	participants
+T80	PopulationGroup 2606 2618	participants
+T81	Finding 599 624	baseline cognitive status
+T82	DiseaseOrSyndrome 1020 1037	cognitive decline
+T83	Finding 2238 2246	outcomes
+T84	PopulationGroup 3264 3270	groups
+T85	PopulationGroup 3449 3455	groups
+T86	TemporalConcept 630 639	frequency
+T87	OrganismAttribute 2501 2504	age
+T88	HealthCareActivity 3319 3336	cognitive testing
+T89	HealthCareActivity 1227 1233	safety
+T90	HealthCareActivity 1718 1724	safety
+T91	TemporalConcept 1468 1473	phase
+T92	HealthCareActivity 3309 3318	follow-up
+T93	TemporalConcept 3309 3318	follow-up
+T94	PopulationGroup 1409 1421	Participants
+T95	PopulationGroup 1624 1636	Participants
+T96	PopulationGroup 2003 2015	Participants
+T97	Finding 3364 3372	evidence
+T98	Finding 3641 3649	evidence
+T99	ResearchActivity 732 737	study
+T100	ResearchActivity 1479 1484	study
+T101	ResearchActivity 1568 1573	study
+T102	ResearchActivity 2431 2436	study
+T103	ResearchActivity 2541 2546	study
+T104	TemporalConcept 1861 1866	years
+T105	TemporalConcept 2521 2526	years
+T106	DiseaseOrSyndrome 347 361	preclinical AD
+T107	ResearchActivity 1738 1742	data
+T108	Finding 1799 1817	cognitively normal
+T109	TemporalConcept 2570 2575	early
+T110	TemporalConcept 3561 3566	early
+T111	ResearchActivity 1434 1446	double-blind
+T112	ResearchActivity 1448 1466	placebo-controlled
+T113	HealthCareActivity 518 525	placebo
+T114	HealthCareActivity 676 683	placebo
+T115	HealthCareActivity 1448 1455	placebo
+T116	HealthCareActivity 2092 2099	placebo
+T117	HealthCareActivity 2726 2733	placebo
+T118	HealthCareActivity 3274 3281	placebo
+T119	ResearchActivity 996 1007	EARLY trial
+T120	ResearchActivity 1265 1276	EARLY trial
+T121	ResearchActivity 1955 1960	trial
+T122	BiologicFunction 783 792	cognition
+T123	BiologicFunction 1364 1373	cognition
+T124	TemporalConcept 883 889	months
+T125	TemporalConcept 2656 2662	months
+T126	TemporalConcept 3572 3578	months
+T127	TemporalConcept 3675 3681	months
+T128	Finding 3583 3591	presence
+T129	HealthCareActivity 3344 3354	assessment
+T130	ResearchActivity 3344 3354	assessment
+T131	Finding 146 153	effects
+T132	ResearchActivity 2497 2499	SD
+T133	HealthCareActivity 1210 1216	report
+T134	HealthCareActivity 3123 3129	report
+T135	ResearchActivity 1210 1216	report
+T136	ResearchActivity 3123 3129	report
+T137	ResearchActivity 1102 1110	analyses
+T138	DiseaseOrSyndrome 82 111	preclinical Alzheimer disease
+T139	DiseaseOrSyndrome 172 201	preclinical Alzheimer disease
+T140	DiseaseOrSyndrome 1059 1089	preclinical Alzheimer disease.
+T141	HealthCareActivity 1977 1987	enrollment
+T142	HealthCareActivity 258 267	treatment
+T143	HealthCareActivity 375 384	treatment
+T144	HealthCareActivity 548 557	treatment
+T145	HealthCareActivity 890 903	off treatment
+T146	HealthCareActivity 1306 1315	treatment
+T147	HealthCareActivity 1671 1680	treatment
+T148	HealthCareActivity 2640 2649	treatment
+T149	HealthCareActivity 3213 3222	treatment
+T150	HealthCareActivity 3298 3307	treatment
+T151	HealthCareActivity 3495 3504	treatment
+T152	HealthCareActivity 3595 3621	neuropsychiatric treatment
+T153	HealthCareActivity 3682 3695	off treatment
+T154	ResearchActivity 258 267	treatment
+T155	ResearchActivity 375 384	treatment
+T156	ResearchActivity 548 557	treatment
+T157	ResearchActivity 1306 1315	treatment
+T158	ResearchActivity 1671 1680	treatment
+T159	ResearchActivity 2640 2649	treatment
+T160	ResearchActivity 3213 3222	treatment
+T161	ResearchActivity 3298 3307	treatment
+T162	ResearchActivity 3495 3504	treatment
+T163	Finding 2221 2226	score
+T164	Finding 2388 2393	score
+T165	PharmacologicSubstance 67 78	atabecestat
+T166	PharmacologicSubstance 157 168	atabecestat
+T167	PharmacologicSubstance 706 717	atabecestat
+T168	PharmacologicSubstance 363 374	atabecestat
+T169	PharmacologicSubstance 916 927	Atabecestat
+T170	PharmacologicSubstance 1294 1305	atabecestat
+T171	PharmacologicSubstance 2043 2054	atabecestat
+T172	PharmacologicSubstance 3252 3263	atabecestat
+T173	PharmacologicSubstance 2664 2675	Atabecestat
+T174	PharmacologicSubstance 3437 3448	atabecestat
+T175	PharmacologicSubstance 3483 3494	Atabecestat
+T176	Finding 56 63	effects
+T177	PathologicFunction 477 508	neuropsychiatric adverse events
+T178	PathologicFunction 643 663	neuropsychiatric AEs
+T179	PathologicFunction 797 817	neuropsychiatric AEs
+T180	PharmacologicSubstance 821 832	atabecestat
+T181	Chemical 821 832	atabecestat
+T182	BiologicallyActiveSubstance 949 963	beta-secretase
+T183	AminoAcidPeptideOrProtein 949 963	beta-secretase
+T184	PathologicFunction 1158 1189	neuropsychiatric adverse events
+T185	Finding 1217 1225	efficacy
+T186	TemporalConcept 1500 1513	November 2015
+T187	TemporalConcept 1517 1530	December 2018
+T188	TemporalConcept 1551 1562	prematurely
+T189	Finding 1729 1737	efficacy
+T190	HealthCareActivity 1819 1843	Clinical Dementia Rating
+T191	HealthCareActivity 2179 2220	Preclinical Alzheimer Cognitive Composite
+T192	HealthCareActivity 2309 2387	Repeatable Battery for the Assessment of Neuropsychological Status total scale
+T193	TemporalConcept 2531 2539	May 2018
+T194	HealthCareActivity 2738 2779	Preclinical Alzheimer Cognitive Composite
+T195	HealthCareActivity 2957 3023	Repeatable Battery for the Assessment of Neuropsychological Status
+T196	PathologicFunction 3631 3634	AEs

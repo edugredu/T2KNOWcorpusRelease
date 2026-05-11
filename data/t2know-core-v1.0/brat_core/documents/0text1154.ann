@@ -1,0 +1,92 @@
+T0	TemporalConcept 52 61	childhood
+T1	Finding 167 182	premature death
+T2	GeneOrGenome 243 247;256 260	Npc1 gene
+T3	GeneOrGenome 251 260	Npc2 gene
+T4	CellComponent 310 324	late endosomes
+T5	PathologicFunction 719 735	dysfunctionality
+T6	BodyPartOrganOrOrganComponent 794 808	choroid plexus
+T7	OrganismAttribute 830 843	functionality
+T8	BodyPartOrganOrOrganComponent 1382 1393	supernatant
+T9	PathologicFunction 1522 1534	microgliosis
+T10	BodyPartOrganOrOrganComponent 1613 1627	choroid plexus
+T11	ResearchActivity 402 410	spectrum
+T12	ResearchActivity 425 443	disease mechanisms
+T13	CellComponent 329 338	lysosomes
+T14	CellComponent 1129 1143	autophagosomes
+T15	Cell 21 24	NPC
+T16	Cell 530 533	NPC
+T17	PathologicFunction 1539 1551	astrogliosis
+T18	Finding 495 502	finding
+T19	BodyPartOrganOrOrganComponent 976 990	choroid plexus
+T20	BodyPartOrganOrOrganComponent 1003 1006	CPE
+T21	TemporalConcept 310 314	late
+T22	IndividualBehavior 1037 1046	integrity
+T23	CellComponent 1170 1192	extracellular vesicles
+T24	DiseaseOrSyndrome 625 644	Alzheimer's disease
+T25	CellComponent 1194 1197	EVs
+T26	CellComponent 1264 1267	EVs
+T27	CellComponent 1361 1364	EVs
+T28	CellComponent 1636 1639	EVs
+T29	DiseaseOrSyndrome 646 648	AD
+T30	DiseaseOrSyndrome 695 697	AD
+T31	PatientOrDisabledGroup 530 542	NPC patients
+T32	BodyPartOrganOrOrganComponent 770 773	CSF
+T33	BodyPartOrganOrOrganComponent 1202 1205	CSF
+T34	BodyPartOrganOrOrganComponent 1632 1635	CSF
+T35	PathologicFunction 870 884	NPC1 pathology
+T36	PathologicFunction 1211 1225	NPC1 pathology
+T37	PathologicFunction 1464 1473	pathology
+T38	BiomedicalOccupationOrDiscipline 1464 1473	pathology
+T39	BodyPartOrganOrOrganComponent 1458 1463	brain
+T40	BodyPartOrganOrOrganComponent 1665 1670	brain
+T41	BodyPartOrganOrOrganComponent 743 768;775 782	blood-cerebrospinal fluid barrier
+T42	BodyPartOrganOrOrganComponent 1019 1036	blood-CSF barrier
+T43	Cell 1147 1156	CPE cells
+T44	Finding 290 302	accumulation
+T45	BodyPartOrganOrOrganComponent 749 768	cerebrospinal fluid
+T46	BodyPartOrganOrOrganComponent 1291 1303	brain tissue
+T47	TemporalConcept 1593 1598	first
+T48	DiseaseOrSyndrome 62 73	Alzheimer's
+T49	CellFunction 957 972	gene expression
+T50	HealthCareActivity 516 525	treatment
+T51	ResearchActivity 516 525	treatment
+T52	InjuryOrPoisoning 1274 1279	toxic
+T53	CellFunction 962 972	expression
+T54	TemporalConcept 80 84	rare
+T55	ResearchActivity 1305 1313	in vitro
+T56	PathologicFunction 1679 1691	pathogenesis
+T57	BiologicFunction 177 182	death
+T58	PathologicFunction 177 182	death
+T59	CellFunction 177 182	death
+T60	CellOrMolecularDysfunction 138 155	neurodegeneration
+T61	TemporalConcept 126 137	progressive
+T62	TemporalConcept 1599 1603	time
+T63	ResearchActivity 1325 1332	in vivo
+T64	Chemical 99 104	lipid
+T65	Chemical 284 289	lipid
+T66	CellComponent 315 324	endosomes
+T67	Finding 1280 1287	effects
+T68	InjuryOrPoisoning 1274 1287	toxic effects
+T69	ResearchActivity 1573 1577	data
+T70	CellFunction 559 568	mutations
+T71	CellOrMolecularDysfunction 209 235	loss-of-function mutations
+T72	CellOrMolecularDysfunction 554 568	NPC1 mutations
+T73	GeneOrGenome 957 961	gene
+T74	BodyPartOrganOrOrganComponent 1407 1421	choroid plexus
+T75	DiseaseOrSyndrome 0 19;26 33	Niemann-Pick type C disease
+T76	DiseaseOrSyndrome 85 120	neurovisceral lipid storage disease
+T77	TemporalConcept 167 176	premature
+T78	BodyPartOrganOrOrganComponent 859 866	barrier
+T79	Cell 1008 1013;976 1001	cells choroid plexus epithelial
+T80	AminoAcidPeptideOrProtein 1397 1401	NPC1
+T81	GeneOrGenome 1397 1401	NPC1
+T82	HealthCareActivity 1422 1430	explants
+T83	ExperimentalModelOfDisease 892 906	NPC1(-/-) mice
+T84	PathologicFunction 944 956	inflammatory
+T85	BiologicallyActiveSubstance 1397 1401	NPC1
+T86	BiologicallyActiveSubstance 1695 1699	NPC1
+T87	AminoAcidPeptideOrProtein 1695 1699	NPC1
+T88	GeneOrGenome 1695 1699	NPC1
+T89	GeneOrGenome 1493 1497	NPC1
+T90	BiologicallyActiveSubstance 1493 1497	NPC1
+T91	AminoAcidPeptideOrProtein 1493 1497	NPC1

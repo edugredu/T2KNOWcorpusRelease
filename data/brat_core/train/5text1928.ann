@@ -1,0 +1,8 @@
+T0	DiseaseOrSyndrome 63 89	neurodegenerative disorder
+T1	ResearchActivity 198 206	analysis
+T2	ResearchActivity 90 98	research
+T3	HealthCareActivity 120 138	early intervention
+T4	HealthCareActivity 103 107	care
+T5	MachineActivity 0 14	ASR technology
+T6	HealthCareActivity 148 181	personalized treatment approaches
+T7	BiologicFunction 191 197	speech

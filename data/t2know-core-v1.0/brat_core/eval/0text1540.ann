@@ -1,0 +1,101 @@
+T0	DiseaseOrSyndrome 12 19	Obesity
+T1	DiseaseOrSyndrome 261 268	obesity
+T2	DiseaseOrSyndrome 389 396	obesity
+T3	DiseaseOrSyndrome 443 451	disorder
+T4	Finding 707 717	overweight
+T5	Finding 722 727	obese
+T6	PathologicFunction 872 877	edema
+T7	BodyPartOrganOrOrganComponent 893 912	white matter tracts
+T8	GeneOrGenome 1035 1041	SNAP25
+T9	AminoAcidPeptideOrProtein 1035 1041	SNAP25
+T10	AminoAcidPeptideOrProtein 1043 1048	VILIP
+T11	PathologicFunction 1121 1126	edema
+T12	BodyPartOrganOrOrganComponent 1246 1262	internal capsule
+T13	BodyPartOrganOrOrganComponent 1264 1280	external capsule
+T14	BodyPartOrganOrOrganComponent 1286 1300	corona radiata
+T15	PathologicFunction 1377 1382	edema
+T16	BodyPartOrganOrOrganComponent 1400 1416	internal capsule
+T17	PathologicFunction 1638 1643	edema
+T18	Finding 1714 1739	significant relationships
+T19	Finding 1593 1617	significant correlations
+T20	BiologicallyActiveSubstance 1059 1062	NFL
+T21	AminoAcidPeptideOrProtein 1059 1062	NFL
+T22	BodyPartOrganOrOrganComponent 1418 1433	corpus callosum
+T23	HealthCareActivity 535 539	MRIs
+T24	AminoAcidPeptideOrProtein 1027 1033	YKL-40
+T25	BiologicallyActiveSubstance 1027 1033	YKL-40
+T26	IndividualBehavior 154 163	integrity
+T27	Finding 679 685	normal
+T28	Finding 1164 1170	normal
+T29	HealthCareActivity 290 297	imaging
+T30	HealthCareActivity 850 857	imaging
+T31	PathologicFunction 991 1003	inflammation
+T32	PathologicFunction 1884 1895	dysfunction
+T33	BodyPartOrganOrOrganComponent 748 753	Blood
+T34	HealthCareActivity 47 59	neuroimaging
+T35	BiologicFunction 785 799	blood pressure
+T36	BiologicFunction 1171 1185	blood pressure
+T37	BiologicFunction 748 762	Blood pressure
+T38	Finding 457 468	risk factor
+T39	ClinicalAttribute 620 631	CSF amyloid
+T40	BodyPartOrganOrOrganComponent 92 103	gray matter
+T41	ClinicalAttribute 671 674	BMI
+T42	ClinicalAttribute 687 690	BMI
+T43	ClinicalAttribute 729 732	BMI
+T44	ClinicalAttribute 777 780	BMI
+T45	ClinicalAttribute 1091 1094	BMI
+T46	ClinicalAttribute 1554 1557	BMI
+T47	ClinicalAttribute 1776 1779	BMI
+T48	ClinicalAttribute 654 669	body mass index
+T49	BodyPartOrganOrOrganComponent 654 658	body
+T50	AminoAcidPeptideOrProtein 635 638	tau
+T51	AminoAcidPeptideOrProtein 1050 1053	tau
+T52	DiseaseOrSyndrome 473 492	Alzheimer's disease
+T53	BodyPartOrganOrOrganComponent 620 623	CSF
+T54	BodyPartOrganOrOrganComponent 973 976	CSF
+T55	BodyPartOrganOrOrganComponent 1657 1660	CSF
+T56	BiologicallyActiveSubstance 635 638	tau
+T57	BiologicallyActiveSubstance 1050 1053	tau
+T58	DiseaseOrSyndrome 494 496	AD
+T59	ClinicalAttribute 595 604	biomarker
+T60	BodyPartOrganOrOrganComponent 315 320	brain
+T61	BodyPartOrganOrOrganComponent 529 534	brain
+T62	BodyPartOrganOrOrganComponent 1878 1883	brain
+T63	PathologicFunction 272 289	neuroinflammation
+T64	PathologicFunction 368 385	neuroinflammation
+T65	PathologicFunction 832 849	neuroinflammation
+T66	PathologicFunction 1748 1765	neuroinflammation
+T67	PathologicFunction 1830 1847	neuroinflammation
+T68	PopulationGroup 568 580	participants
+T69	PopulationGroup 1537 1548	individuals
+T70	AminoAcidPeptideOrProtein 624 631	amyloid
+T71	BiologicallyActiveSubstance 624 631	amyloid
+T72	DiseaseOrSyndrome 498 506	dementia
+T73	ClinicalAttribute 977 987	biomarkers
+T74	ClinicalAttribute 1661 1671	biomarkers
+T75	ResearchActivity 1064 1071	Results
+T76	PopulationGroup 1073 1085	Participants
+T77	Finding 549 567	cognitively normal
+T78	Finding 1899 1917	cognitively normal
+T79	Finding 1142 1160	protective effects
+T80	PopulationGroup 1918 1925	elderly
+T81	BiologicFunction 410 423	understanding
+T82	CellOrMolecularDysfunction 1008 1025	neurodegeneration
+T83	BodyPartOrganOrOrganComponent 125 137	white matter
+T84	BodyPartOrganOrOrganComponent 1213 1232	white matter tracts
+T85	ResearchActivity 520 528	analyzed
+T86	ClinicalAttribute 1785 1803	hippocampal volume
+T87	Finding 34 73	quantitative neuroimaging abnormalities
+T88	ClinicalAttribute 125 163	white matter microstructural integrity
+T89	ClinicalAttribute 92 111	gray matter volumes
+T90	ClinicalAttribute 620 623;635 638	CSF tau
+T91	ClinicalAttribute 949 968	hippocampal volumes
+T92	BiologicallyActiveSubstance 1035 1041	SNAP25
+T93	BiologicallyActiveSubstance 1043 1048	VILIP
+T94	BodyPartOrganOrOrganComponent 1435 1440	gyrus
+T95	BodyPartOrganOrOrganComponent 1446 1482	superior fronto-occipital fasciculus
+T96	ClinicalAttribute 1509 1528	hippocampal volumes
+T97	DiseaseOrSyndrome 1862 1869	obesity
+T98	ClinicalAttribute 872 886	edema fraction
+T99	ClinicalAttribute 1638 1652	edema fraction
+T100	ClinicalAttribute 1121 1135	edema fraction

@@ -1,0 +1,10 @@
+T0	DiseaseOrSyndrome 160 179	Parkinson's disease
+T1	BodyPartOrganOrOrganComponent 132 137	brain
+T2	TemporalConcept 143 150	current
+T3	ResearchActivity 180 188	research
+T4	Finding 113 124	propagation
+T5	Bacterium 26 45	Helicobacter pylori
+T6	BodyPartOrganOrOrganComponent 90 93	gut
+T7	AminoAcidPeptideOrProtein 59 70	α-synuclein
+T8	BiologicallyActiveSubstance 59 70	α-synuclein
+T9	Finding 71 82	aggregation

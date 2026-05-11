@@ -1,0 +1,10 @@
+T0	CellOrMolecularDysfunction 119 136	neurodegeneration
+T1	DiseaseOrSyndrome 141 158	cognitive decline
+T2	BodyPartOrganOrOrganComponent 70 89	blood-brain barrier
+T3	Chemical 0 7	Tobacco
+T4	EnvironmentalEffectOfHumans 8 23	smoke pollution
+T5	EnvironmentalEffectOfHumans 0 23	Tobacco smoke pollution
+T6	Substance 0 13	Tobacco smoke
+T7	InjuryOrPoisoning 33 50	harmful chemicals
+T8	InjuryOrPoisoning 0 7	Tobacco
+T9	Chemical 33 50	harmful chemicals

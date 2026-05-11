@@ -1,0 +1,61 @@
+T0	DiseaseOrSyndrome 302 309	deficit
+T1	NucleicAcidNucleosideOrNucleotide 387 408	small, non-coding RNA
+T2	DiseaseOrSyndrome 443 463	autoimmune disorders
+T3	BiologicFunction 339 348	attention
+T4	PathologicFunction 232 241	disrupted
+T5	BiologicallyActiveSubstance 728 738	inhibitory
+T6	BodyPartOrganOrOrganComponent 84 106	central nervous system
+T7	BodyPartOrganOrOrganComponent 196 199	CNS
+T8	NucleicAcidNucleosideOrNucleotide 431 437	miRNAs
+T9	NucleicAcidNucleosideOrNucleotide 518 524	miRNAs
+T10	NucleicAcidNucleosideOrNucleotide 609 615	miRNAs
+T11	NucleicAcidNucleosideOrNucleotide 811 817	miRNAs
+T12	BiologicallyActiveSubstance 431 437	miRNAs
+T13	BiologicallyActiveSubstance 518 524	miRNAs
+T14	BiologicallyActiveSubstance 609 615	miRNAs
+T15	BiologicallyActiveSubstance 811 817	miRNAs
+T16	HealthCareActivity 870 880	challenges
+T17	HealthCareActivity 953 965	therapeutics
+T18	ResearchActivity 487 493	review
+T19	HealthCareActivity 487 493	review
+T20	ResearchActivity 821 840	therapeutic targets
+T21	TemporalConcept 252 261	currently
+T22	TemporalConcept 321 326	years
+T23	PopulationGroup 802 807	state
+T24	TemporalConcept 794 801	current
+T25	TemporalConcept 862 869	current
+T26	BiologicFunction 144 149	death
+T27	PathologicFunction 144 149	death
+T28	CellFunction 144 149	death
+T29	ResearchActivity 895 905	strategies
+T30	BiologicFunction 895 905	strategies
+T31	HealthCareActivity 275 285	treatments
+T32	ResearchActivity 275 285	treatments
+T33	Cell 107 114	neurons
+T34	TemporalConcept 314 326	recent years
+T35	Substance 409 418	molecules
+T36	DiseaseOrSyndrome 30 49	autoimmune disorder
+T37	CellFunction 139 149	cell death
+T38	CellFunction 528 541	remyelination
+T39	DiseaseOrSyndrome 20 22	MS
+T40	DiseaseOrSyndrome 245 247	MS
+T41	DiseaseOrSyndrome 475 477	MS
+T42	DiseaseOrSyndrome 589 591	MS
+T43	DiseaseOrSyndrome 844 846	MS
+T44	DiseaseOrSyndrome 998 1000	MS
+T45	PathologicFunction 67 80	demyelination
+T46	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T47	Cell 559 569	cell types
+T48	Finding 328 338	increasing
+T49	BiologicallyActiveSubstance 387 408	small, non-coding RNA
+T50	BiologicFunction 203 209	repair
+T51	BiologicFunction 658 664	repair
+T52	BiologicFunction 977 983	repair
+T53	HealthCareActivity 203 209	repair
+T54	HealthCareActivity 658 664	repair
+T55	HealthCareActivity 977 983	repair
+T56	NucleicAcidNucleosideOrNucleotide 420 429	microRNAs
+T57	BiologicallyActiveSubstance 420 429	microRNAs
+T58	Finding 154 164	disability
+T59	InjuryOrPoisoning 131 137	damage
+T60	InjuryOrPoisoning 215 221	damage

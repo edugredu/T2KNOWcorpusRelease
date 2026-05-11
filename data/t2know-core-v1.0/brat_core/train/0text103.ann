@@ -1,0 +1,68 @@
+T0	DiseaseOrSyndrome 40 78	age-related neurodegenerative diseases
+T1	Finding 108 135	lack of effective treatment
+T2	HealthCareActivity 180 214	health, social and economic crisis
+T3	Finding 290 299	knowledge
+T4	PathologicFunction 307 336	pathophysiological mechanisms
+T5	AminoAcidPeptideOrProtein 456 477	metzincin superfamily
+T6	GeneOrGenome 456 477	metzincin superfamily
+T7	GeneOrGenome 481 499	metalloproteinases
+T8	AminoAcidPeptideOrProtein 509 534	matrix metalloproteinases
+T9	GeneOrGenome 509 534	matrix metalloproteinases
+T10	GeneOrGenome 544 577	disintegrin and metalloproteinase
+T11	AminoAcidPeptideOrProtein 544 577	disintegrin and metalloproteinase
+T12	BiologicFunction 688 709	regulate the function
+T13	InjuryOrPoisoning 806 836	blood-brain barrier disruption
+T14	CellOrMolecularDysfunction 838 856	protein misfolding
+T15	CellOrMolecularDysfunction 858 878	synaptic dysfunction
+T16	CellFunction 882 896	neuronal death
+T17	AminoAcidPeptideOrProtein 898 916	Metalloproteinases
+T18	BiologicallyActiveSubstance 898 916	Metalloproteinases
+T19	Chemical 927 951	physiological inhibitors
+T20	DiseaseOrSyndrome 1089 1116	neurodegenerative processes
+T21	ResearchActivity 1181 1210	overview of current knowledge
+T22	CellFunction 1227 1259	regulation of metalloproteinases
+T23	AminoAcidPeptideOrProtein 1241 1259	metalloproteinases
+T24	BiologicallyActiveSubstance 1241 1259	metalloproteinases
+T25	DiseaseOrSyndrome 1312 1331	Alzheimer's disease
+T26	DiseaseOrSyndrome 1333 1352	Parkinson's disease
+T27	DiseaseOrSyndrome 1354 1383	amyotrophic lateral sclerosis
+T28	BiologicallyActiveSubstance 481 499	metalloproteinases
+T29	CellFunction 637 647	multigenic
+T30	AminoAcidPeptideOrProtein 599 620	thrombospondin motifs
+T31	ResearchActivity 364 393	identification of new targets
+T32	Finding 1132 1165	potential new therapeutic targets
+T33	BiologicallyActiveSubstance 668 687	proteinase families
+T34	AminoAcidPeptideOrProtein 957 1004	tissue inhibitors of metalloproteinases (TIMPs)
+T35	BiologicallyActiveSubstance 957 1004	tissue inhibitors of metalloproteinases (TIMPs)
+T36	PharmacologicSubstance 957 1004	tissue inhibitors of metalloproteinases (TIMPs)
+T37	BiologicallyActiveSubstance 509 534	matrix metalloproteinases
+T38	BiologicallyActiveSubstance 544 577	disintegrin and metalloproteinase
+T39	BiologicallyActiveSubstance 456 477	metzincin superfamily
+T40	BiologicallyActiveSubstance 738 774	signalling and scaffolding molecules
+T41	HealthCareActivity 417 450	innovative therapeutic strategies
+T42	AminoAcidPeptideOrProtein 579 583	ADAM
+T43	AminoAcidPeptideOrProtein 589 593	ADAM
+T44	GeneOrGenome 579 583	ADAM
+T45	GeneOrGenome 589 593	ADAM
+T46	BiologicallyActiveSubstance 579 583	ADAM
+T47	BiologicallyActiveSubstance 589 593	ADAM
+T48	AminoAcidPeptideOrProtein 622 628	ADAMTS
+T49	GeneOrGenome 622 628	ADAMTS
+T50	BiologicallyActiveSubstance 622 628	ADAMTS
+T51	BodyPartOrganOrOrganComponent 806 825	blood-brain barrier
+T52	TemporalConcept 1193 1200	current
+T53	DiseaseOrSyndrome 1388 1408	Huntington's disease
+T54	TemporalConcept 3 18	life expectancy
+T55	AminoAcidPeptideOrProtein 536 539	MMP
+T56	GeneOrGenome 536 539	MMP
+T57	BiologicallyActiveSubstance 536 539	MMP
+T58	DiseaseOrSyndrome 52 78	neurodegenerative diseases
+T59	DiseaseOrSyndrome 1284 1310	neurodegenerative diseases
+T60	PathologicFunction 787 804	neuroinflammation
+T61	PathologicFunction 240 251	progression
+T62	TemporalConcept 240 251	progression
+T63	AminoAcidPeptideOrProtein 1264 1269	TIMPs
+T64	PharmacologicSubstance 1264 1269	TIMPs
+T65	BiologicallyActiveSubstance 1264 1269	TIMPs
+T66	HealthCareActivity 126 135	treatment
+T67	ResearchActivity 126 135	treatment

@@ -1,0 +1,87 @@
+T0	PathologicFunction 12 24	Inflammation
+T1	ClinicalAttribute 318 346	histopathological correlates
+T2	Cell 608 620	myeloid cell
+T3	ClinicalAttribute 621 630	densities
+T4	ClinicalAttribute 664 680	susceptibilities
+T5	OrganismAttribute 664 680	susceptibilities
+T6	AminoAcidPeptideOrProtein 857 866	cytokines
+T7	CellFunction 857 866	cytokines
+T8	Cell 954 967	myeloid cells
+T9	Finding 989 996	Lesions
+T10	Cell 1085 1098	myeloid cells
+T11	Finding 1110 1127	iron accumulation
+T12	BiologicFunction 1216 1235	cytokine production
+T13	CellFunction 1216 1235	cytokine production
+T14	BodyPartOrganOrOrganComponent 80 85	brain
+T15	BodyPartOrganOrOrganComponent 415 420	brain
+T16	Eukaryote 1156 1161	human
+T17	Cell 137 146	microglia
+T18	Cell 733 742	microglia
+T19	Cell 1175 1184	microglia
+T20	OrganismAttribute 822 829	species
+T21	DiseaseOrSyndrome 391 393	MS
+T22	DiseaseOrSyndrome 412 414	MS
+T23	HealthCareActivity 122 125	MRI
+T24	HealthCareActivity 249 252	MRI
+T25	HealthCareActivity 444 447	MRI
+T26	TemporalConcept 28 35	chronic
+T27	TemporalConcept 1349 1356	chronic
+T28	BodyPartOrganOrOrganComponent 74 93	blood-brain barrier
+T29	BiologicallyActiveSubstance 806 829	reactive oxygen species
+T30	Chemical 806 829	reactive oxygen species
+T31	BodyPartOrganOrOrganComponent 579 591	white matter
+T32	BodyPartOrganOrOrganComponent 1373 1385	white matter
+T33	PharmacologicSubstance 171 175	iron
+T34	PharmacologicSubstance 281 285	iron
+T35	PharmacologicSubstance 780 784	iron
+T36	PharmacologicSubstance 946 950	iron
+T37	PharmacologicSubstance 1077 1081	iron
+T38	PharmacologicSubstance 1110 1114	iron
+T39	Chemical 171 175	iron
+T40	Chemical 281 285	iron
+T41	Chemical 780 784	iron
+T42	Chemical 946 950	iron
+T43	Chemical 1077 1081	iron
+T44	Chemical 1110 1114	iron
+T45	BiologicallyActiveSubstance 171 175	iron
+T46	BiologicallyActiveSubstance 281 285	iron
+T47	BiologicallyActiveSubstance 780 784	iron
+T48	BiologicallyActiveSubstance 946 950	iron
+T49	BiologicallyActiveSubstance 1077 1081	iron
+T50	BiologicallyActiveSubstance 1110 1114	iron
+T51	InjuryOrPoisoning 43 50	lesions
+T52	InjuryOrPoisoning 394 401	lesions
+T53	InjuryOrPoisoning 1386 1393	lesions
+T54	PathologicFunction 1349 1369	chronic inflammation
+T55	PathologicFunction 840 856	pro-inflammatory
+T56	InjuryOrPoisoning 529 535	lesion
+T57	InjuryOrPoisoning 903 909	lesion
+T58	InjuryOrPoisoning 1281 1291	lesion rim
+T59	PharmacologicSubstance 600 604	Iron
+T60	Chemical 600 604	Iron
+T61	BiologicallyActiveSubstance 600 604	Iron
+T62	ResearchActivity 1100 1108	In vitro
+T63	BiologicallyActiveSubstance 831 834	ROS
+T64	BiologicallyActiveSubstance 1209 1212	ROS
+T65	Chemical 831 834	ROS
+T66	Chemical 1209 1212	ROS
+T67	Cell 719 723	iPSC
+T68	Cell 1162 1166	iPSC
+T69	ResearchActivity 253 262	technique
+T70	ClinicalAttribute 1335 1344	biomarker
+T71	BiomedicalOccupationOrDiscipline 475 484	histology
+T72	ResearchActivity 475 484	histology
+T73	HealthCareActivity 203 238	quantitative susceptibility mapping
+T74	HealthCareActivity 240 243	QSM
+T75	ClinicalAttribute 360 387	QSM hyperintensity patterns
+T76	HealthCareActivity 452 455	QSM
+T77	ResearchActivity 486 505	Immunolabeled cells
+T78	Cell 682 717	Human-induced pluripotent stem cell
+T79	ResearchActivity 682 742	Human-induced pluripotent stem cell (iPSC)-derived microglia
+T80	ClinicalAttribute 562 591	normal-appearing white matter
+T81	ClinicalAttribute 593 597	NAWM
+T82	ClinicalAttribute 983 987	NAWM
+T83	ClinicalAttribute 877 895	QSM hyperintensity
+T84	ResearchActivity 1162 1184	iPSC-derived microglia
+T85	ClinicalAttribute 1256 1266	QSM signal
+T86	ClinicalAttribute 1030 1040	QSM signal

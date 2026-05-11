@@ -1,0 +1,6 @@
+T0	BiologicFunction 84 96	neurogenesis
+T1	CellFunction 109 124	differentiation
+T2	BodyPartOrganOrOrganComponent 167 181	nervous system
+T3	CellFunction 98 107	migration
+T4	EmbryonicStructure 4 23	developmental brain
+T5	BiologicFunction 130 144	synaptogenesis

@@ -1,0 +1,93 @@
+T0	Cell 0 31	Oligodendrocyte precursor cells
+T1	Cell 33 37	OPCs
+T2	PathologicFunction 54 74	demyelinated lesions
+T3	Cell 159 175	oligodendrocytes
+T4	InjuryOrPoisoning 202 209	lesions
+T5	PathologicFunction 222 252	nonfunctional astroglial scars
+T6	PharmacologicSubstance 254 262	Blockade
+T7	AminoAcidPeptideOrProtein 266 292	bone morphogenetic protein
+T8	BiologicallyActiveSubstance 266 292	bone morphogenetic protein
+T9	Cell 336 340	OPCs
+T10	Cell 346 379	myelin-producing oligodendrocytes
+T11	PharmacologicSubstance 415 423	blockade
+T12	HealthCareActivity 415 423	blockade
+T13	CellFunction 427 444	BMP-2/4 signaling
+T14	HealthCareActivity 449 460	intravenous
+T15	ExperimentalModelOfDisease 598 603	R-EAE
+T16	HealthCareActivity 661 675	Administration
+T17	TemporalConcept 718 741	day 9 post-immunization
+T18	ExperimentalModelOfDisease 762 767	R-EAE
+T19	Cell 844 862	astrocytic lineage
+T20	Cell 910 933	mature oligodendrocytes
+T21	BodyPartOrganOrOrganComponent 1000 1011	spinal cord
+T22	TemporalConcept 1024 1034	day 18 p.i
+T23	Finding 1069 1091	elevated remyelination
+T24	CellFunction 1078 1091	remyelination
+T25	Finding 1107 1124	increased density
+T26	Finding 1128 1147	remyelinating axons
+T27	CellComponent 1142 1147	axons
+T28	ExperimentalModelOfDisease 1254 1264	R-EAE mice
+T29	ResearchActivity 1277 1296	electron microscopy
+T30	BiologicFunction 1313 1337	immunosuppressive effect
+T31	Finding 1413 1419	attack
+T32	ResearchActivity 1442 1452	experiment
+T33	AminoAcidPeptideOrProtein 1482 1498	anti-BMP-2/4 mAb
+T34	PharmacologicSubstance 1482 1498	anti-BMP-2/4 mAb
+T35	Cell 1557 1580	mature oligodendrocytes
+T36	CellFunction 1585 1598	remyelination
+T37	PharmacologicSubstance 1700 1708	blockade
+T38	HealthCareActivity 1700 1708	blockade
+T39	DiseaseOrSyndrome 1751 1774	demyelinating disorders
+T40	CellFunction 1833 1846	remyelination
+T41	BodyPartOrganOrOrganComponent 1863 1869	tissue
+T42	BodyPartOrganOrOrganComponent 1606 1621	corpus callosum
+T43	BodyPartOrganOrOrganComponent 1358 1361	CNS
+T44	DiseaseOrSyndrome 98 100	MS
+T45	DiseaseOrSyndrome 1783 1785	MS
+T46	HealthCareActivity 1726 1747	therapeutic potential
+T47	HealthCareActivity 466 475	treatment
+T48	HealthCareActivity 1464 1476	IV treatment
+T49	ResearchActivity 466 475	treatment
+T50	ResearchActivity 1464 1476	IV treatment
+T51	ExperimentalModelOfDisease 523 541	inflammatory model
+T52	CellFunction 127 142	differentiation
+T53	CellFunction 317 332	differentiation
+T54	PatientOrDisabledGroup 102 110	patients
+T55	DiseaseOrSyndrome 78 96	multiple sclerosis
+T56	SignOrSymptom 768 773	signs
+T57	Cell 978 988	astrocytes
+T58	Finding 1174 1224	reduced fully demyelinated and demyelinating axons
+T59	AminoAcidPeptideOrProtein 294 297	BMP
+T60	BiologicallyActiveSubstance 294 297	BMP
+T61	HealthCareActivity 254 262	Blockade
+T62	BiologicallyActiveSubstance 481 510	anti-BMP-2/4 neutralizing mAb
+T63	AminoAcidPeptideOrProtein 481 510	anti-BMP-2/4 neutralizing mAb
+T64	ExperimentalModelOfDisease 545 596	relapsing experimental autoimmune encephalomyelitis
+T65	ExperimentalModelOfDisease 613 651	cuprizone-toxic model of demyelination
+T66	Eukaryote 655 659	mice
+T67	AminoAcidPeptideOrProtein 679 691	anti-BMP-2/4
+T68	BiologicallyActiveSubstance 679 691	anti-BMP-2/4
+T69	PharmacologicSubstance 679 691	anti-BMP-2/4
+T70	PharmacologicSubstance 481 510	anti-BMP-2/4 neutralizing mAb
+T71	ExperimentalModelOfDisease 695 713	R-EAE-induced mice
+T72	HealthCareActivity 729 741	immunization
+T73	TemporalConcept 743 747	p.i.
+T74	AminoAcidPeptideOrProtein 804 821	phospho-SMAD1/5/8
+T75	BiologicallyActiveSubstance 804 821	phospho-SMAD1/5/8
+T76	Finding 864 896	increased the numbers of de novo
+T77	Finding 939 977	reduced the numbers of newly generated
+T78	PathologicFunction 1205 1224	demyelinating axons
+T79	AminoAcidPeptideOrProtein 1233 1245	anti-BMP-2/4
+T80	BiologicallyActiveSubstance 1233 1245	anti-BMP-2/4
+T81	PharmacologicSubstance 1233 1245	anti-BMP-2/4
+T82	BodyPartOrganOrOrganComponent 1373 1382	periphery
+T83	BiologicallyActiveSubstance 1482 1498	anti-BMP-2/4 mAb
+T84	ExperimentalModelOfDisease 1506 1531	cuprizone-challenged mice
+T85	TemporalConcept 1633 1647	recovery phase
+T86	AminoAcidPeptideOrProtein 1712 1719	BMP-2/4
+T87	BiologicFunction 1805 1823	oligodendrogenesis
+T88	TemporalConcept 1407 1412	first
+T89	TemporalConcept 1424 1434	at the end
+T90	CellFunction 266 292;299 308	bone morphogenetic protein signaling
+T91	Cell 897 905;917 933	immature oligodendrocytes
+T92	PathologicFunction 1188 1200;1219 1224	demyelinated axons

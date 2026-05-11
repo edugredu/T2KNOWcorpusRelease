@@ -1,0 +1,44 @@
+T0	AminoAcidPeptideOrProtein 308 324	surface proteins
+T1	ResearchActivity 462 482	cell culture systems
+T2	BodyPartOrganOrOrganComponent 800 805	organ
+T3	BiomedicalOccupationOrDiscipline 905 912	biology
+T4	TemporalConcept 404 411	To date
+T5	Finding 418 430	observations
+T6	BiologicFunction 774 785	maintenance
+T7	BiologicFunction 806 817	homeostasis
+T8	PopulationGroup 513 520	cohorts
+T9	AminoAcidPeptideOrProtein 250 258	proteins
+T10	CellComponent 60 82	extracellular vesicles
+T11	CellComponent 84 87	EVs
+T12	CellComponent 653 656	EVs
+T13	CellComponent 954 957	EVs
+T14	CellComponent 1019 1022	EVs
+T15	PathologicFunction 688 700	pathogenesis
+T16	CellComponent 902 904	EV
+T17	ResearchActivity 571 578	in vivo
+T18	PathologicFunction 976 985	pathology
+T19	BiomedicalOccupationOrDiscipline 976 985	pathology
+T20	Chemical 374 380	lipids
+T21	Substance 52 58	debris
+T22	Finding 1026 1032	normal
+T23	PatientOrDisabledGroup 505 512	patient
+T24	PopulationGroup 539 549	population
+T25	ResearchActivity 833 839	review
+T26	HealthCareActivity 833 839	review
+T27	HealthCareActivity 384 390	health
+T28	Cell 330 342	target cells
+T29	CellComponent 553 561	vesicles
+T30	ResearchActivity 330 342	target cells
+T31	CellComponent 360 367	vesicle
+T32	BodyPartOrganOrOrganComponent 275 281	organs
+T33	NucleicAcidNucleosideOrNucleotide 232 245	nucleic acids
+T34	ResearchActivity 866 877	researchers
+T35	DiseaseOrSyndrome 729 754	neurodegenerative disease
+T36	DiseaseOrSyndrome 719 725	cancer
+T37	BiomedicalOccupationOrDiscipline 961 971	physiology
+T38	BiomedicalOccupationOrDiscipline 1033 1043	physiology
+T39	BiologicFunction 961 971	physiology
+T40	BiologicFunction 1033 1043	physiology
+T41	BodyPartOrganOrOrganComponent 170 174	body
+T42	Cell 43 51	cellular
+T43	PathologicFunction 132 154	pathological functions

@@ -1,0 +1,9 @@
+T0	HealthCareActivity 176 182	health
+T1	TemporalConcept 9 18	long-term
+T2	Finding 183 190	effects
+T3	Finding 19 27	exposure
+T4	TemporalConcept 83 92	prolonged
+T5	NaturalPhenomenonOrProcess 46 68	non-ionizing radiation
+T6	NaturalPhenomenonOrProcess 50 68	ionizing radiation
+T7	ManufacturedObject 100 111	cell phones
+T8	ManufacturedObject 127 138	power lines

@@ -1,0 +1,90 @@
+T0	PathologicFunction 0 34	Impairment of proteostasis network
+T1	CellComponent 301 317	inclusion bodies
+T2	CellFunction 368 388	cellular functioning
+T3	Chemical 441 453	Withaferin A
+T4	PopulationGroup 495 501	Indian
+T5	BiologicFunction 583 593	activating
+T6	BiologicFunction 594 613	heat shock response
+T7	BiologicFunction 615 618	HSR
+T8	GeneOrGenome 711 715	HSF1
+T9	Substance 720 727	induces
+T10	AminoAcidPeptideOrProtein 746 751	HSP70
+T11	GeneOrGenome 746 751	HSP70
+T12	BiologicallyActiveSubstance 746 751	HSP70
+T13	ResearchActivity 778 797	cell culture system
+T14	Chemical 875 887	Withaferin A
+T15	Finding 1009 1017	declined
+T16	OrganismAttribute 1018 1029	body weight
+T17	CellFunction 1065 1075	activation
+T18	BiologicFunction 1079 1082	HSR
+T19	Finding 1157 1168	improvement
+T20	PathologicFunction 1296 1318	inflammatory processes
+T21	Chemical 1416 1428	Withaferin A
+T22	CellFunction 1503 1510;1526 1537	protein aggregation
+T23	CellComponent 131 140	autosomal
+T24	Finding 1339 1348	decreased
+T25	HealthCareActivity 429 435	report
+T26	ResearchActivity 429 435	report
+T27	CellOrMolecularDysfunction 1503 1521	protein misfolding
+T28	AminoAcidPeptideOrProtein 218 243	mutant huntingtin protein
+T29	CellFunction 14 34	proteostasis network
+T30	CellFunction 399 419	proteostasis network
+T31	CellFunction 567 579	proteostasis
+T32	AminoAcidPeptideOrProtein 264 277	polyglutamine
+T33	CellOrMolecularDysfunction 218 243	mutant huntingtin protein
+T34	CellOrMolecularDysfunction 1106 1134	mutant huntingtin aggregates
+T35	AminoAcidPeptideOrProtein 752 762	chaperones
+T36	BiologicallyActiveSubstance 752 762	chaperones
+T37	ExperimentalModelOfDisease 901 908	HD mice
+T38	ExperimentalModelOfDisease 1251 1258	HD mice
+T39	ExperimentalModelOfDisease 660 674	HD mouse model
+T40	Cell 1349 1359	microglial
+T41	CellFunction 1349 1370	microglial activation
+T42	PathologicFunction 635 654	disease progression
+T43	Finding 1272 1292	significant decrease
+T44	Finding 1094 1102	decrease
+T45	Finding 1284 1292	decrease
+T46	BodyPartOrganOrOrganComponent 1223 1228	brain
+T47	HealthCareActivity 888 897	treatment
+T48	HealthCareActivity 1437 1446	treatment
+T49	ResearchActivity 888 897	treatment
+T50	ResearchActivity 1437 1446	treatment
+T51	TemporalConcept 331 342	progressive
+T52	TemporalConcept 967 978	progressive
+T53	ResearchActivity 1031 1050	Biochemical studies
+T54	ResearchActivity 769 777	in vitro
+T55	TemporalConcept 938 946	lifespan
+T56	PathologicFunction 643 654	progression
+T57	TemporalConcept 643 654	progression
+T58	DiseaseOrSyndrome 162 182	Huntington's disease
+T59	DiseaseOrSyndrome 184 186	HD
+T60	DiseaseOrSyndrome 192 194	HD
+T61	DiseaseOrSyndrome 1214 1216	HD
+T62	DiseaseOrSyndrome 1450 1452	HD
+T63	BodyPartOrganOrOrganComponent 1172 1180	striatal
+T64	DiseaseOrSyndrome 93 120	neurodegenerative disorders
+T65	DiseaseOrSyndrome 1465 1492	neurodegenerative disorders
+T66	Organism 495 517	Indian medicinal plant
+T67	PharmacologicSubstance 875 887	Withaferin A
+T68	PharmacologicSubstance 441 453	Withaferin A
+T69	Organism 519 537	Withania somnifera
+T70	PharmacologicSubstance 1416 1428	Withaferin A
+T71	OrganismAttribute 81 84	age
+T72	AminoAcidPeptideOrProtein 196 214	N-terminal portion
+T73	CellOrMolecularDysfunction 255 285	expanded polyglutamine repeats
+T74	PathologicFunction 343 356	deterioration
+T75	BiologicallyActiveSubstance 463 481	bioactive molecule
+T76	CellOrMolecularDysfunction 557 579	defective proteostasis
+T77	HealthCareActivity 676 700	Exposure of Withaferin A
+T78	Chemical 688 700	Withaferin A
+T79	PharmacologicSubstance 688 700	Withaferin A
+T80	AminoAcidPeptideOrProtein 711 715	HSF1
+T81	BiologicallyActiveSubstance 711 715	HSF1
+T82	CellOrMolecularDysfunction 818 847	mutant huntingtin aggregation
+T83	ExperimentalModelOfDisease 853 873	cellular model of HD
+T84	DiseaseOrSyndrome 979 1004	motor behavioral deficits
+T85	Chemical 1193 1205	Withaferin A
+T86	PharmacologicSubstance 1193 1205	Withaferin A
+T87	Chemical 1230 1242	Withaferin A
+T88	PharmacologicSubstance 1230 1242	Withaferin A
+T89	Eukaryote 1217 1222	mouse

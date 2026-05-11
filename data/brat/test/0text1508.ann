@@ -1,0 +1,196 @@
+T0	AminoAcidPeptideOrProtein 130 142	Neuregulin 1
+T1	GeneOrGenome 130 142	Neuregulin 1
+T2	AminoAcidPeptideOrProtein 144 148	NRG1
+T3	GeneOrGenome 144 148	NRG1
+T4	BiologicallyActiveSubstance 166 188	differentiation factor
+T5	CellFunction 243 264	synaptic transmission
+T6	BiologicFunction 243 264	synaptic transmission
+T7	AminoAcidPeptideOrProtein 336 340	NRG1
+T8	GeneOrGenome 336 340	NRG1
+T9	AminoAcidPeptideOrProtein 546 550	NRG1
+T10	GeneOrGenome 546 550	NRG1
+T11	ResearchActivity 770 789	retrospective study
+T12	AminoAcidPeptideOrProtein 1040 1044	NRG1
+T13	GeneOrGenome 1040 1044	NRG1
+T14	AminoAcidPeptideOrProtein 1215 1221	GAP-43
+T15	GeneOrGenome 1292 1299	SNAP-25
+T16	AminoAcidPeptideOrProtein 1292 1299	SNAP-25
+T17	AminoAcidPeptideOrProtein 1316 1320	NRG1
+T18	GeneOrGenome 1316 1320	NRG1
+T19	AminoAcidPeptideOrProtein 1464 1468	NRG1
+T20	GeneOrGenome 1464 1468	NRG1
+T21	AminoAcidPeptideOrProtein 1645 1649	NRG1
+T22	GeneOrGenome 1645 1649	NRG1
+T23	AminoAcidPeptideOrProtein 1670 1674	NRG1
+T24	GeneOrGenome 1670 1674	NRG1
+T25	AminoAcidPeptideOrProtein 1735 1739	NRG1
+T26	GeneOrGenome 1735 1739	NRG1
+T27	AminoAcidPeptideOrProtein 1865 1869	NRG1
+T28	GeneOrGenome 1865 1869	NRG1
+T29	AminoAcidPeptideOrProtein 1890 1896	GAP-43
+T30	GeneOrGenome 1915 1922	SNAP-25
+T31	AminoAcidPeptideOrProtein 1915 1922	SNAP-25
+T32	BiologicallyActiveSubstance 1915 1922	SNAP-25
+T33	AminoAcidPeptideOrProtein 1952 1956	NRG1
+T34	GeneOrGenome 1952 1956	NRG1
+T35	AminoAcidPeptideOrProtein 2140 2144	NRG1
+T36	GeneOrGenome 2140 2144	NRG1
+T37	AminoAcidPeptideOrProtein 2278 2282	NRG1
+T38	GeneOrGenome 2278 2282	NRG1
+T39	BiologicFunction 155 161	growth
+T40	HealthCareActivity 275 282	reports
+T41	ResearchActivity 275 282	reports
+T42	BiologicFunction 375 391	cognitive status
+T43	BiologicFunction 2247 2263	cognitive status
+T44	BiologicFunction 228 239	maintenance
+T45	ResearchActivity 1157 1162	ELISA
+T46	ResearchActivity 1205 1210	ELISA
+T47	CellFunction 166 181	differentiation
+T48	BodyPartOrganOrOrganComponent 432 438	Plasma
+T49	BodyPartOrganOrOrganComponent 1025 1031	Plasma
+T50	BodyPartOrganOrOrganComponent 1309 1315	Plasma
+T51	BodyPartOrganOrOrganComponent 1457 1463	Plasma
+T52	BodyPartOrganOrOrganComponent 1638 1644	Plasma
+T53	BodyPartOrganOrOrganComponent 1728 1734	Plasma
+T54	BodyPartOrganOrOrganComponent 1858 1864	Plasma
+T55	BodyPartOrganOrOrganComponent 1945 1951	Plasma
+T56	BodyPartOrganOrOrganComponent 2133 2139	Plasma
+T57	AminoAcidPeptideOrProtein 1108 1119	phospho-tau
+T58	AminoAcidPeptideOrProtein 1131 1134	tau
+T59	DiseaseOrSyndrome 60 79	Alzheimer's disease
+T60	ClinicalAttribute 439 449	biomarkers
+T61	ClinicalAttribute 736 755	synaptic biomarkers
+T62	ClinicalAttribute 1069 1079	biomarkers
+T63	ClinicalAttribute 1772 1782	biomarkers
+T64	ClinicalAttribute 2223 2242	synaptic biomarkers
+T65	BodyPartOrganOrOrganComponent 539 545	plasma
+T66	BodyPartOrganOrOrganComponent 2271 2277	plasma
+T67	PatientOrDisabledGroup 571 579	patients
+T68	PatientOrDisabledGroup 826 834	patients
+T69	PatientOrDisabledGroup 1372 1380	patients
+T70	PatientOrDisabledGroup 1491 1499	patients
+T71	PatientOrDisabledGroup 1582 1590	patients
+T72	PatientOrDisabledGroup 1826 1834	patients
+T73	PatientOrDisabledGroup 2045 2053	patients
+T74	PatientOrDisabledGroup 2178 2186	patients
+T75	BodyPartOrganOrOrganComponent 331 334	CSF
+T76	BodyPartOrganOrOrganComponent 719 722	CSF
+T77	BodyPartOrganOrOrganComponent 1036 1039	CSF
+T78	BodyPartOrganOrOrganComponent 1057 1060	CSF
+T79	BodyPartOrganOrOrganComponent 1164 1167	CSF
+T80	BodyPartOrganOrOrganComponent 1666 1669	CSF
+T81	BodyPartOrganOrOrganComponent 1763 1766	CSF
+T82	BodyPartOrganOrOrganComponent 1886 1889	CSF
+T83	BodyPartOrganOrOrganComponent 2207 2210	CSF
+T84	PathologicFunction 421 430	pathology
+T85	BiomedicalOccupationOrDiscipline 421 430	pathology
+T86	ResearchActivity 1301 1308	Results
+T87	PopulationGroup 1796 1802	cohort
+T88	PopulationGroup 2015 2021	cohort
+T89	BiologicallyActiveSubstance 1108 1119	phospho-tau
+T90	BiologicallyActiveSubstance 1131 1134	tau
+T91	SignOrSymptom 110 128	cognitive symptoms
+T92	OrganismAttribute 1714 1717	age
+T93	DiseaseOrSyndrome 81 83	AD
+T94	DiseaseOrSyndrome 418 420	AD
+T95	DiseaseOrSyndrome 568 570	AD
+T96	DiseaseOrSyndrome 729 731	AD
+T97	DiseaseOrSyndrome 840 842	AD
+T98	DiseaseOrSyndrome 931 933	AD
+T99	DiseaseOrSyndrome 974 976	AD
+T100	DiseaseOrSyndrome 1066 1068	AD
+T101	DiseaseOrSyndrome 1349 1351	AD
+T102	DiseaseOrSyndrome 1360 1362	AD
+T103	DiseaseOrSyndrome 1484 1486	AD
+T104	DiseaseOrSyndrome 1570 1572	AD
+T105	DiseaseOrSyndrome 1760 1762	AD
+T106	DiseaseOrSyndrome 2175 2177	AD
+T107	DiseaseOrSyndrome 2216 2218	AD
+T108	DiseaseOrSyndrome 2355 2357	AD
+T109	ClinicalAttribute 396 405	biomarker
+T110	DiseaseOrSyndrome 902 910	dementia
+T111	DiseaseOrSyndrome 927 942	non-AD dementia
+T112	DiseaseOrSyndrome 1363 1371	dementia
+T113	DiseaseOrSyndrome 1573 1581	dementia
+T114	PopulationGroup 803 815	participants
+T115	ResearchActivity 671 676	study
+T116	BodyPartOrganOrOrganComponent 310 329	cerebrospinal fluid
+T117	BodyPartOrganOrOrganComponent 698 717	cerebrospinal fluid
+T118	PopulationGroup 650 658	controls
+T119	PopulationGroup 1008 1016	controls
+T120	PopulationGroup 1408 1416	controls
+T121	PopulationGroup 1518 1526	controls
+T122	BiologicFunction 212 223	development
+T123	CellFunction 212 223	development
+T124	TemporalConcept 872 877	stage
+T125	TemporalConcept 911 916	stage
+T126	ClinicalAttribute 872 877	stage
+T127	HealthCareActivity 2324 2331	monitor
+T128	ManufacturedObject 2324 2331	monitor
+T129	AminoAcidPeptideOrProtein 1226 1237	neurogranin
+T130	AminoAcidPeptideOrProtein 1898 1909	neurogranin
+T131	BiologicallyActiveSubstance 1226 1237	neurogranin
+T132	BiologicallyActiveSubstance 1898 1909	neurogranin
+T133	CellOrMolecularDysfunction 11 31	Synaptic dysfunction
+T134	PathologicFunction 20 31	dysfunction
+T135	OrganismAttribute 1722 1725	sex
+T136	ResearchActivity 1535 1555	area under the curve
+T137	ResearchActivity 1607 1627	area under the curve
+T138	DiseaseOrSyndrome 879 885	AD-MCI
+T139	DiseaseOrSyndrome 970 980	non-AD MCI
+T140	DiseaseOrSyndrome 1352 1355	MCI
+T141	DiseaseOrSyndrome 1487 1490	MCI
+T142	DiseaseOrSyndrome 846 871	mild cognitive impairment
+T143	DiseaseOrSyndrome 605 632	neurodegenerative disorders
+T144	ResearchActivity 583 593	comparison
+T145	ResearchActivity 1270 1287	mass spectrometry
+T146	AminoAcidPeptideOrProtein 952 958	A beta
+T147	AminoAcidPeptideOrProtein 1810 1816	A beta
+T148	AminoAcidPeptideOrProtein 2029 2035	A beta
+T149	AminoAcidPeptideOrProtein 2086 2092	A beta
+T150	PopulationGroup 660 662	NC
+T151	PopulationGroup 1596 1598	NC
+T152	AminoAcidPeptideOrProtein 1125 1134	total tau
+T153	BiologicallyActiveSubstance 1125 1134	total tau
+T154	ResearchActivity 1250 1269	immunoprecipitation
+T155	TemporalConcept 266 274	Previous
+T156	Finding 406 414	evidence
+T157	AminoAcidPeptideOrProtein 1091 1100	A beta 40
+T158	AminoAcidPeptideOrProtein 1081 1090	A beta 42
+T159	HealthCareActivity 1997 2001	MMSE
+T160	BiologicallyActiveSubstance 1091 1100	A beta 40
+T161	BiologicallyActiveSubstance 1081 1090	A beta 42
+T162	ClinicalAttribute 2298 2320	non-invasive biomarker
+T163	BiologicallyActiveSubstance 130 142	Neuregulin 1
+T164	BiologicallyActiveSubstance 144 148	NRG1
+T165	AminoAcidPeptideOrProtein 166 188	differentiation factor
+T166	ClinicalAttribute 310 329;336 354	cerebrospinal fluid NRG1 concentration
+T167	CellOrMolecularDysfunction 461 480	synaptic impairment
+T168	BiologicallyActiveSubstance 546 550	NRG1
+T169	ClinicalAttribute 539 564	plasma NRG1 concentration
+T170	BiologicallyActiveSubstance 1040 1044	NRG1
+T171	BiologicallyActiveSubstance 1292 1299	SNAP-25
+T172	Finding 493 516	great clinical interest
+T173	ClinicalAttribute 911 916	stage
+T174	ClinicalAttribute 1168 1184	synaptic markers
+T175	BiologicallyActiveSubstance 1645 1649	NRG1
+T176	BiologicallyActiveSubstance 1464 1468	NRG1
+T177	BiologicallyActiveSubstance 1316 1320	NRG1
+T178	BiologicallyActiveSubstance 1735 1739	NRG1
+T179	BiologicallyActiveSubstance 1865 1869	NRG1
+T180	BiologicallyActiveSubstance 1952 1956	NRG1
+T181	BiologicallyActiveSubstance 2140 2144	NRG1
+T182	BiologicallyActiveSubstance 2278 2282	NRG1
+T183	CellOrMolecularDysfunction 2332 2351	synaptic impairment
+T184	ClinicalAttribute 2133 2158	Plasma NRG1 concentration
+T185	ClinicalAttribute 1858 1869	Plasma NRG1
+T186	ClinicalAttribute 1638 1649	Plasma NRG1
+T187	ClinicalAttribute 1728 1739	Plasma NRG1
+T188	ClinicalAttribute 1309 1334	Plasma NRG1 concentration
+T189	ClinicalAttribute 1457 1468	Plasma NRG1
+T190	ClinicalAttribute 1945 1970	Plasma NRG1 concentration
+T191	ClinicalAttribute 2271 2282	plasma NRG1
+T192	BiologicallyActiveSubstance 1890 1896	GAP-43
+T193	BiologicallyActiveSubstance 1215 1221	GAP-43
+T194	ClinicalAttribute 1666 1674	CSF NRG1
+T195	BiologicallyActiveSubstance 1670 1674	NRG1

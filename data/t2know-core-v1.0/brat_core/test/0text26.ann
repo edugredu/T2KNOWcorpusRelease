@@ -1,0 +1,64 @@
+T0	Chemical 18 22	ages
+T1	PopulationGroup 111 118	Persons
+T2	PathologicFunction 353 368	adverse effects
+T3	DiseaseOrSyndrome 595 609	brain diseases
+T4	SignOrSymptom 728 745	sleep dysfunction
+T5	PathologicFunction 728 745	sleep dysfunction
+T6	Finding 951 958	improve
+T7	Bacterium 979 988	attenuate
+T8	HealthCareActivity 1152 1168	exercise therapy
+T9	HealthCareActivity 1208 1215	monitor
+T10	PathologicFunction 1276 1293	sleep dysfunction
+T11	BiologicFunction 161 171	experience
+T12	TemporalConcept 509 520	last decade
+T13	HealthCareActivity 583 591	exercise
+T14	HealthCareActivity 715 723	exercise
+T15	HealthCareActivity 916 924	exercise
+T16	HealthCareActivity 1264 1272	exercise
+T17	HealthCareActivity 1383 1391	exercise
+T18	BiologicFunction 545 556	recognition
+T19	PopulationGroup 7 17	population
+T20	PathologicFunction 255 281	progression of the disease
+T21	TemporalConcept 255 281	progression of the disease
+T22	TemporalConcept 150 160	frequently
+T23	BiologicFunction 172 177	sleep
+T24	BiologicFunction 728 733	sleep
+T25	BiologicFunction 959 964	sleep
+T26	BiologicFunction 1276 1281	sleep
+T27	BiologicFunction 1400 1405	sleep
+T28	HealthCareActivity 298 327	pharmacological interventions
+T29	HealthCareActivity 398 431	non-pharmacological interventions
+T30	HealthCareActivity 1232 1245	interventions
+T31	ResearchActivity 1232 1245	interventions
+T32	DiseaseOrSyndrome 172 187	sleep disorders
+T33	DiseaseOrSyndrome 959 974	sleep disorders
+T34	ResearchActivity 381 394	investigation
+T35	Finding 211 226	quality of life
+T36	PathologicFunction 734 745	dysfunction
+T37	PathologicFunction 1282 1293	dysfunction
+T38	CellOrMolecularDysfunction 989 1006	neurodegeneration
+T39	HealthCareActivity 464 473	treatment
+T40	ResearchActivity 464 473	treatment
+T41	Finding 28 37	incidence
+T42	TemporalConcept 222 226	life
+T43	PathologicFunction 255 266	progression
+T44	TemporalConcept 255 266	progression
+T45	ResearchActivity 898 902	data
+T46	DiseaseOrSyndrome 754 780	neurodegenerative diseases
+T47	DiseaseOrSyndrome 831 851	Huntington's disease
+T48	DiseaseOrSyndrome 1297 1317	Huntington's disease
+T49	DiseaseOrSyndrome 810 829	Parkinson's disease
+T50	DiseaseOrSyndrome 1048 1067	Parkinson's disease
+T51	DiseaseOrSyndrome 124 149	neurodegenerative disease
+T52	DiseaseOrSyndrome 857 886	amyotrophic lateral sclerosis
+T53	DiseaseOrSyndrome 1322 1351	amyotrophic lateral sclerosis
+T54	DiseaseOrSyndrome 789 808	Alzheimer's disease
+T55	DiseaseOrSyndrome 1024 1043	Alzheimer's disease
+T56	ResearchActivity 666 672	review
+T57	HealthCareActivity 666 672	review
+T58	DiseaseOrSyndrome 56 83	neurodegenerative disorders
+T59	DiseaseOrSyndrome 615 642	neurodegenerative disorders
+T60	ResearchActivity 1089 1097	research
+T61	Finding 564 579	beneficial role
+T62	Finding 695 711	therapeutic role
+T63	ManufacturedObject 1208 1215	monitor

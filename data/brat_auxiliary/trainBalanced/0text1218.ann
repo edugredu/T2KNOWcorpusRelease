@@ -1,0 +1,54 @@
+T0	DiseaseOrSyndrome 357 371	leukodystrophy
+T1	AminoAcidPeptideOrProtein 675 710;718 723	vesicle-associated membrane protein 1/2/3
+T2	BiologicallyActiveSubstance 675 710;718 723	vesicle-associated membrane protein 1/2/3
+T3	AminoAcidPeptideOrProtein 712 716	VAMP
+T4	BiologicallyActiveSubstance 712 716	VAMP
+T5	CellFunction 734 744	exocytosis
+T6	BiologicFunction 834 848	motor behavior
+T7	ResearchActivity 940 948	cultures
+T11	CellComponent 143 148	axons
+T12	Substance 903 912	molecules
+T13	Cell 100 116	oligodendrocytes
+T14	Cell 577 593	oligodendrocytes
+T15	Cell 1000 1016	oligodendrocytes
+T16	Finding 260 266	severe
+T17	Cell 150 166	Oligodendrocytes
+T18	Cell 75 79	OPCs
+T19	Cell 568 572	OPCs
+T20	Cell 936 939	OPC
+T21	DiseaseOrSyndrome 303 325	demyelinating diseases
+T22	CellFunction 459 470	myelination
+T23	CellFunction 634 645	myelination
+T24	CellFunction 817 828	myelination
+T25	CellFunction 1172 1183	myelination
+T26	Cell 750 765	oligodendrocyte
+T27	CellFunction 788 815	oligodendrocyte development
+T28	Cell 865 880	oligodendrocyte
+T29	Cell 1080 1108	oligodendrocyte-lineage cell
+T30	Cell 1276 1291	oligodendrocyte
+T31	BiologicFunction 986 996	maturation
+T32	Cell 42 73	oligodendrocyte precursor cells
+T33	SignOrSymptom 267 288	neurological symptoms
+T34	CellFunction 81 94	differentiate
+T35	PathologicFunction 303 316	demyelinating
+T36	Finding 518 530	interactions
+T37	Cell 537 566	oligodendrocyte-lineage cells
+T38	Cell 774 779	cells
+T39	Eukaryote 852 856	mice
+T40	ResearchActivity 1248 1253	model
+T41	DiseaseOrSyndrome 334 352	multiple sclerosis
+T42	ResearchActivity 1184 1191	in vivo
+T43	BodyPartOrganOrOrganComponent 129 135	myelin
+T44	BodyPartOrganOrOrganComponent 171 177	myelin
+T45	BodyPartOrganOrOrganComponent 1296 1302	myelin
+T46	BiologicFunction 1303 1314	development
+T47	CellFunction 427 454	oligodendrocyte development
+T48	CellFunction 602 629	oligodendrocyte development
+T49	CellFunction 1140 1167	oligodendrocyte development
+T50	CellFunction 1303 1314	development
+T51	BodyPartOrganOrOrganComponent 18 40	central nervous system
+T52	BodyPartOrganOrOrganComponent 216 238	central nervous system
+T53	AminoAcidPeptideOrProtein 1042 1073	L-type prostaglandin D synthase
+T54	BiologicallyActiveSubstance 1042 1073	L-type prostaglandin D synthase
+T55	AminoAcidPeptideOrProtein 1109 1125	secreted protein
+T56	BiologicFunction 1223 1247	autocrine/paracrine loop

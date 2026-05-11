@@ -1,0 +1,86 @@
+T0	PharmacologicSubstance 48 70	anti-inflammatory drug
+T1	DiseaseOrSyndrome 97 115	multiple sclerosis
+T2	DiseaseOrSyndrome 120 129	psoriasis
+T3	DiseaseOrSyndrome 196 217	inflammatory diseases
+T4	DiseaseOrSyndrome 222 229	cancers
+T5	Cell 222 229	cancers
+T6	Chemical 240 247	prodrug
+T7	Chemical 282 301	monomethyl fumarate
+T8	Chemical 303 306	MMF
+T9	ResearchActivity 308 315	in vivo
+T10	Chemical 322 331	fumarates
+T11	GeneOrGenome 409 413	Nrf2
+T12	AminoAcidPeptideOrProtein 409 413	Nrf2
+T13	AminoAcidPeptideOrProtein 423 443	transcription factor
+T14	BiologicallyActiveSubstance 423 443	transcription factor
+T15	CellFunction 451 471	antioxidant response
+T16	CellFunction 570 580	inhibition
+T17	AminoAcidPeptideOrProtein 652 662	NF-kappa B
+T18	GeneOrGenome 652 662	NF-kappa B
+T19	BiologicallyActiveSubstance 652 662	NF-kappa B
+T20	CellFunction 679 693	downregulation
+T21	CellFunction 697 715	aerobic glycolysis
+T22	CellFunction 720 730	pyroptosis
+T23	Cell 756 770	lymphoid cells
+T24	Chemical 772 775	MMF
+T25	BiologicallyActiveSubstance 787 794	agonist
+T26	GeneOrGenome 798 831	hydroxycarboxylic acid receptor 2
+T27	AminoAcidPeptideOrProtein 798 831	hydroxycarboxylic acid receptor 2
+T28	GeneOrGenome 833 838	HCAR2
+T29	AminoAcidPeptideOrProtein 833 838	HCAR2
+T30	Chemical 913 922	fumarates
+T31	CellFunction 992 1007	neuroprotective
+T32	BiologicallyActiveSubstance 1068 1085	active metabolite
+T33	Chemical 1087 1090	MMF
+T34	ResearchActivity 1105 1113	in vitro
+T35	ExperimentalModelOfDisease 1095 1162	cellular (in vitro) and animal models of neurodegenerative diseases
+T36	DiseaseOrSyndrome 1164 1167	NDs
+T37	DiseaseOrSyndrome 1181 1199	multiple sclerosis
+T38	DiseaseOrSyndrome 1341 1360	Alzheimer's disease
+T39	DiseaseOrSyndrome 1362 1364	AD
+T40	DiseaseOrSyndrome 1370 1389	Parkinson's disease
+T41	DiseaseOrSyndrome 1391 1393	PD
+T42	ResearchActivity 1460 1474	clinical trial
+T43	DiseaseOrSyndrome 1496 1525	amyotrophic lateral sclerosis
+T44	DiseaseOrSyndrome 1527 1530	ALS
+T45	ResearchActivity 1642 1650	research
+T46	CellFunction 345 403	nuclear factor (erythroid-derived 2)-like 2 (Nrf2) pathway
+T47	BiologicallyActiveSubstance 798 831	hydroxycarboxylic acid receptor 2
+T48	BiologicFunction 499 516	anti-inflammatory
+T49	BiologicFunction 1027 1044	anti-inflammatory
+T50	PharmacologicSubstance 499 516	anti-inflammatory
+T51	PharmacologicSubstance 1027 1044	anti-inflammatory
+T52	Finding 140 158	beneficial effects
+T53	PharmacologicSubstance 19 22	DMF
+T54	PharmacologicSubstance 162 165	DMF
+T55	BiologicallyActiveSubstance 231 234	DMF
+T56	BiologicallyActiveSubstance 528 531	DMF
+T57	PharmacologicSubstance 1056 1059	DMF
+T58	Chemical 19 22	DMF
+T59	Chemical 162 165	DMF
+T60	Chemical 231 234	DMF
+T61	Chemical 528 531	DMF
+T62	Chemical 1056 1059	DMF
+T63	PharmacologicSubstance 0 17	Dimethyl fumarate
+T64	Chemical 0 17	Dimethyl fumarate
+T65	DiseaseOrSyndrome 1448 1450	HD
+T66	DiseaseOrSyndrome 1426 1446	Huntington's disease
+T67	ExperimentalModelOfDisease 1411 1446	mouse model of Huntington's disease
+T68	DiseaseOrSyndrome 1136 1162	neurodegenerative diseases
+T69	CellFunction 588 671	nuclear factor kappa-light-chain-enhancer of activated B cells (NF-kappa B) pathway
+T70	PatientOrDisabledGroup 1532 1540	patients
+T71	ResearchActivity 954 960	review
+T72	HealthCareActivity 954 960	review
+T73	ResearchActivity 1228 1235	studies
+T74	ResearchActivity 1285 1292	studies
+T75	ResearchActivity 1590 1597	studies
+T76	HealthCareActivity 84 93	treatment
+T77	ResearchActivity 84 93	treatment
+T78	BiologicallyActiveSubstance 0 17	Dimethyl fumarate
+T79	BiologicallyActiveSubstance 19 22	DMF
+T80	PharmacologicSubstance 231 234	DMF
+T81	BiologicallyActiveSubstance 409 413	Nrf2
+T82	PharmacologicSubstance 528 531	DMF
+T83	BiologicallyActiveSubstance 833 838	HCAR2
+T84	BiologicallyActiveSubstance 1056 1059	DMF
+T85	ExperimentalModelOfDisease 1312 1360	cellular or animal models of Alzheimer's disease

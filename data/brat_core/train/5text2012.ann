@@ -1,0 +1,12 @@
+T0	HealthCareActivity 187 196	diagnosis
+T1	ResearchActivity 143 148	study
+T2	BodyPartOrganOrOrganComponent 73 95	central nervous system
+T3	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T4	DiseaseOrSyndrome 20 22	MS
+T5	DiseaseOrSyndrome 214 216	MS
+T6	Substance 152 161	biofluids
+T7	TemporalConcept 29 36	chronic
+T8	PathologicFunction 108 121	demyelination
+T9	HealthCareActivity 201 210	prognosis
+T10	DiseaseOrSyndrome 37 55	autoimmune disease
+T11	BodyPartOrganOrOrganComponent 125 137	nerve fibers

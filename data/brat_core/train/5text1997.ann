@@ -1,0 +1,7 @@
+T0	DiseaseOrSyndrome 124 161	inherited neurodegenerative disorders
+T1	ResearchActivity 0 16	Genetic analysis
+T2	CellFunction 61 70	mutations
+T3	NucleicAcidNucleosideOrNucleotide 20 23	DNA
+T4	Substance 24 33	specimens
+T5	BiologicFunction 109 120	development
+T6	CellFunction 109 120	development

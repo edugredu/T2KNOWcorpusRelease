@@ -1,0 +1,10 @@
+T0	Finding 108 112	risk
+T1	TemporalConcept 128 133	later
+T2	TemporalConcept 137 141	life
+T3	DiseaseOrSyndrome 121 127	cancer
+T4	BodyPartOrganOrOrganComponent 116 120	skin
+T5	Finding 11 19	exposure
+T6	SignOrSymptom 83 90	painful
+T7	NaturalPhenomenonOrProcess 38 50	UV radiation
+T8	TemporalConcept 0 10	Short-term
+T9	InjuryOrPoisoning 61 68	sunburn

@@ -1,0 +1,49 @@
+T0	NaturalPhenomenonOrProcess 58 75	genetic variation
+T1	OrganismAttribute 193 199	traits
+T2	BiologicFunction 226 254	pathophysiological processes
+T3	OrganismAttribute 357 363	traits
+T4	ResearchActivity 367 389	whole-exome sequencing
+T5	ResearchActivity 391 394	WES
+T6	GeneOrGenome 788 792	RBKS
+T7	GeneOrGenome 797 803	OR7A10
+T8	DiseaseOrSyndrome 852 876	left hippocampal atrophy
+T9	BiologicFunction 1039 1067	pathophysiological processes
+T10	Finding 20 39	increasing evidence
+T11	BiologicFunction 125 134	attention
+T12	GeneOrGenome 675 680	PSEN1
+T13	AminoAcidPeptideOrProtein 675 680	PSEN1
+T14	BiologicallyActiveSubstance 675 680	PSEN1
+T15	CellOrMolecularDysfunction 665 673	mutation
+T16	HealthCareRelatedOrganization 586 590	ADNI
+T17	ResearchActivity 586 590	ADNI
+T18	Finding 20 30	increasing
+T19	DiseaseOrSyndrome 91 110	Alzheimer's disease
+T20	DiseaseOrSyndrome 112 114	AD
+T21	DiseaseOrSyndrome 172 174	AD
+T22	DiseaseOrSyndrome 214 216	AD
+T23	DiseaseOrSyndrome 346 348	AD
+T24	DiseaseOrSyndrome 1083 1085	AD
+T25	ClinicalAttribute 183 192	biomarker
+T26	PathologicFunction 654 664	pathogenic
+T27	ResearchActivity 396 400	data
+T28	ResearchActivity 576 580	data
+T29	ResearchActivity 609 627	Mutation screening
+T30	ResearchActivity 276 331	whole-exome gene-based rare-variant association studies
+T31	ResearchActivity 526 531	study
+T32	Finding 31 39	evidence
+T33	Finding 807 828	cognitive performance
+T34	HealthCareActivity 1145 1155	diagnostic
+T35	HealthCareRelatedOrganization 418 456	European Medical Information Framework
+T36	TemporalConcept 53 57	rare
+T37	TemporalConcept 763 767	rare
+T38	TemporalConcept 1001 1005	rare
+T39	ResearchActivity 461 511	Alzheimer's Disease Multimodal Biomarker Discovery
+T40	ResearchActivity 513 524	EMIF-AD MBD
+T41	ResearchActivity 546 569	whole-genome sequencing
+T42	Finding 83 87	risk
+T43	AminoAcidPeptideOrProtein 681 692	p.Leu232Phe
+T44	ResearchActivity 333 338	RVASs
+T45	ResearchActivity 706 710	RVAS
+T46	OrganismAttribute 941 946	trait
+T47	GeneOrGenome 936 940	gene
+T48	Finding 1123 1163	novel therapeutic and diagnostic targets

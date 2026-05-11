@@ -1,0 +1,5 @@
+T0	DiseaseOrSyndrome 49 76	neurodegenerative disorders
+T1	DiseaseOrSyndrome 141 164	frontotemporal dementia
+T2	DiseaseOrSyndrome 86 113	cerebral amyloid angiopathy
+T3	DiseaseOrSyndrome 115 118	CAA
+T4	AnatomicalAbnormality 0 15	Amyloid plaques

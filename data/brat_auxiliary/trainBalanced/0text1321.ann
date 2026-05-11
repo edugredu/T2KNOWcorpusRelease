@@ -1,0 +1,81 @@
+T0	PathologicFunction 138 159	autoimmune mechanisms
+T1	GeneOrGenome 281 286	TREM2
+T2	GeneOrGenome 414 419	TREM2
+T3	Cell 444 467	myelin-laden phagocytes
+T4	GeneOrGenome 591 596	TREM2
+T5	GeneOrGenome 680 685	TREM2
+T6	Finding 807 818	enhancement
+T7	CellFunction 822 835	myelin uptake
+T8	CellFunction 932 967	antibody-dependent TREM2 activation
+T9	GeneOrGenome 951 956	TREM2
+T10	CellFunction 1071 1107	formation of mature oligodendrocytes
+T11	GeneOrGenome 1202 1207	TREM2
+T12	BodyPartOrganOrOrganComponent 120 123	CNS
+T13	BodyPartOrganOrOrganComponent 507 510	CNS
+T14	BodyPartOrganOrOrganComponent 771 774	CNS
+T15	CellFunction 535 550	gene expression
+T16	NaturalPhenomenonOrProcess 192 201	clearance
+T17	NaturalPhenomenonOrProcess 718 727	clearance
+T18	CellFunction 822 828;840 851	myelin degradation
+T19	CellFunction 266 279	remyelination
+T20	CellFunction 1123 1136	remyelination
+T21	CellFunction 1258 1271	remyelination
+T22	Cell 1084 1107	mature oligodendrocytes
+T23	Finding 981 998	increased density
+T24	CellFunction 337 345	survival
+T25	CellFunction 347 360	proliferation
+T26	Cell 1002 1028	oligodendrocyte precursors
+T27	Substance 212 218	debris
+T28	Substance 738 744	debris
+T29	Substance 885 891	debris
+T30	Cell 560 571	macrophages
+T31	Chemical 752 761	cuprizone
+T32	PathologicFunction 44 57	demyelinating
+T33	Cell 161 170	Microglia
+T34	CellOrMolecularDysfunction 591 615	TREM2 genetic deficiency
+T35	DiseaseOrSyndrome 63 88	neurodegenerative disease
+T36	ResearchActivity 551 558	studies
+T37	Cell 326 336	microglial
+T38	DiseaseOrSyndrome 20 22	MS
+T39	DiseaseOrSyndrome 528 530	MS
+T40	CellFunction 290 299	expressed
+T41	CellFunction 431 440	expressed
+T42	PathologicFunction 231 244	demyelination
+T43	PathologicFunction 775 788	demyelination
+T44	PathologicFunction 1041 1054	demyelination
+T45	DiseaseOrSyndrome 0 18	Multiple sclerosis
+T46	InjuryOrPoisoning 471 499	active demyelinating lesions
+T47	BodyPartOrganOrOrganComponent 205 211	myelin
+T48	BodyPartOrganOrOrganComponent 444 450	myelin
+T49	BodyPartOrganOrOrganComponent 731 737	myelin
+T50	BodyPartOrganOrOrganComponent 822 828	myelin
+T51	BodyPartOrganOrOrganComponent 878 884	myelin
+T52	Cell 303 312	microglia
+T53	Cell 903 912	microglia
+T54	Cell 971 980	microglia
+T55	Cell 1211 1220	microglia
+T56	BodyPartOrganOrOrganComponent 96 118	central nervous system
+T57	PopulationGroup 514 522	subjects
+T58	PopulationGroup 577 585	subjects
+T59	HealthCareActivity 659 668	Treatment
+T60	ResearchActivity 659 668	Treatment
+T61	PathologicFunction 30 42	inflammatory
+T62	AminoAcidPeptideOrProtein 281 286	TREM2
+T63	BiologicallyActiveSubstance 281 286	TREM2
+T64	CellFunction 366 385	phagocytic activity
+T65	AminoAcidPeptideOrProtein 414 419	TREM2
+T66	BiologicallyActiveSubstance 414 419	TREM2
+T67	BiologicallyActiveSubstance 591 596	TREM2
+T68	AminoAcidPeptideOrProtein 591 596	TREM2
+T69	CellOrMolecularDysfunction 628 657	defect in phagocytic pathways
+T70	BiologicallyActiveSubstance 680 685	TREM2
+T71	AminoAcidPeptideOrProtein 680 685	TREM2
+T72	BiologicallyActiveSubstance 686 704	agonistic antibody
+T73	ExperimentalModelOfDisease 752 788	cuprizone model of CNS demyelination
+T74	AminoAcidPeptideOrProtein 686 704	agonistic antibody
+T75	CellFunction 878 899	myelin debris removal
+T76	AminoAcidPeptideOrProtein 951 956	TREM2
+T77	BiologicallyActiveSubstance 951 956	TREM2
+T78	CellFunction 1141 1157	axonal integrity
+T79	AminoAcidPeptideOrProtein 1202 1207	TREM2
+T80	BiologicallyActiveSubstance 1202 1207	TREM2

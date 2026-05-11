@@ -1,0 +1,42 @@
+T0	IndividualBehavior 0 10	Disclosure
+T1	OrganismAttribute 14 22	personal
+T2	Finding 54 66	asymptomatic
+T3	BiomedicalOccupationOrDiscipline 116 124	medicine
+T4	PathologicFunction 393 400	effects
+T5	IndividualBehavior 673 683	disclosure
+T6	IndividualBehavior 807 817	disclosure
+T7	HealthCareActivity 829 862	positron emission tomography scan
+T8	Finding 874 886	asymptomatic
+T9	ResearchActivity 1031 1040	normalize
+T10	TemporalConcept 139 147	Recently
+T11	ResearchActivity 611 618	article
+T12	ResearchActivity 742 749	article
+T13	ResearchActivity 322 329	Studies
+T14	PopulationGroup 1100 1107	persons
+T15	HealthCareActivity 978 991	interventions
+T16	ResearchActivity 978 991	interventions
+T17	HealthCareActivity 355 361	safety
+T18	DiseaseOrSyndrome 149 168	Alzheimer's disease
+T19	ClinicalAttribute 259 269	biomarkers
+T20	TemporalConcept 1003 1020	preclinical phase
+T21	ResearchActivity 129 137	research
+T22	ResearchActivity 899 907	research
+T23	ResearchActivity 719 726	studies
+T24	DiseaseOrSyndrome 170 172	AD
+T25	DiseaseOrSyndrome 420 422	AD
+T26	DiseaseOrSyndrome 660 662	AD
+T27	DiseaseOrSyndrome 1024 1026	AD
+T28	ClinicalAttribute 443 452	biomarker
+T29	ClinicalAttribute 663 672	biomarker
+T30	ClinicalAttribute 1052 1061	biomarker
+T31	PopulationGroup 67 73	adults
+T32	PopulationGroup 887 893	adults
+T33	TemporalConcept 232 249	preclinical stage
+T34	DiseaseOrSyndrome 300 320	cognitive impairment
+T35	PopulationGroup 491 503	older adults
+T36	TemporalConcept 100 112	last century
+T37	PharmacologicSubstance 116 124	medicine
+T38	Finding 23 50	disease-related information
+T39	Finding 468 490	cognitively unimpaired
+T40	AminoAcidPeptideOrProtein 821 828	amyloid
+T41	Finding 1077 1099	cognitively unimpaired

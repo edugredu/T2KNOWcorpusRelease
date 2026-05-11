@@ -1,0 +1,128 @@
+T0	BodyPartOrganOrOrganComponent 83 100	circulating blood
+T1	Finding 131 142	noninvasive
+T2	ClinicalAttribute 410 430	molecular biomarkers
+T3	PopulationGroup 737 754	research subjects
+T4	ClinicalAttribute 1078 1093	core biomarkers
+T5	Substance 1297 1306	Molecules
+T6	DiseaseOrSyndrome 1388 1407	metabolism disorder
+T7	AminoAcidPeptideOrProtein 1449 1452	HGF
+T8	BiologicallyActiveSubstance 1449 1452	HGF
+T9	InjuryOrPoisoning 1455 1470	vascular injury
+T10	AminoAcidPeptideOrProtein 1472 1478	VEGF-D
+T11	GeneOrGenome 1472 1478	VEGF-D
+T12	CellFunction 1582 1594	differential
+T13	ClinicalAttribute 1582 1594	differential
+T14	Substance 1846 1860	core molecules
+T15	NucleicAcidNucleosideOrNucleotide 1661 1668	miR-132
+T16	BiologicallyActiveSubstance 1661 1668	miR-132
+T17	TemporalConcept 198 204	states
+T18	ResearchActivity 389 406	systematic review
+T19	BiologicFunction 169 185	brain physiology
+T20	Finding 1424 1447	neurotrophic deficiency
+T21	HealthCareActivity 389 406	systematic review
+T22	ResearchActivity 873 894	observational studies
+T23	BodyPartOrganOrOrganComponent 1455 1463	vascular
+T24	CellOrMolecularDysfunction 1782 1802	synaptic dysfunction
+T25	CellComponent 26 48	extracellular vesicles
+T26	DiseaseOrSyndrome 324 343	Alzheimer's disease
+T27	DiseaseOrSyndrome 530 549	Alzheimer's disease
+T28	DiseaseOrSyndrome 582 601	Alzheimer's disease
+T29	DiseaseOrSyndrome 771 790	Alzheimer's disease
+T30	DiseaseOrSyndrome 835 854	Alzheimer's disease
+T31	DiseaseOrSyndrome 1215 1234	Alzheimer's disease
+T32	DiseaseOrSyndrome 1267 1286	Alzheimer's disease
+T33	DiseaseOrSyndrome 1978 1997	Alzheimer's disease
+T34	DiseaseOrSyndrome 2094 2113	Alzheimer's disease
+T35	PatientOrDisabledGroup 1287 1295	patients
+T36	Cell 1176 1182	neuron
+T37	ResearchActivity 929 950	quantitative analysis
+T38	ResearchActivity 1018 1038	qualitative analysis
+T39	BodyPartOrganOrOrganComponent 1782 1790	synaptic
+T40	ResearchActivity 629 635	search
+T41	ResearchActivity 737 745	research
+T42	BiologicFunction 2030 2041	development
+T43	CellFunction 2030 2041	development
+T44	AminoAcidPeptideOrProtein 1118 1128	P-T181-tau
+T45	AminoAcidPeptideOrProtein 1130 1140	P-S396-tau
+T46	AminoAcidPeptideOrProtein 1146 1151	T-tau
+T47	ClinicalAttribute 284 294	biomarkers
+T48	ClinicalAttribute 1083 1093	biomarkers
+T49	ClinicalAttribute 1938 1948	biomarkers
+T50	ClinicalAttribute 2053 2063	biomarkers
+T51	BiologicallyActiveSubstance 1118 1128	P-T181-tau
+T52	BiologicallyActiveSubstance 1130 1140	P-S396-tau
+T53	BiologicallyActiveSubstance 1146 1151	T-tau
+T54	BodyPartOrganOrOrganComponent 230 235	blood
+T55	BodyPartOrganOrOrganComponent 444 449	blood
+T56	BodyPartOrganOrOrganComponent 1170 1175	blood
+T57	BodyPartOrganOrOrganComponent 1900 1905	blood
+T58	BodyPartOrganOrOrganComponent 2079 2084	blood
+T59	Cell 68 73	cells
+T60	ResearchActivity 618 628	literature
+T61	CellComponent 236 241	cargo
+T62	CellComponent 2045 2052	exosome
+T63	CellFunction 1595 1605	expression
+T64	Finding 1329 1333	risk
+T65	Finding 1876 1880	risk
+T66	AminoAcidPeptideOrProtein 1104 1116	A beta(1-42)
+T67	GeneOrGenome 1640 1644	REST
+T68	BiologicallyActiveSubstance 1640 1644	REST
+T69	Finding 551 555	mild
+T70	Finding 792 796	mild
+T71	Finding 1236 1240	mild
+T72	PopulationGroup 746 754	subjects
+T73	DiseaseOrSyndrome 556 576	cognitive impairment
+T74	DiseaseOrSyndrome 797 817	cognitive impairment
+T75	DiseaseOrSyndrome 1241 1261	cognitive impairment
+T76	HealthCareActivity 158 168	monitoring
+T77	BiomedicalOccupationOrDiscipline 175 185	physiology
+T78	BiologicFunction 175 185	physiology
+T79	BodyPartOrganOrOrganComponent 0 5	Blood
+T80	Finding 61 67	living
+T81	CellFunction 1485 1494	autophagy
+T82	Finding 1329 1341	risk factors
+T83	DiseaseOrSyndrome 551 576	mild cognitive impairment
+T84	DiseaseOrSyndrome 792 817	mild cognitive impairment
+T85	DiseaseOrSyndrome 1236 1261	mild cognitive impairment
+T86	Substance 1851 1860	molecules
+T87	Finding 492 514	diagnostic performance
+T88	ClinicalAttribute 274 294	potential biomarkers
+T89	CellFunction 1712 1723	translation
+T90	ResearchActivity 1808 1812	data
+T91	PathologicFunction 1363 1380	neuroinflammation
+T92	PathologicFunction 1512 1523	dysfunction
+T93	PathologicFunction 1791 1802	dysfunction
+T94	CellComponent 6 14	exosomes
+T95	CellComponent 249 257	exosomes
+T96	CellComponent 450 458	exosomes
+T97	CellComponent 1191 1199	exosomes
+T98	CellComponent 1906 1914	exosomes
+T99	GeneOrGenome 1566 1570	gene
+T100	ResearchActivity 371 384	meta-analysis
+T101	ResearchActivity 1044 1057	meta-analysis
+T102	ResearchActivity 2120 2133	meta-analysis
+T103	HealthCareRelatedOrganization 639 645	PubMed
+T104	HealthCareRelatedOrganization 647 661	Web of Science
+T105	ResearchActivity 675 691	Cochrane Library
+T106	Finding 209 219	increasing
+T107	NucleicAcidNucleosideOrNucleotide 1683 1686	RNA
+T108	NucleicAcidNucleosideOrNucleotide 1650 1659	microRNAs
+T109	BiologicallyActiveSubstance 1650 1659	microRNAs
+T110	HealthCareRelatedOrganization 663 669	Embase
+T111	HealthCareRelatedOrganization 2156 2212	International Prospective Register of Systematic Reviews
+T112	AminoAcidPeptideOrProtein 1525 1536	cathepsin D
+T113	BiologicallyActiveSubstance 1525 1536	cathepsin D
+T114	GeneOrGenome 1449 1452	HGF
+T115	BiologicallyActiveSubstance 1104 1116	A beta(1-42)
+T116	AminoAcidPeptideOrProtein 1409 1421	P-S312-IRS-1
+T117	BiologicallyActiveSubstance 1409 1421	P-S312-IRS-1
+T118	BiologicallyActiveSubstance 1472 1478	VEGF-D
+T119	CellFunction 1485 1511	autophagy-lysosomal system
+T120	CellFunction 1609 1622	transcription
+T121	AminoAcidPeptideOrProtein 1640 1644	REST
+T122	CellFunction 1683 1695	RNA splicing
+T123	CellFunction 1683 1686;1697 1706	RNA transport
+T124	CellOrMolecularDysfunction 1766 1777	neural loss
+T125	HealthCareActivity 2070 2089	clinical blood test
+T126	Finding 1731 1751	pathological changes
+T127	ResearchActivity 952 974	Newcastle-Ottawa Scale

@@ -1,0 +1,103 @@
+T0	Chemical 0 11	Huperzine A
+T1	Chemical 13 17	HupA
+T2	PharmacologicSubstance 32 62	acetylcholinesterase inhibitor
+T3	PharmacologicSubstance 64 69	AChEI
+T4	CellFunction 111 122	selectivity
+T5	TemporalConcept 134 147	reversibility
+T6	Finding 265 273	reducing
+T7	Chemical 438 442	HupA
+T8	Chemical 644 648	HupA
+T9	Chemical 727 731	HupA
+T10	Chemical 930 934	HupA
+T11	GeneOrGenome 1001 1005	Arg1
+T12	GeneOrGenome 1007 1012	CD206
+T13	Finding 1020 1028	reducing
+T14	AminoAcidPeptideOrProtein 1098 1103	IL-18
+T15	BiologicallyActiveSubstance 1098 1103	IL-18
+T16	GeneOrGenome 1098 1103	IL-18
+T17	AminoAcidPeptideOrProtein 1105 1109	CD16
+T18	GeneOrGenome 1105 1109	CD16
+T19	Chemical 1127 1139	Mecamylamine
+T20	PharmacologicSubstance 1143 1190	nicotinic acetylcholinergic receptor antagonist
+T21	Chemical 1268 1272	HupA
+T22	BiologicFunction 972 989	anti-inflammatory
+T23	PharmacologicSubstance 972 989	anti-inflammatory
+T24	ExperimentalModelOfDisease 327 368	experimental autoimmune encephalomyelitis
+T25	ExperimentalModelOfDisease 370 373	EAE
+T26	AminoAcidPeptideOrProtein 1087 1096	IL-1 beta
+T27	BiologicallyActiveSubstance 1115 1124	TNF-alpha
+T28	AminoAcidPeptideOrProtein 1115 1124	TNF-alpha
+T29	Chemical 703 706	CPZ
+T30	Chemical 834 837	CPZ
+T31	Chemical 897 900	CPZ
+T32	Chemical 920 923	CPZ
+T33	BiologicallyActiveSubstance 1087 1096	IL-1 beta
+T34	PharmacologicSubstance 1087 1096	IL-1 beta
+T35	DiseaseOrSyndrome 278 301	neurological impairment
+T36	AminoAcidPeptideOrProtein 32 52	acetylcholinesterase
+T37	BiologicallyActiveSubstance 32 52	acetylcholinesterase
+T38	BiologicallyActiveSubstance 53 62	inhibitor
+T39	PharmacologicSubstance 53 62	inhibitor
+T40	Chemical 53 62	inhibitor
+T41	PathologicFunction 306 323	neuroinflammation
+T42	PathologicFunction 1374 1391	neuroinflammation
+T43	DiseaseOrSyndrome 757 764	anxiety
+T44	AminoAcidPeptideOrProtein 990 999	cytokines
+T45	AminoAcidPeptideOrProtein 1070 1079	cytokines
+T46	BiologicallyActiveSubstance 990 999	cytokines
+T47	CellFunction 1070 1079	cytokines
+T48	ResearchActivity 599 607	analyzed
+T49	BiologicFunction 770 778	behavior
+T50	IndividualBehavior 770 778	behavior
+T51	ResearchActivity 770 778	behavior
+T52	Cell 465 480	oligodendrocyte
+T53	BiologicFunction 501 511	maturation
+T54	Eukaryote 838 842	mice
+T55	Eukaryote 901 905	mice
+T56	Eukaryote 924 928	mice
+T57	ResearchActivity 386 391	model
+T58	ResearchActivity 669 674	model
+T59	DiseaseOrSyndrome 396 414	multiple sclerosis
+T60	DiseaseOrSyndrome 1317 1335	multiple sclerosis
+T61	BiologicFunction 811 830	cognitive functions
+T62	CellFunction 524 537	remyelination
+T63	PathologicFunction 1053 1069	pro-inflammatory
+T64	DiseaseOrSyndrome 416 418	MS
+T65	DiseaseOrSyndrome 678 680	MS
+T66	PathologicFunction 862 875	demyelination
+T67	PathologicFunction 1356 1369	demyelination
+T68	CellFunction 481 496	differentiation
+T69	InjuryOrPoisoning 887 893	injury
+T70	BiologicallyActiveSubstance 1171 1179	receptor
+T71	CellComponent 880 886	axonal
+T72	Finding 176 195	therapeutic effects
+T73	Finding 1294 1313	therapeutic effects
+T74	Finding 94 109	high efficiency
+T75	NucleicAcidNucleosideOrNucleotide 945 949	mRNA
+T76	Chemical 692 701	cuprizone
+T77	PathologicFunction 977 989	inflammatory
+T78	PathologicFunction 1057 1069	inflammatory
+T79	ResearchActivity 584 589	study
+T80	DiseaseOrSyndrome 212 238	neurodegenerative diseases
+T81	AminoAcidPeptideOrProtein 1081 1085	iNOS
+T82	BiologicallyActiveSubstance 1081 1085	iNOS
+T83	PharmacologicSubstance 0 11	Huperzine A
+T84	PharmacologicSubstance 13 17	HupA
+T85	PharmacologicSubstance 438 442	HupA
+T86	Finding 622 640	protective effects
+T87	PharmacologicSubstance 644 648	HupA
+T88	ExperimentalModelOfDisease 656 701	demylination model of MS induced by cuprizone
+T89	PharmacologicSubstance 727 731	HupA
+T90	ExperimentalModelOfDisease 834 842	CPZ mice
+T91	ExperimentalModelOfDisease 920 928	CPZ mice
+T92	ExperimentalModelOfDisease 897 905	CPZ mice
+T93	PharmacologicSubstance 930 934	HupA
+T94	BiologicallyActiveSubstance 1001 1005	Arg1
+T95	AminoAcidPeptideOrProtein 1001 1005	Arg1
+T96	BiologicallyActiveSubstance 1007 1012	CD206
+T97	AminoAcidPeptideOrProtein 1007 1012	CD206
+T98	BiologicallyActiveSubstance 1105 1109	CD16
+T99	PharmacologicSubstance 1127 1139	Mecamylamine
+T100	Chemical 1233 1237	HupA
+T101	PharmacologicSubstance 1233 1237	HupA
+T102	PharmacologicSubstance 1268 1272	HupA

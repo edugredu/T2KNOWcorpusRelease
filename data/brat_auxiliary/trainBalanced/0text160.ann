@@ -1,0 +1,52 @@
+T0	Finding 77 85	abnormal
+T1	AminoAcidPeptideOrProtein 140 154	mutant protein
+T2	CellOrMolecularDysfunction 140 154	mutant protein
+T3	HealthCareActivity 359 377	Neuroimaging tools
+T4	HealthCareActivity 657 680	Neuroimaging techniques
+T5	MolecularSequence 228 231	CAG
+T6	TemporalConcept 1000 1006	stages
+T7	CellOrMolecularDysfunction 86 106	CAG repeat expansion
+T8	HealthCareActivity 387 415	positron emission tomography
+T9	BiologicFunction 616 629	understanding
+T10	Cell 181 191	brain cell
+T11	GeneOrGenome 114 122	HTT gene
+T12	HealthCareActivity 417 420	PET
+T13	HealthCareActivity 894 897	PET
+T14	PopulationGroup 261 271	population
+T15	SignOrSymptom 340 357	clinical symptoms
+T16	HealthCareActivity 721 736	early detection
+T17	MolecularSequence 86 96	CAG repeat
+T18	TemporalConcept 331 336	onset
+T19	ResearchActivity 793 808	clinical trials
+T20	ResearchActivity 1096 1111	clinical trials
+T21	HealthCareActivity 454 457	MRI
+T22	HealthCareActivity 902 905	MRI
+T23	HealthCareActivity 426 452	magnetic resonance imaging
+T24	HealthCareActivity 1047 1059	neuroimaging
+T25	PathologicFunction 634 649	pathophysiology
+T26	PathologicFunction 946 961	pathophysiology
+T27	PathologicFunction 285 310	pathophysiological events
+T28	BiomedicalOccupationOrDiscipline 634 649	pathophysiology
+T29	BiomedicalOccupationOrDiscipline 946 961	pathophysiology
+T30	ResearchActivity 1079 1085	design
+T31	HealthCareActivity 1079 1085	design
+T32	BodyPartOrganOrOrganComponent 536 541	brain
+T33	TemporalConcept 1089 1095	future
+T34	ResearchActivity 484 491	in vivo
+T35	PathologicFunction 741 763	progression of disease
+T36	Substance 825 831	sample
+T37	BodyPartOrganOrOrganComponent 825 831	sample
+T38	DiseaseOrSyndrome 0 20	Huntington's disease
+T39	DiseaseOrSyndrome 22 24	HD
+T40	DiseaseOrSyndrome 653 655	HD
+T41	DiseaseOrSyndrome 965 967	HD
+T42	ClinicalAttribute 707 717	biomarkers
+T43	ClinicalAttribute 1060 1070	biomarkers
+T44	DiseaseOrSyndrome 37 63	neurodegenerative disorder
+T45	ResearchActivity 906 914	research
+T46	Finding 1016 1039	translational potential
+T47	InjuryOrPoisoning 192 198	damage
+T48	PharmacologicSubstance 1117 1141	disease-modifying agents
+T49	CellOrMolecularDysfunction 228 241	CAG expansion
+T50	Finding 542 553	alterations
+T51	PatientOrDisabledGroup 200 220	Premanifest carriers

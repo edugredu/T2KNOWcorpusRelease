@@ -1,0 +1,109 @@
+T0	DiseaseOrSyndrome 30 65	inherited neurodegenerative disease
+T1	SignOrSymptom 126 144	cognitive symptoms
+T2	BiologicFunction 197 205	encoding
+T3	OrganismAttribute 230 242	Homozygosity
+T4	PatientOrDisabledGroup 312 323	HD patients
+T5	CellFunction 324 331	express
+T6	CellOrMolecularDysfunction 336 342	mutant
+T7	BodyPartOrganOrOrganComponent 477 488	hippocampal
+T8	BiologicFunction 513 516	LTP
+T9	ExperimentalModelOfDisease 551 569	mouse models of HD
+T10	SignOrSymptom 607 638	debilitating cognitive symptoms
+T11	OrganismAttribute 731 741	homozygous
+T12	ResearchActivity 742 750	knock-in
+T13	TemporalConcept 773 789	symptomatic ages
+T14	OrganismAttribute 1003 1015	heterozygous
+T15	OrganismAttribute 1020 1030	homozygous
+T16	CellOrMolecularDysfunction 1031 1051	huntingtin mutations
+T17	CellComponent 1096 1107	presynaptic
+T18	CellFunction 1096 1115	presynaptic release
+T19	BiologicFunction 1190 1219	postsynaptically mediated LTP
+T20	OrganismAttribute 1286 1298	heterozygous
+T21	OrganismAttribute 1303 1313	homozygous
+T22	Finding 1370 1391	age-dependent effects
+T23	BiologicFunction 1437 1457	long-term plasticity
+T24	OrganismAttribute 1491 1501	homozygous
+T25	Eukaryote 1502 1506	mice
+T26	CellComponent 1535 1546	presynaptic
+T27	BiologicFunction 1547 1568	short-term plasticity
+T28	OrganismAttribute 1656 1668	heterozygous
+T29	BiologicFunction 1702 1705	LTP
+T30	ResearchActivity 1730 1756	high frequency stimulation
+T31	Finding 1813 1822	knowledge
+T32	ResearchActivity 1871 1887	characterization
+T33	BodyPartOrganOrOrganComponent 1928 1939	hippocampal
+T34	Cell 1928 1939	hippocampal
+T35	ManufacturedObject 1974 1985	mouse model
+T36	ExperimentalModelOfDisease 1322 1338	knock-in HD mice
+T37	TemporalConcept 1480 1487	earlier
+T38	BiologicFunction 1634 1650	postsynaptic LTP
+T39	BiologicFunction 489 511	long-term potentiation
+T40	AminoAcidPeptideOrProtein 708 727	N-terminal fragment
+T41	ExperimentalModelOfDisease 751 769	mouse models of HD
+T42	Finding 377 394	reduced levels of
+T43	CellOrMolecularDysfunction 942 970	synaptic plasticity deficits
+T44	CellOrMolecularDysfunction 845 873	synaptic plasticity deficits
+T45	BodyPartOrganOrOrganComponent 1073 1094	synaptic connectivity
+T46	ResearchActivity 1096 1127	presynaptic release probability
+T47	ClinicalAttribute 1067 1094	basal synaptic connectivity
+T48	ExperimentalModelOfDisease 1314 1321	Q175FDN
+T49	CellOrMolecularDysfunction 1940 1968	synaptic plasticity deficits
+T50	CellOrMolecularDysfunction 434 465	Deficits in synaptic plasticity
+T51	TemporalConcept 927 938	time-course
+T52	CellOrMolecularDysfunction 1523 1568	deficits in presynaptic short-term plasticity
+T53	CellOrMolecularDysfunction 1622 1650	deficits in postsynaptic LTP
+T54	Eukaryote 1669 1673	mice
+T55	BodyPartOrganOrOrganComponent 884 889	brain
+T56	CellOrMolecularDysfunction 164 184	CAG repeat expansion
+T57	DiseaseOrSyndrome 2082 2112	debilitating cognitive decline
+T58	PathologicFunction 1597 1616	disease progression
+T59	TemporalConcept 1735 1744	frequency
+T60	DiseaseOrSyndrome 20 22	HD
+T61	DiseaseOrSyndrome 146 148	HD
+T62	DiseaseOrSyndrome 567 569	HD
+T63	DiseaseOrSyndrome 767 769	HD
+T64	DiseaseOrSyndrome 881 883	HD
+T65	DiseaseOrSyndrome 974 976	HD
+T66	DiseaseOrSyndrome 1331 1333	HD
+T67	DiseaseOrSyndrome 1989 1991	HD
+T68	DiseaseOrSyndrome 2116 2118	HD
+T69	CellOrMolecularDysfunction 251 270	HD-causing mutation
+T70	CellOrMolecularDysfunction 1399 1418	HD-causing mutation
+T71	AminoAcidPeptideOrProtein 210 228	huntingtin protein
+T72	AminoAcidPeptideOrProtein 343 361	huntingtin protein
+T73	AminoAcidPeptideOrProtein 414 432	huntingtin protein
+T74	BiologicallyActiveSubstance 210 228	huntingtin protein
+T75	BiologicallyActiveSubstance 343 361	huntingtin protein
+T76	BiologicallyActiveSubstance 414 432	huntingtin protein
+T77	DiseaseOrSyndrome 0 18	Huntington disease
+T78	CellOrMolecularDysfunction 1702 1713	LTP deficit
+T79	TemporalConcept 820 825	onset
+T80	TemporalConcept 1903 1908	onset
+T81	BiologicFunction 1154 1179	post-tetanic potentiation
+T82	BiologicFunction 1181 1184	PTP
+T83	PathologicFunction 830 841	progression
+T84	PathologicFunction 1913 1924	progression
+T85	TemporalConcept 830 841	progression
+T86	TemporalConcept 1913 1924	progression
+T87	TemporalConcept 284 288	rare
+T88	ResearchActivity 1836 1841	study
+T89	ResearchActivity 695 702	studies
+T90	ResearchActivity 2029 2036	studies
+T91	CellFunction 446 465	synaptic plasticity
+T92	CellFunction 845 864	synaptic plasticity
+T93	CellFunction 942 961	synaptic plasticity
+T94	CellFunction 1940 1959	synaptic plasticity
+T95	BiologicFunction 446 465	synaptic plasticity
+T96	BiologicFunction 845 864	synaptic plasticity
+T97	BiologicFunction 942 961	synaptic plasticity
+T98	BiologicFunction 1940 1959	synaptic plasticity
+T99	ResearchActivity 1769 1792	theta burst stimulation
+T100	PopulationGroup 1261 1282	late symptomatic ages
+T101	CellComponent 1634 1646	postsynaptic
+T102	TemporalConcept 1888 1895	to date
+T103	ExperimentalModelOfDisease 1974 1991	mouse model of HD
+T104	TemporalConcept 2022 2028	future
+T105	SignOrSymptom 103 108;136 144	motor symptoms
+T106	SignOrSymptom 110 121;136 144	psychiatric symptoms
+T107	PopulationGroup 1223 1237;1278 1282	presymptomatic ages
+T108	PopulationGroup 1239 1256;1278 1282	early symptomatic ages

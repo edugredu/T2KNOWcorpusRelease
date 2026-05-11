@@ -1,0 +1,109 @@
+T0	Finding 245 257	overexposure
+T1	BiologicallyActiveSubstance 303 305	Mn
+T2	Chemical 303 305	Mn
+T3	BodyPartOrganOrOrganComponent 357 379	extrapyramidal effects
+T4	BiologicallyActiveSubstance 411 413	Mn
+T5	Chemical 411 413	Mn
+T6	Finding 414 426	overexposure
+T7	AminoAcidPeptideOrProtein 480 518	complexes of electron transport chains
+T8	BiologicallyActiveSubstance 480 518	complexes of electron transport chains
+T9	AminoAcidPeptideOrProtein 520 523	ETC
+T10	BiologicallyActiveSubstance 520 523	ETC
+T11	PharmacologicSubstance 579 586	calcium
+T12	Chemical 579 586	calcium
+T13	CellFunction 612 627	enzyme activity
+T14	Chemical 689 698	serotonin
+T15	CellFunction 689 698	serotonin
+T16	PharmacologicSubstance 689 698	serotonin
+T17	BiologicallyActiveSubstance 704 706	Mn
+T18	Chemical 704 706	Mn
+T19	Chemical 729 736	monomer
+T20	NucleicAcidNucleosideOrNucleotide 766 775	oligomers
+T21	InjuryOrPoisoning 785 790	toxic
+T22	CellFunction 833 843	exocytosis
+T23	AminoAcidPeptideOrProtein 847 872	misfolded alpha-synuclein
+T24	CellOrMolecularDysfunction 847 872	misfolded alpha-synuclein
+T25	AminoAcidPeptideOrProtein 901 911	chemokines
+T26	BiologicallyActiveSubstance 901 911	chemokines
+T27	CellComponent 978 988	investment
+T28	HealthCareActivity 1025 1034;993 1003	treatment preventive
+T29	BiologicallyActiveSubstance 1146 1148	Mn
+T30	Chemical 1146 1148	Mn
+T31	BiologicallyActiveSubstance 1246 1248	Mn
+T32	Chemical 1246 1248	Mn
+T33	InjuryOrPoisoning 1246 1257	Mn exposure
+T34	NaturalPhenomenonOrProcess 1289 1297	kinetics
+T35	BiologicallyActiveSubstance 1358 1360	Mn
+T36	Chemical 1358 1360	Mn
+T37	Finding 1361 1373	overexposure
+T38	BiologicallyActiveSubstance 1533 1535	Mn
+T39	Chemical 1533 1535	Mn
+T40	HealthCareActivity 1577 1594	chelation therapy
+T41	Chemical 1600 1641	calcium ethylenediamine tetra-acetic acid
+T42	Chemical 1654 1678	para-aminosalicylic acid
+T43	Chemical 1680 1683	PAS
+T44	Chemical 1690 1704	phytochemicals
+T45	Chemical 1710 1720	flavonoids
+T46	BiologicallyActiveSubstance 679 687	dopamine
+T47	Chemical 679 687	dopamine
+T48	PharmacologicSubstance 679 687	dopamine
+T49	BiologicFunction 465 475	inhibiting
+T50	CellOrMolecularDysfunction 436 461	mitochondrial dysfunction
+T51	TemporalConcept 109 115	period
+T52	Chemical 292 301	manganese
+T53	BiologicallyActiveSubstance 292 301	manganese
+T54	HealthCareActivity 1007 1034	disease-modifying treatment
+T55	AminoAcidPeptideOrProtein 917 942	proinflammatory cytokines
+T56	BiologicallyActiveSubstance 917 942	proinflammatory cytokines
+T57	InjuryOrPoisoning 1536 1544	toxicity
+T58	Finding 1337 1349	relationship
+T59	PathologicFunction 219 233	excitotoxicity
+T60	CellOrMolecularDysfunction 636 673	imbalance in neu-rotransmitters level
+T61	BodyPartOrganOrOrganComponent 1315 1319	body
+T62	Chemical 239 244	metal
+T63	Finding 187 199	accumulation
+T64	AminoAcidPeptideOrProtein 751 760	synuclein
+T65	BiologicallyActiveSubstance 751 760	synuclein
+T66	AminoAcidPeptideOrProtein 745 760	alpha-synuclein
+T67	BiologicallyActiveSubstance 745 760	alpha-synuclein
+T68	PathologicFunction 1378 1390	pathogenesis
+T69	TemporalConcept 272 279	chronic
+T70	Cell 890 899	microglia
+T71	PopulationGroup 38 43	group
+T72	PathologicFunction 173 185	inflammation
+T73	PathologicFunction 1780 1792	inflammation
+T74	AminoAcidPeptideOrProtein 209 217	proteins
+T75	BiologicFunction 587 598	homeostasis
+T76	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T77	CellOrMolecularDysfunction 328 345	neurodegeneration
+T78	HealthCareActivity 1508 1517	treatment
+T79	ResearchActivity 1508 1517	treatment
+T80	TemporalConcept 74 85	progressive
+T81	CellOrMolecularDysfunction 560 562	OS
+T82	Cell 94 101	neurons
+T83	Cell 794 801	neurons
+T84	Cell 1746 1753	neurons
+T85	CellOrMolecularDysfunction 155 171	oxidative stress
+T86	CellOrMolecularDysfunction 542 558	oxidative stress
+T87	CellOrMolecularDysfunction 1759 1775	oxidative stress
+T88	CellOrMolecularDysfunction 86 101	loss of neurons
+T89	DiseaseOrSyndrome 1450 1452	AD
+T90	Finding 1131 1142	involvement
+T91	Eukaryote 1309 1314	human
+T92	TemporalConcept 119 123	time
+T93	DiseaseOrSyndrome 1195 1221	neurodegenerative diseases
+T94	DiseaseOrSyndrome 1398 1418	Huntington's disease
+T95	DiseaseOrSyndrome 385 404	Parkinson's disease
+T96	DiseaseOrSyndrome 1420 1422	HD
+T97	DiseaseOrSyndrome 406 408	PD
+T98	DiseaseOrSyndrome 1394 1396	PD
+T99	DiseaseOrSyndrome 1429 1448	Alzheimer's disease
+T100	ResearchActivity 1096 1102	review
+T101	HealthCareActivity 1096 1102	review
+T102	ResearchActivity 965 973	research
+T103	InjuryOrPoisoning 280 301	exposure to manganese
+T104	BiologicallyActiveSubstance 579 586	calcium
+T105	AminoAcidPeptideOrProtein 766 775	oligomers
+T106	ResearchActivity 1555 1575	bioinformatics tools
+T107	Chemical 1643 1651	Ca2+EDTA
+T108	InjuryOrPoisoning 203 208	toxic

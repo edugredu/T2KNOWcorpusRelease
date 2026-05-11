@@ -1,0 +1,5 @@
+T0	PharmacologicSubstance 146 151	drugs
+T1	ResearchActivity 78 107	potential therapeutic targets
+T2	ResearchActivity 24 38	drug discovery
+T3	MachineActivity 0 16	Machine learning
+T4	HealthCareActivity 156 177	Alzheimer's treatment

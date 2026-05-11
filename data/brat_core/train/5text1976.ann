@@ -1,0 +1,5 @@
+T0	DiseaseOrSyndrome 99 126	neurodegenerative disorders
+T1	PathologicFunction 151 170	disease progression
+T2	TemporalConcept 12 19	ongoing
+T3	ResearchActivity 0 8	Research
+T4	AnatomicalAbnormality 63 85	brain stem compression

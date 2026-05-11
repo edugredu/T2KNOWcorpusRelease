@@ -1,0 +1,77 @@
+T0	CellOrMolecularDysfunction 79 107	CAG trinucleotide expansions
+T1	ClinicalAttribute 132 139	Markers
+T2	BodyPartOrganOrOrganComponent 148 156	systemic
+T3	AminoAcidPeptideOrProtein 326 330	IL-6
+T4	GeneOrGenome 326 330	IL-6
+T5	BiologicallyActiveSubstance 326 330	IL-6
+T6	AminoAcidPeptideOrProtein 492 496	IL-6
+T7	GeneOrGenome 492 496	IL-6
+T8	BiologicallyActiveSubstance 492 496	IL-6
+T9	AminoAcidPeptideOrProtein 614 618	IL-6
+T10	GeneOrGenome 614 618	IL-6
+T11	BiologicallyActiveSubstance 614 618	IL-6
+T12	AminoAcidPeptideOrProtein 648 652	IL-6
+T13	BiologicallyActiveSubstance 648 652	IL-6
+T14	GeneOrGenome 648 652	IL-6
+T15	AminoAcidPeptideOrProtein 807 811	IL-6
+T16	GeneOrGenome 807 811	IL-6
+T17	BiologicallyActiveSubstance 807 811	IL-6
+T18	Finding 834 847	dysregulation
+T19	CellFunction 881 898	synaptic function
+T20	AminoAcidPeptideOrProtein 915 928	BDNF receptor
+T21	GeneOrGenome 929 934	Ntrk2
+T22	AminoAcidPeptideOrProtein 929 934	Ntrk2
+T23	BiologicallyActiveSubstance 929 934	Ntrk2
+T24	AminoAcidPeptideOrProtein 960 964	IL-6
+T25	GeneOrGenome 960 964	IL-6
+T26	BiologicallyActiveSubstance 960 964	IL-6
+T27	CellOrMolecularDysfunction 1029 1051	dysregulation of genes
+T28	AminoAcidPeptideOrProtein 1150 1154	IL-6
+T29	GeneOrGenome 1150 1154	IL-6
+T30	BiologicallyActiveSubstance 1150 1154	IL-6
+T31	CellFunction 1223 1240	synaptic function
+T32	GeneOrGenome 115 130	huntingtin gene
+T33	CellOrMolecularDysfunction 551 568	mutant huntingtin
+T34	CellOrMolecularDysfunction 1003 1020	mutant huntingtin
+T35	Cell 782 792	cell types
+T36	ExperimentalModelOfDisease 233 251	mouse models of HD
+T37	TemporalConcept 339 347	earliest
+T38	Finding 497 507	deficiency
+T39	Finding 653 663	deficiency
+T40	Finding 812 822	deficiency
+T41	Finding 965 975	deficiency
+T42	AminoAcidPeptideOrProtein 915 919	BDNF
+T43	BiologicallyActiveSubstance 915 919	BDNF
+T44	BiologicallyActiveSubstance 920 928	receptor
+T45	BiologicFunction 165 182	immune activation
+T46	BiologicFunction 367 384	immune activation
+T47	OrganismAttribute 696 717	behavioral phenotypes
+T48	PathologicFunction 450 462	pathogenesis
+T49	PathologicFunction 285 301	pro-inflammatory
+T50	ClinicalAttribute 357 363	marker
+T51	PathologicFunction 187 199	inflammation
+T52	Finding 268 277	elevation
+T53	Finding 401 410	elevation
+T54	Cell 1102 1109	neurons
+T55	BodyPartOrganOrOrganComponent 161 164	CNS
+T56	ResearchActivity 942 946	data
+T57	ResearchActivity 761 769	analysis
+T58	DiseaseOrSyndrome 0 20	Huntington's disease
+T59	DiseaseOrSyndrome 22 24	HD
+T60	DiseaseOrSyndrome 226 228	HD
+T61	DiseaseOrSyndrome 388 390	HD
+T62	DiseaseOrSyndrome 447 449	HD
+T63	DiseaseOrSyndrome 1074 1076	HD
+T64	DiseaseOrSyndrome 1264 1266	HD
+T65	BodyPartOrganOrOrganComponent 773 781	striatal
+T66	BodyPartOrganOrOrganComponent 1093 1101	striatal
+T67	DiseaseOrSyndrome 42 68	neurodegenerative disorder
+T68	BiologicallyActiveSubstance 302 324	cytokine interleukin-6
+T69	AminoAcidPeptideOrProtein 302 324	cytokine interleukin-6
+T70	ExperimentalModelOfDisease 583 601	R6/2 HD model mice
+T71	ExperimentalModelOfDisease 676 684	HD-model
+T72	ResearchActivity 719 748	Single nuclear RNA Sequencing
+T73	ResearchActivity 750 759	snRNA-seq
+T74	Finding 992 999	effects
+T75	PathologicFunction 1077 1089	pathobiology
+T76	Finding 1267 1285	therapeutic target

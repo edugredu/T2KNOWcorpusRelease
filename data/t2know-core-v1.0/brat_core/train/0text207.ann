@@ -1,0 +1,46 @@
+T0	AminoAcidPeptideOrProtein 0 14	Neuropeptide Y
+T1	GeneOrGenome 0 14	Neuropeptide Y
+T2	BiologicallyActiveSubstance 0 14	Neuropeptide Y
+T3	AminoAcidPeptideOrProtein 16 19	NPY
+T4	GeneOrGenome 16 19	NPY
+T5	BiologicallyActiveSubstance 16 19	NPY
+T6	Eukaryote 74 83	mammalian
+T7	AminoAcidPeptideOrProtein 102 105	NPY
+T8	GeneOrGenome 102 105	NPY
+T9	BiologicallyActiveSubstance 102 105	NPY
+T10	BodyPartOrganOrOrganComponent 126 139	brain regions
+T11	BodyPartOrganOrOrganComponent 144 150	plasma
+T12	DiseaseOrSyndrome 220 239	Alzheimer's disease
+T13	DiseaseOrSyndrome 241 260	Parkinson's disease
+T14	DiseaseOrSyndrome 284 313	Amyotrophic Lateral Sclerosis
+T15	DiseaseOrSyndrome 319 341	Machado-Joseph disease
+T16	AminoAcidPeptideOrProtein 358 361	NPY
+T17	GeneOrGenome 358 361	NPY
+T18	BiologicallyActiveSubstance 358 361	NPY
+T19	CellFunction 406 442	endogenous neuroprotective mechanism
+T20	PathologicFunction 461 481	degenerative process
+T21	AminoAcidPeptideOrProtein 520 523	NPY
+T22	GeneOrGenome 520 523	NPY
+T23	BiologicallyActiveSubstance 520 523	NPY
+T24	AminoAcidPeptideOrProtein 752 755	NPY
+T25	GeneOrGenome 752 755	NPY
+T26	BiologicallyActiveSubstance 752 755	NPY
+T27	DiseaseOrSyndrome 767 795	neuropathological conditions
+T28	AminoAcidPeptideOrProtein 860 863	NPY
+T29	GeneOrGenome 860 863	NPY
+T30	BiologicallyActiveSubstance 860 863	NPY
+T31	BiologicFunction 828 845	anti-inflammatory
+T32	PharmacologicSubstance 828 845	anti-inflammatory
+T33	BodyPartOrganOrOrganComponent 84 89	brain
+T34	Finding 483 504	Accumulating evidence
+T35	DiseaseOrSyndrome 262 282	Huntington's disease
+T36	DiseaseOrSyndrome 182 208	neurodegenerative diseases
+T37	PathologicFunction 662 688	progression of the disease
+T38	TemporalConcept 662 688	progression of the disease
+T39	ResearchActivity 698 704	review
+T40	HealthCareActivity 698 704	review
+T41	AminoAcidPeptideOrProtein 24 45	36 amino acid peptide
+T42	PharmacologicSubstance 597 602	agent
+T43	PharmacologicSubstance 582 602	pro-phagocytic agent
+T44	PharmacologicSubstance 543 557;597 602	anti-apoptotic agent
+T45	PharmacologicSubstance 559 577;597 602	anti-inflammatory, agent

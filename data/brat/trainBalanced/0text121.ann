@@ -1,0 +1,45 @@
+T0	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T1	DiseaseOrSyndrome 28 32	NDDs
+T2	DiseaseOrSyndrome 43 62	Alzheimer's disease
+T3	DiseaseOrSyndrome 64 83	Parkinson's disease
+T4	BodyPartOrganOrOrganComponent 188 210	central nervous system
+T5	PathologicFunction 216 231	pathophysiology
+T6	DiseaseOrSyndrome 235 239	NDDs
+T7	DiseaseOrSyndrome 341 362	cerebral degeneration
+T8	PathologicFunction 341 362	cerebral degeneration
+T9	Cell 395 403	neuronal
+T10	CellFunction 404 413	apoptosis
+T11	CellFunction 452 457	redox
+T12	ClinicalAttribute 458 468	biomarkers
+T13	HealthCareActivity 498 507	diagnosis
+T14	BodyPartOrganOrOrganComponent 542 548	saliva
+T15	Substance 574 583	bioliquid
+T16	HealthCareActivity 635 644	diagnosis
+T17	DiseaseOrSyndrome 648 652	NDDs
+T18	BodyPartOrganOrOrganComponent 654 660	Saliva
+T19	ResearchActivity 654 671	Saliva collection
+T20	BodyPartOrganOrOrganComponent 831 839	salivary
+T21	CellFunction 840 845	redox
+T22	ClinicalAttribute 846 856	biomarkers
+T23	BodyPartOrganOrOrganComponent 889 900	blood serum
+T24	ClinicalAttribute 964 976	non-invasive
+T25	Chemical 964 987	non-invasive indicators
+T26	DiseaseOrSyndrome 991 995	NDDs
+T27	HealthCareActivity 1008 1015	reviews
+T28	Finding 1027 1036	knowledge
+T29	BodyPartOrganOrOrganComponent 1059 1067	salivary
+T30	CellFunction 1068 1073	redox
+T31	ClinicalAttribute 1074 1084	biomarkers
+T32	HealthCareActivity 1092 1101	diagnosis
+T33	BiomedicalOccupationOrDiscipline 759 788	specialised medical personnel
+T34	TemporalConcept 1020 1026	latest
+T35	Finding 138 180	irreversible and progressive deterioration
+T36	DiseaseOrSyndrome 364 382	brain inflammation
+T37	PathologicFunction 364 382	brain inflammation
+T38	PathologicFunction 926 945	disease progression
+T39	DiseaseOrSyndrome 89 109	Huntington's disease
+T40	DiseaseOrSyndrome 511 537	neurodegenerative diseases
+T41	DiseaseOrSyndrome 1128 1154	neurodegenerative diseases
+T42	CellOrMolecularDysfunction 284 300	oxidative stress
+T43	HealthCareActivity 1106 1115	prognosis
+T44	ResearchActivity 1002 1007	paper

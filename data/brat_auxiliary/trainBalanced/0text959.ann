@@ -1,0 +1,298 @@
+T0	CellOrMolecularDysfunction 7 27	neuronal dysfunction
+T1	CellFunction 29 60	Post-translational modification
+T2	CellOrMolecularDysfunction 170 203	disease-causing toxic metabolites
+T3	BiologicallyActiveSubstance 192 203	metabolites
+T4	CellFunction 205 209	PTMs
+T5	CellFunction 218 229	acetylation
+T6	CellFunction 231 244	glycosylation
+T7	CellFunction 263 277	ubiquitination
+T8	CellFunction 279 293	palmitoylation
+T9	CellFunction 295 306	SUMOylation
+T10	CellFunction 308 317	nitration
+T11	CellFunction 355 374	protein homeostasis
+T12	AminoAcidPeptideOrProtein 391 408	protein structure
+T13	CellFunction 498 502	PTMs
+T14	CellFunction 524 542	signaling cascades
+T15	CellFunction 571 583	MAPK cascade
+T16	BiologicallyActiveSubstance 585 589	AMPK
+T17	AminoAcidPeptideOrProtein 585 589	AMPK
+T18	CellFunction 603 624	Wnt signaling pathway
+T19	PathologicFunction 632 644	pathogenesis
+T20	DiseaseOrSyndrome 648 652	NDDs
+T21	CellFunction 715 719	PTMs
+T22	Substance 731 749	chemical molecules
+T23	BiologicallyActiveSubstance 781 790	activator
+T24	CellFunction 853 868	neuroprotection
+T25	DiseaseOrSyndrome 989 993	NDDs
+T26	CellFunction 1041 1045	PTMs
+T27	CellFunction 1116 1120	PTMs
+T28	CellFunction 1124 1141	signaling cascade
+T29	CellFunction 1146 1164	cellular processes
+T30	DiseaseOrSyndrome 1168 1172	NDDs
+T31	CellFunction 1254 1258	PTMs
+T32	DiseaseOrSyndrome 1366 1370	NDDs
+T33	CellFunction 1461 1493	Post-translational modifications
+T34	CellFunction 1495 1499	PTMs
+T35	CellOrMolecularDysfunction 1531 1565	non-functional protein aggregation
+T36	PathologicFunction 1573 1585	pathogenesis
+T37	DiseaseOrSyndrome 1589 1593	NDDs
+T38	AminoAcidPeptideOrProtein 1700 1719	molecular chaperone
+T39	CellOrMolecularDysfunction 1804 1837	accumulation of misfolded protein
+T40	CellFunction 1860 1864	PTMs
+T41	CellFunction 1866 1898	Post-translational modifications
+T42	DiseaseOrSyndrome 1900 1904	NDDs
+T43	DiseaseOrSyndrome 1906 1932	Neurodegenerative diseases
+T44	DiseaseOrSyndrome 1934 1936	AD
+T45	DiseaseOrSyndrome 1938 1957	Alzheimer's disease
+T46	DiseaseOrSyndrome 1959 1961	PD
+T47	DiseaseOrSyndrome 1963 1982	Parkinson's disease
+T48	DiseaseOrSyndrome 1984 1987	ALS
+T49	DiseaseOrSyndrome 1989 2018	Amyotrophic lateral sclerosis
+T50	AminoAcidPeptideOrProtein 2046 2052	TDP-43
+T51	BiologicallyActiveSubstance 2046 2052	TDP-43
+T52	AminoAcidPeptideOrProtein 2111 2123	beta-amyloid
+T53	CellOrMolecularDysfunction 2125 2129	NFTs
+T54	CellComponent 2131 2143	Neurofibrils
+T55	BodyPartOrganOrOrganComponent 2159 2189	Substantia nigra pars compacta
+T56	AminoAcidPeptideOrProtein 2191 2196	polyQ
+T57	AminoAcidPeptideOrProtein 2198 2211	Polyglutamine
+T58	CellComponent 2213 2216	LBs
+T59	CellComponent 2218 2229	Lewy bodies
+T60	AminoAcidPeptideOrProtein 2231 2234	htt
+T61	AminoAcidPeptideOrProtein 2256 2260	SOD1
+T62	AminoAcidPeptideOrProtein 2262 2284	Superoxide dismutase 1
+T63	BiologicallyActiveSubstance 2262 2284	Superoxide dismutase 1
+T64	Chemical 2320 2323	CMA
+T65	CellFunction 2320 2323	CMA
+T66	AminoAcidPeptideOrProtein 2361 2380	Heat shock proteins
+T67	BiologicallyActiveSubstance 2361 2380	Heat shock proteins
+T68	BiologicallyActiveSubstance 2382 2387	PSEN2
+T69	AminoAcidPeptideOrProtein 2382 2387	PSEN2
+T70	AminoAcidPeptideOrProtein 2389 2401	Presenilin-2
+T71	BiologicallyActiveSubstance 2389 2401	Presenilin-2
+T72	GeneOrGenome 2409 2434	Interesting transcript 15
+T73	AminoAcidPeptideOrProtein 2436 2442	TARDBP
+T74	AminoAcidPeptideOrProtein 2444 2467	TAR DNA Binding Protein
+T75	CellFunction 2444 2467	TAR DNA Binding Protein
+T76	PharmacologicSubstance 2469 2471	NO
+T77	Chemical 2469 2471	NO
+T78	PharmacologicSubstance 2473 2485	Nitric oxide
+T79	Chemical 2473 2485	Nitric oxide
+T80	GeneOrGenome 2487 2490	CK1
+T81	AminoAcidPeptideOrProtein 2487 2490	CK1
+T82	AminoAcidPeptideOrProtein 2492 2507	Casein kinase 1
+T83	GeneOrGenome 2492 2507	Casein kinase 1
+T84	AminoAcidPeptideOrProtein 2509 2519	GSK-3 beta
+T85	AminoAcidPeptideOrProtein 2521 2552	Glycogen synthase kinase 3 beta
+T86	GeneOrGenome 2521 2552	Glycogen synthase kinase 3 beta
+T87	AminoAcidPeptideOrProtein 2554 2557	PKA
+T88	BiologicallyActiveSubstance 2554 2557	PKA
+T89	GeneOrGenome 2554 2557	PKA
+T90	AminoAcidPeptideOrProtein 2559 2575	Protein kinase A
+T91	GeneOrGenome 2559 2575	Protein kinase A
+T92	BiologicallyActiveSubstance 2559 2575	Protein kinase A
+T93	GeneOrGenome 2577 2581	CDK5
+T94	AminoAcidPeptideOrProtein 2577 2581	CDK5
+T95	AminoAcidPeptideOrProtein 2583 2608	Cyclin-dependent kinase 5
+T96	GeneOrGenome 2583 2608	Cyclin-dependent kinase 5
+T97	GeneOrGenome 2610 2616	DYRK1A
+T98	GeneOrGenome 2618 2679	Dual Specificity Tyrosine Phosphorylation Regulated Kinase 1A
+T99	GeneOrGenome 2681 2684	REP
+T100	AminoAcidPeptideOrProtein 2686 2713	Repressor element of PARKIN
+T101	AminoAcidPeptideOrProtein 2707 2713	PARKIN
+T102	MolecularSequence 2715 2718	MTS
+T103	CellComponent 2754 2756	TM
+T104	CellComponent 2758 2771	Transmembrane
+T105	GeneOrGenome 2773 2776	FUS
+T106	AminoAcidPeptideOrProtein 2773 2776	FUS
+T107	DiseaseOrSyndrome 2787 2794	sarcoma
+T108	MolecularSequence 2796 2799	NLS
+T109	MolecularSequence 2838 2859	RNA recognition motif
+T110	MolecularSequence 2861 2864	NES
+T111	CellFunction 2866 2880	Nuclear export
+T112	CellComponent 2891 2893	ER
+T113	CellComponent 2895 2916	Endoplasmic reticulum
+T114	CellFunction 2918 2921	UPR
+T115	CellFunction 2923 2948	Unfolded protein response
+T116	GeneOrGenome 2950 2960	IRE1 alpha
+T117	GeneOrGenome 2962 2995	Inositol-requiring enzyme 1 alpha
+T118	AminoAcidPeptideOrProtein 2962 2995	Inositol-requiring enzyme 1 alpha
+T119	GeneOrGenome 2997 3001	PERK
+T120	AminoAcidPeptideOrProtein 2997 3001	PERK
+T121	BiologicallyActiveSubstance 2997 3001	PERK
+T122	AminoAcidPeptideOrProtein 3003 3019	Protein kinase R
+T123	GeneOrGenome 3003 3019	Protein kinase R
+T124	GeneOrGenome 3108 3111	DR5
+T125	AminoAcidPeptideOrProtein 3108 3111	DR5
+T126	AminoAcidPeptideOrProtein 3113 3129	Death receptor 5
+T127	GeneOrGenome 3113 3129	Death receptor 5
+T128	BiologicallyActiveSubstance 3113 3129	Death receptor 5
+T129	AminoAcidPeptideOrProtein 3143 3179	Eukaryotic initiation factor 2 alpha
+T130	GeneOrGenome 3143 3179	Eukaryotic initiation factor 2 alpha
+T131	GeneOrGenome 3181 3185	XBP1
+T132	AminoAcidPeptideOrProtein 3181 3185	XBP1
+T133	GeneOrGenome 3187 3210	X-box binding protein 1
+T134	AminoAcidPeptideOrProtein 3187 3210	X-box binding protein 1
+T135	CellFunction 3222 3231	apoptosis
+T136	AminoAcidPeptideOrProtein 3260 3284	c-Jun N-terminal kinases
+T137	BiologicallyActiveSubstance 3260 3284	c-Jun N-terminal kinases
+T138	GeneOrGenome 3260 3284	c-Jun N-terminal kinases
+T139	AminoAcidPeptideOrProtein 3286 3291	TRAF2
+T140	GeneOrGenome 3286 3291	TRAF2
+T141	AminoAcidPeptideOrProtein 3293 3325	TNF receptor-associated factor 2
+T142	GeneOrGenome 3293 3325	TNF receptor-associated factor 2
+T143	GeneOrGenome 3327 3331	PAD4
+T144	BodyPartOrganOrOrganComponent 3363 3366	SP1
+T145	AminoAcidPeptideOrProtein 3363 3366	SP1
+T146	GeneOrGenome 3363 3366	SP1
+T147	GeneOrGenome 3368 3389	Specificity protein 1
+T148	AminoAcidPeptideOrProtein 3368 3389	Specificity protein 1
+T149	BodyPartOrganOrOrganComponent 3391 3394	SP2
+T150	GeneOrGenome 3391 3394	SP2
+T151	AminoAcidPeptideOrProtein 3391 3394	SP2
+T152	GeneOrGenome 3396 3417	Specificity protein 2
+T153	AminoAcidPeptideOrProtein 3396 3417	Specificity protein 2
+T154	GeneOrGenome 3419 3425	PARP16
+T155	AminoAcidPeptideOrProtein 3427 3456	poly ADP ribose polymerase 16
+T156	BiologicallyActiveSubstance 3427 3456	poly ADP ribose polymerase 16
+T157	GeneOrGenome 3427 3456	poly ADP ribose polymerase 16
+T158	GeneOrGenome 3458 3462	Umf1
+T159	GeneOrGenome 3464 3489	ubiquitin fold modifier 1
+T160	AminoAcidPeptideOrProtein 3491 3495	CHOP
+T161	GeneOrGenome 3491 3495	CHOP
+T162	AminoAcidPeptideOrProtein 3497 3521	C/EBP homologous protein
+T163	GeneOrGenome 3497 3521	C/EBP homologous protein
+T164	CellFunction 3523 3527	ERAD
+T165	CellFunction 3529 3573	endoplasmic reticulum-associated degradation
+T166	AminoAcidPeptideOrProtein 3575 3578	APP
+T167	GeneOrGenome 3575 3578	APP
+T168	AminoAcidPeptideOrProtein 3580 3605	Amyloid precursor protein
+T169	BiologicallyActiveSubstance 3580 3605	Amyloid precursor protein
+T170	GeneOrGenome 3607 3612	PSEN1
+T171	AminoAcidPeptideOrProtein 3614 3626	Presenilin-1
+T172	GeneOrGenome 3614 3626	Presenilin-1
+T173	GeneOrGenome 3628 3633	BACE1
+T174	AminoAcidPeptideOrProtein 3628 3633	BACE1
+T175	GeneOrGenome 3635 3651	Beta-secretase 1
+T176	AminoAcidPeptideOrProtein 3635 3651	Beta-secretase 1
+T177	BiologicallyActiveSubstance 3653 3656	BiP
+T178	AminoAcidPeptideOrProtein 3653 3656	BiP
+T179	AminoAcidPeptideOrProtein 3658 3688	Binding immunoglobulin protein
+T180	AminoAcidPeptideOrProtein 3690 3696	PARKIN
+T181	GeneOrGenome 3690 3696	PARKIN
+T182	BiologicallyActiveSubstance 3690 3696	PARKIN
+T183	AminoAcidPeptideOrProtein 3698 3732	E3 ubiquitin-protein ligase parkin
+T184	GeneOrGenome 3698 3732	E3 ubiquitin-protein ligase parkin
+T185	GeneOrGenome 3734 3739	PINK1
+T186	AminoAcidPeptideOrProtein 3734 3739	PINK1
+T187	AminoAcidPeptideOrProtein 3764 3767	PDI
+T188	BiologicallyActiveSubstance 3764 3767	PDI
+T189	AminoAcidPeptideOrProtein 3769 3796	Protein disulfide isomerase
+T190	BiologicallyActiveSubstance 3769 3796	Protein disulfide isomerase
+T191	AminoAcidPeptideOrProtein 3798 3804	GADD34
+T192	AminoAcidPeptideOrProtein 3806 3852	Growth arrest and DNA damage-inducible protein
+T193	BiologicallyActiveSubstance 3854 3857	DJ1
+T194	AminoAcidPeptideOrProtein 3854 3857	DJ1
+T195	AminoAcidPeptideOrProtein 3859 3876	Protein deglycase
+T196	AminoAcidPeptideOrProtein 3885 3926	Cyclic AMP-dependent transcription factor
+T197	GeneOrGenome 3885 3926	Cyclic AMP-dependent transcription factor
+T198	AminoAcidPeptideOrProtein 3878 3883	ATFS1
+T199	GeneOrGenome 3878 3883	ATFS1
+T200	AminoAcidPeptideOrProtein 3222 3258	apoptosis signal-regulating kinase 1
+T201	GeneOrGenome 3222 3258	apoptosis signal-regulating kinase 1
+T202	AminoAcidPeptideOrProtein 3055 3065	ATF6 alpha
+T203	GeneOrGenome 3055 3065	ATF6 alpha
+T204	AminoAcidPeptideOrProtein 3067 3106	Activating transcription factor 6 alpha
+T205	GeneOrGenome 3067 3106	Activating transcription factor 6 alpha
+T206	AminoAcidPeptideOrProtein 3741 3762	PTEN-induced kinase 1
+T207	GeneOrGenome 3741 3762	PTEN-induced kinase 1
+T208	AminoAcidPeptideOrProtein 3333 3361	Protein arginase deaminase 4
+T209	GeneOrGenome 3333 3361	Protein arginase deaminase 4
+T210	Finding 1599 1609	alteration
+T211	CellFunction 1750 1759	autophagy
+T212	CellFunction 2325 2353	Chaperone mediated autophagy
+T213	TemporalConcept 1199 1206	current
+T214	CellFunction 3113 3118	Death
+T215	PathologicFunction 3113 3118	Death
+T216	Finding 672 680	evidence
+T217	DiseaseOrSyndrome 2020 2022	HD
+T218	AminoAcidPeptideOrProtein 2236 2254	Huntingtin protein
+T219	BiologicallyActiveSubstance 2236 2254	Huntingtin protein
+T220	DiseaseOrSyndrome 2024 2044	Huntington's disease
+T221	BiologicallyActiveSubstance 768 777	inhibitor
+T222	PharmacologicSubstance 768 777	inhibitor
+T223	Chemical 768 777	inhibitor
+T224	CellOrMolecularDysfunction 1262 1279	neurodegeneration
+T225	DiseaseOrSyndrome 1337 1364	neurodegenerative disorders
+T226	CellFunction 319 328	oxidation
+T227	CellFunction 585 597	AMPK pathway
+T228	CellFunction 1760 1789	lysosomal degradation pathway
+T229	CellFunction 246 261	phosphorylation
+T230	CellFunction 901 920	protein aggregation
+T231	CellOrMolecularDysfunction 901 920	protein aggregation
+T232	ResearchActivity 458 465	studies
+T233	CellFunction 81 97	protein turnover
+T234	TemporalConcept 98 102	rate
+T235	CellOrMolecularDysfunction 800 830	misfolded protein accumulation
+T236	TemporalConcept 881 888	briefly
+T237	AminoAcidPeptideOrProtein 1015 1034	amino acid residues
+T238	TemporalConcept 1174 1180	Lastly
+T239	CellOrMolecularDysfunction 1379 1436	accumulation of aggregated and/ or non-functional protein
+T240	CellFunction 1721 1748	ubiquitin-proteasome system
+T241	BiologicallyActiveSubstance 1700 1719	molecular chaperone
+T242	CellFunction 1654 1684	protein quality control system
+T243	AminoAcidPeptideOrProtein 2054 2101	Transactivation response DNA binding protein-43
+T244	AminoAcidPeptideOrProtein 2103 2109	A beta
+T245	CellOrMolecularDysfunction 2131 2151	Neurofibrils tangles
+T246	BodyPartOrganOrOrganComponent 2153 2157	SNpc
+T247	CellFunction 2291 2318	Ubiquitin-proteasome system
+T248	CellFunction 2286 2289	UPS
+T249	AminoAcidPeptideOrProtein 2355 2359	HSPs
+T250	BiologicallyActiveSubstance 2355 2359	HSPs
+T251	GeneOrGenome 2403 2407	IT15
+T252	GeneOrGenome 2509 2519	GSK-3 beta
+T253	BiologicallyActiveSubstance 2521 2552	Glycogen synthase kinase 3 beta
+T254	BiologicallyActiveSubstance 2509 2519	GSK-3 beta
+T255	BiologicallyActiveSubstance 2577 2581	CDK5
+T256	BiologicallyActiveSubstance 2583 2608	Cyclin-dependent kinase 5
+T257	AminoAcidPeptideOrProtein 2610 2616	DYRK1A
+T258	BiologicallyActiveSubstance 2618 2679	Dual Specificity Tyrosine Phosphorylation Regulated Kinase 1A
+T259	AminoAcidPeptideOrProtein 2618 2679	Dual Specificity Tyrosine Phosphorylation Regulated Kinase 1A
+T260	BiologicallyActiveSubstance 2610 2616	DYRK1A
+T261	AminoAcidPeptideOrProtein 2720 2752	Mitochondrial targeting sequence
+T262	GeneOrGenome 2778 2794	Fused in sarcoma
+T263	AminoAcidPeptideOrProtein 2778 2794	Fused in sarcoma
+T264	MolecularSequence 2801 2830	Nuclear localization sequence
+T265	MolecularSequence 2832 2836	RRMs
+T266	CellFunction 2801 2821	Nuclear localization
+T267	MolecularSequence 2866 2889	Nuclear export sequence
+T268	BiologicallyActiveSubstance 2962 2995	Inositol-requiring enzyme 1 alpha
+T269	BiologicallyActiveSubstance 3003 3053	Protein kinase R like endoplasmic reticulum kinase
+T270	BiologicallyActiveSubstance 3003 3019	Protein kinase R
+T271	AminoAcidPeptideOrProtein 3003 3053	Protein kinase R like endoplasmic reticulum kinase
+T272	GeneOrGenome 3003 3053	Protein kinase R like endoplasmic reticulum kinase
+T273	BiologicallyActiveSubstance 2950 2960	IRE1 alpha
+T274	AminoAcidPeptideOrProtein 2950 2960	IRE1 alpha
+T275	BiologicallyActiveSubstance 3108 3111	DR5
+T276	AminoAcidPeptideOrProtein 3131 3141	elF2 alpha
+T277	GeneOrGenome 3131 3141	elF2 alpha
+T278	BiologicallyActiveSubstance 3327 3331	PAD4
+T279	AminoAcidPeptideOrProtein 3327 3331	PAD4
+T280	BiologicallyActiveSubstance 3333 3361	Protein arginase deaminase 4
+T281	BiologicallyActiveSubstance 3859 3876	Protein deglycase
+T282	BiologicallyActiveSubstance 3741 3762	PTEN-induced kinase 1
+T283	BiologicallyActiveSubstance 3734 3739	PINK1
+T284	BiologicallyActiveSubstance 3698 3732	E3 ubiquitin-protein ligase parkin
+T285	BiologicallyActiveSubstance 3658 3688	Binding immunoglobulin protein
+T286	BiologicallyActiveSubstance 3635 3651	Beta-secretase 1
+T287	BiologicallyActiveSubstance 3628 3633	BACE1
+T288	BiologicallyActiveSubstance 3614 3626	Presenilin-1
+T289	AminoAcidPeptideOrProtein 3607 3612	PSEN1
+T290	BiologicallyActiveSubstance 3607 3612	PSEN1
+T291	BiologicallyActiveSubstance 3575 3578	APP
+T292	AminoAcidPeptideOrProtein 3464 3489	ubiquitin fold modifier 1
+T293	BiologicallyActiveSubstance 3464 3489	ubiquitin fold modifier 1
+T294	AminoAcidPeptideOrProtein 3458 3462	Umf1
+T295	BiologicallyActiveSubstance 3458 3462	Umf1
+T296	BiologicallyActiveSubstance 3419 3425	PARP16
+T297	AminoAcidPeptideOrProtein 3419 3425	PARP16

@@ -1,0 +1,30 @@
+T0	DiseaseOrSyndrome 587 596	bone loss
+T1	ExperimentalModelOfDisease 216 231	AD mouse models
+T2	HealthCareActivity 490 512	therapeutic approaches
+T3	DiseaseOrSyndrome 29 41	osteoporosis
+T4	DiseaseOrSyndrome 729 741	osteoporosis
+T5	BodyPartOrganOrOrganComponent 587 591	bone
+T6	DiseaseOrSyndrome 0 19	Alzheimer's Disease
+T7	Finding 277 295	hormonal imbalance
+T8	OrganismAttribute 51 54	age
+T9	DiseaseOrSyndrome 21 23	AD
+T10	DiseaseOrSyndrome 666 668	AD
+T11	PathologicFunction 145 157	pathogenesis
+T12	PatientOrDisabledGroup 652 660	patients
+T13	CellFunction 322 340	signaling pathways
+T14	ResearchActivity 426 430	data
+T15	ResearchActivity 178 184	review
+T16	ResearchActivity 403 409	review
+T17	HealthCareActivity 178 184	review
+T18	HealthCareActivity 403 409	review
+T19	HealthCareActivity 633 642	treatment
+T20	HealthCareActivity 670 679	treatment
+T21	ResearchActivity 633 642	treatment
+T22	ResearchActivity 670 679	treatment
+T23	ResearchActivity 91 98	studies
+T24	DiseaseOrSyndrome 690 705	brain disorders
+T25	BiologicallyActiveSubstance 354 371	neurotransmitters
+T26	AminoAcidPeptideOrProtein 354 371	neurotransmitters
+T27	DiseaseOrSyndrome 63 84	degenerative diseases
+T28	TemporalConcept 419 425	recent
+T29	Finding 190 212	osteoporotic phenotype

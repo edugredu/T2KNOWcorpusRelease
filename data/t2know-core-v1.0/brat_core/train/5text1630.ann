@@ -1,0 +1,9 @@
+T0	ResearchActivity 29 36	studies
+T1	DiseaseOrSyndrome 192 211	Alzheimer's disease
+T2	DiseaseOrSyndrome 0 19	Alzheimer's Disease
+T3	Finding 174 188	increased risk
+T4	Finding 53 61	exposure
+T5	HealthCareActivity 29 36	studies
+T6	Substance 65 78	tobacco smoke
+T7	EnvironmentalEffectOfHumans 134 150	secondhand smoke
+T8	IndividualBehavior 104 111	smoking

@@ -1,0 +1,59 @@
+T0	Finding 50 61	noninvasive
+T1	BiologicFunction 132 148	microvasculature
+T2	BodyPartOrganOrOrganComponent 132 148	microvasculature
+T3	Finding 188 216	ophthalmological confounders
+T4	BodyPartOrganOrOrganComponent 559 565	foveal
+T5	Finding 743 753	tortuosity
+T6	BodyPartOrganOrOrganComponent 847 853	vessel
+T7	BodyPartOrganOrOrganComponent 1008 1019	vasculature
+T8	BodyPartOrganOrOrganComponent 1199 1210	vasculature
+T9	HealthCareActivity 1191 1223	retinal vasculature measurements
+T10	BodyPartOrganOrOrganComponent 18 24	retina
+T11	Cell 18 24	retina
+T12	DiseaseOrSyndrome 86 105	Alzheimer's disease
+T13	ClinicalAttribute 71 81	biomarkers
+T14	ClinicalAttribute 1108 1116;1156 1166	clinical biomarkers
+T15	DiseaseOrSyndrome 107 109	AD
+T16	DiseaseOrSyndrome 171 173	AD
+T17	DiseaseOrSyndrome 272 274	AD
+T18	DiseaseOrSyndrome 941 943	AD
+T19	DiseaseOrSyndrome 1055 1057	AD
+T20	DiseaseOrSyndrome 1227 1229	AD
+T21	PatientOrDisabledGroup 255 283	amyloid-positive AD patients
+T22	PatientOrDisabledGroup 1041 1049	patients
+T23	ClinicalAttribute 1230 1239	biomarker
+T24	ClinicalAttribute 847 861	vessel density
+T25	ResearchActivity 587 594	Results
+T26	PopulationGroup 349 361	participants
+T27	BodyPartOrganOrOrganComponent 1136 1155	cerebrospinal fluid
+T28	PopulationGroup 801 817	control subjects
+T29	PopulationGroup 1063 1079	control subjects
+T30	BodyPartOrganOrOrganComponent 124 131	retinal
+T31	BodyPartOrganOrOrganComponent 627 634	retinal
+T32	BodyPartOrganOrOrganComponent 1000 1007	retinal
+T33	BodyPartOrganOrOrganComponent 1191 1198	retinal
+T34	PopulationGroup 291 307;327 343	amyloid-negative control subjects
+T35	PopulationGroup 809 817	subjects
+T36	PopulationGroup 1071 1079	subjects
+T37	HealthCareActivity 1118 1130	neuroimaging
+T38	AminoAcidPeptideOrProtein 255 262	amyloid
+T39	AminoAcidPeptideOrProtein 291 298	amyloid
+T40	BiologicallyActiveSubstance 255 262	amyloid
+T41	BiologicallyActiveSubstance 291 298	amyloid
+T42	ClinicalAttribute 479 506	retinal vascular parameters
+T44	BodyPartOrganOrOrganComponent 62 70	vascular
+T45	BodyPartOrganOrOrganComponent 635 643	vascular
+T46	DiseaseOrSyndrome 422 436	ocular disease
+T47	Finding 308 326	cognitively normal
+T48	HealthCareActivity 372 398	ophthalmological screening
+T49	ResearchActivity 446 465	multimodal approach
+T50	ClinicalAttribute 508 527	choroidal thickness
+T51	ClinicalAttribute 529 553	macular vascular density
+T52	ClinicalAttribute 559 585	foveal avascular zone size
+T53	ClinicalAttribute 627 652	retinal vascular measures
+T54	HealthCareActivity 784 797	Fazekas score
+T55	ClinicalAttribute 735 753	Venular tortuosity
+T56	BodyPartOrganOrOrganComponent 887 893	macula
+T57	HealthCareActivity 924 937	Fazekas score
+T58	HealthCareRelatedOrganization 1307 1330	Alzheimer's Association
+T59	Finding 722 733	confounders

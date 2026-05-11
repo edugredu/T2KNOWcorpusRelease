@@ -1,0 +1,72 @@
+T0	Chemical 0 9	Cuprizone
+T1	Chemical 161 170	cuprizone
+T2	DiseaseOrSyndrome 184 205	demyelinating disease
+T3	Eukaryote 231 238	animals
+T4	BiologicFunction 239 248	ingesting
+T5	Chemical 269 278	cuprizone
+T6	Chemical 349 358	cuprizone
+T7	DiseaseOrSyndrome 475 496	demyelinating disease
+T8	Chemical 524 533	cuprizone
+T9	ResearchActivity 588 599	formulation
+T10	TemporalConcept 614 618	week
+T11	PathologicFunction 619 632	demyelinating
+T12	BodyPartOrganOrOrganComponent 651 674	rostral corpus callosum
+T13	Chemical 676 693	cuprizone pellets
+T14	CellFunction 764 785	microglial activation
+T15	CellOrMolecularDysfunction 787 797	DNA damage
+T16	Cell 829 852	mature oligodendrocytes
+T17	Cell 1002 1025	mature oligodendrocytes
+T18	BodyPartOrganOrOrganComponent 1061 1067	caudal
+T19	BodyPartOrganOrOrganComponent 1068 1074	corpus
+T20	Chemical 1085 1102	cuprizone pellets
+T21	Chemical 1125 1141	cuprizone powder
+T22	CellFunction 1191 1212	microglial activation
+T23	CellOrMolecularDysfunction 1233 1243	DNA damage
+T24	Cell 1290 1313	mature oligodendrocytes
+T25	Chemical 1333 1350	cuprizone pellets
+T26	HealthCareActivity 1414 1419	feeds
+T27	Cell 1443 1473	oligodendrocyte precursor cell
+T28	Cell 1475 1478	OPC
+T29	DiseaseOrSyndrome 1530 1551	demyelinating disease
+T30	Chemical 1596 1613	cuprizone pellets
+T31	TemporalConcept 1631 1636	weeks
+T32	Chemical 1675 1692	cuprizone pellets
+T33	DiseaseOrSyndrome 1734 1755	demyelinating disease
+T34	BodyPartOrganOrOrganComponent 659 674	corpus callosum
+T35	BodyPartOrganOrOrganComponent 1068 1083	corpus callosum
+T36	PathologicFunction 51 60	pathology
+T37	BiomedicalOccupationOrDiscipline 51 60	pathology
+T38	ResearchActivity 446 451	study
+T39	ResearchActivity 1512 1516	data
+T40	DiseaseOrSyndrome 109 111	MS
+T41	Eukaryote 515 519	mice
+T42	Eukaryote 558 562	mice
+T43	Eukaryote 954 958	mice
+T44	PopulationGroup 931 939	controls
+T45	PopulationGroup 1154 1162	controls
+T46	PopulationGroup 1396 1404	controls
+T47	DiseaseOrSyndrome 89 107	multiple sclerosis
+T48	PharmacologicSubstance 15 21	copper
+T49	Chemical 15 21	copper
+T50	BiologicallyActiveSubstance 15 21	copper
+T51	PharmacologicSubstance 15 37	copper-chelating agent
+T52	NucleicAcidNucleosideOrNucleotide 787 790	DNA
+T53	NucleicAcidNucleosideOrNucleotide 1233 1236	DNA
+T54	PathologicFunction 750 762	astrogliosis
+T55	PathologicFunction 1177 1189	astrogliosis
+T56	PathologicFunction 406 419	demyelination
+T57	PathologicFunction 1370 1383	demyelination
+T58	PathologicFunction 198 215	disease pathology
+T59	PathologicFunction 489 506	disease pathology
+T60	PathologicFunction 1544 1561	disease pathology
+T61	PathologicFunction 1748 1765	disease pathology
+T62	CellFunction 901 918	protein nitration
+T63	CellFunction 1214 1231	protein nitration
+T64	Chemical 280 314	Cuprizone-containing pelleted feed
+T65	Chemical 578 587	cuprizone
+T66	TemporalConcept 633 642	timepoint
+T67	Chemical 719 735	cuprizone powder
+T68	Chemical 863 879	cuprizone powder
+T69	Substance 963 977	control powder
+T70	PathologicFunction 1245 1260	tissue swelling
+T71	Chemical 1596 1605;1619 1625	cuprizone powder

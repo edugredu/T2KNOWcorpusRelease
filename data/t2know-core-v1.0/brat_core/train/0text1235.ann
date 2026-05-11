@@ -1,0 +1,84 @@
+T0	Finding 44 70	environmental risk factors
+T1	Finding 571 585	susceptibility
+T2	Finding 706 712	stress
+T3	AminoAcidPeptideOrProtein 914 929	pertussis toxin
+T4	AminoAcidPeptideOrProtein 1514 1526	neurotrophin
+T5	BiologicallyActiveSubstance 1514 1526	neurotrophin
+T6	HealthCareActivity 1758 1771	repositioning
+T7	Eukaryote 961 973	C57BL/6 mice
+T8	HealthCareActivity 879 891	immunization
+T9	ExperimentalModelOfDisease 593 634	experimental autoimmune encephalomyelitis
+T10	ExperimentalModelOfDisease 636 639	EAE
+T11	ExperimentalModelOfDisease 860 863	EAE
+T12	ExperimentalModelOfDisease 1165 1168	EAE
+T13	ExperimentalModelOfDisease 1298 1301	EAE
+T14	ExperimentalModelOfDisease 1298 1306	EAE mice
+T15	Cell 1239 1255	oligodendrocytes
+T16	BiologicFunction 1225 1235	maturation
+T17	Cell 1373 1404	oligodendrocyte precursor cells
+T18	DiseaseOrSyndrome 677 695	multiple sclerosis
+T19	DiseaseOrSyndrome 1787 1805	multiple sclerosis
+T20	DiseaseOrSyndrome 778 796	autoimmune disease
+T21	BodyPartOrganOrOrganComponent 1263 1274	spinal cord
+T22	CellFunction 1497 1506	signaling
+T23	BiologicFunction 412 429	brain development
+T24	Cell 1389 1404	precursor cells
+T25	Cell 1373 1398	oligodendrocyte precursor
+T26	TemporalConcept 470 479	adulthood
+T27	TemporalConcept 1181 1190	adulthood
+T28	BiologicFunction 1061 1070	gestation
+T29	CellFunction 1558 1575	neural plasticity
+T30	TemporalConcept 435 444	long-term
+T31	NaturalPhenomenonOrProcess 1565 1575	plasticity
+T32	CellFunction 1565 1575	plasticity
+T33	DiseaseOrSyndrome 92 113	psychiatric disorders
+T34	GeneOrGenome 1345 1350	GPR17
+T35	AminoAcidPeptideOrProtein 1345 1350	GPR17
+T36	BiologicFunction 1364 1372	immature
+T37	BiologicallyActiveSubstance 1345 1350	GPR17
+T38	TemporalConcept 227 245	gestational period
+T39	ClinicalAttribute 1354 1360	marker
+T40	BiologicFunction 418 429	development
+T41	CellFunction 418 429	development
+T42	Eukaryote 969 973	mice
+T43	Eukaryote 1302 1306	mice
+T44	ResearchActivity 668 673	model
+T45	CellFunction 1482 1492	expression
+T46	Eukaryote 661 667	murine
+T47	SignOrSymptom 1169 1177	symptoms
+T48	TemporalConcept 765 776	progressive
+T49	TemporalConcept 202 206	time
+T50	ClinicalAttribute 1153 1161	severity
+T51	Finding 1153 1161	severity
+T52	PharmacologicSubstance 1669 1674	drugs
+T53	PharmacologicSubstance 1778 1783	drugs
+T54	AminoAcidPeptideOrProtein 1527 1531	BDNF
+T55	AminoAcidPeptideOrProtein 1696 1700	BDNF
+T56	BiologicallyActiveSubstance 1527 1531	BDNF
+T57	BiologicallyActiveSubstance 1696 1700	BDNF
+T58	GeneOrGenome 1527 1531	BDNF
+T59	GeneOrGenome 1696 1700	BDNF
+T60	OrganismAttribute 954 960	female
+T61	BiologicFunction 351 360	pregnancy
+T62	CellFunction 1623 1636	remyelination
+T63	PopulationGroup 948 953	adult
+T64	TemporalConcept 1053 1057	days
+T65	Finding 373 379	severe
+T66	Finding 1437 1448	alterations
+T67	TemporalConcept 516 528	long-lasting
+T68	TemporalConcept 756 763	chronic
+T69	DiseaseOrSyndrome 104 113;75 87	disorders neurological
+T70	Finding 117 132	stress exposure
+T71	InjuryOrPoisoning 296 317	environmental insults
+T72	Finding 327 343	stressful events
+T73	PopulationGroup 400 409	offspring
+T74	TemporalConcept 539 547	prenatal
+T75	Finding 548 563	stress exposure
+T76	ExperimentalModelOfDisease 661 695	murine model of multiple sclerosis
+T77	AminoAcidPeptideOrProtein 897 905	MOG35-55
+T78	HealthCareActivity 930 944	administration
+T79	TemporalConcept 1101 1112	gestational
+T80	Finding 1113 1119	stress
+T81	TemporalConcept 1278 1288	prenatally
+T82	Finding 1467 1474	changes
+T83	Finding 1599 1605	stress

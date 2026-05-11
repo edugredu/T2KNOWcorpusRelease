@@ -1,0 +1,77 @@
+T0	DiseaseOrSyndrome 34 38	FASD
+T1	AnatomicalAbnormality 34 38	FASD
+T2	OrganismAttribute 85 93	personal
+T3	BodyPartOrganOrOrganComponent 173 183	Cerebellar
+T4	DiseaseOrSyndrome 209 213	FASD
+T5	AnatomicalAbnormality 209 213	FASD
+T6	PathologicFunction 299 309	effects of
+T7	Chemical 310 317	ethanol
+T8	PharmacologicSubstance 310 317	ethanol
+T9	BodyPartOrganOrOrganComponent 439 449	cerebellum
+T10	TemporalConcept 455 464	postnatal
+T11	DiseaseOrSyndrome 480 484	FASD
+T12	AnatomicalAbnormality 480 484	FASD
+T13	TemporalConcept 486 494	Neonatal
+T14	Chemical 518 525	ethanol
+T15	PharmacologicSubstance 518 525	ethanol
+T16	TemporalConcept 538 551	postnatal day
+T17	BodyPartOrganOrOrganComponent 558 568	cerebellum
+T18	TemporalConcept 585 588	P10
+T19	Chemical 705 712	ethanol
+T20	PharmacologicSubstance 705 712	ethanol
+T21	Chemical 963 970	ethanol
+T22	PharmacologicSubstance 963 970	ethanol
+T23	Chemical 1121 1128	ethanol
+T24	PharmacologicSubstance 1121 1128	ethanol
+T25	Chemical 1244 1251	ethanol
+T26	PharmacologicSubstance 1244 1251	ethanol
+T27	Chemical 1295 1302	ethanol
+T28	PharmacologicSubstance 1295 1302	ethanol
+T29	Chemical 1491 1498	ethanol
+T30	PharmacologicSubstance 1491 1498	ethanol
+T31	BodyPartOrganOrOrganComponent 1539 1549	cerebellum
+T32	TemporalConcept 774 780	stages
+T33	Substance 363 372	molecules
+T34	Substance 636 645	molecules
+T35	Substance 1013 1022	molecules
+T36	Substance 1341 1350	molecules
+T37	NucleicAcidNucleosideOrNucleotide 594 599	mRNAs
+T38	BiologicFunction 1445 1458	understanding
+T39	Cell 871 887	oligodendrocytes
+T40	Cell 893 928	mature myelinating oligodendrocytes
+T41	BiologicFunction 600 608	encoding
+T42	BiologicFunction 251 265	motor function
+T43	CellFunction 1393 1404	myelination
+T44	CellFunction 1509 1520	myelination
+T45	Cell 387 402	oligodendrocyte
+T46	Cell 609 624	oligodendrocyte
+T47	Cell 784 799	oligodendrocyte
+T48	Cell 1051 1066	oligodendrocyte
+T49	BiologicFunction 800 810	maturation
+T50	Cell 822 853	oligodendrocyte precursor cells
+T51	ResearchActivity 666 673	qRT-PCR
+T52	Cell 855 887	pre-myelinating oligodendrocytes
+T53	InjuryOrPoisoning 1252 1260	toxicity
+T54	ResearchActivity 279 284	study
+T55	ResearchActivity 679 686	studies
+T56	ResearchActivity 1424 1431	studies
+T57	Cell 321 350	oligodendrocyte-lineage cells
+T58	Eukaryote 465 470	mouse
+T59	Eukaryote 495 499	mice
+T60	ResearchActivity 471 476	model
+T61	BiomedicalOccupationOrDiscipline 184 198	neuropathology
+T62	PathologicFunction 184 198	neuropathology
+T63	BodyPartOrganOrOrganComponent 1169 1175	myelin
+T64	CellFunction 403 418	differentiation
+T65	CellFunction 1067 1082	differentiation
+T66	HealthCareActivity 1599 1606	therapy
+T67	HealthCareActivity 141 151	treatments
+T68	ResearchActivity 141 151	treatments
+T69	TemporalConcept 271 278	current
+T70	DiseaseOrSyndrome 0 32	Fetal alcohol spectrum disorders
+T71	AnatomicalAbnormality 0 32	Fetal alcohol spectrum disorders
+T72	TemporalConcept 531 536	P4-P9
+T73	Chemical 1187 1197	inhibitors
+T74	CellFunction 1364 1388	oligodendrocyte function
+T75	DiseaseOrSyndrome 1594 1598	FASD
+T76	AnatomicalAbnormality 1594 1598	FASD

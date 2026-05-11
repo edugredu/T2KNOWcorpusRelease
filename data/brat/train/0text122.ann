@@ -1,0 +1,46 @@
+T0	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T1	Cell 97 104	neurons
+T2	BodyPartOrganOrOrganComponent 126 149	central nervous systems
+T3	TemporalConcept 157 163	course
+T4	Finding 175 181	severe
+T5	HealthCareActivity 447 456	therapies
+T6	PathologicFunction 519 531	pathogenesis
+T7	TemporalConcept 581 595	disease course
+T8	CellComponent 604 623	cellular structures
+T9	AminoAcidPeptideOrProtein 731 738	tubulin
+T10	BiologicallyActiveSubstance 731 738	tubulin
+T11	CellComponent 739 751	cytoskeleton
+T12	CellFunction 844 859	cell physiology
+T13	PathologicFunction 872 894	pathological processes
+T14	Cell 913 920	neurons
+T15	PathologicFunction 963 975	dysfunctions
+T16	AminoAcidPeptideOrProtein 979 986	tubulin
+T17	BiologicallyActiveSubstance 979 986	tubulin
+T18	CellComponent 987 999	cytoskeleton
+T19	CellFunction 1088 1097	mutations
+T20	CellOrMolecularDysfunction 1088 1097	mutations
+T21	BiologicFunction 1107 1115	encoding
+T22	CellComponent 1146 1158	cytoskeleton
+T23	DiseaseOrSyndrome 1172 1191	Alzheimer's disease
+T24	DiseaseOrSyndrome 1193 1212	Parkinson's disease
+T25	DiseaseOrSyndrome 1236 1265	amyotrophic lateral sclerosis
+T26	DiseaseOrSyndrome 1267 1281	prion diseases
+T27	DiseaseOrSyndrome 1287 1322	neuronopathic mucopolysaccharidoses
+T28	CellOrMolecularDysfunction 89 104	loss of neurons
+T29	PharmacologicSubstance 358 375	symptomatic drugs
+T30	PharmacologicSubstance 1493 1498	drugs
+T31	PathologicFunction 630 641	dysfunction
+T32	DiseaseOrSyndrome 1214 1234	Huntington's disease
+T33	Finding 199 208	morbidity
+T34	DiseaseOrSyndrome 291 317	neurodegenerative diseases
+T35	DiseaseOrSyndrome 701 727	neurodegenerative diseases
+T36	DiseaseOrSyndrome 1011 1037	neurodegenerative diseases
+T37	PatientOrDisabledGroup 237 245	patients
+T38	ResearchActivity 930 936	review
+T39	HealthCareActivity 930 936	review
+T40	DiseaseOrSyndrome 1053 1076	primary tubulinopathies
+T41	AminoAcidPeptideOrProtein 1138 1145	tubulin
+T42	BiologicallyActiveSubstance 1138 1145	tubulin
+T43	TemporalConcept 1399 1407	progress
+T44	Finding 224 233;246 272	inability to independent functioning
+T45	Finding 246 272	to independent functioning

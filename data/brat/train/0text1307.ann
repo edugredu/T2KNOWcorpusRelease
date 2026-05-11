@@ -1,0 +1,122 @@
+T0	HealthCareActivity 340 363	Chinese herbal medicine
+T1	AminoAcidPeptideOrProtein 766 811	platelet-derived growth factor receptor alpha
+T2	AminoAcidPeptideOrProtein 813 824	PDGFR-alpha
+T3	GeneOrGenome 1166 1170	Sox6
+T4	GeneOrGenome 1172 1178	Lingo1
+T5	GeneOrGenome 1184 1188	Hes5
+T6	HealthCareActivity 1304 1313	extracted
+T7	Finding 1304 1313	extracted
+T8	Virus 1398 1408	adenovirus
+T9	GeneOrGenome 1438 1442	Sox6
+T10	GeneOrGenome 1444 1450	Lingo1
+T11	GeneOrGenome 1456 1460	Hes5
+T12	NucleicAcidNucleosideOrNucleotide 1710 1713	miR
+T13	BiologicallyActiveSubstance 1710 1713	miR
+T14	ResearchActivity 97 104	Studies
+T15	NucleicAcidNucleosideOrNucleotide 1700 1708	microRNA
+T16	BiologicallyActiveSubstance 1700 1708	microRNA
+T17	CellFunction 731 746	neuroprotection
+T18	ExperimentalModelOfDisease 564 605	experimental autoimmune encephalomyelitis
+T19	ExperimentalModelOfDisease 607 610	EAE
+T20	ExperimentalModelOfDisease 1123 1126	EAE
+T21	BodyPartOrganOrOrganComponent 946 958	spinal cords
+T22	HealthCareActivity 233 251	therapeutic agents
+T23	AminoAcidPeptideOrProtein 1491 1494	MBP
+T24	BiologicallyActiveSubstance 1491 1494	MBP
+T25	GeneOrGenome 1491 1494	MBP
+T26	CellComponent 1607 1612	axons
+T27	Cell 502 506	OPCs
+T28	Cell 639 643	OPCs
+T29	Cell 981 985	OPCs
+T30	Cell 1216 1220	OPCs
+T31	Cell 1334 1338	OPCs
+T32	Cell 1523 1527	OPCs
+T33	Cell 1578 1582	OPCs
+T34	Cell 1791 1795	OPCs
+T35	Cell 163 166	OPC
+T36	DiseaseOrSyndrome 41 63	demyelinating diseases
+T37	BiologicFunction 1777 1787	maturation
+T38	DiseaseOrSyndrome 72 90	multiple sclerosis
+T39	CellFunction 168 183	differentiation
+T40	CellFunction 507 522	differentiation
+T41	CellFunction 1221 1236	differentiation
+T42	CellFunction 1528 1543	differentiation
+T43	CellFunction 1757 1772	differentiation
+T44	CellFunction 0 13	Remyelination
+T45	SignOrSymptom 19 29	refractory
+T46	Cell 131 161	oligodendrocyte precursor cell
+T47	ResearchActivity 461 466	study
+T48	Eukaryote 962 966	mice
+T49	Eukaryote 1113 1117	mice
+T50	Eukaryote 1281 1285	mice
+T51	Cell 1598 1606	neuronal
+T52	ResearchActivity 612 617	model
+T53	BodyPartOrganOrOrganComponent 1095 1100	serum
+T54	BodyPartOrganOrOrganComponent 1249 1254	serum
+T55	HealthCareActivity 992 1001	treatment
+T56	ResearchActivity 992 1001	treatment
+T57	TemporalConcept 213 222	currently
+T58	CellFunction 752 762	expression
+T59	CellFunction 1055 1065	expression
+T60	CellFunction 1152 1162	expression
+T61	CellFunction 1367 1377	expression
+T62	CellFunction 1461 1471	expression
+T63	CellFunction 1495 1505	expression
+T64	TemporalConcept 374 379	years
+T65	HealthCareActivity 383 400	clinical practice
+T66	ResearchActivity 644 652	in vitro
+T67	PathologicFunction 472 482	effects of
+T68	ResearchActivity 618 625	in vivo
+T69	CellFunction 277 290	remyelination
+T70	CellFunction 527 540	remyelination
+T71	DiseaseOrSyndrome 92 94	MS
+T72	DiseaseOrSyndrome 449 451	MS
+T73	ResearchActivity 630 638	cultured
+T74	CellFunction 1476 1489	downregulated
+T75	Finding 472 479	effects
+T76	Finding 1678 1685	effects
+T77	OrganismAttribute 1567 1574	ability
+T78	BodyPartOrganOrOrganComponent 935 941	brains
+T79	CellComponent 1101 1109	exosomes
+T80	CellComponent 1255 1263	exosomes
+T81	CellComponent 1725 1733	exosomes
+T82	BiologicallyActiveSubstance 766 811	platelet-derived growth factor receptor alpha
+T83	BiologicallyActiveSubstance 292 306	Bu Shen Yi Sui
+T84	PharmacologicSubstance 292 314	Bu Shen Yi Sui capsule
+T85	PharmacologicSubstance 316 321	BSYSC
+T86	PharmacologicSubstance 340 363	Chinese herbal medicine
+T87	PharmacologicSubstance 421 426	BSYSC
+T88	PharmacologicSubstance 483 488	BSYSC
+T89	PharmacologicSubstance 678 683	BSYSC
+T90	PharmacologicSubstance 1036 1041	BSYSC
+T91	PharmacologicSubstance 1007 1012	BSYSC
+T92	PharmacologicSubstance 1267 1272	BSYSC
+T93	PharmacologicSubstance 1292 1297	BSYSC
+T94	PharmacologicSubstance 1642 1647	BSYSC
+T95	BiologicallyActiveSubstance 813 824	PDGFR-alpha
+T96	AminoAcidPeptideOrProtein 857 904	2 ',3 '-cyclic nucleotide 3 '-phosphodiesterase
+T97	BiologicallyActiveSubstance 857 904	2 ',3 '-cyclic nucleotide 3 '-phosphodiesterase
+T98	AminoAcidPeptideOrProtein 906 912	CNPase
+T99	BiologicallyActiveSubstance 906 912	CNPase
+T100	NucleicAcidNucleosideOrNucleotide 1069 1076	miR-219
+T101	BiologicallyActiveSubstance 1069 1076	miR-219
+T102	BiologicallyActiveSubstance 1080 1087	miR-338
+T103	NucleicAcidNucleosideOrNucleotide 1080 1087	miR-338
+T104	NucleicAcidNucleosideOrNucleotide 1348 1355	miR-219
+T105	BiologicallyActiveSubstance 1348 1355	miR-219
+T106	BiologicallyActiveSubstance 1359 1366	miR-338
+T107	NucleicAcidNucleosideOrNucleotide 1359 1366	miR-338
+T108	AminoAcidPeptideOrProtein 1166 1170	Sox6
+T109	BiologicallyActiveSubstance 1166 1170	Sox6
+T110	AminoAcidPeptideOrProtein 1172 1178	Lingo1
+T111	BiologicallyActiveSubstance 1172 1178	Lingo1
+T112	BiologicallyActiveSubstance 1184 1188	Hes5
+T113	AminoAcidPeptideOrProtein 1184 1188	Hes5
+T114	AminoAcidPeptideOrProtein 1438 1442	Sox6
+T115	AminoAcidPeptideOrProtein 1444 1450	Lingo1
+T116	AminoAcidPeptideOrProtein 1456 1460	Hes5
+T117	BiologicallyActiveSubstance 1438 1442	Sox6
+T118	BiologicallyActiveSubstance 1444 1450	Lingo1
+T119	BiologicallyActiveSubstance 1456 1460	Hes5
+T120	CellFunction 1510 1521	upregulated
+T121	ResearchActivity 1382 1394	knocked down

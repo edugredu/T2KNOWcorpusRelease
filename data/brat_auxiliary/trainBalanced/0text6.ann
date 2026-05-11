@@ -1,0 +1,20 @@
+T0	DiseaseOrSyndrome 0 26	Neurodegenerative diseases
+T1	DiseaseOrSyndrome 35 46	Alzheimer's
+T2	DiseaseOrSyndrome 48 59	Parkinson's
+T3	Finding 129 144	quality of life
+T4	PatientOrDisabledGroup 148 164	affected persons
+T5	BodyPartOrganOrOrganComponent 485 488	BBB
+T6	TemporalConcept 574 579	years
+T7	BodyPartOrganOrOrganComponent 464 483	Blood-Brain Barrier
+T8	DiseaseOrSyndrome 64 82	Huntington disease
+T9	DiseaseOrSyndrome 401 427	neurodegenerative diseases
+T10	DiseaseOrSyndrome 601 627	neurodegenerative diseases
+T11	ResearchActivity 503 509	review
+T12	HealthCareActivity 503 509	review
+T13	HealthCareActivity 275 284	treatment
+T14	HealthCareActivity 372 381	treatment
+T15	HealthCareActivity 588 597	treatment
+T16	ResearchActivity 275 284	treatment
+T17	ResearchActivity 372 381	treatment
+T18	ResearchActivity 588 597	treatment
+T19	HealthCareActivity 196 206;232 237	diagnostic level

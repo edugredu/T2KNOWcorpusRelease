@@ -1,0 +1,26 @@
+T0	DiseaseOrSyndrome 219 238	Alzheimer's Disease
+T1	DiseaseOrSyndrome 240 259	Parkinson's Disease
+T2	DiseaseOrSyndrome 261 290	Amyotrophic Lateral Sclerosis
+T3	DiseaseOrSyndrome 292 295	ALS
+T4	DiseaseOrSyndrome 320 341	Ataxia Telangiectasia
+T5	CellOrMolecularDysfunction 376 401	mitochondrial dysfunction
+T6	InjuryOrPoisoning 405 427	traumatic brain injury
+T7	CellFunction 495 514	neural regeneration
+T8	HealthCareActivity 581 591	treatments
+T9	ResearchActivity 581 591	treatments
+T10	ExperimentalModelOfDisease 44 64	genetic model system
+T11	TemporalConcept 180 186	recent
+T12	TemporalConcept 452 458	recent
+T13	TemporalConcept 574 580	future
+T14	CellFunction 93 113	molecular mechanisms
+T15	Eukaryote 0 23	Drosophila melanogaster
+T16	Eukaryote 199 209	Drosophila
+T17	ExperimentalModelOfDisease 474 491	Drosophila models
+T18	DiseaseOrSyndrome 298 318	Huntington's Disease
+T19	CellOrMolecularDysfunction 347 364	neurodegeneration
+T20	DiseaseOrSyndrome 596 623	neurodegenerative disorders
+T21	DiseaseOrSyndrome 125 151	neurodegenerative diseases
+T22	TemporalConcept 187 195	progress
+T23	TemporalConcept 459 467	progress
+T24	ResearchActivity 161 167	review
+T25	HealthCareActivity 161 167	review

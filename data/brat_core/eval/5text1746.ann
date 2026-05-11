@@ -1,0 +1,7 @@
+T0	BodyPartOrganOrOrganComponent 111 116	brain
+T1	CellOrMolecularDysfunction 143 160	neurodegeneration
+T2	ResearchActivity 131 139	research
+T3	PathologicFunction 91 103	inflammation
+T4	CellOrMolecularDysfunction 70 86	oxidative stress
+T5	BiologicallyActiveSubstance 45 56	metabolites
+T6	Organism 17 26	Ramularia

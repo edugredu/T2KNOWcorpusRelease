@@ -1,0 +1,9 @@
+T0	BodyPartOrganOrOrganComponent 90 95	brain
+T1	ResearchActivity 6 10	data
+T2	CellOrMolecularDysfunction 113 130	neurodegeneration
+T3	DiseaseOrSyndrome 134 153	Alzheimer's disease
+T4	Finding 96 108	colonization
+T5	Bacterium 76 89	P. gingivalis
+T6	AminoAcidPeptideOrProtein 24 33	gingipain
+T7	BiologicallyActiveSubstance 24 33	gingipain
+T8	BiologicallyActiveSubstance 34 44	inhibitors

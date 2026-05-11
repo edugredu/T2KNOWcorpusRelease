@@ -1,0 +1,5 @@
+T0	BodyPartOrganOrOrganComponent 102 107	brain
+T1	BodyPartOrganOrOrganComponent 112 123	spinal cord
+T2	TemporalConcept 49 54	early
+T3	BiologicFunction 58 79	embryonic development
+T4	EmbryonicStructure 4 15	neural tube

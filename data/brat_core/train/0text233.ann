@@ -1,0 +1,33 @@
+T0	CellFunction 10 21	epigenetics
+T1	BiomedicalOccupationOrDiscipline 10 21	epigenetics
+T2	ResearchActivity 34 48	research value
+T3	CellFunction 144 165	Epigenetic mechanisms
+T4	CellFunction 177 192	DNA methylation
+T5	CellFunction 202 235	post -translational modifications
+T6	AminoAcidPeptideOrProtein 239 247	histones
+T7	BiologicallyActiveSubstance 249 277	chromatin remodeling enzymes
+T8	NucleicAcidNucleosideOrNucleotide 283 303	long non-coding RNAs
+T9	BiologicallyActiveSubstance 283 303	long non-coding RNAs
+T10	TemporalConcept 363 373	past years
+T11	CellFunction 375 395	epigenetic processes
+T12	DiseaseOrSyndrome 474 493	Alzheimer's disease
+T13	DiseaseOrSyndrome 495 514	Parkinson's disease
+T14	DiseaseOrSyndrome 516 545	Amyotrophic Lateral Sclerosis
+T15	TemporalConcept 691 699	lifespan
+T16	CellFunction 808 819	epigenetics
+T17	BiomedicalOccupationOrDiscipline 808 819	epigenetics
+T18	CellFunction 610 634	epigenetic modifications
+T19	DiseaseOrSyndrome 551 571	Huntington's disease
+T20	DiseaseOrSyndrome 116 142	neurodegenerative diseases
+T21	DiseaseOrSyndrome 438 464	neurodegenerative diseases
+T22	DiseaseOrSyndrome 771 797	neurodegenerative diseases
+T23	DiseaseOrSyndrome 889 915	neurodegenerative diseases
+T24	ResearchActivity 582 588	review
+T25	HealthCareActivity 582 588	review
+T26	HealthCareActivity 758 767	treatment
+T27	HealthCareActivity 865 874	treatment
+T28	ResearchActivity 758 767	treatment
+T29	ResearchActivity 865 874	treatment
+T30	TemporalConcept 0 8	Nowadays
+T31	CellFunction 330 345	gene expression
+T32	BiologicallyActiveSubstance 316 326	modulators

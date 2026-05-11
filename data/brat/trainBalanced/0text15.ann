@@ -1,0 +1,57 @@
+T0	DiseaseOrSyndrome 497 514	end-stage disease
+T1	Finding 559 574	quality-of-life
+T2	HealthCareActivity 559 583	quality-of-life measures
+T3	ResearchActivity 705 720	factor analysis
+T4	ResearchActivity 725 739	Rasch analysis
+T5	ClinicalAttribute 1529 1543	disease stages
+T6	DiseaseOrSyndrome 1529 1543	disease stages
+T7	Finding 1625 1632	Worries
+T8	BiologicFunction 419 429	experience
+T9	TemporalConcept 1801 1807	stages
+T10	ClinicalAttribute 1792 1800	severity
+T11	Finding 1792 1800	severity
+T12	ResearchActivity 620 642	behavioral assessments
+T13	ClinicalAttribute 1221 1237	disease severity
+T14	TemporalConcept 77 86	long-term
+T15	ResearchActivity 741 748	Results
+T16	Finding 1221 1237	disease severity
+T17	PopulationGroup 463 475	participants
+T18	Finding 1246 1282	Convergent and discriminant validity
+T19	ResearchActivity 1316 1339	pattern of correlations
+T20	HealthCareActivity 1161 1181	clinical assessments
+T21	HealthCareActivity 1405 1425	clinical assessments
+T22	DiseaseOrSyndrome 273 293	Huntington's Disease
+T23	Finding 36 51	quality of life
+T24	HealthCareActivity 21 27	health
+T25	HealthCareActivity 273 338	Huntington's Disease health-related Quality of Life questionnaire
+T26	HealthCareActivity 365 379	health domains
+T27	DiseaseOrSyndrome 87 115	neurodegenerative conditions
+T28	ResearchActivity 1468 1472	data
+T29	PatientOrDisabledGroup 63 71	patients
+T30	PatientOrDisabledGroup 403 411	patients
+T31	PatientOrDisabledGroup 1028 1036	patients
+T32	DiseaseOrSyndrome 171 191	Huntington's disease
+T33	DiseaseOrSyndrome 193 195	HD
+T34	DiseaseOrSyndrome 812 814	HD
+T35	DiseaseOrSyndrome 1778 1780	HD
+T36	PatientOrDisabledGroup 241 248	patient
+T37	PatientOrDisabledGroup 1437 1444	patient
+T38	PatientOrDisabledGroup 1726 1733	patient
+T39	HealthCareActivity 340 345	HDQoL
+T40	HealthCareActivity 530 535	HDQoL
+T41	HealthCareActivity 679 684	HDQoL
+T42	HealthCareActivity 620 642	behavioral assessments
+T43	HealthCareActivity 755 760	HDQoL
+T44	HealthCareActivity 916 932	Mood-Self domain
+T45	HealthCareActivity 948 962	Worries domain
+T46	Finding 970 977	domains
+T47	Finding 990 1009	behavioral sequelae
+T48	ResearchActivity 1106 1114	analyses
+T49	HealthCareActivity 1200 1213	HDQoL domains
+T50	HealthCareActivity 1357 1370	HDQoL domains
+T51	HealthCareActivity 1516 1521	HDQoL
+T52	HealthCareActivity 1562 1567	HDQoL
+T53	HealthCareActivity 1611 1620	Mood-Self
+T54	HealthCareActivity 1648 1689	Physical-Functional and Cognitive domains
+T55	HealthCareActivity 648 671	psychometric properties
+T56	HealthCareActivity 1437 1462	patient-reported measures

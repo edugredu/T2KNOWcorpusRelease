@@ -1,0 +1,41 @@
+T0	DiseaseOrSyndrome 32 68	inherited neurodegenerative disorder
+T1	TemporalConcept 96 103	midlife
+T2	DiseaseOrSyndrome 109 165	progressive alterations of motor and cognitive functions
+T3	GeneOrGenome 226 241	huntingtin gene
+T4	PopulationGroup 403 414	6 years old
+T5	TemporalConcept 405 410	years
+T6	ResearchActivity 472 476	data
+T7	ExperimentalModelOfDisease 482 494	mouse models
+T8	OrganismAttribute 647 657	appearance
+T9	Finding 641 657	later appearance
+T10	CellOrMolecularDysfunction 665 691	neurodegenerative features
+T11	TemporalConcept 754 760	stages
+T12	PathologicFunction 971 1008	aberrant neurodevelopmental processes
+T13	BiologicFunction 980 1008	neurodevelopmental processes
+T14	BiologicFunction 348 370	striatal developmental
+T15	BodyPartOrganOrOrganComponent 578 586	striatal
+T16	BodyPartOrganOrOrganComponent 260 268	striatal
+T17	ExperimentalModelOfDisease 849 862	rodent models
+T18	BiologicFunction 764 792	striatal network development
+T19	TemporalConcept 288 294	Recent
+T20	DiseaseOrSyndrome 316 322	pre-HD
+T21	TemporalConcept 420 427	earlies
+T22	BiologicFunction 923 945	striatum's development
+T23	Finding 253 286	severe striatal neurodegeneration
+T24	CellOrMolecularDysfunction 348 382	striatal developmental alterations
+T25	CellOrMolecularDysfunction 578 598	striatal alterations
+T26	PatientOrDisabledGroup 316 331	pre-HD children
+T27	TemporalConcept 810 816	recent
+T28	OrganismAttribute 429 432	age
+T29	CellOrMolecularDysfunction 194 214	CAG repeat expansion
+T30	Finding 817 825	evidence
+T31	DiseaseOrSyndrome 22 24	HD
+T32	DiseaseOrSyndrome 498 500	HD
+T33	DiseaseOrSyndrome 1023 1025	HD
+T34	DiseaseOrSyndrome 0 20	Huntington's disease
+T35	CellOrMolecularDysfunction 1026 1034	mutation
+T36	CellOrMolecularDysfunction 269 286	neurodegeneration
+T37	ResearchActivity 716 722	review
+T38	HealthCareActivity 716 722	review
+T39	BodyPartOrganOrOrganComponent 923 931	striatum
+T40	ResearchActivity 295 302	studies
