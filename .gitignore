@@ -2,3 +2,9 @@
 # These are large working artefacts and may contain third-party abstract text.
 # The audit results are in provenance/reports/source_license_audit_v6.tsv.
 provenance/cache/
+
+# Internal process files — not useful to corpus users.
+ZENODO_UPLOAD_CHECKLIST.md
+PUBLIC_UPLOAD.md
+checksums_public.sha256
+T2KNOWcode/listaCategorias.txt
