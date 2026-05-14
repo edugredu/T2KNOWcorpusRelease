@@ -49,6 +49,10 @@ For text-excluded records, the release provides source identifiers, checksums, s
 
 The corpus does not contain newly collected human-subject data, patient records, or protected clinical text.
 
+### Non-reproducible construction-provenance elements
+
+The reproducible resource boundary of this release is T2KNOW-Core v1.0 itself, not the source-retrieval pipeline that produced the candidate document pool. The original Web of Science export, retrieval date, pre-annotation tool versions (spaCy, scispaCy, entity linker), and the UMLS release used for pre-annotation are not preserved. Only the surviving acquisition queries (`provenance/source_selection_queries.tsv`) and the source identifiers of the 821 reviewed documents are released. This limitation affects historical provenance but not the reuse of the reviewed corpus: the released annotation layer, splits, evaluator, and benchmark scripts can be inspected and re-run independently of the source-retrieval pipeline.
+
 ## Documentation
 
 The `docs/` directory contains the release-facing dataset policy, annotation guidelines, data format specification, label mapping note, evaluation definition, and release manifest.

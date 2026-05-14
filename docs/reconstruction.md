@@ -125,6 +125,33 @@ Use `--validate-brat` only if you also generated or supplied reconstructed BRAT 
 
 The `work/reconstructed/` directory is a local working directory and is not part of the public archive.
 
+## Worked Example: Reconstructing One Record
+
+This example walks through one text-excluded record end-to-end. Replace the placeholder `<DOC_ID>` with any `doc_id` whose row in `provenance/reports/reconstruction_sources.tsv` has `text_redistribution_status = excluded`.
+
+1. **Look up the source.** Open `provenance/reports/reconstruction_sources.tsv`, find the row for `<DOC_ID>`, and read the `doi`, `pmid`, `pmcid`, `pmc_url`, `europe_pmc_url`, and `source_url` columns. Read also `normalized_document_sha256` (the target checksum) and the licensing notes on that row.
+
+2. **Retrieve the abstract text** from the first lawful source in the order above (DOI → PubMed → PMC/Europe PMC → publisher page). Copy the abstract text only — not the full article body, not figure captions, not metadata. Save as UTF-8 to:
+
+   ```text
+   /path/to/local/reconstructed_abstracts/<DOC_ID>.txt
+   ```
+
+3. **Validate the per-record checksum** before running the builder. The expected checksum is the value in the `normalized_document_sha256` column for that row:
+
+   ```bash
+   python3 -c "import hashlib,sys; print(hashlib.sha256(open(sys.argv[1],'rb').read()).hexdigest())" \
+     /path/to/local/reconstructed_abstracts/<DOC_ID>.txt
+   ```
+
+   The printed checksum must equal the `normalized_document_sha256` value. If it does not match, do not modify the text by hand: re-retrieve from the source, preserving original Unicode, line breaks, and whitespace exactly.
+
+4. **Run the builder** as shown above. The output `work/reconstructed/t2know-core-v1.0/metadata/reconstruction_report.json` will show `status: ok` for `<DOC_ID>`, or one of the failure statuses listed below.
+
+5. **Run the validator** (`scripts/validate_reconstructed_core.py`) to confirm offsets align with the released annotations for that record.
+
+If step 3 cannot be made to match the released checksum, treat `<DOC_ID>` as annotation/provenance-only and do not include it in text-based training or evaluation.
+
 ## Failure Handling
 
 The builder writes `metadata/reconstruction_report.json` in the output directory. A successful full reconstruction has zero failures. Common failure statuses are:

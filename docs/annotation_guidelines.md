@@ -188,17 +188,18 @@ Redundant overlap example:
 - `Huntington's disease` -> annotate the full disease mention
 - do not separately annotate `disease` with the same meaning
 
-## Multi-label policy
+## Same-span multi-label admissibility
 
-Same-span multi-label annotation is allowed, but only when both labels add non-redundant semantic information.
+Each additional label assigned to the same character span must be backed by a textual cue in the local sentence or in the surrounding document context. Same-span multi-label annotation is not used merely because a UMLS concept can belong to multiple semantic types; external ontological membership alone is **prohibited** as the sole justification.
 
-Use multiple labels for the same span only when:
-- the exact same span truly carries multiple semantic roles,
-- both labels are justified by context,
-- and removing one label would lose information.
-- the reviewed context supports independently useful label readings under the released guideline.
+A second (or third) label on the same span is admissible only when **all** of the following hold:
 
-Same-span multi-label annotation is not used merely because a UMLS concept can belong to multiple semantic types. In particular, not all gene/protein/substance ontology relations are multi-labeled: same-span multi-labeling requires non-redundant, context-supported roles, and the local context must support each role independently.
+- the same span truly carries multiple semantic roles in the local context,
+- each role is supported by an overt cue in the same sentence or in the surrounding abstract (gene cues: *locus*, *transcript*, *allele*, *exon*, *promoter*, *mutation*, *expression*; protein/substance cues: *phosphorylates*, *cleaves*, *binds*, *inhibits*, *agonist*, *antagonist*, *ligand*, *signalling*, *biomarker*; activity cues: *patient care*, *diagnostic*, *treatment*, *clinical practice* versus *experimental*, *assay*, *cohort study*, *clinical trial*),
+- removing the second label would discard a non-redundant biomedical interpretation that a reader could reasonably want to recover,
+- and one label is not merely a broader restatement of the other.
+
+In particular, not all gene/protein/substance ontology relations are multi-labelled: same-span multi-labelling requires non-redundant, context-supported roles, and the local context must support each role independently. When local cues support only one role, the span is single-labelled even if the surface form has multiple ontological memberships in general biomedical knowledge.
 
 Examples:
 - `pathological disorders` -> `PathologicFunction` + `DiseaseOrSyndrome`
