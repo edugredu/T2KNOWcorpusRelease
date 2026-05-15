@@ -20,6 +20,8 @@ Citation metadata is provided in `CITATION.cff` with the immutable Zenodo versio
 
 Canonical new-user entry point: `data/t2know-core-v1.0/`. The official benchmark entry point is `data/t2know-core-v1.0/document_disjoint_hybrid/`; here, `hybrid` means text-included plus text-excluded/reconstructable records in the same official split representation, not synthetic mixing.
 
+> **Important.** Only the files in `data/t2know-core-v1.0/document_disjoint_hybrid/` define the official benchmark and headline corpus statistics. Auxiliary, balanced, legacy, synthetic, and compatibility files distributed elsewhere in the archive must not be used for headline corpus or benchmark claims.
+
 
 The canonical resource described in the paper is **T2KNOW-Core v1.0**: the 821-abstract reviewed corpus represented by the document-disjoint recommended benchmark split and a text-included public BRAT inspection export.
 
